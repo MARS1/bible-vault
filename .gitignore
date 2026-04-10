@@ -1,0 +1,17 @@
+# Credentials — NEVER commit
+_credentials/
+.credentials/
+secrets/
+*.key
+*.pem
+*.secret
+.env
+.env.*
+
+# System
+.DS_Store
+Thumbs.db
+
+# Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
