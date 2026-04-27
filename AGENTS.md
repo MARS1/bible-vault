@@ -1,40 +1,40 @@
-# BIBLE Vault
+# Agent Instructions
 
-> Bible study vault — Scripture, theology, commentary, and spiritual growth.
-> AI context file for all AI assistants.
+This project uses **bd** (beads) for issue tracking. Run `bd prime` for full workflow context.
 
-**Type:** Obsidian vault — research and personal study
+## Quick Reference
 
-## Notion
+```bash
+bd ready              # Find available work
+bd show <id>          # View issue details
+bd update <id> --claim  # Claim work atomically
+bd close <id>         # Complete work
+bd dolt push          # Push beads data to remote
+```
 
-**Bible Notion:** https://www.notion.so/Bible-33e3d8e1370080ca8bffde572463c38a
-**All project Notion URLs:** See `KodeArk/notion-directories.md`
+## Non-Interactive Shell Commands
 
-## Location
+**ALWAYS use non-interactive flags** with file operations to avoid hanging on confirmation prompts.
 
-`/Volumes/VM/OBSIDIAN/BIBLE/`
+Shell commands like `cp`, `mv`, and `rm` may be aliased to include `-i` (interactive) mode on some systems, causing the agent to hang indefinitely waiting for y/n input.
 
-## Structure
+**Use these forms instead:**
+```bash
+# Force overwrite without prompting
+cp -f source dest           # NOT: cp source dest
+mv -f source dest           # NOT: mv source dest
+rm -f file                  # NOT: rm file
 
-| Folder | Purpose |
-|--------|---------|
-| `00-Inbox/` | Raw captures, quick notes, devotional thoughts |
-| `01-Old-Testament/` | Old Testament books, commentary, notes |
-| `02-New-Testament/` | New Testament books, commentary, notes |
-| `03-Theology/` | Doctrine, theology, systematic study |
-| `04-Characters/` | Bible people — studies, timelines, relationships |
-| `05-References/` | Cross-references, maps, dictionaries, tools |
-| `06-Archive/` | Completed or superseded notes |
-| `_templates/` | Note templates |
+# For recursive operations
+rm -rf directory            # NOT: rm -r directory
+cp -rf source dest          # NOT: cp -r source dest
+```
 
-## Rules
-
-- NEVER create files unless explicitly asked
-- Prefer editing existing files over creating new ones
-- Use `[[wiki links]]` for internal cross-references
-- Follow the frontmatter standard in LLM-CONTEXT-GUIDE.md
-- Cross-reference with [[MARKETING]], [[MARS-LIFE]] for spiritual/practical integration
-
+**Other commands that may prompt:**
+- `scp` - use `-o BatchMode=yes` for non-interactive
+- `ssh` - use `-o BatchMode=yes` to fail instead of prompting
+- `apt-get` - use `-y` flag
+- `brew` - use `HOMEBREW_NO_AUTO_UPDATE=1` env var
 
 <!-- BEGIN BEADS INTEGRATION v:1 profile:minimal hash:ca08a54f -->
 ## Beads Issue Tracker
