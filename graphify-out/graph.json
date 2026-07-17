@@ -1,0 +1,439 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "sort-inbox.py",
+      "file_type": "code",
+      "source_file": "sort-inbox.py",
+      "source_location": "L1",
+      "id": "sort_inbox_py",
+      "community": 3,
+      "norm_label": "sort-inbox.py"
+    },
+    {
+      "label": "read_frontmatter()",
+      "file_type": "code",
+      "source_file": "sort-inbox.py",
+      "source_location": "L131",
+      "id": "bible_sort_inbox_read_frontmatter",
+      "community": 3,
+      "norm_label": "read_frontmatter()"
+    },
+    {
+      "label": "route_file()",
+      "file_type": "code",
+      "source_file": "sort-inbox.py",
+      "source_location": "L144",
+      "id": "bible_sort_inbox_route_file",
+      "community": 3,
+      "norm_label": "route_file()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "sort-inbox.py",
+      "source_location": "L173",
+      "id": "bible_sort_inbox_main",
+      "community": 3,
+      "norm_label": "main()"
+    },
+    {
+      "label": "Bible Study Vault",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "vault",
+      "community": 0,
+      "norm_label": "bible study vault",
+      "id": "bible_study_vault"
+    },
+    {
+      "label": "Scripture Study & Analysis",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "domain",
+      "community": 0,
+      "norm_label": "scripture study & analysis",
+      "id": "scripture_study"
+    },
+    {
+      "label": "Theology & Doctrine",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "domain",
+      "community": 0,
+      "norm_label": "theology & doctrine",
+      "id": "theology"
+    },
+    {
+      "label": "Character Study",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "domain",
+      "community": 0,
+      "norm_label": "character study",
+      "id": "character_study"
+    },
+    {
+      "label": "Devotional Practice & Reflection",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "domain",
+      "community": 0,
+      "norm_label": "devotional practice & reflection",
+      "id": "devotional_practice"
+    },
+    {
+      "label": "Old Testament",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "scripture_section",
+      "community": 2,
+      "norm_label": "old testament",
+      "id": "old_testament"
+    },
+    {
+      "label": "New Testament",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "scripture_section",
+      "community": 1,
+      "norm_label": "new testament",
+      "id": "new_testament"
+    },
+    {
+      "label": "Pentateuch (Genesis-Deuteronomy)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group",
+      "community": 2,
+      "norm_label": "pentateuch (genesis-deuteronomy)",
+      "id": "pentateuch"
+    },
+    {
+      "label": "Historical Books (Joshua-Esther)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group",
+      "community": 2,
+      "norm_label": "historical books (joshua-esther)",
+      "id": "historical_books"
+    },
+    {
+      "label": "Wisdom Books (Job, Psalms, Proverbs, Ecclesiastes, Song)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group",
+      "community": 2,
+      "norm_label": "wisdom books (job, psalms, proverbs, ecclesiastes, song)",
+      "id": "wisdom_books"
+    },
+    {
+      "label": "Prophetic Books (Isaiah-Malachi)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group",
+      "community": 2,
+      "norm_label": "prophetic books (isaiah-malachi)",
+      "id": "prophetic_books"
+    },
+    {
+      "label": "Gospels (Matthew, Mark, Luke, John)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group",
+      "community": 1,
+      "norm_label": "gospels (matthew, mark, luke, john)",
+      "id": "gospels"
+    },
+    {
+      "label": "Acts",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group",
+      "community": 1,
+      "norm_label": "acts",
+      "id": "acts_book"
+    },
+    {
+      "label": "Pauline Epistles (Romans-Philemon)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group",
+      "community": 1,
+      "norm_label": "pauline epistles (romans-philemon)",
+      "id": "pauline_epistles"
+    },
+    {
+      "label": "General Epistles (Hebrews-Jude)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group",
+      "community": 1,
+      "norm_label": "general epistles (hebrews-jude)",
+      "id": "general_epistles"
+    },
+    {
+      "label": "Revelation",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group",
+      "community": 1,
+      "norm_label": "revelation",
+      "id": "revelation"
+    },
+    {
+      "label": "Systematic Theology",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "topic",
+      "community": 0,
+      "norm_label": "systematic theology",
+      "id": "systematic_theology"
+    },
+    {
+      "label": "Cross-References & Tools",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "reference",
+      "community": 0,
+      "norm_label": "cross-references & tools",
+      "id": "cross_references"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sort-inbox.py",
+      "source_location": "L131",
+      "weight": 1.0,
+      "_src": "sort_inbox_py",
+      "_tgt": "bible_sort_inbox_read_frontmatter",
+      "source": "sort_inbox_py",
+      "target": "bible_sort_inbox_read_frontmatter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sort-inbox.py",
+      "source_location": "L144",
+      "weight": 1.0,
+      "_src": "sort_inbox_py",
+      "_tgt": "bible_sort_inbox_route_file",
+      "source": "sort_inbox_py",
+      "target": "bible_sort_inbox_route_file",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sort-inbox.py",
+      "source_location": "L173",
+      "weight": 1.0,
+      "_src": "sort_inbox_py",
+      "_tgt": "bible_sort_inbox_main",
+      "source": "sort_inbox_py",
+      "target": "bible_sort_inbox_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "sort-inbox.py",
+      "source_location": "L185",
+      "weight": 1.0,
+      "_src": "bible_sort_inbox_main",
+      "_tgt": "bible_sort_inbox_read_frontmatter",
+      "source": "bible_sort_inbox_read_frontmatter",
+      "target": "bible_sort_inbox_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "sort-inbox.py",
+      "source_location": "L186",
+      "weight": 1.0,
+      "_src": "bible_sort_inbox_main",
+      "_tgt": "bible_sort_inbox_route_file",
+      "source": "bible_sort_inbox_route_file",
+      "target": "bible_sort_inbox_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relationship": "contains",
+      "confidence": 1.0,
+      "_src": "bible_study_vault",
+      "_tgt": "scripture_study",
+      "confidence_score": 1.0,
+      "source": "bible_study_vault",
+      "target": "scripture_study"
+    },
+    {
+      "relationship": "contains",
+      "confidence": 1.0,
+      "_src": "bible_study_vault",
+      "_tgt": "theology",
+      "confidence_score": 1.0,
+      "source": "bible_study_vault",
+      "target": "theology"
+    },
+    {
+      "relationship": "contains",
+      "confidence": 1.0,
+      "_src": "bible_study_vault",
+      "_tgt": "character_study",
+      "confidence_score": 1.0,
+      "source": "bible_study_vault",
+      "target": "character_study"
+    },
+    {
+      "relationship": "contains",
+      "confidence": 1.0,
+      "_src": "bible_study_vault",
+      "_tgt": "devotional_practice",
+      "confidence_score": 1.0,
+      "source": "bible_study_vault",
+      "target": "devotional_practice"
+    },
+    {
+      "relationship": "includes",
+      "confidence": 1.0,
+      "_src": "scripture_study",
+      "_tgt": "old_testament",
+      "confidence_score": 1.0,
+      "source": "scripture_study",
+      "target": "old_testament"
+    },
+    {
+      "relationship": "includes",
+      "confidence": 1.0,
+      "_src": "scripture_study",
+      "_tgt": "new_testament",
+      "confidence_score": 1.0,
+      "source": "scripture_study",
+      "target": "new_testament"
+    },
+    {
+      "relationship": "uses",
+      "confidence": 1.0,
+      "_src": "scripture_study",
+      "_tgt": "cross_references",
+      "confidence_score": 1.0,
+      "source": "scripture_study",
+      "target": "cross_references"
+    },
+    {
+      "relationship": "applies_to",
+      "confidence": 1.0,
+      "_src": "scripture_study",
+      "_tgt": "character_study",
+      "confidence_score": 1.0,
+      "source": "scripture_study",
+      "target": "character_study"
+    },
+    {
+      "relationship": "includes",
+      "confidence": 1.0,
+      "_src": "theology",
+      "_tgt": "systematic_theology",
+      "confidence_score": 1.0,
+      "source": "theology",
+      "target": "systematic_theology"
+    },
+    {
+      "relationship": "informed_by",
+      "confidence": 1.0,
+      "_src": "theology",
+      "_tgt": "devotional_practice",
+      "confidence_score": 1.0,
+      "source": "theology",
+      "target": "devotional_practice"
+    },
+    {
+      "relationship": "contains",
+      "confidence": 1.0,
+      "_src": "old_testament",
+      "_tgt": "pentateuch",
+      "confidence_score": 1.0,
+      "source": "old_testament",
+      "target": "pentateuch"
+    },
+    {
+      "relationship": "contains",
+      "confidence": 1.0,
+      "_src": "old_testament",
+      "_tgt": "historical_books",
+      "confidence_score": 1.0,
+      "source": "old_testament",
+      "target": "historical_books"
+    },
+    {
+      "relationship": "contains",
+      "confidence": 1.0,
+      "_src": "old_testament",
+      "_tgt": "wisdom_books",
+      "confidence_score": 1.0,
+      "source": "old_testament",
+      "target": "wisdom_books"
+    },
+    {
+      "relationship": "contains",
+      "confidence": 1.0,
+      "_src": "old_testament",
+      "_tgt": "prophetic_books",
+      "confidence_score": 1.0,
+      "source": "old_testament",
+      "target": "prophetic_books"
+    },
+    {
+      "relationship": "contains",
+      "confidence": 1.0,
+      "_src": "new_testament",
+      "_tgt": "gospels",
+      "confidence_score": 1.0,
+      "source": "new_testament",
+      "target": "gospels"
+    },
+    {
+      "relationship": "contains",
+      "confidence": 1.0,
+      "_src": "new_testament",
+      "_tgt": "acts_book",
+      "confidence_score": 1.0,
+      "source": "new_testament",
+      "target": "acts_book"
+    },
+    {
+      "relationship": "contains",
+      "confidence": 1.0,
+      "_src": "new_testament",
+      "_tgt": "pauline_epistles",
+      "confidence_score": 1.0,
+      "source": "new_testament",
+      "target": "pauline_epistles"
+    },
+    {
+      "relationship": "contains",
+      "confidence": 1.0,
+      "_src": "new_testament",
+      "_tgt": "general_epistles",
+      "confidence_score": 1.0,
+      "source": "new_testament",
+      "target": "general_epistles"
+    },
+    {
+      "relationship": "contains",
+      "confidence": 1.0,
+      "_src": "new_testament",
+      "_tgt": "revelation",
+      "confidence_score": 1.0,
+      "source": "new_testament",
+      "target": "revelation"
+    }
+  ],
+  "hyperedges": []
+}

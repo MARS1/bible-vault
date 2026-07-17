@@ -1,0 +1,249 @@
+{
+  "nodes": [
+    {
+      "id": "bible_study_vault",
+      "label": "Bible Study Vault",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "vault"
+    },
+    {
+      "id": "scripture_study",
+      "label": "Scripture Study & Analysis",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "domain"
+    },
+    {
+      "id": "theology",
+      "label": "Theology & Doctrine",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "domain"
+    },
+    {
+      "id": "character_study",
+      "label": "Character Study",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "domain"
+    },
+    {
+      "id": "devotional_practice",
+      "label": "Devotional Practice & Reflection",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "domain"
+    },
+    {
+      "id": "old_testament",
+      "label": "Old Testament",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "scripture_section"
+    },
+    {
+      "id": "new_testament",
+      "label": "New Testament",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "scripture_section"
+    },
+    {
+      "id": "pentateuch",
+      "label": "Pentateuch (Genesis-Deuteronomy)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group"
+    },
+    {
+      "id": "historical_books",
+      "label": "Historical Books (Joshua-Esther)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group"
+    },
+    {
+      "id": "wisdom_books",
+      "label": "Wisdom Books (Job, Psalms, Proverbs, Ecclesiastes, Song)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group"
+    },
+    {
+      "id": "prophetic_books",
+      "label": "Prophetic Books (Isaiah-Malachi)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group"
+    },
+    {
+      "id": "gospels",
+      "label": "Gospels (Matthew, Mark, Luke, John)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group"
+    },
+    {
+      "id": "acts_book",
+      "label": "Acts",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group"
+    },
+    {
+      "id": "pauline_epistles",
+      "label": "Pauline Epistles (Romans-Philemon)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group"
+    },
+    {
+      "id": "general_epistles",
+      "label": "General Epistles (Hebrews-Jude)",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group"
+    },
+    {
+      "id": "revelation",
+      "label": "Revelation",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "book_group"
+    },
+    {
+      "id": "systematic_theology",
+      "label": "Systematic Theology",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "topic"
+    },
+    {
+      "id": "cross_references",
+      "label": "Cross-References & Tools",
+      "file_type": "document",
+      "confidence": 1.0,
+      "entity_type": "reference"
+    }
+  ],
+  "edges": [
+    {
+      "source": "bible_study_vault",
+      "target": "scripture_study",
+      "relationship": "contains",
+      "confidence": 1.0
+    },
+    {
+      "source": "bible_study_vault",
+      "target": "theology",
+      "relationship": "contains",
+      "confidence": 1.0
+    },
+    {
+      "source": "bible_study_vault",
+      "target": "character_study",
+      "relationship": "contains",
+      "confidence": 1.0
+    },
+    {
+      "source": "bible_study_vault",
+      "target": "devotional_practice",
+      "relationship": "contains",
+      "confidence": 1.0
+    },
+    {
+      "source": "scripture_study",
+      "target": "old_testament",
+      "relationship": "includes",
+      "confidence": 1.0
+    },
+    {
+      "source": "scripture_study",
+      "target": "new_testament",
+      "relationship": "includes",
+      "confidence": 1.0
+    },
+    {
+      "source": "scripture_study",
+      "target": "cross_references",
+      "relationship": "uses",
+      "confidence": 1.0
+    },
+    {
+      "source": "old_testament",
+      "target": "pentateuch",
+      "relationship": "contains",
+      "confidence": 1.0
+    },
+    {
+      "source": "old_testament",
+      "target": "historical_books",
+      "relationship": "contains",
+      "confidence": 1.0
+    },
+    {
+      "source": "old_testament",
+      "target": "wisdom_books",
+      "relationship": "contains",
+      "confidence": 1.0
+    },
+    {
+      "source": "old_testament",
+      "target": "prophetic_books",
+      "relationship": "contains",
+      "confidence": 1.0
+    },
+    {
+      "source": "new_testament",
+      "target": "gospels",
+      "relationship": "contains",
+      "confidence": 1.0
+    },
+    {
+      "source": "new_testament",
+      "target": "acts_book",
+      "relationship": "contains",
+      "confidence": 1.0
+    },
+    {
+      "source": "new_testament",
+      "target": "pauline_epistles",
+      "relationship": "contains",
+      "confidence": 1.0
+    },
+    {
+      "source": "new_testament",
+      "target": "general_epistles",
+      "relationship": "contains",
+      "confidence": 1.0
+    },
+    {
+      "source": "new_testament",
+      "target": "revelation",
+      "relationship": "contains",
+      "confidence": 1.0
+    },
+    {
+      "source": "theology",
+      "target": "systematic_theology",
+      "relationship": "includes",
+      "confidence": 1.0
+    },
+    {
+      "source": "character_study",
+      "target": "scripture_study",
+      "relationship": "applies_to",
+      "confidence": 1.0
+    },
+    {
+      "source": "devotional_practice",
+      "target": "theology",
+      "relationship": "informed_by",
+      "confidence": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

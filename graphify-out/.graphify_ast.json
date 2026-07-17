@@ -1,0 +1,108 @@
+{
+  "nodes": [
+    {
+      "id": "sort_inbox_py",
+      "label": "sort-inbox.py",
+      "file_type": "code",
+      "source_file": "sort-inbox.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "bible_sort_inbox_read_frontmatter",
+      "label": "read_frontmatter()",
+      "file_type": "code",
+      "source_file": "sort-inbox.py",
+      "source_location": "L131"
+    },
+    {
+      "id": "bible_sort_inbox_route_file",
+      "label": "route_file()",
+      "file_type": "code",
+      "source_file": "sort-inbox.py",
+      "source_location": "L144"
+    },
+    {
+      "id": "bible_sort_inbox_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "sort-inbox.py",
+      "source_location": "L173"
+    }
+  ],
+  "edges": [
+    {
+      "source": "sort_inbox_py",
+      "target": "os",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "sort-inbox.py",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "sort_inbox_py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "sort-inbox.py",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "sort_inbox_py",
+      "target": "shutil",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "sort-inbox.py",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "sort_inbox_py",
+      "target": "bible_sort_inbox_read_frontmatter",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sort-inbox.py",
+      "source_location": "L131",
+      "weight": 1.0
+    },
+    {
+      "source": "sort_inbox_py",
+      "target": "bible_sort_inbox_route_file",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sort-inbox.py",
+      "source_location": "L144",
+      "weight": 1.0
+    },
+    {
+      "source": "sort_inbox_py",
+      "target": "bible_sort_inbox_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sort-inbox.py",
+      "source_location": "L173",
+      "weight": 1.0
+    },
+    {
+      "source": "bible_sort_inbox_main",
+      "target": "bible_sort_inbox_read_frontmatter",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "sort-inbox.py",
+      "source_location": "L185",
+      "weight": 1.0
+    },
+    {
+      "source": "bible_sort_inbox_main",
+      "target": "bible_sort_inbox_route_file",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "sort-inbox.py",
+      "source_location": "L186",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

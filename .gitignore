@@ -20,3 +20,6 @@ Thumbs.db
 .dolt/
 *.db
 .beads-credential-key
+
+# end-session lock files
+.claude/.end-session-*
