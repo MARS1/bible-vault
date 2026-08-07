@@ -1,0 +1,54 @@
+---
+title: "Eschatology Framework — Convictions"
+type: theology
+category: theology
+tags: [eschatology, preterism, convictions, revelation, millennium]
+reference: Revelation 20; Revelation 12; Revelation 22:18-19; Genesis 1:6-8; Genesis 6:1-4; Matthew 4:8-10
+created: 2026-08-06
+status: active
+related: "[[00-index]], [[03-hypotheses]], [[04-open-questions]]"
+---
+
+# Convictions
+
+What I currently hold as true. Split into explicit biblical teaching vs. my present synthesis of how those teachings fit together — see [[00-index]] for why that split matters.
+
+## A. Explicit Biblical Teachings
+
+1. Yeshua is the Messiah, King of kings, and Lord of lords.
+2. His death, resurrection, and exaltation defeated Satan's claim over mankind (Colossians 2:15; Hebrews 2:14).
+3. Revelation 20:1–10 describes Satan bound for a thousand years, then released "for a little while" (v.3, KJV: "a little season") — after which he deceives the nations, gathers Gog and Magog, and is finally judged.
+4. Revelation closes with a solemn warning not to add to or take away from the words of the prophecy (Revelation 22:18–19).
+5. Genesis 1:6–8 — God created the firmament (Hebrew: *raqia*), separating the waters above from the waters below. Part of the biblical cosmological picture, taken seriously rather than dismissed as poetic filler.
+6. Scripture describes the Nephilim (Genesis 6:1–4) and later refers to giants in the land (Numbers 13:33) — real events in biblical history.
+7. Revelation 12:3–9 — the dragon's tail sweeps down a third of the stars of heaven; later in the same chapter, war breaks out in heaven and Satan and his angels are cast down to earth.
+8. Satan tempted Yeshua by offering him "all the kingdoms of the world and their glory" if he would worship him (Matthew 4:8–10; Luke 4:5–8) — meaning Satan exercised real authority over the kingdoms he was offering, at that point in the timeline.
+
+9. Jesus commanded his followers to take the gospel to the world. The core Great Commission texts: "All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe everything I have commanded you... to the very end of the age" (Matthew 28:18–20); "Go into all the world and preach the gospel to every creature. Whoever believes and is baptized will be saved, but whoever does not believe will be condemned" (Mark 16:15–16 — note: Mark 16:9–20 is absent from some of the earliest Greek manuscripts; held as Scripture here, but the textual question is worth keeping attached to the citation, not hidden); "repentance for the forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem" (Luke 24:46–49); "As the Father has sent me, even so I am sending you" (John 20:21); "you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the end of the earth" (Acts 1:8). Jesus tied the proclamation to the end: "this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come" (Matthew 24:14; also Mark 13:10). Before the resurrection he had already sent the Twelve on a limited mission (Matthew 10:5–14; Luke 9:1–6) and the seventy ahead of him (Luke 10:1–12).
+
+10. Paul describes the gospel as having already reached global scope within the apostolic generation: "the gospel... has come to you, as indeed in the whole world it is bearing fruit" (Colossians 1:6); "the gospel... has been proclaimed in all creation under heaven" (Colossians 1:23); "their voice has gone out to all the earth" (Romans 10:18); the gospel "has now been disclosed... to all nations" (Romans 16:25–26). These are the texts the preterist reading leans on to argue the Great Commission was substantially fulfilled within that generation — see [[04-open-questions]] for the unresolved tension against Matthew 28:20's "to the very end of the age."
+
+11. Yeshua's name carries his mission in its meaning: "you shall call his name Yeshua, for he will save his people from their sins" (Matthew 1:21). Yeshua is the Hebrew/Aramaic form connected to the earlier Yehoshua (Joshua), rooted in *yasha'* ("to save") — the same name the Septuagint rendered as *Iēsous*, later used for Yeshua of Nazareth. *Christos* ("anointed one") corresponds to the Hebrew *Mashiach* — different languages, same person, same office.
+
+12. The covenant promise was never limited to one ethnic group: "In you all the families of the earth shall be blessed" (Genesis 12:3). Ruth, a Moabite, entered Israel through faith — "Your people shall be my people, and your God my God" (Ruth 1:16) — and became an ancestor of David and, through his line, the Messiah. Joseph married Asenath (an Egyptian); Moses married Zipporah (a Midianite). Paul describes Gentile believers as a "wild olive shoot... grafted in among the others," sharing the root, and warns them not to boast against the natural branches (Romans 11:17). Ezekiel foretold Israel's restoration into one nation under one king (Ezekiel 37:22).
+
+13. The Ruach HaKodesh (Holy Spirit) teaches and guides believers: "The Spirit searches all things, even the deep things of God" (1 Corinthians 2:10); "we have the mind of Messiah" (1 Corinthians 2:16); "the Helper, the Ruach HaKodesh... will teach you all things" (John 14:26); "when the Spirit of truth comes, he will guide you into all truth" (John 16:13). Joel prophesied the Spirit poured out "on all flesh" (Joel 2:28), which Peter identifies as fulfilled at Pentecost (Acts 2:17–18).
+
+14. Yeshua said, "I saw Satan fall like lightning from heaven" (Luke 10:18) — additional support, alongside Revelation 12 (item 7), for reading Satan's fall as tied to the Messiah's earthly ministry and victory rather than a purely future event.
+
+15. Scripture calls for active testing, not passive acceptance or reflexive rejection: "Test all things; hold fast what is good" (1 Thessalonians 5:21). Paul's question — "who has known the mind of the Lord, or who has been his counselor?" (Romans 11:34) — grounds that testing in humility about the limits of human understanding.
+
+## B. My Present Understanding (synthesis, not direct quotation)
+
+These are conclusions drawn *from* the passages above — held as convictions, but explicitly labeled as interpretation rather than verbatim text.
+
+1. I read Revelation 12's war in heaven as connected to Christ's victory through his death, resurrection, and exaltation — i.e., that event anchors *when* Satan and a third of the angels were cast down, not some other point in the timeline. (Supporting question: Satan's Matthew 4 offer of "all the kingdoms" only makes sense if he still held that authority *before* the cross — which places the Revelation 12 casting-down at or after the resurrection, not earlier. See [[04-open-questions]] for what's still unresolved here.)
+2. I read Revelation 20's millennium as having already occurred. We are currently living in the "little season" after Satan's release (Revelation 20:3, 7–10).
+3. I believe the biblical timeline is internally coherent and can be reconciled — Scripture interpreting Scripture — rather than requiring an external chronology to make sense.
+4. I believe the books of Enoch, Jasher, and Jubilees contain valuable historical and theological material that helps illuminate parts of Scripture, even though they sit outside the canon I normally read. (I don't extend that same confidence to the Gospel of Thomas or the Gospel of Judas — I hold those as inauthentic; that's a separate study, not covered here.)
+
+5. I prefer the term **Messianic Israelite** for my own identity — not to reject people who call themselves Christian, and not to win a label debate, but because it foregrounds the covenant continuity in item A.12 above (Israel, the nations grafted in, the Messiah as fulfillment) more directly than other terms do. My trust is in Yahweh, Yeshua HaMashiach, and the Ruach HaKodesh — not in the label itself. This isn't about defending a position; it's about tracing what Yahweh has taught through years of study and testing it against Scripture.
+
+## Note on Origin
+
+This framework did not start from reading preterist theologians and adopting their label. It started from trying to reconcile specific passages — Matthew 24:34 ("this generation will not pass away..."), Colossians 1:6 and 1:23 (the gospel already proclaimed "to every creature under heaven"), Romans 10:18, and Revelation 20 — and only afterward discovering "preterism" was already a name for that general reading. Worth keeping on record because it's the honest answer to "how did you arrive at this," and it's a stronger answer than citing an author who was never actually the source.
