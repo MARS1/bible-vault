@@ -93,3 +93,9 @@ This is the case study that proved the method is needed — worth keeping as a p
 This is the model for testing every future claim in [[03-hypotheses]] and every verse promoted into [[01-convictions]]: don't cherry-pick the side that fits the theory being defended; ask what a hostile, careful reader would say survives.
 
 See ADR-0002 (`docs/adr/`) for this as a formal methodology decision.
+
+## Translation & Textual-Source Policy
+
+Full policy in ADR-0003 (`docs/adr/`). Summary: three translations quoted per verse going forward — **CJB** (primary, Hebrew/Jewish context) → **ESV** (English cross-reference) → **RVR1960** (Spanish witness, since the eventual compiled document exists in Spanish too). When a question turns on exact wording or a specific term, go to the underlying Hebrew/Aramaic/Greek first — no single translation, including RVR1960, settles what the source text says. Existing [[05-scripture-index]] entries are being backfilled with RVR1960; new entries get all three from creation.
+
+For the fuller working-out of the worked example above (Yeshua's Israel-focused earthly ministry, the Canaanite/Syrophoenician woman, Cornelius, the Jerusalem council, Paul's Gentile commission, and the covenant-continuity thread it all sits inside), see [[00c-commission-covenant-investigation]].

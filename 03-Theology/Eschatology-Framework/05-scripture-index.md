@@ -102,6 +102,61 @@ ESV: "She will bear a son, and you shall call his name Jesus, for he will save h
 **Matthew 15:24** — Yeshua's Israel-focused earthly mission, worked example in [[00b-biblical-epistemology]]
 CJB: "I was sent only to the lost sheep of the house of Isra'el." / ESV: same.
 
+**Matthew 15:22–28** — the Canaanite woman, full episode, see [[00c-commission-covenant-investigation]] §1
+CJB: "He said, 'I was sent only to the lost sheep of the house of Isra'el.'... 'Lady, you are a person of great trust. Let your desire be granted.' And her daughter was healed at that very moment."
+ESV: "He answered, 'I was sent only to the lost sheep of the house of Israel.'... 'O woman, great is your faith! Let it be done for you as you desire.' And her daughter was healed instantly."
+RVR1960: "Él respondiendo, dijo: No soy enviado sino a las ovejas perdidas de la casa de Israel... Oh mujer, grande es tu fe; hágase contigo como quieres. Y su hija fue sanada desde aquella hora."
+
+**Mark 7:24–30** — the same episode from Mark, explicit Gentile identification
+ESV: "Now the woman was a Gentile, a Syrophoenician by birth... 'For this statement you may go your way; the demon has left your daughter.'"
+CJB: "The woman was a Greek, by birth a Syro-phoenician... 'For such an answer you may go on home; the demon has left your daughter.'"
+RVR1960: "La mujer era griega, y sirofenicia de nación... Por esta palabra, ve; el demonio ha salido de tu hija."
+
+**Mark 16:17–20** — extends Mark 16:15–16 above (same manuscript caveat applies)
+ESV: "these signs will accompany those who believe... the Lord worked with them and confirmed the message by accompanying signs."
+CJB: "these signs will accompany those who do trust... the Lord working with them and confirming the message by the accompanying signs."
+RVR1960: "estas señales seguirán a los que creen... el Señor... confirmando la palabra con las señales que la seguían."
+
+**Luke 24:44–45** — extends Luke 24:46–49 above; the nations-commission is framed as fulfillment, not departure
+ESV: "everything written about me in the Law of Moses and the Prophets and the Psalms must be fulfilled. Then he opened their minds to understand the Scriptures"
+CJB: "everything written about me in the Torah of Moshe, the Prophets and the Psalms had to be fulfilled... he opened their minds, so that they could understand the Tanakh"
+RVR1960: "era necesario que se cumpliese todo lo que está escrito de mí en la ley de Moisés, en los profetas y en los salmos. Entonces les abrió el entendimiento, para que comprendiesen las Escrituras"
+
+**Acts 1:6–7** — extends Acts 1:8 above; the Israel-restoration question sits right next to the "ends of the earth" commission
+ESV: "'Lord, will you at this time restore the kingdom to Israel?' He said to them, 'It is not for you to know times or seasons that the Father has fixed by his own authority.'"
+CJB: "'Lord, are you at this time going to restore self-rule to Isra'el?' He answered, 'You don't need to know the dates or the times; the Father has kept these under his own authority.'"
+RVR1960: "Señor, ¿restaurarás el reino a Israel en este tiempo? Y les dijo: No os toca a vosotros saber los tiempos o las sazones, que el Padre puso en su sola potestad"
+
+**Acts 10:34–35** — Peter's realization, the formal turning point; see [[00c-commission-covenant-investigation]] §1
+ESV: "Truly I understand that God shows no partiality, but in every nation anyone who fears him and does what is right is acceptable to him."
+CJB: "God does not play favorites, but that whoever fears him and does what is right is acceptable to him, no matter what people he belongs to."
+RVR1960: "Dios no hace acepción de personas, sino que en toda nación se agrada del que le teme y hace justicia."
+
+**Acts 10:44–48** — the confirming sign, parallel to Pentecost
+ESV: "the Holy Spirit fell on all who heard the word... the gift of the Holy Spirit was poured out even on the Gentiles."
+CJB: "the Ruach HaKodesh fell on all who were hearing the message... the gift of the Ruach HaKodesh was also being poured out on the Goyim."
+RVR1960: "el Espíritu Santo cayó sobre todos los que oían el discurso... también sobre los gentiles se derramase el don del Espíritu Santo."
+
+**Acts 13:46–47** — Paul and Barnabas state the turn explicitly, grounded in Isaiah
+ESV: "we are turning to the Gentiles... 'I have made you a light for the Gentiles, that you may bring salvation to the ends of the earth.'"
+CJB: "we're turning to the Goyim!... 'I have set you as a light for the Goyim, to be for deliverance to the ends of the earth.'"
+RVR1960: "nos volvemos a los gentiles... Te he puesto para luz de los gentiles, A fin de que seas para salvación hasta lo último de la tierra."
+
+**Acts 15:7–11** — Jerusalem council, Peter recalls Cornelius
+ESV: "God, who knows the heart, bore witness to them, by giving them the Holy Spirit just as he did to us, and he made no distinction between us and them, having cleansed their hearts by faith."
+CJB: "he made no distinction between us and them, but cleansed their heart by trust."
+RVR1960: "ninguna diferencia hizo entre nosotros y ellos, purificando por la fe sus corazones."
+
+**Acts 15:19–20** — James's formal ruling
+ESV: "we should not trouble those of the Gentiles who turn to God, but should write to them to abstain from the things polluted by idols, and from sexual immorality, and from what has been strangled, and from blood."
+CJB: "we should not put obstacles in the way of the Goyim who are turning to God. Instead, we should write them a letter telling them to abstain from things polluted by idols, from fornication, from what is strangled and from blood."
+RVR1960: "no se inquiete a los gentiles que se convierten a Dios, sino que se les escriba que se aparten de las contaminaciones de los ídolos, de fornicación, de ahogado y de sangre."
+
+**Romans 1:16** — "Jew first, also Greek" — order without exclusion
+ESV: "the power of God for salvation to everyone who believes, to the Jew first and also to the Greek."
+CJB: "to the Jew especially, but equally to the Gentile."
+RVR1960: "poder de Dios para salvación a todo aquel que cree; al judío primeramente, y también al griego."
+
 **Matthew 8:5–13** — the Roman centurion, Gentile inclusion already anticipated within Yeshua's ministry
 CJB: "Yes! I tell you, I have not found anyone in Isra'el with such trust!... many will come from the east and from the west to take their places at the feast in the Kingdom of Heaven with Avraham, Yitz'chak and Ya'akov."
 ESV: "Truly, I tell you, with no one in Israel have I found such faith... many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven."

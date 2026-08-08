@@ -6,7 +6,7 @@ tags: [eschatology, preterism, framework, personal-study]
 reference: Revelation 20
 created: 2026-08-06
 status: active
-related: "[[00b-biblical-epistemology]], [[01-convictions]], [[02-historical-observations]], [[03-hypotheses]], [[04-open-questions]], [[05-scripture-index]], [[06-revelation-19-22-timeline]]"
+related: "[[00b-biblical-epistemology]], [[00c-commission-covenant-investigation]], [[01-convictions]], [[02-historical-observations]], [[03-hypotheses]], [[04-open-questions]], [[05-scripture-index]], [[06-revelation-19-22-timeline]]"
 ---
 
 > *"Do not quench the Spirit. Do not despise prophecies, but test everything; hold fast what is good."*
@@ -25,7 +25,9 @@ This is a **multi-session, multi-tranche project**. Content arrives in chunks (o
 
 ## Read This First
 
-[[00b-biblical-epistemology]] — how we know what we think we know, before getting into what we actually believe. Defines Biblical Epistemology and Contextual Exegesis, the 7-step test every passage should pass before it counts as an established conviction, and the Israel/Gentile commission question as the worked example that proved the method was necessary. See ADR-0002 (`docs/adr/`).
+[[00b-biblical-epistemology]] — how we know what we think we know, before getting into what we actually believe. Defines Biblical Epistemology and Contextual Exegesis, the 7-step test every passage should pass before it counts as an established conviction, and the translation/textual-source policy (CJB → ESV → RVR1960, original languages when wording matters). See ADR-0002 and ADR-0003 (`docs/adr/`).
+
+[[00c-commission-covenant-investigation]] — the full working-out of the Israel/Gentile commission question: Yeshua's Israel-focused earthly ministry, the Canaanite/Syrophoenician woman, the post-resurrection turn, Cornelius, the Jerusalem council, Paul's explicit Gentile apostleship, and the covenant-continuity thread it all sits inside. Directly answers whether the Great Commission can be read as "a command to every Christian" without erasing its actual context.
 
 ## The Four Boxes
 
@@ -65,16 +67,17 @@ Once the framework has enough substance, these markdown files compile to a singl
 
 ## Contents Snapshot (updated each merge)
 
-- Biblical Epistemology: methodology foundation, 7-step passage test — see [[00b-biblical-epistemology]]
+- Biblical Epistemology: methodology foundation, 7-step passage test, translation policy — see [[00b-biblical-epistemology]]
+- Commission & Covenant Investigation: full Israel/Gentile commission case — see [[00c-commission-covenant-investigation]]
 - Convictions: 17 explicit biblical teachings + 5 personal-synthesis items, now with a naming-convention note and an Israel/Gentile commission item — see [[01-convictions]]
 - Historical observations: 6 items, all sourced against mainstream archaeology/history with honest "overstated" callouts — see [[02-historical-observations]]
 - Hypotheses: 9 items, Tartaria/mud-flood/geocentrism origins sourced, item 9 (respawn) resolved as unsupported — see [[03-hypotheses]]
 - Open questions: 11 items — 2 resolved (respawn verse, believers'-location-during-millennium), 1 corrected (Solomon verse), 1 new (worship directed to Father vs. received by the Son, deliberately left open) — see [[04-open-questions]]
-- Scripture index: ~70 references across 11 themes, full CJB + ESV text for every citation — see [[05-scripture-index]]
+- Scripture index: ~80 references across 11 themes, CJB + ESV for all, RVR1960 backfill in progress — see [[05-scripture-index]]
 - Revelation 19–22 timeline: 9 sequence beats + 8 cross-referenced passages + 10 honest tensions/counter-readings — see [[06-revelation-19-22-timeline]]
-- 2 ADRs — epigraph convention, Biblical Epistemology methodology — see `docs/adr/`
+- 3 ADRs — epigraph convention, Biblical Epistemology methodology, translation/textual-source policy — see `docs/adr/`
 
-**Last research pass:** 2026-08-08 — Biblical Epistemology foundation added (Israel/Gentile commission worked example, 20 new sourced verses), plus the original 6-agent research pass (verse-text backfill, Rev 19-22 timeline, historical/hypotheses sourcing, open-questions verse hunt, worship-Father/Son Christology). Naming convention decided (Yeshua stays standard over YahuShua).
+**Last research pass:** 2026-08-08 — Commission & Covenant investigation (11 new verses: Canaanite woman, Cornelius, Jerusalem council, Romans 1:16), RVR1960 translation policy adopted + backfill dispatched, plus Biblical Epistemology foundation and the earlier 6-agent research pass. Naming convention decided (Yeshua stays standard over YahuShua).
 
 ---
 
