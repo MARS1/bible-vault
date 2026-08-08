@@ -6,14 +6,26 @@ tags: [eschatology, preterism, framework, personal-study]
 reference: Revelation 20
 created: 2026-08-06
 status: active
-related: "[[01-convictions]], [[02-historical-observations]], [[03-hypotheses]], [[04-open-questions]], [[05-scripture-index]]"
+related: "[[00b-biblical-epistemology]], [[01-convictions]], [[02-historical-observations]], [[03-hypotheses]], [[04-open-questions]], [[05-scripture-index]], [[06-revelation-19-22-timeline]]"
 ---
+
+> *"Do not quench the Spirit. Do not despise prophecies, but test everything; hold fast what is good."*
+> — 1 Thessalonians 5:19–21 (ESV)
+>
+> *"Don't quench the Spirit, don't despise inspired messages. But do test everything — hold onto what is good."*
+> — 1 Thessalonians 5:19–21 (CJB)
+
+This is the opening posture for this entire framework and for any compiled document (PDF, write-up) it eventually produces — not "everything I think is revelation," not "everything outside the conventional interpretation is false," but: test everything, hold onto what is good, stay willing to discard what doesn't survive examination. *(Decision + terminology recorded in `docs/adr/ADR-0001-epigraph-convention.md`.)*
 
 # Eschatology Framework — Index
 
 Personal theological research project: working out a preterist-leaning eschatology (Revelation 20's millennium as already fulfilled, present age as the "little season") and the historical/speculative questions that grew alongside it (ancient architecture, lost civilizations, cosmology).
 
 This is a **multi-session, multi-tranche project**. Content arrives in chunks (originally drafted in dialogue with ChatGPT, refined here). Each tranche gets sorted into one of four files below and merged — never just appended raw.
+
+## Read This First
+
+[[00b-biblical-epistemology]] — how we know what we think we know, before getting into what we actually believe. Defines Biblical Epistemology and Contextual Exegesis, the 7-step test every passage should pass before it counts as an established conviction, and the Israel/Gentile commission question as the worked example that proved the method was necessary. See ADR-0002 (`docs/adr/`).
 
 ## The Four Boxes
 
@@ -25,6 +37,8 @@ This is a **multi-session, multi-tranche project**. Content arrives in chunks (o
 | [[04-open-questions]] | Things still being investigated, verses not yet located, unresolved tensions | No conclusion yet |
 
 Plus an appendix, not a fifth box: [[05-scripture-index]] — every verse used so far, grouped by theme, so nothing gets lost between tranches.
+
+Plus one deep-dive file: [[06-revelation-19-22-timeline]] — the Revelation 19–22 sequence cross-referenced against Daniel, Matthew 24, 1 Corinthians 15, 1 Thessalonians 4–5, Isaiah, and Ezekiel, with an explicit Tensions section surfacing counter-readings from other millennial views. This is the "theological engine" under the preterist position — big enough to need its own file rather than living inside 01-convictions.
 
 ## Governing Principle
 
@@ -51,10 +65,23 @@ Once the framework has enough substance, these markdown files compile to a singl
 
 ## Contents Snapshot (updated each merge)
 
-- Convictions: 15 explicit biblical teachings + 5 personal-synthesis items — see [[01-convictions]]
-- Historical observations: 6 items — see [[02-historical-observations]]
-- Hypotheses: 9 items — see [[03-hypotheses]]
-- Open questions: 9 items — see [[04-open-questions]]
-- Scripture index: ~35 references across 10 themes — see [[05-scripture-index]]
+- Biblical Epistemology: methodology foundation, 7-step passage test — see [[00b-biblical-epistemology]]
+- Convictions: 17 explicit biblical teachings + 5 personal-synthesis items, now with a naming-convention note and an Israel/Gentile commission item — see [[01-convictions]]
+- Historical observations: 6 items, all sourced against mainstream archaeology/history with honest "overstated" callouts — see [[02-historical-observations]]
+- Hypotheses: 9 items, Tartaria/mud-flood/geocentrism origins sourced, item 9 (respawn) resolved as unsupported — see [[03-hypotheses]]
+- Open questions: 11 items — 2 resolved (respawn verse, believers'-location-during-millennium), 1 corrected (Solomon verse), 1 new (worship directed to Father vs. received by the Son, deliberately left open) — see [[04-open-questions]]
+- Scripture index: ~70 references across 11 themes, full CJB + ESV text for every citation — see [[05-scripture-index]]
+- Revelation 19–22 timeline: 9 sequence beats + 8 cross-referenced passages + 10 honest tensions/counter-readings — see [[06-revelation-19-22-timeline]]
+- 2 ADRs — epigraph convention, Biblical Epistemology methodology — see `docs/adr/`
 
-**Last tranche merged:** 2026-08-06 (tranche 2 — Great Commission verse set, Yeshua HaMashiach name study, Messianic Israelite identity/covenant-continuity material, Ruach HaKodesh guidance verses)
+**Last research pass:** 2026-08-08 — Biblical Epistemology foundation added (Israel/Gentile commission worked example, 20 new sourced verses), plus the original 6-agent research pass (verse-text backfill, Rev 19-22 timeline, historical/hypotheses sourcing, open-questions verse hunt, worship-Father/Son Christology). Naming convention decided (Yeshua stays standard over YahuShua).
+
+---
+
+> *"Search me, O God, and know my heart! Try me and know my thoughts! And see if there be any grievous way in me, and lead me in the way everlasting!"*
+> — Psalm 139:23–24 (ESV)
+>
+> *"Examine me, God, and know my heart; test me, and know my thoughts. See if there is in me any hurtful way, and lead me along the eternal way."*
+> — Psalm 139:23–24 (CJB)
+
+This is the closing posture — for this framework and for any compiled document it produces. The opening (1 Thessalonians 5:19–21, top of this file) and this closing bracket the whole project in humility before Yahweh rather than confidence in conclusions reached along the way. When this eventually compiles into a single document (markdown → PDF via the `book-pdf` skill), these two passages open and close it, unchanged.
