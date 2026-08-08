@@ -39,6 +39,15 @@ Before a passage moves into [[01-convictions]], run it through:
 
 This replaces "this verse agrees with my theory, therefore my theory is biblical" with "this is what the passage says in context — now is my interpretation actually consistent with the wider biblical witness." The standard to hold: not "how do I prove I'm right" but "if I'm wrong, what passage would expose it."
 
+**Four categories that must never collapse into each other** — the concrete version of the 4-box split, worked with a live example already in this vault:
+
+- **A. Text** — "Revelation 20:3 explicitly says Satan is released 'for a little while.'" A textual observation, citable, in [[05-scripture-index]].
+- **B. Interpretation** — "One reading holds that the 'little while' names a specific historical period already underway." A conclusion about meaning, not the text itself — belongs in [[01-convictions]] section B or [[03-hypotheses]], never presented as "Revelation says X" once it's this step.
+- **C. Historical correlation** — "A particular historical phenomenon appears to line up with features of that period." Observable-in-principle, belongs in [[02-historical-observations]] — a correlation claim, not yet a causal one.
+- **D. Hypothesis** — "Therefore this historical phenomenon may represent the biblical 'little season.'" The full chain, belongs in [[03-hypotheses]], labeled as speculative no matter how well A–C line up.
+
+The failure mode this guards against: skipping straight from A to D and calling the result a conviction.
+
 ## A. Scripture Commands Active Testing, Not Passive Acceptance
 
 **1 Thessalonians 5:19–21** (already the vault's opening epigraph, [[00-index]]) — "Do not quench the Spirit. Do not despise prophecies, but test everything; hold fast what is good." (ESV) / "Don't quench the Spirit, don't despise inspired messages. But do test everything — hold onto what is good." (CJB)
@@ -52,6 +61,8 @@ This replaces "this verse agrees with my theory, therefore my theory is biblical
 **Proverbs 2:1–6** — ESV: "if you receive my words and treasure up my commandments with you... if you seek it like silver and search for it as for hidden treasures, then you will understand the fear of the Lord and find the knowledge of God." / CJB: "if you seek it as you would silver and search for it as for hidden treasure — then you will understand the fear of Adonai and find knowledge of God."
 
 **Proverbs 4:7** — ESV: "The beginning of wisdom is this: Get wisdom, and whatever you get, get insight." / CJB: "The beginning of wisdom is: get wisdom! And along with all your getting, get insight!"
+
+**Proverbs 8:17** — ESV: "I love those who love me, and those who seek me diligently find me." / CJB: "I love those who love me; and those who seek me will find me."
 
 **Proverbs 14:15** — ESV: "The simple believes everything, but the prudent gives thought to his steps." / CJB: "One who doesn't think believes every word, but the cautious understands his steps." — faith (trusting Yahweh) is not the same as credulity (believing every claim made in Yahweh's name).
 
