@@ -286,6 +286,21 @@ ESV: "the foreigners who join themselves to the Lord... my house shall be called
 CJB: "the foreigners who join themselves to Adonai... my house will be called a house of prayer for all peoples."
 RVR1960: "a los hijos de los extranjeros que sigan a Jehová... mi casa será llamada casa de oración para todos los pueblos."
 
+**Acts 10:9–16** — the vision; exegesis/eisegesis case study, see [[00c-commission-covenant-investigation]] §1
+ESV: "he fell into a trance and saw... something like a great sheet descending. In it were all kinds of animals and reptiles and birds of the air. And there came a voice to him: 'Rise, Peter; kill and eat.' But Peter said, 'By no means, Lord; for I have never eaten anything that is common or unclean.'... 'What God has made clean, do not call common.' This happened three times."
+CJB: "'Get up, Kefa, slaughter and eat!'... 'No, sir! Absolutely not! I have never eaten food that was unclean or treif.'... 'Stop treating as unclean what God has made clean.'"
+RVR1960: "Levántate, Pedro, mata y come... Señor, no; porque ninguna cosa común o inmunda he comido jamás... Lo que Dios limpió, no lo llames tú común."
+*Note: Peter's own stated interpretation of this vision is Acts 10:28 (below) — about people, not food. The Jerusalem believers' conclusion is Acts 11:18 (below) — about Gentiles.*
+
+**Acts 11:18** — the conclusion Peter's audience drew
+ESV: "'Then to the Gentiles also God has granted repentance that leads to life.'"
+CJB: "'This means that God has enabled the Goyim as well to do t'shuvah and have life!'"
+RVR1960: "¡De manera que también a los gentiles ha dado Dios arrepentimiento para vida!"
+
+**Acts 5:1–5** — Ananias and Sapphira (name-correction reference, see [[00c-commission-covenant-investigation]])
+ESV: "a man named Ananias, with his wife Sapphira, sold a piece of property... 'You have not lied to man but to God.' When Ananias heard these words, he fell down and breathed his last."
+RVR1960: "cierto hombre llamado Ananías, con Safira su mujer, vendió una heredad..."
+
 **Acts 10:28** — the social boundary Peter names before his realization
 ESV: "You yourselves know how unlawful it is for a Jew to associate with or to visit anyone of another nation, but God has shown me that I should not call any person common or unclean."
 CJB: "for a man who is a Jew to have close association with someone who belongs to another people... is something that just isn't done. But God has shown me not to call any person common or unclean."
@@ -696,6 +711,20 @@ RVR1960: "yo os envío el profeta Elías, antes que venga el día de Jehová, gr
 **Genesis 2:7** — CJB: "breathed into his nostrils the breath of life, so that he became a living being." / ESV: "breathed into his nostrils the breath of life, and the man became a living creature." / RVR1960: "sopló en su nariz aliento de vida, y fue el hombre un ser viviente."
 **Psalm 104:29–30** — CJB: "if you hold back their breath, they perish... if you send out your breath, they are created." / ESV: "when you take away their breath, they die... when you send forth your Spirit, they are created." / RVR1960: "Les quitas el hálito, dejan de ser... Envías tu Espíritu, son creados."
 **Psalm 8:4–6** — textual variant, Hebrew *elohim* vs. Septuagint/Hebrews 2 "angels": CJB: "You made him but little lower than the angels." / ESV: "a little lower than the heavenly beings." / RVR1960: "Le has hecho poco menor que los ángeles."
+
+## Women, the Ruach & Prophecy (canonical-context observation, see [[00c-commission-covenant-investigation]])
+
+**Acts 21:8–9** — CJB: "four unmarried daughters with the gift of prophecy." / ESV: "He had four unmarried daughters, who prophesied." / RVR1960: "cuatro hijas doncellas que profetizaban."
+**1 Corinthians 11:5** — CJB: "every woman who prays or prophesies with her head unveiled." / ESV: "every wife who prays or prophesies with her head uncovered." / RVR1960: "toda mujer que ora o profetiza con la cabeza descubierta."
+**Acts 18:24–26** — Priscilla and Aquila instruct Apollos: CJB: "explained to him the Way of God in fuller detail." / ESV: "took him aside and explained to him the way of God more accurately." / RVR1960: "le tomaron aparte y le expusieron más exactamente el camino de Dios."
+**Exodus 15:20** — CJB: "Miryam the prophet, sister of Aharon." / ESV: "Miriam the prophetess, the sister of Aaron." / RVR1960: "María la profetisa, hermana de Aarón."
+**Judges 4:4** — CJB: "D'vorah, a woman and a prophet, the wife of Lapidot, was judging Isra'el at that time." / ESV: "Deborah, a prophetess, the wife of Lappidoth, was judging Israel at that time." / RVR1960: "Débora, profetisa, mujer de Lapidot."
+**2 Kings 22:14** — CJB: "went to Huldah the prophet... and spoke with her." / ESV: "went to Huldah the prophetess... and they talked with her." / RVR1960: "a la profetisa Hulda... y hablaron con ella."
+**Luke 2:36–38** — CJB: "a prophet named Hannah Bat-P'nu'el, of the tribe of Asher... began thanking God and speaking about the child to everyone who was waiting for Yerushalayim to be liberated." / ESV: "a prophetess, Anna, the daughter of Phanuel, of the tribe of Asher... to speak of him to all who were waiting for the redemption of Jerusalem." / RVR1960: "Ana, profetisa, hija de Fanuel, de la tribu de Aser... hablaba del niño a todos los que esperaban la redención en Jerusalén."
+
+**The contested texts — named, not resolved:**
+**1 Timothy 2:11–12** — CJB: "I do not permit a woman to teach a man or exercise authority over him." / ESV: "I do not permit a woman to teach or to exercise authority over a man; rather, she is to remain quiet." / RVR1960: "no permito a la mujer enseñar, ni ejercer dominio sobre el hombre, sino estar en silencio."
+**1 Corinthians 14:34–35** — CJB: "let the wives remain silent when the congregation meets." / ESV: "the women should keep silent in the churches. For they are not permitted to speak." / RVR1960: "vuestras mujeres callen en las congregaciones; porque no les es permitido hablar."
 
 ## Not Yet Sourced (proposed categories, no verse confirmed in a tranche yet)
 These theme headings were proposed as future appendix sections but don't yet have a verse actually discussed and cited in this framework — don't backfill them with guessed references. Add real citations here only once an actual tranche produces them: Isaiah 55:8–9, Ephesians 2 (beyond 2:11-22, already sourced above), Exodus 12, Isaiah 56, James 1, Romans 14.

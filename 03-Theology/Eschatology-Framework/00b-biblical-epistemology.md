@@ -17,6 +17,12 @@ This file sits before [[01-convictions]] on purpose — it's the answer to "how 
 
 **Biblical Epistemology** — the study of how we come to know, understand, test, and discern truth within a biblical framework. Not "believe whatever I think God told me," and not "accept whatever an institution/scholar tells me" — a combination of Scripture, prayer, the Ruach's guidance, active investigation, discernment, testing, and willingness to be corrected.
 
+**Exegesis** — drawing meaning *out of* a text by examining its language, context, audience, historical setting, literary structure, and relationship to the rest of Scripture.
+
+**Eisegesis** — reading a meaning *into* a text that the interpreter brought with them, rather than demonstrating that the text itself supports it.
+
+> **Prose:** these two words give the reader a single diagnostic question to carry through everything that follows: *am I discovering what the passage says, or am I making the passage carry an idea I already brought to it?* Almost every interpretive failure in this whole study reduces to that question being skipped. It's worth asking out loud, on purpose, at every step — especially at the steps where the answer seems most obvious.
+
 **Contextual Exegesis** — interpreting a passage according to its immediate literary, historical, linguistic, and covenantal context *before* applying its principle more broadly. The rule: before asking "does this apply to me?", first ask "who was being addressed, by whom, about what, and within what historical/covenantal situation?"
 
 ## The Working Model — Revised 2026-08-08, See ADR-0005

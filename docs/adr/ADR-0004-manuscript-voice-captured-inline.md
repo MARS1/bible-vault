@@ -18,6 +18,20 @@ Working sessions repeatedly produce genuinely good explanatory commentary — th
 ## Decision
 Manuscript-voice commentary gets captured **inline, at the point it's generated**, directly under the relevant citation in whichever file it belongs to — marked clearly as reader-facing prose, not a citation. Not a separate "someday" manuscript file. This doesn't mean drafting full chapters now (still premature per the existing "don't polish prematurely" guidance) — it means the *sentences that would survive into the book* get written down the moment they're found, so a later prose pass assembles from real material instead of reinventing it.
 
+## Trigger Phrases (added 2026-08-09)
+
+Explicit signals that what follows is prose, not a research note — capture it when any of these shapes appear, don't wait to be asked:
+
+- "notice the sequence" / "notice what's happening"
+- "why this matters"
+- "the distinction is"
+- "the temptation would be"
+- "the text permits us to say" / "what the text actually permits"
+- "don't flatten this" / "hold these together"
+- any passage explaining *why* a citation lands the way it does, rather than just what it says
+
+These are part of the eventual manuscript's intellectual argument, not disposable chat explanation. Preserve them **distinctly from raw source notes** (marked `> **Prose:**` inline) so they can later become prose, sidebars, methodology commentary, or chapter transitions. Do not assume they can be faithfully regenerated later from bullet points alone — the reasoning is produced in response to a specific moment in a specific conversation, and that moment doesn't come back.
+
 ## Consequences
 - Every time a "notice X" / "here's why this verse matters" insight comes up in conversation, it gets written into the relevant vault file in the same session — not left to be reconstructed later.
 - Distinguishes two kinds of content in the same file going forward: citation (what the text says) and manuscript-voice commentary (why it matters, written for a reader) — both present, clearly separated, neither missing.
