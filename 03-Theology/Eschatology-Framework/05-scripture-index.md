@@ -215,6 +215,16 @@ ESV: "'Lord, will you at this time restore the kingdom to Israel?' He said to th
 CJB: "'Lord, are you at this time going to restore self-rule to Isra'el?' He answered, 'You don't need to know the dates or the times; the Father has kept these under his own authority.'"
 RVR1960: "Señor, ¿restaurarás el reino a Israel en este tiempo? Y les dijo: No os toca a vosotros saber los tiempos o las sazones, que el Padre puso en su sola potestad"
 
+**Acts 2:5** — Pentecost's audience: geography vs. covenant identity, see [[00c-commission-covenant-investigation]] §1
+ESV: "Now there were dwelling in Jerusalem Jews, devout men from every nation under heaven."
+CJB: "there were staying in Yerushalayim religious Jews from every nation under heaven."
+RVR1960: "Moraban entonces en Jerusalén judíos, varones piadosos, de todas las naciones bajo el cielo."
+
+**Acts 2:9–11**
+ESV: "Parthians and Medes and Elamites... both Jews and proselytes, Cretans and Arabians—we hear them telling in our own tongues the mighty works of God."
+CJB: "Jews by birth and proselytes; Jews from Crete and from Arabia... speaking in our own languages about the great things God has done?"
+RVR1960: "tanto judíos como prosélitos, cretenses y árabes, les oímos hablar en nuestras lenguas las maravillas de Dios."
+
 **Acts 8:27–28** — the Ethiopian eunuch, introduced; see [[00c-commission-covenant-investigation]] §1
 ESV: "there was an Ethiopian, a eunuch, a court official of Candace, queen of the Ethiopians, who was in charge of all her treasure. He had come to Jerusalem to worship and was returning... reading the prophet Isaiah."
 CJB: "an Ethiopian, a eunuch who was minister in charge of all the treasure of the Kandake, or queen, of Ethiopia. He had been to Yerushalayim to worship... reading the prophet Yesha'yahu."
