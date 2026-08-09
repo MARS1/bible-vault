@@ -860,5 +860,47 @@ RVR1960: "yo os envío el profeta Elías, antes que venga el día de Jehová, gr
 **1 Timothy 2:11–12** — CJB: "I do not permit a woman to teach a man or exercise authority over him." / ESV: "I do not permit a woman to teach or to exercise authority over a man; rather, she is to remain quiet." / RVR1960: "no permito a la mujer enseñar, ni ejercer dominio sobre el hombre, sino estar en silencio."
 **1 Corinthians 14:34–35** — CJB: "let the wives remain silent when the congregation meets." / ESV: "the women should keep silent in the churches. For they are not permitted to speak." / RVR1960: "vuestras mujeres callen en las congregaciones; porque no les es permitido hablar."
 
+## The Olive Tree & Covenant Identity (see [[00e-olive-tree-and-covenant-identity]])
+
+**Romans 9:2–6**
+ESV: "They are Israelites, and to them belong the adoption, the glory, the covenants, the giving of the law, the worship, and the promises... For not all who are descended from Israel belong to Israel."
+CJB: "the covenants are theirs, likewise the giving of the Torah, the Temple service and the promises... not everyone from Isra'el is truly part of Isra'el."
+RVR1960: "de los cuales son la adopción, la gloria, el pacto, la promulgación de la ley, el culto y las promesas... no todos los que descienden de Israel son israelitas."
+
+**Romans 10:12–13** (quoting Joel 2:32)
+ESV: "there is no distinction between Jew and Greek; for the same Lord is Lord of all... 'everyone who calls on the name of the Lord will be saved.'"
+CJB: "Adonai is the same for everyone, rich toward everyone who calls on him."
+RVR1960: "no hay diferencia entre judío y griego... todo aquel que invocare el nombre del Señor, será salvo."
+
+**Joel 2:32**
+ESV: "everyone who calls on the name of the Lord shall be saved."
+RVR1960: "todo aquel que invocare el nombre de Jehová será salvo."
+*(Not available in CJB at this versification — Joel's chapter divisions differ between traditions.)*
+
+**Romans 11:1–2, 5** — "Has God rejected his people? By no means!"
+ESV: "has God rejected his people? By no means!... God has not rejected his people whom he foreknew... there is a remnant, chosen by grace."
+CJB: "Heaven forbid!... God has not repudiated his people, whom he chose in advance."
+RVR1960: "¿Ha desechado Dios a su pueblo? En ninguna manera... ha quedado un remanente escogido por gracia."
+
+**Romans 11:18–21** — the warning against Gentile arrogance
+ESV: "do not be arrogant toward the branches... it is not you who support the root, but the root that supports you... So do not become proud, but fear."
+CJB: "don't boast as if you were better than the branches!... don't be arrogant; on the contrary, be terrified!"
+RVR1960: "no te jactes contra las ramas... No te ensoberbezcas, sino teme."
+
+**Romans 11:23–26** — restoration held open; the mystery; "all Israel"
+ESV: "if they do not continue in their unbelief, will be grafted in... grafted, contrary to nature, into a cultivated olive tree... Lest you be wise in your own sight... a partial hardening has come upon Israel, until the fullness of the Gentiles has come in. And in this way all Israel will be saved."
+CJB: "so that you won't imagine you know more than you actually do... stoniness, to a degree, has come upon Isra'el."
+RVR1960: "contra naturaleza fuiste injertado en el buen olivo... para que no seáis arrogantes... y luego todo Israel será salvo."
+
+**Ephesians 2:13–16, 19** — the citizenship imagery
+ESV: "you who once were far off have been brought near by the blood of Christ... he might create in himself one new man in place of the two... you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God."
+CJB: "a single new humanity... you are fellow-citizens with God's people and members of God's family."
+RVR1960: "un solo y nuevo hombre... ya no sois extranjeros ni advenedizos, sino conciudadanos de los santos, y miembros de la familia de Dios."
+
+**Ezekiel 47:21–23** — foreigners given inheritance among the tribes
+ESV: "They shall be to you as native-born children of Israel. With you they shall be allotted an inheritance among the tribes of Israel."
+CJB: "for you they are to be no different from the native-born among the people of Isra'el."
+RVR1960: "los tendréis como naturales entre los hijos de Israel; echarán suertes con vosotros para tener heredad entre las tribus de Israel."
+
 ## Not Yet Sourced (proposed categories, no verse confirmed in a tranche yet)
 These theme headings were proposed as future appendix sections but don't yet have a verse actually discussed and cited in this framework — don't backfill them with guessed references. Add real citations here only once an actual tranche produces them: Isaiah 55:8–9, Ephesians 2 (beyond 2:11-22, already sourced above), Exodus 12, Isaiah 56, James 1, Romans 14.
