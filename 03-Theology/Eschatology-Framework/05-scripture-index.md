@@ -225,6 +225,47 @@ ESV: "Parthians and Medes and Elamites... both Jews and proselytes, Cretans and 
 CJB: "Jews by birth and proselytes; Jews from Crete and from Arabia... speaking in our own languages about the great things God has done?"
 RVR1960: "tanto judíos como prosélitos, cretenses y árabes, les oímos hablar en nuestras lenguas las maravillas de Dios."
 
+**Acts 2:14, 22, 36** — Peter's sermon explicitly addressed to Israel
+ESV: "Men of Judea..." (2:14) / "Jesus of Nazareth, a man attested to you by God" (2:22) / "God has made him both Lord and Christ, this Jesus whom you crucified" (2:36)
+RVR1960: "Varones judíos..." (2:14) / "Sepa, pues, ciertamente **toda la casa de Israel**..." (2:36)
+
+**Acts 2:37–38**
+ESV: "'Brothers, what shall we do?' And Peter said to them, 'Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit.'"
+CJB: "'Turn from sin, return to God, and each of you be immersed on the authority of Yeshua the Messiah into forgiveness of your sins, and you will receive the gift of the Ruach HaKodesh!'"
+RVR1960: "Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo."
+
+**Acts 2:39** — "those far off," handled carefully, see [[00c-commission-covenant-investigation]] §1
+ESV: "the promise is for you and for your children and for all who are far off, everyone whom the Lord our God calls to himself."
+CJB: "the promise is for you, for your children, and for those far away — as many as Adonai our God may call!"
+RVR1960: "para vosotros es la promesa, y para vuestros hijos, y para todos los que están lejos; para cuantos el Señor nuestro Dios llamare."
+
+**Acts 2:16–17** — Joel recovered in its original apostolic use
+ESV: "this is what was uttered through the prophet Joel: 'And in the last days it shall be, God declares, that I will pour out my Spirit on all flesh.'"
+
+**Acts 2:41**
+ESV: "there were added that day about three thousand souls." / RVR1960: "se añadieron aquel día como tres mil personas."
+
+**Acts 2:42, 44–47**
+ESV: "they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers... praising God and having favor with all the people. And the Lord added to their number day by day those who were being saved."
+CJB: "They continued faithfully in the teaching of the emissaries, in fellowship, in breaking bread and in the prayers... day after day the Lord kept adding to them those who were being saved."
+RVR1960: "perseveraban en la doctrina de los apóstoles, en la comunión unos con otros, en el partimiento del pan y en las oraciones... el Señor añadía cada día a la iglesia los que habían de ser salvos."
+
+**"Last days" cross-reference cluster** — bookmarked, see [[04-open-questions]]
+Hebrews 1:1–2 — ESV: "in these last days he has spoken to us by his Son." / RVR1960: "en estos postreros días nos ha hablado por el Hijo."
+1 Peter 1:20 — ESV: "was made manifest in the last times for the sake of you." / RVR1960: "manifestado en los postreros tiempos por amor de vosotros."
+Hebrews 9:26 — ESV: "he has appeared once for all at the end of the ages to put away sin by the sacrifice of himself." / RVR1960: "en la consumación de los siglos, se presentó una vez para siempre."
+1 Corinthians 10:11 — ESV: "on whom the end of the ages has come." / RVR1960: "a quienes han alcanzado los fines de los siglos."
+
+**Acts 8:1** — the persecution mechanism, see [[00c-commission-covenant-investigation]] §1
+ESV: "there arose on that day a great persecution against the church in Jerusalem, and they were all scattered throughout the regions of Judea and Samaria, **except the apostles**."
+CJB: "all but the emissaries were scattered throughout the regions of Y'hudah and Shomron."
+RVR1960: "todos fueron esparcidos por las tierras de Judea y de Samaria, **salvo los apóstoles**."
+
+**Acts 8:4** — who actually carried the word outward
+ESV: "Now those who were scattered went about preaching the word."
+CJB: "those who were scattered announced the Good News of the Word wherever they went."
+RVR1960: "los que fueron esparcidos iban por todas partes anunciando el evangelio."
+
 **Acts 8:27–28** — the Ethiopian eunuch, introduced; see [[00c-commission-covenant-investigation]] §1
 ESV: "there was an Ethiopian, a eunuch, a court official of Candace, queen of the Ethiopians, who was in charge of all her treasure. He had come to Jerusalem to worship and was returning... reading the prophet Isaiah."
 CJB: "an Ethiopian, a eunuch who was minister in charge of all the treasure of the Kandake, or queen, of Ethiopia. He had been to Yerushalayim to worship... reading the prophet Yesha'yahu."
