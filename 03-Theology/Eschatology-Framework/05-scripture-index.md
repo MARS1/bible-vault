@@ -375,6 +375,11 @@ Deuteronomy 12:32 — ESV: "You shall not add to it or take from it." / RVR1960:
 Proverbs 30:5–6 — ESV: "Every word of God proves true... Do not add to his words, lest he rebuke you and you be found a liar." / CJB: "Every word of God's is pure... Don't add anything to his words." / RVR1960: "Toda palabra de Dios es limpia... No añadas a sus palabras."
 Jude 14–15 — the Enoch correspondence — ESV: "Behold, the Lord comes with ten thousands of his holy ones, to execute judgment on all..." / CJB: "Look! Adonai came with his myriads of holy ones to execute judgment against everyone..." / RVR1960: "He aquí, vino el Señor con sus santas decenas de millares, para hacer juicio contra todos..." — corresponds closely to 1 Enoch 1:9; see [[04-open-questions]] item 5.
 
+**The control case — Paul quoting non-biblical authors** — see [[00b-biblical-epistemology]] Worked Example 2, Enoch case study
+Acts 17:28 (Aratus) — ESV: "as even some of your own poets have said, 'For we are indeed his offspring.'" / CJB: "as some of the poets among you have said, 'We are actually his children.'" / RVR1960: "como algunos de vuestros propios poetas también han dicho: Porque linaje suyo somos."
+Titus 1:12–13 (Epimenides) — ESV: "One of the Cretans, a prophet of their own, said, 'Cretans are always liars, evil beasts, lazy gluttons.' This testimony is true." / CJB: "Even one of the Cretans' own prophets has said... and it's true!" / RVR1960: "Uno de ellos, su propio profeta, dijo... Este testimonio es verdadero."
+1 Corinthians 15:33 (Menander) — ESV: "Bad company ruins good morals." / CJB: "Bad company ruins good character." / RVR1960: "las malas conversaciones corrompen las buenas costumbres."
+
 ## Satan's Fall, War in Heaven & Messiah's Victory
 
 **Colossians 2:15**
