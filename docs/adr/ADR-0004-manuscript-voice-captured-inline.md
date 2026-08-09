@@ -10,7 +10,7 @@ tags: [eschatology-framework, writing-style, manuscript]
 
 ## Terminology
 **Reference material** — citations, translations, sourcing (the bulk of [[05-scripture-index]], the ADRs). Exists to be checked against, not read start to finish.
-**Manuscript-voice commentary** — the explanatory, reader-facing insight that makes a citation land — e.g. noticing that 1 Thessalonians 5:19–21 gives permission to investigate without either "everything I think is revelation" or "everything unconventional is false." Written the way it should actually read in the eventual book, addressed to a reader, not "our project."
+**Prose** (also: manuscript-voice commentary) — the explanatory, reader-facing insight that makes a citation land — e.g. noticing that 1 Thessalonians 5:19–21 gives permission to investigate without either "everything I think is revelation" or "everything unconventional is false." Written the way it should actually read in the eventual book, addressed to a reader, not "our project." **This is the vault's standing term (2026-08-08)** — say "mark that as prose" or "that's prose" going forward rather than the longer "manuscript-voice commentary."
 
 ## Context
 Working sessions repeatedly produce genuinely good explanatory commentary — the kind of observation that makes a verse's structure click for a reader — but earlier guidance treated the vault as reference-only, with narrative prose deferred to a later manuscript-drafting phase. That's a real risk: this commentary is generated in the moment, in response to a specific back-and-forth, and is hard to regenerate authentically later once the conversation that produced it is gone. Deferring it doesn't preserve it — it loses it.

@@ -39,7 +39,7 @@ Before a passage moves into [[01-convictions]], run it through:
 
 This replaces "this verse agrees with my theory, therefore my theory is biblical" with "this is what the passage says in context — now is my interpretation actually consistent with the wider biblical witness." The standard to hold: not "how do I prove I'm right" but "if I'm wrong, what passage would expose it."
 
-**Four categories that must never collapse into each other** — the concrete version of the 4-box split, worked with a live example already in this vault:
+**Four categories that must never collapse into each other** — the concrete version of the 4-box split, worked with a live example already in this vault. *(Flagged 2026-08-08: singled out as one of the two strongest, most purpose-summarizing pieces of this whole methodology — prioritize this when the actual preface gets drafted.)*
 
 - **A. Text** — "Revelation 20:3 explicitly says Satan is released 'for a little while.'" A textual observation, citable, in [[05-scripture-index]].
 - **B. Interpretation** — "One reading holds that the 'little while' names a specific historical period already underway." A conclusion about meaning, not the text itself — belongs in [[01-convictions]] section B or [[03-hypotheses]], never presented as "Revelation says X" once it's this step.
@@ -48,11 +48,19 @@ This replaces "this verse agrees with my theory, therefore my theory is biblical
 
 The failure mode this guards against: skipping straight from A to D and calling the result a conviction.
 
+## Willingness to Be Corrected
+
+*(Flagged 2026-08-08, alongside the A/B/C/D example above, as one of the two pieces that most summarize this whole project's purpose and intent.)*
+
+> **Prose:** every claim in this study could be framed the same honest way: this is the conclusion I presently hold, based on the evidence examined so far. It's coherent with Scripture as I currently understand it — but I remain willing to revise it if Scripture, historical evidence, textual evidence, or sound reasoning shows it's mistaken. That isn't abandoning conviction. It's distinguishing conviction from infallibility — and that distinction has to hold for every claim in this project, not just the comfortable ones.
+
+This is the working discipline behind every item in [[01-convictions]] section B, every item in [[03-hypotheses]], and every unresolved item in [[04-open-questions]]: hold a position, state it plainly, and mean the willingness to revise it — not as a hedge, but as the actual method.
+
 ## A. Scripture Commands Active Testing, Not Passive Acceptance
 
 **1 Thessalonians 5:19–21** (already the vault's opening epigraph, [[00-index]]) — "Do not quench the Spirit. Do not despise prophecies, but test everything; hold fast what is good." (ESV) / "Don't quench the Spirit, don't despise inspired messages. But do test everything — hold onto what is good." (CJB)
 
-> **Manuscript voice** (see ADR-0004, `docs/adr/` — captured here so it isn't lost waiting for a later prose pass): notice the sequence in that verse. Paul doesn't say *accept everything* — that would make every spiritual claim true by default. He doesn't say *reject everything unfamiliar* either — that would make caution indistinguishable from unbelief. The actual instruction is three moves, in order: don't quench the Spirit, don't despise prophecy, *then* test everything and keep only what holds up. That order matters. It gives permission to investigate difficult, unconventional questions without either credulously accepting the first spiritual-sounding claim or reflexively dismissing anything that doesn't fit the standard account. That's the posture this whole framework tries to hold — not "everything I think is revelation," and not "everything outside the conventional interpretation is false."
+> **Prose** (see ADR-0004, `docs/adr/` — captured here so it isn't lost waiting for a later prose pass): notice the sequence in that verse. Paul doesn't say *accept everything* — that would make every spiritual claim true by default. He doesn't say *reject everything unfamiliar* either — that would make caution indistinguishable from unbelief. The actual instruction is three moves, in order: don't quench the Spirit, don't despise prophecy, *then* test everything and keep only what holds up. That order matters. It gives permission to investigate difficult, unconventional questions without either credulously accepting the first spiritual-sounding claim or reflexively dismissing anything that doesn't fit the standard account. That's the posture this whole framework tries to hold — not "everything I think is revelation," and not "everything outside the conventional interpretation is false."
 
 **Proverbs 18:13** — ESV: "If one gives an answer before he hears, it is his folly and shame." / CJB: "To answer someone before hearing him out is both stupid and embarrassing."
 
