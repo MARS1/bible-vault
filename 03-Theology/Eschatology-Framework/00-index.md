@@ -77,9 +77,9 @@ Once the framework has enough substance, these markdown files compile to a singl
 - Open questions: 11 items — 2 resolved (respawn verse, believers'-location-during-millennium), 1 corrected (Solomon verse), 1 new (worship directed to Father vs. received by the Son, deliberately left open) — see [[04-open-questions]]
 - Scripture index: ~80 references across 11 themes, CJB + ESV for all, RVR1960 backfill in progress — see [[05-scripture-index]]
 - Revelation 19–22 timeline: 9 sequence beats + 8 cross-referenced passages + 10 honest tensions/counter-readings — see [[06-revelation-19-22-timeline]]
-- 3 ADRs — epigraph convention, Biblical Epistemology methodology, translation/textual-source policy — see `docs/adr/`
+- 5 ADRs — epigraph convention, Biblical Epistemology methodology, translation/textual-source policy, manuscript-voice/prose captured inline, epistemological cycle (doorway-agnostic) — see `docs/adr/`
 
-**Last research pass:** 2026-08-08 — Commission & Covenant investigation (11 new verses: Canaanite woman, Cornelius, Jerusalem council, Romans 1:16), RVR1960 translation policy adopted + backfill dispatched, plus Biblical Epistemology foundation and the earlier 6-agent research pass. Naming convention decided (Yeshua stays standard over YahuShua).
+**Last research pass:** 2026-08-08 — epistemological model revised from linear to cyclical (Encounter→Classify→Seek→Examine→Compare→Test→Discern→Hold Provisionally→Re-examine, ADR-0005), contradicts/permits/supports/requires evidentiary labeling adopted, Worked Example 2 (Revelation 22 canon question + Enoch/Jude case study), "Prose" locked in as the term for reader-facing commentary captured inline (ADR-0004). Plus the Commission & Covenant investigation, RVR1960 backfill, and the earlier 6-agent research pass. Naming convention decided (Yeshua stays standard over YahuShua). Sequencing: do not advance the preterist/Revelation 19-22 material further yet — foundation work continues first.
 
 ---
 

@@ -18,6 +18,8 @@ The Israel/Gentile commission question exposed a real risk in the existing 4-box
 ## Decision
 Added `00b-biblical-epistemology.md` as a foundation file, read before `01-convictions.md`. It defines the two terms above, a working model (Scripture → Prayer → Ruach → Investigation → Discernment → Testing → Humility → Correction), and a mandatory 7-step test for any passage before it counts as an established conviction: Text → Context → Canonical Context → Covenant/Historical Context → Interpretation → Application → Test. The Israel/Gentile commission question is preserved in that file as the permanent worked example — not because it's uniquely important doctrinally, but because it's the case that proved the method was missing.
 
+**Amended by ADR-0005 (2026-08-08):** the linear working model cited above (Scripture → Prayer → Ruach → Investigation → Discernment → Testing → Humility → Correction) is superseded by a cyclical, doorway-agnostic model — see ADR-0005 for why the linear phrasing was a real bug, not just a style choice. The 7-step passage test below is unaffected — it still governs how a Scripture passage specifically gets examined once classified as such.
+
 ## Consequences
 - Any future verse being promoted into `01-convictions.md` should be able to show it passed the 7-step test, not just that it supports a conclusion already reached.
 - Existing convictions get retrofitted with caveats where the test reveals a gap — e.g. `01-convictions.md` A.13 (Ruach guidance) now notes John 14:26/16:13 were addressed to the Twelve specifically, with the broader-application claim resting on other texts instead.

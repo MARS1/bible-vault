@@ -19,11 +19,45 @@ This file sits before [[01-convictions]] on purpose — it's the answer to "how 
 
 **Contextual Exegesis** — interpreting a passage according to its immediate literary, historical, linguistic, and covenantal context *before* applying its principle more broadly. The rule: before asking "does this apply to me?", first ask "who was being addressed, by whom, about what, and within what historical/covenantal situation?"
 
-## The Working Model
+## The Working Model — Revised 2026-08-08, See ADR-0005
 
-**Scripture → Prayer → Ruach → Investigation → Discernment → Testing → Humility → Correction**
+The original linear chain here (Scripture → Prayer → Ruach → Investigation → Discernment → Testing → Humility → Correction) had a real bug, not just an awkward phrasing: it implied every investigation must begin with Scripture *chronologically*. Scripture is foundational *epistemologically* — the authority everything gets tested against — without requiring every question to have originated there. A question can begin with an architectural observation, a historical claim, a dream, a contradiction noticed between two verses. The method is what governs what happens with it afterward, not where it started. Full reasoning in ADR-0005 (`docs/adr/`).
 
-Not a one-way pipeline — every stage stays subject to the ones after it, including going back and revising an earlier stage.
+**Model A — The Doorway.** An investigation enters through one of: **Scripture · Observation · History · Experience · Testimony · Question · Anomaly · Hypothesis.** None of these automatically carries truth on entry — the doorway is not the foundation.
+
+> **Prose:** the order in which a question reaches us does not determine the authority of its answer. An investigation may begin with Scripture, history, architecture, archaeology, testimony, personal experience, or an unexplained anomaly. The doorway is not the foundation. Once the question enters, it must be classified, examined, compared, tested, and discerned. Scripture remains foundational to the theological conclusions of this study without requiring every question to have originated in Scripture. Nor does finding a biblical passage that appears compatible with an external observation prove that the observation fulfills that passage. Compatibility permits further investigation; it does not establish identity. The task is therefore not merely to ask whether evidence can fit a hypothesis, but whether it contradicts it, permits it, supports it, or actually requires it.
+
+**Model B — The Epistemological Cycle** (cyclical, not linear — every stage stays subject to the ones after it, including going back and revising an earlier stage):
+
+**Encounter → Classify → Seek → Examine → Compare → Test → Discern → Hold Provisionally → Re-examine ↺**
+
+with reverence for Yahweh and dependence on the Ruach surrounding the *entire* cycle, not confined to one box.
+
+1. **Encounter** — something enters, from any doorway (Model A).
+2. **Classify** — what kind of thing is this? Explicit Scripture, textual variant, interpretation, physical observation, historical document, testimony, tradition, archaeological evidence, hypothesis, spiritual impression, speculation. Different kinds of evidence don't carry the same evidentiary weight — classify before interpreting, or one kind's authority quietly gets smuggled onto another.
+3. **Seek** — pursue understanding actively (Proverbs 2:1–6, below) — including evidence *against* the idea, not just for it (Proverbs 18:17).
+4. **Examine** — the actual evidence, not just the interpretation already attached to it. If Scripture: what does the text actually say (the 7-step test below applies here). If architecture: what exactly exists? If a photograph: what's its provenance and date? If Enoch: which manuscript, how old, what textual tradition?
+5. **Compare** — Scripture with Scripture, translation with source language, interpretation with context, historical claim with historical evidence, hypothesis with competing explanations, observation with what should be observable if the hypothesis is true.
+6. **Test** (1 Thessalonians 5:21) — not "can I make this fit" but "what would demonstrate I'm mistaken." Refined further: does the evidence **contradict** the hypothesis, merely **permit** it, actively **support** it, or actually **require** it? These are not equivalent claims — state which one a given hypothesis has actually earned, in [[03-hypotheses]] and everywhere else.
+7. **Discern** — Ruach-dependence, prayer, wisdom, conscience — present throughout Encounter↔Seek↔Examine↔Compare↔Test, not one isolated step, while still subject to the command to test (never a replacement for the prior steps, never a rubber stamp after them).
+8. **Hold provisionally** — 1 Thessalonians 5:21's "hold fast what is good," with "provisionally" added deliberately for interpretations (not for explicit biblical statements). Holding a position is not the same as declaring it incapable of error.
+9. **Re-examine** — new evidence, an exposed contextual error, a manuscript discovery, a stronger competing explanation reopens the cycle. Proverbs 18:17 in perpetual operation.
+
+This wraps around, not replaces, the 7-step passage test below — that test governs what happens specifically inside Examine/Compare when the classified item is a Scripture passage.
+
+## The Reverence Sequence — From Limits to Pursuit
+
+Connects Section B (limits of understanding) to Section A (active testing) below, in the order that should govern the eventual book even though this reference file keeps A before B for historical reasons:
+
+> **Prose:** if God's wisdom infinitely exceeds ours, the proper response is not intellectual surrender but humble pursuit. Scripture does not say that because we cannot know everything, we should therefore investigate nothing. It tells us where the investigation must begin: with reverence toward Yahweh.
+
+**I cannot encompass the mind of Yahweh** (Romans 11:33–34, Isaiah 40:13, Section B below) **→ therefore I approach Him with reverence → reverence becomes the beginning of knowledge and wisdom → therefore I seek what He permits me to understand** (Proverbs 2:1–6, 4:7, 8:17, 18:17, 25:2, Section A below).
+
+**Proverbs 9:10** — ESV: "The fear of the Lord is the beginning of wisdom, and the knowledge of the Holy One is insight." / CJB: "The fear of Adonai is the beginning of wisdom, and knowledge of holy ones is understanding." / RVR1960: "El temor de Jehová es el principio de la sabiduría, Y el conocimiento del Santísimo es la inteligencia."
+
+**Proverbs 1:7** — ESV: "The fear of the Lord is the beginning of knowledge; fools despise wisdom and instruction." / CJB: "The fear of Adonai is the beginning of knowledge, but fools despise wisdom and discipline." / RVR1960: "El principio de la sabiduría es el temor de Jehová; Los insensatos desprecian la sabiduría y la enseñanza."
+
+*Note: one verse says wisdom, the other says knowledge — deliberately paired. "Fear" here (Hebrew יִרְאַת יְהוָה, yir'at YHWH) is reverence/awe before Yahweh, not mere fright — not flattened to either extreme.*
 
 ## The 7-Step Test for Any Passage
 
@@ -114,6 +148,39 @@ This is the case study that proved the method is needed — worth keeping as a p
 This is the model for testing every future claim in [[03-hypotheses]] and every verse promoted into [[01-convictions]]: don't cherry-pick the side that fits the theory being defended; ask what a hostile, careful reader would say survives.
 
 See ADR-0002 (`docs/adr/`) for this as a formal methodology decision.
+
+## Worked Example 2: Revelation 22:18–19 and the Canon Question
+
+Run through Model B rather than deciding the answer first — a live test of the contradicts/permits/supports/requires distinction from the Test step above.
+
+**Encounter/Classify:** Revelation 22:18–19 (already in [[01-convictions]] A.4 and [[05-scripture-index]]) warns against adding to or taking away from "the words of the prophecy of this book." Text, explicit.
+
+**Examine (context):** the immediate referent is the prophecy John has just written — Revelation itself. This does **not** say "no one may ever alter any book later included in a 66-book canon" — that's not what the text says, and citing it that way fails Contextual Exegesis (glossary, above).
+
+**Compare (canonical pattern):** but a broader biblical pattern does exist, worth taking seriously on its own strength:
+**Deuteronomy 4:2** — ESV: "You shall not add to the word that I command you, nor take from it..." / CJB: "do not add to what I am saying, and do not subtract from it." / RVR1960: "No añadiréis a la palabra que yo os mando, ni disminuiréis de ella..."
+**Deuteronomy 12:32** — ESV: "You shall not add to it or take from it." / RVR1960: "no añadirás a ello, ni de ello quitarás." *(versification note: CJB numbers this verse 13:1, not retrieved under 12:32.)*
+**Proverbs 30:5–6** — ESV: "Every word of God proves true... Do not add to his words, lest he rebuke you and you be found a liar." / CJB: "Every word of God's is pure... Don't add anything to his words." / RVR1960: "Toda palabra de Dios es limpia... No añadas a sus palabras."
+
+Torah → Wisdom → Revelation, the same warning recurring — a real canonical pattern, not a stretch.
+
+**Test (the crucial distinction):** from this pattern, the evidence **supports**: "Scripture repeatedly condemns adding to or subtracting from divine revelation." It does **not require**: "therefore someone specifically removed Enoch, Jubilees, and Jasher from the Bible in violation of Revelation 22." That second claim is a separate historical hypothesis — the canonical-preservation pattern doesn't establish it on its own.
+
+**Re-examine — what the framework says to investigate next, instead of assuming:** what were these books, who used them, when, which communities regarded them as authoritative, which manuscripts survive, were they ever part of a particular canon, when were canonical boundaries actually set, why were specific books included or excluded?
+
+### Case Study: Enoch and Jude
+
+A concrete instance, worth running fully rather than leaving abstract:
+
+**Jude 14–15** — ESV: "Behold, the Lord comes with ten thousands of his holy ones, to execute judgment on all and to convict all the ungodly of all their deeds of ungodliness..." / CJB: "Look! Adonai came with his myriads of holy ones to execute judgment against everyone..." / RVR1960: "He aquí, vino el Señor con sus santas decenas de millares, para hacer juicio contra todos..." — this closely corresponds to material in 1 Enoch 1:9. Fragments of Enoch were independently found among the Dead Sea Scrolls, so there's real ancient manuscript evidence to weigh, not just a modern claim.
+
+Classified correctly:
+- **Observation:** Jude contains material also found in 1 Enoch.
+- **Question:** what relationship existed between Jude and Enochic tradition?
+- **Hypothesis:** Enoch may have carried real authority within some early Jewish/Christian communities.
+- **Separate question, does not follow automatically from the above:** does Jude quoting Enoch establish that 1 Enoch itself has canonical/inspired status? It does not, by itself — Paul also quotes non-biblical material elsewhere (e.g. Greek poets in Acts 17:28) without that making the quoted source canonical. The observation is real; the leap to "therefore canonical" is a distinct, unestablished claim.
+
+Directly feeds [[04-open-questions]] item 5 (historical/theological value of Enoch, Jubilees, Jasher) — this is real progress on that question, not a final answer to it.
 
 ## Translation & Textual-Source Policy
 

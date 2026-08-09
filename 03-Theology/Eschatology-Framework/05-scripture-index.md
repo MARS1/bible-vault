@@ -63,6 +63,14 @@ RVR1960: "Sabiduría ante todo; adquiere sabiduría; Y sobre todas tus posesione
 CJB: "I love those who love me; and those who seek me will find me." / ESV: "I love those who love me, and those who seek me diligently find me."
 RVR1960: "Yo amo a los que me aman, Y me hallan los que temprano me buscan."
 
+**Proverbs 9:10** — the reverence hinge, see [[00b-biblical-epistemology]] "The Reverence Sequence"
+CJB: "The fear of Adonai is the beginning of wisdom, and knowledge of holy ones is understanding." / ESV: "The fear of the Lord is the beginning of wisdom, and the knowledge of the Holy One is insight."
+RVR1960: "El temor de Jehová es el principio de la sabiduría, Y el conocimiento del Santísimo es la inteligencia."
+
+**Proverbs 1:7**
+CJB: "The fear of Adonai is the beginning of knowledge, but fools despise wisdom and discipline." / ESV: "The fear of the Lord is the beginning of knowledge; fools despise wisdom and instruction."
+RVR1960: "El principio de la sabiduría es el temor de Jehová; Los insensatos desprecian la sabiduría y la enseñanza."
+
 **Proverbs 14:15**
 CJB: "One who doesn't think believes every word, but the cautious understands his steps." / ESV: "The simple believes everything, but the prudent gives thought to his steps."
 RVR1960: "El simple todo lo cree; Mas el avisado mira bien sus pasos."
@@ -360,6 +368,12 @@ RVR1960: "Cuando los mil años se cumplan, Satanás será suelto de su prisión,
 CJB: v18 "I warn everyone hearing the words of the prophecy in this book that if anyone adds to them, God will add to him the plagues written in this book." · v19 "And if anyone takes anything away from the words in the book of this prophecy, God will take away his share in the Tree of Life and the holy city, as described in this book."
 ESV: v18 "I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues described in this book," · v19 "and if anyone takes away from the words of the book of this prophecy, God will take away his share in the tree of life and in the holy city, which are described in this book."
 RVR1960: "Yo testifico a todo aquel que oye las palabras de la profecía de este libro: Si alguno añadiere a estas cosas, Dios traerá sobre él las plagas que están escritas en este libro. Y si alguno quitare de las palabras del libro de esta profecía, Dios quitará su parte del libro de la vida, y de la santa ciudad y de las cosas que están escritas en este libro."
+
+**The "don't add/take away" canonical pattern** — see [[00b-biblical-epistemology]] Worked Example 2
+Deuteronomy 4:2 — ESV: "You shall not add to the word that I command you, nor take from it..." / CJB: "do not add to what I am saying, and do not subtract from it." / RVR1960: "No añadiréis a la palabra que yo os mando, ni disminuiréis de ella..."
+Deuteronomy 12:32 — ESV: "You shall not add to it or take from it." / RVR1960: "no añadirás a ello, ni de ello quitarás." *(CJB numbers this verse 13:1; not retrieved under 12:32.)*
+Proverbs 30:5–6 — ESV: "Every word of God proves true... Do not add to his words, lest he rebuke you and you be found a liar." / CJB: "Every word of God's is pure... Don't add anything to his words." / RVR1960: "Toda palabra de Dios es limpia... No añadas a sus palabras."
+Jude 14–15 — the Enoch correspondence — ESV: "Behold, the Lord comes with ten thousands of his holy ones, to execute judgment on all..." / CJB: "Look! Adonai came with his myriads of holy ones to execute judgment against everyone..." / RVR1960: "He aquí, vino el Señor con sus santas decenas de millares, para hacer juicio contra todos..." — corresponds closely to 1 Enoch 1:9; see [[04-open-questions]] item 5.
 
 ## Satan's Fall, War in Heaven & Messiah's Victory
 
