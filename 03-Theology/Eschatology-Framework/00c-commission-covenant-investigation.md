@@ -3,7 +3,7 @@ title: "Eschatology Framework — Commission & Covenant Continuity Investigation
 type: theology
 category: theology
 tags: [eschatology, commission, covenant, gentiles, israel, epistemology-worked-example]
-reference: Genesis 12:1-3; Isaiah 42:6; Isaiah 49:6; Matthew 3:7-10; Matthew 15:22-28; Mark 7:24-30; Acts 10; Acts 13:46-47; Acts 15; Romans 1:16; Ephesians 4:11-12
+reference: Genesis 12:1-3; Isaiah 42:6; Isaiah 49:6; Isaiah 56:3-7; Matthew 3:5-12; John 1:33; Matthew 15:22-28; Mark 7:24-30; Acts 8:26-40; Acts 10; Acts 13:46-47; Acts 15; Romans 1:16; Ephesians 4:11-12
 created: 2026-08-08
 status: active
 related: "[[00b-biblical-epistemology]], [[01-convictions]], [[05-scripture-index]]"
@@ -29,9 +29,19 @@ Important groundwork: without this, Paul's Gentile mission can look like somethi
 
 ## 1. Yeshua's Earthly Commission — Who Was He Sent To?
 
-### John the Baptist's ministry — inside Israel, calling Israel to repentance
-John's ministry (Matthew 3:1–12) prepares Israel for the Messiah — he isn't calling Gentiles to become Israelites, he's warning Israelites that ethnic descent doesn't excuse unrepentance. To the Pharisees and Sadducees:
+### John the Baptist's ministry — inside Israel, calling Israel to repentance, and preparatory
+John's ministry (Matthew 3:1–12) prepares Israel for the Messiah — he isn't calling Gentiles to become Israelites, he's warning Israelites that ethnic descent doesn't excuse unrepentance. The setting is explicitly Israel/Judea:
+**Matthew 3:5–6** — ESV: "Then Jerusalem and all Judea and all the region about the Jordan were going out to him, and they were baptized by him in the river Jordan, confessing their sins." CJB: "People went out to him from Yerushalayim, from all Y'hudah, and from the whole region around the Yarden." RVR1960: "salía a él Jerusalén, y toda Judea, y toda la provincia de alrededor del Jordán."
+**Mark 1:4** — ESV: "John appeared, baptizing in the wilderness and proclaiming a baptism of repentance for the forgiveness of sins." CJB: "Yochanan the Immerser appeared in the desert, proclaiming an immersion involving turning to God from sin in order to be forgiven." RVR1960: "predicaba el bautismo de arrepentimiento para perdón de pecados."
+
+To the Pharisees and Sadducees:
 **Matthew 3:7–10** — ESV: "You brood of vipers!... do not presume to say to yourselves, 'We have Abraham as our father,' for I tell you, God is able from these stones to raise up children for Abraham." CJB: "don't suppose you can comfort yourselves by saying, 'Avraham is our father'! For I tell you that God can raise up for Avraham sons from these stones!" RVR1960: "no penséis decir dentro de vosotros mismos: A Abraham tenemos por padre; porque yo os digo que Dios puede levantar hijos a Abraham aun de estas piedras." Relevant later for covenant-identity: physical descent was never sufficient on its own, even said to Israel about Israel, before the Gentile question is raised at all.
+
+**John explicitly frames his own ministry as preparatory, not final** — a real distinction worth holding carefully, not collapsing:
+**Matthew 3:11–12** — ESV: "I baptize you with water for repentance, but he who is coming after me is mightier than I... He will baptize you with the Holy Spirit and fire. His winnowing fork is in his hand... he will clear his threshing floor... but the chaff he will burn with unquenchable fire." CJB: "he will immerse you in the Ruach HaKodesh and in fire... gathering his wheat into the barn but burning up the straw with unquenchable fire!" RVR1960: "él os bautizará en Espíritu Santo y fuego... recogerá su trigo en el granero, y quemará la paja en fuego que nunca se apagará."
+**John 1:33** — ESV: "he who sent me to baptize with water said to me, 'He on whom you see the Spirit descend and remain, this is he who baptizes with the Holy Spirit.'" CJB and RVR1960 track closely.
+
+> **Prose:** it's tempting to read "Holy Spirit and fire" as one thing said two ways — but the text doesn't collapse them, and neither should this. Matthew 3:12 continues straight into wheat gathered to the barn and chaff burned with unquenchable fire — language of separation and judgment sitting right next to the baptism language. What exactly "fire" names in that specific sentence deserves its own investigation rather than an assumed answer. What's safe to hold now: John's baptism is water, tied to repentance, explicitly preparatory in his own words; the Messiah's baptism is something more, named as "Holy Spirit and fire" without further definition here. That's the honest shape of the two verses together — not a settled equation between them.
 
 ### The Israel-focused starting point
 **Matthew 10:5–6** (already in [[01-convictions]] A.9) and **Matthew 15:24** (already cited) establish this plainly: the Twelve were sent to "the lost sheep of the house of Israel," and Yeshua states the same about His own mission.
@@ -58,6 +68,23 @@ Matthew 8:5–13 (already in [[05-scripture-index]]) has the sharpest version of
 
 **Acts 1:6–7** — immediately before the "ends of the earth" commission (1:8, already cited), the disciples ask if this is when the kingdom is restored *to Israel*. Yeshua doesn't correct the Israel-frame — He says the timing isn't theirs to know. The Israel-restoration expectation is still live in the disciples' minds at the moment of commissioning; the "ends of the earth" language in the very next verse doesn't erase it, it sits right next to it. **Acts 1:8's own sequence** — "Jerusalem and... all Judea and Samaria, and to the end of the earth" — maps onto the literary structure of Acts itself (Jerusalem-focused chapters, then Judea/Samaria, then the wider Gentile mission) — probably not accidental structure, the book's own shape narrates the expansion rather than just asserting it.
 
+### Pentecost, Samaria, and the Ethiopian Eunuch — the expansion already moving before Cornelius
+Acts 1:8's own sequence (Jerusalem → Judea and Samaria → ends of the earth, already noted above) isn't just a prediction — Acts narrates it happening, in order: Pentecost in Jerusalem (Acts 2), then Samaria (Acts 8:4–25), then the Ethiopian eunuch (Acts 8:26–40), *before* Cornelius (Acts 10) makes the Gentile question unmistakable.
+
+**Acts 8:27–28** — ESV: "there was an Ethiopian, a eunuch, a court official of Candace, queen of the Ethiopians, who was in charge of all her treasure. He had come to Jerusalem to worship and was returning... reading the prophet Isaiah." CJB and RVR1960 track closely.
+
+**Acts 8:34–36** — the eunuch asks Philip directly: ESV: "'About whom, I ask you, does the prophet say this, about himself or about someone else?' Then Philip opened his mouth, and beginning with this Scripture he told him the good news about Jesus... 'See, here is water! What prevents me from being baptized?'" CJB: "'Is the prophet talking about himself or someone else?'... 'Is there any reason why I shouldn't be immersed?'" RVR1960: "¿de quién dice el profeta esto; de sí mismo, o de algún otro?... Aquí hay agua; ¿qué impide que yo sea bautizado?"
+
+> **Prose:** the pattern here is almost a miniature model of the whole method — question, Scripture, explanation, response. The eunuch isn't approached and persuaded; he's already reading Isaiah and already asks for understanding. Philip doesn't argue him into anything — he opens the same Scripture the man already has in his hands and tells him what it says. That's worth noticing on its own, independent of what follows.
+
+**Was the eunuch a Gentile?** The honest answer, held to deliberately rather than smoothed over: **the text doesn't say.** Luke tells us he was Ethiopian, a eunuch, an official of Candace, that he'd come to Jerusalem to worship, and that he was reading Isaiah. He could have been Jewish, a proselyte, a Gentile "God-fearer" attached to Israel's worship, or something else Luke doesn't specify. What the text actually permits: he was ethnically/geographically outside Judea and already connected to the worship of Israel's God. What it doesn't establish: his covenantal status. This is a real instance of the discipline this whole framework is built around — the temptation is to read "Ethiopian" as "Gentile" and move on, and the correct move is to notice the text doesn't license that shortcut. It's exactly this uncertainty that makes Cornelius (below) the passage that actually settles the Gentile question unambiguously — Acts 8 raises it, Acts 10 answers it.
+
+**A canonical connection worth flagging, not asserting as established:** the eunuch is reading Isaiah 53 (the suffering servant) when Philip meets him. Three chapters later:
+**Isaiah 56:3–5** — ESV: "let not the eunuch say, 'Behold, I am a dry tree'... 'I will give in my house and within my walls a monument and a name better than sons and daughters.'" CJB: "the eunuch should not say, 'I am only a dried-up tree'... 'I will give them power and a name greater than sons and daughters.'" RVR1960: "Ni diga el eunuco: He aquí yo soy árbol seco... nombre mejor que el de hijos e hijas."
+**Isaiah 56:6–7** — foreigners "who join themselves to the LORD" are promised the same house of prayer, closing: "for my house shall be called a house of prayer for all peoples" (ESV) / "para todos los pueblos" (RVR1960).
+
+Whether Luke intends the reader to connect an Ethiopian eunuch's baptism with Isaiah's specific promise to eunuchs three chapters after the passage he's reading is an interpretive question, not an explicit textual claim — flagged here as a legitimate canonical comparison worth investigating further, not asserted as Luke's stated intent.
+
 ### Where the boundary is explicitly and formally lifted
 **Acts 10** (Cornelius) is the turning point, not a single "nations" proof-text. Peter needed a vision first — worth noting plainly: if Matthew 28 already meant, to the apostles, "go indiscriminately evangelize Gentiles everywhere," a vision wouldn't have been necessary. That the expansion required divine correction to Peter specifically indicates it wasn't obvious or already-understood, even to an apostle who'd heard the Great Commission directly. Peter's own account of the social boundary being crossed:
 **Acts 10:28** — ESV: "You yourselves know how unlawful it is for a Jew to associate with or to visit anyone of another nation, but God has shown me that I should not call any person common or unclean." / CJB: "for a man who is a Jew to have close association with someone who belongs to another people... is something that just isn't done. But God has shown me not to call any person common or unclean." / RVR1960: "cuán abominable es para un varón judío juntarse o acercarse a un extranjero; pero a mí me ha mostrado Dios que a ningún hombre llame común o inmundo."
@@ -75,6 +102,12 @@ Acts 15:7–11 — ESV: "God, who knows the heart, bore witness to them, by givi
 
 James's ruling, the actual formal decision:
 Acts 15:19–20 — ESV: "we should not trouble those of the Gentiles who turn to God, but should write to them to abstain from the things polluted by idols, and from sexual immorality, and from what has been strangled, and from blood." / CJB and RVR1960 track closely — see [[05-scripture-index]] for full text.
+
+### The full sequence, and what it suggests about Acts as a book
+
+John's Israel/Judea ministry (water baptism of repentance) → John announces the Messiah's greater baptism, undefined here → Yeshua's Israel-centered ministry → the Canaanite woman and the Roman centurion anticipate the expansion without yet enacting it → death and resurrection → the commission toward the nations, deliberately not over-defined (the *ethnē* question, above) → Pentecost (Acts 2) → Samaria (Acts 8:4–25) → the Ethiopian eunuch, status uncertain by design (Acts 8:26–40) → Paul's calling (Acts 9) → Cornelius, where the Gentile question becomes unambiguous (Acts 10) → the Gentile mission expanding → the Jerusalem council formally ratifying it (Acts 15).
+
+> **Prose:** Acts 1:8 predicts a sequence — Jerusalem, then Judea and Samaria, then the ends of the earth — and Acts doesn't just assert that expansion happened, it narrates it happening in that order. That's worth taking seriously as more than coincidence. Luke may not be recording missionary episodes at random; he may be deliberately narrating the progressive fulfillment of the very sequence announced in his own first chapter. If that's right, the Ethiopian eunuch's deliberately unresolved status isn't a gap in the record — it's the story showing its work, one step before the question gets a definitive answer at Cornelius's house.
 
 ### Paul's explicit self-description
 Already established in [[01-convictions]] A.16 (Acts 9:15, Galatians 2:7–9, Romans 11:13, Romans 15:15–16). Adding here:
@@ -121,8 +154,9 @@ The question this whole investigation was originally trying to answer, addressed
 
 Passes the 7-step test ([[00b-biblical-epistemology]]):
 - The nations were never outside Yahweh's stated intention — Abraham's own call already includes "all the families of the earth" (Genesis 12:3), and Isaiah 49:6 (quoted directly by Paul and Barnabas in Acts 13:47) names Israel-restoration-alone as "too light a thing." Israel's election and the blessing of the nations are the same promise from the start, not competing claims reconciled later.
-- Yeshua's earthly ministry and the Twelve's initial sending were genuinely, explicitly Israel-focused — not a technicality to explain away. John the Baptist's ministry was likewise internal to Israel, calling Israel to repentance.
+- Yeshua's earthly ministry and the Twelve's initial sending were genuinely, explicitly Israel-focused — not a technicality to explain away. John the Baptist's ministry was likewise internal to Israel, calling Israel to repentance, and explicitly preparatory in his own words (Matthew 3:11, John 1:33).
 - Gentile faith and inclusion were anticipated and enacted *within* that same ministry (the Canaanite/Syrophoenician woman, the Roman centurion), not absent until Paul — and pictured as entering Israel's existing story (reclining with Abraham, Isaac, and Jacob), not replacing it.
+- Acts appears to narrate its own predicted sequence (Acts 1:8: Jerusalem → Judea/Samaria → ends of the earth) rather than recording missionary episodes at random — Pentecost, then Samaria, then the Ethiopian eunuch (whose covenantal status the text deliberately leaves undetermined — a real demonstration of not overclaiming past what's written), then Cornelius, where the Gentile question finally becomes unambiguous.
 - The formal turn to the Gentiles happens at a specific, narratable point (Cornelius, Acts 10 — which required a vision to overcome a real, stated social boundary, and produced genuine astonishment) and gets institutionally ratified (Acts 15, itself a live demonstration of the epistemological cycle operating inside Scripture).
 - Paul's Gentile apostleship is explicit self-testimony, repeated across multiple letters, not a single proof-text.
 - The whole sequence sits inside covenant continuity running from Genesis through Ruth, Joseph, Moses, the prophets, into Ephesians and Galatians — "grafted in" (Romans 11:17) is the New Testament's own metaphor for this, not an outside imposition.

@@ -165,10 +165,30 @@ RVR1960: "Y dará a luz un hijo, y llamarás su nombre JESÚS, porque él salvar
 CJB: "I was sent only to the lost sheep of the house of Isra'el." / ESV: same.
 RVR1960: "No soy enviado sino a las ovejas perdidas de la casa de Israel."
 
+**Matthew 3:5–6** — the Israel/Judea setting of John's ministry
+ESV: "Then Jerusalem and all Judea and all the region about the Jordan were going out to him, and they were baptized by him in the river Jordan, confessing their sins."
+CJB: "People went out to him from Yerushalayim, from all Y'hudah, and from the whole region around the Yarden."
+RVR1960: "salía a él Jerusalén, y toda Judea, y toda la provincia de alrededor del Jordán."
+
+**Mark 1:4**
+ESV: "John appeared, baptizing in the wilderness and proclaiming a baptism of repentance for the forgiveness of sins."
+CJB: "Yochanan the Immerser appeared in the desert, proclaiming an immersion involving turning to God from sin in order to be forgiven."
+RVR1960: "predicaba el bautismo de arrepentimiento para perdón de pecados."
+
 **Matthew 3:7–10** — John the Baptist to the Pharisees/Sadducees, see [[00c-commission-covenant-investigation]] §1
 CJB: "don't suppose you can comfort yourselves by saying, 'Avraham is our father'! For I tell you that God can raise up for Avraham sons from these stones!"
 ESV: "do not presume to say to yourselves, 'We have Abraham as our father,' for I tell you, God is able from these stones to raise up children for Abraham."
 RVR1960: "no penséis decir dentro de vosotros mismos: A Abraham tenemos por padre; porque yo os digo que Dios puede levantar hijos a Abraham aun de estas piedras."
+
+**Matthew 3:11–12** — water baptism vs. "Holy Spirit and fire," deliberately not equated, see [[00c-commission-covenant-investigation]] §1
+ESV: "I baptize you with water for repentance... He will baptize you with the Holy Spirit and fire... he will clear his threshing floor... but the chaff he will burn with unquenchable fire."
+CJB: "he will immerse you in the Ruach HaKodesh and in fire... burning up the straw with unquenchable fire!"
+RVR1960: "él os bautizará en Espíritu Santo y fuego... quemará la paja en fuego que nunca se apagará."
+
+**John 1:33**
+ESV: "he who sent me to baptize with water said to me, 'He on whom you see the Spirit descend and remain, this is he who baptizes with the Holy Spirit.'"
+CJB: "the one who sent me to immerse in water said to me, 'The one on whom you see the Spirit descending and remaining, this is the one who immerses in the Ruach HaKodesh.'"
+RVR1960: "el que me envió a bautizar con agua, aquel me dijo: Sobre quien veas descender el Espíritu y que permanece sobre él, ese es el que bautiza con el Espíritu Santo."
 
 **Matthew 15:22–28** — the Canaanite woman, full episode, see [[00c-commission-covenant-investigation]] §1
 CJB: "He said, 'I was sent only to the lost sheep of the house of Isra'el.'... 'Lady, you are a person of great trust. Let your desire be granted.' And her daughter was healed at that very moment."
@@ -194,6 +214,26 @@ RVR1960: "era necesario que se cumpliese todo lo que está escrito de mí en la 
 ESV: "'Lord, will you at this time restore the kingdom to Israel?' He said to them, 'It is not for you to know times or seasons that the Father has fixed by his own authority.'"
 CJB: "'Lord, are you at this time going to restore self-rule to Isra'el?' He answered, 'You don't need to know the dates or the times; the Father has kept these under his own authority.'"
 RVR1960: "Señor, ¿restaurarás el reino a Israel en este tiempo? Y les dijo: No os toca a vosotros saber los tiempos o las sazones, que el Padre puso en su sola potestad"
+
+**Acts 8:27–28** — the Ethiopian eunuch, introduced; see [[00c-commission-covenant-investigation]] §1
+ESV: "there was an Ethiopian, a eunuch, a court official of Candace, queen of the Ethiopians, who was in charge of all her treasure. He had come to Jerusalem to worship and was returning... reading the prophet Isaiah."
+CJB: "an Ethiopian, a eunuch who was minister in charge of all the treasure of the Kandake, or queen, of Ethiopia. He had been to Yerushalayim to worship... reading the prophet Yesha'yahu."
+RVR1960: "un etíope, eunuco, funcionario de Candace reina de los etíopes... había venido a Jerusalén para adorar... leyendo al profeta Isaías."
+
+**Acts 8:34–36** — question, Scripture, explanation, response
+ESV: "'About whom, I ask you, does the prophet say this, about himself or about someone else?' Then Philip opened his mouth, and beginning with this Scripture he told him the good news about Jesus... 'See, here is water! What prevents me from being baptized?'"
+CJB: "'Is the prophet talking about himself or someone else?'... 'Is there any reason why I shouldn't be immersed?'"
+RVR1960: "¿de quién dice el profeta esto; de sí mismo, o de algún otro?... Aquí hay agua; ¿qué impide que yo sea bautizado?"
+
+**Isaiah 56:3–5** — canonical connection to the eunuch's baptism, interpretive not asserted, see [[00c-commission-covenant-investigation]] §1
+ESV: "let not the eunuch say, 'Behold, I am a dry tree'... 'I will give in my house and within my walls a monument and a name better than sons and daughters.'"
+CJB: "the eunuch should not say, 'I am only a dried-up tree'... 'I will give them power and a name greater than sons and daughters.'"
+RVR1960: "Ni diga el eunuco: He aquí yo soy árbol seco... nombre mejor que el de hijos e hijas."
+
+**Isaiah 56:6–7**
+ESV: "the foreigners who join themselves to the Lord... my house shall be called a house of prayer for all peoples."
+CJB: "the foreigners who join themselves to Adonai... my house will be called a house of prayer for all peoples."
+RVR1960: "a los hijos de los extranjeros que sigan a Jehová... mi casa será llamada casa de oración para todos los pueblos."
 
 **Acts 10:28** — the social boundary Peter names before his realization
 ESV: "You yourselves know how unlawful it is for a Jew to associate with or to visit anyone of another nation, but God has shown me that I should not call any person common or unclean."
