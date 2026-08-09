@@ -29,7 +29,7 @@ This is a **multi-session, multi-tranche project**. Content arrives in chunks (o
 
 **Manuscript voice (ADR-0004):** when a session produces real explanatory commentary — the "notice the sequence" kind of insight that would actually survive into the eventual book — it gets written into the relevant file immediately, marked as manuscript voice, not deferred to a later drafting pass. See [[00b-biblical-epistemology]] section A for the first worked example.
 
-[[00c-commission-covenant-investigation]] — the full working-out of the Israel/Gentile commission question: Yeshua's Israel-focused earthly ministry, the Canaanite/Syrophoenician woman, the post-resurrection turn, Cornelius, the Jerusalem council, Paul's explicit Gentile apostleship, and the covenant-continuity thread it all sits inside. Directly answers whether the Great Commission can be read as "a command to every Christian" without erasing its actual context.
+[[00c-commission-covenant-investigation]] — the full working-out of the Israel/Gentile commission question: what the Tanakh anticipated before Yeshua's ministry (Genesis 12, Isaiah 42/49), John the Baptist, Yeshua's Israel-focused earthly ministry, the Canaanite/Syrophoenician woman, the Roman centurion, the post-resurrection turn, Cornelius, the Jerusalem council (also read as a live case study of the epistemological cycle operating inside Scripture itself), Paul's explicit Gentile apostleship, the covenant-continuity thread, and — finally — whether/how the commission applies to individual believers today (apostolic mission ≠ spiritual gift ≠ individual charge ≠ readiness to answer ≠ visible conduct, five distinguished categories).
 
 ## The Four Boxes
 

@@ -129,10 +129,17 @@ RVR1960: "Y en los postreros días, dice Dios, Derramaré de mi Espíritu sobre 
 
 ## Identity, Covenant & the Nations Grafted In
 
-**Genesis 12:3**
-CJB: "I will bless those who bless you, but I will curse anyone who curses you; and by you all the families of the earth will be blessed."
-ESV: "I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed."
-RVR1960: "Bendeciré a los que te bendijeren, y a los que te maldijeren maldeciré; y serán benditas en ti todas las familias de la tierra."
+**Genesis 12:1–3** — the nations already in Abraham's call, see [[00c-commission-covenant-investigation]] §0
+CJB: "you are to be a blessing... by you all the families of the earth will be blessed." / ESV: "so that you will be a blessing... in you all the families of the earth shall be blessed."
+RVR1960: "y serás bendición... y serán benditas en ti todas las familias de la tierra."
+
+**Isaiah 42:6**
+CJB: "I shaped you and made you a covenant for the people, to be a light for the Goyim," / ESV: "I will give you as a covenant for the people, a light for the nations,"
+RVR1960: "te pondré por pacto al pueblo, por luz de las naciones,"
+
+**Isaiah 49:6** — quoted directly by Paul and Barnabas in Acts 13:47, below
+CJB: "It is not enough that you are merely my servant... I will also make you a light to the nations, so my salvation can spread to the ends of the earth." / ESV: "It is too light a thing that you should be my servant... I will make you as a light for the nations, that my salvation may reach to the end of the earth."
+RVR1960: "Poco es para mí que tú seas mi siervo... también te di por luz de las naciones, para que seas mi salvación hasta lo postrero de la tierra."
 
 **Ruth 1:16**
 CJB: "Don't press me to leave you and stop following you; for wherever you go, I will go; and wherever you stay, I will stay. Your people will be my people and your God will be my God."
@@ -158,6 +165,11 @@ RVR1960: "Y dará a luz un hijo, y llamarás su nombre JESÚS, porque él salvar
 CJB: "I was sent only to the lost sheep of the house of Isra'el." / ESV: same.
 RVR1960: "No soy enviado sino a las ovejas perdidas de la casa de Israel."
 
+**Matthew 3:7–10** — John the Baptist to the Pharisees/Sadducees, see [[00c-commission-covenant-investigation]] §1
+CJB: "don't suppose you can comfort yourselves by saying, 'Avraham is our father'! For I tell you that God can raise up for Avraham sons from these stones!"
+ESV: "do not presume to say to yourselves, 'We have Abraham as our father,' for I tell you, God is able from these stones to raise up children for Abraham."
+RVR1960: "no penséis decir dentro de vosotros mismos: A Abraham tenemos por padre; porque yo os digo que Dios puede levantar hijos a Abraham aun de estas piedras."
+
 **Matthew 15:22–28** — the Canaanite woman, full episode, see [[00c-commission-covenant-investigation]] §1
 CJB: "He said, 'I was sent only to the lost sheep of the house of Isra'el.'... 'Lady, you are a person of great trust. Let your desire be granted.' And her daughter was healed at that very moment."
 ESV: "He answered, 'I was sent only to the lost sheep of the house of Israel.'... 'O woman, great is your faith! Let it be done for you as you desire.' And her daughter was healed instantly."
@@ -182,6 +194,11 @@ RVR1960: "era necesario que se cumpliese todo lo que está escrito de mí en la 
 ESV: "'Lord, will you at this time restore the kingdom to Israel?' He said to them, 'It is not for you to know times or seasons that the Father has fixed by his own authority.'"
 CJB: "'Lord, are you at this time going to restore self-rule to Isra'el?' He answered, 'You don't need to know the dates or the times; the Father has kept these under his own authority.'"
 RVR1960: "Señor, ¿restaurarás el reino a Israel en este tiempo? Y les dijo: No os toca a vosotros saber los tiempos o las sazones, que el Padre puso en su sola potestad"
+
+**Acts 10:28** — the social boundary Peter names before his realization
+ESV: "You yourselves know how unlawful it is for a Jew to associate with or to visit anyone of another nation, but God has shown me that I should not call any person common or unclean."
+CJB: "for a man who is a Jew to have close association with someone who belongs to another people... is something that just isn't done. But God has shown me not to call any person common or unclean."
+RVR1960: "cuán abominable es para un varón judío juntarse o acercarse a un extranjero; pero a mí me ha mostrado Dios que a ningún hombre llame común o inmundo."
 
 **Acts 10:34–35** — Peter's realization, the formal turning point; see [[00c-commission-covenant-investigation]] §1
 ESV: "Truly I understand that God shows no partiality, but in every nation anyone who fears him and does what is right is acceptable to him."
@@ -484,6 +501,38 @@ Matthew 14:33 — CJB: "The men in the boat fell down before him" / ESV: "those 
 
 John 1:1–3 — ESV: "In the beginning was the Word, and the Word was with God, and the Word was God... All things were made through him." / RVR1960: "En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios... Todas las cosas por él fueron hechas."
 John 1:14 — CJB: "The Word became a human being and lived with us, and we saw his Sh'khinah, the Sh'khinah of the Father's only Son." / ESV: "the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father." / RVR1960: "aquel Verbo fue hecho carne, y habitó entre nosotros... lleno de gracia y de verdad."
+
+## Individual Application — Gifts, Charges & Conduct (distinguishing five categories, see [[00c-commission-covenant-investigation]] §3)
+
+**Ephesians 4:11–12**
+CJB: "he gave some people as emissaries, some as prophets, some as proclaimers of the Good News, and some as shepherds and teachers. Their task is to equip God's people for the work of service that builds the body of the Messiah"
+ESV: "he gave the apostles, the prophets, the evangelists, the shepherds and teachers, to equip the saints for the work of ministry, for building up the body of Christ"
+RVR1960: "a unos, apóstoles; a otros, profetas; a otros, evangelistas; a otros, pastores y maestros, a fin de perfeccionar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo"
+
+**1 Corinthians 12:4–7, 27–30**
+CJB: "there are different kinds of gifts, but the same Spirit gives them... Not all are emissaries, are they? Not all are prophets, are they? or teachers?"
+ESV: "there are varieties of gifts, but the same Spirit... Are all apostles? Are all prophets? Are all teachers?"
+RVR1960: "hay diversidad de dones, pero el Espíritu es el mismo... ¿Son todos apóstoles?, ¿son todos profetas?, ¿todos maestros?"
+
+**2 Timothy 4:5** — a specific charge to a specific person, not stated as generic
+CJB: "do the work that a proclaimer of the Good News should, and do everything your service to God requires."
+ESV: "do the work of an evangelist, fulfill your ministry."
+RVR1960: "haz obra de evangelista, cumple tu ministerio."
+
+**1 Peter 3:15** — readiness to answer, distinct from a mandate to proclaim
+CJB: "remaining always ready to give a reasoned answer to anyone who asks you to explain the hope you have in you"
+ESV: "always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you"
+RVR1960: "estad siempre preparados para presentar defensa... ante todo el que os demande razón de la esperanza que hay en vosotros"
+
+**Matthew 5:14–16** — conduct as witness
+CJB: "let your light shine before people, so that they may see the good things you do and praise your Father in heaven."
+ESV: "let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven."
+RVR1960: "alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos."
+
+**Colossians 4:5–6** — wise conduct and gracious speech toward outsiders
+CJB: "Behave wisely toward outsiders... let your conversation always be gracious and interesting, so that you will know how to respond to any particular individual."
+ESV: "Walk in wisdom toward outsiders... Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person."
+RVR1960: "Andad sabiamente para con los de afuera... Sea vuestra palabra siempre con gracia, sazonada con sal."
 
 ## Not Yet Sourced (proposed categories, no verse confirmed in a tranche yet)
 These theme headings were proposed as future appendix sections but don't yet have a verse actually discussed and cited in this framework — don't backfill them with guessed references. Add real citations here only once an actual tranche produces them: Isaiah 55:8–9, Ephesians 2 (beyond 2:11-22, already sourced above), Exodus 12, Isaiah 56, James 1, Romans 14.
