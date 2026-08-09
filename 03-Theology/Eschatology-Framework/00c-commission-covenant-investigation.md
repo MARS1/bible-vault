@@ -43,6 +43,21 @@ To the Pharisees and Sadducees:
 
 > **Prose:** it's tempting to read "Holy Spirit and fire" as one thing said two ways — but the text doesn't collapse them, and neither should this. Matthew 3:12 continues straight into wheat gathered to the barn and chaff burned with unquenchable fire — language of separation and judgment sitting right next to the baptism language. What exactly "fire" names in that specific sentence deserves its own investigation rather than an assumed answer. What's safe to hold now: John's baptism is water, tied to repentance, explicitly preparatory in his own words; the Messiah's baptism is something more, named as "Holy Spirit and fire" without further definition here. That's the honest shape of the two verses together — not a settled equation between them.
 
+### Was John Elijah? Scripture creates this tension on purpose — don't flatten it
+Four texts, held beside each other rather than one explaining the others away:
+
+**Luke 1:16–17** (Gabriel, before John's birth) — ESV: "he will go before him in the spirit and power of Elijah, to turn the hearts of the fathers to the children." CJB: "He will go out ahead of Adonai in the spirit and power of Eliyahu." RVR1960: "irá delante de él con el espíritu y el poder de Elías." Precise language: *spirit and power of* Elijah, not a claim of identity.
+
+**Matthew 11:13–14** (Yeshua) — ESV: "if you are willing to accept it, he is Elijah who is to come." CJB: "he is Eliyahu, whose coming was predicted." RVR1960: "él es aquel Elías que había de venir." Stronger — but conditioned on "if you are willing to accept it," itself worth noting.
+
+**Matthew 17:10–13** (after the Transfiguration) — ESV: "Elijah has already come, and they did not recognize him... Then the disciples understood that he was speaking to them of John the Baptist." CJB and RVR1960 track closely. Matthew states the identification explicitly, in his own narration, not left to inference.
+
+**John 1:21** (John, asked directly) — ESV: "'Are you Elijah?' He said, 'I am not.'" CJB: "'Are you Eliyahu?' 'No, I am not,' he said." RVR1960: "¿Eres tú Elías? Dijo: No soy." John himself denies it, in his own words, to the priests and Levites who ask.
+
+**Malachi 4:5–6** (the prophecy behind all four texts) — ESV: "Behold, I will send you Elijah the prophet before the great and awesome day of the Lord comes. And he will turn the hearts of fathers to their children." RVR1960: "yo os envío el profeta Elías, antes que venga el día de Jehová, grande y terrible." *(Not available in CJB under this reference.)*
+
+> **Prose:** don't resolve this by quietly explaining one verse away to protect another — Scripture doesn't do that here, and this framework shouldn't either. John himself says he is not Elijah. Yeshua says John is. Both are recorded, in the same set of books, without either author flagging a contradiction. The reading that holds all four together without forcing one to yield: John is not literally Elijah returned as the same identity — that's what he denies, directly, to a direct question. He fulfills Elijah's prophesied role, in Elijah's spirit and power, as Yeshua and Matthew both affirm. Typological/prophetic fulfillment, not reincarnation — a real distinction, not a dodge, and one the text itself seems to want held this way rather than flattened toward either extreme.
+
 ### The Israel-focused starting point
 **Matthew 10:5–6** (already in [[01-convictions]] A.9) and **Matthew 15:24** (already cited) establish this plainly: the Twelve were sent to "the lost sheep of the house of Israel," and Yeshua states the same about His own mission.
 

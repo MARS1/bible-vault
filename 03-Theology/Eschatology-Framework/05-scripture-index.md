@@ -437,6 +437,17 @@ Acts 17:28 (Aratus) — ESV: "as even some of your own poets have said, 'For we 
 Titus 1:12–13 (Epimenides) — ESV: "One of the Cretans, a prophet of their own, said, 'Cretans are always liars, evil beasts, lazy gluttons.' This testimony is true." / CJB: "Even one of the Cretans' own prophets has said... and it's true!" / RVR1960: "Uno de ellos, su propio profeta, dijo... Este testimonio es verdadero."
 1 Corinthians 15:33 (Menander) — ESV: "Bad company ruins good morals." / CJB: "Bad company ruins good character." / RVR1960: "las malas conversaciones corrompen las buenas costumbres."
 
+**Revelation 22:14–15** — the "outside" tension, see [[04-open-questions]] item 12
+CJB: "How blessed are those who wash their robes, so that they have the right to eat from the Tree of Life and go through the gates into the city!"
+ESV: "Blessed are those who wash their robes, so that they may have the right to the tree of life and that they may enter the city by the gates."
+RVR1960: "Bienaventurados los que lavan sus ropas, para tener derecho al árbol de la vida, y para entrar por las puertas en la ciudad."
+*(v.15's exclusion list — "dogs, sorcerers, sexually immoral, murderers, idolaters" — is consistent across all three translations.)*
+
+**2 Peter 3:9** — patience as mercy, held alongside the Revelation 22 tension, not a resolution to it
+CJB: "it is not his purpose that anyone should be destroyed, but that everyone should turn from his sins."
+ESV: "not wishing that any should perish, but that all should reach repentance."
+RVR1960: "no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento."
+
 ## Satan's Fall, War in Heaven & Messiah's Victory
 
 **Colossians 2:15**
@@ -573,6 +584,56 @@ RVR1960: "alumbre vuestra luz delante de los hombres, para que vean vuestras bue
 CJB: "Behave wisely toward outsiders... let your conversation always be gracious and interesting, so that you will know how to respond to any particular individual."
 ESV: "Walk in wisdom toward outsiders... Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person."
 RVR1960: "Andad sabiamente para con los de afuera... Sea vuestra palabra siempre con gracia, sazonada con sal."
+
+## John the Baptist & Elijah Typology (see [[00c-commission-covenant-investigation]] §1)
+
+**Luke 1:16–17**
+CJB: "He will go out ahead of Adonai in the spirit and power of Eliyahu to turn the hearts of fathers to their children"
+ESV: "he will go before him in the spirit and power of Elijah, to turn the hearts of the fathers to the children"
+RVR1960: "irá delante de él con el espíritu y el poder de Elías, para hacer volver los corazones de los padres a los hijos"
+
+**Matthew 11:13–14**
+CJB: "if you are willing to accept it, he is Eliyahu, whose coming was predicted."
+ESV: "if you are willing to accept it, he is Elijah who is to come."
+RVR1960: "si queréis recibirlo, él es aquel Elías que había de venir."
+
+**Matthew 17:10–13**
+CJB: "Eliyahu has come already, and people did not recognize him... the talmidim understood that he was talking to them about Yochanan the Immerser."
+ESV: "Elijah has already come, and they did not recognize him... Then the disciples understood that he was speaking to them of John the Baptist."
+RVR1960: "Elías ya vino, y no le conocieron... los discípulos comprendieron que les había hablado de Juan el Bautista."
+
+**John 1:21**
+CJB: "'Are you Eliyahu?' 'No, I am not,' he said."
+ESV: "'Are you Elijah?' He said, 'I am not.'"
+RVR1960: "¿Eres tú Elías? Dijo: No soy."
+
+**Malachi 4:5–6**
+ESV: "Behold, I will send you Elijah the prophet before the great and awesome day of the Lord comes."
+RVR1960: "yo os envío el profeta Elías, antes que venga el día de Jehová, grande y terrible."
+*(Not available in CJB under this reference.)*
+
+## Yahweh as Giver, the Spirit as Guarantee & Stewardship (see [[00d-grace-and-stewardship]])
+
+**James 1:5** — CJB: "let him ask God, who gives to all generously and without reproach." / ESV: "let him ask God, who gives generously to all without reproach." / RVR1960: "pídala a Dios, el cual da a todos abundantemente y sin reproche."
+**James 1:17** — CJB: "Every good act of giving and every perfect gift is from above." / ESV: "Every good gift and every perfect gift is from above." / RVR1960: "Toda buena dádiva y todo don perfecto desciende de lo alto."
+**Matthew 7:7–11** — CJB: "Keep asking, and it will be given to you... how much more will your Father in heaven keep giving good things." / ESV: "Ask, and it will be given to you... how much more will your Father who is in heaven give good things." / RVR1960: "Pedid, y se os dará... vuestro Padre que está en los cielos dará buenas cosas."
+**John 3:16** — CJB: "God so loved the world that he gave his only and unique Son." / ESV: "For God so loved the world, that he gave his only Son." / RVR1960: "de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito."
+**Luke 11:13** — CJB: "how much more will the Father keep giving the Ruach HaKodesh from heaven." / ESV: "how much more will the heavenly Father give the Holy Spirit." / RVR1960: "¿cuánto más vuestro Padre celestial dará el Espíritu Santo?"
+**Ephesians 1:13–14** — CJB: "sealed by him with the promised Ruach HaKodesh, who guarantees our inheritance." / ESV: "sealed with the promised Holy Spirit, who is the guarantee of our inheritance." / RVR1960: "sellados con el Espíritu Santo de la promesa, que es las arras de nuestra herencia."
+**2 Corinthians 1:21–22** — CJB: "given us his Spirit in our hearts as a guarantee for the future." / ESV: "given us his Spirit in our hearts as a guarantee." / RVR1960: "nos ha dado las arras del Espíritu en nuestros corazones."
+**2 Corinthians 5:5** — CJB: "as a pledge he has given us his Spirit." / ESV: "given us the Spirit as a guarantee." / RVR1960: "quien nos ha dado las arras del Espíritu."
+**Matthew 25:14–15, 20–21** — CJB: "'Excellent! You are a good and trustworthy servant.'" / ESV: "'Well done, good and faithful servant.'" / RVR1960: "Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré."
+**Genesis 1:26–28** — CJB: "let them rule over the fish in the sea... Be fruitful, multiply, fill the earth and subdue it." / ESV: "let them have dominion... Be fruitful and multiply and fill the earth and subdue it." / RVR1960: "señoree en los peces del mar... Fructificad y multiplicaos; llenad la tierra, y sojuzgadla."
+**Genesis 2:15** — CJB: "took the person and put him in the garden of 'Eden to cultivate and care for it." / ESV: "took the man and put him in the garden of Eden to work it and keep it." / RVR1960: "lo puso en el huerto de Edén, para que lo labrara y lo guardase."
+**Ephesians 2:8–10** — CJB: "delivered by grace through trusting... created in union with the Messiah Yeshua for a life of good actions already prepared by God." / ESV: "by grace you have been saved through faith... created in Christ Jesus for good works, which God prepared beforehand." / RVR1960: "por gracia sois salvos por medio de la fe... creados en Cristo Jesús para buenas obras, las cuales Dios preparó de antemano."
+**Matthew 7:16** — CJB: "You will recognize them by their fruit." / ESV: "You will recognize them by their fruits." / RVR1960: "Por sus frutos los conoceréis."
+
+## Ruach (Wind/Breath/Spirit) & Humanity's Status — flagged for future word study, see [[00d-grace-and-stewardship]]
+
+**Ecclesiastes 3:19** — CJB: "the same things that happen to people happen to animals, the very same thing." / ESV: "what happens to the children of man and what happens to the beasts is the same." / RVR1960: "lo que sucede a los hijos de los hombres, y lo que sucede a las bestias, un mismo suceso es."
+**Genesis 2:7** — CJB: "breathed into his nostrils the breath of life, so that he became a living being." / ESV: "breathed into his nostrils the breath of life, and the man became a living creature." / RVR1960: "sopló en su nariz aliento de vida, y fue el hombre un ser viviente."
+**Psalm 104:29–30** — CJB: "if you hold back their breath, they perish... if you send out your breath, they are created." / ESV: "when you take away their breath, they die... when you send forth your Spirit, they are created." / RVR1960: "Les quitas el hálito, dejan de ser... Envías tu Espíritu, son creados."
+**Psalm 8:4–6** — textual variant, Hebrew *elohim* vs. Septuagint/Hebrews 2 "angels": CJB: "You made him but little lower than the angels." / ESV: "a little lower than the heavenly beings." / RVR1960: "Le has hecho poco menor que los ángeles."
 
 ## Not Yet Sourced (proposed categories, no verse confirmed in a tranche yet)
 These theme headings were proposed as future appendix sections but don't yet have a verse actually discussed and cited in this framework — don't backfill them with guessed references. Add real citations here only once an actual tranche produces them: Isaiah 55:8–9, Ephesians 2 (beyond 2:11-22, already sourced above), Exodus 12, Isaiah 56, James 1, Romans 14.

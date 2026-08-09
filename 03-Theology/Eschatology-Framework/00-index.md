@@ -6,7 +6,7 @@ tags: [eschatology, preterism, framework, personal-study]
 reference: Revelation 20
 created: 2026-08-06
 status: active
-related: "[[00b-biblical-epistemology]], [[00c-commission-covenant-investigation]], [[01-convictions]], [[02-historical-observations]], [[03-hypotheses]], [[04-open-questions]], [[05-scripture-index]], [[06-revelation-19-22-timeline]]"
+related: "[[00b-biblical-epistemology]], [[00c-commission-covenant-investigation]], [[00d-grace-and-stewardship]], [[01-convictions]], [[02-historical-observations]], [[03-hypotheses]], [[04-open-questions]], [[05-scripture-index]], [[06-revelation-19-22-timeline]]"
 ---
 
 > *"Do not quench the Spirit. Do not despise prophecies, but test everything; hold fast what is good."*
@@ -29,7 +29,9 @@ This is a **multi-session, multi-tranche project**. Content arrives in chunks (o
 
 **Manuscript voice (ADR-0004):** when a session produces real explanatory commentary — the "notice the sequence" kind of insight that would actually survive into the eventual book — it gets written into the relevant file immediately, marked as manuscript voice, not deferred to a later drafting pass. See [[00b-biblical-epistemology]] section A for the first worked example.
 
-[[00c-commission-covenant-investigation]] — the full working-out of the Israel/Gentile commission question: what the Tanakh anticipated before Yeshua's ministry (Genesis 12, Isaiah 42/49), John the Baptist, Yeshua's Israel-focused earthly ministry, the Canaanite/Syrophoenician woman, the Roman centurion, the post-resurrection turn, Cornelius, the Jerusalem council (also read as a live case study of the epistemological cycle operating inside Scripture itself), Paul's explicit Gentile apostleship, the covenant-continuity thread, and — finally — whether/how the commission applies to individual believers today (apostolic mission ≠ spiritual gift ≠ individual charge ≠ readiness to answer ≠ visible conduct, five distinguished categories).
+[[00c-commission-covenant-investigation]] — the full working-out of the Israel/Gentile commission question: what the Tanakh anticipated before Yeshua's ministry (Genesis 12, Isaiah 42/49), John the Baptist (including the John/Elijah typology tension, held deliberately unresolved between "I am not Elijah" and "he is Elijah"), Yeshua's Israel-focused earthly ministry, the Canaanite/Syrophoenician woman, the Roman centurion, the post-resurrection turn, the Ethiopian eunuch (covenantal status deliberately left undetermined), Cornelius, the Jerusalem council (also read as a live case study of the epistemological cycle operating inside Scripture itself), Paul's explicit Gentile apostleship, the covenant-continuity thread, and — finally — whether/how the commission applies to individual believers today (apostolic mission ≠ spiritual gift ≠ individual charge ≠ readiness to answer ≠ visible conduct, five distinguished categories).
+
+[[00d-grace-and-stewardship]] — a separate thread from the same sessions: Yahweh as giver before steward, the Spirit as *arrabōn* (guarantee/pledge, not an investment expecting return), stewardship kept distinct from that pledge (the parable of the talents), Ephesians 2:8–10 holding grace and good works in the right order, plus two flagged-for-later word studies (ruach as wind/breath/spirit, and Psalm 8's Hebrew/Greek textual variant on "angels").
 
 ## The Four Boxes
 
