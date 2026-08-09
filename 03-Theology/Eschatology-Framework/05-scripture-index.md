@@ -266,6 +266,41 @@ ESV: "Now those who were scattered went about preaching the word."
 CJB: "those who were scattered announced the Good News of the Word wherever they went."
 RVR1960: "los que fueron esparcidos iban por todas partes anunciando el evangelio."
 
+**Acts 6:5** — Philip identified as one of the seven (not the apostle)
+ESV: "they chose Stephen, a man full of faith and of the Holy Spirit, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolaus, a proselyte of Antioch."
+RVR1960: "eligieron a Esteban, varón lleno de fe y del Espíritu Santo, a Felipe, a Prócoro..."
+
+**Acts 8:5–8** — Philip preaches Messiah in Samaria
+ESV: "Philip went down to the city of Samaria and proclaimed to them the Christ... So there was much joy in that city."
+CJB: "Philip went down to a city in Shomron and was proclaiming the Messiah to them."
+RVR1960: "Felipe, descendiendo a la ciudad de Samaria, les predicaba a Cristo... había gran gozo en aquella ciudad."
+
+**Acts 8:12**
+ESV: "when they believed Philip as he preached good news about the kingdom of God and the name of Jesus Christ, they were baptized, both men and women."
+CJB: "they were immersed, both men and women."
+RVR1960: "se bautizaban hombres y mujeres."
+
+**Acts 8:14–17** — the Spirit-sequence anomaly (water baptism first, Ruach later)
+ESV: "he had not yet fallen on any of them, but they had only been baptized in the name of the Lord Jesus. Then they laid their hands on them and they received the Holy Spirit."
+CJB: "until then he had not come upon any of them; they had only been immersed into the name of the Lord Yeshua."
+RVR1960: "aún no había descendido sobre ninguno de ellos, sino que solamente habían sido bautizados en el nombre de Jesús."
+*Compare Acts 10:44–48, where the sequence runs the opposite direction — see [[00c-commission-covenant-investigation]].*
+
+**Acts 8:18–24** — Simon Magus; the gift that cannot be purchased
+ESV: "'May your silver perish with you, because you thought you could obtain the gift of God with money!... for your heart is not right before God.'"
+CJB: "'Your silver go to ruin — and you with it, for thinking the free gift of God can be bought!... in the eyes of God, your heart is crooked.'"
+RVR1960: "Tu dinero perezca contigo, porque has pensado que el don de Dios se obtiene con dinero... tu corazón no es recto delante de Dios."
+
+**Acts 8:26, 29–31** — Philip redirected; the responsive approach
+ESV: "'Rise and go toward the south to the road that goes down from Jerusalem to Gaza.'... 'Do you understand what you are reading?' And he said, 'How can I, unless someone guides me?'"
+CJB: "'Do you understand what you're reading?'... 'How can I, unless someone explains it to me?'"
+RVR1960: "Levántate y ve hacia el sur... Pero ¿entiendes lo que lees? Él dijo: ¿Y cómo podré, si alguno no me enseñare?"
+
+**John 4:9, 42** — Jewish/Samaritan tension, and Samaritans' own conclusion
+ESV (4:9): "How is it that you, a Jew, ask for a drink from me, a woman of Samaria?" / (4:42): "we know that this is indeed the Savior of the world."
+CJB (4:42): "this man really is the Savior of the world."
+RVR1960 (4:42): "verdaderamente este es el Salvador del mundo."
+
 **Acts 8:27–28** — the Ethiopian eunuch, introduced; see [[00c-commission-covenant-investigation]] §1
 ESV: "there was an Ethiopian, a eunuch, a court official of Candace, queen of the Ethiopians, who was in charge of all her treasure. He had come to Jerusalem to worship and was returning... reading the prophet Isaiah."
 CJB: "an Ethiopian, a eunuch who was minister in charge of all the treasure of the Kandake, or queen, of Ethiopia. He had been to Yerushalayim to worship... reading the prophet Yesha'yahu."

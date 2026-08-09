@@ -143,7 +143,69 @@ Acts 3–7 stays centered on Jerusalem, the Temple, and Israel. Then the mechani
 
 Directly maps onto Acts 1:8's own sequence (Jerusalem → Judea and Samaria → ends of the earth) — the geographic movement Luke has been narrating happens here specifically *because of* persecution, not a planned missionary campaign.
 
-**Acts 8:4** — and critically, who's doing the preaching: ESV: "Now those who were scattered went about preaching the word." CJB: "those who were scattered announced the Good News of the Word wherever they went." RVR1960: "los que fueron esparcidos iban por todas partes anunciando el evangelio." The apostles specifically stayed in Jerusalem (8:1) — the people carrying the word outward in 8:4 are the *scattered ordinary believers*, not the Twelve. Directly relevant to Section 3's individual-application question: whatever "apostolic mission" means as its own category, Acts itself narrates non-apostles proclaiming the word as a matter of course, not as an exception needing special justification. Worth weighing carefully rather than either over- or under-reading — Luke states it as simple narrative fact, not as a theological argument for universal evangelistic duty. Full investigation of Acts 8 (Philip, Samaria, the Ethiopian eunuch's covenantal status) continues in the section above.
+**Acts 8:4** — and critically, who's doing the preaching: ESV: "Now those who were scattered went about preaching the word." CJB: "those who were scattered announced the Good News of the Word wherever they went." RVR1960: "los que fueron esparcidos iban por todas partes anunciando el evangelio." The apostles specifically stayed in Jerusalem (8:1) — the people carrying the word outward in 8:4 are the *scattered ordinary believers*, not the Twelve.
+
+**The Greek matters here** (per ADR-0003: go to source language when wording is the actual question). Luke's verb is **εὐαγγελιζόμενοι** (*euangelizomenoi*), from **εὐαγγελίζω** (*euangelizō*) — the root behind "evangelize" and "evangelist." This isn't "they lived well and people asked why." They are actively announcing the message. The word choice rules out reading Acts 8:4 as merely passive witness by conduct.
+
+**First real correction to the original question.** Any formulation of the form *"only the apostles were commissioned to proclaim"* becomes very hard to sustain against Acts 8:1–4 — Luke says the apostles stayed put and the scattered believers proclaimed. But note carefully what this does and doesn't establish: it eliminates one extreme without proving the other. It does **not** establish that every believer in every generation carries an identical individual obligation to conduct active evangelism. The evidence tightens the question rather than resolving it toward either pole — which is exactly what a real investigation should do to a question.
+
+### Philip in Samaria — a Non-Apostle with a Recognizable Evangelistic Ministry
+
+**Acts 8:5–8** — ESV: "Philip went down to the city of Samaria and proclaimed to them the Christ. And the crowds with one accord paid attention to what was being said by Philip... So there was much joy in that city." CJB: "Philip went down to a city in Shomron and was proclaiming the Messiah to them." RVR1960: "Felipe, descendiendo a la ciudad de Samaria, les predicaba a Cristo."
+
+**Which Philip.** Not Philip the Apostle — this is Philip from **Acts 6:5**, one of the seven chosen to oversee distribution: ESV: "they chose Stephen... and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolaus." Luke confirms this identification much later in **Acts 21:8** (already cited in the women/Ruach section above): "Philip the evangelist, who was one of the seven." The Twelve remain in Jerusalem while a non-apostle preaches Messiah in Samaria.
+
+This connects directly to Section 3's five-category distinction: Ephesians 4:11's "some... apostles, some prophets, some **evangelists**, some shepherds and teachers" isn't an abstract list — Philip is a narrated instance of the evangelist category operating outside the apostolic office. **Proclamation extends beyond the apostles, while Scripture simultaneously recognizes evangelism as a particular gifting.** Both, not either.
+
+**Why Samaria specifically isn't just the next dot on a map.** Jewish/Samaritan tension was real and religious, not merely geographic — **John 4:9** states it plainly: ESV: "How is it that you, a Jew, ask for a drink from me, a woman of Samaria?" (with John's own aside that "Jews have no dealings with Samaritans"). And yet **John 4:42** already recorded Samaritans concluding: ESV: "we know that this is indeed the Savior of the world." CJB: "this man really is the Savior of the world." RVR1960: "verdaderamente este es el Salvador del mundo." Yeshua had explicitly named Samaria in the Acts 1:8 sequence; John 4 shows the ground was not untouched when Philip arrived.
+
+**Acts 8:12** — ESV: "when they believed Philip as he preached good news about the kingdom of God and the name of Jesus Christ, they were baptized, both men and women." RVR1960: "se bautizaban hombres y mujeres." The baptismal thread continues (John → Pentecost → Samaria), and note "both men and women" as a further data point alongside the women/Ruach section above.
+
+### The Spirit-Sequence Anomaly — Why Narrative Isn't Automatically Procedure
+
+**Acts 8:14–17** — ESV: "when the apostles at Jerusalem heard that Samaria had received the word of God, they sent to them Peter and John, who came down and prayed for them that they might receive the Holy Spirit, **for he had not yet fallen on any of them, but they had only been baptized in the name of the Lord Jesus**. Then they laid their hands on them and they received the Holy Spirit." CJB: "until then he had not come upon any of them; they had only been immersed into the name of the Lord Yeshua." RVR1960: "aún no había descendido sobre ninguno de ellos, sino que solamente habían sido bautizados en el nombre de Jesús."
+
+Set against Cornelius (Acts 10:44–48, § above), where the Ruach falls **before** water baptism and Peter asks "can anyone withhold water for baptizing these people, who have received the Holy Spirit just as we have?" — the two sequences run opposite directions:
+- **Acts 8:** believe → water baptism → (later) receive the Ruach through apostolic prayer and laying on of hands
+- **Acts 10:** hear → receive the Ruach → then water baptism
+
+> **Prose:** the temptation is to extract a formula — a fixed order of operations that every conversion must follow, with Acts as the procedure manual. But Acts itself refuses to supply one. Within three chapters Luke narrates the same essential reality arriving in opposite orders, and he doesn't flag either as irregular or corrective of the other. That's an epistemological warning worth stating as its own principle: **narrative descriptions should not be converted into universal procedural formulas unless Scripture itself establishes them as such.** Describing what happened is not the same act as prescribing what must always happen — and a book that narrates multiple sequences without harmonizing them is telling us something about how tightly it wants to be systematized.
+
+### Simon Magus — The Gift That Cannot Be Purchased
+
+**Acts 8:18–24** — Simon, a former practitioner of magic who had believed and been baptized (8:9–13), sees the Spirit given through the apostles' hands and offers money. ESV: "'Give me this power also...' But Peter said to him, 'May your silver perish with you, because you thought you could obtain **the gift of God** with money! You have neither part nor lot in this matter, **for your heart is not right before God**.'" CJB: "'Your silver go to ruin — and you with it, for thinking the free gift of God can be bought!... in the eyes of God, your heart is crooked.'" RVR1960: "Tu dinero perezca contigo, porque has pensado que el don de Dios se obtiene con dinero... porque tu corazón no es recto delante de Dios."
+
+Two connections, both real:
+- **Back to [[00d-grace-and-stewardship]]:** the Ruach is *gift* — Peter's word is exactly the category that file establishes. It cannot be purchased, commercialized, or acquired as spiritual technique. Simon's error is trying to reverse the direction grace runs.
+- **Heart over outward participation:** Simon's résumé is complete — he heard, believed, was baptized, and stayed with Philip (8:13) — and Peter still says his heart is not right. Directly relevant to any theology that treats baptism or visible religious participation as automatic proof of a right standing. The external sequence was intact; Peter judged something the sequence couldn't show.
+
+### Philip Redirected — From Crowds to One Man
+
+**Acts 8:26** — ESV: "Now an angel of the Lord said to Philip, 'Rise and go toward the south to the road that goes down from Jerusalem to Gaza.'" RVR1960: "Levántate y ve hacia el sur, por el camino que desciende de Jerusalén a Gaza, el cual es desierto." Philip leaves a city-wide awakening (8:8: "much joy in that city") for a desert road and one traveler.
+
+**Acts 8:29–31** — ESV: "the Spirit said to Philip, 'Go over and join this chariot.' So Philip ran to him and heard him reading Isaiah the prophet and asked, 'Do you understand what you are reading?' And he said, 'How can I, unless someone guides me?'" CJB: "'Do you understand what you're reading?'... 'How can I, unless someone explains it to me?'" RVR1960: "Pero ¿entiendes lo que lees? Él dijo: ¿Y cómo podré, si alguno no me enseñare?"
+
+> **Prose:** notice the actual shape of this encounter, because it cuts against both simplifications of the original question. The Spirit directs Philip; Philip approaches; he hears what the man is already reading; he asks a question rather than delivering a speech; the man admits he needs help and *invites* Philip up; only then does Philip explain. This is neither "never speak unless asked" nor "press a presentation on every stranger." It is responsive, relational, and contextual — Philip begins with the question the man is actually asking, not the message Philip arrived wanting to give. And the scale is worth noticing too: leaving a city-wide awakening for one traveler on a desert road is strange by any numerical measure of ministry, which is itself the point. Importance is not being measured by audience size.
+
+The eunuch's response and baptism (Acts 8:34–36), and the deliberately-undetermined question of his covenantal status, are covered in the section above — not repeated here.
+
+### Acts 8 as a Whole — What It Establishes, and What It Doesn't
+
+Luke's sequence in this single chapter: Jerusalem → persecution → ordinary scattered believers proclaim → Philip, a non-apostle, evangelizes → Samaria receives the word → apostles come and confirm → Samaritans receive the Ruach → Philip is redirected → one Ethiopian traveler receives the good news → baptism → Philip continues through other towns. All of it sitting underneath Acts 1:8's announced route. Luke's geography is functioning as theology.
+
+**Established with real strength:**
+1. Proclamation was not restricted to the Twelve (Acts 8:4, with *euangelizō*).
+2. Some non-apostolic believers exercised recognizable evangelistic ministry (Philip, confirmed as "the evangelist" in Acts 21:8).
+3. The mission is visibly expanding past Jerusalem and Judea, exactly along the announced route.
+4. Baptism accompanies reception of the gospel, but Acts presents **no single invariant sequence** between water baptism and receiving the Spirit.
+
+**Not established — and these stay open:**
+- That every believer possesses the gift or office of evangelist (1 Corinthians 12:29–30 explicitly says otherwise about apostles/prophets/teachers; the same logic bears on this).
+- That every believer must continually approach strangers and proselytize.
+- That righteous living replaces verbal witness (Acts 8:4's verb rules that out as a complete account).
+- That the Great Commission ceased with the apostolic generation.
+
+> **Prose:** Acts 8 corrects two opposite simplifications. The gospel cannot be confined to the apostles, because believers scattered by persecution themselves carry the word outward. Yet neither does Luke portray evangelism as an undifferentiated technique performed identically by everyone. Philip emerges as a particular evangelist, and his encounter with the Ethiopian traveler is strikingly responsive: the Spirit directs, Philip approaches, a question opens the conversation, Scripture provides the starting point, Messiah becomes the answer, and baptism follows faith. The narrative therefore resists both silence and coercion. Witness is active, but it is also discerning.
 
 **Acts 8:27–28** — ESV: "there was an Ethiopian, a eunuch, a court official of Candace, queen of the Ethiopians, who was in charge of all her treasure. He had come to Jerusalem to worship and was returning... reading the prophet Isaiah." CJB and RVR1960 track closely.
 
