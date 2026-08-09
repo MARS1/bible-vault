@@ -321,6 +321,50 @@ ESV: "the foreigners who join themselves to the Lord... my house shall be called
 CJB: "the foreigners who join themselves to Adonai... my house will be called a house of prayer for all peoples."
 RVR1960: "a los hijos de los extranjeros que sigan a Jehová... mi casa será llamada casa de oración para todos los pueblos."
 
+**Acts 9:1–2** — "the Way" as the movement's early self-description
+ESV: "still breathing threats and murder against the disciples of the Lord... if he found any belonging to the Way, men or women, he might bring them bound to Jerusalem."
+CJB: "who belonged to 'the Way.'" / RVR1960: "algunos hombres o mujeres de este Camino."
+
+**Acts 9:4–5** — Messiah identifying with His people
+ESV: "'Saul, Saul, why are you persecuting me?'... 'I am Jesus, whom you are persecuting.'"
+CJB: "'Sha'ul! Sha'ul! Why do you keep persecuting me?'... 'I am Yeshua, and you are persecuting me.'"
+RVR1960: "Saulo, Saulo, ¿por qué me persigues?... Yo soy Jesús, a quien tú persigues."
+
+**Acts 10:1–2** — Cornelius, a God-fearer before Peter arrives
+ESV: "a centurion... a devout man who feared God with all his household, gave alms generously to the people, and prayed continually to God."
+CJB: "a devout man, a 'God-fearer,' as was his whole household."
+RVR1960: "piadoso y temeroso de Dios con toda su casa, y que hacía muchas limosnas al pueblo, y oraba a Dios siempre."
+
+**Acts 10:3–4**
+ESV: "'Your prayers and your alms have ascended as a memorial before God.'"
+CJB: "'Your prayers and your acts of charity have gone up into God's presence, so that he has you on his mind.'"
+RVR1960: "Tus oraciones y tus limosnas han subido para memoria delante de Dios."
+
+**Acts 10:17** — revelation received, not yet understood
+ESV: "while Peter was inwardly perplexed as to what the vision that he had seen might mean..."
+CJB: "Kefa was still puzzling over the meaning of the vision he had seen..."
+RVR1960: "mientras Pedro estaba perplejo dentro de sí sobre lo que significaría la visión que había visto."
+
+**Acts 11:2–4** — the Jerusalem challenge; Peter answers with evidence, not rank
+ESV: "the circumcision party criticized him, saying, 'You went to uncircumcised men and ate with them.' But Peter began and explained it to them in order."
+CJB: "Kefa began explaining in detail what had actually happened."
+RVR1960: "comenzó Pedro a contarles por orden lo sucedido."
+
+**Acts 11:16–17**
+ESV: "And I remembered the word of the Lord... 'John baptized with water, but you will be baptized with the Holy Spirit.'... who was I that I could stand in God's way?"
+CJB: "who was I to stand in God's way?"
+RVR1960: "¿quién era yo que pudiese estorbar a Dios?"
+
+**Acts 11:19–21** — the correction to over-reading Acts 8:4
+ESV: "those who were scattered... traveled as far as Phoenicia and Cyprus and Antioch, speaking the word to no one except Jews. But there were some of them, men of Cyprus and Cyrene, who on coming to Antioch spoke to the Hellenists also."
+CJB: "they spoke God's word, but only to Jews... began speaking to the Greeks too."
+RVR1960: "no hablando a nadie la palabra, sino solo a los judíos... hablaron también a los griegos."
+*Textual variant on v.20 (Hellēnistas vs. Hellēnas) — bookmarked, see [[04-open-questions]].*
+
+**Acts 26:28 / 1 Peter 4:16** — the "Christian" label used without censure, see [[01-convictions]] B.5
+Acts 26:28 — ESV: "In a short time would you persuade me to be a Christian?" / CJB: "you're trying to convince me to become Messianic?" / RVR1960: "Por poco me persuades a ser cristiano."
+1 Peter 4:16 — ESV: "if anyone suffers as a Christian, let him not be ashamed, but let him glorify God in that name." / CJB: "if anyone suffers for being Messianic, let him not be ashamed." / RVR1960: "si alguno padece como cristiano, no se avergüence, sino glorifique a Dios por ello."
+
 **Acts 10:9–16** — the vision; exegesis/eisegesis case study, see [[00c-commission-covenant-investigation]] §1
 ESV: "he fell into a trance and saw... something like a great sheet descending. In it were all kinds of animals and reptiles and birds of the air. And there came a voice to him: 'Rise, Peter; kill and eat.' But Peter said, 'By no means, Lord; for I have never eaten anything that is common or unclean.'... 'What God has made clean, do not call common.' This happened three times."
 CJB: "'Get up, Kefa, slaughter and eat!'... 'No, sir! Absolutely not! I have never eaten food that was unclean or treif.'... 'Stop treating as unclean what God has made clean.'"
