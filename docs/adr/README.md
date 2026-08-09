@@ -11,3 +11,4 @@ Not code-architecture ADRs — same pattern, applied to a research/writing vault
 | [ADR-0001](ADR-0001-epigraph-convention.md) | Epigraph convention for framework documents | active |
 | [ADR-0002](ADR-0002-biblical-epistemology-method.md) | Biblical Epistemology as a foundation layer, with a 7-step passage test | active |
 | [ADR-0003](ADR-0003-translation-textual-source-policy.md) | Translation and textual-source policy — RVR1960 as Spanish witness | active |
+| [ADR-0004](ADR-0004-manuscript-voice-captured-inline.md) | Manuscript-voice commentary captured inline, not deferred to a later prose pass | active |

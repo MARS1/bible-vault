@@ -52,6 +52,8 @@ The failure mode this guards against: skipping straight from A to D and calling 
 
 **1 Thessalonians 5:19–21** (already the vault's opening epigraph, [[00-index]]) — "Do not quench the Spirit. Do not despise prophecies, but test everything; hold fast what is good." (ESV) / "Don't quench the Spirit, don't despise inspired messages. But do test everything — hold onto what is good." (CJB)
 
+> **Manuscript voice** (see ADR-0004, `docs/adr/` — captured here so it isn't lost waiting for a later prose pass): notice the sequence in that verse. Paul doesn't say *accept everything* — that would make every spiritual claim true by default. He doesn't say *reject everything unfamiliar* either — that would make caution indistinguishable from unbelief. The actual instruction is three moves, in order: don't quench the Spirit, don't despise prophecy, *then* test everything and keep only what holds up. That order matters. It gives permission to investigate difficult, unconventional questions without either credulously accepting the first spiritual-sounding claim or reflexively dismissing anything that doesn't fit the standard account. That's the posture this whole framework tries to hold — not "everything I think is revelation," and not "everything outside the conventional interpretation is false."
+
 **Proverbs 18:13** — ESV: "If one gives an answer before he hears, it is his folly and shame." / CJB: "To answer someone before hearing him out is both stupid and embarrassing."
 
 **Proverbs 18:17** (already in [[01-convictions]] A.1) — hearing one side isn't enough.

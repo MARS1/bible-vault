@@ -27,6 +27,8 @@ This is a **multi-session, multi-tranche project**. Content arrives in chunks (o
 
 [[00b-biblical-epistemology]] — how we know what we think we know, before getting into what we actually believe. Defines Biblical Epistemology and Contextual Exegesis, the 7-step test every passage should pass before it counts as an established conviction, and the translation/textual-source policy (CJB → ESV → RVR1960, original languages when wording matters). See ADR-0002 and ADR-0003 (`docs/adr/`).
 
+**Manuscript voice (ADR-0004):** when a session produces real explanatory commentary — the "notice the sequence" kind of insight that would actually survive into the eventual book — it gets written into the relevant file immediately, marked as manuscript voice, not deferred to a later drafting pass. See [[00b-biblical-epistemology]] section A for the first worked example.
+
 [[00c-commission-covenant-investigation]] — the full working-out of the Israel/Gentile commission question: Yeshua's Israel-focused earthly ministry, the Canaanite/Syrophoenician woman, the post-resurrection turn, Cornelius, the Jerusalem council, Paul's explicit Gentile apostleship, and the covenant-continuity thread it all sits inside. Directly answers whether the Great Commission can be read as "a command to every Christian" without erasing its actual context.
 
 ## The Four Boxes
