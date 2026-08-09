@@ -245,7 +245,16 @@ Whether Luke intends the reader to connect an Ethiopian eunuch's baptism with Is
 >
 > Notice the distinction this draws. Whether food restrictions changed is a real question, argued elsewhere from Mark 7, Romans 14, and other passages — that's a separate discussion with its own evidence. What Acts 10 establishes is what Peter says Acts 10 established. Making this passage carry the food argument means bringing a conclusion *to* the text and finding room for it, rather than drawing out what the text and its own narrator actually say. That's eisegesis with a completely straight face — and it's easy to do here precisely because the surface imagery cooperates so readily. The check isn't "could this passage support my view?" It's "did the passage's own participants understand it that way?" Here, they tell us.
 
-> **Sidebar: Acts 10 and the food laws.** *(Kept deliberately as a sidebar, not as a thesis this investigation is building toward — the point gets made in passing, not argued for.)* The sheet vision is frequently used as proof that the biblical clean/unclean food distinctions were abolished. But Peter's own explanation in Acts 10:28 applies the vision directly to **people**, not to dietary law, and the Jerusalem believers' conclusion in Acts 11:18 is likewise about Gentiles. Acts 10 therefore should not be made to carry the entire argument about clean and unclean foods. Note this cuts both ways: this passage equally should not be used to argue the food distinctions *remain* binding. The honest statement is simply that **this is not what this text is about**. The broader question needs its own canonical study — Leviticus 11 and Deuteronomy 14 (where the distinctions are actually given), plus Mark 7, Romans 14, Colossians 2, and 1 Timothy 4, each read in its own context. Not attempted here. *(Terminology note: "kosher" is later Jewish vocabulary for what is fit/permitted; for this study, "clean and unclean foods" or "dietary laws" is the more precise language, since it names what the Torah texts actually say rather than importing a later term.)*
+> ### 📖 Exegetical Sidebar — Did Peter's Vision Abolish the Dietary Laws?
+> *(Layer: Exegetical Sidebar, per ADR-0006. Not part of the main argument.)*
+>
+> Acts 10 is frequently cited as evidence that the biblical distinctions between clean and unclean foods were abolished. Yet within the narrative, Peter explicitly explains what Yahweh showed him: "I should not call **any person** common or unclean" (Acts 10:28). The immediate subject is Gentile inclusion, and the Jerusalem believers' own conclusion in Acts 11:18 confirms it.
+>
+> **What this passage does not establish:** the opposite conclusion either — that all Torah dietary distinctions necessarily remain binding. That is a separate canonical question requiring the relevant Torah passages (Leviticus 11, Deuteronomy 14, where the distinctions are actually given) and other New Testament texts (Mark 7, Romans 14, Colossians 2, 1 Timothy 4), each in its own context.
+>
+> The narrower exegetical point is simply this: **allow Peter's own explanation to establish the primary meaning of Peter's vision before asking the vision to answer a different theological question.**
+>
+> *(Terminology: "kosher" is later Jewish vocabulary for what is fit/permitted. "Clean and unclean foods" or "dietary laws" is more precise for this study, naming what the Torah texts say rather than importing a later term.)*
 
 **And critically — Peter does not understand the vision when he receives it.** **Acts 10:17** — ESV: "Now while Peter was **inwardly perplexed as to what the vision that he had seen might mean**, behold, the men who were sent by Cornelius... stood at the gate." CJB: "Kefa was still puzzling over the meaning of the vision he had seen, when the men Cornelius had sent... stood at the gate." RVR1960: "mientras Pedro estaba **perplejo dentro de sí sobre lo que significaría la visión**."
 
@@ -286,13 +295,76 @@ Easy to miss, and it directly qualifies a conclusion drawn earlier in this file.
 
 **Acts 11:26** (already in [[05-scripture-index]]) — Barnabas brings Saul to Antioch, they teach a year, and "in Antioch the disciples were first called Christians." Note what Luke does *not* say: not that Yeshua named His followers this, nor that the apostles adopted it as an official designation. He reports it as a historical fact about what they came to be called. See [[01-convictions]] B.5 for the fuller treatment of the label question.
 
-**Acts 13:46–47** — Paul and Barnabas state the turn explicitly, as a decision made in response to rejection, and ground it in Isaiah: "we are turning to the Gentiles... 'I have made you a light for the Gentiles, that you may bring salvation to the ends of the earth.'" (ESV) The Gentile mission is framed as prophetic fulfillment (Isaiah), not innovation.
+### Acts 13 — The Gentile Mission Grounded in Isaiah, Not Invented
 
-**Acts 15** (the Jerusalem council) is where the church formally settles the question rather than leaving it to individual apostolic precedent. Peter's speech recalls Cornelius directly:
-Acts 15:7–11 — ESV: "God, who knows the heart, bore witness to them, by giving them the Holy Spirit just as he did to us, and he made no distinction between us and them, having cleansed their hearts by faith." / CJB: "he made no distinction between us and them, but cleansed their heart by trust." / RVR1960: "ninguna diferencia hizo entre nosotros y ellos, purificando por la fe sus corazones."
+**Acts 13:2–3** — how the mission is launched: ESV: "While they were worshiping the Lord and fasting, the Holy Spirit said, 'Set apart for me Barnabas and Saul for the work to which I have called them.' Then after fasting and praying they laid their hands on them and sent them off." CJB: "the Ruach HaKodesh said to them, 'Set aside for me Bar-Nabba and Sha'ul.'" RVR1960: "dijo el Espíritu Santo: Apartadme a Bernabé y a Saulo para la obra a que los he llamado." Not "Paul had an idea and went" — the pattern is calling → communal worship and fasting → discernment → commissioning by the assembly.
 
-James's ruling, the actual formal decision:
-Acts 15:19–20 — ESV: "we should not trouble those of the Gentiles who turn to God, but should write to them to abstain from the things polluted by idols, and from sexual immorality, and from what has been strangled, and from blood." / CJB and RVR1960 track closely — see [[05-scripture-index]] for full text.
+**The "to the Jew first" pattern holds even in the Gentile apostle's practice.** Paul repeatedly begins in synagogues. Romans 1:16 (already cited above) states it as principle: "to the Jew first and also to the Greek." Acts narrates it as practice. The Gentile mission does not erase Israel's priority in the sequence.
+
+**Acts 13:46–47** — Paul and Barnabas state the turn explicitly, as a decision made in response to rejection, and ground it in Isaiah: "It was necessary that the word of God be spoken **first to you**. Since you thrust it aside... behold, we are turning to the Gentiles... 'I have made you a light for the Gentiles, that you may bring salvation to the ends of the earth.'" (ESV) Note "first to you" — this is not replacement stated in a sentence; the Gentile mission emerges *from within* the story of Israel's Messiah.
+
+The citation is **Isaiah 49:6** (already in [[05-scripture-index]] from §0 above) — and this is one of the strongest Tanakh→Acts continuity points in the whole investigation. Paul does not say God has devised an entirely new plan the prophets never anticipated. He says, in effect: *this is what Isaiah was already talking about.*
+
+> **Prose:** the difference this makes is easy to understate. "Gentiles were grafted in" is true but thin — it describes an outcome without a history. What Acts 13:47 supplies is the history: Paul reads his own Gentile mission as the outworking of Israel's own prophetic Scriptures, quoting the Servant passage that had already called restoring Israel alone "too light a thing." The nations were not a contingency plan adopted after Israel's rejection. They were in the commission Isaiah recorded, centuries before anyone had to decide what to do about Cornelius.
+
+### Acts 14 — "God Opened a Door"
+
+**Acts 14:27** — ESV: "they declared all that God had done with them, and how **he had opened a door of faith to the Gentiles**." CJB: "reported what God had done through them, that he had opened a door of faith to the Gentiles." RVR1960: "cómo había abierto la puerta de la fe a los gentiles." Note who is credited — not "we successfully expanded the movement," but God opened the door.
+
+This sets up Acts 15 precisely. The question is no longer *are Gentiles really entering* — the evidence is overwhelming. The question becomes: **on what terms do they belong?**
+
+### Acts 15 — The Covenant Crisis, and the Third In-Scripture Case Study
+
+**Acts 15:1–2** — the dispute stated at full strength: ESV: "some men came down from Judea and were teaching the brothers, '**Unless you are circumcised according to the custom of Moses, you cannot be saved.**' And after Paul and Barnabas had no small dissension and debate with them..." CJB: "'You can't be saved unless you undergo b'rit-milah in the manner prescribed by Moshe.'" RVR1960: "Si no os circuncidáis conforme al rito de Moisés, no podéis ser salvos."
+
+This is not a dispute about whether circumcision is a good optional practice. The claim on the table is that it is **necessary for salvation**.
+
+**The apostles deliberate rather than decree.** Acts 15:7 records "much debate" among apostles and elders — worth noticing on its own: Scripture does not treat theological disagreement as automatic evidence of spiritual failure. What matters is what happens *inside* the disagreement.
+
+**Peter appeals to what Yahweh already did** — Acts 15:7–11 (already cited above): "he made no distinction between us and them, **having cleansed their hearts by faith**." Not "they became acceptable once circumcised afterward" — faith → cleansed hearts → the same Spirit. Then Acts 15:10's "yoke... neither our fathers nor we have been able to bear," and Acts 15:11's striking reversal of direction: "we believe that we will be saved through the grace of the Lord Jesus, **just as they will**." Not *they can be saved like us* — *we are saved as they are.* Grace is the common ground, and Peter puts the Jewish believers on the Gentiles' side of the sentence.
+
+**Then testimony** — **Acts 15:12** — ESV: "all the assembly fell silent, and they listened to Barnabas and Paul as they related what signs and wonders God had done through them among the Gentiles." Observed events enter the deliberation as evidence.
+
+**Then Scripture** — James cites **Amos 9:11–12** (Acts 15:13–18): ESV of Amos: "In that day I will raise up the booth of David that is fallen... that they may possess the remnant of Edom and all the nations who are called by my name." CJB: "I will raise up the fallen sukkah of David." RVR1960: "yo levantaré el tabernáculo caído de David." James's stated conclusion is that what Peter described **agrees with the prophets** — the new development is interpreted through older revelation, not against it.
+
+**The full sequence in one chapter:** unexpected event → testimony → communal deliberation → Scripture → interpretation → decision. That is the Model B cycle ([[00b-biblical-epistemology]]) running inside Scripture for the third time (with Acts 11 and Acts 15 both), and this instance is the most complete of the three.
+
+**The decision** — **Acts 15:19–20** (already cited above): "we should not trouble those of the Gentiles who turn to God," plus four instructions — abstain from things polluted by idols, sexual immorality, what has been strangled, and blood.
+
+> ### 📖 Exegetical Sidebar — What Are the Four Requirements, and What Does Acts 15:21 Mean?
+> *(Layer: Exegetical Sidebar, per ADR-0006.)*
+>
+> The four instructions in Acts 15:20 have been read as: minimal Torah requirements; Noahide-type principles; requirements enabling table fellowship between Jewish and Gentile believers; introductory commands with further Torah instruction expected to follow; or a specific pastoral compromise for mixed assemblies. Different traditions answer differently, and the text does not label its own category.
+>
+> **Acts 15:21** compounds the question: ESV: "For from ancient generations Moses has had in every city those who proclaim him, for he is read every Sabbath in the synagogues." CJB: "with his words being read in the synagogues every Shabbat." RVR1960: "Moisés desde tiempos antiguos tiene en cada ciudad quien lo predique en las sinagogas." Why does James say this? Two live readings: (a) Gentile believers will learn the rest of Torah over time, since Moses is read weekly; (b) James is explaining why these four requirements are especially necessary in cities with Jewish communities present.
+>
+> **What the text establishes:** Gentile converts receive four immediate prohibitions; Moses is read every Sabbath in every city.
+> **What the text does not establish:** what relationship verse 21 asserts between those two facts. The "for" is real; its logic is not spelled out.
+>
+> Both readings remain available on the text as written. Not forced here.
+
+> ### ✍️ Author's Reflection — Circumcision
+> *(Layer: Author's Reflection, per ADR-0006. Personal experience, not textual evidence.)*
+>
+> This question was not merely academic for me. Years ago, while seriously examining what obedience to Yahweh required, I wrestled with whether physical circumcision might be something I needed to undergo as evidence of my willingness to obey Him. At the time, I had not yet fully understood the biblical distinction between physical circumcision and the "circumcision of the heart."
+>
+> Acts 15 therefore strikes me differently now. The first believers themselves had to wrestle with whether a Gentile turning to Yahweh through Messiah had to receive circumcision according to Moses in order to be saved. Their conclusion was not that obedience was irrelevant, but that physical circumcision could not be made a condition of salvation for Gentiles. Peter instead points to Yahweh cleansing their **hearts by faith** (Acts 15:8–11), a theme Paul develops further in Romans 2:28–29.
+>
+> Looking back, what I once experienced as a personal question turns out to have been a question the earliest assembly itself had to confront: **what does belonging to Yahweh actually require, and which things have we mistakenly made prerequisites that Yahweh Himself has not?**
+
+**Where Acts 15 is heading, textually.** Paul develops the heart question further — **Romans 2:28–29**: ESV: "no one is a Jew who is merely one outwardly, nor is circumcision outward and physical. But a Jew is one inwardly, and **circumcision is a matter of the heart, by the Spirit**, not by the letter." RVR1960: "la circuncisión es la del corazón, en espíritu, no en letra." And **Galatians 5:6**: "neither circumcision nor uncircumcision counts for anything, but only faith working through love." And **Galatians 6:15**: "neither circumcision counts for anything, nor uncircumcision, but **a new creation**." Not developed further here — Paul's theology is the next stage, not this one.
+
+**But physical circumcision is not thereby declared evil** — and this distinction matters. **Acts 16:3** — ESV: "Paul wanted Timothy to accompany him, and he took him and circumcised him because of the Jews who were in those places, for they all knew that his father was a Greek." CJB: "he took him and did a b'rit-milah, because of the Jews living in those areas." Paul can oppose circumcision *as a requirement for salvation* while performing it *for contextual reasons* — with Timothy, removing an unnecessary obstacle among the Jewish communities they would encounter.
+
+> **Prose:** the same action carries entirely different meaning depending on why it is done. Circumcision demanded as the price of salvation is the thing Paul fought at Jerusalem; circumcision undertaken to remove a needless barrier to being heard is something Paul did himself, in the very next chapter. Binary theology fails here — not because the text is inconsistent, but because motive is part of what the action *is*. A framework that can only ask "is this practice required or forbidden?" will misread both scenes.
+
+> **Prose:** Acts 15 may be one of Scripture's clearest demonstrations that faithfulness does not require pretending every difficult question has already been answered. The apostles possess Scripture, the Spirit, eyewitness testimony and authority, yet they still gather, debate, listen, compare what Yahweh has done with what Yahweh previously revealed, and only then reach judgment. Their conclusion neither discards Israel's Scriptures nor forces Gentiles to become ethnically Jewish. Instead, they interpret the new development through the older revelation. The new evidence does not overthrow Scripture; properly understood, it reveals a dimension of Scripture that had been present all along.
+>
+> This gives us an important methodological principle: new evidence need not contradict an older truth merely because it initially appears unfamiliar. Sometimes the conflict lies not between the evidence and Scripture, but between the evidence and our previous interpretation of Scripture. Peter did not abandon Yahweh when Cornelius received the Spirit. He abandoned an assumption about whom Yahweh could receive.
+
+**Why this principle matters for everything still ahead.** When this investigation eventually reaches strange historical observations ([[02-historical-observations]], [[03-hypotheses]]), the reflexive question is *does this contradict Scripture?* Acts 15 suggests a prior question: **does this contradict Scripture, or does it contradict the interpretation I have been carrying?** Those are not the same question, and Peter's own case shows the second one is real.
+
+But the discipline has to cut both directions, or it becomes a license rather than a method. The equally live question is: **could I simply be misunderstanding the new evidence?** Peter had a genuine vision, three times, from God — and still needed circumstances, the Spirit's direction, and remembered teaching to interpret it correctly (Acts 10:17, § above). Both sides stay testable. An assumption can be wrong; so can a reading of new evidence. Acts 15 doesn't authorize discarding either one on suspicion.
 
 ### The full sequence, and what it suggests about Acts as a book
 

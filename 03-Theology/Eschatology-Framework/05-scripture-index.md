@@ -400,6 +400,49 @@ ESV: "we are turning to the Gentiles... 'I have made you a light for the Gentile
 CJB: "we're turning to the Goyim!... 'I have set you as a light for the Goyim, to be for deliverance to the ends of the earth.'"
 RVR1960: "nos volvemos a los gentiles... Te he puesto para luz de los gentiles, A fin de que seas para salvación hasta lo último de la tierra."
 
+**Acts 13:2–3** — the mission commissioned through communal discernment
+ESV: "While they were worshiping the Lord and fasting, the Holy Spirit said, 'Set apart for me Barnabas and Saul for the work to which I have called them.'"
+CJB: "the Ruach HaKodesh said to them, 'Set aside for me Bar-Nabba and Sha'ul.'"
+RVR1960: "dijo el Espíritu Santo: Apartadme a Bernabé y a Saulo para la obra a que los he llamado."
+
+**Acts 14:27** — God credited, not the missionaries
+ESV: "they declared all that God had done with them, and how he had opened a door of faith to the Gentiles."
+CJB: "he had opened a door of faith to the Gentiles."
+RVR1960: "cómo había abierto la puerta de la fe a los gentiles."
+
+**Acts 15:1–2** — the dispute at full strength
+ESV: "'Unless you are circumcised according to the custom of Moses, you cannot be saved.' And after Paul and Barnabas had no small dissension and debate with them..."
+CJB: "'You can't be saved unless you undergo b'rit-milah in the manner prescribed by Moshe.'"
+RVR1960: "Si no os circuncidáis conforme al rito de Moisés, no podéis ser salvos."
+
+**Acts 15:12** — testimony enters the deliberation
+ESV: "all the assembly fell silent, and they listened to Barnabas and Paul as they related what signs and wonders God had done through them among the Gentiles."
+RVR1960: "toda la multitud calló, y oyeron a Bernabé y a Pablo, que contaban cuán grandes señales y maravillas había hecho Dios."
+
+**Amos 9:11–12** — quoted by James in Acts 15:16–18; see [[04-open-questions]] on the LXX/MT variance
+ESV: "In that day I will raise up the booth of David that is fallen... that they may possess the remnant of Edom and all the nations who are called by my name."
+CJB: "I will raise up the fallen sukkah of David... so that Isra'el can possess what is left of Edom and of all the nations bearing my name."
+RVR1960: "yo levantaré el tabernáculo caído de David... para que aquellos sobre los cuales es invocado mi nombre posean el resto de Edom, y a todas las naciones."
+
+**Acts 15:21** — the interpretive puzzle
+ESV: "For from ancient generations Moses has had in every city those who proclaim him, for he is read every Sabbath in the synagogues."
+CJB: "with his words being read in the synagogues every Shabbat."
+RVR1960: "Moisés desde tiempos antiguos tiene en cada ciudad quien lo predique en las sinagogas, donde es leído cada día de reposo."
+
+**Romans 2:28–29** — circumcision of the heart
+ESV: "circumcision is a matter of the heart, by the Spirit, not by the letter."
+CJB: "true circumcision is of the heart, spiritual not literal."
+RVR1960: "la circuncisión es la del corazón, en espíritu, no en letra."
+
+**Galatians 5:6 / 6:15**
+5:6 — ESV: "neither circumcision nor uncircumcision counts for anything, but only faith working through love." / CJB: "what matters is trusting faithfulness expressing itself through love." / RVR1960: "sino la fe que obra por el amor."
+6:15 — ESV: "neither circumcision counts for anything, nor uncircumcision, but a new creation." / RVR1960: "sino una nueva creación."
+
+**Acts 16:3** — the same act, different motive
+ESV: "Paul wanted Timothy to accompany him, and he took him and circumcised him because of the Jews who were in those places."
+CJB: "he took him and did a b'rit-milah, because of the Jews living in those areas."
+RVR1960: "le circuncidó por causa de los judíos que había en aquellos lugares."
+
 **Acts 15:7–11** — Jerusalem council, Peter recalls Cornelius
 ESV: "God, who knows the heart, bore witness to them, by giving them the Holy Spirit just as he did to us, and he made no distinction between us and them, having cleansed their hearts by faith."
 CJB: "he made no distinction between us and them, but cleansed their heart by trust."
