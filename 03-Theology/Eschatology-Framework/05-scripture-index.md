@@ -730,6 +730,18 @@ CJB: "Behave wisely toward outsiders... let your conversation always be gracious
 ESV: "Walk in wisdom toward outsiders... Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person."
 RVR1960: "Andad sabiamente para con los de afuera... Sea vuestra palabra siempre con gracia, sazonada con sal."
 
+## Revelation vs. Interpretation — Samuel and Eli (see [[00b-biblical-epistemology]])
+
+**1 Samuel 1:10–11, 27–28** — Hannah's vow
+ESV: "she vowed a vow and said, 'O Lord of hosts, if you will indeed look on the affliction of your servant... then I will give him to the Lord all the days of his life.'... 'For this child I prayed, and the Lord has granted me my petition that I made to him.'"
+CJB: "'Adonai-Tzva'ot, if you will notice how humiliated your servant is... then I will give him to Adonai for as long as he lives.'"
+RVR1960: "yo lo dedicaré a Jehová todos los días de su vida... Por este niño oraba, y Jehová me dio lo que le pedí."
+
+**1 Samuel 3:7–10** — a real voice, misidentified three times
+ESV: "Samuel did not yet know the Lord... And the Lord called Samuel again the third time... Then Eli perceived that the Lord was calling the boy... 'Speak, Lord, for your servant hears.'"
+CJB: "At last 'Eli realized it was Adonai calling the child... 'Speak, Adonai; your servant is listening.'"
+RVR1960: "Entonces entendió Elí que Jehová llamaba al joven... Habla, Jehová, porque tu siervo oye."
+
 ## Luke's Own Method (see [[00b-biblical-epistemology]] "Luke's Own Method")
 
 **Colossians 4:14** — CJB: "Our dear friend Luke, the doctor, and Demas send you greetings." / ESV: "Luke the beloved physician greets you, as does Demas." / RVR1960: "Os saluda Lucas el médico amado, y Demas."

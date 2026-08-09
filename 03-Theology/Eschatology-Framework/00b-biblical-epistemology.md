@@ -169,6 +169,22 @@ Luke names his own chain explicitly: events → eyewitnesses and ministers of th
 
 > **Prose:** Luke's introduction is a biblical example of faith and careful investigation operating together rather than against each other. He doesn't present eyewitness testimony, prior accounts, careful investigation, and orderly reconstruction as enemies of faith — he uses them in service of establishing greater certainty about what's believed. Investigation doesn't have to begin from skepticism toward God; it can arise from reverence for truth. That's the same claim this whole file has been trying to make from a different angle — Luke just states it about his own writing, plainly, in his first four verses.
 
+## Revelation and Interpretation Are Not the Same Moment
+
+Two biblical cases, one from each testament, establishing the same principle independently — which is why it belongs in the methodology rather than only inside the Acts narrative.
+
+**Samuel and Eli — 1 Samuel 3.** Samuel hears a real voice, genuinely from Yahweh, and misidentifies its source three times, going to Eli instead. **1 Samuel 3:7–10** — ESV: "Now Samuel did not yet know the Lord, and the word of the Lord had not yet been revealed to him. And the Lord called Samuel again the third time. And he arose and went to Eli and said, 'Here I am, for you called me.' **Then Eli perceived that the Lord was calling the boy.** Therefore Eli said to Samuel, 'Go, lie down, and if he calls you, you shall say, Speak, Lord, for your servant hears.'" CJB: "At last 'Eli realized it was Adonai calling the child... 'Speak, Adonai; your servant is listening.'" RVR1960: "Entonces entendió Elí que Jehová llamaba al joven... Habla, Jehová, porque tu siervo oye."
+
+Background: Samuel is in the temple at all because of his mother Hannah's vow — **1 Samuel 1:10–11** ("if you will indeed look on the affliction of your servant... then I will give him to the Lord all the days of his life") and **1 Samuel 1:27–28** ("For this child I prayed, and the Lord has granted me my petition... Therefore I have lent him to the Lord"). *(Name note: Hannah, not Elizabeth — Elizabeth is John the Baptist's mother, Luke 1. Different woman, different testament.)*
+
+**Peter and the sheet — Acts 10:17.** Peter receives a vision three times over and is "inwardly perplexed as to what the vision that he had seen might mean" (see [[00c-commission-covenant-investigation]] for the full treatment).
+
+> **Prose:** a genuine divine encounter does not always arrive with immediate interpretive certainty. Samuel heard Yahweh but first mistook the voice for Eli's. Peter received a vision but did not immediately understand it. Revelation and interpretation are not always the same moment. Scripture repeatedly shows understanding developing through discernment, repetition, remembered teaching, wise counsel, and subsequent events.
+>
+> Notice what resolves each case, because it isn't more revelation. Samuel needs Eli — an older, wiser voice — to name what is happening. Peter needs circumstances to unfold, the Spirit's direction, and eventually the memory of something Yeshua had already said. In both cases the interpretive help arrives *from outside the experience itself*. That is a direct argument against treating any spiritual impression as self-authenticating: the two clearest biblical cases of authentic divine communication both required external discernment to be understood correctly.
+
+This is why the Model B cycle above places Discern throughout rather than as a single step, and why "Classify" comes second rather than being skipped. An encounter can be entirely real and still be misread at the moment of reception.
+
 ## Worked Example 2: Revelation 22:18–19 and the Canon Question
 
 Run through Model B rather than deciding the answer first — a live test of the contradicts/permits/supports/requires distinction from the Test step above.
