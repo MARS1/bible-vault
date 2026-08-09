@@ -595,6 +595,17 @@ CJB: "Behave wisely toward outsiders... let your conversation always be gracious
 ESV: "Walk in wisdom toward outsiders... Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person."
 RVR1960: "Andad sabiamente para con los de afuera... Sea vuestra palabra siempre con gracia, sazonada con sal."
 
+## Luke's Own Method (see [[00b-biblical-epistemology]] "Luke's Own Method")
+
+**Colossians 4:14** — CJB: "Our dear friend Luke, the doctor, and Demas send you greetings." / ESV: "Luke the beloved physician greets you, as does Demas." / RVR1960: "Os saluda Lucas el médico amado, y Demas."
+**Philemon 1:24** — CJB: "as do Mark, Aristarchus, Demas and Luke, my fellow-workers." / ESV: "and so do Mark, Aristarchus, Demas, and Luke, my fellow workers." / RVR1960: "Marcos, Aristarco, Demas y Lucas, mis colaboradores."
+**2 Timothy 4:11** — CJB: "only Luke is with me." / ESV: "Luke alone is with me." / RVR1960: "Solo Lucas está conmigo."
+**Luke 1:1–4** — CJB: "since I have carefully investigated all these things from the beginning, it seemed good to me that I too should write you an accurate and ordered narrative, so that you might know how well-founded are the things about which you have been taught." / ESV: "having followed all things closely for some time past, to write an orderly account for you... that you may have certainty concerning the things you have been taught." / RVR1960: "después de haber investigado con diligencia todas las cosas desde su origen, escribírtelas por orden... para que conozcas bien la verdad de las cosas en las cuales has sido instruido."
+**Acts 16:10** — the first "we passage"
+CJB: "we lost no time getting ready to leave for Macedonia; for we concluded that God had called us to proclaim the Good News to them."
+ESV: "immediately we sought to go on into Macedonia, concluding that God had called us to preach the gospel to them."
+RVR1960: "en seguida procuramos partir para Macedonia, dando por cierto que Dios nos llamaba para que les anunciásemos el evangelio."
+
 ## John the Baptist & Elijah Typology (see [[00c-commission-covenant-investigation]] §1)
 
 **Luke 1:16–17**

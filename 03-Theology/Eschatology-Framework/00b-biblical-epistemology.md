@@ -149,6 +149,20 @@ This is the model for testing every future claim in [[03-hypotheses]] and every 
 
 See ADR-0002 (`docs/adr/`) for this as a formal methodology decision.
 
+## Luke's Own Method — A Biblical Precedent for This Investigation
+
+Relevant here rather than just in [[00c-commission-covenant-investigation]] (where Acts itself is being examined) because Luke's own stated method is a biblical example of the discipline this file is trying to establish.
+
+**Who Luke was:** a physician, per Paul — **Colossians 4:14** (ESV: "Luke the beloved physician greets you"), listed among Paul's fellow workers in **Philemon 24**, and in **2 Timothy 4:11** Paul writes: "Luke alone is with me." No biblical claim that Luke was an eyewitness to Yeshua's earthly ministry — his own Gospel's opening suggests otherwise.
+
+**Luke 1:1–4** — his own stated method, worth reading as a methodology statement in its own right: ESV: "Inasmuch as many have undertaken to compile a narrative of the things that have been accomplished among us, just as those who from the beginning were eyewitnesses and ministers of the word have delivered them to us, it seemed good to me also, having followed all things closely for some time past, to write an orderly account for you, most excellent Theophilus, that you may have certainty concerning the things you have been taught." CJB: "since I have carefully investigated all these things from the beginning, it seemed good to me that I too should write you an accurate and ordered narrative, so that you might know how well-founded are the things about which you have been taught." RVR1960: "después de haber investigado con diligencia todas las cosas desde su origen, escribírtelas por orden... para que conozcas bien la verdad de las cosas en las cuales has sido instruido."
+
+Luke names his own chain explicitly: events → eyewitnesses and ministers of the word → testimony delivered to him → his own careful investigation → an orderly written account → the reader's increased certainty. That's Model B's shape (Encounter → Classify → Seek → Examine → Compare), stated by a biblical author about his own writing process, not imposed on the text from outside.
+
+**Acts 16:10** — for much of Acts the narration is third person ("they"); it shifts to first-person plural here: ESV: "And when Paul had seen the vision, immediately we sought to go on into Macedonia, concluding that God had called us to preach the gospel to them." CJB and RVR1960 track closely. This and the other "we passages" (Acts 20, 21, 27–28) present the author as a participant in portions of the story he narrates, not only an investigator of testimony predating him — worth noting as a real feature of the text, without resolving every scholarly debate about exactly how to read it.
+
+> **Prose:** Luke's introduction is a biblical example of faith and careful investigation operating together rather than against each other. He doesn't present eyewitness testimony, prior accounts, careful investigation, and orderly reconstruction as enemies of faith — he uses them in service of establishing greater certainty about what's believed. Investigation doesn't have to begin from skepticism toward God; it can arise from reverence for truth. That's the same claim this whole file has been trying to make from a different angle — Luke just states it about his own writing, plainly, in his first four verses.
+
 ## Worked Example 2: Revelation 22:18–19 and the Canon Question
 
 Run through Model B rather than deciding the answer first — a live test of the contradicts/permits/supports/requires distinction from the Test step above.
