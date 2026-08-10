@@ -597,6 +597,48 @@ CJB: "Yes! I tell you that this people will certainly not pass away before all t
 ESV: "Truly, I say to you, this generation will not pass away until all these things take place."
 RVR1960: "De cierto os digo, que no pasará esta generación hasta que todo esto acontezca."
 
+## Matthew 24, the Oikoumenē & "This Generation" (see [[00g-matthew-24-and-the-oikoumene]])
+
+**Matthew 24:1–3** — the Temple as catalyst; the disciples' actual question
+ESV: "there will not be left here one stone upon another that will not be thrown down... 'Tell us, when will these things be, and what will be the sign of your coming and of the end of the age?'"
+CJB: "they will be totally destroyed — not a single stone will be left standing!... 'what will be the sign that you are coming, and that the **olam hazeh** is ending?'"
+RVR1960: "no quedará aquí piedra sobre piedra... ¿cuándo serán estas cosas, y qué señal habrá de tu venida, y del fin del siglo?"
+*Greek: συντελείας τοῦ αἰῶνος — the consummation of the **age**, not kosmos.*
+
+**Luke 2:1** — *oikoumenē* control #1
+ESV: "a decree went out from Caesar Augustus that all the world should be registered."
+CJB: "an order for a census to be taken **throughout the Empire**."
+RVR1960: "que todo el mundo fuese empadronado."
+
+**Acts 11:28** — *oikoumenē* control #2
+ESV: "there would be a great famine over all the world (this took place in the days of Claudius)."
+CJB: "a severe famine **throughout the Roman Empire**."
+RVR1960: "una gran hambre en **toda la tierra habitada**."
+
+**Colossians 1:5–6**
+ESV: "the gospel, which has come to you, as indeed in the whole world it is bearing fruit and increasing."
+CJB: "being fruitful and multiplying throughout the world."
+RVR1960: "así como a todo el mundo, y lleva fruto y crece."
+
+**Romans 15:19, 23** — Paul's own mission described as fulfilled
+ESV (19): "from Jerusalem and all the way around to Illyricum I have fulfilled the ministry of the gospel of Christ." (23): "I no longer have any room for work in these regions."
+CJB (19): "I have fully proclaimed the Good News of the Messiah." (23): "there is no longer a place in these regions that needs me."
+RVR1960 (19): "todo lo he llenado del evangelio de Cristo." (23): "no teniendo más campo en estas regiones."
+
+**Matthew 23:36–38** — the chain running straight into Matthew 24
+ESV: "all these things will come upon this generation... O Jerusalem, Jerusalem... See, your house is left to you desolate."
+CJB: "all this will fall on this generation!... God is abandoning your house to you, leaving it desolate."
+RVR1960: "todo esto vendrá sobre esta generación... He aquí vuestra casa os es dejada desierta."
+
+**Matthew 12:41–42** — "this generation" as Matthew's own control
+ESV: "The men of Nineveh will rise up at the judgment with this generation and condemn it... The queen of the South will rise up at the judgment with this generation."
+RVR1960: "Los hombres de Nínive se levantarán en el juicio con esta generación."
+*(Also Matthew 11:16, 12:45, 23:36 — every prior Matthean use refers to Yeshua's contemporaries.)*
+
+**Revelation 14:11 / 19:3** — smoke rising, kept distinct from Revelation 22's "outside"
+14:11 — ESV: "the smoke of their torment goes up forever and ever" (worshipers of the beast). RVR1960: "el humo de su tormento sube por los siglos de los siglos."
+19:3 — ESV: "The smoke from her goes up forever and ever" (Babylon).
+
 ## The Millennium & "Little Season"
 
 **Revelation 20:3**

@@ -23,6 +23,10 @@ This file sits before [[01-convictions]] on purpose — it's the answer to "how 
 
 > **Prose:** these two words give the reader a single diagnostic question to carry through everything that follows: *am I discovering what the passage says, or am I making the passage carry an idea I already brought to it?* Almost every interpretive failure in this whole study reduces to that question being skipped. It's worth asking out loud, on purpose, at every step — especially at the steps where the answer seems most obvious.
 
+**Eschatology** — from Greek *eschatos* ("last") + *-logia* ("study/discourse"). The study of last things: judgment, resurrection, Messiah's coming, the kingdom, the end of the age. *(Named here because it's this framework's own subject matter — see [[00g-matthew-24-and-the-oikoumene]] for why the definition matters when "the end" is the disputed term.)*
+
+**Key lexical terms** (full policy in ADR-0003's Lexical Precision Extension): **γῆ** *gē* = earth/land/ground/region · **κόσμος** *kosmos* = world/order/world-system · **οἰκουμένη** *oikoumenē* = inhabited world/inhabited land · **αἰών** *aiōn* = age. This study does not write "planet Earth" — not as a cosmological stance but as exegetical hygiene, since the phrase imports a frame none of these words carry.
+
 **Contextual Exegesis** — interpreting a passage according to its immediate literary, historical, linguistic, and covenantal context *before* applying its principle more broadly. The rule: before asking "does this apply to me?", first ask "who was being addressed, by whom, about what, and within what historical/covenantal situation?"
 
 ## The Working Model — Revised 2026-08-08, See ADR-0005
