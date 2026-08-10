@@ -741,6 +741,23 @@ Matthew 14:33 — CJB: "The men in the boat fell down before him" / ESV: "those 
 John 1:1–3 — ESV: "In the beginning was the Word, and the Word was with God, and the Word was God... All things were made through him." / RVR1960: "En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios... Todas las cosas por él fueron hechas."
 John 1:14 — CJB: "The Word became a human being and lived with us, and we saw his Sh'khinah, the Sh'khinah of the Father's only Son." / ESV: "the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father." / RVR1960: "aquel Verbo fue hecho carne, y habitó entre nosotros... lleno de gracia y de verdad."
 
+## Witness Synthesis — Additional Texts (see [[00f-witness-synthesis]])
+
+**Matthew 28:16–17** — the commission's stated audience, one verse before it's given
+ESV: "Now the eleven disciples went to Galilee, to the mountain to which Jesus had directed them."
+CJB: "the eleven talmidim went to the hill in the Galil where Yeshua had told them to go."
+RVR1960: "los once discípulos se fueron a Galilea, al monte donde Jesús les había ordenado."
+
+**1 Corinthians 12:17** — uniformity would cripple, not strengthen
+ESV: "If the whole body were an eye, where would be the sense of hearing? If the whole body were an ear, where would be the sense of smell?"
+CJB: "If the whole body were an eye, how could it hear? If it were all hearing, how could it smell?"
+RVR1960: "Si todo el cuerpo fuese ojo, ¿dónde estaría el oído? Si todo fuese oído, ¿dónde estaría el olfato?"
+
+**James 4:17** — true, but says nothing about evangelism specifically
+ESV: "So whoever knows the right thing to do and fails to do it, for him it is sin."
+CJB: "anyone who knows the right thing to do and fails to do it is committing a sin."
+RVR1960: "al que sabe hacer lo bueno, y no lo hace, le es pecado."
+
 ## Individual Application — Gifts, Charges & Conduct (distinguishing five categories, see [[00c-commission-covenant-investigation]] §3)
 
 **Ephesians 4:11–12**
