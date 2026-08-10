@@ -678,6 +678,43 @@ CJB: "it is not his purpose that anyone should be destroyed, but that everyone s
 ESV: "not wishing that any should perish, but that all should reach repentance."
 RVR1960: "no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento."
 
+## Cosmic Collapse as Judgment Language (see [[00j-cosmic-signs-and-intertextual-priority]])
+
+**Isaiah 13:1, 9–10, 17** — Babylon, the control passage
+13:1 ESV: "The oracle concerning Babylon which Isaiah the son of Amoz saw." RVR1960: "Profecía sobre Babilonia."
+13:9–10 ESV: "the stars of the heavens and their constellations will not give their light; the sun will be dark at its rising, and the moon will not shed its light." CJB: "the stars, the constellations in the sky, will no longer give their light." RVR1960: "las estrellas de los cielos y sus luceros no darán su luz."
+13:17 ESV: "Behold, I am stirring up the Medes against them." CJB: "I will stir up against them the Medes."
+
+**Isaiah 34:4–5** — Edom; the source of Revelation 6's imagery
+ESV: "All the host of heaven shall rot away, and the skies roll up like a scroll... it descends for judgment upon Edom."
+CJB: "The whole host of heaven will decompose, the heavens themselves be rolled up like a scroll... now it descends on Edom to judge them."
+RVR1960: "todo el ejército de los cielos se disolverá, y se enrollarán los cielos como un libro... descenderá sobre Edom en juicio."
+
+**Ezekiel 32:2, 7–8** — Egypt
+32:2 ESV: "raise a lamentation over Pharaoh king of Egypt." RVR1960: "levanta endechas sobre Faraón rey de Egipto."
+32:7–8 ESV: "When I blot you out, I will cover the heavens and make their stars dark... All the bright lights of heaven will I make dark over you." CJB: "I will cover the sky and make its stars black." RVR1960: "cubriré los cielos, y haré entenebrecer sus estrellas."
+
+**Joel 2:10, 30–31**
+2:10 ESV: "The sun and the moon are darkened, and the stars withdraw their shining." CJB: "the sun and moon turn black, and the stars stop shining." RVR1960: "el sol y la luna se oscurecerán, y las estrellas retraerán su resplandor."
+2:30–31 ESV: "The sun shall be turned to darkness, and the moon to blood, before the great and awesome day of the Lord comes." RVR1960: "El sol se convertirá en tinieblas, y la luna en sangre." *(Quoted by Peter at Pentecost, Acts 2:16–21.)*
+
+**Revelation 6:12–14** — John speaking Isaiah 34's vocabulary
+ESV: "the sun became black as sackcloth, the full moon became like blood, and the stars of the sky fell to the earth... The sky vanished like a scroll that is being rolled up."
+CJB: "The stars fell from heaven to earth just as a fig tree drops its figs... The sky receded like a scroll being rolled up."
+RVR1960: "las estrellas del cielo cayeron sobre la tierra... el cielo se desvaneció como un pergamino que se enrolla."
+
+**Genesis 37:9–10** — celestial bodies as covenant persons
+ESV: "the sun, the moon, and eleven stars were bowing down to me" — Jacob reads it as "I and your mother and your brothers."
+RVR1960: "el sol y la luna y once estrellas se inclinaban a mí."
+
+**Matthew 23:35** — the blood-guilt charge preceding the discourse
+ESV: "so that on you may come all the righteous blood shed on earth, from the blood of righteous Abel to the blood of Zechariah."
+CJB: "on you will fall the guilt for all the innocent blood that has ever been shed on earth."
+
+**Ezekiel 11:23** — the glory departing to the mountain east of the city
+ESV: "the glory of the Lord went up from the midst of the city and stood on the mountain that is on the east side of the city."
+RVR1960: "la gloria de Jehová se elevó de en medio de la ciudad, y se puso sobre el monte que está al oriente de la ciudad."
+
 ## Cloud Imagery — the Tanakh Vocabulary (see [[00h-coming-on-the-clouds]])
 
 **Exodus 19:9** — ESV: "Behold, I am coming to you in a thick cloud, that the people may hear when I speak with you." RVR1960: "yo vengo a ti en una nube espesa."

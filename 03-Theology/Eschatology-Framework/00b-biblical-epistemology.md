@@ -71,6 +71,18 @@ Connects Section B (limits of understanding) to Section A (active testing) below
 
 *Note: one verse says wisdom, the other says knowledge — deliberately paired. "Fear" here (Hebrew יִרְאַת יְהוָה, yir'at YHWH) is reverence/awe before Yahweh, not mere fright — not flattened to either extreme.*
 
+## Intertextual Priority (formal rule, added 2026-08-10)
+
+> **Intertextual Priority:** when a biblical author uses imagery, phrases, symbols, or prophetic formulas already established elsewhere in Scripture, their earlier scriptural usage should be investigated **before** importing a later cultural or modern meaning.
+
+> **And the limit that keeps it honest: intertextual precedent *constrains* interpretation; it does not mechanically *determine* it.**
+
+Isaiah 13 does not tell us what Matthew 24 means — it tells us what Matthew 24 is *capable of* meaning within biblical language. Context finishes the job. Without the second clause the rule becomes a machine for producing whatever reading the earlier passage supports, which is proof-texting arriving from the opposite direction.
+
+**Two worked demonstrations:** [[00h-coming-on-the-clouds]] (cloud imagery: Exodus, Psalm 18, Isaiah 19, Nahum, Daniel 7 before Matthew 24:30) and [[00j-cosmic-signs-and-intertextual-priority]] (sun/moon/stars: Isaiah 13, Isaiah 34, Ezekiel 32, Joel, Genesis 37 before Matthew 24:29).
+
+**Specific corollary for Revelation:** before assigning a modern literal meaning to an image in Revelation, first identify where John obtained the image from the Hebrew Scriptures and how it functioned there. Revelation 6:12–14's falling stars and scroll-rolled sky come from Isaiah 34:4 — a concrete case, not a hypothetical one.
+
 ## The 7-Step Test for Any Passage
 
 Before a passage moves into [[01-convictions]], run it through:
