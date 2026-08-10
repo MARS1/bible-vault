@@ -27,6 +27,8 @@ This file sits before [[01-convictions]] on purpose — it's the answer to "how 
 
 **Key lexical terms** (full policy in ADR-0003's Lexical Precision Extension): **γῆ** *gē* = earth/land/ground/region · **κόσμος** *kosmos* = world/order/world-system · **οἰκουμένη** *oikoumenē* = inhabited world/inhabited land · **αἰών** *aiōn* = age. This study does not write "planet Earth" — not as a cosmological stance but as exegetical hygiene, since the phrase imports a frame none of these words carry.
 
+**Relational adjective** (also *eponymous adjective*) — an adjective derived from a name, describing something associated with that person or text: **Pauline** theology, **Matthean** language, **Markan**, **Lukan**, **Johannine**, **Danielic** imagery, **Isaianic**, **Mosaic** law, **Davidic** covenant, **Abrahamic** promise. There is no single mechanical English rule (not "always add -ic") — the forms developed historically, often through Greek or Latin versions of the names (John → Latin *Johannes* → Johannine). Compact scholarly prose: "Danielic language" instead of "the language used by Daniel."
+
 **Contextual Exegesis** — interpreting a passage according to its immediate literary, historical, linguistic, and covenantal context *before* applying its principle more broadly. The rule: before asking "does this apply to me?", first ask "who was being addressed, by whom, about what, and within what historical/covenantal situation?"
 
 ## The Working Model — Revised 2026-08-08, See ADR-0005

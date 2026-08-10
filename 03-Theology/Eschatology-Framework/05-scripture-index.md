@@ -678,6 +678,45 @@ CJB: "it is not his purpose that anyone should be destroyed, but that everyone s
 ESV: "not wishing that any should perish, but that all should reach repentance."
 RVR1960: "no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento."
 
+## Cloud Imagery — the Tanakh Vocabulary (see [[00h-coming-on-the-clouds]])
+
+**Exodus 19:9** — ESV: "Behold, I am coming to you in a thick cloud, that the people may hear when I speak with you." RVR1960: "yo vengo a ti en una nube espesa."
+**Exodus 40:34–35** — ESV: "the cloud covered the tent of meeting, and the glory of the Lord filled the tabernacle. And Moses was not able to enter." RVR1960: "una nube cubrió el tabernáculo de reunión, y la gloria de Jehová llenó el tabernáculo."
+**Psalm 18:9–12** — ESV: "He bowed the heavens and came down; thick darkness was under his feet. He rode on a cherub and flew." CJB: "He lowered heaven and came down." RVR1960: "Inclinó los cielos, y descendió."
+**Isaiah 19:1** — the judgment control — ESV: "Behold, the Lord is riding on a swift cloud and comes to Egypt; and the idols of Egypt will tremble at his presence." CJB: "Adonai is riding a swift cloud, on his way to Egypt." RVR1960: "Jehová monta sobre una ligera nube, y entrará en Egipto."
+**Nahum 1:3** — ESV: "His way is in whirlwind and storm, and the clouds are the dust of his feet."
+**Daniel 7:22** — ESV: "judgment was given for the saints of the Most High, and the time came when the saints possessed the kingdom." RVR1960: "los santos recibieron el reino."
+
+**Matthew 24:29–30** — ESV: "the sun will be darkened... the stars will fall from heaven... they will see the Son of Man coming on the clouds of heaven with power and great glory."
+**CJB: "all the tribes of the Land will mourn"** — capital-L, an explicit interpretive rendering of *gē*. RVR1960: "todas las tribus de la tierra."
+
+**Matthew 26:64** — ESV: "**from now on** you will see the Son of Man seated at the right hand of Power and coming on the clouds of heaven." CJB: "**one day** you will see..." *(translations diverge exactly at the timing phrase — worth noting.)* RVR1960: "**desde ahora** veréis."
+**Mark 14:62** — ESV: "'I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven.'"
+**Psalm 110:1** — ESV: "The Lord says to my Lord: 'Sit at my right hand, until I make your enemies your footstool.'" *(Combined with Daniel 7:13 at the trial.)*
+
+**Revelation 1:7** — ESV: "he is coming with the clouds, and every eye will see him, even those who pierced him." **CJB: "all the tribes of the Land will mourn him."** RVR1960: "todos los linajes de la tierra."
+**Zechariah 12:10** — ESV: "when they look on me, on him whom they have pierced, they shall mourn for him, as one mourns for an only child." RVR1960: "mirarán a mí, a quien traspasaron."
+
+## Stars, the Dragon & the Cross (see [[00i-stars-the-dragon-and-the-cross]])
+
+**Job 38:6–7** — ESV: "when the morning stars sang together and all the sons of God shouted for joy." RVR1960: "alababan todas las estrellas del alba, y se regocijaban todos los hijos de Dios."
+**Revelation 1:20** — the explicit key — ESV: "the seven stars are the angels of the seven churches." RVR1960: "las siete estrellas son los ángeles de las siete iglesias."
+**Revelation 12:10–11** — ESV: "the accuser of our brothers has been thrown down... they have conquered him by the blood of the Lamb." CJB: "They defeated him because of the Lamb's blood." RVR1960: "le han vencido por medio de la sangre del Cordero."
+**John 12:31–32** — ESV: "Now is the judgment of this world; now will the ruler of this world be cast out." RVR1960: "ahora el príncipe de este mundo será echado fuera."
+**1 John 3:8** — ESV: "The reason the Son of God appeared was to destroy the works of the devil." RVR1960: "para deshacer las obras del diablo."
+**Job 1:6–7** — ESV: "Satan also came among them... 'From going to and fro on the earth.'" RVR1960: "De rodear la tierra y de andar por ella."
+**Isaiah 14:4, 12** — the caution — 14:4 ESV: "this taunt against **the king of Babylon**." 14:12 ESV: "How you are fallen from heaven, O Day Star, son of Dawn!" CJB: "morning star, son of the dawn." RVR1960: "¡Cómo caíste del cielo, oh Lucero, hijo de la mañana!" *(Hebrew: helel ben-shachar. Stated referent is Babylon's king; Satanic application is later typology.)*
+**Matthew 27:50–51** — ESV: "the curtain of the temple was torn in two, from top to bottom." CJB: "the parokhet in the Temple was ripped in two."
+**Hebrews 10:19–22** — ESV: "confidence to enter the holy places by the blood of Jesus, by the new and living way that he opened for us through the curtain, that is, through his flesh."
+**1 Timothy 2:5** — ESV: "one mediator between God and men, the man Christ Jesus."
+**1 Peter 2:9** — ESV: "a royal priesthood." CJB: "the King's cohanim."
+
+**Melchizedek cluster:**
+**Genesis 14:18–20** — ESV: "Melchizedek king of Salem brought out bread and wine. (He was priest of God Most High.)... Abram gave him a tenth of everything."
+**Psalm 110:4** — ESV: "You are a priest forever after the order of Melchizedek." RVR1960: "Tú eres sacerdote para siempre según el orden de Melquisedec."
+**Hebrews 7:13–14** — ESV: "our Lord was descended from Judah." **Hebrews 7:23–25** — ESV: "he holds his priesthood permanently, because he continues forever... he always lives to make intercession for them."
+**Zechariah 6:12–13** — ESV: "the man whose name is the Branch... shall sit and rule on his throne. And there shall be a priest on his throne, and the counsel of peace shall be between them both." CJB: "a man whose name is Tzemach [Sprout]."
+
 ## Satan's Fall, War in Heaven & Messiah's Victory
 
 **Colossians 2:15**
