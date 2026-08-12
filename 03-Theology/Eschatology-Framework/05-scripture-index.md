@@ -678,6 +678,59 @@ CJB: "it is not his purpose that anyone should be destroyed, but that everyone s
 ESV: "not wishing that any should perish, but that all should reach repentance."
 RVR1960: "no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento."
 
+## The Gathering, the Four Winds & the Trumpet (see [[00k-the-gathering-of-the-elect]])
+
+**Matthew 24:31**
+ESV: "he will send out his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of heaven to the other."
+CJB: "He will send out his angels with a great shofar; and they will gather together his chosen people from the four winds."
+RVR1960: "enviará sus ángeles con gran voz de trompeta, y juntarán a sus escogidos, de los cuatro vientos."
+
+**Deuteronomy 30:1–4**
+ESV: "he will gather you again from all the peoples where the Lord your God has scattered you. If your outcasts are in the uttermost parts of heaven, from there the Lord your God will gather you."
+CJB: "If one of yours was scattered to the far end of the sky, Adonai your God will gather you even from there."
+RVR1960: "Aun cuando tus desterrados estuvieren en las partes más lejanas que hay debajo del cielo, de allí te recogerá Jehová tu Dios."
+
+**Isaiah 11:10–12** — Messiah, nations, and gathering together
+ESV: "the root of Jesse, who shall stand as a signal for the peoples... He will raise a signal for the nations and will assemble the banished of Israel, and gather the dispersed of Judah from the four corners of the earth."
+CJB: "the root of Yishai... assemble the dispersed of Isra'el, and gather the scattered of Y'hudah."
+RVR1960: "la raíz de Isaí... juntará los desterrados de Israel, y reunirá los esparcidos de Judá."
+
+**Isaiah 27:12–13** — the great trumpet, the closest parallel
+ESV: "you will be gleaned one by one, O people of Israel. And in that day a great trumpet will be blown, and those who were lost in the land of Assyria and those who were driven out to the land of Egypt will come and worship the Lord."
+CJB: "On that day a great shofar will sound. Those lost in the land of Ashur will come, also those scattered through the land of Egypt."
+RVR1960: "se tocará con gran trompeta, y vendrán los que habían sido esparcidos en la tierra de Asiria."
+
+**Isaiah 27:1** — Leviathan judged, immediately before the gathering
+ESV: "the Lord... will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and he will slay the dragon that is in the sea."
+CJB: "will punish Livyatan the fleeing serpent... he will slay the sea monster."
+RVR1960: "castigará... al leviatán serpiente veloz... y matará al dragón que está en el mar."
+
+**Isaiah 43:5–6** — the four directions
+ESV: "I will bring your offspring from the east, and from the west I will gather you... I will say to the north, Give up, and to the south, Do not withhold; bring my sons from afar and my daughters from the end of the earth."
+RVR1960: "del oriente traeré tu generación, y del occidente te recogeré... Diré al norte: Da acá; y al sur: No detengas."
+
+**Zechariah 2:6** — "four winds" verbatim
+ESV: "For I have spread you abroad as the four winds of the heavens, declares the Lord."
+RVR1960: "por los cuatro vientos de los cielos os esparcí, dice Jehová."
+*(CJB versification differs at this reference — no CJB rendering recorded rather than a mismatched one.)*
+
+**Isaiah 45:4 / 65:9** — "my chosen" with Israel roots
+45:4 ESV: "Israel my chosen." CJB: "Isra'el my elect." RVR1960: "Israel mi escogido."
+65:9 ESV: "my chosen shall possess it, and my servants shall dwell there." RVR1960: "mis escogidos poseerán por heredad la tierra."
+
+**Angelos as human messenger — the lexical controls**
+Matthew 11:10 (of John the Baptist) — ESV: "Behold, I send my messenger before your face." RVR1960: "yo envío mi mensajero delante de tu faz." *(Greek: angelon.)*
+Luke 9:52 — ESV: "he sent messengers ahead of him." RVR1960: "envió mensajeros delante de él." *(Greek: angelous.)*
+
+**Matthew's "his angels" formula — the contextual counterweight**
+Matthew 13:41 — ESV: "The Son of Man will send his angels, and they will gather out of his kingdom all causes of sin." *(Closest structural parallel to 24:31 — same formula, same gathering verb.)*
+Matthew 16:27 — ESV: "the Son of Man is going to come with his angels in the glory of his Father."
+Matthew 25:31 — ESV: "When the Son of Man comes in his glory, and all the angels with him."
+
+**The trumpet passages requiring comparison**
+1 Corinthians 15:52 — ESV: "at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable." CJB: "at the final shofar." RVR1960: "a la final trompeta."
+1 Thessalonians 4:16–17 — ESV: "with the sound of the trumpet of God. And the dead in Christ will rise first. Then we who are alive... will be caught up together with them in the clouds." CJB: "with God's shofar." RVR1960: "con trompeta de Dios."
+
 ## Cosmic Collapse as Judgment Language (see [[00j-cosmic-signs-and-intertextual-priority]])
 
 **Isaiah 13:1, 9–10, 17** — Babylon, the control passage
