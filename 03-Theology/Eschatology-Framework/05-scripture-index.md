@@ -799,6 +799,127 @@ ESV: "Circumcise yourselves to the Lord; remove the foreskin of your hearts, O m
 CJB: "People of Y'hudah and inhabitants of Yerushalayim, circumcise yourselves for Adonai, remove the foreskins of your heart! Otherwise my fury will lash out like fire, burning so hot that no one can quench it, because of how evil your actions are."
 RVR1960: "Circuncidaos a Jehová, y quitad el prepucio de vuestro corazón, varones de Judá y moradores de Jerusalén; no sea que mi ira salga como fuego, y se encienda y no haya quien la apague, por la maldad de vuestras obras."
 
+## The New Covenant — What Changed (see [[00o-new-covenant-what-changed]])
+
+### The promise in the prophets
+
+**Jeremiah 31:34** — *(CJB numbers this 31:33 — offset of exactly one verse, CONFIRMED by direct lookup)*
+ESV: "And no longer shall each one teach his neighbor and each his brother, saying, 'Know the Lord,' for they shall all know me, from the least of them to the greatest, declares the Lord."
+CJB: "No longer will any of them teach his fellow community member or his brother, 'Know Adonai'; for all will know me, from the least of them to the greatest; because I will forgive their wickednesses and remember their sins no more."
+RVR1960: "Y no enseñará más ninguno a su prójimo, ni ninguno a su hermano, diciendo: Conoce a Jehová; porque todos me conocerán, desde el más pequeño de ellos hasta el más grande, dice Jehová."
+Hebrew (31:33): **נָתַתִּי אֶת־תּוֹרָתִי בְּקִרְבָּם** *natatti et-torati beqirbam* ("I will put my Torah within them") · **וְעַל־לִבָּם אֶכְתֲּבֶנָּה** *ve'al-libam ekhtavennah* ("and upon their heart I will write it")
+**⚠️ Tension recorded, unresolved** — "all will know me" / "no longer teach" is not obviously descriptive of any observed community; Hebrews 8 quotes it unqualified. See [[04-open-questions]] item 20.
+
+**Hebrews 8:7–8** — where the fault is located
+ESV: "For if that first covenant had been faultless, there would have been no occasion to look for a second. For he finds fault with them when he says: 'Behold, the days are coming, declares the Lord, when I will establish a new covenant with the house of Israel and with the house of Judah.'"
+CJB: "Indeed, if the first covenant had not given ground for faultfinding, there would have been no need for a second one. For God does find fault with the people when he says..."
+RVR1960: "Porque si aquel primero hubiera sido sin defecto, ciertamente no se hubiera procurado lugar para el segundo. Porque reprendiéndolos dice: He aquí vienen días, dice el Señor, En que estableceré con la casa de Israel y la casa de Judá un nuevo pacto;"
+**Note:** all three put the fault-finding on **them / the people**. Brake: don't press into "Sinai had no deficiency" — Hebrews 7:11 attributes some insufficiency to the arrangement.
+
+**Ezekiel 36:26–27** — the Ruach produces obedience, not replaces it
+ESV: "And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh. And I will put my Spirit within you, and cause you to walk in my statutes and be careful to obey my rules."
+CJB: "I will give you a new heart and put a new spirit inside you; I will take the stony heart out of your flesh and give you a heart of flesh. I will put my Spirit inside you and cause you to live by my laws, respect my rulings and obey them."
+RVR1960: "Os daré corazón nuevo, y pondré espíritu nuevo dentro de vosotros; y quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne. Y pondré dentro de vosotros mi Espíritu, y haré que andéis en mis estatutos, y guardéis mis preceptos, y los pongáis por obra."
+**All three preserve the causal construction.** Adds a third function to this vault's model of the Ruach — see [[00b-biblical-epistemology]] §C.
+
+### Ezekiel 37 — dry bones, two sticks, one king, everlasting covenant
+
+**Ezekiel 37:11** — Yahweh supplies His own referent
+ESV: "Son of man, these bones are the whole house of Israel. Behold, they say, 'Our bones are dried up, and our hope is lost; we are indeed cut off.'"
+CJB: "Human being! These bones are the whole house of Isra'el; and they are saying, 'Our bones have dried up, our hope is gone, and we are completely cut off.'"
+RVR1960: "Hijo de hombre, todos estos huesos son la casa de Israel. He aquí, ellos dicen: Nuestros huesos se secaron, y pereció nuestra esperanza, y somos del todo destruidos."
+
+**Ezekiel 37:19** — the two sticks
+ESV: "Behold, I am about to take the stick of Joseph (that is in the hand of Ephraim) and the tribes of Israel associated with him. And I will join with it the stick of Judah, and make them one stick, that they may be one in my hand."
+CJB: "I will take the stick of Yosef, which is in the hand of Efrayim, together with the tribes of Isra'el who are joined with him, and put them together with the stick of Y'hudah and make them a single stick, so that they become one in my hand."
+RVR1960: "He aquí, yo tomo el palo de José que está en la mano de Efraín, y a las tribus de Israel sus compañeros, y los pondré con el palo de Judá, y los haré un solo palo, y serán uno en mi mano."
+
+**Ezekiel 37:22** — one nation, one king
+ESV: "And I will make them one nation in the land, on the mountains of Israel. And one king shall be king over them all, and they shall be no longer two nations, and no longer divided into two kingdoms."
+CJB: "I will make them one nation in the land, on the mountains of Isra'el; and one king will be king for all of them. They will no longer be two nations, and they will never again be divided into two kingdoms."
+RVR1960: "y los haré una nación en la tierra, en los montes de Israel, y un rey será a todos ellos por rey..."
+
+**Ezekiel 37:24** — Torah-keeping INSIDE the everlasting-covenant promise
+ESV: "My servant David shall be king over them, and they shall all have one shepherd. They shall walk in my rules and be careful to obey my statutes."
+CJB: "My servant David will be king over them, and all of them will have one shepherd; they will live by my rulings and keep and observe my regulations."
+RVR1960: "Mi siervo David será rey sobre ellos, y todos ellos tendrán un solo pastor; y andarán en mis preceptos..."
+**Direct prophetic support for "Torah internalized, not erased."**
+
+**Ezekiel 37:26–28** — ⚠️ the sanctuary complication, see [[04-open-questions]] item 19
+ESV (26): "I will make a covenant of peace with them. It shall be an everlasting covenant with them. And I will set them in their land and multiply them, and will set my sanctuary in their midst forevermore."
+ESV (27): "My dwelling place shall be with them, and I will be their God, and they shall be my people."
+ESV (28): "Then the nations will know that I am the Lord who sanctifies Israel, when my sanctuary is in their midst forevermore."
+CJB (26): "I will make a covenant of peace with them, an everlasting covenant. I will give to them, increase their numbers, and set my sanctuary among them forever."
+RVR1960 (26): "Y haré con ellos pacto de paz, pacto perpetuo será con ellos; y los estableceré y los multiplicaré, y pondré mi santuario entre ellos para siempre."
+
+### The inauguration — the chronological anchor
+
+**Luke 22:20**
+ESV: "This cup that is poured out for you is the new covenant in my blood."
+CJB: "This cup is the New Covenant, ratified by my blood, which is being poured out for you."
+RVR1960: "Esta copa es el nuevo pacto en mi sangre, que por vosotros se derrama."
+
+**1 Corinthians 11:25**
+ESV: "This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me."
+CJB: "This cup is the New Covenant effected by my blood; do this, as often as you drink it, as a memorial to me."
+RVR1960: "Esta copa es el nuevo pacto en mi sangre; haced esto todas las veces que la bebiereis, en memoria de mí."
+**Note:** CJB's "ratified by" / "effected by" make the inaugural sense explicit; ESV/RVR1960 read the plainer "in my blood." The inaugural force is inferred from context, not carried by the preposition.
+
+**Matthew 27:51** — observation; Matthew does NOT interpret it
+ESV: "And behold, the curtain of the temple was torn in two, from top to bottom. And the earth shook, and the rocks were split."
+CJB: "At that moment the parokhet in the Temple was ripped in two from top to bottom; and there was an earthquake, with rocks splitting apart."
+RVR1960: "Y he aquí, el velo del templo se rasgó en dos, de arriba abajo; y la tierra tembló, y las rocas se partieron;"
+The theological weight comes from **Hebrews 10:19–22** (indexed above), not from Matthew's sentence.
+
+### The priest-king
+
+**Hebrews 4:14–15**
+ESV (14): "Since then we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us hold fast our confession."
+ESV (15): "For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin."
+CJB (14): "Therefore, since we have a great cohen gadol who has passed through to the highest heaven, Yeshua, the Son of God, let us hold firmly to what we acknowledge as true."
+RVR1960 (14): "Por tanto, teniendo un gran sumo sacerdote que traspasó los cielos, Jesús el Hijo de Dios, retengamos nuestra profesión."
+
+**Zechariah 6:12–13** — ⚠️ SUGGESTIVE ONLY; the translations split on the decisive clause
+ESV (12): "Behold, the man whose name is the Branch: for he shall branch out from his place, and he shall build the temple of the Lord."
+ESV (13): "It is he who shall build the temple of the Lord and shall bear royal honor, and shall sit and rule on his throne. And there shall be a priest on his throne, and the counsel of peace shall be between them both."
+CJB (12): "There is coming a man whose name is Tzemach [Sprout]. He will sprout up from his place and rebuild the temple of Adonai."
+CJB (13): "Yes, he will rebuild the temple of Adonai; and he will take up royal splendor, sitting and ruling from his throne. There will be a cohen before his throne; and they will accept each other's advice in complete harmony."
+RVR1960 (12): "He aquí el varón cuyo nombre es el Renuevo, el cual brotará de sus raíces, y edificará el templo de Jehová."
+RVR1960 (13): "Él edificará el templo de Jehová, y él llevará gloria, y se sentará y dominará en su trono, y habrá sacerdote a su lado; y consejo de paz habrá entre ambos."
+**ESV "a priest ON his throne" (plausibly same figure) vs CJB "a cohen BEFORE his throne" and RVR1960 "sacerdote A SU LADO" (both a separate figure); all three end "between them both."** Two of three read a distinct priest. **The priest-king case rests on Psalm 110:4 + Hebrews 7, not on this verse.**
+
+### Circumcision — the first test case
+
+**Genesis 17:10–11** — an ABRAHAMIC sign, predating Sinai
+ESV: "This is my covenant, which you shall keep, between me and you and your offspring after you: Every male among you shall be circumcised. You shall be circumcised in the flesh of your foreskins, and it shall be a sign of the covenant between me and you."
+CJB: "Here is my covenant, which you are to keep, between me and you, along with your descendants after you: every male among you is to be circumcised. You are to be circumcised in the flesh of your foreskin; this will be the sign of the covenant between me and you."
+RVR1960: "Este es mi pacto, que guardaréis entre mí y vosotros y tu descendencia después de ti: Será circuncidado todo varón de entre vosotros. Circuncidaréis, pues, la carne de vuestro prepucio, y será por señal del pacto entre mí y vosotros."
+
+**1 Corinthians 7:18**
+ESV: "Was anyone at the time of his call already circumcised? Let him not seek to remove the marks of circumcision. Was anyone at the time of his call uncircumcised? Let him not seek circumcision."
+CJB: "Was someone already circumcised when he was called? Then he should not try to remove the marks of his circumcision. Was someone uncircumcised when he was called? He shouldn't undergo b'rit-milah."
+RVR1960: "¿Fue llamado alguno siendo circunciso? Quédese circunciso. ¿Fue llamado alguno siendo incircunciso? No se circuncide."
+
+**1 Corinthians 7:19** — the sentence that destroys the easy binary; see [[04-open-questions]] item 21
+ESV: "For neither circumcision counts for anything nor uncircumcision, but keeping the commandments of God."
+CJB: "Being circumcised means nothing, and being uncircumcised means nothing; what does mean something is keeping God's commandments."
+RVR1960: "La circuncisión nada es, y la incircuncisión nada es, sino el guardar los mandamientos de Dios."
+**All three agree — no translational escape hatch.**
+
+### Torah's purpose — held in tension by the same author
+
+**Galatians 3:24–25** — παιδαγωγός *paidagōgos* = guardian/custodian, NOT "schoolmaster"
+ESV: "So then, the law was our guardian until Christ came, in order that we might be justified by faith. But now that faith has come, we are no longer under a guardian,"
+CJB: "Accordingly, the Torah functioned as a custodian until the Messiah came, so that we might be declared righteous on the ground of trusting and being faithful. But now that the time for this trusting faithfulness has come, we are no longer under a custodian."
+RVR1960: "De manera que la ley ha sido nuestro ayo, para llevarnos a Cristo, a fin de que fuésemos justificados por la fe. Pero venida la fe, ya no estamos bajo ayo,"
+**All three modern translations avoid "schoolmaster"** (ESV "guardian," CJB "custodian," RVR1960 "ayo"). Popular English memory has not caught up.
+
+**Romans 7:12**
+ESV: "So the law is holy, and the commandment is holy and righteous and good."
+CJB: "So the Torah is holy; that is, the commandment is holy, just and good."
+RVR1960: "De manera que la ley a la verdad es santa, y el mandamiento santo, justo y bueno."
+**Paul says both this and Galatians 3:25. Any reading requiring one to erase the other is too crude — in either direction.**
+
 ## Daniel 2 — The Statue and the Stone (bookmarked, see [[04-open-questions]])
 
 **Daniel 2:34–35**

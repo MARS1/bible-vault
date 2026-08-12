@@ -202,7 +202,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 ### Side bookmark generated at this stage
 **Daniel 2** — the statue and the stone. **Deliberately NOT retrofitted** into Stage 10's cosmic-signs argument, because Daniel 2 doesn't supply that vocabulary and inserting it would have made the argument *less* precise. Filed forward instead, with corrections on record (four kingdoms not five; Daniel doesn't identify iron/clay as modern governments *or* as Republic/Empire; Republic preceded Empire). Generated a real question: **Daniel 2:44's "in the days of those kings"** + Mark 1:15's "the time is fulfilled" + Matthew 21:44's crushing stone → *when does Scripture say Messiah's reign began?* — which must be settled **before** asking when the thousand years began. **Rupes Nigra** logged as an open hypothesis with three brakes (Aramaic *ʾarʿāʾ* needs its own study; compasses aren't evidence; copied maps aren't independent witnesses).
 
-## Stage 14 — "Until Heaven and Earth Pass Away" *(current)*
+## Stage 14 — "Until Heaven and Earth Pass Away"
 
 **File:** [[00n-torah-fulfilled-and-what-changed]]
 
@@ -228,13 +228,49 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** what, specifically, does Scripture say *changed* and what does it say was *retained*?
 
+## Stage 15 — What Actually Changes in the New Covenant? *(current)*
+
+**File:** [[00o-new-covenant-what-changed]]
+
+*Deliberate deceleration — did **not** race back to Matthew 24:36. Stage 14 uncovered a structural question governing everything downstream.*
+
+**Starting-point discipline: not Christianity, not Judaism, and not Paul.** "New covenant" originates in the prophets, so the investigation starts there; Paul enters at §16 as a witness to be interpreted, not as the lens for everything prior.
+
+- **Jeremiah 31:31 — the recipients don't change.** New Covenant made with **the house of Israel and the house of Judah**. Converges with Romans 11 / Ephesians 2, reached independently from a different direction
+- **Jeremiah 31:32 — explicit discontinuity.** "**Not like** the covenant I made with their fathers," and Yahweh names *which* — the **Exodus** covenant, not covenant-in-general
+- **🔧 REFINEMENT (self-correction):** "one covenant story from Genesis to Revelation" superseded by **"one covenantal story containing multiple covenants, culminating in Messiah."** Abraham precedes Sinai; Davidic adds a dimension; the New is promised. One story, **not** interchangeable covenants. The old phrasing invited exactly the flattening Jeremiah 31:32 forbids
+- **The defect is located precisely:** "**my covenant that they broke**." Hebrews 8:7–8 — all three translations put the fault-finding on **them/the people**. *Brake:* don't press this into "Sinai had no deficiency" — Hebrews 7:11 attributes *some* insufficiency to the arrangement
+- **Jeremiah 31:33 Hebrew:** *natatti et-torati beqirbam* — Torah **within them**; *ve'al-libam ekhtavennah* — written **on their heart**. Locus changes external→internal. **Torah internalized, not discarded.** *Brake:* this must **not** become a slogan pre-answering Sabbath/food/festivals — that would be Category Collapse wearing a Jeremiah quotation
+- **CJB versification CONFIRMED, not assumed** — direct lookup of CJB "31:33" returns ESV's 31:34. Offset is exactly one verse. The failed first fetch is recorded so the error is reproducible
+- **⚠️ Jeremiah 31:34 tension recorded, unresolved:** "they shall **all** know me" and "**no longer shall each one teach** his neighbor" is not obviously descriptive of any observed community — teaching plainly continued, and Hebrews is itself a teaching document. A genuine cost for any fully-consummated reading
+- **Ezekiel 36:26–27 — the Ruach side.** New heart → new spirit → Spirit within → **obedience**. All three translations keep the causal construction ("*cause you to* walk"). **Complicates any model where the Spirit replaces obedience.** Adds a **third function** to this vault's own model of the Ruach (illuminates, guides, **and produces covenant faithfulness**) — reached from the prophets, not from what the epistemology section needed
+- **Ezekiel 37:11 — resurrection language joins the semantic family.** Yahweh supplies His own referent: "**these bones are the whole house of Israel**." Joins cosmic-collapse, cloud-coming, heaven-and-earth. **Brake stated in the same breath** — this is the possibility most useful to a preterist reading, so it gets *less* rope, not more: 1 Cor 15, Daniel 12, John 5, Revelation 20 each still argued on their own evidence
+- **Ezekiel 37:19–28 — two sticks, one king, everlasting covenant.** *Finding:* **37:24 puts Torah-keeping *inside* the everlasting-covenant promise** — direct prophetic support for "internalized, not erased"
+- **⚠️ AND A REAL COST: Ezekiel 37:26–28 promises a sanctuary "in their midst forevermore," twice.** A framework reading Temple language as passing in AD 70 owes an account of this. Four options tabled, none selected; 2 Corinthians 6:16's apparent citation flagged **unverified**. **Ezekiel 40–48 bookmarked, deliberately not opened** — same discipline as Daniel 2 at Stage 13
+- **Luke 22:20 / 1 Corinthians 11:25 — chronological anchor.** The New Covenant is textually tied to **Yeshua's death** — not AD 70, not Pentecost, not a future event. *Noted as suggestive, explicitly not proof:* that puts inauguration and the old administration's disappearance ~40 years apart, matching Hebrews 8:13's transitional window — which remains at "permits"
+- **Torn veil handled in layers** (ADR-0006): Matthew 27:51 is the **observation**; Matthew does **not** interpret it. The theological weight comes from **Hebrews 10:19–22**. Seam kept visible
+- **Hebrews 4:14 + Psalm 110** — Israel's structure keeps kingship (Judah) and priesthood (Levi) **structurally separate**. Messiah uniting both is a change the Levitical system could not generate from within — which is Hebrews 7:11–12's argument
+- **⚠️ CONTRARY EVIDENCE on Zechariah 6:13 — the translations split on the decisive clause.** ESV "a priest **on** his throne" (plausibly the same figure); **CJB "a *cohen* *before* his throne"** and **RVR1960 "sacerdote *a su lado*"** (both a **separate** figure) — and all three end "counsel of peace between them **both**," which reads more naturally of two parties. **So this stage does NOT lean on Zechariah.** Priest-king rests on Psalm 110:4 + Hebrews 7, which are explicit. Same discipline as CJB's "this people" at Stage 13
+- **Table populated — 10 rows with evidence, 2 marked UNRESOLVED** (sanctuary; "all shall know"). A table resolving cleanly on first pass would be evidence of a thumb on the scale
+- **New rule — Category Collapse Test's second face: imported categories.** moral/civil/ceremonial is **theological taxonomy, not biblical terminology**. Not a refutation — a requirement to *argue* for the split rather than assume it. Exposed by circumcision: an **Abrahamic** sign predating Sinai (Genesis 17:10–11), and the difficulty of boxing it is evidence about the boxes
+- **New instrument — the Eleven-Question Protocol** for a Torah command (origin / audience / purpose / prophetic anticipation / Yeshua / Acts / apostolic / retained? / transformed? / discontinued? / **inferring beyond the text?**). Q8–10 deliberately not complements
+- **Circumcision test case, and the problem stated not hidden:** 1 Corinthians 7:19 — "neither circumcision nor uncircumcision counts, **but keeping the commandments of God**." All three translations agree; no escape hatch. **How is circumcision commanded in Torah while Paul distinguishes it from "keeping God's commandments"?** An investigation, not a contradiction to conceal
+- **Food deferred on principle** — Acts 10:28 shows Peter's own interpretation concerns **people**, so Acts 10 can't be wielded as "pork is clean now." **But disproving that does not prove dietary law binds Gentiles.** Anti-Replacement
+- **New companion question: purpose.** "What changed?" is unintelligible without "what was it *for*?" Galatians 3:24's ***paidagōgos*** = guardian/custodian, **not** "schoolmaster" — ESV/CJB/RVR1960 have all moved off that rendering; popular English memory hasn't. Held against **Romans 7:12** ("the law is holy") from the same author. **Any reading requiring one to erase the other is too crude — in either direction**
+
+**→ earns the next question:** what does *fulfillment* actually look like in a worked case?
+
 ---
 
 ## Next Stage (not yet written)
 
-**The What-Changed Table.** Not "did Christianity replace Judaism?" and not "are Christians under the Law?" — both arrive pre-loaded. The cleaner question: **according to Torah, the Prophets, Yeshua, Acts, and the apostolic writings themselves, what does Scripture explicitly say changed and what does it explicitly preserve at the New Covenant's inauguration?**
+**Sacrifice and priesthood — not Sabbath or food.** Chosen because Scripture argues this case most fully. If one example can be established where **Torah remains true → its purpose is fulfilled in Messiah → its covenantal administration genuinely changes**, there is a concrete model of fulfillment *before* touching the disputed questions. Arguing about Sabbath with no agreed sense of what "fulfilled" means is the wrong order.
 
-Fourteen rows to populate from Scripture, one at a time: covenant, priesthood, sacrifice, Temple, circumcision, Torah, Sabbath, food, festivals, moral commandments, Israel, Gentiles, Spirit, access to Yahweh. **"Explicitly changed?" and "explicitly retained?" are not complements** — a row can be neither, and "Unresolved" is a legitimate final answer. Only after the table is populated do we ask what theological label fits the picture. Skeleton already built at [[00n-torah-fulfilled-and-what-changed]] §16.
+**Chain:** **Leviticus (Day of Atonement) → Psalm 110 → Yeshua → Hebrews 7–10.**
+
+**Hypothesis to be tested, not assumed:** *Yeshua does not merely cancel the sacrificial pattern; He is presented as the reality to which the pattern was pointing.* If it holds, the project finally has a worked example of what *plēroō* looks like rather than a dictionary argument.
+
+**Sequencing constraint:** **read Leviticus 16 before Hebrews' interpretation of it** — two goats, the scapegoat, annual repetition, the high priest's own sin offering. Reading Hebrews first would guarantee finding exactly what Hebrews said was there.
 
 ## Corrections Preserved (Not Overwritten)
 
@@ -249,5 +285,7 @@ The journey's self-corrections, kept deliberately because they demonstrate the m
 | 7 | "Where did the millennium's nations come from?" | Revelation 20:7–8 — they simply exist; the premise was imported |
 | 9 | "A third of the angels rebelled" as stated text | Reclassified as inference |
 | 11 | *angeloi* = human missionaries (convenient) | Matthew 13:41's parallel formula |
+| 15 | **"one covenant story from Genesis to Revelation"** (this project's own working phrase) | **Jeremiah 31:32's explicit "not like the covenant I made with their fathers."** Refined to **"one covenantal story containing multiple covenants, culminating in Messiah"** — Abrahamic, Sinai, Davidic, and New are one story but not interchangeable. The old phrasing invited the flattening Jeremiah forbids |
+| 15 | Zechariah 6:13 as support for Messiah uniting king + priest | **CJB ("*cohen* *before* his throne") and RVR1960 ("sacerdote *a su lado*") both read a *separate* figure.** Downgraded to suggestive; the priest-king case rests on Psalm 110:4 + Hebrews 7 instead |
 | — | Solomon "test all things" verse | Located as Ecclesiastes 1:13 / 7:25; "test" is Paul's word |
 | — | Sapphira/Zipporah, Hannah/Elizabeth, Sinai/Horeb | Simple factual fixes |

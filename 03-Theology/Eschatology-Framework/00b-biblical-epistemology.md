@@ -110,6 +110,38 @@ A slogan that answers eight questions at once has not answered any of them — i
 
 **Relation to the other rules:** Intertextual Priority governs *where meaning comes from*; Anti-Replacement governs *how far a correction may be pushed*; Audience Continuity governs *who is being addressed*; Category Collapse governs *whether the question itself is well-formed*. This one runs first — a malformed question cannot be rescued by good exegesis downstream.
 
+### The rule's second face — imported categories *(added 2026-08-12, Stage 15)*
+
+The test runs in both directions. Collapse packages several things as one; **importation splits one thing into categories the source text never named, then reasons from the split as though it were given.**
+
+**Worked case — the moral / civil / ceremonial division of Torah** ([[00o-new-covenant-what-changed]] §13). The framework has genuine analytical use, but **Torah does not present three formally labeled codes under those names.** They are **theological taxonomy, not biblical terminology**, and must be labeled as such wherever this project uses them. This is not a refutation of the division — it is a requirement to **argue for it rather than assume it**, since arguments like "the ceremonial law passed, the moral law remains" depend on the split being real. **Diagnostic:** if a category does real work in an argument, ask whether the text named it or whether an interpreter did. **Test case that exposes it:** circumcision is an *Abrahamic* covenant sign predating Sinai (Genesis 17:10–11) — the difficulty of placing it in any of the three boxes is itself evidence about the boxes.
+
+**Both faces are the same failure:** not letting the text define its own units.
+
+## The Eleven-Question Protocol for a Torah Command *(added 2026-08-12, Stage 15)*
+
+The 7-step test below is for **passages**. This one is for **commands** — where "does this still apply?" is the question and the general test doesn't reach. Do **not** ask "which side am I on?" Ask:
+
+1. Where does the command **originate**? *(Abraham? Sinai? Creation?)*
+2. **To whom** was it given?
+3. What **purpose** does Scripture assign it?
+4. Do the **Prophets** anticipate its transformation?
+5. What does **Yeshua** say about it?
+6. How does **Acts** portray it in practice?
+7. How do the **apostolic writings** interpret it?
+8. Is it **explicitly retained**?
+9. Explicitly **transformed**?
+10. Explicitly **discontinued**?
+11. Or are we **inferring beyond what Scripture directly states**?
+
+**Question 11 keeps the other ten honest.** Questions 8–10 are deliberately *not* complements — a command can be none of the three, and that result is a finding, not a failure. Worked cases pending: Sabbath, food, festivals, circumcision, sacrifice, purity, Temple.
+
+## The Companion Question — Purpose *(added 2026-08-12, Stage 15)*
+
+> **Alongside "what changed?", always ask "what was the purpose of the thing that changed?"**
+
+Without purpose, transformation is unintelligible. If Messiah **fulfills** Torah, identifying Torah's **purpose** is prerequisite to knowing what fulfillment means — otherwise *plēroō* stays a dictionary argument, which is exactly where [[00n-torah-fulfilled-and-what-changed]] had to stop. Paul's *paidagōgos* (Galatians 3:24–25, guardian/custodian — **not** "schoolmaster") is one purpose-statement, and it must be held together with Romans 7:12's "the law is holy" from the same author. **Any reading requiring one of those to erase the other is too crude — in either direction.**
+
 ## Audience Continuity (rule, added 2026-08-12)
 
 > **The addressee of a passage should be presumed continuous unless the text gives sufficient reason to change the referent.**
@@ -176,6 +208,8 @@ This is the working discipline behind every item in [[01-convictions]] section B
 Boundary this sets: investigation, study, comparison, reasoning, prayer, asking the Ruach for understanding — all legitimate. Claiming to have comprehended the living God completely — not legitimate.
 
 ## C. The Ruach Guides — But Guidance Still Requires Testing
+
+> **Addition from Stage 15 (2026-08-12) — a third function, from the prophets.** This section and [[00d-grace-and-stewardship]] have described the Ruach as **illuminating** and **guiding**. **Ezekiel 36:27** adds a third: **producing covenant faithfulness.** "I will put my Spirit within you, **and cause you to walk in my statutes** and be careful to obey my rules" — CJB: "**cause you to live by my laws**"; RVR1960: "**haré que andéis en mis estatutos**." All three translations preserve the causal construction. **This complicates any model in which the Spirit *replaces* obedience** — Ezekiel presents the Ruach as the power by which obedience happens. Note this was reached from the prophets, not derived from what this section needed. See [[00o-new-covenant-what-changed]] §5.
 
 **Important refinement to [[01-convictions]] A.13:** John 14:26 and John 16:13 are not generic promises addressed to every believer in every era — Yeshua is speaking specifically to His disciples about His departure and their apostolic mission (Contextual Exegesis, above). That doesn't erase broader application, but the broader application has to be established from the rest of Scripture, not assumed from those two verses alone. The corroborating texts:
 
