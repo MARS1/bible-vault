@@ -228,7 +228,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** what, specifically, does Scripture say *changed* and what does it say was *retained*?
 
-## Stage 15 — What Actually Changes in the New Covenant? *(current)*
+## Stage 15 — What Actually Changes in the New Covenant?
 
 **File:** [[00o-new-covenant-what-changed]]
 
@@ -260,9 +260,52 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** what does *fulfillment* actually look like in a worked case?
 
+## Stage 16 — Sacrifice, Priesthood, and What Fulfillment Actually Looks Like *(current)*
+
+**File:** [[00p-sacrifice-priesthood-and-fulfillment]]
+
+*Sequencing constraint honored: **Leviticus 16 read first, on its own terms (§1–3). Hebrews does not appear until §7.** Reading Hebrews first would have guaranteed finding exactly what Hebrews said was there.*
+
+- **Leviticus establishes the purpose before anything interprets it:** sin and impurity create a barrier requiring atonement. **Constrains everything downstream** — if Messiah changes the system, the underlying reality cannot become *sin no longer matters*
+- **Leviticus 16:6 — the mediator is himself sinful**, offering "for himself and for his house," and the process **repeats annually**. Hebrews 7:27 later answers this exact limitation
+- **Two goats, two movements** — one goat's blood atones (16:15); the other **bears the iniquities away** (16:21–22). **Sin is both atoned for AND removed.** Recorded before Hebrews was opened, so the observation isn't retrofitted
+- **🔍 All three translations decline the "scapegoat" gloss** — ESV "Azazel," CJB "'Az'azel," RVR1960 "Azazel." Doesn't establish a personal referent; **does** establish that "it obviously just means scapegoat" is not the settled position it's assumed to be
+- **Isaiah 53 concentrates sacrificial categories into a person** *before* any New Testament writer. **The NT did not look at Yeshua afterward and invent the symbolism**
+- **⚠️ Contrary evidence — Isaiah 53:10's *asham* is less secure than it looks.** ESV/RVR1960 read "**when** his soul makes an offering for guilt"; **CJB reads a conditional** — "to see **if** he would present himself as a guilt offering. **If he does**…" Sacrificial vocabulary present in all three; the *certainty of the assertion* is what varies
+- **John 1:29 — Yeshua interpreted sacrificially before the crucifixion.** Verb resonance with Lev 16:22 noted ("takes away" / "bears away"), **not** asserted as citation
+- **⚠️ Text-critical brake on Matthew 26:28** — ESV "my blood of the covenant"; RVR1960 "**del nuevo pacto**"; CJB "ratifies the **New** Covenant." **The word "new" is text-critically contested here.** So "Yeshua Himself called it the New Covenant" must rest on **Luke 22:20 / 1 Cor 11:25**, where it's secure — not on Matthew
+- **THE MODEL — Hebrews 8:5, 9:23, 10:1: "shadow," "copy," "pattern."** A shadow isn't evil; it's *produced by something real*. **Pattern → reality, NOT falsehood → truth.** Yields the definition: *fulfillment can mean an earlier God-given institution reaches its intended goal in Messiah, so that continuing the earlier form as though fulfillment had not occurred would misunderstand the institution's own purpose*
+- **📖 Sidebar: Hebrews is not calling Leviticus a lie.** Distinguishes the sacrifices' **ritual/covenantal effectiveness within their appointed system** (which Leviticus asserts and Hebrews never denies) from **ultimate removal of sin** (which Hebrews says they couldn't accomplish). Annual repetition is Hebrews' own evidence
+- **The posture argument:** Levitical priest **stands** daily, offering repeatedly; Messiah offers once and **sits down** (Heb 10:11–12, preserved in all three translations). **A seated priest is a finished-work claim made with a body** — and "sat down at the right hand" is a **Psalm 110:1** citation
+- **"Once for all" — Heb 7:27, 9:12, 9:26, 10:10.** *Precision kept:* the claim is about **necessary sin offerings**, not every conceivable sacrificial act — because **Ezekiel 40–48 contains sin offerings** and pretending Hebrews settled that would be the shortcut this project keeps refusing
+- **🔍 Lexical divergence at Hebrews 7:24** — ESV "holds his priesthood **permanently**" (duration) vs CJB "**does not pass on to someone else**" (succession). Both lexically available for *aparabaton*; they converge in context but are not the same claim
+- **THREE TABLE ROWS with explicit apostolic interpretation** — sacrifice, high priesthood, sanctuary access. **Every row has the same shape: reality retained, form transformed**
+- **The model large enough for both constraints:** *the Torah's prophetic/typological truth remains true **precisely because** Messiah fulfills what it pointed toward; its truth remains while its covenantal administration changes.* Reconciles Matthew 5:18 with Hebrews 7:12 by distinguishing **truth** from **administration** — different axes, not a compromise. **Honest limit: resolves sacrifice/priesthood; does NOT yet resolve Matthew 5:19**
+- **Grace formulation:** *grace is not Yahweh lowering the requirement of holiness — grace is Yahweh providing what holiness requires.* Hebrews 10:19–24's own order is **access → draw near → good works**
+- **❗ §18 brake applied PREEMPTIVELY, before the error:** a model discovered in one area is a **possibility framework**, not an automatic answer elsewhere. Sabbath, food, festivals each require their own evidence. Anti-Replacement applied to this stage's *own* most attractive conclusion
+- **📖 Sidebar: "once for all" ≠ Yeshua stopped being priest.** Sacrifice **completed**; intercession **continuing** (Heb 7:25). The eternal Priest ministers *on the basis of* the completed sacrifice
+- **Psalm 110 holds both offices in one Psalm** — v.1 enthronement, v.4 priesthood. **Retroactively confirms the Stage 9 king-priest observation**, and note the direction: observation came first, evidence later
+
+**→ earns the next question:** does the model survive a command of a *different kind*?
+
+### 🌿 Side branch generated at this stage
+**Leviticus 16 ↔ Azazel ↔ 1 Enoch ↔ Second Temple interpretation.** Preserved at the point it arose; **does not reorder the main argument** (same handling as Daniel 2 at Stage 13). **Established:** *Azazel* occurs at Lev 16:8/10/26 and all three translations transliterate it; the live goat goes *la-Azazel* into the wilderness. **⛔ NOT VERIFIED:** the 1 Enoch claims (Semihazah leading the oath in ch. 6; Azazel teaching metalworking/weapons in ch. 8; Raphael binding Azazel in a desert place in ch. 10) — **an attempt to verify against Charles's translation returned HTTP 403.** Includes a **correction to the recollection** (the oath-leader is reported as *Semihazah*, not Azazel), itself flagged unverified — two layers of provisionality, both preserved. **Governing brake: do not let 1 Enoch define Leviticus before Leviticus is exegeted on its own terms** — that is Intertextual Priority run backwards, which is the error the rule exists to prevent. Inherits the Jude-quoting-Enoch constraint.
+
 ---
 
 ## Next Stage (not yet written)
+
+**Circumcision — a *different kind* of command, and therefore a real test rather than a repeat.** Sacrifice was tied to Sinai and Levi. **Circumcision predates Sinai entirely** — given to Abraham as an **everlasting covenant sign** (Genesis 17:10–11). **Yet Acts 15 and Paul refuse to require it of believing Gentiles.**
+
+**The question:** how can something commanded to Abraham as an "everlasting covenant" cease to function as the required physical boundary marker for Gentile membership in Messiah?
+
+**Chain:** Genesis 17 → Deuteronomy 10/30 → Jeremiah 4 → Acts 15 → Romans 2 → Romans 4 → Galatians 3/5/6 → 1 Corinthians 7.
+
+**What it may overturn:** that the distinction is simply *Mosaic command vs. New Covenant* — **because some covenant signs predate Moses yet are still transformed in Messiah.** If that holds, a very common sorting method is wrong, and Stage 16's §13 table needs a column it does not currently have. **Live unresolved problem carried in:** 1 Corinthians 7:19 ([[04-open-questions]] item 21).
+
+---
+
+## Superseded — Previous "Next Stage" Entry (Stage 15 → 16), Preserved
 
 **Sacrifice and priesthood — not Sabbath or food.** Chosen because Scripture argues this case most fully. If one example can be established where **Torah remains true → its purpose is fulfilled in Messiah → its covenantal administration genuinely changes**, there is a concrete model of fulfillment *before* touching the disputed questions. Arguing about Sabbath with no agreed sense of what "fulfilled" means is the wrong order.
 
@@ -287,5 +330,8 @@ The journey's self-corrections, kept deliberately because they demonstrate the m
 | 11 | *angeloi* = human missionaries (convenient) | Matthew 13:41's parallel formula |
 | 15 | **"one covenant story from Genesis to Revelation"** (this project's own working phrase) | **Jeremiah 31:32's explicit "not like the covenant I made with their fathers."** Refined to **"one covenantal story containing multiple covenants, culminating in Messiah"** — Abrahamic, Sinai, Davidic, and New are one story but not interchangeable. The old phrasing invited the flattening Jeremiah forbids |
 | 15 | Zechariah 6:13 as support for Messiah uniting king + priest | **CJB ("*cohen* *before* his throne") and RVR1960 ("sacerdote *a su lado*") both read a *separate* figure.** Downgraded to suggestive; the priest-king case rests on Psalm 110:4 + Hebrews 7 instead |
+| 16 | **"Ecumenological discipline"** — this project's own informal name for its method | **Term collision.** *Ecumenology* already means the theology of Christian denominational unity — a different field this project isn't doing. Corrected to **"biblical epistemological framework."** Recorded because the near-miss is easy to repeat and would actively mislead a reader of the eventual book |
+| 16 | **Recollection that Azazel led the Watchers' oath** in 1 Enoch | **Reported correction: the oath-leader is *Semihazah/Semyaza*; Azazel's distinctive role (forbidden knowledge, then binding in the desert) comes afterward.** ⛔ The correction is *itself* unverified — 1 Enoch fetch returned HTTP 403. Two layers of provisionality, both preserved rather than collapsed |
+| 16 | Matthew 26:28 as evidence Yeshua said "**New** Covenant" | **Text-critically contested** — "new" is in the Byzantine tradition RVR1960 follows, absent from the critical text ESV follows. Claim reassigned to **Luke 22:20 / 1 Cor 11:25**, where the word is secure |
 | — | Solomon "test all things" verse | Located as Ecclesiastes 1:13 / 7:25; "test" is Paul's word |
 | — | Sapphira/Zipporah, Hannah/Elizabeth, Sinai/Horeb | Simple factual fixes |

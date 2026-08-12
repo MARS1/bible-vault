@@ -920,6 +920,143 @@ CJB: "So the Torah is holy; that is, the commandment is holy, just and good."
 RVR1960: "De manera que la ley a la verdad es santa, y el mandamiento santo, justo y bueno."
 **Paul says both this and Galatians 3:25. Any reading requiring one to erase the other is too crude — in either direction.**
 
+## Sacrifice, Priesthood & Fulfillment (see [[00p-sacrifice-priesthood-and-fulfillment]])
+
+### Leviticus 16 — the Day of Atonement, read BEFORE Hebrews' interpretation of it
+
+**Leviticus 16:6** — the mediator is himself sinful
+ESV: "Aaron shall offer the bull as a sin offering for himself and shall make atonement for himself and for his house."
+CJB: "Aharon is to present the bull for the sin offering which is for himself and make atonement for himself and his household."
+RVR1960: "Y hará traer Aarón el becerro de la expiación que es suyo, y hará la reconciliación por sí y por su casa."
+
+**Leviticus 16:8** — ⚠️ all three transliterate *Azazel*; none render "scapegoat"
+ESV: "And Aaron shall cast lots over the two goats, one lot for the Lord and the other lot for Azazel."
+CJB: "Then Aharon is to cast lots for the two goats, one lot for Adonai and the other for 'Az'azel."
+RVR1960: "Y echará suertes Aarón sobre los dos machos cabríos; una suerte por Jehová, y otra suerte por Azazel."
+Hebrew: **עֲזָאזֵל** *Azazel* · **לַעֲזָאזֵל** *la-Azazel* ("for/to Azazel"). See [[04-open-questions]] item 22.
+
+**Leviticus 16:10**
+ESV: "but the goat on which the lot fell for Azazel shall be presented alive before the Lord to make atonement over it, that it may be sent away into the wilderness to Azazel."
+CJB: "But the goat whose lot fell to 'Az'azel is to be presented alive to Adonai to be used for making atonement over it by sending it away into the desert for 'Az'azel."
+RVR1960: "Mas el macho cabrío sobre el cual cayere la suerte por Azazel, lo presentará vivo delante de Jehová para hacer la reconciliación sobre él, para enviarlo a Azazel al desierto."
+
+**Leviticus 16:15** — the blood goes inside the veil
+ESV: "Then he shall kill the goat of the sin offering that is for the people and bring its blood inside the veil and do with its blood as he did with the blood of the bull, sprinkling it over the mercy seat and in front of the mercy seat."
+CJB: "Next, he is to slaughter the goat of the sin offering which is for the people, bring its blood inside the curtain and do with its blood as he did with the bull's blood, sprinkling it on the ark-cover and in front of the ark-cover."
+RVR1960: "Después degollará el macho cabrío en expiación por el pecado del pueblo, y llevará la sangre detrás del velo adentro... y la esparcirá sobre el propiciatorio y delante del propiciatorio."
+
+**Leviticus 16:20–22** — the second movement: sins carried away
+ESV (20): "And when he has made an end of atoning for the Holy Place and the tent of meeting and the altar, he shall present the live goat."
+ESV (21): "And Aaron shall lay both his hands on the head of the live goat, and confess over it all the iniquities of the people of Israel, and all their transgressions, all their sins."
+ESV (22): "The goat shall bear all their iniquities on itself to a remote area, and he shall let the goat go free in the wilderness."
+CJB (21): "Aharon is to lay both his hands on the head of the live goat and confess over it all the transgressions, crimes and sins of the people of Isra'el; he is to put them on the head of the goat and then send it away into the desert with a man appointed for the purpose."
+CJB (22): "The goat will bear all their transgressions away to some isolated place, and he is to let the goat go in the desert."
+RVR1960 (21): "y pondrá Aarón sus dos manos sobre la cabeza del macho cabrío vivo, y confesará sobre él todas las iniquidades de los hijos de Israel, todas sus rebeliones y todos sus pecados, poniéndolos así sobre la cabeza del macho cabrío, y lo enviará al desierto por mano de un hombre destinado para esto."
+RVR1960 (22): "Y aquel macho cabrío llevará sobre sí todas las iniquidades de ellos a tierra inhabitada; y dejará ir al macho cabrío por el desierto."
+**Two movements: blood atones (v.15); the live goat bears sins AWAY (v.22).**
+
+### Isaiah 53 — sacrificial categories concentrated into a person
+
+**Isaiah 53:4–6**
+ESV: "Surely he has borne our griefs and carried our sorrows; yet we esteemed him stricken, smitten by God, and afflicted. But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed. All we like sheep have gone astray; we have turned—every one—to his own way; and the Lord has laid on him the iniquity of us all."
+CJB: "In fact, it was our diseases he bore, our pains from which he suffered; yet we regarded him as punished, stricken and afflicted by God. But he was wounded because of our crimes, crushed because of our sins; the disciplining that makes us whole fell on him, and by his bruises we are healed. We all, like sheep, went astray; we turned, each one, to his own way; yet Adonai laid on him the guilt of all of us."
+RVR1960: "Ciertamente llevó él nuestras enfermedades, y sufrió nuestros dolores... Mas él herido fue por nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue sobre él, y por su llaga fuimos nosotros curados... mas Jehová cargó en él el pecado de todos nosotros."
+**Lexical:** Hebrew *choli* / *makʾob* cover both sickness and grief. CJB/RVR1960 lean physical ("diseases/pains," "enfermedades/dolores"); ESV leans emotional ("griefs/sorrows"). Both inside the range.
+
+**Isaiah 53:10** — ⚠️ ESV/RVR1960 temporal, CJB conditional. See [[04-open-questions]] item 24.
+ESV: "Yet it was the will of the Lord to crush him; he has put him to grief; when his soul makes an offering for guilt, he shall see his offspring..."
+CJB: "yet it pleased Adonai to crush him with illness, to see if he would present himself as a guilt offering. If he does, he will see his offspring..."
+RVR1960: "Con todo eso, Jehová quiso quebrantarlo, sujetándole a padecimiento. Cuando haya puesto su vida en expiación por el pecado, verá linaje, vivirá por largos días..."
+Hebrew: **אָשָׁם** *asham* (guilt offering) — present in all three; the certainty of the assertion is what varies.
+
+**Isaiah 53:12**
+ESV: "Therefore I will divide him a portion with the many, and he shall divide the spoil with the strong, because he poured out his soul to death and was numbered with the transgressors..."
+CJB: "Therefore I will assign him a share with the great, he will divide the spoil with the mighty, for having exposed himself to death and being counted among the sinners..."
+RVR1960: "Por tanto, yo le daré parte con los grandes, y con los fuertes repartirá despojos; por cuanto derramó su vida hasta la muerte, y fue contado con los pecadores..."
+
+### Yeshua read sacrificially and covenantally
+
+**John 1:29** — before the crucifixion
+ESV: "Behold, the Lamb of God, who takes away the sin of the world!"
+CJB: "Look! God's lamb! The one who is taking away the sin of the world!"
+RVR1960: "He aquí el Cordero de Dios, que quita el pecado del mundo."
+
+**Matthew 26:28** — ⚠️ "new" is text-critically contested here. See [[04-open-questions]] item 23.
+ESV: "For this is my blood of the covenant, which is poured out for many for the forgiveness of sins."
+CJB: "For this is my blood, which ratifies the New Covenant, my blood shed on behalf of many, so that they may have their sins forgiven."
+RVR1960: "Porque esto es mi sangre del nuevo pacto, que por muchos es derramada para remisión de los pecados."
+
+**Exodus 24:8** — the phrase Matthew 26:28 echoes
+ESV: "And Moses took the blood and threw it on the people and said, 'Behold the blood of the covenant that the Lord has made with you.'"
+CJB: "Moshe took the blood, sprinkled it on the people and said, 'This is the blood of the covenant which Adonai has made with you.'"
+RVR1960: "Y tomó Moisés la sangre, y roció sobre el pueblo, y dijo: He aquí la sangre del pacto que Jehová ha hecho con vosotros."
+
+### Hebrews — shadow, pattern, and "once for all"
+
+**Hebrews 8:5** — pattern language
+ESV: "See that you make everything according to the pattern that was shown you on the mountain."
+CJB: "See to it that you make everything according to the pattern you were shown on the mountain."
+RVR1960: "los cuales sirven a lo que es figura y sombra de las cosas celestiales, como se le advirtió a Moisés cuando iba a erigir el tabernáculo, diciéndole: Mira, haz todas las cosas conforme al modelo que se te ha mostrado en el monte."
+
+**Hebrews 9:23–24** — copies
+ESV (23): "Thus it was necessary for the copies of the heavenly things to be purified with these rites, but the heavenly things themselves with better sacrifices than these."
+ESV (24): "For Christ has entered, not into holy places made with hands, which are copies of the true things, but into heaven itself, now to appear in the presence of God on our behalf."
+CJB (23): "Now this is how the copies of the heavenly things had to be purified, but the heavenly things themselves require better sacrifices than these."
+RVR1960 (23): "Fue, pues, necesario que las figuras de las cosas celestiales fuesen purificadas así; pero las cosas celestiales mismas, con mejores sacrificios que estos."
+
+**Hebrews 10:3–4** — see the Exegetical Sidebar: NOT a claim that Leviticus lied
+ESV: "But in these sacrifices there is a reminder of sins every year. For it is impossible for the blood of bulls and goats to take away sins."
+CJB: "No, it is quite the contrary — in these sacrifices is a reminder of sins, year after year. For it is impossible that the blood of bulls and goats should take away sins."
+RVR1960: "Pero en estos sacrificios cada año se hace memoria de los pecados; porque la sangre de los toros y de los machos cabríos no puede quitar los pecados."
+
+**Hebrews 10:11–12** — the posture argument, preserved in all three
+ESV: "And every priest stands daily at his service, offering repeatedly the same sacrifices, which can never take away sins. But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God."
+CJB: "Now every cohen stands every day doing his service, offering over and over the same sacrifices, which can never take away sins. But this one, after he had offered for all time a single sacrifice for sins, sat down at the right hand of God."
+RVR1960: "Y ciertamente todo sacerdote está día tras día ministrando y ofreciendo muchas veces los mismos sacrificios, que nunca pueden quitar los pecados; pero Cristo, habiendo ofrecido una vez para siempre un solo sacrificio por los pecados, se ha sentado a la diestra de Dios,"
+
+**Hebrews 10:10**
+ESV: "And by that will we have been sanctified through the offering of the body of Jesus Christ once for all."
+CJB: "It is in connection with this will that we have been separated for God and made holy, once and for all, through the offering of Yeshua the Messiah's body."
+RVR1960: "En esa voluntad somos santificados mediante la ofrenda del cuerpo de Jesucristo hecha una vez para siempre."
+
+**Hebrews 9:12**
+ESV: "he entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption."
+CJB: "he entered the Holiest Place once and for all... by means of his own blood, thus setting people free forever."
+RVR1960: "y no por sangre de machos cabríos ni de becerros, sino por su propia sangre, entró una vez para siempre en el Lugar Santísimo, habiendo obtenido eterna redención."
+
+**Hebrews 9:26** — note "at the end of the ages" (bookmarked under the "last days" question)
+ESV: "he has appeared once for all at the end of the ages to put away sin by the sacrifice of himself."
+CJB: "he has appeared once at the end of the ages in order to do away with sin through the sacrifice of himself."
+RVR1960: "se presentó una vez para siempre por el sacrificio de sí mismo para quitar de en medio el pecado."
+
+### Hebrews 7 — the priesthood transformed, not abolished
+
+**Hebrews 7:16**
+ESV: "who has become a priest, not on the basis of a legal requirement concerning bodily descent, but by the power of an indestructible life."
+CJB: "one who became a cohen not by virtue of a rule in the Torah concerning physical descent, but by virtue of the power of an indestructible life."
+RVR1960: "no constituido conforme a la ley del mandamiento acerca de la descendencia, sino según el poder de una vida indestructible."
+
+**Hebrews 7:24** — ⚠️ lexical divergence on ἀπαράβατον *aparabaton*
+ESV: "but he holds his priesthood permanently, because he continues forever."
+CJB: "But because he lives forever, his position as cohen does not pass on to someone else;"
+RVR1960: "mas este, por cuanto permanece para siempre, tiene un sacerdocio inmutable;"
+**ESV = duration ("permanently"); CJB = succession ("does not pass on"); RVR1960 = "inmutable." Both senses lexically available; they converge in context but are not the same claim.**
+
+**Hebrews 7:25** — sacrifice completed, intercession continuing
+ESV: "Consequently, he is able to save to the uttermost those who draw near to God through him, since he always lives to make intercession for them."
+CJB: "and consequently, he is totally able to deliver those who approach God through him; since he is alive forever and thus forever able to intercede on their behalf."
+RVR1960: "por lo cual puede también salvar perpetuamente a los que por él se acercan a Dios, viviendo siempre para interceder por ellos."
+
+**Hebrews 7:27** — answers Leviticus 16:6's built-in limitation directly
+ESV: "He has no need, like those high priests, to offer sacrifices daily, first for his own sins and then for those of the people, since he did this once for all when he offered up himself."
+CJB: "one who does not have the daily necessity, like the other cohanim g'dolim, of offering up sacrifices first for their own sins and only then for those of the people; because he offered one sacrifice, once and for all, by offering up himself."
+RVR1960: "que no tiene necesidad cada día, como aquellos sumos sacerdotes, de ofrecer primero sacrificios por sus propios pecados, y luego por los del pueblo; porque esto lo hizo una vez para siempre, ofreciéndose a sí mismo."
+
+**Psalm 110:1** — enthronement; cited at Hebrews 10:12. Pairs with Psalm 110:4 (indexed above) — both offices in one Psalm.
+ESV: "The Lord says to my Lord: 'Sit at my right hand, until I make your enemies your footstool.'"
+CJB: "Adonai says to my Lord, 'Sit at my right hand, until I make your enemies your footstool.'"
+RVR1960: "Jehová dijo a mi Señor: Siéntate a mi diestra, Hasta que ponga a tus enemigos por estrado de tus pies."
+
 ## Daniel 2 — The Statue and the Stone (bookmarked, see [[04-open-questions]])
 
 **Daniel 2:34–35**
