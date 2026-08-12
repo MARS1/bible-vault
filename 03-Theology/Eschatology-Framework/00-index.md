@@ -25,6 +25,9 @@ This is a **multi-session, multi-tranche project**. Content arrives in chunks (o
 
 ## Read This First
 
+[[00a-narrative-spine]] — **the map.** The ordered journey by which every conclusion in this framework emerged, stage by stage, including the questions that triggered each one and the corrections made along the way. The vault maintains **two architectures** (ADR-0007): this narrative spine, and the topical reference files below. Neither replaces the other — the order is part of the argument.
+
+
 [[00b-biblical-epistemology]] — how we know what we think we know, before getting into what we actually believe. Defines Biblical Epistemology and Contextual Exegesis, the 7-step test every passage should pass before it counts as an established conviction, and the translation/textual-source policy (CJB → ESV → RVR1960, original languages when wording matters). See ADR-0002 and ADR-0003 (`docs/adr/`).
 
 **Manuscript voice (ADR-0004):** when a session produces real explanatory commentary — the "notice the sequence" kind of insight that would actually survive into the eventual book — it gets written into the relevant file immediately, marked as manuscript voice, not deferred to a later drafting pass. See [[00b-biblical-epistemology]] section A for the first worked example.

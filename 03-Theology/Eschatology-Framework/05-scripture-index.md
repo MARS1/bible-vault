@@ -678,6 +678,28 @@ CJB: "it is not his purpose that anyone should be destroyed, but that everyone s
 ESV: "not wishing that any should perish, but that all should reach repentance."
 RVR1960: "no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento."
 
+## Tribes of the Land (see [[00l-tribes-of-the-land]])
+
+**Zechariah 12:11–12**
+ESV: "the mourning in Jerusalem will be as great as the mourning for Hadad-rimmon in the plain of Megiddo. The land shall mourn, each family by itself."
+CJB: "Then the land will mourn, each family by itself."
+RVR1960: "Y la tierra lamentará, cada linaje aparte."
+
+**Matthew 5:18** — the discipline check: *gē* is broader than Judea here
+ESV: "until heaven and earth pass away, not an iota, not a dot, will pass from the Law."
+CJB: "until heaven and earth pass away, not so much as a yud or a stroke will pass from the Torah."
+RVR1960: "hasta que pasen el cielo y la tierra, ni una jota ni una tilde pasará de la ley."
+
+**Acts 2:23** — "those who pierced him," representative scope
+ESV: "this Jesus... you crucified and killed by the hands of lawless men."
+CJB: "through the agency of persons not bound by the Torah, you nailed him up on a stake."
+RVR1960: "prendisteis y matasteis por manos de inicuos."
+
+**Acts 4:27**
+ESV: "both Herod and Pontius Pilate, along with the Gentiles and the peoples of Israel."
+CJB: "Herod and Pontius Pilate, with Goyim and the peoples of Isra'el."
+RVR1960: "Herodes y Poncio Pilato, con los gentiles y el pueblo de Israel."
+
 ## The Gathering, the Four Winds & the Trumpet (see [[00k-the-gathering-of-the-elect]])
 
 **Matthew 24:31**

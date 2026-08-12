@@ -14,3 +14,4 @@ Not code-architecture ADRs — same pattern, applied to a research/writing vault
 | [ADR-0004](ADR-0004-manuscript-voice-captured-inline.md) | Manuscript-voice commentary captured inline, not deferred to a later prose pass | active |
 | [ADR-0005](ADR-0005-epistemological-cycle-doorway-agnostic.md) | Epistemological cycle — doorway-agnostic, replaces the linear working model | active |
 | [ADR-0006](ADR-0006-three-layer-manuscript-distinction.md) | Three-layer manuscript distinction — Main Exposition, Exegetical Sidebar, Author's Reflection | active |
+| [ADR-0007](ADR-0007-dual-architecture-narrative-and-reference.md) | Dual architecture — reference structure and narrative spine, neither replacing the other | active |
