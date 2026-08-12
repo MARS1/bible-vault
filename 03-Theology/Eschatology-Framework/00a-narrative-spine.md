@@ -183,11 +183,30 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** does "heaven and earth passing away" mean physical creation, or an established order?
 
+## Stage 13 — The Fig Tree, "This Generation," and Heaven and Earth *(current)*
+
+**File:** [[00m-fig-tree-generation-heaven-and-earth]]
+
+- **Audience Continuity rule established** — Matthew 24's sustained second-person address (24:4, 6, 9, 15, 20, 23, 33). If "you" shifts to a far-future audience, that needs textual evidence, not a system requiring it.
+- **Fig tree deflated as a decoder** — Luke 21:29's "**and all the trees**" makes the fig-tree-equals-Israel reading much harder. The lesson is sign-reading, not species-decoding.
+- **"This generation" — four interpretations weighed**, with Matthew 23:36 ("all these things → this generation") as the strongest single datum, two chapters before 24:34's identical construction
+- **Contrary evidence recorded honestly: CJB renders 24:34 "this *people*"** — a major translation adopting the race/people reading, against the direction this framework has been moving. Two of three standard translations take A; one takes B.
+- **What the intertextual work actually did, stated precisely:** it did not prove preterism; it removed objections that made the plain temporal statement look impossible. *"Increasingly, some of the impossibility appeared to have come from me."*
+- **Verse 35 reopened everything** — heaven and earth as covenant witnesses (Deuteronomy 30:19, 31:28, 32:1), creation language beside covenant establishment (Isaiah 51:15–16), and **Isaiah 65:20's complication** (death still present inside the "new heavens and new earth")
+- **Brake applied immediately:** "heaven and earth = Old Covenant" is *not* established, only permitted. Fourth possibility noted — the contrast itself may be the point.
+- **New rule: the Anti-Replacement Principle** — the fourth time this framework escaped a rigid reading and had to avoid installing a rigid replacement
+- **Hebrews 8:13 bookmarked, deliberately not cashed**
+
+**→ earns the next question:** Matthew 5:17–18 — what did Yeshua mean by fulfilling Torah, and what actually passed away?
+
+### Side bookmark generated at this stage
+**Daniel 2** — the statue and the stone. **Deliberately NOT retrofitted** into Stage 10's cosmic-signs argument, because Daniel 2 doesn't supply that vocabulary and inserting it would have made the argument *less* precise. Filed forward instead, with corrections on record (four kingdoms not five; Daniel doesn't identify iron/clay as modern governments *or* as Republic/Empire; Republic preceded Empire). Generated a real question: **Daniel 2:44's "in the days of those kings"** + Mark 1:15's "the time is fulfilled" + Matthew 21:44's crushing stone → *when does Scripture say Messiah's reign began?* — which must be settled **before** asking when the thousand years began. **Rupes Nigra** logged as an open hypothesis with three brakes (Aramaic *ʾarʿāʾ* needs its own study; compasses aren't evidence; copied maps aren't independent witnesses).
+
 ---
 
 ## Next Stage (not yet written)
 
-**Matthew 24:32–35** — the fig tree, "when you see all these things," "this generation," and **"heaven and earth will pass away."** Requires Deuteronomy 32, Isaiah 51, Isaiah 65–66, Jeremiah, Hebrews. **Likely the single biggest hinge between partial and full preterist readings.**
+**Matthew 5:17–18** — "until heaven and earth pass away," Law and Prophets, "until all is accomplished." Then Jeremiah 31 and Hebrews 8, without assuming "new covenant" means "Torah discarded." Underlying question: **are Torah, Mosaic covenant, Levitical priesthood, Temple system, commandments, and covenant identity identical things that begin and end together — or related but distinguishable?**
 
 ## Corrections Preserved (Not Overwritten)
 

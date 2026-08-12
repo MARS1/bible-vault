@@ -85,6 +85,24 @@ Isaiah 13 does not tell us what Matthew 24 means — it tells us what Matthew 24
 
 **Specific corollary for Revelation:** before assigning a modern literal meaning to an image in Revelation, first identify where John obtained the image from the Hebrew Scriptures and how it functioned there. Revelation 6:12–14's falling stars and scroll-rolled sky come from Isaiah 34:4 — a concrete case, not a hypothetical one.
 
+## The Anti-Replacement Principle (formal rule, added 2026-08-12)
+
+> **When evidence overturns an overly rigid interpretation, do not simply replace it with an equally rigid alternative. Expanded semantic possibility requires renewed contextual testing, not immediate doctrinal substitution.**
+
+**Pairs with Intertextual Priority above** — that rule *opens* a symbol's semantic range; this one prevents the newly opened range from hardening into a new dogma. Without both, escaping one rigid reading just produces another wearing different clothes.
+
+**Four instances where this was needed** (see [[00m-fig-tree-generation-heaven-and-earth]] §7):
+- stars ≠ always astronomical bodies — **but** ≠ always angels/rulers either
+- *gē* ≠ always the globe — **but** ≠ always Israel either (Matthew 5:18 proves it)
+- *angelos* ≠ always heavenly angel — **yet** Matthew's context probably *does* favor heavenly angels here
+- heaven and earth ≠ necessarily only physical cosmos — **but** ≠ automatically covenant either
+
+## Audience Continuity (rule, added 2026-08-12)
+
+> **The addressee of a passage should be presumed continuous unless the text gives sufficient reason to change the referent.**
+
+Prophetic discourse can address a representative audience — but if "you" is claimed to shift mid-discourse from the people being spoken to toward a much later audience, **that transition requires textual evidence, not merely a system that needs it.** Worked case: Matthew 24's sustained second-person address (24:4, 6, 9, 15, 20, 23, 33) in [[00m-fig-tree-generation-heaven-and-earth]] §1.
+
 ## The 7-Step Test for Any Passage
 
 Before a passage moves into [[01-convictions]], run it through:

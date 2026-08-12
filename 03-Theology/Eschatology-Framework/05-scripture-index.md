@@ -678,6 +678,79 @@ CJB: "it is not his purpose that anyone should be destroyed, but that everyone s
 ESV: "not wishing that any should perish, but that all should reach repentance."
 RVR1960: "no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento."
 
+## Fig Tree, "This Generation" & Heaven and Earth (see [[00m-fig-tree-generation-heaven-and-earth]])
+
+**Matthew 24:32–35**
+ESV: "when you see all these things, you know that he is near, at the very gates. Truly, I say to you, **this generation** will not pass away until all these things take place. Heaven and earth will pass away, but my words will not pass away."
+**CJB: "this *people* will certainly not pass away before all these things happen."** ← *a major translation adopting the race/people reading; contrary evidence, recorded deliberately*
+RVR1960: "no pasará **esta generación** hasta que todo esto acontezca. El cielo y la tierra pasarán, pero mis palabras no pasarán."
+
+**Luke 21:29–31** — the parallel that undercuts a fig-tree-as-Israel decoding
+ESV: "Look at the fig tree, **and all the trees**... when you see these things taking place, you know that **the kingdom of God** is near."
+CJB: "Look at the fig tree, Indeed, all the trees."
+RVR1960: "Mirad la higuera **y todos los árboles**... sabed que está cerca el reino de Dios."
+
+**Matthew 16:4 / 17:17** — further *genea* controls
+16:4 ESV: "An evil and adulterous generation seeks for a sign." RVR1960: "La generación mala y adúltera demanda señal."
+17:17 ESV: "O faithless and twisted generation." RVR1960: "¡Oh generación incrédula y perversa!"
+
+**Deuteronomy 30:19, 31:28, 32:1** — heaven and earth as covenant witnesses
+30:19 ESV: "I call heaven and earth to witness against you today." RVR1960: "A los cielos y a la tierra llamo por testigos hoy contra vosotros."
+31:28 ESV: "call heaven and earth to witness against them."
+32:1 ESV: "Give ear, O heavens, and I will speak, and let the earth hear the words of my mouth." CJB: "Hear, oh heavens, as I speak! Listen, earth, to the words from my mouth!"
+
+**Isaiah 51:15–16** — creation language beside covenant establishment
+ESV: "establishing the heavens and laying the foundations of the earth, and saying to Zion, 'You are my people.'"
+CJB: "in order to **plant the skies [anew], lay the foundations of the earth [anew]** and say to Tziyon, 'You are my people.'"
+RVR1960: "extendiendo los cielos y echando los cimientos de la tierra, y diciendo a Sion: Pueblo mío eres tú."
+
+**Isaiah 65:17, 20, 23** — new heavens and new earth, with the complication
+65:17 ESV: "I create new heavens and a new earth." RVR1960: "yo crearé nuevos cielos y nueva tierra."
+65:20 ESV: "No more shall there be in it an infant who lives but a few days, or an old man who does not fill out his days." *(Death still present in the picture.)*
+65:23 ESV: "they shall be the offspring of the blessed."
+
+**Isaiah 66:22**
+ESV: "as the new heavens and the new earth that I make shall remain before me... so shall your offspring and your name remain."
+CJB: "so will your descendants and your name continue."
+RVR1960: "así permanecerá vuestra descendencia y vuestro nombre."
+
+**Hebrews 8:13** — bookmarked, not yet used
+ESV: "he makes the first one obsolete. And what is becoming obsolete and growing old is ready to vanish away."
+CJB: "something in the process of aging, is on its way to vanishing altogether."
+RVR1960: "lo que se da por viejo y se envejece, está próximo a desaparecer."
+
+## Daniel 2 — The Statue and the Stone (bookmarked, see [[04-open-questions]])
+
+**Daniel 2:34–35**
+ESV: "a stone was cut out by no human hand, and it struck the image on its feet... But the stone that struck the image became a great mountain and filled the whole earth."
+CJB: "a stone separated itself without any human hand... the stone which had struck the statue grew into a huge mountain that filled the whole earth."
+RVR1960: "una piedra fue cortada, no con mano... la piedra que hirió a la imagen fue hecha un gran monte que llenó toda la tierra."
+*(Aramaic: "whole earth" = כָּל־אַרְעָא, kol-ʾarʿāʾ — needs its own lexical study; Greek gē/oikoumenē conclusions do not transfer.)*
+
+**Daniel 2:40–43**
+ESV: "there shall be a fourth kingdom, strong as iron... it shall be a divided kingdom... they will mix with one another in marriage, but they will not hold together, just as iron does not mix with clay."
+CJB: "they will cement their alliances by intermarriages; but they won't stick together any more than iron blends with clay."
+RVR1960: "será un reino dividido... se mezclarán por medio de alianzas humanas; pero no se unirán el uno con el otro."
+
+**Daniel 2:44–45**
+ESV: "**in the days of those kings** the God of heaven will set up a kingdom that shall never be destroyed."
+CJB: "In the days of those kings the God of heaven will establish a kingdom that will never be destroyed."
+RVR1960: "en los días de estos reyes el Dios del cielo levantará un reino que no será jamás destruido."
+
+**Daniel 8:20–21** — the explicit naming
+ESV: "the ram... these are the kings of Media and Persia. And the goat is the king of Greece."
+RVR1960: "estos son los reyes de Media y de Persia. El macho cabrío es el rey de Grecia."
+
+**Matthew 21:42–44** — the rejected stone that also crushes
+ESV: "The stone that the builders rejected has become the cornerstone... the one who falls on this stone will be broken to pieces; and when it falls on anyone, **it will crush him**."
+RVR1960: "sobre quien ella cayere, **le desmenuzará**."
+*(Manuscript note: some witnesses omit v.44; the retrieved CJB text ends at v.43.)*
+
+**Mark 1:15**
+ESV: "**The time is fulfilled**, and the kingdom of God is at hand."
+CJB: "The time has come, God's Kingdom is near!"
+RVR1960: "El tiempo se ha cumplido, y el reino de Dios se ha acercado."
+
 ## Tribes of the Land (see [[00l-tribes-of-the-land]])
 
 **Zechariah 12:11–12**
