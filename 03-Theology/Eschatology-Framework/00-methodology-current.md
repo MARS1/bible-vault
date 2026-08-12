@@ -126,6 +126,72 @@ For every substantive claim or connection, **preserve where applicable**. Not ev
 
 ---
 
+## Extrabiblical Source Protocol (the "Enoch Protocol") *(added v1.1)*
+
+**Treat claims from 1 Enoch — or any extrabiblical source — as a *separate textual witness*, not as biblical exegesis.**
+
+**For each claim, record:**
+
+| Field | Why |
+|---|---|
+| **Chapter / verse** | so it can be checked |
+| **Translation / edition** | Charles, Laurence, Nickelsburg — they differ |
+| **Manuscript-language status** | Aramaic? Greek? Ethiopic only? |
+| **Qumran witness?** | does an Aramaic Dead Sea Scroll fragment support *that section*? |
+| **Ethiopic-only?** | i.e. does the claim depend on later transmission alone? |
+
+**Three claims that must never be conflated:**
+
+1. **"1 Enoch says X"** — a fact about a text.
+2. **"Second Temple Jews believed X"** — a fact about a community, requiring separate evidence.
+3. **"Leviticus means X"** — a claim about Scripture, requiring exegesis of Scripture.
+
+> ### ❗ **Failed access to one source is NOT verification failure until alternate stable editions or manuscript witnesses have been attempted.**
+>
+> **Established the hard way, 2026-08-12:** an Azazel/1 Enoch branch was recorded as "VERIFICATION FAILED — HTTP 403" after a *single* endpoint failed. **The material was fully verifiable**; it took four attempts (sacred-texts 403 → archive.org 404 → Wikisource index page, contents only → **Wikisource chapter pages, success**). Recording a failure after one try is not caution — **it is an unnecessary gap in the record dressed as rigor.**
+
+**Source hierarchy, in order:**
+1. **Verify what the biblical text itself supports** — the Hebrew/Greek, retrieved directly (Sefaria's API works where its HTML pages do not).
+2. **A stable public-domain critical edition** — Wikisource chapter pages, Internet Archive, local copies. **Not a fragile single webpage.**
+3. **Corroborate against manuscript evidence** — Qumran/DSS editions — rather than assuming the later Ethiopic form settles the earlier tradition.
+
+**1 Enoch is not one manuscript from one moment.** Track which portions have Aramaic Qumran witnesses and which depend primarily on later Ethiopic preservation.
+
+**Standing constraint, unchanged:** **1 Enoch may illuminate Leviticus only after Leviticus has been exegeted independently.**
+
+## Localization Policy — Two Editions, One Source of Truth *(added v1.1, see ADR-0008)*
+
+> ### **Research once at the source-language level; render separately into each publication language.**
+
+**The mistake this prevents:** the Spanish edition becoming *a translation of English Bible quotations*. **Spanish scripture quotations must come from an established Spanish Bible edition (RVR1960), localized from the source-language findings — never rendered from the English manuscript.**
+
+**Evidence-layer record for an important passage:**
+
+```
+original language → lexical / transliteration note → textual claim → research witness(es) used
+```
+
+**When to pull RVR1960 NOW rather than deferring** — any one of these triggers it:
+- the Spanish wording **materially differs** from the English witnesses;
+- a **translation choice is itself part of the argument**;
+- the verse is **central enough to appear prominently in both editions**;
+- Spanish terminology **creates a distinctive theological assumption** worth recording.
+
+**Otherwise: defer to the full Spanish pass.** Dragging RVR1960 through every English reasoning tranche triples the citation burden and distracts from the exegesis.
+
+**Every stage file carries a `localization:` frontmatter field:**
+
+```yaml
+localization: "English research witnesses: verified (ESV/CJB).
+  Spanish witness: deferred | checked | materially relevant.
+  Original-language basis: Hebrew | Aramaic | Greek.
+  Translation-sensitive: yes/no"
+```
+
+**Why the field, not just a habit:** without it, the Spanish edition arrives months later and **nobody recorded which passages were translation-sensitive.** *Worked instance already: Genesis 17:13's* berit olam *— ESV/CJB "everlasting," **RVR1960 "perpetuo."** The Spanish witness frames the* olam *question differently before any analysis begins ([[00q-circumcision-covenant-sign-and-heart]] §1, §21).*
+
+**Where an argument depends on Hebrew, Aramaic, or Greek wording: preserve that original-language analysis identically across editions, and explain how the respective English and Spanish translations render it.**
+
 ## Manuscript Layers (ADR-0006)
 
 - **Main Exposition** — carries the argument.
@@ -170,5 +236,25 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **1.1** | 2026-08-12 | Added the **Extrabiblical Source Protocol** (source hierarchy; *failed access to one source ≠ verification failure*; the three-claim distinction between "1 Enoch says X" / "Second Temple Jews believed X" / "Leviticus means X") after a single-endpoint 403 was wrongly recorded as a verification failure at Stage 16 — the material proved fully verifiable on the fourth attempt. Added the **Localization Policy** and the `localization:` frontmatter field (ADR-0008). Added **Known Technical Debt**. |
+
+---
+
+## Known Technical Debt
+
+### 🔧 Methodology backfill: Stages 1–12 — **tracked as BIBLE-04g**
+
+**Stages 1–12 were processed before this methodology reached its current version.** They carry their conclusions, but were **not** run through the 12-point evidence structure, and lack systematic confidence levels, stated objections, falsification conditions, and manuscript-voice markers.
+
+**Scope when run:** re-run the existing stage files through this document — **add** missing classifications, confidence levels, objections, falsification conditions, manuscript-voice markers, and corrections — **without rewriting the original narrative sequence.** The content already exists in structured files and [[00a-narrative-spine]] records how the stages connect, so this is an **audit/reclassification pass, not a reconstruction from memory.**
+
+**Timing — deliberate, not indefinite:**
+- ❌ **Do not** do it now — the methodology is still stabilizing (v1.0 → v1.1 inside a single day). Backfilling now would mean re-auditing twice.
+- ❌ **Do not** defer to the very end — the later chapters would be methodologically stricter than the opening ones, and that asymmetry would be visible in the finished manuscript.
+- ✅ **Run it once the methodology has held steady for several stages**, and **before the manuscript foundation is considered locked.**
+
+**This is explicit technical debt, not an informal "we'll remember later."**
+
+---
 
 > **When this file changes, note it here.** The methodology is living and may be refined by new evidence — **but later tranches must inherit the latest version without silently rewriting earlier stages.** An earlier stage judged under version 1.0 stays labeled as such.

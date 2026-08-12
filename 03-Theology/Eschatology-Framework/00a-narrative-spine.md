@@ -260,7 +260,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** what does *fulfillment* actually look like in a worked case?
 
-## Stage 16 — Sacrifice, Priesthood, and What Fulfillment Actually Looks Like *(current)*
+## Stage 16 — Sacrifice, Priesthood, and What Fulfillment Actually Looks Like
 
 **File:** [[00p-sacrifice-priesthood-and-fulfillment]]
 
@@ -291,11 +291,51 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 ### 🌿 Side branch generated at this stage
 **Leviticus 16 ↔ Azazel ↔ 1 Enoch ↔ Second Temple interpretation.** Preserved at the point it arose; **does not reorder the main argument** (same handling as Daniel 2 at Stage 13). **Established:** *Azazel* occurs at Lev 16:8/10/26 and all three translations transliterate it; the live goat goes *la-Azazel* into the wilderness. **⛔ NOT VERIFIED:** the 1 Enoch claims (Semihazah leading the oath in ch. 6; Azazel teaching metalworking/weapons in ch. 8; Raphael binding Azazel in a desert place in ch. 10) — **an attempt to verify against Charles's translation returned HTTP 403.** Includes a **correction to the recollection** (the oath-leader is reported as *Semihazah*, not Azazel), itself flagged unverified — two layers of provisionality, both preserved. **Governing brake: do not let 1 Enoch define Leviticus before Leviticus is exegeted on its own terms** — that is Intertextual Priority run backwards, which is the error the rule exists to prevent. Inherits the Jude-quoting-Enoch constraint.
 
+## Stage 17 — Circumcision: Covenant Sign, Heart, and Messiah *(current)*
+
+**File:** [[00q-circumcision-covenant-sign-and-heart]]
+
+*First stage under **ADR-0008** (source-language-first localization) — ESV/CJB as research witnesses, RVR1960 pulled selectively where translation-sensitive.*
+
+- **The easy answer fails immediately:** "that's just part of the Mosaic Law" **cannot work — circumcision predates Moses.** Genesis 17, an **Abrahamic** covenant sign
+- **Genesis 17:13 — בְּרִית עוֹלָם *berit olam*.** 📌 **Translation-sensitive, caught by the new policy on its first application:** ESV/CJB "**everlasting**" (metaphysical lean) vs **RVR1960 "perpetuo"** (durational lean). **The Spanish witness frames the question differently before analysis begins**
+- **Genesis 17:14 — refusal means being "cut off"; "he has broken my covenant."** So Paul's later "do not become circumcised" is a real tension, not to be skipped
+- **The chronological clue is in Genesis, not Paul:** Genesis 15:6 (counted righteous) precedes Genesis 17 (circumcision) **by two chapters**. Romans 4:10 is **chronological exegesis of Genesis**, not invention. Sign real, covenant real, **but faith preceded the sign**
+- **📖 Sidebar:** Romans 4:11 establishes *order of causation* and the sign's *attesting function* — it does **not** make the sign dispensable for Abraham's household. **Order ≠ dispensability**
+- **TORAH ITSELF MOVES CIRCUMCISION INWARD — before Paul.** Deut 10:16 tells **physically circumcised Israel** they still need circumcision → *physical covenant membership ≠ faithful covenant heart*. Then **Deut 30:6 turns the command into a promise**: *Yahweh* will circumcise your heart. **Human responsibility and divine transformation sit together**
+- **Jeremiah sharpens it to an indictment** — 9:25–26: "**all the house of Israel are uncircumcised in heart**." Devastating to any theology making the external sign sufficient. ⚠️ CJB versification offset noted, **direction not confirmed** — flagged, not asserted
+- **Acts 15:1 — Category Collapse checkpoint.** The disputed proposition is **narrow**: *must Gentile believers be circumcised to be saved/incorporated?* — **not** "is circumcision evil" or "may Jewish believers circumcise their sons." Whatever Acts 15 settles, it settles *that*
+- **Acts 15:9 — "cleansed their *hearts* by faith."** 🔬 **Classified precisely:** Acts does **not** quote Deuteronomy (no citation formula) — Tier A observation; **the conceptual trajectory is unmistakably present** — Tier B, strong. **Neither error permitted:** claiming a quotation that isn't there, or pretending the continuity is absent
+- **Acts 15:11 — watch the direction.** Peter says "***we* will be saved… just as *they* will**," not "they are saved like us." Gentiles aren't measured against a Jewish standard; **both converge on grace through Messiah.** All three witnesses preserve the order
+- **James appeals to Amos** — Gentile inclusion **interpreted through Israel's Prophets**, not against them. MT-vs-LXX form of Amos 9:11–12 bookmarked, not cashed
+- **⚖️ Both over-readings of Acts 15 refused:** "Gentiles have only four commandments" (not what the text says) **and** "15:21 means Gentiles progressively learn all of Moses" (a known reading, genuinely worth investigating — **but it is an inference and must be labeled one**)
+- **TIMOTHY/TITUS — the control case that settles it.** Timothy **circumcised** (Acts 16:3, contextual/missionary); Titus's circumcision **resisted** (Gal 2:3–5, because compulsion would concede a false covenantal requirement). **Only contradictory if circumcision itself is the issue; perfectly coherent once the issue is what it's made to signify.** Argument from narrative, not assertion
+- **🔍 Galatians 5:4 — CJB reads "legalism"** where ESV reads "justified by the law." Interpretive rendering; defensible and matches the argument, **but must not be cited as though the Greek says "legalism"**
+- **⚠️ Romans 2:28 must NOT be over-read — and this cuts against us.** It does not make ethnic Jews non-Jews or Gentiles ethnic Jews. **Must not be used as a shortcut to erase ethnic Israel while claiming to oppose replacement theology — that reproduces the same error in reverse.** The safer case is Romans 11 / Ephesians 2 / Galatians 3. **Romans 2 is not load-bearing and shouldn't be made so**
+- **Paul's three formulations converge rather than compete:** *keeping God's commandments* (1 Cor 7:19) · *faith working through love* (Gal 5:6) · *a new creation* (Gal 6:15) → **new creation → faith → love → obedience**, echoing Ezekiel's **new heart → Spirit → obedience**. Recorded at **"supports," not "establishes"**
+- **Galatians 3:29 — one of the strongest texts in the project.** Inheritance located **in Messiah**, so Gentiles need no physical circumcision to be Abraham's heirs. **Does not erase Abraham** — makes Messiah the point through whom the blessing reaches the nations, which is what Genesis 12 said
+- **The classification: not one row says "abolished."** Physical circumcision — genuine command, Abrahamic not Mosaic, real covenant sign, **not required of Gentile believers**, **not inherently sinful**, nothing forbids Jewish believers continuing it, **not imposable as necessary for justification**
+- **🔖 NEW BOOKMARK: `OLAM`.** *Berit olam* vs. a transformed covenantal function forces the lexical question. **🚧 Brake stated as a rule: do NOT resolve *olam* opportunistically because circumcision created a difficulty.** It is the single most tempting shortcut currently available — a convenient reading would relieve several pressures at once **including Ezekiel 37's sanctuary**. *A word study conducted in order to relieve a pressure is not a word study; it is advocacy with a lexicon*
+
+**→ THE STAGE'S REAL FINDING:** sacrifice changed **form**; priesthood changed **order**; circumcision's **physical sign ceased functioning as the necessary Gentile boundary** while Torah's own heart-circumcision became central. **These are not identical transformations. There is no mechanical formula.** **Messiah fulfills different elements according to their particular scriptural purpose** — which **retroactively vindicates Stage 16 §18's preemptive brake**: the model was a possibility framework, and the very next test case proved it by not matching.
+
+**→ earns the next question:** food — where the same "it was merely Mosaic" answer will fail **for the second consecutive stage**.
+
 ---
 
 ## Next Stage (not yet written)
 
-**Circumcision — a *different kind* of command, and therefore a real test rather than a repeat.** Sacrifice was tied to Sinai and Levi. **Circumcision predates Sinai entirely** — given to Abraham as an **everlasting covenant sign** (Genesis 17:10–11). **Yet Acts 15 and Paul refuse to require it of believing Gentiles.**
+**Clean and unclean food.** Not "can Christians eat pork?" — too loaded, too narrow, and it presumes the categories. **The question:** what purpose do clean/unclean distinctions serve in Torah, what precedes Sinai, what does Yeshua actually say about food and defilement, what does Peter's vision actually mean in Acts 10, and what do the apostles subsequently require — or not require — of Gentiles?
+
+**The surprise already waiting: the clean/unclean animal distinction ALSO predates Moses — Noah knows it in Genesis 7.**
+
+**Carried in deliberately:** if both circumcision *and* clean/unclean predate Sinai, **how much of what is casually called "the Mosaic Law" originates there at all?** Not the next stage's question, but now visible and not to be lost.
+
+---
+
+## Superseded — Previous "Next Stage" Entries, Preserved
+
+**Stage 16 → 17:** **Circumcision — a *different kind* of command, and therefore a real test rather than a repeat.** Sacrifice was tied to Sinai and Levi. **Circumcision predates Sinai entirely** — given to Abraham as an **everlasting covenant sign** (Genesis 17:10–11). **Yet Acts 15 and Paul refuse to require it of believing Gentiles.**
 
 **The question:** how can something commanded to Abraham as an "everlasting covenant" cease to function as the required physical boundary marker for Gentile membership in Messiah?
 
@@ -331,7 +371,9 @@ The journey's self-corrections, kept deliberately because they demonstrate the m
 | 15 | **"one covenant story from Genesis to Revelation"** (this project's own working phrase) | **Jeremiah 31:32's explicit "not like the covenant I made with their fathers."** Refined to **"one covenantal story containing multiple covenants, culminating in Messiah"** — Abrahamic, Sinai, Davidic, and New are one story but not interchangeable. The old phrasing invited the flattening Jeremiah forbids |
 | 15 | Zechariah 6:13 as support for Messiah uniting king + priest | **CJB ("*cohen* *before* his throne") and RVR1960 ("sacerdote *a su lado*") both read a *separate* figure.** Downgraded to suggestive; the priest-king case rests on Psalm 110:4 + Hebrews 7 instead |
 | 16 | **"Ecumenological discipline"** — this project's own informal name for its method | **Term collision.** *Ecumenology* already means the theology of Christian denominational unity — a different field this project isn't doing. Corrected to **"biblical epistemological framework."** Recorded because the near-miss is easy to repeat and would actively mislead a reader of the eventual book |
-| 16 | **Recollection that Azazel led the Watchers' oath** in 1 Enoch | **Reported correction: the oath-leader is *Semihazah/Semyaza*; Azazel's distinctive role (forbidden knowledge, then binding in the desert) comes afterward.** ⛔ The correction is *itself* unverified — 1 Enoch fetch returned HTTP 403. Two layers of provisionality, both preserved rather than collapsed |
+| 16 | **Recollection that Azazel led the Watchers' oath** in 1 Enoch | ✅ **CORRECTION NOW VERIFIED** (Charles, via Wikisource): "**Semjâzâ, who was their leader**" voices the fear; **the others propose the oath.** Azazel does not lead it. **But the instinct was substantially right** — Azazel is among the chiefs (as *Asâêl*), is *the* figure singled out for forbidden knowledge (ch. 8), and is named first for binding (ch. 10). Off by one figure, not off in substance |
+| 16→17 | **"VERIFICATION FAILED — HTTP 403"** recorded after a *single* endpoint failed | **The material was fully verifiable.** Took four attempts (sacred-texts 403 → archive.org 404 → Wikisource index, contents only → **Wikisource chapter pages, success**). **Now a formal rule:** *failed access to one source is not verification failure until alternate stable editions have been attempted.* Recording failure after one try is an unnecessary gap in the record dressed as rigor |
+| 17 | Carrying **all three translations through every research tranche** | **ADR-0008** — research once at source-language level, render separately per edition. RVR1960 now pulled **selectively** during research. Prompted by tripled citation burden and repeated partial-fetch failures across Stages 13–16 |
 | 16 | Matthew 26:28 as evidence Yeshua said "**New** Covenant" | **Text-critically contested** — "new" is in the Byzantine tradition RVR1960 follows, absent from the critical text ESV follows. Claim reassigned to **Luke 22:20 / 1 Cor 11:25**, where the word is secure |
 | — | Solomon "test all things" verse | Located as Ecclesiastes 1:13 / 7:25; "test" is Paul's word |
 | — | Sapphira/Zipporah, Hannah/Elizabeth, Sinai/Horeb | Simple factual fixes |

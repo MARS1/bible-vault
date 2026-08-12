@@ -1057,6 +1057,156 @@ ESV: "The Lord says to my Lord: 'Sit at my right hand, until I make your enemies
 CJB: "Adonai says to my Lord, 'Sit at my right hand, until I make your enemies your footstool.'"
 RVR1960: "Jehová dijo a mi Señor: Siéntate a mi diestra, Hasta que ponga a tus enemigos por estrado de tus pies."
 
+## Circumcision — Covenant Sign and Heart (see [[00q-circumcision-covenant-sign-and-heart]])
+
+> **Localization (ADR-0008):** English research witnesses ESV/CJB verified. RVR1960 pulled selectively where translation-sensitive — marked 📌 below.
+
+### Abraham — the sign before Sinai
+
+**Genesis 17:7**
+ESV: "And I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be God to you and to your offspring after you."
+CJB: "I am establishing my covenant between me and you, along with your descendants after you, generation after generation, as an everlasting covenant, to be God for you and for your descendants after you."
+
+**Genesis 17:13** — 📌 **TRANSLATION-SENSITIVE**
+ESV: "both he who is born in your house and he who is bought with your money, shall surely be circumcised. So shall my covenant be in your flesh an everlasting covenant."
+CJB: "The slave born in your house and the person bought with your money must be circumcised; thus my covenant will be in your flesh as an everlasting covenant."
+RVR1960: "Debe ser circuncidado el nacido en tu casa, y el comprado por tu dinero; y estará mi pacto en vuestra carne por pacto perpetuo."
+Hebrew: **בְּרִית עוֹלָם** *berit olam*. **ESV/CJB "everlasting" (metaphysical lean) vs RVR1960 "perpetuo" (durational lean) — the Spanish witness frames the *olam* question differently before analysis begins.** See [[04-open-questions]] item 25.
+
+**Genesis 17:14**
+ESV: "Any uncircumcised male who is not circumcised in the flesh of his foreskin shall be cut off from his people; he has broken my covenant."
+CJB: "Any uncircumcised male who will not let himself be circumcised in the flesh of his foreskin — that person will be cut off from his people, because he has broken my covenant."
+
+**Genesis 15:6** — righteousness credited TWO CHAPTERS before circumcision
+ESV: "And he believed the Lord, and he counted it to him as righteousness."
+CJB: "He believed in Adonai, and he credited it to him as righteousness."
+
+### Paul's chronological exegesis of Genesis
+
+**Romans 4:10**
+ESV: "How then was it counted to him? Was it before or after he had been circumcised? It was not after, but before he was circumcised."
+CJB: "but what state was he in when it was so credited — circumcision or uncircumcision? Not in circumcision, but in uncircumcision!"
+
+**Romans 4:11**
+ESV: "He received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised."
+CJB: "In fact, he received circumcision as a sign, as a seal of the righteousness he had been credited with on the ground of the trust he had while he was still uncircumcised."
+
+**Romans 4:12**
+ESV: "and to make him the father of the circumcised who are not merely circumcised but who also walk in the footsteps of the faith that our father Abraham had before he was circumcised."
+CJB: "and at the same time be the father of every circumcised person who not only has had a b'rit-milah, but also follows in the footsteps of the trust which Avraham avinu had when he was still uncircumcised."
+
+### The Prophets sharpen it
+
+**Jeremiah 9:25–26** — ⚠️ CJB versification differs; offset direction NOT confirmed
+ESV: "Behold, the days are coming, declares the Lord, when I will punish all those who are circumcised merely in the flesh— Egypt, Judah, Edom, the sons of Ammon, Moab, and all who dwell in the desert who cut the corners of their hair, for all these nations are uncircumcised, and all the house of Israel are uncircumcised in heart."
+CJB: "For although all the Goyim are uncircumcised, all the house of Isra'el have uncircumcised hearts."
+*(Deuteronomy 10:16, 30:6 and Jeremiah 4:4 indexed above under the New Covenant section.)*
+
+### Acts 15 — the narrow proposition
+
+**Acts 15:1**
+ESV: "But some men came down from Judea and were teaching the brothers, 'Unless you are circumcised according to the custom of Moses, you cannot be saved.'"
+CJB: "You can't be saved unless you undergo b'rit-milah in the manner prescribed by Moshe."
+RVR1960: "Si no os circuncidáis conforme al rito de Moisés, no podéis ser salvos."
+
+**Acts 15:8–9**
+ESV: "And God, who knows the heart, bore witness to them, by giving them the Holy Spirit just as he did to us, and he made no distinction between us and them, having cleansed their hearts by faith."
+CJB: "And God, who knows the heart, bore them witness by giving the Ruach HaKodesh to them, just as he did to us; that is, he made no distinction between us and them, but cleansed their heart by trust."
+RVR1960: "Y Dios, que conoce los corazones, les dio testimonio, dándoles el Espíritu Santo lo mismo que a nosotros; y ninguna diferencia hizo entre nosotros y ellos, purificando por la fe sus corazones."
+**Tier A: no citation formula — Acts does not quote Deuteronomy. Tier B (strong): the same trajectory of heart transformation + divine action + covenant inclusion.**
+
+**Acts 15:10–11** — note the direction of the comparison
+ESV: "Now, therefore, why are you putting God to the test by placing a yoke on the neck of the disciples that neither our fathers nor we have been able to bear? But we believe that we will be saved through the grace of the Lord Jesus, just as they will."
+CJB: "So why are you putting God to the test now by placing a yoke on the neck of the talmidim which neither our fathers nor we have had the strength to bear? No, it is through the love and kindness of the Lord Yeshua that we trust and are delivered — and it's the same with them."
+RVR1960: "Antes creemos que por la gracia del Señor Jesús seremos salvos, de igual modo que ellos."
+**Peter says "WE will be saved… just as THEY will" — not "they are saved like us." All three preserve the order.**
+
+**Acts 15:19–21**
+ESV (19): "Therefore my judgment is that we should not trouble those of the Gentiles who turn to God,"
+ESV (20): "but should write to them to abstain from the things polluted by idols, and from sexual immorality, and from what has been strangled, and from blood."
+ESV (21): "For from ancient generations Moses has had in every city those who proclaim him, for he is read every Sabbath in the synagogues."
+CJB (19): "Therefore, my opinion is that we should not put obstacles in the way of the Goyim who are turning to God."
+CJB (21): "For from the earliest times, Moshe has had in every city those who proclaim him, with his words being read in the synagogues every Shabbat."
+**See [[04-open-questions]] item 26 — both over-readings of v.21 refused.**
+
+### Timothy and Titus — the control case
+
+**Acts 16:3**
+ESV: "Paul wanted Timothy to accompany him, and he took him and circumcised him because of the Jews who were in those places, for they all knew that his father was a Greek."
+CJB: "Sha'ul wanted Timothy to accompany him; so he took him and did a b'rit-milah, because of the Jews living in those areas; for they all knew that his father had been a Greek."
+
+**Galatians 2:3–5**
+ESV (3): "But even Titus, who was with me, was not forced to be circumcised, though he was a Greek."
+ESV (4): "Yet because of false brothers secretly brought in—who slipped in to spy out our freedom that we have in Christ Jesus, so that they might bring us into slavery—"
+ESV (5): "to them we did not yield in submission even for a moment, so that the truth of the gospel might be preserved for you."
+CJB (3): "But they didn't force my Gentile companion Titus to undergo b'rit-milah."
+**Timothy circumcised (contextual) + Titus's circumcision resisted (theological) = only contradictory if circumcision itself is the issue.**
+
+### Paul on what circumcision is made to MEAN
+
+**Galatians 5:2**
+ESV: "Look: I, Paul, say to you that if you accept circumcision, Christ will be of no advantage to you."
+CJB: "Mark my words — I, Sha'ul, tell you that if you undergo b'rit-milah the Messiah will be of no advantage to you at all!"
+RVR1960: "He aquí, yo Pablo os digo que si os circuncidáis, de nada os aprovechará Cristo."
+
+**Galatians 5:3**
+ESV: "I testify again to every man who accepts circumcision that he is obligated to keep the whole law."
+CJB: "Again, I warn you: any man who undergoes b'rit-milah is obligated to observe the entire Torah!"
+RVR1960: "Y otra vez testifico a todo hombre que se circuncida, que está obligado a guardar toda la ley."
+
+**Galatians 5:4** — 📌 CJB reads "legalism," an interpretive rendering
+ESV: "You are severed from Christ, you who would be justified by the law; you have fallen away from grace."
+CJB: "You who are trying to be declared righteous by God through legalism have severed yourselves from the Messiah!"
+RVR1960: "De Cristo os desligasteis, los que por la ley os justificáis; de la gracia habéis caído."
+**Defensible and matches the argument, but must NOT be cited as though the Greek says "legalism."**
+
+### Paul's three converging formulations
+
+**Galatians 5:6**
+ESV: "For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love."
+CJB: "neither being circumcised nor being uncircumcised matters; what matters is trusting faithfulness expressing itself through love."
+RVR1960: "porque en Cristo Jesús ni la circuncisión vale algo, ni la incircuncisión, sino la fe que obra por el amor."
+
+**Galatians 6:15**
+ESV: "For neither circumcision counts for anything, nor uncircumcision, but a new creation."
+CJB: "For neither being circumcised nor being uncircumcised matters; what matters is being a new creation."
+RVR1960: "ni la circuncisión vale algo, ni la incircuncisión, sino ser nueva criatura."
+*(1 Corinthians 7:19 — "but keeping the commandments of God" — indexed above under the New Covenant section.)*
+**Three completions of one construction: commandments / faith working through love / new creation. Converging, at "supports" not "establishes." See [[04-open-questions]] item 27.**
+
+### Galatians 3 — back to Abraham, before Sinai
+
+**Galatians 3:8**
+ESV: "And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel beforehand to Abraham, saying, 'In you shall all the nations be blessed.'"
+CJB: "Also the Tanakh, foreseeing that God would consider the Gentiles righteous when they live by trusting and being faithful, told the Good News to Avraham in advance by saying, 'In connection with you, all the Goyim will be blessed.'"
+
+**Galatians 3:16**
+ESV: "Now the promises were made to Abraham and to his offspring. It does not say, 'And to offsprings,' referring to many, but referring to one, 'And to your offspring,' who is Christ."
+CJB: "It doesn't say, 'and to seeds,' as if to many; on the contrary, it speaks of one — 'and to your seed' — and this 'one' is the Messiah."
+
+**Galatians 3:29** — one of the strongest texts in the project
+ESV: "And if you are Christ's, then you are Abraham's offspring, heirs according to promise."
+CJB: "Also, if you belong to the Messiah, you are seed of Avraham and heirs according to the promise."
+
+## Extrabiblical Witness — 1 Enoch (VERIFIED; see [[00p-sacrifice-priesthood-and-fulfillment]] §21)
+
+> **Not Scripture. A separate textual witness, recorded per the Extrabiblical Source Protocol in [[00-methodology-current]].** Translation: **R.H. Charles**, via Wikisource. **Manuscript-language status by section: NOT YET CHECKED** — see [[04-open-questions]] bookmarks.
+
+**1 Enoch 6:3–7 (Charles)** — the oath-leader
+"And Semjâzâ, who was their leader, said unto them: 'I fear ye will not indeed agree to do this deed, and I alone shall have to pay the penalty of a great sin.' And they all answered him and said: 'Let us all swear an oath, and all bind ourselves by mutual imprecations not to abandon this plan but to do this thing.'... And they were in all two hundred; who descended in the days of Jared on the summit of Mount Hermon... And these are the names of their leaders: Samîazâz, their leader, Arâkîba, Râmêêl, Kôkabîêl, Tâmîêl, Râmîêl, Dânêl, Êzêqêêl, Barâqîjâl, Asâêl, Armârôs..."
+**Semjâzâ is leader; the OTHERS propose the oath. Azazel (as Asâêl) is listed among the chiefs but does not lead it.**
+
+**1 Enoch 8:1 (Charles)** — what Azazel taught
+"Azâzêl taught men to make swords, and knives, and shields, and breastplates, and made known to them the metals of the earth and the art of working them, and bracelets, and ornaments, and the use of antimony, and the beautifying of the eyelids, and all kinds of costly stones, and all colouring tinctures."
+
+**1 Enoch 10:4 (Charles)** — Raphael and the desert place
+"Bind Azâzêl hand and foot, and cast him into the darkness: and make an opening in the desert, which is in Dûdâêl, and cast him therein."
+Raphael then places rough and jagged rocks upon him and covers him with darkness.
+
+**Rashi on Leviticus 16:8** (via Sefaria) — the competing reading
+Derives *Azazel* from עזז ("to be strong") + אל ("mighty"); describes "a precipitous and flinty rock — a towering peak," a גזרה, "a craggy land."
+**⚠️ Both traditions locate Azazel in a rocky wilderness place — Rashi as a PLACE, Enoch as a PERSON confined in such a place. A shared image is not a shared claim.**
+
 ## Daniel 2 — The Statue and the Stone (bookmarked, see [[04-open-questions]])
 
 **Daniel 2:34–35**

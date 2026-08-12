@@ -382,19 +382,50 @@ There is strong textual evidence that sacrifice and priesthood are fulfilled and
 - **OBSERVATION (Tier A):** *Azazel* occurs in Leviticus 16:8, 10, 26. **All three of this project's translations transliterate it as a name** rather than rendering "scapegoat" (§3).
 - **OBSERVATION (Tier A):** Leviticus 16 sends the live goat **לַעֲזָאזֵל — *la-Azazel*** ("for/to Azazel") **into the wilderness** — ESV "into the wilderness," RVR1960 "al desierto," CJB "into the desert."
 
-### What is reported but NOT VERIFIED by this project
+### ✅ 1 Enoch — NOW VERIFIED (updated 2026-08-12, same day)
 
-> ### ⛔ VERIFICATION FAILED — recorded honestly rather than repeated as fact
+> **Verification history, recorded because the process is the point.** A first attempt (sacred-texts.com) returned **HTTP 403**; a second (archive.org djvu) returned **404**; Wikisource's index page returned only a table of contents. **Verification succeeded on the fourth attempt** — Wikisource's individual chapter pages, R.H. Charles's translation. **This is why "failed access to one source is not verification failure"** is now a formal rule ([[00-methodology-current]] §Enoch Verification Protocol).
+
+**1 Enoch 6:3–7 (Charles), verbatim:**
+> "And **Semjâzâ, who was their leader**, said unto them: 'I fear ye will not indeed agree to do this deed, and I alone shall have to pay the penalty of a great sin.' And **they all answered him and said: 'Let us all swear an oath, and all bind ourselves by mutual imprecations** not to abandon this plan but to do this thing.' Then sware they all together and bound themselves by mutual imprecations upon it. And they were in all two hundred; who descended in the days of Jared **on the summit of Mount Hermon**… And these are the names of their leaders: **Samîazâz, their leader**, Arâkîba, Râmêêl… **Asâêl**, Armârôs…"
+
+**1 Enoch 8:1 (Charles):**
+> "**Azâzêl taught men to make swords, and knives, and shields, and breastplates**, and made known to them the metals of the earth and the art of working them, and **bracelets, and ornaments, and the use of antimony, and the beautifying of the eyelids**, and all kinds of costly stones, and all colouring tinctures."
+
+**1 Enoch 10:4 (Charles):**
+> "**Bind Azâzêl hand and foot, and cast him into the darkness: and make an opening in the desert, which is in Dûdâêl, and cast him therein.**" — Raphael is then to place **rough and jagged rocks** upon him, cover him with darkness, and let him not see light; he is cast into the fire at the great judgment.
+
+### 🔧 The recollection was inexact — correction CONFIRMED
+
+| Recollection | Verified text |
+|---|---|
+| *Azazel led the Watchers into the mutual oath* | **Semjâzâ is "their leader."** He voices the fear of being left to pay alone; **the others propose the oath** in response. **Azazel does not lead it.** |
+
+**But the recollection was substantially right about Azazel's prominence** — he is listed among the chiefs (as **Asâêl**, a name variant), he is the one singled out for the forbidden-knowledge teaching (ch. 8), and he is the one **named first** for binding and judgment (ch. 10). **The instinct was sound; the specific attribution was off by one figure.**
+
+### 🔍 An unexpected convergence — recorded as observation, not proof
+
+**Rashi on Leviticus 16:8** *(verified via Sefaria API)* reads *Azazel* as **"a precipitous and flinty rock — a towering peak,"** a **גזרה, "craggy land"** — deriving the name from *ʿazaz* ("to be strong") + *ʾel* ("mighty").
+
+**1 Enoch 10:4** places Azazel in **"an opening in the desert"** with **rough and jagged rocks** placed upon him.
+
+> **Both traditions independently locate Azazel in a rocky wilderness place.** Rashi reads it as a *地形* — a place. Enoch reads it as a *person confined in* such a place.
 >
-> The following claims about **1 Enoch** entered this project through conversation. **An attempt to verify them against R.H. Charles's translation returned HTTP 403 (access blocked). They therefore remain unverified and must not be cited as established.**
->
-> - **REPORTED:** In 1 Enoch 6, the Watchers fear some may back out, and **Semihazah/Semyaza** — *not* Azazel — leads them in a **mutual oath** to transgress together, associated with Mount Hermon.
-> - **REPORTED:** In 1 Enoch 8, **Azazel** teaches humanity forbidden knowledge — metalworking, weapons, ornamentation/cosmetics.
-> - **REPORTED:** In 1 Enoch 10, **Raphael is commanded to bind Azazel and cast him into a desert/wilderness place**, where he awaits judgment.
->
-> **Note the correction embedded in the first bullet:** the recollection that *Azazel led the oath* appears to be **inexact** — the oath-leader is reported as Semihazah, with Azazel's distinctive role coming *afterward*. **Recorded as a correction to the recollection, and simultaneously flagged as itself unverified.** Two layers of provisionality, both preserved.
->
-> **Verification step required:** obtain 1 Enoch 6, 8, and 10 from a retrievable public-domain edition (Charles 1917 or Laurence) and confirm chapter, content, and names directly. **Until then this branch has an unverified foundation.**
+> **What this establishes (Tier A):** the rocky-wilderness association is present in two independent interpretive streams.
+> **What it does NOT establish:** which came first, whether either depends on the other, or what Leviticus itself meant. **A shared image is not a shared claim.**
+
+### 🍴 The semantic fork — preserve it; do not collapse it
+
+**The fact that Jewish interpretation has historically disagreed about *Azazel* is itself evidence that the term is difficult.** All four readings have real interpretive history, and **the project preserves the fork rather than treating one as the only candidate that ever existed:**
+
+| Reading | Representative support | Status |
+|---|---|---|
+| **A rugged cliff / craggy place** | **Rashi on Lev 16:8 — verified**: "a precipitous and flinty rock," *ʿazaz* + *ʾel* | live |
+| **Removal / sending away** | the *ʿez* + *ʾazal* ("goat that departs") derivation behind KJV's "scapegoat" | live |
+| **A wilderness location** | overlaps A; the text does send the goat *to* somewhere | live |
+| **A personal / spiritual referent** | the Enochic trajectory; noted in modern Jewish commentary as a proposal | live |
+
+> **Consequence for how the Enoch material may be used:** the comparison is valuable **as evidence for one ancient interpretive trajectory** — **not** as proof that Leviticus unambiguously meant the Watcher. Framing it the second way would collapse a genuine fork into a false certainty, and would be a **Category Collapse** in the importing direction.
 
 ### The question, and what would settle it
 

@@ -15,3 +15,4 @@ Not code-architecture ADRs — same pattern, applied to a research/writing vault
 | [ADR-0005](ADR-0005-epistemological-cycle-doorway-agnostic.md) | Epistemological cycle — doorway-agnostic, replaces the linear working model | active |
 | [ADR-0006](ADR-0006-three-layer-manuscript-distinction.md) | Three-layer manuscript distinction — Main Exposition, Exegetical Sidebar, Author's Reflection | active |
 | [ADR-0007](ADR-0007-dual-architecture-narrative-and-reference.md) | Dual architecture — reference structure and narrative spine, neither replacing the other | active |
+| [ADR-0008](ADR-0008-source-language-first-localization.md) | Source-language-first localization — research once at source level, render separately per edition (extends ADR-0003) | active |
