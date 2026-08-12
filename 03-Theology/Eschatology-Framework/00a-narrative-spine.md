@@ -183,7 +183,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** does "heaven and earth passing away" mean physical creation, or an established order?
 
-## Stage 13 — The Fig Tree, "This Generation," and Heaven and Earth *(current)*
+## Stage 13 — The Fig Tree, "This Generation," and Heaven and Earth
 
 **File:** [[00m-fig-tree-generation-heaven-and-earth]]
 
@@ -202,11 +202,39 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 ### Side bookmark generated at this stage
 **Daniel 2** — the statue and the stone. **Deliberately NOT retrofitted** into Stage 10's cosmic-signs argument, because Daniel 2 doesn't supply that vocabulary and inserting it would have made the argument *less* precise. Filed forward instead, with corrections on record (four kingdoms not five; Daniel doesn't identify iron/clay as modern governments *or* as Republic/Empire; Republic preceded Empire). Generated a real question: **Daniel 2:44's "in the days of those kings"** + Mark 1:15's "the time is fulfilled" + Matthew 21:44's crushing stone → *when does Scripture say Messiah's reign began?* — which must be settled **before** asking when the thousand years began. **Rupes Nigra** logged as an open hypothesis with three brakes (Aramaic *ʾarʿāʾ* needs its own study; compasses aren't evidence; copied maps aren't independent witnesses).
 
+## Stage 14 — "Until Heaven and Earth Pass Away" *(current)*
+
+**File:** [[00n-torah-fulfilled-and-what-changed]]
+
+*Sequence note: resumed the thread Stage 13 earned. The Daniel 2 / Rupes Nigra branch raised in the same session was preserved as forward bookmarks and did **not** displace this stage — branches get kept, they don't get to reorder the spine (ADR-0007).*
+
+- **The trigger is intratextual:** Yeshua had already said "until heaven and earth pass away" in Matthew 5:18, long before Matthew 24:35
+- **Two "untils," not one** — "until heaven and earth pass away" **and** "until all is accomplished." Any reading must account for both. **Their relationship is recorded as undetermined**, with four possibilities tabled (coterminous / B defines A / independent / merism) rather than one chosen silently
+- ***katalyō*** ("abolish") is explicitly negated — and its object is "the Law **or the Prophets**," a conventional term for Israel's Scriptures. So reducing the verse to "which regulations must Christians keep?" already narrows it below what was said
+- ***plēroō*** read against **Matthew's own prior usage** (1:22, 2:15, 2:17, 4:14) — Scripture reaching its intended realization. **Neither** "fulfill = terminate" **nor** "fulfill = nothing may change" is in the verb. CJB translates it "**complete**"
+- **Melchizedek earns entry** (deferred since Stage 9): Hebrews 7:11–12 argues from **Psalm 110**, i.e. from the Tanakh itself, that a priesthood beyond Levi was already anticipated — not that revelation was defective
+- **Lexical brake on Hebrews 7:12:** *metathesis* ranges from Enoch's *transfer* (Heb 11:5) to the *removal* of the shaken (Heb 12:27). ESV/RVR1960 "change," CJB "transformation," none "abolition" — **the word opens the range; it settles nothing**
+- **Jeremiah 31 blocks both reductions at once** — a covenant explicitly "**not like**" Sinai, *and* Torah written on hearts, in the same passage. Made "with Israel and Judah." *(CJB versification offset recorded, as with Zechariah 2:6.)*
+- **Hebrews 8:13 cashed** — *becoming* obsolete, *growing* old, *ready to* vanish: a transition in progress as of writing. Alongside Hebrews 8:4 and 10:1–2 describing an operating system in the present tense
+- **Substantial brake on the dating inference:** pre-AD-70 dating of Hebrews is **inference, not statement**. Three counter-considerations recorded, including one **explicitly flagged as unverified** by this project. Status: **permits, not establishes**
+- **The intratextual datum, checkable:** Matthew 5:18 ἕως ἂν **πάντα γένηται** vs Matthew 24:34 ἕως ἂν **πάντα ταῦτα γένηται** — differing only by ταῦτα, plus shared *parelthē* "pass away." **Establishes a reason to ask, not an answer.** Luke 21:32's Greek flagged as unchecked
+- **New glossary term: Intratextuality** — within one author's work, vs. *inter*textuality between texts. Stronger in one respect (same author), narrower in another (Matthew's usage ≠ the hearers' understanding)
+- **Matthew's narrative placement:** 23:35 → 23:36 → 23:38 → 24:2 → 24:34 → 24:35. Heaven-and-earth language sits **inside** a Jerusalem/Temple judgment narrative. **Adjacency is not identity** — status unchanged from Stage 13
+- **The six-way distinction, possibly the most important structural finding so far** — Torah / Mosaic covenant / Levitical priesthood / Temple / sacrificial administration / moral commandments overlap enormously but are **not interchangeable**. "Is the Law abolished?" is at least eight questions wearing one coat
+- **New rule: the Category Collapse Test** — check whether a question names one thing or several packaged as one, *before* answering. Runs first; malformed questions can't be rescued by good exegesis downstream
+- **Acts paid a dividend:** the distinction wasn't built theoretically — Acts 15 was watched doing it. The *order* of investigation produced an interpretive resource a topical arrangement wouldn't have
+- **Heart-circumcision traced back into Torah** — Deuteronomy 10:16, 30:6, Jeremiah 4:4. **Paul didn't invent it.** Noted: Deuteronomy 30:6 sits in the same chapter as 30:4's "uttermost parts of heaven," already load-bearing in Stage 11
+- **Cost recorded, not hidden:** if "all is accomplished" landed in the first century, **Matthew 5:19** has to mean something afterward. The easy exit ("it was only transitional") is exactly the protective exception this project refuses to grant opponents — so it doesn't get to grant itself one. Logged as an **unresolved cost of the position**
+
+**→ earns the next question:** what, specifically, does Scripture say *changed* and what does it say was *retained*?
+
 ---
 
 ## Next Stage (not yet written)
 
-**Matthew 5:17–18** — "until heaven and earth pass away," Law and Prophets, "until all is accomplished." Then Jeremiah 31 and Hebrews 8, without assuming "new covenant" means "Torah discarded." Underlying question: **are Torah, Mosaic covenant, Levitical priesthood, Temple system, commandments, and covenant identity identical things that begin and end together — or related but distinguishable?**
+**The What-Changed Table.** Not "did Christianity replace Judaism?" and not "are Christians under the Law?" — both arrive pre-loaded. The cleaner question: **according to Torah, the Prophets, Yeshua, Acts, and the apostolic writings themselves, what does Scripture explicitly say changed and what does it explicitly preserve at the New Covenant's inauguration?**
+
+Fourteen rows to populate from Scripture, one at a time: covenant, priesthood, sacrifice, Temple, circumcision, Torah, Sabbath, food, festivals, moral commandments, Israel, Gentiles, Spirit, access to Yahweh. **"Explicitly changed?" and "explicitly retained?" are not complements** — a row can be neither, and "Unresolved" is a legitimate final answer. Only after the table is populated do we ask what theological label fits the picture. Skeleton already built at [[00n-torah-fulfilled-and-what-changed]] §16.
 
 ## Corrections Preserved (Not Overwritten)
 

@@ -714,10 +714,90 @@ ESV: "as the new heavens and the new earth that I make shall remain before me...
 CJB: "so will your descendants and your name continue."
 RVR1960: "así permanecerá vuestra descendencia y vuestro nombre."
 
-**Hebrews 8:13** — bookmarked, not yet used
+**Hebrews 8:13** — *cashed at Stage 14, see [[00n-torah-fulfilled-and-what-changed]] §8*
 ESV: "he makes the first one obsolete. And what is becoming obsolete and growing old is ready to vanish away."
 CJB: "something in the process of aging, is on its way to vanishing altogether."
 RVR1960: "lo que se da por viejo y se envejece, está próximo a desaparecer."
+
+## Torah, Fulfillment & What Changed (see [[00n-torah-fulfilled-and-what-changed]])
+
+**Matthew 5:17–19** — the governing text of Stage 14; note the **two "untils"**
+ESV: "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. For truly, I say to you, until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished. Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever does them and teaches them will be called great in the kingdom of heaven."
+CJB: "Don't think that I have come to abolish the Torah or the Prophets. I have come not to abolish but to complete. Yes indeed! I tell you that until heaven and earth pass away, not so much as a yud or a stroke will pass from the Torah — not until everything that must happen has happened. So whoever disobeys the least of these mitzvot and teaches others to do so will be called the least in the Kingdom of Heaven. But whoever obeys them and so teaches will be called great in the Kingdom of Heaven."
+RVR1960: "No penséis que he venido para abrogar la ley o los profetas; no he venido para abrogar, sino para cumplir. Porque de cierto os digo que hasta que pasen el cielo y la tierra, ni una jota ni una tilde pasará de la ley, hasta que todo se haya cumplido. De manera que cualquiera que quebrante uno de estos mandamientos muy pequeños, y así enseñe a los hombres, muy pequeño será llamado en el reino de los cielos; mas cualquiera que los haga y los enseñe, este será llamado grande en el reino de los cielos."
+Greek: **ἕως ἂν παρέλθῃ ὁ οὐρανὸς καὶ ἡ γῆ** (*heōs an parelthē ho ouranos kai hē gē*) · **ἕως ἂν πάντα γένηται** (*heōs an panta genētai*) — cf. Matthew 24:34's **ἕως ἂν πάντα ταῦτα γένηται**, differing only by ταῦτα. **καταλύω** *katalyō* (abolish/demolish) explicitly negated; **πληρόω** *plēroō* (fill/complete/fulfill) affirmed. Note CJB renders *plēroō* "**complete**."
+
+### Matthew's own prior usage of *plēroō* (authorial-usage control)
+
+**Matthew 1:22**
+ESV: "All this took place to fulfill what the Lord had spoken by the prophet"
+CJB: "All this happened in order to fulfill what Adonai had said through the prophet"
+RVR1960: "Todo esto aconteció para que se cumpliese lo dicho por el Señor por medio del profeta"
+
+**Matthew 2:15**
+ESV: "This was to fulfill what the Lord had spoken by the prophet, 'Out of Egypt I called my son.'"
+CJB: "This happened in order to fulfill what Adonai had said through the prophet, 'Out of Egypt I called my son.'"
+RVR1960: "para que se cumpliese lo que dijo el Señor por medio del profeta, cuando dijo: De Egipto llamé a mi Hijo."
+
+**Matthew 2:17**
+ESV: "Then was fulfilled what was spoken by the prophet Jeremiah"
+CJB: "In this way were fulfilled the words spoken through the prophet Yirmeyahu"
+RVR1960: "Entonces se cumplió lo que fue dicho por el profeta Jeremías, cuando dijo:"
+
+**Matthew 4:14**
+ESV: "so that what was spoken by the prophet Isaiah might be fulfilled:"
+CJB: "This happened in order to fulfill what Yesha'yahu the prophet had said,"
+RVR1960: "para que se cumpliese lo dicho por el profeta Isaías, cuando dijo:"
+
+**Matthew 12:6** — something greater than the Temple
+ESV: "I tell you, something greater than the temple is here."
+CJB: "I tell you, there is in this place something greater than the Temple!"
+RVR1960: "Pues os digo que uno mayor que el templo está aquí."
+
+### Priesthood changed — Melchizedek argued from the Tanakh
+
+**Hebrews 7:11–12** — cf. **Psalm 110:4**, already indexed under Stars/Melchizedek
+ESV: "Now if perfection had been attainable through the Levitical priesthood (for under it the people received the law), what further need would there have been for another priest to arise after the order of Melchizedek, rather than one named after the order of Aaron? For when there is a change in the priesthood, there is necessarily a change in the law as well."
+CJB: "Therefore, if it had been possible to reach the goal through the system of cohanim derived from Levi (since in connection with it, the people were given the Torah), what need would there have been for another, different kind of cohen, the one spoken of as to be compared with Malki-Tzedek and not to be compared with Aharon? For if the system of cohanim is transformed, there must of necessity occur a transformation of Torah."
+RVR1960: "Si, pues, la perfección fuera por el sacerdocio levítico (porque bajo él recibió el pueblo la ley), ¿qué necesidad habría aún de que se levantase otro sacerdote, según el orden de Melquisedec, y que no fuese llamado según el orden de Aarón? Porque cambiado el sacerdocio, necesario es que haya también cambio de ley;"
+Greek: **μετάθεσις** *metathesis* / **μετατίθημι** *metatithēmi* — **range brake:** same author uses this family of Enoch's *transfer* (Heb 11:5) and of the *removal* of the shaken (Heb 12:27). ESV/RVR1960 "change," CJB "transformation," none "abolition." **Opens the range; settles nothing alone.**
+
+### The new covenant announced — and Torah's destination
+
+**Jeremiah 31:31–33** — *(CJB follows Hebrew versification; ESV 31:31 = CJB 31:30. Same passage, different numbering — cf. the Zechariah 2:6 note.)*
+ESV: "Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and the house of Judah, not like the covenant that I made with their fathers on the day when I took them by the hand to bring them out of the land of Egypt, my covenant that they broke, though I was their husband, declares the Lord. For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people."
+CJB: "It will not be like the covenant I made with their fathers on the day I took them by their hand and brought them out of the land of Egypt; because they, for their part, violated my covenant, even though I, for my part, was a husband to them," says Adonai. "For this is the covenant I will make with the house of Isra'el after those days," says Adonai: "I will put my Torah within them and write it on their hearts; I will be their God, and they will be my people."
+RVR1960: "He aquí que vienen días, dice Jehová, en los cuales haré nuevo pacto con la casa de Israel y con la casa de Judá. No como el pacto que hice con sus padres el día que tomé su mano para sacarlos de la tierra de Egipto; porque ellos invalidaron mi pacto, aunque fui yo un marido para ellos, dice Jehová. Pero este es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en su mente, y la escribiré en su corazón; y yo seré a ellos por Dios, y ellos me serán por pueblo."
+**Note:** CJB reads "my **Torah**" explicitly. Made with **Israel and Judah** — not with an unrelated people.
+
+### An operating system described in the present tense (dating question — see [[04-open-questions]])
+
+**Hebrews 8:4**
+ESV: "Now if he were on earth, he would not be a priest at all, since there are priests who offer gifts according to the law."
+CJB: "Now if he were on earth, he wouldn't be a cohen at all, since there already are cohanim offering the gifts required by the Torah."
+RVR1960: "Así que, si estuviese sobre la tierra, ni siquiera sería sacerdote, habiendo aún sacerdotes que presentan las ofrendas según la ley;"
+
+**Hebrews 10:1–2**
+ESV: "For since the law has but a shadow of the good things to come instead of the true form of these realities, it can never, by the same sacrifices that are continually offered every year, make perfect those who draw near. Otherwise, would they not have ceased to be offered, since the worshipers, having once been cleansed, would no longer have any consciousness of sins?"
+CJB: "For the Torah has in it a shadow of the good things to come, but not the actual manifestation of the originals. Therefore, it can never, by means of the same sacrifices repeated endlessly year after year, bring to the goal those who approach the Holy Place to offer them. Otherwise, wouldn't the offering of those sacrifices have ceased? For if the people performing the service had been cleansed once and for all, they would no longer have sins on their conscience."
+RVR1960: "Porque la ley, teniendo la sombra de los bienes venideros, no la imagen misma de las cosas, nunca puede, por los mismos sacrificios que se ofrecen continuamente cada año, hacer perfectos a los que se acercan. De otra manera cesarían de ofrecerse, pues los que tributan este culto, limpios una vez, no tendrían ya más conciencia de pecado."
+
+### Circumcision of the heart — already in Torah, not a later innovation
+
+**Deuteronomy 10:16**
+ESV: "Circumcise therefore the foreskin of your heart, and be no longer stubborn."
+CJB: "Therefore, circumcise the foreskin of your heart; and don't be stiffnecked any longer!"
+RVR1960: "Circuncidad, pues, el prepucio de vuestro corazón, y no endurezcáis más vuestra cerviz."
+
+**Deuteronomy 30:6** — *same chapter as 30:4's "uttermost parts of heaven," load-bearing in [[00k-the-gathering-of-the-elect]]*
+ESV: "And the Lord your God will circumcise your heart and the heart of your offspring, so that you will love the Lord your God with all your heart and with all your soul, that you may live."
+CJB: "Then Adonai your God will circumcise your hearts and the hearts of your children, so that you will love Adonai your God with all your heart and all your being, and thus you will live."
+RVR1960: "Y circuncidará Jehová tu Dios tu corazón, y el corazón de tu descendencia, para que ames a Jehová tu Dios con todo tu corazón y con toda tu alma, a fin de que vivas."
+
+**Jeremiah 4:4**
+ESV: "Circumcise yourselves to the Lord; remove the foreskin of your hearts, O men of Judah and inhabitants of Jerusalem; lest my wrath go forth like fire, and burn with none to quench it, because of the evil of your deeds."
+CJB: "People of Y'hudah and inhabitants of Yerushalayim, circumcise yourselves for Adonai, remove the foreskins of your heart! Otherwise my fury will lash out like fire, burning so hot that no one can quench it, because of how evil your actions are."
+RVR1960: "Circuncidaos a Jehová, y quitad el prepucio de vuestro corazón, varones de Judá y moradores de Jerusalén; no sea que mi ira salga como fuego, y se encienda y no haya quien la apague, por la maldad de vuestras obras."
 
 ## Daniel 2 — The Statue and the Stone (bookmarked, see [[04-open-questions]])
 

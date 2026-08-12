@@ -29,6 +29,8 @@ This file sits before [[01-convictions]] on purpose — it's the answer to "how 
 
 **Intertextuality** — the study of how one text echoes, quotes, alludes to, reuses, or develops another. In biblical interpretation, intertextual analysis asks how later writers draw on earlier Scripture and how those earlier contexts constrain or illuminate the later passage. An **intertextual question** is simply: *is this passage deliberately drawing on that earlier passage, and if so, what does the earlier context contribute to its meaning?* **This vault has been doing intertextual work extensively before naming it** — Matthew 24:30 ↔ Daniel 7 and Zechariah 12; Matthew 24:29 ↔ Isaiah 13/34, Ezekiel 32, Joel; Matthew 24:31 ↔ Deuteronomy 30, Isaiah 11/27, Zechariah 2; Revelation 6 ↔ Isaiah 34; Acts 15 ↔ Amos 9; Acts 13 ↔ Isaiah 49; Jude 14–15 ↔ 1 Enoch 1:9. See **Intertextual Priority** below for the governing rule.
 
+**Intratextuality** *(added 2026-08-12, Stage 14)* — the study of relationships **within a single text or a single author's work**, as distinct from relationships *between* texts. Matthew 24 ↔ Daniel 7 is **inter**textual; Matthew 5:18 ↔ Matthew 24:35 is **intra**textual. **Why the distinction is practical, not pedantic:** intratextual evidence is in one respect *stronger* — it does not require assuming a later writer knew and intended an earlier source, since the same author wrote both. But it is also *narrower* — it establishes what **Matthew's** usage was, not necessarily what Yeshua's Aramaic-speaking hearers understood, nor what the underlying tradition meant. Worked case: the *pareleusontai* / *panta genētai* vocabulary cluster in [[00n-torah-fulfilled-and-what-changed]] §9.
+
 **Relational adjective** (also *eponymous adjective*) — an adjective derived from a name, describing something associated with that person or text: **Pauline** theology, **Matthean** language, **Markan**, **Lukan**, **Johannine**, **Danielic** imagery, **Isaianic**, **Mosaic** law, **Davidic** covenant, **Abrahamic** promise. There is no single mechanical English rule (not "always add -ic") — the forms developed historically, often through Greek or Latin versions of the names (John → Latin *Johannes* → Johannine). Compact scholarly prose: "Danielic language" instead of "the language used by Daniel."
 
 **Contextual Exegesis** — interpreting a passage according to its immediate literary, historical, linguistic, and covenantal context *before* applying its principle more broadly. The rule: before asking "does this apply to me?", first ask "who was being addressed, by whom, about what, and within what historical/covenantal situation?"
@@ -91,11 +93,22 @@ Isaiah 13 does not tell us what Matthew 24 means — it tells us what Matthew 24
 
 **Pairs with Intertextual Priority above** — that rule *opens* a symbol's semantic range; this one prevents the newly opened range from hardening into a new dogma. Without both, escaping one rigid reading just produces another wearing different clothes.
 
-**Four instances where this was needed** (see [[00m-fig-tree-generation-heaven-and-earth]] §7):
+**Five instances where this was needed** (four in [[00m-fig-tree-generation-heaven-and-earth]] §7, the fifth in [[00n-torah-fulfilled-and-what-changed]] §5):
 - stars ≠ always astronomical bodies — **but** ≠ always angels/rulers either
 - *gē* ≠ always the globe — **but** ≠ always Israel either (Matthew 5:18 proves it)
 - *angelos* ≠ always heavenly angel — **yet** Matthew's context probably *does* favor heavenly angels here
 - heaven and earth ≠ necessarily only physical cosmos — **but** ≠ automatically covenant either
+- *plēroō* ("fulfill") ≠ terminate — **but** ≠ "nothing whatsoever may change" either; likewise *metathesis* (Hebrews 7:12) ranges from Enoch's *transfer* (Heb 11:5) to the *removal* of what is shaken (Heb 12:27), and so settles nothing on its own
+
+## The Category Collapse Test (formal rule, added 2026-08-12)
+
+> **Before answering a theological question, check whether the question names one thing or several things that have been packaged as one. If a single term covers multiple distinguishable realities, the question must be split before it can be answered.**
+
+A slogan that answers eight questions at once has not answered any of them — it has concealed which one was being asked. **The diagnostic:** if two people who agree on every verse still disagree on the conclusion, they are probably answering different collapsed questions.
+
+**Worked case — "the Law"** ([[00n-torah-fulfilled-and-what-changed]] §12). "Is the Law abolished?" collapses at least six distinguishable things: **Torah** (revelatory instruction), the **Mosaic/Sinai covenant** (an administration), the **Levitical priesthood**, the **Temple**, the **sacrificial system**, and **Yahweh's moral commandments**. They overlap enormously; they are not interchangeable. "We're under grace, not law" and "the Torah never changes" are both category-collapse slogans — they sound decisive precisely because they never specify which of the six is in view.
+
+**Relation to the other rules:** Intertextual Priority governs *where meaning comes from*; Anti-Replacement governs *how far a correction may be pushed*; Audience Continuity governs *who is being addressed*; Category Collapse governs *whether the question itself is well-formed*. This one runs first — a malformed question cannot be rescued by good exegesis downstream.
 
 ## Audience Continuity (rule, added 2026-08-12)
 
