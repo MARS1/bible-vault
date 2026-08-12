@@ -169,7 +169,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earned the next question:** what about "all the tribes of the earth"?
 
-## Stage 12 — Tribes of the Land *(current)*
+## Stage 12 — Tribes of the Land
 
 **File:** [[00l-tribes-of-the-land]]
 
