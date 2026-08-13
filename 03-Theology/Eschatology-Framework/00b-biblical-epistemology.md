@@ -160,6 +160,20 @@ The test runs in both directions. Collapse packages several things as one; **imp
 
 **Relation to the other rules:** Category Collapse asks whether the *question* is well-formed; this asks whether a *relationship between covenants* is being assumed rather than read. It pairs with Anti-Replacement — one prevents assuming cancellation, the other prevents assuming a rigid substitute. Full treatment: [[00r-what-is-a-covenant]] §9.
 
+## Knowledge Puffs Up — the Rule That Constrains the Investigator (added 2026-08-13, Stage 18)
+
+> **1 Corinthians 8:1** — ESV: "**This 'knowledge' puffs up, but love builds up.**" CJB: "'knowledge' **puffs a person up with pride**; whereas love builds up."
+
+> ### **Epistemic maturity is not measured only by how much truth one can articulate, but also by what that truth produces in character.**
+
+**This is the first rule in the framework that constrains the *investigator* rather than the *investigation*** — and it is aimed squarely at a project accumulating this much knowledge. **Paul places the warning in the *same sentence* that introduces the food-and-idols dispute**, i.e. precisely where the knowledgeable party was about to be right and destructive at the same time.
+
+**Its companion, from Romans 14:15 and 1 Corinthians 8:11–13:**
+
+> ### **Being correct about a proposition does not automatically make one's conduct righteous.**
+>
+> **A person can hold the stronger theological argument and still sin through how they exercise it.** Paul's concern in both letters is not *win the food argument* but *do not destroy your brother over food*. **Worked at [[00s-clean-and-unclean-from-noah-to-messiah]] §25c.**
+
 ## The Contextual Question Principle (formal rule, added 2026-08-12, Stage 18)
 
 > ### **Before using a passage as evidence for a theological proposition, first identify the question, controversy, or situation the author was actually addressing. A passage may have legitimate implications beyond its immediate context, but those implications must be demonstrated rather than assumed.**

@@ -1176,6 +1176,34 @@ CJB: "This means that God has enabled the Goyim as well to do t'shuvah and have 
 ESV: "that you abstain from what has been sacrificed to idols, and from blood, and from what has been strangled, and from sexual immorality."
 CJB: "to abstain from what has been sacrificed to idols, from blood, from things strangled, and from fornication."
 
+### Daniel's table in Babylon — the OT control case (inserted BEFORE Romans 14)
+
+**Daniel 1:5**
+ESV: "The king assigned them a daily portion of the food that the king ate, and of the wine that he drank."
+CJB: "The king assigned them a daily portion of his own food and the wine he drank, and they were to be cared for in this way for three years."
+
+**Daniel 1:8** — ⚠️ "resolved" — a PRIOR conviction. No vision, no angel, no reported command.
+ESV: "But Daniel resolved that he would not defile himself with the king's food, or with the wine that he drank."
+CJB: "But Dani'el resolved that he would not defile himself with the king's food or the wine he drank, so he asked the chief officer to be excused."
+**🔑 He refuses the WINE too — and Torah does not prohibit wine. So prohibited species alone cannot explain the decision.**
+
+**Daniel 1:12**
+ESV: "Test your servants for ten days; let us be given vegetables to eat and water to drink."
+CJB: "Please! Try an experiment on your servants — for ten days have them give us only vegetables to eat and water to drink."
+Hebrew: **זֵרֹעִים** *zērōʿîm* — "things sown / grown from seed," broader than English "vegetables."
+
+**Daniel 1:15** — note what it does NOT say
+ESV: "At the end of ten days it was seen that they were better in appearance and fatter in flesh than all the youths who ate the king's food."
+CJB: "they looked better and more robust than all the boys who were eating the king's food."
+**The others are NOT said to have become weaker — the four are said to be better.**
+
+**Daniel 1:16–17** — the visions come AFTERWARD, as a gift
+ESV (17): "As for these four youths, God gave them learning and skill in all literature and wisdom, and Daniel had understanding in all visions and dreams."
+CJB (17): "To these four boys God had given knowledge and skill in every aspect of learning and wisdom; moreover, Dani'el could understand all kinds of visions and dreams."
+**Sequence: resolve → act on conviction → Yahweh honors → knowledge and wisdom → understanding of visions.**
+
+> **PRESERVE VERBATIM for the future objection:** *Possible association with Babylonian idolatry — plausible, but Daniel 1 does not explicitly identify idol sacrifice as the reason for Daniel's refusal.* **ESTABLISHED (narrower and therefore stronger): Daniel believed the king's provisions would defile him and requested plant food and water instead. WHY remains an exegetical question.**
+
 ### Romans 14 — the vegetarian problem and the koinos problem
 
 **Romans 14:2** — 🔴 blocks the standard reading
@@ -1193,6 +1221,74 @@ CJB: "nothing is unclean in itself. But if a person considers something unclean,
 **Romans 14:20**
 ESV: "Do not, for the sake of food, destroy the work of God. Everything is indeed clean, but it is wrong for anyone to make another stumble by what he eats."
 CJB: "Don't tear down God's work for the sake of food. True enough, all things are clean; but it is wrong for anybody by his eating to cause someone to fall away."
+
+**Romans 14:4–5** — conscience, judgment, and days
+ESV (4): "Who are you to pass judgment on the servant of another? It is before his own master that he stands or falls."
+ESV (5): "One person esteems one day as better than another, while another esteems all days alike. Each one should be fully convinced in his own mind."
+CJB (5): "One person considers some days more holy than others, while someone else regards them as being all alike."
+**🚧 Do NOT insert "Sabbath" by default. Which day-dispute Paul has in view is an open question.**
+
+**Romans 14:15, 17** — love and kingdom
+ESV (15): "For if your brother is grieved by what you eat, you are no longer walking in love."
+CJB (15): "Do not, by your eating habits, destroy someone for whom the Messiah died!"
+ESV (17): "For the kingdom of God is not a matter of eating and drinking but of righteousness and peace and joy in the Holy Spirit."
+CJB (17): "The Kingdom of God is not eating and drinking, but righteousness, shalom and joy in the Ruach HaKodesh."
+**Does NOT mean food commands can never matter. Means food disputes must not become the essence of kingdom identity.**
+
+**Romans 14:23** — recovered in context
+ESV: "But whoever has doubts is condemned if he eats, because the eating is not from faith."
+CJB: "The doubter comes under condemnation if he eats, because his action is not based on trust."
+**About eating WHILE DOUBTING — not a general definition of every possible sin.**
+
+### 1 Corinthians 8–10 — where the dispute is named outright
+
+**1 Corinthians 8:1** — ❗ the warning aimed at this project
+ESV: "Now concerning food offered to idols: we know that 'all of us possess knowledge.' This 'knowledge' puffs up, but love builds up."
+CJB: "'knowledge' puffs a person up with pride; whereas love builds up."
+Greek: **εἰδωλόθυτα** *eidōlothyta* — food/meat sacrificed to idols.
+
+**1 Corinthians 8:4, 8**
+ESV (4): "'an idol has no real existence,' and that 'there is no God but one.'"
+ESV (8): "Food will not commend us to God. We are no worse off if we do not eat, and no better off if we do."
+CJB (8): "food will not improve our relationship with God — we will be neither poorer if we abstain nor richer if we eat."
+
+**1 Corinthians 10:20** — held together with 8:4, not against it
+ESV: "what pagans sacrifice they offer to demons and not to God... I do not want you to be participants with demons."
+CJB: "I don't want you to become sharers of the demons!"
+
+**1 Corinthians 10:25** + **Psalm 24:1**
+ESV: "Eat whatever is sold in the meat market without raising any question on the ground of conscience."
+Psalm 24:1 ESV: "The earth is the Lord's and the fullness thereof, the world and those who dwell therein."
+**Context is meat possibly connected to idol sacrifice — Paul is addressing PROVENANCE, i.e. Axis 2.**
+
+**1 Corinthians 10:28** — identical meat, different act
+ESV: "But if someone says to you, 'This has been offered in sacrifice,' then do not eat it, for the sake of the one who informed you, and for the sake of conscience"
+CJB: "if someone says to you, 'This meat was offered as a sacrifice,' then don't eat it, out of consideration for the person who pointed it out and also for conscience's sake"
+**The meat has not chemically changed. The relational/spiritual context has. Meaning-Attached-to-Action, appearing independently of Stage 17.**
+
+**1 Corinthians 10:31–32** — the governing principle
+ESV: "So, whether you eat or drink, or whatever you do, do all to the glory of God. Give no offense to Jews or to Greeks or to the church of God"
+CJB: "do it all so as to bring glory to God. Do not be an obstacle to anyone — not to Jews, not to Gentiles, and not to God's Messianic Community."
+
+### Colossians 2 — shadow language, and asceticism named
+
+**Colossians 2:16–17** — 🔍 *sōma* fork
+ESV (16): "Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath."
+ESV (17): "These are a shadow of the things to come, but the substance belongs to Christ."
+CJB (16): "in regard to a Jewish festival or Rosh-Hodesh or Shabbat."
+CJB (17): "These are a shadow of things that are coming, but the body is of the Messiah."
+RVR1960 (16): "nadie os juzgue en comida o en bebida, o en cuanto a días de fiesta, luna nueva o días de reposo"
+RVR1960 (17): "todo lo cual es sombra de lo que ha de venir; pero el cuerpo es de Cristo."
+**Greek σῶμα *sōma* = BODY. ESV renders "substance" (abstract); CJB and RVR1960 keep "body" — possibly the body of Messiah, i.e. the assembly. LIVE FORK, not adjudicated.**
+**And note: "let no one JUDGE you" is not identical to "never observe them."**
+
+**Colossians 2:20–23** — asceticism named explicitly by Paul
+ESV (21): "Do not handle, Do not taste, Do not touch"
+ESV (22): "(referring to things that all perish as they are used)—according to human precepts and teachings?"
+ESV (23): "These have indeed an appearance of wisdom in promoting self-made religion and asceticism and severity to the body, but they are of no value in stopping the indulgence of the flesh."
+CJB (23): "self-imposed religious observances, false humility and asceticism"
+RVR1960 (23): "culto voluntario, en humildad y en duro trato del cuerpo"
+**Complicates using 2:16 as a simple "Sabbath and food laws abolished."**
 
 ### 1 Timothy 4 — flagged in advance, not yet argued
 

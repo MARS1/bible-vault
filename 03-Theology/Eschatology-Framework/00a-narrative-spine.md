@@ -385,7 +385,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 - **Precision on what Acts 10–11 DOES establish:** Yahweh's saving work and the Ruach are not restricted to circumcised Israelites. **Connecting it to "the Abrahamic promise" is an intertextual conclusion — well-supported elsewhere, but Luke doesn't use "the promise" in Acts 11:18**
 - **Acts 15 reconnects to Noah** — the **blood** prohibition of Gen 9:4 reappears in the one list handed to Gentiles. Leviticus 17–18's *ger* laws are a second proposal; **not mutually exclusive. But we do NOT announce "Acts 15 is the Noahide laws"** — the text doesn't say that
 - **Both Acts 15 silences preserved:** it does **not** say "do not eat pork," **and** it does **not** say "you may now eat everything Leviticus prohibited." **Acts 15 alone cannot settle it — which is why verse-trading fails**
-- **🔴 ROMANS 14:2 BLOCKS THE STANDARD READING: "the weak person eats only VEGETABLES" (*lachana*).** **Torah never required Jews to eat only vegetables.** So at least one party's practice extends well beyond avoiding unclean species. And **Paul's instruction is symmetrical — neither party is told to change**
+- **🔴 ROMANS 14:2 BLOCKS THE STANDARD READING: "the weak person eats only VEGETABLES" (*lachana*).** **Torah never required Jews to eat only vegetables.** **⚠️ AMENDED 2026-08-13 after Daniel 1 — see Stage 18.5:** the *behavior* extends beyond avoiding unclean species; **the *motivation* need not.** Original wording preserved in the file. And **Paul's instruction is symmetrical — neither party is told to change**
 - **🔴 ROMANS 14:14 USES *KOINOS*, NOT *AKATHARTOS*.** *Koinos* = common/profane/defiled-by-association; *akathartos* = the LXX term for inherently unclean animals. **Peter distinguishes them in one breath at Acts 10:14. English flattens both to "unclean." Greek does not.** Recorded as a live lexical question, **not** as a conclusion in either direction
 - **Five candidate explanations for Romans 14 tabled, none selected** — idol-meat, unknown preparation/provenance, ritual contamination, **ascetic practice**, community scruples
 
@@ -394,11 +394,41 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 - **PARALLEL-TEXT CONTROL** — a narrower Gospel summary constrains the other's ambiguous clause
 - **TWO-AXIS DISTINCTION for "clean food"** — species classification vs preparation/provenance/condition. **Independent axes.** The modern concerns (how it was killed, processed, what it was given, provenance) sit almost entirely on Axis 2 — a real and biblically-recognized category (Gen 9:4, Acts 15, 1 Cor 8–10) — **but not the same question as species**
 
-**→ earns the next question:** what was actually happening at the Roman table?
+### Stage 18.5 — Daniel's Table, Romans' Table, Corinth's Table *(inserted + continued, 2026-08-13)*
+
+> **📐 Daniel 1 inserted BEFORE the Romans 14 investigation**, not appended after it — he is the **earlier biblical precedent** for exactly this kind of food problem, and reading Romans first meant meeting the vegetarian believer with no scriptural category for him. *(Same handling as Stage 16.5.)*
+
+- **🔧 TWO CORRECTIONS TO THE RECOLLECTION, both recorded.** (a) **No angel, no vision, no command** — Daniel 1:8 says he "**resolved**," acting on a **prior conviction**; the visions come *afterward as a gift* (1:17). (b) The others did **not become weaker** — Daniel's four were "**better in appearance and fatter in flesh**." **The corrected sequence is better than the remembered one:** resolve → act → Yahweh honors → knowledge and wisdom given → understanding of visions
+- **🔑 DANIEL REFUSES THE WINE TOO** — and **Torah does not prohibit wine.** Therefore **"the king was serving pork" cannot by itself explain his decision.** Something broader is involved
+- **⚠️ Daniel says *that* it would defile him; he never says *why*.** Sentence preserved verbatim for the future objection: **"Possible association with Babylonian idolatry — plausible, but Daniel 1 does not explicitly identify idol sacrifice as the reason."** If someone asks where Daniel says the meat was idol-sacrificed — **he doesn't, and the argument doesn't need him to.** The narrower fact is the stronger one
+- **Bounded intertextual relevance:** **ESTABLISHES** a scriptural precedent for a faithful Israelite in a pagan environment avoiding questionable food by restricting to plant food. **DOES NOT ESTABLISH** that Romans 14:2's believer had the same reasoning or circumstances. *Possible explanation, not established identification*
+- **Three tables — Babylon, Corinth, Rome — not the same dispute, but together they establish that FOOD PROVENANCE IN A PAGAN ENVIRONMENT IS A GENUINELY BIBLICAL PROBLEM.** Stronger than importing a modern historical theory into Romans 14
+
+- **🔧 SELF-CORRECTION CAUGHT BY THE METHOD:** Stage 18 recorded that the Roman abstainer's practice "extends well beyond avoiding Levitically unclean animals." **True of the BEHAVIOR, misleading about the REASON.** Daniel shows how a Torah-faithful person lands on plants-only **precisely because the supply is unverifiable.** Original wording preserved, not overwritten
+- **Romans 14:4–5 — the concern is conscience, judgment, division, contempt**, not animal classification. **Days enter the same dispute** — and **"Sabbath" is NOT inserted by default** merely because later Christians use Romans 14 that way. Open question
+- **Romans 14:23 recovered in context** — "whatever does not proceed from faith is sin" is about **eating while doubting whether you should**, not a general definition of sin. The Contextual Question Principle recovered it
+- **Romans 14:15/17/20** — "the kingdom is not eating and drinking" does **not** mean food commands can never matter; it means **food disputes must not become the essence of kingdom identity.** And 14:20's broad *kathara* liberty language is **not neutralized** just because it creates difficulty
+- **BEST CURRENT CLASSIFICATION: Romans 14 is much better evidence for HOW believers should handle disputed food practices than for a systematic repeal of Leviticus 11** — with the continuing-food-law hypothesis explicitly **not** protected either
+- **1 CORINTHIANS NAMES ITS DISPUTE OUTRIGHT: *eidōlothyta*, food sacrificed to idols.** Paul holds **"an idol is nothing"** and **"pagan sacrifices are offered to demons"** together. **1 Cor 10:28 — identical meat, refused once its association is disclosed: meaning and participation change the act** (Stage 17's Meaning-Attached-to-Action, appearing independently)
+- **Corinth's value for Romans, precisely bounded: NOT PROVEN THE SAME DISPUTE — PLAUSIBILITY STRENGTHENED.** Documented evidence that first-century believers really did have provenance-and-conscience food controversies
+- **Colossians 2:16 — "let no one JUDGE you" is not identical to "never observe them."** And **2:20–23 explicitly names asceticism** and "human precepts," so 2:16 is not a simple abolition verse. **🔍 2:17's *sōma*: ESV "substance" (abstract) vs CJB/RVR1960 "body" — possibly *the body of Messiah*. Live fork, not adjudicated**
+- **1 TIMOTHY 4 NAMED AND NOT SOFTENED** as the strongest challenge to a continuing-diet reading. Three items carried forward: the **scope** question (*brōmata*), the **opponents' ascetic profile** (they forbid marriage *and* require abstinence), and **"by the word of God"** — which may matter far more than it appears, since it invites the question *which word, and what does it say about foods?*
+
+**🆕 NEW RULE — THE ONE THAT CONSTRAINS THE INVESTIGATOR (1 Cor 8:1):** *knowledge puffs up, love builds up.* **Epistemic maturity is not measured only by how much truth one can articulate but by what that truth produces in character** — and **being correct about a proposition does not automatically make one's conduct righteous.** Every other rule in this framework governs the investigation; **this one governs the person running it**, and a project accumulating this much knowledge is the intended audience.
+
+**→ earns the next question:** 1 Timothy 4, at full pressure.
 
 ---
 
 ## Next Stage (not yet written)
+
+**1 Timothy 4:1–5 at full pressure** — the hardest food passage, deliberately not softened. Then whatever the verdict requires. **Carried in:** the *brōmata* scope question · the opponents' ascetic profile · and **"sanctified by the word of God"** — *which word?*
+
+**Superseded plan, preserved:** a short historical/exegetical investigation of the Roman table was named as the next step and has now been **substantially carried out within Stage 18.5** (Daniel's precedent + Corinth's documented parallel). What remains open is recorded as [[04-open-questions]] item 31.
+
+---
+
+## Superseded — Previous "Next Stage" Entry, Preserved
 
 **First — a short historical/exegetical investigation: what does "the weak eats only vegetables" most plausibly refer to?** If that can be identified, **Romans 14 becomes much harder to weaponize in either direction** — which is why it is done *before* moving on, not after.
 
@@ -466,6 +496,9 @@ The journey's self-corrections, kept deliberately because they demonstrate the m
 | 16.5 | **"Addendum"** as the model for accumulating covenants | **Modified, not rejected.** "Addendum" implies terms appended to one unchanged contract. The biblical form is **Galatians 3:17** — later legal development *does not annul an earlier promise*. Sharper, and it is Paul's own reasoning |
 | 17 | **"Gentiles become Israelites"** (used conversationally by this project) | **Sharpened via Ruth.** Ephesians 2 and Romans 11 are genuine *incorporation* language — but **neither requires ethnic descent from Jacob.** Ruth is fully incorporated and still called "**the Moabite**" afterward (2:2). **Incorporation does not require erasure of origin.** "Messianic Israelite" now carries a written definition in [[01-convictions]] B.5 |
 | 17 | **"Old *Mosaic* shadow → Messiah reality"** as the general model of fulfillment | **Broken by circumcision, which predates Sinai.** Replaced with: *trace each institution from its earliest appearance → covenantal function → prophetic development → Yeshua → apostolic interpretation.* **Immediate cost accepted as evidence it's real: the food stage cannot begin at Leviticus** |
+| 18.5 | **"The Roman abstainer's practice extends well beyond avoiding Levitically unclean animals"** *(this project's own claim, Stage 18)* | **Amended by Daniel 1.** True of the **behavior**, misleading about the **reason** — **a Torah-faithful person can land on plants-only precisely because the food supply is unverifiable.** Original wording preserved in [[00s-clean-and-unclean-from-noah-to-messiah]]. **The method catching its own overreach** |
+| 18.5 | **Recollection that Daniel was told in a vision / by an angel not to eat** | **Daniel 1:8 says he "resolved"** — a prior conviction, no vision, no angel, no reported command. **The visions come afterward as a gift (1:17).** The corrected sequence is better than the remembered one |
+| 18.5 | **Recollection that the other youths became weaker** | **Text says Daniel's four were "better in appearance and fatter in flesh"** — a comparative statement about the four, not a decline in the others |
 | 17 | Carrying **all three translations through every research tranche** | **ADR-0008** — research once at source-language level, render separately per edition. RVR1960 now pulled **selectively** during research. Prompted by tripled citation burden and repeated partial-fetch failures across Stages 13–16 |
 | 16 | Matthew 26:28 as evidence Yeshua said "**New** Covenant" | **Text-critically contested** — "new" is in the Byzantine tradition RVR1960 follows, absent from the critical text ESV follows. Claim reassigned to **Luke 22:20 / 1 Cor 11:25**, where the word is secure |
 | — | Solomon "test all things" verse | Located as Ecclesiastes 1:13 / 7:25; "test" is Paul's word |

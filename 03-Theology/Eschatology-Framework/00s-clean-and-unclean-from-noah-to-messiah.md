@@ -343,19 +343,123 @@ Aquatic creatures require fins and scales; further categories follow.
 
 ---
 
+## 22.5 — Old Testament Control Case: Daniel's Table in Babylon
+
+> **📐 Inserted before Romans 14, not appended after it.** Daniel is not a cross-reference; **he is the earlier biblical precedent for exactly the kind of food problem Romans 14 presents**, and reading Romans first would have meant meeting the vegetarian believer with no scriptural category for him. *(Same handling as Stage 16.5.)*
+
+### The narrative
+
+> **Daniel 1:5** — ESV: "The king assigned them **a daily portion of the food that the king ate, and of the wine that he drank**."
+
+> **Daniel 1:8** — ESV: "But **Daniel resolved that he would not defile himself with the king's food, or with the wine that he drank**." CJB: "Dani'el **resolved that he would not defile himself**… so he asked the chief officer to be excused."
+
+> **Daniel 1:12** — ESV: "**Test your servants for ten days; let us be given vegetables to eat and water to drink.**" CJB: "for ten days have them give us **only vegetables to eat and water to drink**."
+
+**Hebrew: זֵרֹעִים — *zērōʿîm*** — literally closer to **"things sown / grown from seed,"** so it can encompass plant foods more broadly than English "vegetables" implies.
+
+> **Daniel 1:15** — ESV: "At the end of ten days it was seen that they were **better in appearance and fatter in flesh** than all the youths who ate the king's food." CJB: "they **looked better and more robust**."
+
+> **Daniel 1:16–17** — ESV: "So the steward took away their food… and gave them vegetables. As for these four youths, **God gave them learning and skill in all literature and wisdom, and Daniel had understanding in all visions and dreams**."
+
+### 🔧 Two corrections to the recollection, both recorded
+
+| Recollection | The text |
+|---|---|
+| *Daniel was told in a vision / by an angel not to eat* | **No.** Daniel **"resolved"** — he acts on an **already-formed conviction**. No angel, no vision, no command reported. **The visions come *afterward*, as a gift** (1:17) |
+| *The others became weaker* | **No.** The text says Daniel and his companions were **better in appearance and fatter/more robust** — a comparative statement about the four, not a decline in the others |
+
+> **The corrected sequence is better than the remembered one:** **Daniel resolves not to defile himself → acts on conviction → Yahweh honors the four → Yahweh gives knowledge and wisdom → Daniel receives understanding of visions and dreams.** The visions are the *result*, not the instruction.
+
+### ⚠️ Why the king's food would defile — Daniel does not say
+
+**Daniel tells us *that* it would defile him. He does not explicitly tell us *why*.** Historically plausible explanations:
+
+- royal food including **species prohibited by Torah**
+- meat **not prepared according to Israelite requirements concerning blood**
+- **association with Babylonian idolatrous practice or offerings**
+- **inability to verify preparation and provenance**
+
+> ### 🔑 **And notice: Daniel refuses the WINE too.**
+>
+> **Wine is not intrinsically prohibited by Torah** — Israel drank wine. **Therefore "the king was serving pork" cannot by itself explain Daniel's decision.** Something broader is involved.
+
+**Sentence to preserve verbatim, because it will be objected to later:**
+
+> **Possible association with Babylonian idolatry — plausible, but Daniel 1 does not explicitly identify idol sacrifice as the reason for Daniel's refusal.**
+
+**If someone asks "where does Daniel say Nebuchadnezzar's meat had been sacrificed to idols?" — the answer is *he doesn't*. The argument does not need him to.** The narrower established fact is the stronger one:
+
+> ### **ESTABLISHED: Daniel believed consuming the king's provisions would defile him, and therefore requested plant food and water instead. WHY remains an exegetical question.**
+
+### Intertextual relevance to Romans 14 — precisely bounded
+
+> **ESTABLISHES:** there was **already a scriptural precedent** for a faithful Israelite in a pagan environment to avoid questionable food altogether **by restricting himself to plant food**.
+>
+> **DOES NOT ESTABLISH:** that the Roman believer of Romans 14:2 was following Daniel's reasoning, or facing the same circumstances. **Possible explanation, not established identification.**
+
+**Three environments, three food problems — not the same dispute, but a real biblical category:**
+
+| **Babylon** | Daniel refuses royal provisions he believes would defile him |
+| **Corinth** | believers encounter meat potentially associated with pagan sacrifice |
+| **Rome** | some believers abstain from meat entirely and eat vegetables |
+
+> ### **Together they establish that *food provenance in a pagan environment is a genuinely biblical problem* — which is far stronger than importing a modern historical theory into Romans 14.**
+
+---
+
+## 🔧 CORRECTION to §23 as first written (2026-08-13)
+
+**Stage 18 originally recorded:** *"whatever is happening in Rome, at least one party's practice extends well beyond avoiding Levitically unclean animals."*
+
+> **That is true of the *behavior* and potentially misleading about the *reason*.**
+>
+> **Daniel 1 shows exactly how someone trying to remain faithful to Torah could end up eating only vegetables** — not because they had adopted some practice beyond Torah, but **because the surrounding food supply was unverifiable.** The behavior exceeds Leviticus 11; **the motivation may be Torah-faithfulness under conditions where compliance cannot be confirmed.**
+>
+> **§23 is amended below. The original wording is preserved here rather than overwritten** — and this is the methodology catching a real overreach of its own, which is the point of keeping the record.
+
+---
+
 ## 23. Romans 14 — and the Vegetarian Problem
 
 > **Romans 14:2** — ESV: "One person believes he may eat anything, while **the weak person eats only vegetables**." CJB: "another whose trust is weak **eats only vegetables**."
 
 **Greek: λάχανα — *lachana*, vegetables/plants/herbs.**
 
-> ### ❗ **This immediately blocks the standard reading.**
+> ### ❗ **This blocks the standard reading.**
 >
-> The passage is often read as *Torah-observant Jew refusing pork vs. Christian who understands pork is now permitted.* **But Torah never required Jews to eat only vegetables.** **So whatever is happening in Rome, at least one group's practice extends well beyond avoiding Levitically unclean animals.**
+> The passage is often read as *Torah-observant Jew refusing pork vs. Christian who understands pork is now permitted.* **But Torah never required Jews to eat only vegetables.**
+>
+> **AMENDED per §22.5:** the abstaining party's **behavior** extends beyond avoiding Levitically unclean species. **Their *motivation* need not.** Daniel demonstrates that a Torah-faithful person can land on plant-food-only **precisely because compliance cannot be verified in a pagan food supply.** *(Original wording preserved in the correction block above — this is a real overreach caught by the method.)*
+
+**If the concern were only Leviticus 11, a Torah-observant Jew could still eat** cattle, sheep, goats, clean birds, clean fish. **The "weak" believer eats only vegetables — a broader avoidance strategy.** Candidate reasons at §25. **The text does not specify which. We do not pretend certainty.**
 
 > **Romans 14:3** — ESV: "**Let not the one who eats despise the one who abstains, and let not the one who abstains pass judgment on the one who eats**, for God has welcomed him."
 
-**Note Paul's actual instruction is symmetrical — neither party is told to change their practice.** That is itself a datum about what kind of dispute this is.
+> **Romans 14:4** — ESV: "**Who are you to pass judgment on the servant of another?** It is before his own master that he stands or falls."
+
+**Paul's instruction is symmetrical — neither party is told to change practice.** That is itself a datum about the kind of dispute this is.
+
+> ### **The chapter's immediate concern is conscience, judgment, division, and mutual contempt — not a systematic treatise on biblical animal classification.**
+>
+> **The pastoral problem is that one believer is making another believer's scruple or liberty into a test of righteousness.** *(Which connects back to the posture this whole project opened with — 1 Thessalonians 5:21, and testing rather than condemning.)*
+
+### And then Paul introduces days
+
+> **Romans 14:5** — ESV: "**One person esteems one day as better than another, while another esteems all days alike. Each one should be fully convinced in his own mind.**" CJB: "One person considers some days **more holy** than others."
+
+**Food and days appear in the same dispute.** Candidate referents: **Sabbath? feast days? voluntary fast days? special abstinence days? other calendrical observances?**
+
+> ### 🚧 **We do not insert "Sabbath" merely because later Christians often use Romans 14 in Sabbath debates.** **What day-dispute did Paul actually have in mind? Open question** — [[04-open-questions]].
+
+### Romans 14:23 — recovering a verse this project used earlier
+
+> **Romans 14:23** — ESV: "**But whoever has doubts is condemned if he eats, because the eating is not from faith.**" CJB: "The doubter comes under condemnation if he eats, **because his action is not based on trust**."
+
+**This verse was used earlier in the project in its familiar summary form — "whatever does not proceed from faith is sin."** **Context restores its precision:** Paul is describing a believer **who eats while doubting whether he should.**
+
+> **The principle:** *if you violate conscience and act without faith/confidence before Yahweh, the act becomes sinful for you.*
+>
+> **NOT:** *whatever you don't feel good about is automatically objectively sinful.* **Much narrower — and the Contextual Question Principle is what recovered it.**
 
 ---
 
@@ -393,6 +497,125 @@ Aquatic creatures require fins and scales; further categories follow.
 > ### **Historical context is required before Romans 14 can be used as a universal repeal of Leviticus 11 — or as evidence that it isn't one.**
 >
 > **Investigate these; do not choose whichever explanation helps the current hypothesis.**
+
+---
+
+## 25b. Romans 14:14–20 — Where Paul Grants Liberty, and What Still Governs
+
+> **Romans 14:15** — ESV: "**For if your brother is grieved by what you eat, you are no longer walking in love.**" CJB: "**Do not, by your eating habits, destroy someone for whom the Messiah died!**"
+
+> **Romans 14:17** — ESV: "For **the kingdom of God is not a matter of eating and drinking but of righteousness and peace and joy in the Holy Spirit**." CJB: "The Kingdom of God is not eating and drinking, but **righteousness, *shalom* and joy in the *Ruach HaKodesh***."
+
+> ### **What 14:17 does NOT mean:** *food commandments can never matter.*
+> ### **What it means:** *food disputes must not become the essence of kingdom identity.* **A critical distinction.**
+
+> **Romans 14:20** — ESV: "Do not, for the sake of food, destroy the work of God. **Everything is indeed clean**, but **it is wrong for anyone to make another stumble by what he eats**."
+
+**Greek *kathara* — clean/pure — is broader than *koinos*.** **That is not neutralized here.** But even granting the broad liberty language, **the chapter's controlling concern remains conscience and love.**
+
+> ### **CURRENT BEST CLASSIFICATION: Romans 14 is much better evidence for *how believers should handle disputed food practices* than for *a systematic repeal of Leviticus 11*.**
+
+### ⚖️ But the continuing-food-law hypothesis is not protected either
+
+**Romans 14 contains genuinely broad liberty language. We do not neutralize it because it creates difficulty for a preferred reading.**
+
+| Confidence | Finding |
+|---|---|
+| **HIGH** | Paul does not treat food scruples as a basis for judging fellow believers |
+| **HIGH** | Paul allows some believers to eat more broadly while others abstain |
+| **HIGH** | He refuses to make those differences central to kingdom membership |
+| **⚠️ OPEN** | **Does Paul's liberty presuppose foods already biblically classified as edible, or does he intentionally expand the edible category beyond Torah's animal distinctions?** |
+
+**Unresolved. More evidence required.**
+
+---
+
+## 25c. 1 Corinthians 8–10 — Where the Dispute Is Named Outright
+
+**This is why Romans was paused first.** In Corinth **Paul names the controversy himself:**
+
+> **1 Corinthians 8:1** — ESV: "**Now concerning food offered to idols**: we know that 'all of us possess knowledge.' **This 'knowledge' puffs up, but love builds up.**" CJB: "**'knowledge' puffs a person up with pride; whereas love builds up.**"
+
+**Greek: εἰδωλόθυτα — *eidōlothyta*, food/meat sacrificed to idols. No ambiguity about the dispute.**
+
+> **1 Corinthians 8:4** — ESV: "'**an idol has no real existence**,' and… '**there is no God but one**.'"
+
+> **1 Corinthians 8:8** — ESV: "**Food will not commend us to God.** We are no worse off if we do not eat, and no better off if we do." CJB: "food will not improve our relationship with God — we will be **neither poorer if we abstain nor richer if we eat**."
+
+**Paul agrees at one level — and immediately introduces conscience and love.**
+
+### ❗ 8:1 is a warning aimed directly at this project
+
+> ### **"Knowledge puffs up, but love builds up."**
+>
+> **This project is building an enormous amount of knowledge.** Paul's warning is that **knowledge itself can become spiritually corrupting if it produces pride rather than love.**
+>
+> ### **Formalized: epistemic maturity is not measured only by how much truth one can articulate, but also by what that truth produces in character.**
+>
+> **Added to [[00b-biblical-epistemology]] and [[00-methodology-current]].** It is the first item in this framework that constrains the *investigator* rather than the *investigation*.
+
+### Paul does not treat idolatry lightly
+
+> **1 Corinthians 10:20** — ESV: "**what pagans sacrifice they offer to demons and not to God**… I do not want you to be participants with demons." CJB: "**I don't want you to become sharers of the demons!**"
+
+> **Two things held together that simplistic systems force apart: the idol itself is nothing, AND pagan sacrificial participation is spiritually dangerous.**
+
+### The market-meat instruction
+
+> **1 Corinthians 10:25** — ESV: "**Eat whatever is sold in the meat market without raising any question on the ground of conscience.**"
+
+**Strong-sounding — but what meat is in view?** **The chapter's explicit context is meat possibly connected to idol sacrifice.** Paul's point is: **don't interrogate every market purchase to discover whether it was previously sacrificed.** He then quotes:
+
+> **Psalm 24:1** — ESV: "**The earth is the LORD's and the fullness thereof**, the world and those who dwell therein."
+
+> ### **Paul is addressing provenance and idolatrous association.** *(Which touches the modern instinct about unknown preparation — though Paul's situation is ancient pagan-sacrificial provenance, not modern agricultural processing. **Axis 2, different specifics.**)*
+
+### And then the conscience exception
+
+> **1 Corinthians 10:28** — ESV: "But if someone says to you, '**This has been offered in sacrifice**,' then **do not eat it**, for the sake of the one who informed you, and for the sake of conscience."
+
+> ### **The physical meat has not chemically changed. The relational and spiritual context has.**
+> ### **Meaning and participation determine the act** — the **Meaning-Attached-to-Action** principle from Stage 17, appearing here independently.
+>
+> **This is exactly why "clean food" cannot be reduced to animal species in every New Testament dispute.**
+
+### The governing principle
+
+> **1 Corinthians 10:31–32** — ESV: "**whether you eat or drink, or whatever you do, do all to the glory of God. Give no offense to Jews or to Greeks or to the church of God.**" CJB: "**Do not be an obstacle to anyone** — not to Jews, not to Gentiles, and not to God's Messianic Community."
+
+**Not** *maximize personal freedom.* **Not** *maximize personal restriction.* **Glorify Yahweh.** Paul's ethical frame is profoundly relational.
+
+### What Corinth does and does not do for Romans
+
+> **We cannot prove the Roman dispute is identical to Corinth's** — different city, different assembly, different letter.
+>
+> **But Corinth is documented evidence that first-century believers really did have food controversies involving idolatrous provenance and conscience.** So when Romans 14 presents a vegetarian believer, **concern about market meat and idolatrous association becomes historically plausible.**
+>
+> ### **Not proven. Plausibility strengthened.** *(And note it now has an Old Testament precedent too — §22.5.)*
+
+---
+
+## 25d. Colossians 2 — a Different Kind of Challenge
+
+> **Colossians 2:16** — ESV: "Therefore **let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath**." CJB: "in regard to **a Jewish festival or *Rosh-Hodesh* or *Shabbat***." RVR1960: "en cuanto a **días de fiesta, luna nueva o días de reposo**."
+
+**A cluster: food · drink · festival · new moon · Sabbath — explicitly Jewish-calendar language.**
+
+> **Colossians 2:17** — ESV: "These are **a shadow of the things to come, but the substance belongs to Christ**." CJB: "These are a shadow of things that are coming, but **the body is of the Messiah**." RVR1960: "**el cuerpo es de Cristo**."
+
+**There is the shadow → reality model again** ([[00p-sacrifice-priesthood-and-fulfillment]] §7).
+
+> **🔍 Translation note:** Greek **σῶμα — *sōma*** literally means **body**. **ESV renders it "substance" (abstract); CJB and RVR1960 keep "body."** Those diverge: *substance* reads as the philosophical reality casting the shadow; ***body*** may point to **the body of Messiah** — i.e. the assembly. **Recorded as a live fork, not adjudicated.**
+
+### ⚠️ And what exactly is being prohibited?
+
+**The verse says "let no one *judge* you."** **That is not identical to "never observe them."** **Which is it — observing those things, or being judged by others concerning them? Context matters.**
+
+> **Colossians 2:20–23** — ESV: "why… do you submit to regulations — '**Do not handle, Do not taste, Do not touch**'… according to **human precepts and teachings**? These have indeed an appearance of wisdom in promoting **self-made religion and asceticism and severity to the body**." CJB: "**self-imposed religious observances, false humility and asceticism**." RVR1960: "**culto voluntario, en humildad y en duro trato del cuerpo**."
+
+> ### **There is the asceticism defined in the glossary — named explicitly by Paul.**
+>
+> **So Colossians may involve not merely Torah observance but additional restrictive teachings involving bodily denial**, described as *human precepts* and *self-made religion*. **That complicates using 2:16 as a simple "Sabbath and food laws abolished."** It may still carry implications for those matters — **but the whole argument is required, not the one verse.**
 
 ---
 
@@ -442,6 +665,18 @@ Aquatic creatures require fins and scales; further categories follow.
 | **⚠️ UNRESOLVED** | What **Acts 15:21** means for ongoing instruction of Gentile believers |
 | **⚠️ UNRESOLVED** | Whether **Genesis 9:3's** "every moving thing" included already-unclean species |
 | **⚠️ UNRESOLVED** | Whether Leviticus's "unclean **to you**" is ontological or covenantally scoped |
+| **HIGH** *(added 2026-08-13)* | **Daniel resolved** the king's provisions would defile him and requested plant food and water — **acting on prior conviction, not on a vision or angelic command** |
+| **HIGH** | Daniel **also refused the wine**, which Torah does not prohibit — so prohibited species alone cannot explain his decision |
+| **HIGH** | Paul does not treat food scruples as grounds for judging fellow believers; **his Romans 14 instruction is symmetrical** |
+| **HIGH** | **1 Corinthians names its dispute outright**: *eidōlothyta*, food sacrificed to idols |
+| **HIGH** | Paul holds **"an idol is nothing"** and **"pagan sacrifices are offered to demons"** together |
+| **HIGH** | **1 Cor 10:28** — identical meat, refused once its sacrificial association is disclosed. **Meaning and participation change the act** |
+| **HIGH** | **Colossians 2:20–23 explicitly names asceticism** and "human precepts," so 2:16 is not a simple abolition statement |
+| **⚠️ UNRESOLVED** | **Why** the king's provisions would defile Daniel — species, blood, idolatrous association, unverifiable provenance, or a combination |
+| **⚠️ UNRESOLVED** | Which **day-dispute** Romans 14:5 has in view (Sabbath is **not** to be inserted by default) |
+| **⚠️ UNRESOLVED** | Whether Paul's Romans 14 liberty **presupposes** foods already classified edible, or **expands** the category beyond Torah's animal distinctions |
+| **⚠️ UNRESOLVED** | Colossians 2:17's *sōma* — abstract "substance," or **the body of Messiah**? |
+| **⚠️ UNRESOLVED** | Whether Colossians 2:16 prohibits **observing** those things or **being judged** concerning them |
 
 ---
 
@@ -453,9 +688,37 @@ Aquatic creatures require fins and scales; further categories follow.
 >
 > **The method therefore required restraint in both directions.** I could not use Peter's vision to repeal Leviticus without addressing Peter's own interpretation. **But neither could I use Peter's interpretation to prove the vision had no secondary implications for food.** Primary meaning had to be established before secondary implication could even be considered.
 
+> **Prose — food became a question about love before it became a verdict:** Romans 14 frustrated my desire for a clean legal answer, because Paul seemed more interested in what believers were doing *to one another* than in settling the menu. One ate broadly; another ate only vegetables. One esteemed particular days; another did not. **Paul refused to let either side turn those differences into contempt or condemnation.** The kingdom, he said, was not food and drink but righteousness, peace, and joy in the Ruach.
+>
+> Then Corinth sharpened the historical picture. Meat really could carry complicated associations with pagan sacrifice, markets, conscience, and participation in idolatrous worship. **Paul could simultaneously say that an idol is nothing and that pagan sacrifices are offered to demons.** The same meat could be eaten in one setting and refused in another **because participation, conscience, and love changed the moral meaning of the act.**
+>
+> **The investigation was becoming harder to reduce to "clean versus unclean species."** Scripture cared about the creature — but also about the covenant, the preparation, the worship attached to it, the conscience of the eater, and the effect upon another person.
+>
+> And Daniel had already been standing there the whole time. A young man in Babylon, handed the king's food and the king's wine, deciding in advance that he would not defile himself — and asking for seeds and water instead. **He does not tell us why.** I had half-remembered an angel instructing him, and there is none; **he simply resolved.** The visions come later, as a gift. **What he gives this investigation is not an answer but a category: a faithful man, in a pagan food supply he could not verify, choosing plants.** Which is precisely what I had been too quick to call a practice *beyond* Torah.
+
 > **Prose — the parenthesis nobody mentions:** What unsettled me most was smaller and more technical. Every English Bible I had ever read put a parenthesis at the end of Mark 7:19 — *thus he declared all foods clean* — and I had absorbed it as though it were Mark's plain sentence. **It is a participle in Greek, with no stated subject.** One of my three witnesses, the Spanish, simply keeps the participle and lets the ambiguity stand. Another adds a single word, *ritually*, that narrows the claim considerably. **Three translations, three different degrees of interpretation, presented to the reader as translation.**
 >
 > I do not know yet how that grammar resolves. **What I know is that I had been quoting a conclusion while believing I was quoting a verse.**
+
+---
+
+## 27b. 1 Timothy 4:1–5 — the Hardest Food Passage, Named and Not Softened
+
+> ### **This is where a continuing-Levitical-diet reading receives one of its strongest challenges. It is not softened. It gets full pressure in the next stage.**
+
+> **1 Timothy 4:1** — ESV: "the Spirit expressly says that **in later times some will depart from the faith** by devoting themselves to deceitful spirits and teachings of demons."
+
+> **1 Timothy 4:3** — ESV: "**who forbid marriage and require abstinence from foods that God created to be received with thanksgiving** by those who believe and know the truth."
+
+> **1 Timothy 4:4–5** — ESV: "**For everything created by God is good, and nothing is to be rejected if it is received with thanksgiving, for it is made holy by the word of God and prayer.**" CJB: "nothing received with thanksgiving needs to be rejected, **because the word of God and prayer make it holy**."
+
+**Three things to carry into the next stage, stated now so none can be quietly dropped:**
+
+1. **The question of scope.** Does "everything created by God" mean **every organism is therefore biblically classified as food**, or is Paul speaking of things already understood as ***brōmata***, foods? **These are not the same claim, and 4:3 uses "foods" of the very things in dispute.**
+2. **The opponents' profile.** They **forbid marriage** *and* require abstinence — **an ascetic target, not a Levitical one.** *(Recorded as an observation about the passage's opponents, not yet as an argument. Colossians 2:20–23 names asceticism in the same breath as food rules, which may or may not be the same movement.)*
+3. **🔑 "By the word of God."** That phrase may turn out to matter far more than it first appears — **if foods are sanctified *by the word of God*, the obvious next question is which word, and what it says about foods.** Flagged now; not cashed.
+
+> **This cannot be answered by preference. We follow Paul's argument.**
 
 ---
 

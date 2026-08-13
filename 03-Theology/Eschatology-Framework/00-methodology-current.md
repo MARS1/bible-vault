@@ -246,6 +246,15 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 
 ---
 
+## The Rule That Constrains the Investigator *(added v1.4)*
+
+> **1 Corinthians 8:1 — "Knowledge puffs up, but love builds up."**
+>
+> ### **Epistemic maturity is not measured only by how much truth one can articulate, but also by what that truth produces in character.**
+> ### **Being correct about a proposition does not automatically make one's conduct righteous.**
+
+**Every other rule in this file governs the investigation. This one governs the investigator.** Paul places the warning in the same sentence that opens the food-and-idols dispute — exactly where the knowledgeable party was about to be right and destructive simultaneously. **A project accumulating this much knowledge is the intended audience.**
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -270,6 +279,7 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **1.4** | 2026-08-13 | Added **the rule that constrains the investigator** (1 Corinthians 8:1 — knowledge puffs up; being correct about a proposition does not make one's conduct righteous). Every other rule governs the investigation; this one governs the person running it. |
 | **1.3** | 2026-08-12 | Added the **Contextual Question Principle** (identify the author's actual dispute before citing a passage), **Parallel-Text Control**, and the **two-axis distinction** for "clean food" (species vs preparation/provenance) — all from Stage 18. Glossary gained *asceticism* and the *koinos*/*akathartos* distinction. |
 | **1.2** | 2026-08-12 | Added **Covenantal Jurisdiction** (5 questions to run on any command) and **Meaning-Attached-to-Action**, both from Stage 17. Added the **Corrected Institution-Tracing Model**, replacing the Stage 16 "Mosaic shadow → reality" formula that circumcision broke by predating Sinai. Added the **Covenant Relationship Rule** as rule 5 (from Stage 16.5). |
 | **1.1** | 2026-08-12 | Added the **Extrabiblical Source Protocol** (source hierarchy; *failed access to one source ≠ verification failure*; the three-claim distinction between "1 Enoch says X" / "Second Temple Jews believed X" / "Leviticus means X") after a single-endpoint 403 was wrongly recorded as a verification failure at Stage 16 — the material proved fully verifiable on the fourth attempt. Added the **Localization Policy** and the `localization:` frontmatter field (ADR-0008). Added **Known Technical Debt**. |
