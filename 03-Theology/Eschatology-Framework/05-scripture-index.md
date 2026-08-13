@@ -1057,6 +1057,153 @@ ESV: "The Lord says to my Lord: 'Sit at my right hand, until I make your enemies
 CJB: "Adonai says to my Lord, 'Sit at my right hand, until I make your enemies your footstool.'"
 RVR1960: "Jehová dijo a mi Señor: Siéntate a mi diestra, Hasta que ponga a tus enemigos por estrado de tus pies."
 
+## Clean and Unclean — From Noah to Messiah (see [[00s-clean-and-unclean-from-noah-to-messiah]])
+
+> **Localization (ADR-0008):** ESV/CJB verified; NIV added at Mark 7:19 for comparison; **RVR1960 MATERIALLY RELEVANT at Mark 7:19.** Hebrew: *tahor*, *qadosh*. Greek: *katharizōn panta ta brōmata*, *brōmata*, *koinos*, *akathartos*, *lachana*.
+
+### Before Sinai
+
+**Genesis 9:3–4** — ⚠️ the real difficulty, not explained away
+ESV (3): "Every moving thing that lives shall be food for you. And as I gave you the green plants, I give you everything."
+ESV (4): "But you shall not eat flesh with its life, that is, its blood."
+CJB (3): "Every moving thing that lives will be food for you; just as I gave you green plants before, so now I give you everything."
+CJB (4): "Only flesh with its life, which is its blood, you are not to eat."
+**The blood prohibition is given to NOAH — humanity broadly, not Israel. It reappears at Acts 15:20, 29.**
+*(Genesis 7:2 and 8:20 indexed above under Circumcision/Stage 17's bridge.)*
+
+### Sinai — the covenantal frame and the legislation
+
+**Exodus 19:5–6**
+ESV: "if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine; and you shall be to me a kingdom of priests and a holy nation."
+CJB: "you will be my own treasure from among all the peoples... and you will be a kingdom of cohanim for me, a nation set apart."
+Hebrew: **קָדוֹשׁ** *qadosh* — holy / set apart. **CJB renders it "set apart" outright.**
+
+**Leviticus 11:3**
+ESV: "Whatever parts the hoof and is cloven-footed and chews the cud, among the animals, you may eat."
+CJB: "Any that has a separate hoof which is completely divided and chews the cud — these animals you may eat."
+
+**Leviticus 11:7–8** — the explicit proposition
+ESV: "And the pig, because it parts the hoof and is cloven-footed but does not chew the cud, is unclean to you. You shall not eat any of their flesh, and you shall not touch their carcasses; they are unclean to you."
+CJB: "While the pig is unclean for you, because, although it has a separate and completely divided hoof, it doesn't chew the cud. You are not to eat meat from these or touch their carcasses; they are unclean for you."
+**Note "unclean TO you" / "for you" — the Covenantal Jurisdiction question.**
+
+**Leviticus 11:44–47** — Torah supplies its own stated reason
+ESV (44): "For I am the Lord your God. Consecrate yourselves therefore, and be holy, for I am holy."
+ESV (45): "You shall therefore be holy, for I am holy."
+ESV (47): "to make a distinction between the unclean and the clean and between the living creature that may be eaten and the living creature that may not be eaten."
+CJB (47): "Its purpose is to distinguish between the unclean and the clean, and between the creatures that may be eaten and those that may not be eaten."
+**Chain: holiness → separation → distinction → relationship with Yahweh. NOT presented as nutrition advice.**
+
+**Deuteronomy 14:2–3** — the same chain, independently
+ESV (2): "For you are a people holy to the Lord your God, and the Lord has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth."
+ESV (3): "You shall not eat any abomination."
+CJB (2): "you are a people set apart as holy for Adonai your God."
+CJB (3): "You are not to eat anything disgusting."
+
+### The Prophets — cutting both ways
+
+**Isaiah 65:2–4**
+ESV: "I spread out my hands all the day to a rebellious people, who walk in a way that is not good... sacrificing in gardens and making offerings on bricks; who eat pig's flesh, and broth of tainted meat is in their vessels"
+CJB: "they eat pig meat and their pots hold soup made from disgusting things"
+
+**Isaiah 66:17**
+ESV: "eating pig's flesh and the abomination and mice, shall come to an end together, declares the Lord"
+CJB: "eating pig meat, reptiles and mice, will all be destroyed together"
+**⚖️ Pig-eating sits inside rebellion/judgment language — so "the Prophets treat this as insignificant" is false. BUT the passages also involve pagan ritual — so "Isaiah damns anyone eating bacon" is not what they say either.**
+
+### Mark 7 — identify the dispute, then the participle
+
+**Mark 7:2, 5** — the actual controversy
+ESV (2): "they saw that some of his disciples ate with hands that were defiled, that is, unwashed."
+ESV (5): "Why do your disciples not walk according to the tradition of the elders, but eat with defiled hands?"
+CJB (2): "ate with ritually unclean hands, that is, without doing n'tilat-yadayim."
+CJB (5): "Why don't your talmidim live in accordance with the Tradition of the Elders?"
+
+**Mark 7:8** — ❗ the control verse
+ESV: "You leave the commandment of God and hold to the tradition of men."
+CJB: "You depart from God's command and hold onto human tradition."
+**Any reading of v.19 must survive standing next to v.8.**
+
+**Mark 7:15**
+ESV: "There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him."
+CJB: "There is nothing outside a person which, by going into him, can make him unclean."
+
+**Mark 7:19** — 🔴 FOUR TRANSLATIONS, FOUR DEGREES OF INTERPRETATION. See [[04-open-questions]] item 29.
+Greek: **καθαρίζων πάντα τὰ βρώματα** *katharizōn panta ta brōmata* — "cleansing all the foods." **A PARTICIPLE WITH NO STATED SUBJECT.**
+ESV: "(Thus **he declared** all foods clean.)"
+NIV: "(In saying this, **Jesus declared** all foods clean.)"
+CJB: "(Thus he declared all foods **ritually** clean.)"
+RVR1960: "Esto decía, **haciendo limpios** todos los alimentos." — **keeps the participle, supplies no subject**
+**Two interpretive moves visible: supplying "he declared," and (CJB alone) inserting "ritually." Every English parenthesis here is an interpretive act the reader isn't told about.**
+
+**Matthew 15:20** — PARALLEL-TEXT CONTROL; Matthew has NO parenthesis
+ESV: "These are what defile a person. But to eat with unwashed hands does not defile anyone."
+CJB: "These are what really make a person unclean, but eating without doing n'tilat-yadayim does not make a person unclean."
+RVR1960: "el comer con las manos sin lavar no contamina al hombre."
+
+### Acts 10–11 — the vision, and what Peter says it meant
+
+**Acts 10:11–13**
+ESV (11): "the heavens opened and something like a great sheet descending, being let down by its four corners upon the earth."
+ESV (12): "In it were all kinds of animals and reptiles and birds of the air."
+ESV (13): "Rise, Peter; kill and eat."
+CJB (13): "Get up, Kefa, slaughter and eat!"
+
+**Acts 10:15** — 🔍 CJB collapses the koinos distinction here
+ESV: "What God has made clean, do not call **common**."
+CJB: "Stop treating as **unclean** what God has made clean."
+
+**Acts 10:17** — Peter does NOT immediately conclude "pork is permitted"
+ESV: "Now while Peter was inwardly perplexed as to what the vision that he had seen might mean..."
+CJB: "Kefa was still puzzling over the meaning of the vision he had seen..."
+
+**Acts 10:34–35**
+ESV: "Truly I understand that God shows no partiality, but in every nation anyone who fears him and does what is right is acceptable to him."
+CJB: "I now understand that God does not play favorites, but that whoever fears him and does what is right is acceptable to him, no matter what people he belongs to."
+*(Acts 10:14 and 10:28 indexed above under the Commission investigation.)*
+
+**Acts 11:2–3** — ⚠️ note what Luke does NOT tell us
+ESV (3): "You went to uncircumcised men and ate with them."
+CJB (3): "You went into the homes of uncircumcised men and even ate with them!"
+**The objection is TABLE FELLOWSHIP with the uncircumcised. Luke never says what was on the table. "Peter ate unclean animals" = INFERENCE, UNSUPPORTED.**
+
+**Acts 11:18**
+ESV: "When they heard these things they fell silent. And they glorified God, saying, 'Then to the Gentiles also God has granted repentance that leads to life.'"
+CJB: "This means that God has enabled the Goyim as well to do t'shuvah and have life!"
+**Note: Luke does NOT use "the promise" here — connecting it to the Abrahamic promise is an intertextual conclusion, well-supported elsewhere.**
+
+**Acts 15:29** — the blood prohibition reappears
+ESV: "that you abstain from what has been sacrificed to idols, and from blood, and from what has been strangled, and from sexual immorality."
+CJB: "to abstain from what has been sacrificed to idols, from blood, from things strangled, and from fornication."
+
+### Romans 14 — the vegetarian problem and the koinos problem
+
+**Romans 14:2** — 🔴 blocks the standard reading
+ESV: "One person believes he may eat anything, while the weak person eats only vegetables."
+CJB: "One person has the trust that will allow him to eat anything, while another whose trust is weak eats only vegetables."
+Greek: **λάχανα** *lachana* — vegetables/plants/herbs. **Torah never required Jews to eat only vegetables.**
+
+**Romans 14:3** — note the symmetry; neither party told to change
+ESV: "Let not the one who eats despise the one who abstains, and let not the one who abstains pass judgment on the one who eats, for God has welcomed him."
+
+**Romans 14:14** — 🔴 Paul uses *koinos*, not *akathartos*. See [[04-open-questions]] item 30.
+ESV: "I know and am persuaded in the Lord Jesus that nothing is unclean in itself, but it is unclean for anyone who thinks it unclean."
+CJB: "nothing is unclean in itself. But if a person considers something unclean, then for him it is unclean."
+
+**Romans 14:20**
+ESV: "Do not, for the sake of food, destroy the work of God. Everything is indeed clean, but it is wrong for anyone to make another stumble by what he eats."
+CJB: "Don't tear down God's work for the sake of food. True enough, all things are clean; but it is wrong for anybody by his eating to cause someone to fall away."
+
+### 1 Timothy 4 — flagged in advance, not yet argued
+
+**1 Timothy 4:3–5**
+ESV (3): "who forbid marriage and require abstinence from foods that God created to be received with thanksgiving"
+ESV (4): "For everything created by God is good, and nothing is to be rejected if it is received with thanksgiving"
+ESV (5): "for it is made holy by the word of God and prayer"
+CJB (3): "They forbid marriage and require abstinence from foods which God created to be eaten with thanksgiving"
+CJB (4): "For everything created by God is good, and nothing received with thanksgiving needs to be rejected"
+**The question: does "everything created by God" mean every organism is now *brōmata*, or things already understood as foods? And note the opponents' profile — forbidding marriage AND requiring abstinence is an ASCETIC target, not a Levitical one.**
+
 ## What Is a Covenant — Signs, Parties, and *Berit Olam* (see [[00r-what-is-a-covenant]])
 
 **Hebrew: בְּרִית *berit* · Greek: διαθήκη *diathēkē* · idiom: כָּרַת בְּרִית *karat berit*, "to CUT a covenant"**

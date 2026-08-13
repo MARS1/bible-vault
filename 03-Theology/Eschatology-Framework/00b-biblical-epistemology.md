@@ -38,6 +38,12 @@ This file sits before [[01-convictions]] on purpose — it's the answer to "how 
 >
 > **Worked consequence:** "Shabbat is the covenant" is imprecise. **Shabbat is named a covenant *sign*** (Exodus 31:17) — as is the rainbow (Genesis 9:12–13) and circumcision (Genesis 17:11). This reframes the circumcision question from *"was a rule repealed?"* to ***"what happened to the sign's covenantal boundary-marker function?"***
 
+**Asceticism** — Greek **ἄσκησις — *askēsis***, originally *exercise/training*. *(Added 2026-08-12, Stage 18.)* **Deliberately denying oneself ordinary bodily comforts or pleasures as a form of spiritual discipline** — fasting, abstaining from particular foods, celibacy, simplicity, voluntary self-denial. **Note what it is NOT:** it says nothing about *how an animal was slaughtered* or about ritual purity — it concerns **voluntary abstention for religious reasons**. Relevant as one candidate explanation for Romans 14's vegetable-only party ([[00s-clean-and-unclean-from-noah-to-messiah]] §25), and directly relevant to **1 Timothy 4:3**, where Paul's opponents **forbid marriage *and* require abstinence from foods** — an ascetic profile rather than a Levitical one. **Listed as a candidate, not adopted as the explanation for Romans 14.**
+
+**Clean/unclean — two independent axes** *(added 2026-08-12, Stage 18)*. "Clean food" can silently mean several different things. **Axis 1 — species classification:** is this creature in a Levitically permitted category? **Axis 2 — preparation / provenance / condition:** how was it killed, was blood properly handled, was it offered to an idol, is it diseased or contaminated, does eating it violate conscience? **A Torah-clean animal can fail every Axis-2 question; an immaculately-raised animal can still be an Axis-1 unclean species.** Keeping them apart prevents a genuine conviction on one axis from silently deciding the other. Biblically-recognized Axis-2 concerns include Genesis 9:4 (blood), Acts 15:20/29 (strangled things, idol-meat), and 1 Corinthians 8–10.
+
+**κοινός / ἀκάθαρτος — *koinos* / *akathartos*** *(added 2026-08-12, Stage 18)*. ***Koinos*** = common, profane, defiled-by-association. ***Akathartos*** = the standard Septuagint term for animals categorized as **inherently unclean**. **English flattens both to "unclean"; Greek does not** — and **Peter distinguishes them in one breath at Acts 10:14, "common *or* unclean."** **Paul uses *koinos* at Romans 14:14.** Whether that distinction is load-bearing there is a live question, not a settled one — see [[04-open-questions]].
+
 **Epistemology** *(added 2026-08-12, Stage 16)* — the study of **how we know what we know**: what counts as evidence, how claims are tested, degrees of certainty, and when conclusions should be revised. **This is the correct name for what this project is building.** Exegesis and hermeneutics are *tools operating inside* it.
 
 > ### ⚠️ Terminology correction — "ecumenological" is a different word
@@ -153,6 +159,30 @@ The test runs in both directions. Collapse packages several things as one; **imp
 **Paul's explicit control — Galatians 3:17:** the law, "which came **430 years afterward, does not annul a covenant previously ratified by God**." **Later covenantal/legal development does not automatically nullify an earlier divine promise.** The Abrahamic promise survives Sinai.
 
 **Relation to the other rules:** Category Collapse asks whether the *question* is well-formed; this asks whether a *relationship between covenants* is being assumed rather than read. It pairs with Anti-Replacement — one prevents assuming cancellation, the other prevents assuming a rigid substitute. Full treatment: [[00r-what-is-a-covenant]] §9.
+
+## The Contextual Question Principle (formal rule, added 2026-08-12, Stage 18)
+
+> ### **Before using a passage as evidence for a theological proposition, first identify the question, controversy, or situation the author was actually addressing. A passage may have legitimate implications beyond its immediate context, but those implications must be demonstrated rather than assumed.**
+
+**Stated in the user's own words during Stage 18, and elevated because it had already been operating unnamed for several stages:** *"Don't ask a verse to answer a question its author wasn't necessarily addressing."*
+
+**Three worked applications in one stage** ([[00s-clean-and-unclean-from-noah-to-messiah]] §26):
+
+| Passage | The actual dispute |
+|---|---|
+| **Mark 7** | **eating with unwashed hands** (*n'tilat-yadayim*), under the tradition of the elders |
+| **Acts 10–11** | **Gentile inclusion** — Peter's own stated interpretation is about *persons* |
+| **Romans 14** | **still under investigation** — and the vegetable-only party shows it is not simply about Levitical categories |
+
+**Implications may grow *out of* the original context. They may not replace it.** **Exegesis before systematic theology.**
+
+**Relation to Category Collapse:** Category Collapse asks whether *our* question is well-formed; this asks what *the author's* question was. **A well-formed question asked of a passage that was answering a different one still produces a wrong answer.**
+
+## Parallel-Text Control (tool, added 2026-08-12, Stage 18)
+
+> **When two Gospels record the same episode, a narrower summary in one constrains an ambiguous clause in the other — because both authors are reporting the same event.**
+
+**Worked case:** **Matthew 15:20** summarizes the controversy as "**to eat with unwashed hands does not defile anyone**" — and **Matthew has no parenthesis at all** where Mark 7:19 has "(thus he declared all foods clean)." **Matthew's narrower scope has to constrain the reading of Mark's ambiguous participle.** *(It does not by itself settle the grammar — see [[00s-clean-and-unclean-from-noah-to-messiah]] §13.)*
 
 ## Covenantal Jurisdiction (formal rule, added 2026-08-12, Stage 17)
 

@@ -314,7 +314,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ pre-loads Shabbat with the right first question:** not *"is Saturday still commanded?"* but the eight structural questions, applied in order.
 
-## Stage 17 — Circumcision: Covenant Sign, Heart, and Messiah *(current)*
+## Stage 17 — Circumcision: Covenant Sign, Heart, and Messiah
 
 **File:** [[00q-circumcision-covenant-sign-and-heart]]
 
@@ -362,9 +362,53 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** food — where the same "it was merely Mosaic" answer will fail **for the second consecutive stage**.
 
+## Stage 18 — Clean and Unclean: From Noah to Messiah *(current)*
+
+**File:** [[00s-clean-and-unclean-from-noah-to-messiah]]
+
+> ### ⚠️ **NO VERDICT REACHED. Ends with an evidence-standing table and six items still unresolved.** That is the honest state of the material.
+
+- **Gen 7:2 — *tahor* / *lo tehorah* predate Sinai.** Brake immediately: Genesis does NOT say Noah observed Leviticus 11. **Gen 8:20 — the first explicit function is SACRIFICIAL.** Three-part precision: distinction explicit · sacrifice link explicit · **dietary prohibition NOT yet explicit**
+- **⚠️ GENESIS 9:3 IS A REAL DIFFICULTY AND IS NOT EXPLAINED AWAY** — "**every moving thing that lives shall be food for you… I give you everything**." A strong objection to any universal-pre-Sinai-*dietary* reading. **It stands.** Then 9:4 restricts **blood** — given to **Noah**, i.e. humanity, not Israel (a Covenantal Jurisdiction datum that reappears at Acts 15)
+- **Exodus 19:5–6 frames Leviticus** — Israel constituted **qadosh, set apart** (CJB renders it exactly that). **Leviticus 11:7–8 is explicit, not inference or tradition: Torah prohibits Israel from eating pig**
+- **"Unclean *to you*"** raises the jurisdiction question — ontological property for all humanity, or holiness boundary for Israel? **Genesis prevents saying the category began with Israel; Leviticus clearly applies the legislation to Israel. Both constraints stand; unresolved**
+- **Leviticus 11:44–47 supplies its OWN stated reason: holiness → separation → distinction → relationship with Yahweh.** Deuteronomy 14:2–3 repeats the chain independently. **Whatever is true about health, the text gives a theological reason** — any reduction to ancient nutrition advice contradicts the text's stated purpose
+- **⚖️ Isaiah 65:4 / 66:17 cut both ways, and both cuts recorded:** pig-eating sits inside prophetic rebellion-and-judgment language, **so "the Prophets treat this as insignificant" is false** — **but** the passages also involve pagan ritual, **so "Isaiah damns anyone eating bacon" is not what they say either**
+- **MARK 7 — identify the dispute first: *unwashed hands* (CJB names it, *n'tilat-yadayim*), under the tradition of the elders.** And **Mark 7:8 is the control verse** — Yeshua is portrayed criticizing people for **setting aside Yahweh's commandments for human tradition.** Any reading of v.19 must survive standing next to v.8
+- **🔴 MARK 7:19 — THE TRANSLATIONS SPLIT, AND THE GREEK IS A PARTICIPLE.** *katharizōn panta ta brōmata*, "cleansing all the foods," **with no stated subject.** ESV "**he declared**" · NIV "**Jesus declared**" · CJB "he declared all foods **ritually** clean" (adds an adverb that narrows the scope) · **RVR1960 "haciendo limpios" — KEEPS THE PARTICIPLE, supplies nothing.** **Every English parenthesis here is an interpretive act the reader is not told about.** Interest noted in both directions: CJB is Messianic Jewish, ESV/NIV are traditional-Christian — **which settles nothing about the grammar**. And even if the declarative reading is right, ***brōmata* still has to be defined**
+- **Matthew 15:20 — PARALLEL-TEXT CONTROL.** Matthew's summary is far narrower ("to eat with unwashed hands does not defile anyone") **and Matthew has no parenthesis at all**
+- **Peter as chronological witness (Acts 10:14):** he personally heard the Mark 7 teaching, and **years later** his reflexive answer is that he has never eaten anything common or unclean. **At minimum, Peter did not understand Yeshua as having instructed him to start eating unclean animals**
+- **Acts 10:17 — Peter is "inwardly perplexed."** If the meaning were "you may eat pork," Luke shows him not reaching it. **Then Cornelius's men arrive — Luke joins the vision to the visitors**
+- **Acts 10:28 + 10:34–35 — Peter supplies his OWN interpretation: not any *PERSON* common or unclean.** ✅ **VERY HIGH CONFIDENCE: the vision's primary narrative purpose is Gentile inclusion, not dietary permission** — and it is *Luke* who places that interpretation in the text
+- **⚖️ BUT THE BRAKE RUNS BOTH WAYS:** do not move from "primarily about people" to "therefore no food implication whatsoever." **The vision uses food categories; the command really is *kill and eat*.** Any dietary implication requires **additional** evidence. Precise position, neither more nor less
+- **🔬 ACTS 11 — the user's own catch, preserved as a worked observation/inference demonstration.** The objection is table fellowship with the uncircumcised — **but Luke never says what was on the table.** "Peter ate unclean animals at Cornelius's house" = **INFERENCE, UNSUPPORTED BY THE NARRATIVE.** And inserting one would be especially poor method **because Acts 10:14 just recorded him saying he never has. Had Luke wanted the double meaning, this is exactly where he'd have supplied it. He doesn't**
+- **Precision on what Acts 10–11 DOES establish:** Yahweh's saving work and the Ruach are not restricted to circumcised Israelites. **Connecting it to "the Abrahamic promise" is an intertextual conclusion — well-supported elsewhere, but Luke doesn't use "the promise" in Acts 11:18**
+- **Acts 15 reconnects to Noah** — the **blood** prohibition of Gen 9:4 reappears in the one list handed to Gentiles. Leviticus 17–18's *ger* laws are a second proposal; **not mutually exclusive. But we do NOT announce "Acts 15 is the Noahide laws"** — the text doesn't say that
+- **Both Acts 15 silences preserved:** it does **not** say "do not eat pork," **and** it does **not** say "you may now eat everything Leviticus prohibited." **Acts 15 alone cannot settle it — which is why verse-trading fails**
+- **🔴 ROMANS 14:2 BLOCKS THE STANDARD READING: "the weak person eats only VEGETABLES" (*lachana*).** **Torah never required Jews to eat only vegetables.** So at least one party's practice extends well beyond avoiding unclean species. And **Paul's instruction is symmetrical — neither party is told to change**
+- **🔴 ROMANS 14:14 USES *KOINOS*, NOT *AKATHARTOS*.** *Koinos* = common/profane/defiled-by-association; *akathartos* = the LXX term for inherently unclean animals. **Peter distinguishes them in one breath at Acts 10:14. English flattens both to "unclean." Greek does not.** Recorded as a live lexical question, **not** as a conclusion in either direction
+- **Five candidate explanations for Romans 14 tabled, none selected** — idol-meat, unknown preparation/provenance, ritual contamination, **ascetic practice**, community scruples
+
+**🆕 TWO NEW INSTRUMENTS:**
+- **THE CONTEXTUAL QUESTION PRINCIPLE** — *identify the question the author was actually addressing before citing the passage.* **Stated in the user's own words** ("don't ask a verse to answer a question its author wasn't necessarily addressing") and elevated because it had been operating unnamed for several stages. Distinct from Category Collapse: that asks whether *our* question is well-formed; this asks what *the author's* question was
+- **PARALLEL-TEXT CONTROL** — a narrower Gospel summary constrains the other's ambiguous clause
+- **TWO-AXIS DISTINCTION for "clean food"** — species classification vs preparation/provenance/condition. **Independent axes.** The modern concerns (how it was killed, processed, what it was given, provenance) sit almost entirely on Axis 2 — a real and biblically-recognized category (Gen 9:4, Acts 15, 1 Cor 8–10) — **but not the same question as species**
+
+**→ earns the next question:** what was actually happening at the Roman table?
+
 ---
 
 ## Next Stage (not yet written)
+
+**First — a short historical/exegetical investigation: what does "the weak eats only vegetables" most plausibly refer to?** If that can be identified, **Romans 14 becomes much harder to weaponize in either direction** — which is why it is done *before* moving on, not after.
+
+**Then the passages that genuinely pressure-test a continuing-dietary-distinction reading: 1 Corinthians 8–10 · Colossians 2:16–23 · 1 Timothy 4:1–5.**
+
+**The 1 Timothy 4 problem stated in advance:** 4:4's "**everything created by God is good, and nothing is to be rejected**" sounds devastating in isolation — **but 4:3 speaks of "foods that God created to be received with thanksgiving,"** so the question is whether "everything created" means *every organism is now food* or *things already understood as* brōmata. **And note the opponents' profile: they forbid marriage AND require abstinence — an ascetic target, not a Levitical one.** Recorded as an observation about the passage, not yet as an argument.
+
+---
+
+## Superseded — Previous "Next Stage" Entry (Stage 17 → 18), Preserved
 
 **Clean and unclean food.** Not "can Christians eat pork?" — too loaded, too narrow, and it presumes the categories. **The question:** what purpose do clean/unclean distinctions serve in Torah, what precedes Sinai, what does Yeshua actually say about food and defilement, what does Peter's vision actually mean in Acts 10, and what do the apostles subsequently require — or not require — of Gentiles?
 

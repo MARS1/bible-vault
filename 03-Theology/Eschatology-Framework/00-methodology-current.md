@@ -111,6 +111,16 @@ For every substantive claim or connection, **preserve where applicable**. Not ev
 
 ---
 
+## The Contextual Question Principle — Run BEFORE Citing Any Passage *(added v1.3)*
+
+> ### **Before using a passage as evidence, identify the question, controversy, or situation the author was actually addressing. Implications beyond that context must be *demonstrated*, not assumed.**
+
+**Ask:** *what dispute is this text answering?* — then ask whether your proposition is that dispute or a different one. **Worked:** Mark 7 = unwashed hands · Acts 10–11 = Gentile inclusion · Romans 14 = under investigation.
+
+**Companion tool — Parallel-Text Control:** when two Gospels report one episode, **the narrower summary constrains the broader one's ambiguous clause.** (Matthew 15:20 vs Mark 7:19.)
+
+**Companion distinction — two axes for "clean food":** **species classification** vs **preparation/provenance/condition**. Independent. Do not let a conviction on one silently settle the other.
+
 ## Covenantal Jurisdiction — Run on Every Command *(added v1.2)*
 
 **Before asking whether a command applies, ask who it was ever addressed to:**
@@ -260,6 +270,7 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **1.3** | 2026-08-12 | Added the **Contextual Question Principle** (identify the author's actual dispute before citing a passage), **Parallel-Text Control**, and the **two-axis distinction** for "clean food" (species vs preparation/provenance) — all from Stage 18. Glossary gained *asceticism* and the *koinos*/*akathartos* distinction. |
 | **1.2** | 2026-08-12 | Added **Covenantal Jurisdiction** (5 questions to run on any command) and **Meaning-Attached-to-Action**, both from Stage 17. Added the **Corrected Institution-Tracing Model**, replacing the Stage 16 "Mosaic shadow → reality" formula that circumcision broke by predating Sinai. Added the **Covenant Relationship Rule** as rule 5 (from Stage 16.5). |
 | **1.1** | 2026-08-12 | Added the **Extrabiblical Source Protocol** (source hierarchy; *failed access to one source ≠ verification failure*; the three-claim distinction between "1 Enoch says X" / "Second Temple Jews believed X" / "Leviticus means X") after a single-endpoint 403 was wrongly recorded as a verification failure at Stage 16 — the material proved fully verifiable on the fourth attempt. Added the **Localization Policy** and the `localization:` frontmatter field (ADR-0008). Added **Known Technical Debt**. |
 
