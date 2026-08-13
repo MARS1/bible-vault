@@ -1057,6 +1057,65 @@ ESV: "The Lord says to my Lord: 'Sit at my right hand, until I make your enemies
 CJB: "Adonai says to my Lord, 'Sit at my right hand, until I make your enemies your footstool.'"
 RVR1960: "Jehová dijo a mi Señor: Siéntate a mi diestra, Hasta que ponga a tus enemigos por estrado de tus pies."
 
+## What Is a Covenant — Signs, Parties, and *Berit Olam* (see [[00r-what-is-a-covenant]])
+
+**Hebrew: בְּרִית *berit* · Greek: διαθήκη *diathēkē* · idiom: כָּרַת בְּרִית *karat berit*, "to CUT a covenant"**
+
+### 🔴 *Berit olam* — same phrase, three institutions, three treatments
+
+| Institution | Text | ESV | CJB | RVR1960 |
+|---|---|---|---|---|
+| **Rainbow** | Gen 9:16 | "everlasting covenant" | "everlasting covenant" | — |
+| **Circumcision** | Gen 17:13 | "everlasting covenant" | "everlasting covenant" | "pacto perpetuo" |
+| **Shabbat** | Ex 31:16 | "**covenant forever**" | "**perpetual** covenant" | "pacto perpetuo" |
+
+**ESV renders the identical Hebrew inconsistently across the three. RVR1960 is the most consistent (*perpetuo*).** See [[04-open-questions]] item 25.
+
+### Covenant signs
+
+**Genesis 9:12–13** — the rainbow
+ESV (12): "This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations"
+ESV (13): "I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth."
+CJB (13): "I am putting my rainbow in the cloud — it will be there as a sign of the covenant between myself and the earth."
+
+**Genesis 9:16**
+ESV: "When the bow is in the clouds, I will see it and remember the everlasting covenant between God and every living creature of all flesh that is on the earth."
+CJB: "The rainbow will be in the cloud; so that when I look at it, I will remember the everlasting covenant between God and every living creature of any kind on the earth."
+
+**Exodus 31:16–17** — Shabbat as covenant sign, rooted in CREATION not only Sinai
+ESV (16): "Therefore the people of Israel shall keep the Sabbath, observing the Sabbath throughout their generations, as a covenant forever."
+ESV (17): "It is a sign forever between me and the people of Israel that in six days the Lord made the heavens and the earth, and on the seventh day he rested and was refreshed."
+CJB (16): "The people of Isra'el are to keep the Shabbat, to observe Shabbat through all their generations as a perpetual covenant."
+CJB (17): "It is a sign between me and the people of Isra'el forever; for in six days Adonai made heaven and earth, but on the seventh day he stopped working and rested."
+RVR1960 (16): "Guardarán, pues, el día de reposo los hijos de Israel, celebrándolo por sus generaciones por pacto perpetuo."
+RVR1960 (17): "Señal es para siempre entre mí y los hijos de Israel; porque en seis días hizo Jehová los cielos y la tierra, y en el séptimo día cesó y reposó."
+**Flagged for the later Shabbat stage, deliberately NOT cashed here: v.17 grounds it in creation.**
+
+### The covenants, in sequence
+
+**Genesis 15:18** — Abrahamic, "cut" (*karat*)
+ESV: "On that day the Lord made a covenant with Abram, saying, 'To your offspring I give this land, from the river of Egypt to the great river, the river Euphrates,'"
+CJB: "That day Adonai made a covenant with Avram: 'I have given this land to your descendants — from the Vadi of Egypt to the great river, the Euphrates River —'"
+
+**2 Samuel 7:12–16** — Davidic
+ESV (12): "When your days are fulfilled and you lie down with your fathers, I will raise up your offspring after you, who shall come from your body, and I will establish his kingdom."
+ESV (13): "He shall build a house for my name, and I will establish the throne of his kingdom forever."
+ESV (16): "And your house and your kingdom shall be made sure forever before me. Your throne shall be established forever."
+CJB (13): "He will build a house for my name, and I will establish his royal throne forever."
+CJB (16): "Thus your house and your kingdom will be made secure forever before you; your throne will be set up forever."
+
+### Paul's control on covenant relationships
+
+**Galatians 3:17** — the Covenant Relationship Rule's explicit warrant
+ESV: "the law, which came 430 years afterward, does not annul a covenant previously ratified by God"
+CJB: "the legal part of the Torah, which came into being 430 years later, does not nullify an oath sworn by God, so as to abolish the promise"
+RVR1960: "El pacto previamente ratificado por Dios para con Cristo, la ley que vino cuatrocientos treinta años después, no lo abroga"
+**🔍 Two translation data: CJB renders *diathēkē* "oath" (interpretive — Greek is not *horkos*); and CJB inserts "the legal part of the Torah" where ESV/RVR1960 read simply "the law," importing the very moral/civil/ceremonial-style partition flagged as theological taxonomy. Recorded, not adopted.**
+
+**Galatians 3:18**
+ESV: "if the inheritance comes by the law, it no longer comes by promise; but God gave it to Abraham by a promise"
+CJB: "if the inheritance comes from the legal part of the Torah, it no longer comes from a promise. But God gave it to Avraham through a promise"
+
 ## Circumcision — Covenant Sign and Heart (see [[00q-circumcision-covenant-sign-and-heart]])
 
 > **Localization (ADR-0008):** English research witnesses ESV/CJB verified. RVR1960 pulled selectively where translation-sensitive — marked 📌 below.

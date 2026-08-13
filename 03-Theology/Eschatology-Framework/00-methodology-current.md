@@ -103,7 +103,11 @@ For every substantive claim or connection, **preserve where applicable**. Not ev
 
 **4. Anti-Replacement Principle.** **Disproving interpretation A does not establish interpretation B.** Expanded semantic possibility requires renewed contextual testing, not immediate doctrinal substitution. *Apply preemptively where a stage's own conclusion is attractive.*
 
-**5. Distinguish explicit text from inference, and inference from speculation.** Every time.
+**5. The Covenant Relationship Rule.** **Later covenant ≠ automatic cancellation of earlier ones. Earlier covenant ≠ every feature retaining identical administration forever.** **Scripture must state the relationship; it is never inferred from sequence.** Control: Galatians 3:17 — the law coming 430 years later does not annul the prior covenant. Test case: nobody claims circumcision replaced the rainbow covenant, *because Scripture never says so.*
+
+**6. Distinguish explicit text from inference, and inference from speculation.** Every time.
+
+**Before analyzing any covenant-related claim, run the eight structural questions** ([[00r-what-is-a-covenant]] §2): parties · relationship established · Yahweh's promise · required response · sign · blessings/curses · duration · purpose in the developing story. **And keep apart:** covenant · promise · commandment · obligation · sign · blessing · curse. **They are related, not synonymous.**
 
 ---
 

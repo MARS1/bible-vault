@@ -29,6 +29,15 @@ This file sits before [[01-convictions]] on purpose — it's the answer to "how 
 
 **Intertextuality** — the study of how one text echoes, quotes, alludes to, reuses, or develops another. In biblical interpretation, intertextual analysis asks how later writers draw on earlier Scripture and how those earlier contexts constrain or illuminate the later passage. An **intertextual question** is simply: *is this passage deliberately drawing on that earlier passage, and if so, what does the earlier context contribute to its meaning?* **This vault has been doing intertextual work extensively before naming it** — Matthew 24:30 ↔ Daniel 7 and Zechariah 12; Matthew 24:29 ↔ Isaiah 13/34, Ezekiel 32, Joel; Matthew 24:31 ↔ Deuteronomy 30, Isaiah 11/27, Zechariah 2; Revelation 6 ↔ Isaiah 34; Acts 15 ↔ Amos 9; Acts 13 ↔ Isaiah 49; Jude 14–15 ↔ 1 Enoch 1:9. See **Intertextual Priority** below for the governing rule.
 
+**Covenant** — Hebrew **בְּרִית — *berit***; Greek **διαθήκη — *diathēkē***. *(Added 2026-08-12, Stage 16.5 — full treatment in [[00r-what-is-a-covenant]].)* **A solemn, binding relationship established by commitments or promises** — typically involving specified parties, obligations, signs, blessings, consequences, and sometimes an oath or sacrifice. Hebrew idiom: one **cuts** a covenant (**כָּרַת בְּרִית — *karat berit***), tying covenant to sacrifice at the level of vocabulary.
+
+> ### ❗ **The covenant is not identical to the commandments associated with it.**
+> **Distinguish, and never treat as synonyms:** **covenant** (the relational arrangement) · **promise** (what Yahweh commits to accomplish) · **commandment** (what Yahweh commands) · **covenant obligation/stipulation** (what a particular arrangement requires) · **covenant sign** (a visible marker) · **covenant blessing** · **covenant curse/judgment**. **Conflating these is a Category Collapse.**
+>
+> **Sharpening:** a covenant *contains* promises but is more relational and structured than a bare promise. **Every covenant involves commitments; not every promise in Scripture is itself a covenant.**
+>
+> **Worked consequence:** "Shabbat is the covenant" is imprecise. **Shabbat is named a covenant *sign*** (Exodus 31:17) — as is the rainbow (Genesis 9:12–13) and circumcision (Genesis 17:11). This reframes the circumcision question from *"was a rule repealed?"* to ***"what happened to the sign's covenantal boundary-marker function?"***
+
 **Epistemology** *(added 2026-08-12, Stage 16)* — the study of **how we know what we know**: what counts as evidence, how claims are tested, degrees of certainty, and when conclusions should be revised. **This is the correct name for what this project is building.** Exegesis and hermeneutics are *tools operating inside* it.
 
 > ### ⚠️ Terminology correction — "ecumenological" is a different word
@@ -130,6 +139,20 @@ The test runs in both directions. Collapse packages several things as one; **imp
 **Worked case — the moral / civil / ceremonial division of Torah** ([[00o-new-covenant-what-changed]] §13). The framework has genuine analytical use, but **Torah does not present three formally labeled codes under those names.** They are **theological taxonomy, not biblical terminology**, and must be labeled as such wherever this project uses them. This is not a refutation of the division — it is a requirement to **argue for it rather than assume it**, since arguments like "the ceremonial law passed, the moral law remains" depend on the split being real. **Diagnostic:** if a category does real work in an argument, ask whether the text named it or whether an interpreter did. **Test case that exposes it:** circumcision is an *Abrahamic* covenant sign predating Sinai (Genesis 17:10–11) — the difficulty of placing it in any of the three boxes is itself evidence about the boxes.
 
 **Both faces are the same failure:** not letting the text define its own units.
+
+## The Covenant Relationship Rule (formal rule, added 2026-08-12, Stage 16.5)
+
+> **Neither of these may be assumed:**
+> - ❌ **later covenant = automatic cancellation of every preceding covenant**
+> - ❌ **earlier covenant = every feature necessarily retains identical administration forever**
+>
+> ### **Scripture must tell us the relationship. It is never inferred from sequence alone.**
+
+**The rainbow is the decisive test case precisely because it is uncontroversial.** Nobody argues *"since circumcision came later, Yahweh replaced the rainbow covenant"* — **and the only reason is that Scripture never says so.** That is the discipline required everywhere else.
+
+**Paul's explicit control — Galatians 3:17:** the law, "which came **430 years afterward, does not annul a covenant previously ratified by God**." **Later covenantal/legal development does not automatically nullify an earlier divine promise.** The Abrahamic promise survives Sinai.
+
+**Relation to the other rules:** Category Collapse asks whether the *question* is well-formed; this asks whether a *relationship between covenants* is being assumed rather than read. It pairs with Anti-Replacement — one prevents assuming cancellation, the other prevents assuming a rigid substitute. Full treatment: [[00r-what-is-a-covenant]] §9.
 
 ## The Eleven-Question Protocol for a Torah Command *(added 2026-08-12, Stage 15)*
 
