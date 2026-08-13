@@ -154,6 +154,33 @@ The test runs in both directions. Collapse packages several things as one; **imp
 
 **Relation to the other rules:** Category Collapse asks whether the *question* is well-formed; this asks whether a *relationship between covenants* is being assumed rather than read. It pairs with Anti-Replacement — one prevents assuming cancellation, the other prevents assuming a rigid substitute. Full treatment: [[00r-what-is-a-covenant]] §9.
 
+## Covenantal Jurisdiction (formal rule, added 2026-08-12, Stage 17)
+
+> **Whenever a command is encountered, ask: who received it, under what covenant, for what purpose, at what scope — and what does later Scripture do with it?**
+
+1. **Who received it?**
+2. **Under what covenant?**
+3. **For what purpose?**
+4. **Was it universal, national, priestly, familial, individual, temporary, typological, or otherwise scoped?**
+5. **Does later Scripture reaffirm it, transform its administration, expand it, narrow it, or identify its fulfillment?**
+
+**Scripture supplies the principle abundantly:** Noah was commanded to build an ark; Abraham to offer Isaac; priests received obligations ordinary Israelites did not; Nazirites and kings had particular obligations; some requirements were distinguished by sex or circumstance.
+
+> ### **Therefore "Yahweh commanded X somewhere" does NOT establish "Yahweh commands X of every believer forever."**
+> ### **And the opposite error is equally dangerous: "that command wasn't addressed to me, therefore it contains nothing binding or instructive for me."**
+>
+> **Context determines scope — in both directions.** Both shortcuts avoid exegesis: one by discarding, one by flattening.
+
+**Relation to the Eleven-Question Protocol:** it **extends** rather than replaces it. **The Protocol asks what happened to a command; Jurisdiction asks who it was ever addressed to.** Worked case: [[00q-circumcision-covenant-sign-and-heart]] §35–36.
+
+## Meaning-Attached-to-Action (principle, added 2026-08-12, Stage 17)
+
+> **Biblical actions cannot always be classified morally without examining the meaning, purpose, and claim attached to the action in its context.**
+
+**Worked case — Timothy and Titus** ([[00q-circumcision-covenant-sign-and-heart]] §33). Paul **circumcises Timothy** (Acts 16:3) and **refuses Titus's compelled circumcision** (Galatians 2:3–5). **Same physical action; different covenantal claim attached.** Therefore physical circumcision cannot itself be what Paul opposes — the theological *function* is.
+
+**Same shape as two prior findings:** Acts 10's vision is about **people**, not menus (Peter says so); and Hebrews' "once for all" concerns **necessary sin offerings** specifically ([[00p-sacrifice-priesthood-and-fulfillment]] §10). **In each case the object of the claim determines the claim** — and misreading the object produces a confident answer to a question nobody asked.
+
 ## The Eleven-Question Protocol for a Torah Command *(added 2026-08-12, Stage 15)*
 
 The 7-step test below is for **passages**. This one is for **commands** — where "does this still apply?" is the question and the general test doesn't reach. Do **not** ask "which side am I on?" Ask:

@@ -388,6 +388,319 @@ Genesis calls circumcision **בְּרִית עוֹלָם — *berit olam***. Yet
 
 ---
 
+## 23. Ezekiel — Trajectory, Correctly Labeled
+
+> **Ezekiel 36:26–27** *(indexed)* — a **new heart**, a **new spirit**, His **Ruach within**, with the result that they walk in His statutes.
+
+**Ezekiel does not use the phrase *circumcision of the heart* in that passage, and we do not make him say it.** But compare the trajectories:
+
+| Text | Movement |
+|---|---|
+| **Deuteronomy 30:6** | Yahweh acts upon the **heart** → His people **love Yahweh** |
+| **Ezekiel 36:26–27** | Yahweh transforms the **heart** + gives His **Ruach** → they **walk in His ways** |
+| **Romans 2:29** | circumcision becomes a matter of the **heart, by the Spirit** |
+
+> **Correct label: intertextual theological trajectory — not direct quotation.** The relationship is strong; the citation formula is absent. **Labeling it accurately is what protects the argument**, because an opponent who checks will find exactly what we said was there.
+
+---
+
+## 24. Colossians 2:11 — Circumcision Language Applied to Messiah, With Restraint
+
+> **Colossians 2:11** — ESV: "In him also **you were circumcised with a circumcision made without hands**, by putting off the body of the flesh, **by the circumcision of Christ**." CJB: "you were circumcised with a circumcision **not done by human hands**, but accomplished by stripping away the old nature's control over the body." RVR1960: "fuisteis circuncidados con **circuncisión no hecha a mano**… en la circuncisión de Cristo."
+
+**Greek: ἀχειροποιήτῳ — *acheiropoiētō*, "not made with hands."**
+
+**Paul is not merely saying physical circumcision doesn't matter. He says something has happened that he *calls* circumcision.** Then he immediately links it:
+
+> **Colossians 2:12** — ESV: "**having been buried with him in baptism**, in which you were also raised with him through faith in the powerful working of God." CJB: "you were buried along with him **by being immersed**; and in union with him, you were also raised up along with him."
+
+> ### 🚧 Restraint applied — do NOT conclude "baptism replaced circumcision"
+>
+> **Some theological traditions argue exactly that**, and Colossians does place the two in close conceptual proximity. **But proximity ≠ automatic one-for-one replacement. Anti-Replacement Principle applies here too.**
+>
+> **The safer statement, and all the text supports:** **Paul describes believers' participation in Messiah using circumcision language, and immediately relates that participation to burial and resurrection with Messiah in immersion.**
+>
+> **Whether that establishes baptism as the formal New Covenant replacement for circumcision is a secondary theological inference requiring its own case.** Not made here.
+
+---
+
+## 25. Acts 8 — the Ethiopian, Handled as an Argument From Silence
+
+> **Acts 8:36** — ESV: "'**See, here is water! What prevents me from being baptized?**'" CJB: "'Look! Here's some water! Is there any reason why I shouldn't be immersed?'"
+
+**Philip immerses him. The narrative never says: circumcise him first.**
+
+| Layer | Statement |
+|---|---|
+| **OBSERVATION (Tier A)** | Acts 8 explicitly records immersion |
+| **OBSERVATION (Tier A)** | Acts 8 does **not** mention circumcision |
+| **REASONABLE INFERENCE (Tier B)** | Luke does not present physical circumcision as a prerequisite for this seeker's immersion |
+| **⚠️ CAUTION** | **An argument from silence cannot establish everything Philip did or did not teach.** Absence of mention ≠ evidence of absence |
+
+**And note the chronology:** Acts has **not yet reached** the circumcision controversy of Acts 15. **Luke's narrative development is itself doing something** — he shows the practice before he shows the argument about the practice.
+
+*(The eunuch's covenantal status was deliberately left undetermined in [[00c-commission-covenant-investigation]]; that ruling stands.)*
+
+---
+
+## 26. Cornelius — Where Inference Becomes Unnecessary
+
+**Acts 10 is stronger, because acceptance is not inferred from immersion. Yahweh acts first.**
+
+> **Acts 10:45** — ESV: "And the believers from among the circumcised who had come with Peter were **amazed, because the gift of the Holy Spirit was poured out even on the Gentiles**."
+
+> **Acts 10:47** — ESV: "**Can anyone withhold water for baptizing these people, who have received the Holy Spirit just as we have?**" CJB: "Is anyone prepared to prohibit these people from being immersed in water? **After all, they have received the *Ruach HaKodesh*, just as we did.**"
+
+> ### **The sequence is: Ruach → immersion.**
+> ### **NOT: circumcision → covenant admission → Ruach.**
+>
+> **And Yahweh Himself initiates it.** That is precisely what makes it Peter's evidence in Acts 15:8 — **he is not arguing from principle, he is reporting what Yahweh did in front of witnesses who were "amazed" by it.**
+
+**This is the sequential reading of Acts paying out again.**
+
+---
+
+## 27. Acts 15 Is Not Inventing Gentile Inclusion
+
+**By Acts 15 the apostles are not debating whether Yahweh could possibly care about Gentiles.** They have already seen, in order:
+
+| Source | Already established |
+|---|---|
+| **Genesis 12** | nations blessed through Abraham |
+| **Isaiah** | nations coming to Yahweh (42, 49 — [[00c-commission-covenant-investigation]]) |
+| **Ezekiel 47:22–23** | foreigners treated as native-born in restored Israel *(indexed)* |
+| **Yeshua** | the centurion; the Canaanite woman |
+| **Acts 8** | Philip and the Ethiopian |
+| **Acts 10** | Peter and Cornelius |
+
+> ### **So the Acts 15 question is narrower still: *on what covenantal terms are Gentiles entering?***
+
+**And circumcision is the pressure point precisely because circumcision had historically marked incorporation into Abraham's covenant household** — which §28 now demonstrates from Torah rather than assuming.
+
+---
+
+## 28. Exodus 12:48 — the Control Case That Makes Acts 15 Larger, Not Smaller
+
+**Included deliberately, because without it we could accidentally pretend circumcision only ever concerned Abraham's biological descendants.**
+
+> **Exodus 12:48** — ESV: "**If a stranger shall sojourn with you and would keep the Passover** to the LORD, **let all his males be circumcised**. Then he may come near and keep it; **he shall be as a native of the land**. But no uncircumcised person shall eat of it." CJB: "**all his males must be circumcised**. Then he may take part and observe it; **he will be like a citizen of the land**."
+
+> **Before Messiah, Torah already provides a mechanism by which a foreigner participates deeply in Israel's covenantal life — and physical circumcision is part of that incorporation.**
+
+**Now set it beside Acts 15.** Gentiles are turning to Yahweh, **and the apostles explicitly refuse to impose circumcision as the requirement for inclusion.**
+
+> ### ✅ **Something covenantally significant has changed — and we do not need to minimize the earlier command to establish the later development.**
+> ### **In fact: the stronger Exodus 12:48 is, the more significant Acts 15 becomes.**
+>
+> **That is intellectually cleaner than the alternative**, which would be to weaken Exodus 12 in order to make Acts 15 look less surprising. **The surprise is the evidence.**
+
+---
+
+## 29. This Sharpens "Grafted Into Israel"
+
+**A refinement to language this project has used conversationally.** We have sometimes spoken as though Gentiles simply *"become Israelites."* **There is biblical truth being reached for, and it needs precision.**
+
+> **Ephesians 2:12** — ESV: "you were at that time separated from Christ, **alienated from the commonwealth of Israel and strangers to the covenants of promise**, having no hope and without God in the world." CJB: "You were estranged from **the national life of Isra'el**. You were **foreigners to the covenants embodying God's promise**."
+
+> **Ephesians 2:19** — ESV: "So then **you are no longer strangers and aliens, but you are fellow citizens with the saints** and members of the household of God." CJB: "you are **fellow-citizens with God's people and members of God's family**."
+
+**Romans 11 describes Gentiles as wild olive branches grafted into the cultivated tree.** Both are powerful **covenantal incorporation** language.
+
+> ### **But neither passage requires saying Gentiles become *ethnically* Israelite.**
+> ### **A Gentile can be incorporated into Yahweh's covenant people without retroactively becoming descended from Jacob.**
+
+### Ruth — the narrative analogue that settles it
+
+> **Ruth 1:16** — ESV: "**Your people shall be my people, and your God my God.**"
+
+**She is genuinely incorporated — and enters David's genealogy, and therefore Messiah's.**
+
+> **Ruth 2:2** — ESV: "**And Ruth the Moabite** said to Naomi…" CJB: "**Rut the woman from Mo'av** said to Na'omi…"
+
+> ### **Scripture does not rewrite her ancestry. It keeps calling her the Moabite — after the confession, after the incorporation, after everything.**
+>
+> ### **Incorporation does not require erasure of origin.**
+
+---
+
+## 30. Therefore "Messianic Israelite" Is Strengthened — *If* Defined
+
+**If the term is retained as a personal theological self-description, the manuscript must define it.** *(This is the second disciplining of the term; the first was [[00e-olive-tree-and-covenant-identity]].)*
+
+**NOT:** ❌ "I claim biological descent from Jacob."
+**NOT:** ❌ "Gentiles replace ethnic Israel."
+
+**Rather:**
+
+> ### **"I use *Messianic Israelite* to describe my understanding that through Yeshua HaMashiach I have been brought near to the covenants of promise and grafted into the covenant people whose story Scripture traces through Israel — while recognizing that this does not make me ethnically descended from Jacob."**
+
+> **Why the definition earns its place:** it prevents the framework from **accidentally reproducing replacement theology while attempting to reject it** — the same danger flagged at §16 regarding Romans 2:28. **The Ruth precedent is what makes the definition coherent rather than defensive:** she is fully incorporated *and* still called the Moabite.
+
+---
+
+## 31. Galatians 3:17 — Now Load-Bearing After the Covenant Sidebar
+
+> **Galatians 3:17** *(indexed at [[00r-what-is-a-covenant]])* — the Torah arrives **430 years later** and **"does not annul a covenant previously ratified by God."**
+
+**This is exactly the Covenant Relationship Rule** established at Stage 16.5: **later covenantal administration does not automatically destroy an earlier promise.**
+
+> **Galatians 3:18** — ESV: "if the inheritance comes by the law, it no longer comes by promise; **but God gave it to Abraham by a promise**."
+
+**Paul distinguishes *law* from *promise*** — which is why the covenant vocabulary now matters concretely. **Six terms, not collapsible into one:**
+
+**covenant · promise · Torah/law · commandment · covenant sign · inheritance**
+
+---
+
+## 32. So What Exactly Is Inherited?
+
+> **Galatians 3:29** *(indexed)* — "If you are Messiah's, then you are Abraham's offspring, **heirs according to promise**."
+
+**Note: *according to promise*.** That is **not** "Gentiles become physical descendants of Abraham through circumcision." **Paul's argument runs almost precisely the opposite direction.**
+
+> ### **Gentile believers become heirs *through Messiah*.**
+>
+> **Which explains why requiring physical circumcision would undermine Paul's argument structurally, not merely practically** — it would relocate covenantal status from **Messiah + faith** back toward a **physical boundary marker**. The requirement wouldn't just be unnecessary; it would contradict the mechanism.
+
+---
+
+## 33. Then Why Circumcise Timothy? — the Epistemological Payoff
+
+**Paul refuses Titus's compelled circumcision. Paul circumcises Timothy.** Therefore:
+
+> ### **Physical circumcision itself cannot be the sin Paul opposes.** The issue is its **theological function**.
+
+| | Same physical action | Different covenantal claim attached |
+|---|---|---|
+| **Timothy** | circumcised | mission / cultural circumstance |
+| **Titus** | circumcision demanded | would concede *Gentiles must be circumcised to belong properly* |
+
+> ### 🆕 **METHODOLOGICAL PRINCIPLE, far beyond circumcision:**
+> ### **Biblical actions cannot always be classified morally without examining the meaning, purpose, and claim attached to the action in context.**
+
+**Added to [[00b-biblical-epistemology]].** *(This is the same shape as the Acts 10 finding — Peter's vision is about people, not menus — and as Stage 16's "once for all" precision: the object of the claim determines the claim.)*
+
+---
+
+## 34. ✍️ Author's Reflection — the Personal Question, Answered
+
+**Years ago, reading Scripture seriously, the question was genuinely felt rather than academic:**
+
+> *"Do I need to become circumcised to demonstrate to Yahweh that I love Him?"*
+
+**Scripture gives a surprisingly direct answer, and it is nearly the same sentence:**
+
+> **1 Corinthians 7:18** *(indexed)* — "**Was anyone at the time of his call uncircumcised? Let him not seek circumcision.**"
+
+> ### **So: no. An uncircumcised Gentile believer does not need physical circumcision to prove love or covenant fidelity to Yahweh.**
+
+**But Paul does not stop there, and the second half is not optional:**
+
+> **1 Corinthians 7:19** *(indexed)* — "For neither circumcision counts for anything nor uncircumcision, **but keeping the commandments of God**."
+
+**Which creates the next question rather than eliminating it.** *(Author's Reflection layer, ADR-0006 — recorded because it shows the stakes were personal before they were methodological, and the answer arrived through exegesis rather than around it.)*
+
+---
+
+## 35. The Tension Preserved — Deliberately Unresolved
+
+> **Paul says circumcision doesn't count. Paul says keeping God's commandments counts. Circumcision *was* a commandment of God.**
+
+**How does Paul distinguish them?** **The question forces us toward covenantal administration — and Scripture already supplies the principle abundantly:**
+
+| Command | Given to |
+|---|---|
+| build an ark | **Noah** |
+| offer Isaac | **Abraham** |
+| priestly service regulations | **priests, not ordinary Israelites** |
+| Nazirite obligations | **Nazirites** |
+| kingly obligations | **kings** |
+| some requirements | **distinguished by sex or circumstance** |
+
+> ### **Therefore: "Yahweh commanded X somewhere" does NOT automatically establish "Yahweh commands X of every believer forever."**
+>
+> ### **But the opposite error is equally dangerous: "that command wasn't addressed directly to me, therefore it contains nothing binding or instructive for me."**
+>
+> **Context determines scope — in both directions.** *(This is a book that becomes stronger by not resolving the tension prematurely. Left open as [[04-open-questions]] item 27.)*
+
+---
+
+## 36. 🆕 Formal Rule — Covenantal Jurisdiction
+
+**A new question added to the epistemological loop, and possibly this stage's most portable discovery.**
+
+> ### **COVENANTAL JURISDICTION** — whenever a command is encountered, ask:
+>
+> 1. **Who received it?**
+> 2. **Under what covenant?**
+> 3. **For what purpose?**
+> 4. **Was it universal, national, priestly, familial, individual, temporary, typological, or otherwise scoped?**
+> 5. **Does later Scripture reaffirm it, transform its administration, expand it, narrow it, or identify its fulfillment?**
+
+**This is better than both mechanical shortcuts:**
+
+- ❌ *Old Testament = obsolete / New Testament = applicable*
+- ❌ *Torah says it once = universally unchanged forever*
+
+> **Both shortcuts avoid exegesis.** One does it by discarding, the other by flattening — **and this framework has now been caught tempted by each.**
+
+**Added to [[00b-biblical-epistemology]] and [[00-methodology-current]]. Extends the Eleven-Question Protocol rather than replacing it** — the Protocol asks what happened to a command; **Jurisdiction asks who it was ever addressed to.**
+
+---
+
+## 37. Back to Yeshua — the Constraint From Both Sides
+
+> **Matthew 5:17** — "Do not think that I have come to abolish the Law or the Prophets… **I have not come to abolish them but to fulfill them.**"
+
+| Must not do | Reason |
+|---|---|
+| make **"fulfill" secretly mean "abolish"** | Yeshua explicitly negates *katalyō* ([[00n-torah-fulfilled-and-what-changed]] §3) |
+| force **"not abolish"** to mean every covenantal administration continues identically | **Hebrews already makes that impossible** for priesthood and sacrifice — and **circumcision now makes it impossible from a second, independent direction** |
+
+> ### **Therefore the question is: what does fulfillment actually DO to each element?**
+> ### **And Scripture must answer element by element.**
+
+**Two independent institutions now converge on the same constraint** — which is stronger than either alone, because they were investigated separately and were not selected to agree.
+
+---
+
+## 38. Circumcision Has Corrected the Model — Recorded Formally
+
+**After sacrifice and priesthood, the tempting formula was:**
+
+> ❌ **Old *Mosaic* shadow → Messiah reality.**
+
+**Circumcision breaks it, because circumcision predates Sinai.**
+
+> ### **THE CORRECTED MODEL:**
+> ### **Trace each institution from its earliest biblical appearance → identify its covenantal function → follow its prophetic development → examine Yeshua → examine apostolic interpretation → determine continuity/transformation from the whole trajectory.**
+
+**Substantially stronger** — and it has an immediate cost, which is the sign it is real: **it means the food investigation cannot begin at Leviticus.**
+
+---
+
+## 39. And Clean/Unclean Predates Sinai Too — the Bridge
+
+> **Genesis 7:2** — ESV: "Take with you seven pairs of **all clean animals**, the male and his mate, and a pair of **the animals that are not clean**." CJB: "Of every clean animal you are to take seven couples, and of the animals that are not clean, one couple."
+
+**That is before Abraham. Before Israel. Before Sinai. Before Leviticus.**
+
+> **So the easy answer fails for the second consecutive stage:** ❌ *"Clean and unclean animals were invented by the Mosaic covenant."* **They were not.**
+
+> ### ⚖️ **But — and this is equally important — Genesis 7 does NOT automatically prove Noah operated under the complete dietary legislation later given to Israel.**
+
+**Why does Noah need the distinction? Keep reading:**
+
+> **Genesis 8:20** — ESV: "Then Noah built an altar to the LORD and took **some of every clean animal and some of every clean bird and offered burnt offerings** on the altar." CJB: "Then he took from every clean animal and every clean bird, and he offered burnt offerings on the altar."
+
+> ### **The first explicit narrative use of the clean/unclean distinction is SACRIFICIAL, not dietary.**
+>
+> **That does not yet tell us whether Noah's *diet* was governed identically to Leviticus 11.** **Anti-Replacement, applied at the moment of discovery:** finding that the distinction predates Sinai does **not** establish that it meant the same thing, for the same purpose, with the same scope.
+
+**This is the entrance to Stage 18, and it is a better entrance than starting at Leviticus would have been.**
+
+---
+
 ## Manuscript Voice — The Second Pressure Test
 
 > **Prose:** Circumcision disrupted the easy solution I had just discovered through sacrifice. I could not simply classify everything that changed as *Mosaic*, because circumcision came before Moses. Yahweh gave it to Abraham, called it a covenant sign in his flesh, and described the covenant with *olam* language. Yet the apostles plainly refused to make physical circumcision the entrance requirement for Gentiles in Messiah.
@@ -400,7 +713,17 @@ Genesis calls circumcision **בְּרִית עוֹלָם — *berit olam***. Yet
 
 ---
 
-## 23. Next — Food, and Another Pre-Mosaic Surprise
+> **Prose — covenantal jurisdiction, the discovery that outlasts this chapter:** Circumcision exposed another shortcut. I could no longer ask merely whether something belonged to "the Law," because circumcision existed centuries before Sinai. Nor could I assume that because Yahweh once commanded something, the command necessarily applied identically to every person under every covenantal administration. Scripture itself contained commands to particular people, priesthoods, nations, offices, and circumstances. Noah was told to build an ark. Abraham was told to offer Isaac. Priests received obligations ordinary Israelites did not.
+>
+> **The better question became one of covenantal jurisdiction: Who received the command? Under what covenant? What function did it serve? And what did later revelation do with it?**
+>
+> This did not weaken Torah. **It forced me to read Torah more carefully.** Instead of treating Scripture as a flat collection of commands from which individual verses could be extracted, the command had to remain inside the covenantal story in which Yahweh gave it.
+
+> **Prose — the safeguard, which is the part I most needed:** The method therefore could not begin by deciding whether I *wanted* circumcision, Shabbat, dietary distinctions, or anything else to remain. **It had to trace each institution independently and permit Scripture to produce different answers for different institutions.** That is an uncomfortable commitment to make in advance, because it means agreeing to a result I cannot preview. But any method that guarantees its own conclusion before the evidence arrives is not a method — it is a preference wearing one.
+
+---
+
+## 40. Next — Food, and Another Pre-Mosaic Surprise
 
 **Now the framework is prepared to revisit Peter's sheet without that passage dictating the answer in advance.**
 
@@ -412,3 +735,21 @@ Genesis calls circumcision **בְּרִית עוֹלָם — *berit olam***. Yet
 > **Noah already knows the difference in Genesis 7.**
 
 **So "that was merely the Mosaic Law" will fail as a starting answer for the second consecutive stage.** Which raises a question worth carrying in deliberately: **if both circumcision and clean/unclean predate Sinai, how much of what is casually called "the Mosaic Law" actually originates there at all?** That is not this stage's question — but it is now visible, and it should not be lost.
+
+### The sequence Stage 18 will follow
+
+**Genesis 7–9 → Leviticus 11 → Deuteronomy 14 → the Prophets → Yeshua / Mark 7 → Acts 10 → Acts 15 → Romans 14 → 1 Corinthians 8–10 → Colossians 2 → 1 Timothy 4**
+
+**Neither assumption permitted at the outset:**
+- ❌ *"Torah dietary distinctions obviously continue unchanged."*
+- ❌ *"Yeshua declared everything edible, end of discussion."*
+
+### 🔑 And Peter becomes a chronological witness
+
+> **Acts 10:14** — ESV: "But Peter said, '**By no means, Lord; for I have never eaten anything that is common or unclean.**'" CJB: "'No, sir! Absolutely not! **I have never eaten food that was unclean or *treif*.**'" RVR1960: "Señor, no; porque **ninguna cosa común o inmunda he comido jamás**."
+
+> ### **This is spoken *years after* Yeshua's earthly ministry — by the apostle who was there.**
+>
+> ### **Whatever conclusion the investigation eventually reaches, that sentence has to be allowed to mean something.**
+>
+> **Recorded now, before the investigation, precisely so it cannot be quietly stepped over later.** Note the same discipline in reverse applies: Peter's practice establishes what *Peter* understood at that moment — it does not by itself settle what the apostolic writings ultimately require of Gentiles. **Both halves of that get carried into Stage 18.**

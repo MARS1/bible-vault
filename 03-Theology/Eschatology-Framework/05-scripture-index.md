@@ -1233,6 +1233,78 @@ RVR1960: "ni la circuncisión vale algo, ni la incircuncisión, sino ser nueva c
 *(1 Corinthians 7:19 — "but keeping the commandments of God" — indexed above under the New Covenant section.)*
 **Three completions of one construction: commandments / faith working through love / new creation. Converging, at "supports" not "establishes." See [[04-open-questions]] item 27.**
 
+### Incorporation without erasure of origin — and the Torah mechanism that preceded it
+
+**Exodus 12:48** — the control case that makes Acts 15 LARGER, not smaller
+ESV: "If a stranger shall sojourn with you and would keep the Passover to the Lord, let all his males be circumcised. Then he may come near and keep it; he shall be as a native of the land. But no uncircumcised person shall eat of it."
+CJB: "If a foreigner staying with you wants to observe Adonai's Pesach, all his males must be circumcised. Then he may take part and observe it; he will be like a citizen of the land."
+**Torah already provided deep foreign participation — with physical circumcision as part of the incorporation. The stronger this is, the more significant Acts 15 becomes.**
+
+**Ephesians 2:12**
+ESV: "remember that you were at that time separated from Christ, alienated from the commonwealth of Israel and strangers to the covenants of promise, having no hope and without God in the world."
+CJB: "You were estranged from the national life of Isra'el. You were foreigners to the covenants embodying God's promise."
+
+**Ephesians 2:19**
+ESV: "So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God"
+CJB: "So then, you are no longer foreigners and strangers. On the contrary, you are fellow-citizens with God's people and members of God's family."
+
+**Ruth 1:16** — the confession
+ESV: "For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God."
+CJB: "wherever you go, I will go; and wherever you stay, I will stay. Your people will be my people and your God will be my God."
+
+**Ruth 2:2** — ⚠️ and she is STILL called the Moabite, after the confession
+ESV: "And Ruth the Moabite said to Naomi, 'Let me go to the field and glean...'"
+CJB: "Rut the woman from Mo'av said to Na'omi..."
+**INCORPORATION DOES NOT REQUIRE ERASURE OF ORIGIN. The precedent underwriting the "Messianic Israelite" definition in [[01-convictions]] B.5.**
+
+### Ruach before circumcision — the Acts sequence
+
+**Acts 8:36** — the eunuch; note what is NOT said
+ESV: "And as they were going along the road they came to some water, and the eunuch said, 'See, here is water! What prevents me from being baptized?'"
+CJB: "Look! Here's some water! Is there any reason why I shouldn't be immersed?"
+**Argument from silence — circumcision unmentioned. Reasonable inference, but absence of mention is not evidence of absence.**
+
+**Acts 10:45**
+ESV: "And the believers from among the circumcised who had come with Peter were amazed, because the gift of the Holy Spirit was poured out even on the Gentiles."
+CJB: "All the believers from the Circumcision faction who had accompanied Kefa were amazed that the gift of the Ruach HaKodesh was also being poured out"
+
+**Acts 10:47**
+ESV: "Can anyone withhold water for baptizing these people, who have received the Holy Spirit just as we have?"
+CJB: "Is anyone prepared to prohibit these people from being immersed in water? After all, they have received the Ruach HaKodesh, just as we did."
+**Sequence: Ruach → immersion. NOT circumcision → admission → Ruach. Yahweh initiates.**
+
+### Circumcision language applied to Messiah — with restraint
+
+**Colossians 2:11**
+ESV: "In him also you were circumcised with a circumcision made without hands, by putting off the body of the flesh, by the circumcision of Christ"
+CJB: "Also it was in union with him that you were circumcised with a circumcision not done by human hands, but accomplished by stripping away the old nature's control over the body."
+RVR1960: "En él también fuisteis circuncidados con circuncisión no hecha a mano, al echar de vosotros el cuerpo pecaminoso carnal, en la circuncisión de Cristo"
+Greek: **ἀχειροποίητος** *acheiropoiētos*, "not made with hands."
+
+**Colossians 2:12**
+ESV: "having been buried with him in baptism, in which you were also raised with him through faith in the powerful working of God, who raised him from the dead."
+CJB: "you were buried along with him by being immersed; and in union with him, you were also raised up along with him by God's faithfulness"
+RVR1960: "sepultados con él en el bautismo, en el cual fuisteis también resucitados con él, mediante la fe en el poder de Dios que le levantó de los muertos."
+**🚧 Proximity ≠ one-for-one replacement. "Baptism replaced circumcision" is a secondary inference requiring its own case — NOT made here.**
+
+### Bridge into Stage 18 — clean/unclean before Sinai
+
+**Genesis 7:2**
+ESV: "Take with you seven pairs of all clean animals, the male and his mate, and a pair of the animals that are not clean, the male and his mate"
+CJB: "Of every clean animal you are to take seven couples, and of the animals that are not clean, one couple"
+**Before Abraham, before Israel, before Sinai, before Leviticus.**
+
+**Genesis 8:20** — ⚖️ the first explicit narrative use is SACRIFICIAL, not dietary
+ESV: "Then Noah built an altar to the Lord and took some of every clean animal and some of every clean bird and offered burnt offerings on the altar."
+CJB: "Noach built an altar to Adonai. Then he took from every clean animal and every clean bird, and he offered burnt offerings on the altar."
+**Predating Sinai does NOT establish that the distinction meant the same thing, for the same purpose, at the same scope as Leviticus 11.**
+
+**Acts 10:14** — recorded IN ADVANCE of the food investigation so it cannot be stepped over
+ESV: "But Peter said, 'By no means, Lord; for I have never eaten anything that is common or unclean.'"
+CJB: "But Kefa said, 'No, sir! Absolutely not! I have never eaten food that was unclean or treif.'"
+RVR1960: "Entonces Pedro dijo: Señor, no; porque ninguna cosa común o inmunda he comido jamás."
+**Spoken YEARS after Yeshua's earthly ministry, by the apostle who was there. That sentence has to be allowed to mean something — while not by itself settling what the apostolic writings require of Gentiles.**
+
 ### Galatians 3 — back to Abraham, before Sinai
 
 **Galatians 3:8**

@@ -111,6 +111,26 @@ For every substantive claim or connection, **preserve where applicable**. Not ev
 
 ---
 
+## Covenantal Jurisdiction — Run on Every Command *(added v1.2)*
+
+**Before asking whether a command applies, ask who it was ever addressed to:**
+
+1. **Who received it?** · 2. **Under what covenant?** · 3. **For what purpose?** · 4. **What scope** — universal, national, priestly, familial, individual, temporary, typological? · 5. **What does later Scripture do with it** — reaffirm, transform its administration, expand, narrow, or identify its fulfillment?
+
+> **"Yahweh commanded X somewhere" ≠ "Yahweh commands X of every believer forever."**
+> **"It wasn't addressed to me" ≠ "it contains nothing binding or instructive for me."**
+> **Both shortcuts avoid exegesis — one by discarding, one by flattening.**
+
+**Also: Meaning-Attached-to-Action.** **Biblical actions cannot always be classified morally without examining the meaning, purpose, and claim attached to them in context.** Timothy circumcised / Titus's circumcision refused — same action, different covenantal claim.
+
+## The Corrected Institution-Tracing Model *(added v1.2, replaces the Stage 16 formula)*
+
+**Stage 16 tempted a formula: *Old Mosaic shadow → Messiah reality*. Stage 17 broke it — circumcision predates Sinai. Use this instead:**
+
+> **Trace each institution from its EARLIEST biblical appearance → identify its covenantal function → follow its prophetic development → examine Yeshua → examine apostolic interpretation → determine continuity/transformation from the whole trajectory.**
+
+**It has an immediate cost, which is the sign it is real:** the food investigation cannot begin at Leviticus, because **Genesis 7:2 already distinguishes clean from unclean.**
+
 ## The Two Specialized Instruments
 
 - **The 7-Step Test** — for a **passage**, before it enters [[01-convictions]].
@@ -240,6 +260,7 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **1.2** | 2026-08-12 | Added **Covenantal Jurisdiction** (5 questions to run on any command) and **Meaning-Attached-to-Action**, both from Stage 17. Added the **Corrected Institution-Tracing Model**, replacing the Stage 16 "Mosaic shadow → reality" formula that circumcision broke by predating Sinai. Added the **Covenant Relationship Rule** as rule 5 (from Stage 16.5). |
 | **1.1** | 2026-08-12 | Added the **Extrabiblical Source Protocol** (source hierarchy; *failed access to one source ≠ verification failure*; the three-claim distinction between "1 Enoch says X" / "Second Temple Jews believed X" / "Leviticus means X") after a single-endpoint 403 was wrongly recorded as a verification failure at Stage 16 — the material proved fully verifiable on the fourth attempt. Added the **Localization Policy** and the `localization:` frontmatter field (ADR-0008). Added **Known Technical Debt**. |
 
 ---
