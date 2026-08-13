@@ -677,6 +677,14 @@ Aquatic creatures require fins and scales; further categories follow.
 | **⚠️ UNRESOLVED** | Whether Paul's Romans 14 liberty **presupposes** foods already classified edible, or **expands** the category beyond Torah's animal distinctions |
 | **⚠️ UNRESOLVED** | Colossians 2:17's *sōma* — abstract "substance," or **the body of Messiah**? |
 | **⚠️ UNRESOLVED** | Whether Colossians 2:16 prohibits **observing** those things or **being judged** concerning them |
+| **HIGH** *(added, 1 Tim 4)* | Paul opposes teaching that **requires abstinence** from foods Yahweh created to be received — his opponents **forbid marriage** in the same breath |
+| **HIGH** | Paul says these foods are sanctified through **the word of God AND prayer** — not prayer alone |
+| **ESTABLISHED BY STRUCTURE** | **"Created by God" cannot by itself mean "edible"** — Yahweh created hemlock, hornets, and human beings. **Verse 4 must operate inside verse 3's category of *foods*** |
+| **PLAUSIBLE, UNPROVEN** | "Word of God" at 4:5 **may include scriptural identification of legitimate foods** — Genesis 1:29, 9:3–4, and Leviticus 11:47 all designate what may be eaten |
+| **NOT ESTABLISHED** | That **prayer transforms a biblically prohibited creature into permitted food** |
+| **NOT ESTABLISHED** | That ***brōmata* necessarily excludes** every creature Leviticus classified unclean |
+| **⚠️ UNRESOLVED** | **Which "word of God"** Paul means at 1 Timothy 4:5 — four candidates, none selected |
+| **⚠️ UNRESOLVED** | **Acts 15:21** — Reading A (four requirements sufficient, enabling fellowship) vs Reading B (initial requirements, with ongoing instruction). **Next investigation** |
 
 ---
 
@@ -702,9 +710,189 @@ Aquatic creatures require fins and scales; further categories follow.
 
 ---
 
-## 27b. 1 Timothy 4:1–5 — the Hardest Food Passage, Named and Not Softened
+## 27b. 1 Timothy 4:1–5 — the Hardest Food Passage, Under Full Pressure
 
-> ### **This is where a continuing-Levitical-diet reading receives one of its strongest challenges. It is not softened. It gets full pressure in the next stage.**
+> ### **This is where a continuing-Levitical-diet reading receives one of its strongest challenges. It is not softened.**
+
+### The strongest form of the opposing argument, stated first
+
+**Method requires giving it its best reading before doing anything else:**
+
+> Yahweh created pigs. **"Everything created by God is good."** **"Nothing is to be rejected."** Therefore pigs may be eaten.
+
+> ### **That is a perfectly understandable reading of verse 4, and it must be acknowledged before any response.**
+
+**But Paul did not stop at verse 4.**
+
+### The text
+
+> **1 Timothy 4:3** — ESV: "**who forbid marriage and require abstinence from foods that God created to be received with thanksgiving** by those who believe and know the truth." RVR1960: "prohibirán casarse, y mandarán **abstenerse de alimentos que Dios creó** para que con acción de gracias participasen de ellos."
+
+> **1 Timothy 4:4** — ESV: "**For everything created by God is good, and nothing is to be rejected if it is received with thanksgiving.**" RVR1960: "**Porque todo lo que Dios creó es bueno, y nada es de desecharse**, si se toma con acción de gracias."
+
+> **1 Timothy 4:5** — ESV: "**for it is made holy by the word of God and prayer.**" RVR1960: "porque **por la palabra de Dios y por la oración es santificado**."
+
+---
+
+### 1️⃣ First — identify the error Paul is confronting
+
+**Paul's opponents are paired:**
+
+| **forbid marriage** | **require abstinence from foods** |
+|---|---|
+
+**Marriage is something Yahweh created as good. Food is something Yahweh created as good.** So the opponents appear to teach that **abstaining from things Yahweh created is spiritually superior — or required.**
+
+> ### **That is a different question from: *which animals did Yahweh designate as food?***
+>
+> **They may overlap. They are not automatically the same question.**
+
+**Methodologically identical to Mark 7:** before asking what a passage *can be made to imply*, **identify what error the author is actually confronting.** (Contextual Question Principle.)
+
+---
+
+### 2️⃣ Paul does not say "created things" — he says *foods*
+
+**Greek: βρωμάτων — *brōmatōn*, from βρῶμα — *brōma*: food / that which is eaten.** **RVR1960: "alimentos."**
+
+**Paul does not write** *"they prohibit eating some of God's creatures."* **He writes that they prohibit *foods* which God created to be received with thanksgiving.**
+
+> **The lexical question: does calling something *brōma* already presuppose it belongs to the category of food?** **Potentially — but the argument cannot be won by definition**, since Greek speakers could obviously describe things people eat even where someone else regarded them as prohibited.
+
+### ❗ But the structural point is decisive, and it does not depend on lexicography
+
+**Paul's proposition cannot be "everything Yahweh created must therefore be eaten" — that yields absurd results immediately.** Yahweh created **poisonous plants, toxic fungi, insects, predators, and human beings.**
+
+> ### **"Created by God" plainly cannot, by itself, mean "therefore edible."**
+>
+> ### **Therefore verse 4 must operate inside the category established in verse 3: *foods God created to be received.***
+
+**This is not a defensive move. It is what the sentence requires** — and anyone applying verse 4 without verse 3's qualifier has to explain why the same logic does not license eating anything Yahweh made.
+
+---
+
+### 3️⃣ "Sanctified by the word of God" — the phrase that may matter most
+
+**Greek: ἁγιάζεται — *hagiazetai*** (from **ἁγιάζω *hagiazō*** — to sanctify, make holy, set apart), **διὰ λόγου θεοῦ καὶ ἐντεύξεως — *dia logou theou kai enteuxeōs*** — "through the word of God and prayer."
+
+**What does "the word of God" refer to here? Four candidates, none selected:**
+
+1. Yahweh's **creative declaration** that His creation is good
+2. **Scriptural declarations identifying or providing food**
+3. the **gospel / message of God**
+4. some **combination** of scriptural authorization and thanksgiving
+
+> ### 🚧 **We do NOT announce that Paul means Leviticus 11. He does not say "as written in Leviticus." That would be eisegesis.**
+>
+> ### ⚖️ **But neither may the phrase be erased, reducing Paul's argument to "prayer makes anything edible." Paul says word of God AND prayer. Both are in his explanation.**
+
+---
+
+### 4️⃣ Genesis becomes relevant again — and the loop closes
+
+**Stage 18 began here, and the food-designation language turns out to run continuously through Scripture:**
+
+| Text | What is designated |
+|---|---|
+| **Genesis 1:29** | ESV: "I have given you **every plant yielding seed**… and every tree with seed in its fruit. **You shall have them for food**." CJB: "**I am giving you as food** every seed-bearing plant" |
+| **Genesis 7:2** | clean / not clean distinguished |
+| **Genesis 9:3–4** | animal life granted as food, **with the blood restriction** |
+| **Leviticus 11:47** | "**the living creature that may be eaten and the living creature that may not be eaten**" |
+
+> ### **So when Paul says food is sanctified by "the word of God," there genuinely IS prior scriptural language designating what may and may not be eaten.**
+>
+> **DOES NOT PROVE** Paul is specifically invoking Leviticus 11.
+> **DOES ESTABLISH** that the continuing-food-law reading is **not inventing the concept out of nowhere.** **There is a real intertextual question here.**
+
+---
+
+### 5️⃣ This blocks the "thanksgiving makes it clean" shortcut
+
+**The common form:** *"As long as you pray over it and thank God, you can eat anything."*
+
+**Paul does not say** *"everything becomes holy because you prayed over it."* **He says sanctified by the word of God AND prayer.** **Prayer is not presented independently of Yahweh's word.**
+
+> **Test the hermeneutic elsewhere:** *"Yahweh prohibited X, but I thanked Him before doing X."* **Thanksgiving obviously does not independently overturn a commandment.**
+
+> ### **So the real question survives intact: what does Paul understand Yahweh's word to have authorized as food?** **Which is precisely what is under investigation.**
+
+---
+
+### 6️⃣ ⚖️ Now pressure the clean-food position from the other side
+
+**Suppose Paul meant "only Levitically clean animals are foods created by God to be received." Why doesn't he say that? Why use language this broad?**
+
+> **"Everything created by God is good." "Nothing is to be rejected."**
+
+> ### **Someone arguing for broad dietary liberty has real textual evidence here. We do not shrink Paul's language merely because a hypothesis needs it shrunk.**
+
+### Current classification — balanced
+
+| Status | Finding |
+|---|---|
+| **ESTABLISHED** | Paul opposes religious teaching requiring abstinence from foods Yahweh created to be received |
+| **ESTABLISHED** | Paul grounds his argument in **the goodness of Yahweh's creation** |
+| **ESTABLISHED** | Paul says these foods are sanctified through **God's word AND prayer** |
+| **PLAUSIBLE, UNPROVEN** | "Word of God" may include **scriptural identification of legitimate foods** |
+| **NOT ESTABLISHED** | That **prayer transforms a biblically prohibited creature into permitted food** |
+| **NOT ESTABLISHED** | That ***brōmata* necessarily excludes** every creature Leviticus classified unclean |
+
+---
+
+## 27c. The Landscape Is Not One Binary Switch
+
+**Look at what the sequence has actually surfaced:**
+
+| Passage | The question actually in view |
+|---|---|
+| **Daniel 1** | defilement at a pagan king's table |
+| **Mark 7** | defilement through **unwashed hands** |
+| **Acts 10** | **common** vs **unclean**; Gentile inclusion |
+| **Romans 14** | commonness, **conscience**, community division |
+| **1 Corinthians 8–10** | **idolatry, demons, conscience, fellowship** |
+| **1 Timothy 4** | **ascetic prohibition** of foods Yahweh created to be received |
+
+> ### **The biblical theology of eating is not one binary switch:** ❌ **UNCLEAN → Yeshua → EVERYTHING CLEAN**
+
+**Distinct categories that must not be collapsed into one another:**
+
+**species · blood · sacrifice · idolatry · ritual defilement · preparation/provenance · conscience · ascetic prohibition · thanksgiving · love of neighbor**
+
+**This is the Category Collapse Test operating on the largest scale it has yet been applied to in this project** — and it is why "can Christians eat pork?" was the wrong opening question.
+
+---
+
+## 27d. 🧵 The Loose Thread — Acts 15:21
+
+**Notice where both investigations have landed.** **Circumcision brought us to the Jerusalem Council. Food brought us straight back to it.**
+
+> **Acts 15:20** *(indexed)* — abstain from **things polluted by idols · sexual immorality · what has been strangled · blood**.
+
+**Set against everything since encountered:**
+
+| **Daniel** | pagan court food and defilement |
+| **Corinth** | idol-associated meat |
+| **Genesis 9:4** | blood explicitly prohibited — **to Noah, i.e. humanity** |
+| **Leviticus 17** | blood and sacrifice regulations, applying also to the **ger** |
+
+> ### **Acts 15 is not an isolated, arbitrary little list. It sits inside a much older biblical matrix.**
+
+**And then the verse that gets skipped:**
+
+> **Acts 15:21** *(indexed)* — "**For from ancient generations Moses has had in every city those who proclaim him, for he is read every Sabbath in the synagogues.**"
+
+> ### **Why does James say *that* immediately after giving Gentiles four requirements?**
+
+**Two substantially different readings, producing very different conclusions:**
+
+| | Reading |
+|---|---|
+| **A** | The four requirements are **sufficient** — Jewish communities everywhere already hear Moses, and the council is making Jewish/Gentile table fellowship possible |
+| **B** | The four are **initial** requirements for Gentile converts, who will subsequently hear Moses taught every Sabbath and **continue learning** |
+
+> ### **Acts 15:21 is routinely passed over when the council is summarized as "Gentiles only had four rules." We do not pass over it.**
+>
+> **This is the next thing to pull** — because **James's own comment may tell us how the apostles themselves understood the requirements they imposed.** Already logged as [[04-open-questions]] item 26; **now promoted from bookmark to next investigation.**
 
 > **1 Timothy 4:1** — ESV: "the Spirit expressly says that **in later times some will depart from the faith** by devoting themselves to deceitful spirits and teachings of demons."
 
@@ -722,26 +910,28 @@ Aquatic creatures require fins and scales; further categories follow.
 
 ---
 
-## 28. Next — What Was Actually Happening at the Roman Table
+## Manuscript Voice — The Question Changed Again
 
-**Before 1 Corinthians 8–10, a short historical/exegetical investigation is warranted:** **what does "the weak eats only vegetables" most plausibly refer to?**
-
-> **If that can be identified, Romans 14 becomes much harder to weaponize in either direction** — which is exactly why it should be done before moving on rather than after.
-
-**Then the passages that will genuinely pressure-test a continuing-dietary-distinction reading:**
-
-**1 Corinthians 8–10 · Colossians 2:16–23 · 1 Timothy 4:1–5**
-
-### The 1 Timothy 4 problem, stated in advance
-
-> **1 Timothy 4:4** — ESV: "**For everything created by God is good, and nothing is to be rejected if it is received with thanksgiving.**"
-
-**Isolated, that sounds devastating to a clean-food position.** **But read the verse before it:**
-
-> **1 Timothy 4:3** — ESV: "who forbid marriage and **require abstinence from foods that God created to be received with thanksgiving** by those who believe and know the truth."
-
-> ### **The question becomes: does "everything created by God" mean every created organism is therefore biblically classified as *food* — or is Paul speaking of things already understood as *brōmata*, foods?**
+> **Prose:** By the time I reached 1 Timothy, I realized I had been asking the food question too crudely. **"Can Christians eat pork?" already smuggled several assumptions into the investigation:** that *Christian* was the appropriate covenant category, that the New Testament was addressing modern dietary debates, and that every passage mentioning food was answering the same question. **Scripture itself refused those simplifications.**
 >
-> **And note the target of Paul's rebuke:** those who **forbid marriage** *and* require abstinence — **which looks like the ascetic profile, not the Levitical one.** *(Recorded as an observation about the passage's opponents, not yet as an argument.)*
+> Daniel worried about defilement at a pagan king's table. Yeshua confronted traditions about unwashed hands. Peter's vision corrected his understanding of *Gentiles*. Corinth dealt explicitly with idol-associated meat. Romans dealt with conscience and community division. Timothy confronted ascetic teachers forbidding foods Yahweh created to be received. **These texts could ultimately contribute to one theology of food, but they could not responsibly be flattened into one controversy.**
 >
-> **This cannot be answered by preference. We have to follow Paul's argument.**
+> **The question therefore had to become more precise: what did Yahweh designate as food, for whom, under which covenantal administration, and what — if anything — does the Messiah's work change about those distinctions?** Only after answering those could I responsibly ask what obedience should look like now.
+>
+> And the smallest detail in 1 Timothy turned out to be the one I had never noticed. I had heard verse 4 quoted my whole life — *everything created by God is good, nothing is to be rejected* — and had never once been asked what verse 3 meant by **foods**, or what verse 5 meant by **the word of God**. **Yahweh created hemlock and hornets and human beings. "Created" was never going to mean "edible" by itself.** The verse I had been handed as a conclusion turned out to be a sentence with two qualifiers on either side of it, and I had been quoting the middle.
+
+---
+
+## 28. Next — Acts 15:21, and Where Stage 18 Is Actually Heading
+
+> ### **The next thread: Acts 15:21 — "Moses is read every Sabbath in the synagogues."**
+>
+> **Both investigations landed on the Jerusalem Council independently.** Circumcision brought us there (Stage 17). Food brought us straight back (§27d). **James's own comment may tell us how the apostles understood the requirements they imposed** — and Readings A and B produce very different conclusions.
+
+**The question Stage 18 is ultimately heading toward, now stated precisely enough to be answerable:**
+
+> ### **What did Yahweh designate as food, for whom, under which covenantal administration — and what, if anything, does the Messiah's work change about those distinctions?**
+>
+> **Only after that can we responsibly ask what obedience should look like now.** *(Note the shape: this is the **Covenantal Jurisdiction** rule from Stage 17 applied to food. The instrument was built two stages before the question that needed it.)*
+
+**Still standing, unresolved, and not to be quietly dropped:** the Romans 14 day-dispute (item 34) · Colossians 2's two questions (item 35) · whether Paul's liberty presupposes or expands the edible category · whether Mark 7's participle resolves declaratively · and *which word* "the word of God" denotes at 1 Timothy 4:5.

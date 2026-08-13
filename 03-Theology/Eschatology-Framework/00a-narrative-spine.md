@@ -416,15 +416,38 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **🆕 NEW RULE — THE ONE THAT CONSTRAINS THE INVESTIGATOR (1 Cor 8:1):** *knowledge puffs up, love builds up.* **Epistemic maturity is not measured only by how much truth one can articulate but by what that truth produces in character** — and **being correct about a proposition does not automatically make one's conduct righteous.** Every other rule in this framework governs the investigation; **this one governs the person running it**, and a project accumulating this much knowledge is the intended audience.
 
-**→ earns the next question:** 1 Timothy 4, at full pressure.
+### Stage 18.6 — 1 Timothy 4 Under Full Pressure *(2026-08-13)*
+
+**File:** [[00s-clean-and-unclean-from-noah-to-messiah]] §27b–d
+
+- **The opposing argument given its STRONGEST form first, before any response:** *Yahweh created pigs; everything created is good; nothing is to be rejected; therefore pigs may be eaten.* **A perfectly understandable reading of v.4, and acknowledged as such**
+- **Then: identify the error Paul confronts.** His opponents **forbid marriage AND require abstinence from foods** — **an ascetic pairing.** *Which animals did Yahweh designate as food?* is **a different question.** They may overlap; they are not automatically the same. **Methodologically identical to Mark 7**
+- **🔑 THE STRUCTURAL ARGUMENT, and it doesn't depend on lexicography:** Paul's proposition cannot be *everything Yahweh created must be eaten* — **Yahweh created poisonous plants, toxic fungi, insects, predators, and human beings.** **"Created by God" plainly cannot by itself mean "therefore edible."** **Therefore v.4 must operate inside v.3's category — *foods* God created to be received.** Anyone applying v.4 without v.3's qualifier owes an explanation of why the same logic doesn't license eating anything Yahweh made
+- **v.3 says *brōmata* (RVR1960 "alimentos") — foods, not "creatures."** Lexically suggestive; **but the argument is NOT won by definition**, since Greek could describe what people eat even where another regarded it prohibited
+- **🔑 v.5 — "sanctified by the word of God AND prayer."** Four candidates for *"the word of God,"* **none selected**: creative declaration / **scriptural designation of food** / the gospel / a combination. **🚧 We do NOT announce Paul means Leviticus 11 — he doesn't say so.** ⚖️ **But neither may the phrase be erased into "prayer makes anything edible"**
+- **BLOCKS THE THANKSGIVING SHORTCUT:** test the hermeneutic elsewhere — *"Yahweh prohibited X, but I thanked Him first."* **Thanksgiving does not independently overturn a commandment.** So the real question survives: **what does Paul understand Yahweh's word to have authorized as food?**
+- **GENESIS CLOSES THE LOOP:** Gen 1:29 (plants given **for food**) → Gen 7:2 (clean/not clean) → Gen 9:3–4 (animals granted, blood restricted) → Lev 11:47 ("**the living creature that may be eaten and the living creature that may not be eaten**"). **So when Paul says "the word of God," there GENUINELY IS prior scriptural language designating what may and may not be eaten.** **Does NOT prove he invokes Leviticus 11; DOES establish the continuing-food-law reading isn't inventing the concept**
+- **⚖️ PRESSURE APPLIED IN THE OTHER DIRECTION TOO:** if Paul meant *only Levitically clean animals*, **why not say so? Why language this broad?** **Broad-liberty readers have real textual evidence here, and Paul's language is NOT shrunk merely because a hypothesis needs it shrunk.** Six-row balanced classification recorded — 3 established, 1 plausible-unproven, 2 not-established
+- **THE LANDSCAPE IS NOT ONE BINARY SWITCH.** Six passages, six different questions in view. **Ten categories that must not be collapsed:** species · blood · sacrifice · idolatry · ritual defilement · preparation/provenance · conscience · ascetic prohibition · thanksgiving · love of neighbor. **Category Collapse applied at the largest scale yet — and the reason "can Christians eat pork?" was the wrong opening question**
+- **🧵 THE LOOSE THREAD: ACTS 15:21.** **Both investigations landed on the Jerusalem Council independently** — circumcision brought us there, food brought us straight back. Acts 15's four requirements sit inside an **older biblical matrix** (Daniel's pagan court · Corinth's idol-meat · **Gen 9:4's blood, given to humanity** · Lev 17's *ger* laws). **Then James adds "Moses is read every Sabbath" — and it gets routinely skipped when the council is summarized as "Gentiles only had four rules."** **Reading A** (four are sufficient; enabling fellowship) vs **Reading B** (four are initial; instruction continues) → **very different conclusions.** Promoted from bookmark to **next investigation**
+
+**→ Stage 18's actual destination, now stated precisely enough to be answerable:** **what did Yahweh designate as food, for whom, under which covenantal administration — and what, if anything, does Messiah's work change about those distinctions?** *(Note: that is **Covenantal Jurisdiction** from Stage 17, applied to food. The instrument was built two stages before the question that needed it.)*
 
 ---
 
 ## Next Stage (not yet written)
 
-**1 Timothy 4:1–5 at full pressure** — the hardest food passage, deliberately not softened. Then whatever the verdict requires. **Carried in:** the *brōmata* scope question · the opponents' ascetic profile · and **"sanctified by the word of God"** — *which word?*
+**Acts 15:21 — "Moses is read every Sabbath in the synagogues."** Why does James say that *immediately after* imposing four requirements on Gentile believers? **Reading A vs Reading B** ([[04-open-questions]] item 26). **James's own comment may reveal how the apostles understood the requirements they had just issued** — which bears on both the circumcision stage and the food stage, since both arrived at this council independently.
 
-**Superseded plan, preserved:** a short historical/exegetical investigation of the Roman table was named as the next step and has now been **substantially carried out within Stage 18.5** (Daniel's precedent + Corinth's documented parallel). What remains open is recorded as [[04-open-questions]] item 31.
+**Still standing and not to be dropped:** the Romans 14 day-dispute (item 34) · Colossians 2's two questions (item 35) · whether Paul's liberty presupposes or expands the edible category · whether Mark 7's participle resolves declaratively (item 29) · and *which word* is meant at 1 Timothy 4:5.
+
+---
+
+## Superseded — Previous "Next Stage" Entries, Preserved
+
+**Stage 18.5 → 18.6:** **1 Timothy 4:1–5 at full pressure** — carried out above.
+
+**Stage 18 → 18.5:** a short historical/exegetical investigation of the Roman table — **substantially carried out within Stage 18.5** (Daniel's precedent + Corinth's documented parallel). What remains open is [[04-open-questions]] item 31.
 
 ---
 

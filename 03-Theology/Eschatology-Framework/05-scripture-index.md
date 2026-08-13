@@ -1290,9 +1290,24 @@ CJB (23): "self-imposed religious observances, false humility and asceticism"
 RVR1960 (23): "culto voluntario, en humildad y en duro trato del cuerpo"
 **Complicates using 2:16 as a simple "Sabbath and food laws abolished."**
 
-### 1 Timothy 4 — flagged in advance, not yet argued
+### Food designated by Yahweh's word — the Genesis→Leviticus chain behind 1 Timothy 4:5
+
+**Genesis 1:29–30**
+ESV (29): "Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit. You shall have them for food."
+CJB (29): "Here! Throughout the whole earth I am giving you as food every seed-bearing plant and every tree with seed-bearing fruit."
+ESV (30): "And to every beast of the earth... I have given every green plant for food."
+**Chain: Gen 1:29 (plants for food) → Gen 7:2 (clean/not clean) → Gen 9:3–4 (animals granted, blood restricted) → Lev 11:47 ("the living creature that may be eaten and the living creature that may not be eaten").**
+**So when 1 Tim 4:5 says food is sanctified "by the word of God," there GENUINELY IS prior scriptural language designating what may and may not be eaten. Does not prove Paul invokes Leviticus 11; does establish the concept is not invented.**
+
+### 1 Timothy 4 — under full pressure
+
+> **Structural finding: "created by God" cannot by itself mean "edible."** Yahweh created poisonous plants, toxic fungi, insects, predators, and human beings. **Verse 4 must operate inside verse 3's category — *foods*.** See [[04-open-questions]] items 36–37.
 
 **1 Timothy 4:3–5**
+Greek: **βρωμάτων** *brōmatōn* (foods) · **ἁγιάζεται** *hagiazetai* (is sanctified) · **διὰ λόγου θεοῦ καὶ ἐντεύξεως** *dia logou theou kai enteuxeōs* ("through the word of God and prayer")
+RVR1960 (3): "prohibirán casarse, y mandarán abstenerse de alimentos que Dios creó para que con acción de gracias participasen de ellos los creyentes y los que han conocido la verdad."
+RVR1960 (4): "Porque todo lo que Dios creó es bueno, y nada es de desecharse, si se toma con acción de gracias"
+RVR1960 (5): "porque por la palabra de Dios y por la oración es santificado."
 ESV (3): "who forbid marriage and require abstinence from foods that God created to be received with thanksgiving"
 ESV (4): "For everything created by God is good, and nothing is to be rejected if it is received with thanksgiving"
 ESV (5): "for it is made holy by the word of God and prayer"
