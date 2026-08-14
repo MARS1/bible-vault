@@ -121,6 +121,18 @@ For every substantive claim or connection, **preserve where applicable**. Not ev
 
 **Companion distinction — two axes for "clean food":** **species classification** vs **preparation/provenance/condition**. Independent. Do not let a conviction on one silently settle the other.
 
+## Removal ≠ Replacement — Run Whenever a Successor Is Claimed *(added v1.8)*
+
+> ### **Fulfillment must be demonstrated; replacement must be demonstrated SEPARATELY.**
+
+**Modifying, fulfilling, or removing an institution does **not** establish that a later practice replaced it. **Replacement requires positive evidence for the replacement.**
+
+**Invalid:** ❌ *Sabbath not mandatory → therefore Sunday replaced it.* **Two unwarranted steps, and arguments routinely take both at once.**
+
+**Test every claimed succession independently:** Israel → Church · Sabbath → Sunday · Passover → Easter · biblical feasts → Christian calendar · priesthood → ecclesiastical priesthood.
+
+**Companion to Fulfillment ≠ Abolition** — that blocks assuming the pattern is gone; **this blocks assuming something else is now in its seat.**
+
 ## Fulfillment ≠ Abolition — Run on Every Fulfilled Pattern *(added v1.7)*
 
 > ### **Ask what fulfillment DOES to this particular pattern. "It was a shadow" is not a universal abolition algorithm.**
@@ -319,6 +331,7 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **1.8** | 2026-08-14 | Added **Removal ≠ Replacement** (Stage 19) — *fulfillment must be demonstrated; replacement must be demonstrated separately.* Blocks the two-step slide (institution changed → therefore successor X) across Israel→Church, Sabbath→Sunday, Passover→Easter, feasts→Christian calendar, priesthood→ecclesiastical priesthood. |
 | **1.7** | 2026-08-14 | Added **Fulfillment ≠ Abolition** (Stage 18.10) — ask what fulfillment *does* to each pattern; "it was a shadow" is not a universal abolition algorithm; both silent additions forbidden. Added the **Collapsed-Explanation Diagnostic** (Stage 18.9) to 00b. Restated the **lexical-substitution guard** (*cheirographon* ≠ *nomos*). |
 | **1.6** | 2026-08-14 | Added the **three content provenance layers** (ADR-0009) — Main Argument / ✍️ Manuscript Voice / 🔬 **Researcher's Commentary** — with the classification question to run on every tranche and the *preserve everything now, curate later* principle. Glossary gained the **imply/infer** distinction. **BIBLE-04g's scope extended:** the Stages 1–12 backfill must now also **recover Researcher's Commentary** wherever surviving material permits. |
 | **1.5** | 2026-08-13 | Added **Covenantal Transmission** (Stage 18.7) — for each prior covenantal command as the covenant people expands: reaffirmed / transformed / universalized / spiritually deepened / left unstated / attached to a prior administration. Replaces *"is Torah abolished — yes or no?"* and blocks both directions of the all-or-nothing error. Glossary gained ***ger***. |

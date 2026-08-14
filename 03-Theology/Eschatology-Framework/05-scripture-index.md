@@ -1431,6 +1431,65 @@ ESV: "The one who observes the day, observes it in honor of the Lord. The one wh
 CJB: "He who observes a day as special does so to honor the Lord."
 **🚧 Paul does NOT say "Sabbath." Romans 14 is not the Sabbath-abolition passage — see [[04-open-questions]] item 34.**
 
+## Sabbath — Creation, Covenant Sign, Shadow, Rest (see [[00w-sabbath-creation-covenant-sign-shadow-rest]])
+
+> Hebrew: **שָׁבַת** *shāvat* (cease/rest) → **שַׁבָּת** *Shabbat* · **אוֹת** *ʾôt* (sign) · **זָכוֹר** *zāḵôr* (remember). Greek: **ἄνθρωπος** *anthrōpos* · **σάββατον** *sabbaton* · **σαββατισμός** *sabbatismos*.
+> *(Genesis 2:2–3, Exodus 16:23/29–30, Exodus 20:8–11, Mark 2:27–28 indexed above under the Colossians 2 setup.)*
+
+**Exodus 16:26–28** — instruction BEFORE Sinai; Yahweh calls it "my commandments"
+ESV (26): "Six days you shall gather it, but on the seventh day, which is a Sabbath, there will be none."
+ESV (28): "And the Lord said to Moses, 'How long will you refuse to keep my commandments and my laws?'"
+CJB (28): "How long will you refuse to observe my mitzvot and teachings?"
+
+**Deuteronomy 5:15** — the SECOND rationale: redemption
+ESV: "You shall remember that you were a slave in the land of Egypt, and the Lord your God brought you out from there with a mighty hand and an outstretched arm. Therefore the Lord your God commanded you to keep the Sabbath day."
+CJB: "Therefore Adonai your God has ordered you to keep the day of Shabbat."
+**So Sabbath signifies creation (Exod 20:11) AND redemption (Deut 5:15).**
+
+**Exodus 31:13** — the covenant SIGN
+ESV: "Above all you shall keep my Sabbaths, for this is a sign between me and you throughout your generations, that you may know that I, the Lord, sanctify you."
+CJB: "this is a sign between me and you through all your generations; so that you will know that I am Adonai, who sets you apart for me."
+**⚖️ Creation-rooted AND an explicit covenant sign with Israel. Both stand; neither erases the other.**
+
+**Numbers 15:32, 35–36** — not optional personal spirituality
+ESV (32): "they found a man gathering sticks on the Sabbath day."
+ESV (35): "The man shall be put to death; all the congregation shall stone him with stones outside the camp."
+
+**Isaiah 56:3, 6–7** — FOREIGNERS keeping Sabbath; the *ger* thread, fourth appearance
+ESV (3): "Let not the foreigner who has joined himself to the Lord say, 'The Lord will surely separate me from his people'"
+ESV (6–7): "And the foreigners who join themselves to the Lord... everyone who keeps the Sabbath and does not profane it, and holds fast my covenant—these I will bring to my holy mountain... for my house shall be called a house of prayer for all peoples."
+CJB (6): "all who keep Shabbat and do not profane it, and hold fast to my covenant"
+**🚧 Establishes prophetic precedent — NOT post-resurrection Gentile obligation. Different question.**
+
+**Luke 4:16** — Yeshua's practice
+ESV: "And as was his custom, he went to the synagogue on the Sabbath day, and he stood up to read."
+CJB: "on Shabbat he went to the synagogue as usual."
+
+**Matthew 12:12 / Mark 3:4** — note the word LAWFUL
+ESV (Matt 12:12): "Of how much more value is a man than a sheep! So it is lawful to do good on the Sabbath."
+CJB (Matt 12:12): "Therefore, what is permitted on Shabbat is to do good."
+ESV (Mark 3:4): "Is it lawful on the Sabbath to do good or to do harm, to save life or to kill?"
+**His argument is not "the Law doesn't matter" — it is "this is what LAWFUL Sabbath faithfulness looks like."**
+
+**Hebrews 4:8–11** — 🔴 *sabbatismos*; the translations diverge. See [[04-open-questions]] item 50.
+ESV (8): "For if Joshua had given them rest, God would not have spoken of another day later on."
+ESV (9): "So then, there remains **a Sabbath rest** for the people of God,"
+ESV (10): "for whoever has entered God's rest has also rested from his works as God did from his."
+ESV (11): "Let us therefore strive to enter that rest"
+CJB (9): "So there remains **a Shabbat-keeping** for God's people."
+CJB (10): "For the one who has entered God's rest has also rested from his own works, as God did from his."
+**ESV = a STATE entered. CJB = an OBSERVANCE practiced. Hebrews avoids the ordinary sabbaton. v.10 reaches explicitly back to Genesis 2.**
+
+**Isaiah 66:23** — ⚠️ Sabbath AFTER the new-heavens-and-earth horizon; "ALL FLESH"
+ESV: "From new moon to new moon, and from Sabbath to Sabbath, all flesh shall come to worship before me, declares the Lord."
+CJB: "Every month on Rosh-Hodesh and every week on Shabbat, everyone living will come to worship in my presence."
+**HIGH RELEVANCE, ESCHATOLOGICAL INTERPRETATION UNRESOLVED — and subject to the Ezekiel consistency brake. See [[04-open-questions]] item 51.**
+
+**Acts 13:42, 44** — evidence held without inflation
+ESV (42): "the people begged that these things might be told them the next Sabbath."
+ESV (44): "The next Sabbath almost the whole city gathered to hear the word of the Lord."
+**Luke does NOT say the Gentiles had been commanded to keep Sabbath.**
+
 ### Colossians 2 — shadow language, and asceticism named
 
 **Colossians 2:16–17** — 🔍 *sōma* fork

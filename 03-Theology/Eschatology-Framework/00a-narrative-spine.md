@@ -508,7 +508,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** does fulfillment of a shadow make the shadow false, sinful, unnecessary, transformed — or something else?
 
-### Stage 18.10 — Colossians 2: What Happens to a Shadow When the Reality Arrives? *(current)*
+### Stage 18.10 — Colossians 2: What Happens to a Shadow When the Reality Arrives?
 
 **File:** [[00v-colossians-2-shadow-and-body]]
 
@@ -532,9 +532,57 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question, and it is the hardest covenant-sign test yet.**
 
+## Stage 19 — Sabbath: Creation, Covenant Sign, Shadow, and Rest *(current)*
+
+**File:** [[00w-sabbath-creation-covenant-sign-shadow-rest]]
+
+> **The strongest test of the methodology yet, because Sabbath fits NEITHER "Mosaic, therefore temporary" NOR "creation ordinance, therefore unchanged forever."** **Six questions separated before starting** — when seventh-day holiness first appears · who is commanded · what it signifies · what changes under Messiah · whether the day continues · whether Gentiles are ever commanded.
+
+- **Gen 2:2–3 — Yahweh RESTS, BLESSES, SANCTIFIES the seventh day.** Predates Abraham, Israel, Sinai, Levi, Moses. **🚧 FIRST BRAKE, load-bearing: Genesis 2 does NOT command Adam and Eve to observe it.** ✅ *creation-rooted* may be said. ❌ *Genesis 2 commands every human forever* may **not** — that needs separate evidence
+- **Exod 16 — instruction BEFORE Sinai**, and Yahweh calls it "**my commandments and my laws**" (16:28). So the command isn't first appearing on the tablets
+- **Exod 20:11 grounds it in CREATION** — structurally unlike a command whose rationale begins at Sinai. **Deut 5:15 adds a SECOND rationale: REDEMPTION from Egypt.** So Sabbath signifies **creation + rest + freedom + provision** — not "don't work Saturday"
+- **⚖️ AND Exod 31:13/16–17 makes it an explicit COVENANT SIGN (*ʾôt*) with ISRAEL.** **BOTH FACTS STAND; NEITHER ERASES THE OTHER. That is the tension, and an honest reading carries both.** *(Per ADR-0009's covenant work: Sabbath is a **sign**, like the rainbow and circumcision — not the covenant itself)*
+- **Num 15:32–36 — the stick-gatherer executed.** Whatever a modern reader does with it: **Sabbath belonged deeply to Israel's covenantal order, not optional personal spirituality**
+- **ISAIAH 56:6–7 — FOREIGNERS who join themselves to Yahweh, KEEP SABBATH, hold covenant**, brought to His holy mountain; "**a house of prayer for all peoples**." **So Sabbath can't be dismissed as an ethnic custom outsiders never touched.** 🚧 *But it does not establish post-resurrection Gentile obligation — different question.* **Fourth appearance of the *ger* thread**
+- **Yeshua does NOT behave like someone who despises Sabbath** — Luke 4:16 "as was his custom." **The controversies are Yeshua vs. particular INTERPRETATIONS, not Yeshua vs. Sabbath** (same shape as Mark 7)
+- **Mark 2:27 — made for *ἄνθρωπος anthrōpos*, not "for the Jew."** 🚧 *Don't commit the lexical fallacy that this alone proves universal obligation.* **What it establishes: Sabbath grounded in HUMAN BENEFIT.** **Mark 2:28 — He claims LORDSHIP over it, not irrelevance of it**
+- **Matt 12:12 / Mark 3:4 — "it is LAWFUL to do good."** His argument isn't *the Law doesn't matter*; it's ***this is what lawful Sabbath faithfulness looks like*** — fitting Sabbath's own themes of creation restored and slaves liberated. **Healing on Sabbath is close to a living parable of what Sabbath means**
+- **HEBREWS 4:9 — "there remains a *sabbatismos* for the people of God,"** with 4:10 reaching explicitly back to **Genesis 2's creation rest.** **⚖️ But note what Hebrews does NOT say: it neither abolishes weekly Sabbath nor commands Gentiles to observe Saturday**
+- **🔴 *SABBATISMOS* — THE TRANSLATIONS DIVERGE ALONG THE EXACT FAULT LINE.** Hebrews avoids the ordinary *sabbaton*. **ESV "a Sabbath REST" (a state entered) vs CJB "a *Shabbat*-KEEPING" (an observance practiced).** The *-ismos* ending is verbal in shape, which is why CJB reads it so — **but morphology doesn't settle the referent.** Interest noted both directions, settling nothing
+- **Romans 14:5 — ESTABLISHED that Paul permits differing convictions on religious days; NOT ESTABLISHED that he means weekly Sabbath.** So it can abolish **or** mandate nothing on its own
+- **Acts held at actual weight:** Paul in synagogues on Sabbath is *when Jews gathered* — **does NOT establish his personal theology.** Clean observation-vs-interpretation case. Acts 13:42/44's "next Sabbath" kept as evidence **without inflation**
+- **Acts 15 conspicuous again:** Sabbath **not** among the Gentile requirements — **that is evidence** — but 15:21 has Moses read every Sabbath. **The apostolic evidence is genuinely ambiguous on mandatory Gentile observance, and honesty requires saying so**
+- **⚠️ ISAIAH 66:23 — "from Sabbath to Sabbath, ALL FLESH shall come to worship," AFTER the new-heavens-and-earth horizon.** Makes "Sabbath belonged only to Sinai and disappears" harder to sustain. **🚧 MARKED: HIGH RELEVANCE, ESCHATOLOGICAL INTERPRETATION UNRESOLVED** — its placement relative to New Jerusalem / covenant transition / AD 70 / Revelation 21–22 hasn't been investigated
+- **❗ THE EZEKIEL CONSISTENCY BRAKE, with teeth in both directions:** if Isaiah's future Sabbath proves a literal future Sabbath, **what are we doing with Ezekiel's future SACRIFICES? We may not literalize whichever prophetic institution supports our position and symbolize the inconvenient ones**
+- **FULL A/B/C/D CLASSIFICATION recorded** — 12 Tier A observations standing simultaneously; Tier B synthesis (creation · rest · holiness · covenant · liberation · provision · mercy · restoration · Messianic rest); Tier C hypothesis (weekly Sabbath as temporal shadow of the greater rest). **TIER D — NOT ESTABLISHED IN BOTH DIRECTIONS: not that Gentiles are commanded to observe identically to Mosaic Israel; not that Messiah abolished seventh-day holiness; NOT that Messiah transformed Sabbath into Sunday**
+- **SUNDAY IS A SEPARATE QUESTION ENTIRELY.** Even concluding Sabbath isn't obligatory for Gentiles would **not** establish Sunday as its replacement. That bridge (resurrection on the first day · Acts 20:7 · 1 Cor 16:2 · Rev 1:10 · post-apostolic practice) **needs its own investigation.** Bookmarked
+
+**🆕 NEW FORMAL RULE — DO NOT CONFUSE REMOVAL WITH REPLACEMENT:** **fulfillment must be demonstrated; replacement must be demonstrated SEPARATELY.** Blocks the two-step slide that arguments routinely take at once. Applies to **Israel→Church · Sabbath→Sunday · Passover→Easter · feasts→Christian calendar · priesthood→ecclesiastical priesthood.** **Companion to Fulfillment ≠ Abolition** — that blocks assuming the pattern is gone; this blocks assuming something else is in its seat.
+
+**→ earns the next question:** what does *sabbatismos* actually mean, and is the rest already entered, still future, or both?
+
 ---
 
 ## Next Stage (not yet written)
+
+### **HEBREWS 4 SURGICALLY — *sabbatismos*. Deliberately NOT Sunday.**
+
+> **Not jumping to Sunday is itself an application of the new rule: the Sunday question only becomes live once a replacement is being *claimed*, and none has been demonstrated.**
+
+**Enormous difference between** ❌ *"Messiah is our Sabbath, therefore the day disappeared"* **and what Hebrews says:** ✅ *"there remains a **sabbatismos** for the people of God."*
+
+**Three determinations:**
+1. **What did *sabbatismos* mean in its linguistic and historical setting** — and why did Hebrews choose it over the ordinary *sabbaton*? *(CJB's "Shabbat-keeping" vs ESV's "Sabbath rest" hangs on this.)*
+2. **How Hebrews builds the argument: Genesis 2 → wilderness Israel → Psalm 95 → Joshua → "Today" → Messiah**
+3. **🔑 Is the rest ALREADY ENTERED, STILL FUTURE, or BOTH?**
+
+> ### **That third question could reconnect Sabbath to the eschatological framework built since Stage 7 — because *already / not yet / both* is the same structural question the millennium, the "little season," and Matthew 24 keep raising.**
+>
+> **⚙️ Note the convergence: this is the THIRD line arriving at that junction from a non-prophetic direction** — after **Acts 21's AD 70 question** (18.9) and **Colossians 2's *tōn mellontōn*** (18.10).
+
+---
+
+## Superseded — Previous "Next Stage" Entry (18.10 → 19), Preserved
 
 ### **SABBATH — and it is structurally different from everything tested so far**
 

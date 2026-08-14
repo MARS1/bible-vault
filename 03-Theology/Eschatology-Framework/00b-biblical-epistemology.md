@@ -221,6 +221,21 @@ The test runs in both directions. Collapse packages several things as one; **imp
 
 **Worked case:** **Matthew 15:20** summarizes the controversy as "**to eat with unwashed hands does not defile anyone**" — and **Matthew has no parenthesis at all** where Mark 7:19 has "(thus he declared all foods clean)." **Matthew's narrower scope has to constrain the reading of Mark's ambiguous participle.** *(It does not by itself settle the grammar — see [[00s-clean-and-unclean-from-noah-to-messiah]] §13.)*
 
+## Do Not Confuse Removal With Replacement (formal rule, added 2026-08-14, Stage 19)
+
+> ### **If Scripture modifies, fulfills, or removes a covenantal institution, that does NOT automatically establish that some later practice replaced it.**
+> ### **Replacement requires positive evidence FOR the replacement.**
+>
+> ### **Fulfillment must be demonstrated; replacement must be demonstrated separately.**
+
+**The invalid inference this blocks:** ❌ *Sabbath is not mandatory → therefore Sunday replaced Sabbath.* **Logically invalid without a further evidentiary bridge**, and the bridge (resurrection on the first day · Acts 20:7 · 1 Corinthians 16:2 · Revelation 1:10's "the Lord's Day" · post-apostolic practice) **would need its own investigation.**
+
+**Each of these alleged replacements must be independently demonstrated, never assumed:**
+
+**Israel → Church · Sabbath → Sunday · Passover → Easter · biblical feasts → later Christian calendar · priesthood → ecclesiastical priesthood**
+
+**Companion to Fulfillment ≠ Abolition:** that rule blocks assuming a fulfilled pattern is **abolished**; **this blocks assuming something else took its place.** **Two separate unwarranted steps, and arguments routinely take both at once.** Worked: [[00w-sabbath-creation-covenant-sign-shadow-rest]] §20–21.
+
 ## Fulfillment ≠ Abolition (formal rule, added 2026-08-14, Stage 18.10)
 
 > ### **Fulfillment does not automatically equal abolition. A methodological rule, not a theological conclusion.**
