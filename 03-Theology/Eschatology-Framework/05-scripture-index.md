@@ -1103,6 +1103,39 @@ ESV: "For the assembly, there shall be one statute for you and for the stranger 
 CJB: "there will be the same law for you as for the foreigner living with you... The same Torah and standard of judgment will apply to both you and the foreigner living with you."
 Hebrew: **גֵּר** *gēr* — sojourner / resident alien. **🚧 Do NOT flatten into "Gentile Christian."**
 
+### Numbers 6 — the Nazirite vow (Numbers 6 defines Numbers 6 BEFORE Acts/Hebrews)
+
+**Numbers 6:2** — a voluntary consecration, NOT a punishment for sin; and note "a man OR A WOMAN"
+ESV: "When either a man or a woman makes a special vow, the vow of a Nazirite, to separate himself to the Lord"
+CJB: "When either a man or a woman makes a special kind of vow, the vow of a nazir, consecrating himself to Adonai"
+Hebrew: **נָזִיר** *nāzîr* — "one separated / consecrated."
+
+**Numbers 6:3–6** — the three restrictions
+ESV (3): "he shall separate himself from wine and strong drink... shall not drink any juice of grapes or eat grapes, fresh or dried."
+ESV (4): "he shall eat nothing that is produced by the grapevine, not even the seeds or the skins."
+ESV (5): "no razor shall touch his head. Until the time is completed for which he separates himself to the Lord, he shall be holy."
+ESV (6): "All the days that he separates himself to the Lord he shall not go near a dead body."
+
+**Numbers 6:9–12** — 🔴 where the English category "sin offering" breaks
+ESV (9): "And if any man dies very suddenly beside him and he defiles his consecrated head, then he shall shave his head on the day of his cleansing"
+ESV (11): "and the priest shall offer one for a sin offering and the other for a burnt offering, and make atonement for him, **because he sinned by reason of the dead body**."
+ESV (12): "and bring a male lamb a year old **for a guilt offering**."
+CJB (9): "the day of his **purification**"
+CJB (11): "**inasmuch as he sinned because of the dead person**"
+**⚖️ BOTH HALVES STAND: the category is broader than deliberate moral transgression (a man merely stood near a corpse) — BUT the text does use sin-language and may not simply be relabeled "purification." See [[04-open-questions]] item 46.**
+
+**Numbers 6:13–15** — normal completion ALSO includes a sin offering
+ESV (13): "This is the law for the Nazirite, when the time of his separation has been completed"
+ESV (14): "one male lamb a year old without blemish for a **burnt offering**, and one ewe lamb a year old without blemish as a **sin offering**, and one ram without blemish as a **peace offering**"
+ESV (15): "and a basket of unleavened bread... and their **grain offering** and their **drink offerings**."
+ESV (20): adds a **wave offering**.
+**So Acts 21 cannot be resolved as "a harmless thanksgiving/vow sacrifice." And "pay their expenses" for FOUR men means substantive material participation, not theater.**
+
+**Hebrews 10:14** — what the finality actually claims
+ESV: "For by a single offering he has perfected for all time those who are being sanctified."
+CJB: "For by a single offering he has brought to the goal for all time those who are being set apart for God and made holy."
+**The claim is about what Messiah UNIQUELY accomplishes — not that every Temple rite became intrinsically sinful the moment Yeshua died.**
+
 ### Acts 21 — the next control case
 
 **Acts 21:20**

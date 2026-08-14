@@ -168,6 +168,21 @@ The test runs in both directions. Collapse packages several things as one; **imp
 
 **Relation to the other rules:** Category Collapse asks whether the *question* is well-formed; this asks whether a *relationship between covenants* is being assumed rather than read. It pairs with Anti-Replacement — one prevents assuming cancellation, the other prevents assuming a rigid substitute. Full treatment: [[00r-what-is-a-covenant]] §9.
 
+## The Collapsed-Explanation Diagnostic (added 2026-08-14, Stage 18.9)
+
+> ### **When a convenient explanation collapses, check whether it collapsed because one of your CATEGORIES was too small — before concluding that the evidence conflicts.**
+
+**Observed twice, in the same investigation:**
+
+| Attempt | Collapsed by | What the collapse actually exposed |
+|---|---|---|
+| *Paul participated only in a non-atoning vow offering* | **Numbers 6:14** — the Nazirite completion includes a *ḥaṭṭāʾt* | **"Sacrifice" had been flattened into one category** |
+| *"Sin offering" = Messiah's once-for-all removal of sin* | **Numbers 6:9–12** — a man who stood near a corpse owes one | **"Sin offering" had been equated with modern personal moral guilt** |
+
+> ### **In both cases the attempted answer was more useful failing than succeeding, because what it exposed was larger than what it would have solved.**
+
+**Practical form:** a failed explanation is a **diagnostic instrument**, not merely a dead end. **Ask what the failure reveals about the terms of the question before adjudicating between the texts.** *(This is why failed attempts are preserved rather than deleted — ADR-0009's Researcher's Commentary layer exists partly to make this rule usable.)*
+
 ## Knowledge Puffs Up — the Rule That Constrains the Investigator (added 2026-08-13, Stage 18)
 
 > **1 Corinthians 8:1** — ESV: "**This 'knowledge' puffs up, but love builds up.**" CJB: "'knowledge' **puffs a person up with pride**; whereas love builds up."
