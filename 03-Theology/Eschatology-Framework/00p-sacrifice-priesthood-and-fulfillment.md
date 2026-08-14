@@ -190,6 +190,14 @@ Note carefully what that formulation does **not** say: not that the earlier form
 
 **Why sit? Because the sacrificial work is complete.** A seated priest is a finished-work claim made through body position.
 
+> ### 🔧 **AMENDED 2026-08-14 (Stage 18.8) — this section originally read "because yesterday's offering did not finish anything."**
+>
+> **That overreached.** It is rhetorically stronger than Hebrews itself and implies the Levitical sacrifices accomplished nothing. **Hebrews does not say that** — it says they could not **perfect** worshipers or **finally take away sins** as Messiah does. **And Leviticus says the opposite of "nothing," repeatedly:** **Leviticus 4:20** — "the priest shall **make atonement** for them, and **they shall be forgiven**" (also 4:26, 4:35).
+>
+> **CORRECTED:** *the Levitical sacrifices accomplished the covenantal and purificatory purposes Yahweh assigned to them, but did not accomplish the final, once-for-all removal of sin — and the perfection and access — that Hebrews attributes to Messiah.*
+>
+> **This strengthens *pattern → reality* rather than weakening it:** the sacrifices were not fake, not mistakes, not useless rituals awaiting abolition. **They were real institutions accomplishing their assigned purposes while incapable of the final thing the system pointed toward.** Full treatment: [[00u-acts-21-paul-torah-and-the-two-groups]] §7. *(Original wording preserved above rather than deleted.)*
+
 **And "sat down at the right hand" is a Psalm 110:1 citation** — which puts us back in the priest-king Psalm:
 
 > **Psalm 110:1** — ESV: "The LORD says to my Lord: '**Sit at my right hand**, until I make your enemies your footstool.'" RVR1960: "Jehová dijo a mi Señor: **Siéntate a mi diestra**."
@@ -251,6 +259,9 @@ Did Messiah fulfill sacrifice by declaring *animal sacrifice was foolish and Yah
 ## 13. The First Clean New Covenant Classification
 
 **Three rows of the What-Changed table, now populated with explicit apostolic interpretation** — the strongest evidence any row has yet received:
+
+> ### 🔧 **AMENDED 2026-08-14 — do NOT read the "Sacrifice" row as "Messiah = the final sin offering."**
+> **The New Testament interprets His death through *multiple* sacrificial patterns:** sin/purification offering (Heb 9:26; 10:12) · **guilt offering, *asham*** (Isaiah 53:10) · **Yom Kippur / Leviticus 16** (Heb 9:12) · **Passover** (1 Cor 5:7). **And He is simultaneously the priest** (Heb 9:14 — "offered himself"), which Leviticus never permits. **"Once-for-all sacrifice for sins" describes the *finality* of the atoning work without collapsing it into one Levitical category.** See [[00u-acts-21-paul-torah-and-the-two-groups]] §6.
 
 | | Retained as reality? | Retained in its earlier form? | Fulfilled in whom? |
 |---|---|---|---|

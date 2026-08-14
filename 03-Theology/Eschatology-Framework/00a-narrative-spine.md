@@ -433,7 +433,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ Stage 18.6's destination, now stated precisely enough to be answerable:** **what did Yahweh designate as food, for whom, under which covenantal administration — and what, if anything, does Messiah's work change about those distinctions?** *(Note: that is **Covenantal Jurisdiction** from Stage 17, applied to food. The instrument was built two stages before the question that needed it.)*
 
-### Stage 18.7 — Acts 15: Were the Four Requirements the Whole Torah for Gentiles? *(current)*
+### Stage 18.7 — Acts 15: Were the Four Requirements the Whole Torah for Gentiles?
 
 **File:** [[00t-acts-15-and-the-four-requirements]] *(own file — Acts 15 is where **both** investigations converged independently, and it produces two new instruments; the spine holds the sequence)*
 
@@ -455,9 +455,56 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** what did the council actually mean — and Acts 21 may say so directly.
 
+### Stage 18.8 — Acts 21: Paul, Torah, and the Difference Between Two Groups *(current)*
+
+**File:** [[00u-acts-21-paul-torah-and-the-two-groups]]
+
+> **⚙️ First file written under ADR-0009**, demonstrating all three provenance layers. **The Acts 21 sacrifice question is the clearest example yet of why the Researcher's Commentary layer was needed.**
+
+- **Acts 21:20 — "many thousands" of Jewish believers "all zealous for the law," DECADES after the council.** Luke calls them believers **and** Torah-zealous, without qualification. **So Acts 15 did NOT produce an assembly where Jewish followers regarded Torah observance as incompatible with faith in Messiah**
+- **The accusation is *apostasia*** — that Paul teaches Jews to **apostatize from Moses**. **James does not say "yes, and he should."** He proposes a **public demonstration**, and **his stated purpose is that all will know the accusation is FALSE and that Paul "himself lives in observance of the law."** Luke records Paul doing it. **Not an inference — the purpose is stated in the text**
+- **The vow: Nazirite is highly plausible, NOT named by Luke.** What IS explicit: Temple purification and offerings, and Paul participates
+
+**🔬 RESEARCHER'S COMMENTARY — the sacrifice problem, worked and preserved (the ADR-0009 canonical example):**
+- **Attempt 1 — accommodation.** Partly right; Luke's stated purpose supports the demonstration half. **🚧 But a brake on the word "technicality"** — it would make Paul sound deceptive, an integrity problem the text doesn't create. **Reframed:** *Paul practices what remains permissible for him as a Jew, without treating it as necessary for justification or imposing it on Gentiles* — which **doesn't require Paul to be pretending**
+- **Attempt 2 — segregate the offering types.** ❌ **KILLED BY NUMBERS 6:14 — the Nazirite completion INCLUDES A SIN OFFERING** (plus burnt, peace, grain, drink, wave). **The convenient solution fails; the tension is real again**
+- **What the failed attempt EXPOSED, and why it was worth keeping:** the attempt assumed *"sacrifice"* is one category. **It isn't — and this project had been flattening it exactly the way it keeps warning against**
+- **Attempt 3 — narrow the question instead of answering it.** *ḥaṭṭāʾt* is often better understood as a **purification** offering (impurity, childbirth, bodily conditions, sanctuary), so the modern *sin offering = eternal guilt forgiven* is itself too crude. **Therefore participating in a rite containing a *ḥaṭṭāʾt* does not establish Paul sought an alternative to Messiah. THE SURGICAL QUESTION IS LEFT OPEN**
+
+- **🔧 CORRECTION — Messiah is NOT exclusively the "sin offering."** The NT uses **multiple** patterns: sin/purification (Heb 9:26, 10:12) · **guilt offering *asham*** (Isaiah 53:10) · **Yom Kippur** (Heb 9:12) · **Passover** (1 Cor 5:7). **And He is simultaneously the priest** (Heb 9:14), which Leviticus never permits. **The Levitical system distributes among many offices and rites what converges in Messiah** — confirming *pattern → reality* needs no one-to-one mechanical correspondence
+- **🔧 CORRECTION TO THIS PROJECT'S OWN WORDING (Stage 16 §9):** *"because yesterday's offering did not finish anything"* **overreached.** Hebrews says they could not **perfect** or **finally take away sins** — **not that they accomplished nothing.** **Leviticus 4:20/26/35: "the priest shall make atonement for them, and they shall be forgiven."** **CORRECTED: the Levitical sacrifices accomplished the purposes Yahweh assigned them, but not the final once-for-all removal Hebrews attributes to Messiah.** **This STRENGTHENS pattern→reality** — they were real institutions, not mistakes awaiting abolition
+- **1 Corinthians 9:19–22 as a Pauline control** on accommodation — *"to the Jews I became as a Jew"* — **but we do NOT announce it explains Acts 21; Paul never connects them.** Raises plausibility, doesn't establish
+- **Paul says "I AM a Pharisee" — present tense** (Acts 23:6), and **"I worship the God of our fathers, believing everything laid down by the Law and written in the Prophets"** (24:14), **after** following Yeshua. Acts 17:2 — he reasons in synagogue **from the Tanakh**, since no completed New Testament existed. **So his claim is not *Moses was wrong, Yeshua replaced him* but *Moses and the Prophets were pointing toward Messiah***
+- **Acts 21:25 — James explicitly distinguishes the two groups.** Strong evidence the early assembly did not erase Jewish/Gentile covenantal distinctions on faith. **⚖️ But do NOT overstate: Ephesians 2:14 "he has made both one." Unity is real — it just doesn't require identical practice in every respect**
+- **Timothy / Titus / Acts 21 form ONE coherent pattern:** circumcision is **not a condition of Gentile justification**, and **Jewish covenantal practice is not thereby condemned.** Puts real pressure on reading Galatians as *circumcision is now wicked* — **the surgical act isn't the issue; the claim attached is** (Meaning-Attached-to-Action)
+- **🔖 BOOKMARK: *hypo nomon*.** "Under law" cannot simply mean "obeying any Torah command" — Paul quotes Torah as authoritative, calls it holy, condemns idolatry/theft, and **practices Jewish observance in Acts.** And **1 Cor 9:20 makes it harder, not easier**: he became "as one under the law (**though not being myself under the law**)" while, in Acts 21, **living in observance of the law.** Needs a *nomos* study, not English slogans
+- **🔧 READING B DOWNGRADED.** Stage 18.7 left open that Acts 15:21 meant Gentiles would progressively take on full Mosaic observance. **Acts 21 pressures it: years later James still distinguishes Torah-zealous Jewish believers from Gentiles for whom the decree remains the stated judgment** — rather than "by now they should all be observant." **Not impossible. Less supported. The hypothesis wasn't lost; its confidence was downgraded by later canonical evidence**
+- **Five strong conclusions + four preserved tensions** (Temple offerings vs once-for-all · whether Luke portrays Torah-zeal neutrally or as immature · Gentile obligation beyond the decree · **AD 70**, which reconnects to Matthew 24)
+- **Blocks a historical mistake:** *Yeshua came → Judaism ended → Christianity began.* **Acts doesn't read that way.** Peter goes to the Temple, Paul to the synagogue "as was his custom," Jewish believers stay Torah-zealous decades on. **Gentile inclusion is *the controversy* precisely because the movement exists inside Israel's covenantal world first**
+
+**🆕 ADR-0009 — THREE CONTENT PROVENANCE LAYERS:** **Main Argument** (chapter prose) · **✍️ Manuscript Voice** (the journey; candidate for direct inclusion) · **🔬 Researcher's Commentary** (*how* a conclusion was earned — intuitions, objections, **failed explanations**, brakes, upgrades/downgrades). **Classify every tranche against all three; material may qualify for more than one. Preserve everything now, curate later.** **Orthogonal to ADR-0006** (which governs rhetorical form inside a chapter), **not a replacement.** **BIBLE-04g extended** — the Stages 1–12 backfill must now also recover Researcher's Commentary.
+
+**🆕 GLOSSARY: imply vs. infer — *the text implies; the reader infers*.** The project has operated this since Stage 1 without naming it; **naming it matters because the conflation is how an inference quietly acquires the authority of a statement.**
+
+**→ earns the next question:** Colossians 2, which can strengthen, weaken, or modify the accommodation reading.
+
 ---
 
 ## Next Stage (not yet written)
+
+**Colossians 2:16–23** — places **food + drink + festival + new moon + Sabbath** inside the **shadow/substance** framework, and is exactly the kind of evidence capable of testing the accommodation reading. **Two questions already open there:** *sōma* (ESV "substance" vs CJB/RVR1960 "body," possibly *the body of Messiah*), and whether "let no one judge you" forbids **the observance** or **the judgment** ([[04-open-questions]] item 35).
+
+**Then 1 Timothy 4 revisited with Acts 21 in mind.**
+
+**Then Stage 18's PROVISIONAL VERDICT:** what the evidence strongly establishes · what it leans toward · what remains genuinely uncertain · **and what cannot responsibly be claimed** from the texts examined.
+
+**Then Shabbat** — probably the next major covenant-sign test.
+
+**🌿 Future branch flagged:** **Numbers 6 offering-by-offering**, to determine what Paul may actually have participated in — **before** deciding whether Acts 21 conflicts with Hebrews, **or whether the conflict is being manufactured by importing a later, flattened definition of "sacrifice."**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (18.7 → 18.8), Preserved
 
 **Acts 21:17–26 — the control case that cannot be skipped.** Years after the council, Paul returns to Jerusalem. **Three things it puts in play, none resolved yet:**
 
@@ -553,6 +600,10 @@ The journey's self-corrections, kept deliberately because they demonstrate the m
 | 16.5 | **"Addendum"** as the model for accumulating covenants | **Modified, not rejected.** "Addendum" implies terms appended to one unchanged contract. The biblical form is **Galatians 3:17** — later legal development *does not annul an earlier promise*. Sharper, and it is Paul's own reasoning |
 | 17 | **"Gentiles become Israelites"** (used conversationally by this project) | **Sharpened via Ruth.** Ephesians 2 and Romans 11 are genuine *incorporation* language — but **neither requires ethnic descent from Jacob.** Ruth is fully incorporated and still called "**the Moabite**" afterward (2:2). **Incorporation does not require erasure of origin.** "Messianic Israelite" now carries a written definition in [[01-convictions]] B.5 |
 | 17 | **"Old *Mosaic* shadow → Messiah reality"** as the general model of fulfillment | **Broken by circumcision, which predates Sinai.** Replaced with: *trace each institution from its earliest appearance → covenantal function → prophetic development → Yeshua → apostolic interpretation.* **Immediate cost accepted as evidence it's real: the food stage cannot begin at Leviticus** |
+| 18.8 | **"…because yesterday's offering did not finish anything"** *(this project's own wording, Stage 16 §9)* | **Overreached.** Hebrews says the Levitical sacrifices could not **perfect** or **finally take away sins** — **not that they accomplished nothing.** **Leviticus 4:20/26/35: "the priest shall make atonement… and they shall be forgiven."** Corrected to: *they accomplished the purposes Yahweh assigned them, but not the final once-for-all removal Hebrews attributes to Messiah.* **Strengthens pattern→reality** |
+| 18.8 | **Messiah framed as the final "sin offering"** | **Too narrow.** The NT uses **multiple** patterns — sin/purification (Heb 9:26, 10:12), **guilt offering *asham*** (Isa 53:10), **Yom Kippur** (Heb 9:12), **Passover** (1 Cor 5:7) — **and He is simultaneously the priest** (Heb 9:14), which Leviticus never permits |
+| 18.8 | **Reading B of Acts 15:21** (Gentiles progressively take on full Mosaic observance) | **DOWNGRADED, not deleted.** Acts 21:25 — years later James still distinguishes Torah-zealous Jewish believers from Gentiles for whom the decree remains the stated judgment. **Not impossible; less supported.** Confidence changed by later canonical evidence |
+| 18.8 | **Attempt to resolve Acts 21 by segregating offering types** *(Paul participated only in a non-atoning vow offering)* | **KILLED BY NUMBERS 6:14** — the Nazirite completion **includes a sin offering**. **Preserved as 🔬 Researcher's Commentary** because the failed attempt exposed that this project had flattened *"sacrifice"* into one category |
 | 18.5 | **"The Roman abstainer's practice extends well beyond avoiding Levitically unclean animals"** *(this project's own claim, Stage 18)* | **Amended by Daniel 1.** True of the **behavior**, misleading about the **reason** — **a Torah-faithful person can land on plants-only precisely because the food supply is unverifiable.** Original wording preserved in [[00s-clean-and-unclean-from-noah-to-messiah]]. **The method catching its own overreach** |
 | 18.5 | **Recollection that Daniel was told in a vision / by an angel not to eat** | **Daniel 1:8 says he "resolved"** — a prior conviction, no vision, no angel, no reported command. **The visions come afterward as a gift (1:17).** The corrected sequence is better than the remembered one |
 | 18.5 | **Recollection that the other youths became weaker** | **Text says Daniel's four were "better in appearance and fatter in flesh"** — a comparative statement about the four, not a decline in the others |

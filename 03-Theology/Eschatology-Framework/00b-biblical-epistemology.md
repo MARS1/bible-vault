@@ -46,6 +46,12 @@ This file sits before [[01-convictions]] on purpose — it's the answer to "how 
 
 **גֵּר — *gēr*** *(added 2026-08-13, Stage 18.7)* — **sojourner / resident alien / foreigner living among Israel.** **Not identical to a native-born Israelite; not simply an unrelated foreigner living far away.** A non-native dwelling *among* Israel and therefore participating to some degree in Israel's communal life — **Torah gives him both protections and obligations.** **Numbers 15:15–16:** "**One law and one rule shall be for you and for the stranger who sojourns with you**"; CJB: "the same *Torah* and standard of judgment." **Load-bearing because the Tanakh already contains categories for foreigners attaching themselves to Yahweh's people — Gentile inclusion does not appear from nowhere in Acts.** 🚧 **But do not flatten *ger* into "Gentile Christian"** — ancient Israel under Sinai and a first-century Gentile follower of Yeshua are historically and covenantally different situations. **The legitimate question is whether James drew on Torah's requirements for resident foreigners when framing the Acts 15 decree** ([[00t-acts-15-and-the-four-requirements]] §10–11) — a serious intertextual hypothesis, not an established identification.
 
+**Imply vs. infer** *(added 2026-08-14, Stage 18.8)* — **an *implication* is what the text or evidence may suggest; an *inference* is the conclusion the reader draws from it.**
+
+> ### **The text implies; the reader infers.**
+
+**This project has been operating the distinction since Stage 1 without naming it** — every "OBSERVATION / INFERENCE / STATUS: unsupported" block is exactly this. **Naming it matters because the two get conflated in ordinary speech, and the conflation is how an inference quietly acquires the authority of a statement.** Worked case: *"Peter ate unclean animals at Cornelius's house"* — the narrative does not imply it; a reader infers it, and the inference is unsupported ([[00s-clean-and-unclean-from-noah-to-messiah]] §20).
+
 **Epistemology** *(added 2026-08-12, Stage 16)* — the study of **how we know what we know**: what counts as evidence, how claims are tested, degrees of certainty, and when conclusions should be revised. **This is the correct name for what this project is building.** Exegesis and hermeneutics are *tools operating inside* it.
 
 > ### ⚠️ Terminology correction — "ecumenological" is a different word

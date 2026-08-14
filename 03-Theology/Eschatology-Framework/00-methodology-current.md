@@ -234,6 +234,26 @@ localization: "English research witnesses: verified (ESV/CJB).
 
 **Where an argument depends on Hebrew, Aramaic, or Greek wording: preserve that original-language analysis identically across editions, and explain how the respective English and Spanish translations render it.**
 
+## Three Content Provenance Layers (ADR-0009) — Classify EVERY Tranche *(added v1.6)*
+
+> ### **Ask of every tranche: Does this advance the argument? Is it Manuscript Voice? Does it expose important Researcher's Commentary?** **It may qualify as more than one.**
+
+| Layer | What it is | Destination |
+|---|---|---|
+| **1. Main Argument / Exposition** | textual, lexical, historical, intertextual, theological evidence | normal chapter prose |
+| **2. ✍️ Manuscript Voice** | first-person reflection: the journey, corrections, discoveries, uncertainty, changing confidence | **candidate for direct inclusion** — capture inline (ADR-0004) |
+| **3. 🔬 Researcher's Commentary** | **how a conclusion was earned:** initial intuitions · objections · counterarguments · **failed explanations** · methodological brakes · surprising discoveries · **why a reading was upgraded or downgraded** | **preserved as provenance** — endnotes, "From the Research Notebook" boxes, appendices, annotated edition |
+
+**Rules for layer 3:** **do not** auto-convert into manuscript prose · **do not** discard after extracting the conclusion · **preserve the sequence** in which discoveries and corrections occurred.
+
+> ### **Preserve everything now. Curate later.** Storage is cheap; reconstruction is expensive and sometimes impossible.
+>
+> **The manuscript pass is a different activity** — it asks *what does the reader need to experience, and in what order, to arrive honestly at the conclusions we earned?* **That is composition. This is excavation. Do not do the former while doing the latter.**
+
+**⚠️ Orthogonal to ADR-0006, not a replacement.** ADR-0006's Main Exposition / 📖 Exegetical Sidebar / ✍️ Author's Reflection describe **rhetorical form inside a chapter**. These three describe **provenance and destination**. **An Author's Reflection is typically Manuscript Voice; Researcher's Commentary has no ADR-0006 form at all**, because it is not currently destined for the chapter.
+
+**Canonical worked example:** [[00u-acts-21-paul-torah-and-the-two-groups]] §5 — the Acts 21 sacrifice problem, including the attempt that **Numbers 6 killed**, preserved because the failed attempt exposed that "sacrifice" had been flattened into one category.
+
 ## Manuscript Layers (ADR-0006)
 
 - **Main Exposition** — carries the argument.
@@ -287,6 +307,7 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **1.6** | 2026-08-14 | Added the **three content provenance layers** (ADR-0009) — Main Argument / ✍️ Manuscript Voice / 🔬 **Researcher's Commentary** — with the classification question to run on every tranche and the *preserve everything now, curate later* principle. Glossary gained the **imply/infer** distinction. **BIBLE-04g's scope extended:** the Stages 1–12 backfill must now also **recover Researcher's Commentary** wherever surviving material permits. |
 | **1.5** | 2026-08-13 | Added **Covenantal Transmission** (Stage 18.7) — for each prior covenantal command as the covenant people expands: reaffirmed / transformed / universalized / spiritually deepened / left unstated / attached to a prior administration. Replaces *"is Torah abolished — yes or no?"* and blocks both directions of the all-or-nothing error. Glossary gained ***ger***. |
 | **1.4** | 2026-08-13 | Added **the rule that constrains the investigator** (1 Corinthians 8:1 — knowledge puffs up; being correct about a proposition does not make one's conduct righteous). Every other rule governs the investigation; this one governs the person running it. |
 | **1.3** | 2026-08-12 | Added the **Contextual Question Principle** (identify the author's actual dispute before citing a passage), **Parallel-Text Control**, and the **two-axis distinction** for "clean food" (species vs preparation/provenance) — all from Stage 18. Glossary gained *asceticism* and the *koinos*/*akathartos* distinction. |
