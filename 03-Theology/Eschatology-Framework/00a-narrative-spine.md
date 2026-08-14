@@ -488,7 +488,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** Colossians 2, which can strengthen, weaken, or modify the accommodation reading.
 
-### Stage 18.9 — Numbers 6: What Was Paul Actually Doing? *(current)*
+### Stage 18.9 — Numbers 6: What Was Paul Actually Doing?
 
 **File:** [[00u-acts-21-paul-torah-and-the-two-groups]] §19–29 *(the branch flagged at 18.8 §18, taken immediately rather than deferred)*
 
@@ -508,9 +508,52 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** does fulfillment of a shadow make the shadow false, sinful, unnecessary, transformed — or something else?
 
+### Stage 18.10 — Colossians 2: What Happens to a Shadow When the Reality Arrives? *(current)*
+
+**File:** [[00v-colossians-2-shadow-and-body]]
+
+> **The passage is used in opposite directions with equal confidence. We began with neither — and, per standing discipline, began BEFORE verse 16.**
+
+- **The argument starts with Messiah, not food.** 2:8's target is **"philosophy and empty deceit, according to human tradition."** By 2:11 circumcision · immersion · death · resurrection are already woven together. **Verse 16 is not an isolated dietary ruling**
+- **🔴 THE *CHEIROGRAPHON* BRAKE.** You will hear *"the Torah was nailed to the cross."* **Paul does not write νόμος *nomos*. He writes χειρόγραφον — a handwritten certificate of DEBT** (CJB "bill of charges"). **We do not silently replace his noun with "Torah."** Same shape of error as reading "planet Earth" into *gē* or "legalism" into Galatians 5:4. **What the *cheirographon* actually is: recorded as a live question, unresolved**
+- **2:15 is cosmic victory — forgiveness, debt cancelled, rulers disarmed. Verse 16's "therefore" hangs off THAT.** The paragraph is not a menu
+- **Festival → new moon → Sabbath is a recognizable Tanakh calendrical formula** (1 Chr 23:31, Ezek 45:17, Hosea 2:11). **Paul is using biblical sacred-calendar language, not naming random holidays**
+- **📌 FOURTH CONFIRMED VERSIFICATION OFFSET: CJB numbers ESV's Hosea 2:11 as 2:13** (+2 in Hosea 2, from Hebrew numbering counting ESV 1:10–11 as 2:1–2). Surfaced the same way as the previous three
+- **2:17 — σκιά *skia* → σῶμα *sōma*. LITERALLY shadow → BODY.** ESV's "substance" is interpretive; CJB/RVR1960 keep "body." **Remarkably close to the model reached independently through Leviticus/Acts/Hebrews — we arrived carrying it, not manufacturing it**
+- **❗ AND VERSE 17 DOES NOT ANSWER THE QUESTION IT RAISES.** A shadow, on the body's arrival, might become **meaningless · obsolete · unnecessary · still informative · still observable but no longer constitutive · transformed in meaning · or valuable precisely because it reveals the reality's shape.** **NOT equivalent propositions — and NONE of them is in the word *skia*.** ❌ Don't add *"therefore sinful to observe."* ❌ Don't add *"therefore obligatory exactly as before"*
+- **⏳ A TEMPORAL PROBLEM: τῶν μελλόντων — "things to COME" — written AFTER the cross.** If everything signified had been exhausted at the cross, why future-oriented language? **🚧 Don't overstate — *mellō* participles function broadly and this is not yet an argument. But it earns an open question: did Paul understand some realities signified by Israel's sacred calendar as still awaiting fulfillment?** Potentially significant for eschatology
+- **WHO IS JUDGING? Reading A** (Judaizers criticizing Gentiles for NOT observing) **vs Reading B** (ascetic/syncretistic teachers criticizing HOW they observe). **2:18–23 supplies the opponent profile: asceticism · ANGEL WORSHIP · visions · do-not-touch/taste · and explicitly "HUMAN precepts and teachings."** **A much stranger religious environment than ordinary Torah observance** — resembling **Mark 7's commandment-vs-tradition** and **1 Timothy 4's forbid-marriage-and-foods**
+- **⚖️ BUT THE BRAKE RUNS BOTH WAYS — third consecutive stage.** Continuity readers **can't** say "nothing here concerns Torah" — v.17 plainly intersects it. Discontinuity readers **can't** say "Torah was nailed to the cross" — Paul didn't use *nomos*, and the opponents include clearly extra-biblical practices. **Both simplistic systems fail to absorb the evidence**
+- **WORKING MODEL (not a conclusion):** *because believers possess the reality in Messiah, they must not permit others to establish spiritual condemnation over them concerning food, sacred times, ascetic restrictions, visionary experiences, or human religious regulations.* **Deliberately answers NEITHER "therefore observe Sabbath" NOR "therefore don't"**
+- **Romans 14:6 adds a Pauline principle** — calendar observance can be performed **unto Yahweh** without functioning as justification or grounds for judging. **🚧 But Paul doesn't say "Sabbath"; Romans 14 is still not the Sabbath-abolition passage**
+- **May explain Acts 21:** if Torah's institutions are shadows whose reality is Messiah, participation needn't deny the reality — **Paul calls Messiah "our Passover," and recognizing the reality doesn't make the Exodus false. THE REALITY MAKES THE PATTERN MORE INTELLIGIBLE.** Same hypothesis as 18.9 §26, now with a second independent line of support
+
+**🆕 NEW FORMAL RULE — FULFILLMENT ≠ ABOLITION:** ask what fulfillment **does** to each particular pattern. **"It was a shadow" cannot function as a universal abolition algorithm.** Already demonstrated: sacrifice, circumcision, and Passover are each fulfilled and each behaves **differently**. **Companion to Covenantal Transmission** — that asks what happens to a command as the covenant people expands; this asks what fulfillment does to a pattern.
+
+**→ earns the next question, and it is the hardest covenant-sign test yet.**
+
 ---
 
 ## Next Stage (not yet written)
+
+### **SABBATH — and it is structurally different from everything tested so far**
+
+**Colossians opened a deeper problem than it closed.** Paul grouped Sabbath with festivals and new moons and called them shadows. **But Sabbath's history is not the Levitical priesthood's:**
+
+- **Genesis 2:2–3** — Yahweh rested, **blessed the seventh day and made it holy** — **before Abraham, Israel, Sinai, Levi, Moses**
+- **Exodus 16:23, 29–30** — Israel observes seventh-day rest **before the Ten Commandments are proclaimed at Sinai**
+- **Exodus 20:11** — Sinai grounds Sabbath **not merely in Sinai but in CREATION ITSELF**
+- **🔍 Exodus 20:10 extends the rest to "the foreigner staying with you inside the gates" — the *ger* again**
+- **Mark 2:27 — "The Sabbath was made for ἄνθρωπος — *anthrōpos*, MAN/HUMANKIND," not "for Israel"**
+- **Yet Paul calls it a shadow**
+
+> ### **THE QUESTION: if Sabbath is rooted in creation before Sinai, incorporated into the Ten Commandments at Sinai, practiced by Yeshua, called a shadow by Paul, and appears again in prophetic/eschatological contexts — what exactly does Messiah fulfill or change about it?**
+>
+> **Considerably harder than "do Christians have to keep Saturday?" — which is precisely why it is the right question.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (18.9 → 18.10), Preserved
 
 > **⚙️ Note the order this arrived in: *shadow → reality* was reached independently through Leviticus, Acts, and Hebrews — NOT manufactured to explain Colossians.** That makes the next question available in a far more sophisticated form than it would otherwise have been.
 

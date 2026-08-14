@@ -1368,6 +1368,69 @@ CJB: "if someone says to you, 'This meat was offered as a sacrifice,' then don't
 ESV: "So, whether you eat or drink, or whatever you do, do all to the glory of God. Give no offense to Jews or to Greeks or to the church of God"
 CJB: "do it all so as to bring glory to God. Do not be an obstacle to anyone — not to Jews, not to Gentiles, and not to God's Messianic Community."
 
+### Colossians 2 — the argument BEFORE verse 16 (see [[00v-colossians-2-shadow-and-body]])
+
+**Colossians 2:8**
+ESV: "See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ."
+CJB: "following human tradition which accords with the elemental spirits of the world but does not accord with the Messiah."
+
+**Colossians 2:13–14** — 🔴 *cheirographon*, NOT *nomos*. See [[04-open-questions]] item 47.
+ESV (14): "by canceling the record of debt that stood against us with its legal demands. This he set aside, nailing it to the cross."
+CJB (14): "He wiped away the bill of charges against us. Because of the regulations, it stood as a testimony against us; but he removed it by nailing it to the execution-stake."
+Greek: **χειρόγραφον** *cheirographon* — a handwritten document, commonly a certificate of indebtedness.
+**"The Torah was nailed to the cross" REPLACES PAUL'S NOUN. He does not write νόμος.**
+
+**Colossians 2:15**
+ESV: "He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him."
+CJB: "Stripping the rulers and authorities of their power, he made a public spectacle of them."
+**Verse 16's "therefore" hangs off THIS — the paragraph is cosmic victory, not a menu.**
+
+**Colossians 2:18** — the opponent profile
+ESV: "Let no one disqualify you, insisting on asceticism and worship of angels, going on in detail about visions, puffed up without reason by his sensuous mind."
+CJB: "insisting that you engage in self-mortification or angel-worship. Such people are always going on about some vision they have had."
+
+### The festival / new moon / Sabbath triad — a Tanakh formula, not a random list
+
+**1 Chronicles 23:31**
+ESV: "whenever burnt offerings were offered to the Lord on Sabbaths, new moons, and feast days, according to the number required of them, regularly before the Lord."
+CJB: "on Shabbat, at Rosh-Hodesh, and at the other designated times."
+
+**Ezekiel 45:17**
+ESV: "It shall be the prince's duty to furnish the burnt offerings, grain offerings, and drink offerings, at the feasts, the new moons, and the Sabbaths, all the appointed feasts of the house of Israel."
+CJB: "at the feasts, on Rosh-Hodesh, and on Shabbat — at all the designated times of the house of Isra'el."
+
+**Hosea 2:11** — 📌 CJB numbers this **2:13** (+2 offset in Hosea 2) — FOURTH confirmed offset
+ESV: "And I will put an end to all her mirth, her feasts, her new moons, her Sabbaths, and all her appointed feasts."
+CJB (2:13): "I will end her happiness, her festivals, Rosh-Hodesh, and shabbats, and all her designated times."
+
+### Sabbath — the setup for the next stage
+
+**Genesis 2:2–3** — before Abraham, Israel, Sinai, Levi, Moses
+ESV: "And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done. So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation."
+CJB: "God blessed the seventh day and separated it as holy."
+
+**Exodus 16:23, 29–30** — Israel observes seventh-day rest BEFORE the Ten Commandments
+ESV (23): "Tomorrow is a day of solemn rest, a holy Sabbath to the Lord"
+ESV (29): "See! The Lord has given you the Sabbath; therefore on the sixth day he gives you bread for two days."
+ESV (30): "So the people rested on the seventh day."
+CJB (23): "Tomorrow is a holy Shabbat for Adonai."
+
+**Exodus 20:8–11** — Sinai grounds Sabbath in CREATION, and extends it to the *ger*
+ESV (8): "Remember the Sabbath day, to keep it holy."
+CJB (10): "but the seventh day is a Shabbat for Adonai your God. On it, you are not to do any kind of work — not you, your son or your daughter, not your male or female slave, not your livestock, **and not the foreigner staying with you inside the gates to your property**."
+CJB (11): "For in six days, Adonai made heaven and earth, the sea and everything in them; but on the seventh day he rested. This is why Adonai blessed the day, Shabbat, and separated it for himself."
+**🔍 v.10 extends the rest to the GER — see [[00t-acts-15-and-the-four-requirements]] §11.**
+
+**Mark 2:27–28** — *anthrōpos*, not "Israel"
+ESV: "The Sabbath was made for man, not man for the Sabbath. So the Son of Man is lord even of the Sabbath."
+CJB: "Shabbat was made for mankind, not mankind for Shabbat; so the Son of Man is Lord even of Shabbat."
+Greek: **ἄνθρωπος** *anthrōpos* — human / humankind.
+
+**Romans 14:6** — observance unto Yahweh
+ESV: "The one who observes the day, observes it in honor of the Lord. The one who eats, eats in honor of the Lord, since he gives thanks to God, while the one who abstains, abstains in honor of the Lord and gives thanks to God."
+CJB: "He who observes a day as special does so to honor the Lord."
+**🚧 Paul does NOT say "Sabbath." Romans 14 is not the Sabbath-abolition passage — see [[04-open-questions]] item 34.**
+
 ### Colossians 2 — shadow language, and asceticism named
 
 **Colossians 2:16–17** — 🔍 *sōma* fork

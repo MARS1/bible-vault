@@ -221,6 +221,26 @@ The test runs in both directions. Collapse packages several things as one; **imp
 
 **Worked case:** **Matthew 15:20** summarizes the controversy as "**to eat with unwashed hands does not defile anyone**" — and **Matthew has no parenthesis at all** where Mark 7:19 has "(thus he declared all foods clean)." **Matthew's narrower scope has to constrain the reading of Mark's ambiguous participle.** *(It does not by itself settle the grammar — see [[00s-clean-and-unclean-from-noah-to-messiah]] §13.)*
 
+## Fulfillment ≠ Abolition (formal rule, added 2026-08-14, Stage 18.10)
+
+> ### **Fulfillment does not automatically equal abolition. A methodological rule, not a theological conclusion.**
+> ### **Ask what fulfillment DOES to each particular pattern. "It was a shadow" cannot function as a universal abolition algorithm.**
+
+**Colossians 2:17 calls food/drink + festival + new moon + Sabbath a **σκιά — *skia*, shadow** whose **σῶμα — *sōma*, body** belongs to Messiah. **But a shadow, on the arrival of the body, might become meaningless · obsolete · unnecessary · still informative · still observable but no longer constitutive · transformed in meaning · or valuable precisely because it reveals the shape of the reality casting it.** **Those are not equivalent propositions, and none of them is contained in the word *skia*.**
+
+**The evidence already shows different patterns behaving differently:**
+
+| Pattern | What fulfillment did |
+|---|---|
+| **Sacrifice** | once-for-all offering fundamentally changes the system |
+| **Circumcision** | not imposed on Gentiles; **heart circumcision becomes central** |
+| **Passover** | **Paul still uses the language to explain Messiah** (1 Cor 5:7) |
+| **Sabbath · Festivals · Clean foods** | ⚠️ unresolved |
+
+**Companion to Covenantal Transmission:** that rule asks *what happens to a command as the covenant people expands*; **this asks what fulfillment does to a pattern.** **Neither may be answered by category label alone.** Worked: [[00v-colossians-2-shadow-and-body]] §6, §15.
+
+**And the corollary that keeps it honest:** ❌ *therefore sinful to observe* and ❌ *therefore obligatory exactly as before* are **both** silent additions to the text. **Each shadow must be traced through Scripture individually.**
+
 ## Covenantal Transmission (formal rule, added 2026-08-13, Stage 18.7)
 
 > ### **When people from outside Israel are incorporated into Messiah's people, ask of each prior covenantal command: is it explicitly REAFFIRMED, TRANSFORMED, UNIVERSALIZED, SPIRITUALLY DEEPENED, LEFT UNSTATED, or ATTACHED TO A PRIOR ADMINISTRATION?**

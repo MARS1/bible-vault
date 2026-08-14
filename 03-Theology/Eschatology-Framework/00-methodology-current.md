@@ -121,6 +121,18 @@ For every substantive claim or connection, **preserve where applicable**. Not ev
 
 **Companion distinction — two axes for "clean food":** **species classification** vs **preparation/provenance/condition**. Independent. Do not let a conviction on one silently settle the other.
 
+## Fulfillment ≠ Abolition — Run on Every Fulfilled Pattern *(added v1.7)*
+
+> ### **Ask what fulfillment DOES to this particular pattern. "It was a shadow" is not a universal abolition algorithm.**
+
+**On the body's arrival a shadow might become:** meaningless · obsolete · unnecessary · **still informative** · **still observable but no longer constitutive** · **transformed in meaning** · **valuable because it reveals the shape of the reality**. **None of these is contained in the word *skia*.**
+
+**Both silent additions are forbidden:** ❌ *therefore sinful to observe* · ❌ *therefore obligatory exactly as before.*
+
+**Demonstrated already:** sacrifice, circumcision, and Passover are each fulfilled — and each behaves **differently**. **Trace every shadow individually.**
+
+**Also — the lexical-substitution guard, restated because it recurs:** **do not replace an author's noun with your category.** *Cheirographon* is not *nomos*; "the Law was nailed to the cross" is a substitution, not a quotation. Same shape as reading "planet Earth" into *gē*.
+
 ## Covenantal Transmission — Run When the Covenant People Expands *(added v1.5)*
 
 > ### **For each prior covenantal command, ask: explicitly REAFFIRMED · TRANSFORMED · UNIVERSALIZED · SPIRITUALLY DEEPENED · LEFT UNSTATED · or ATTACHED TO A PRIOR ADMINISTRATION?**
@@ -307,6 +319,7 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **1.7** | 2026-08-14 | Added **Fulfillment ≠ Abolition** (Stage 18.10) — ask what fulfillment *does* to each pattern; "it was a shadow" is not a universal abolition algorithm; both silent additions forbidden. Added the **Collapsed-Explanation Diagnostic** (Stage 18.9) to 00b. Restated the **lexical-substitution guard** (*cheirographon* ≠ *nomos*). |
 | **1.6** | 2026-08-14 | Added the **three content provenance layers** (ADR-0009) — Main Argument / ✍️ Manuscript Voice / 🔬 **Researcher's Commentary** — with the classification question to run on every tranche and the *preserve everything now, curate later* principle. Glossary gained the **imply/infer** distinction. **BIBLE-04g's scope extended:** the Stages 1–12 backfill must now also **recover Researcher's Commentary** wherever surviving material permits. |
 | **1.5** | 2026-08-13 | Added **Covenantal Transmission** (Stage 18.7) — for each prior covenantal command as the covenant people expands: reaffirmed / transformed / universalized / spiritually deepened / left unstated / attached to a prior administration. Replaces *"is Torah abolished — yes or no?"* and blocks both directions of the all-or-nothing error. Glossary gained ***ger***. |
 | **1.4** | 2026-08-13 | Added **the rule that constrains the investigator** (1 Corinthians 8:1 — knowledge puffs up; being correct about a proposition does not make one's conduct righteous). Every other rule governs the investigation; this one governs the person running it. |
