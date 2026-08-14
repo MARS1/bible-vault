@@ -121,6 +121,14 @@ For every substantive claim or connection, **preserve where applicable**. Not ev
 
 **Companion distinction — two axes for "clean food":** **species classification** vs **preparation/provenance/condition**. Independent. Do not let a conviction on one silently settle the other.
 
+## Covenantal Transmission — Run When the Covenant People Expands *(added v1.5)*
+
+> ### **For each prior covenantal command, ask: explicitly REAFFIRMED · TRANSFORMED · UNIVERSALIZED · SPIRITUALLY DEEPENED · LEFT UNSTATED · or ATTACHED TO A PRIOR ADMINISTRATION?**
+
+**Replaces the malformed question *"is Torah abolished — yes or no?"*** Blocks **both** errors: *one command changed → all changed* (refuted by Acts 15's explicit retentions) **and** *one command continues → all continue* (refuted by Messiah's priesthood).
+
+**Pairs with Jurisdiction:** **Jurisdiction looks backward** — who was this addressed to? **Transmission looks forward** — what happens to it as the covenant people expands?
+
 ## Covenantal Jurisdiction — Run on Every Command *(added v1.2)*
 
 **Before asking whether a command applies, ask who it was ever addressed to:**
@@ -279,6 +287,7 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **1.5** | 2026-08-13 | Added **Covenantal Transmission** (Stage 18.7) — for each prior covenantal command as the covenant people expands: reaffirmed / transformed / universalized / spiritually deepened / left unstated / attached to a prior administration. Replaces *"is Torah abolished — yes or no?"* and blocks both directions of the all-or-nothing error. Glossary gained ***ger***. |
 | **1.4** | 2026-08-13 | Added **the rule that constrains the investigator** (1 Corinthians 8:1 — knowledge puffs up; being correct about a proposition does not make one's conduct righteous). Every other rule governs the investigation; this one governs the person running it. |
 | **1.3** | 2026-08-12 | Added the **Contextual Question Principle** (identify the author's actual dispute before citing a passage), **Parallel-Text Control**, and the **two-axis distinction** for "clean food" (species vs preparation/provenance) — all from Stage 18. Glossary gained *asceticism* and the *koinos*/*akathartos* distinction. |
 | **1.2** | 2026-08-12 | Added **Covenantal Jurisdiction** (5 questions to run on any command) and **Meaning-Attached-to-Action**, both from Stage 17. Added the **Corrected Institution-Tracing Model**, replacing the Stage 16 "Mosaic shadow → reality" formula that circumcision broke by predating Sinai. Added the **Covenant Relationship Rule** as rule 5 (from Stage 16.5). |

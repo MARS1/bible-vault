@@ -1057,6 +1057,71 @@ ESV: "The Lord says to my Lord: 'Sit at my right hand, until I make your enemies
 CJB: "Adonai says to my Lord, 'Sit at my right hand, until I make your enemies your footstool.'"
 RVR1960: "Jehová dijo a mi Señor: Siéntate a mi diestra, Hasta que ponga a tus enemigos por estrado de tus pies."
 
+## Acts 15 — the Council, the Four Requirements, and the *Ger* (see [[00t-acts-15-and-the-four-requirements]])
+
+**Acts 15:5** — the dispute is INSIDE the believing community
+ESV: "But some believers who belonged to the party of the Pharisees rose up and said, 'It is necessary to circumcise them and to order them to keep the law of Moses.'"
+CJB: "some of those who had come to trust were from the party of the P'rushim... 'It is necessary to circumcise them and direct them to observe the Torah of Moshe.'"
+**Two elements: circumcise them AND command Torah-keeping. The council decides against THAT proposition — narrower than "against Torah."**
+
+**Acts 15:14**
+ESV: "Simeon has related how God first visited the Gentiles, to take from them a people for his name."
+CJB: "taking from among the Goyim a people to bear his name."
+
+### The "yoke" — and the texts that describe Torah otherwise
+
+**Deuteronomy 30:11**
+ESV: "For this commandment that I command you today is not too hard for you, neither is it far off."
+CJB: "For this mitzvah which I am giving you today is not too hard for you, it is not beyond your reach."
+
+**Psalm 19:7** — 📌 CJB numbers this **19:8** (superscription counted as v.1) — THIRD confirmed versification offset
+ESV: "The law of the Lord is perfect, reviving the soul; the testimony of the Lord is sure, making wise the simple."
+CJB (19:8): "The Torah of Adonai is perfect, restoring the inner person. The instruction of Adonai is sure, making wise the thoughtless."
+
+**1 John 5:3**
+ESV: "For this is the love of God, that we keep his commandments. And his commandments are not burdensome."
+CJB: "For loving God means obeying his commands. Moreover, his commands are not burdensome."
+**See [[04-open-questions]] item 38 — what exactly is Peter calling the yoke?**
+
+### Leviticus 17–18 — the laws applying to native AND sojourner
+
+**Leviticus 17:10**
+ESV: "If any one of the house of Israel or of the strangers who sojourn among them eats any blood, I will set my face against that person who eats blood and will cut him off from among his people."
+CJB: "When someone from the community of Isra'el or one of the foreigners living with you eats any kind of blood..."
+
+**Leviticus 17:12**
+ESV: "Therefore I have said to the people of Israel, No person among you shall eat blood, neither shall any stranger who sojourns among you eat blood."
+CJB: "None of you is to eat blood, nor is any foreigner living with you to eat blood."
+
+**Leviticus 18:26**
+ESV: "But you shall keep my statutes and my rules and do none of these abominations, either the native or the stranger who sojourns among you"
+CJB: "neither the citizen nor the foreigner living with you."
+**Overlap with Acts 15's four is striking — and it is with precisely the laws Torah applied to BOTH. Serious hypothesis, NOT established. See [[04-open-questions]] item 40.**
+
+**Numbers 15:15–16** — the *ger* under one law
+ESV: "For the assembly, there shall be one statute for you and for the stranger who sojourns with you, a statute forever throughout your generations. One law and one rule shall be for you and for the stranger who sojourns with you."
+CJB: "there will be the same law for you as for the foreigner living with you... The same Torah and standard of judgment will apply to both you and the foreigner living with you."
+Hebrew: **גֵּר** *gēr* — sojourner / resident alien. **🚧 Do NOT flatten into "Gentile Christian."**
+
+### Acts 21 — the next control case
+
+**Acts 21:20**
+ESV: "You see, brother, how many thousands there are among the Jews of those who have believed. They are all zealous for the law,"
+CJB: "how many tens of thousands of believers there are among the Judeans, and they are all zealots for the Torah."
+
+**Acts 21:21**
+ESV: "they have been told about you that you teach all the Jews who are among the Gentiles to forsake Moses, telling them not to circumcise their children or walk according to our customs."
+CJB: "you are teaching all the Jews living among the Goyim to apostatize from Moshe, telling them not to have a b'rit-milah for their sons and not to follow the traditions."
+
+**Acts 21:25** — ⚠️ possibly the most clarifying sentence for what Acts 15 meant
+ESV: "But as for the Gentiles who have believed, we have sent a letter with our judgment that they should abstain from what has been sacrificed to idols, and from blood, and from what has been strangled, and from sexual immorality."
+CJB: "However, in regard to the Goyim who have come to trust in Yeshua, we all joined in writing them a letter with our decision..."
+**Years later, James DISTINGUISHES what was decided about Gentiles from what is expected of Jewish believers — in the same breath.**
+
+**Acts 21:26** — Paul in the Temple, with an offering, AFTER Hebrews' "once for all"
+ESV: "Then Paul took the men, and the next day he purified himself along with them and went into the temple, giving notice when the days of purification would be fulfilled and the offering presented for each one of them."
+CJB: "Sha'ul took the men, purified himself along with them and entered the Temple to give notice of when the period of purification would be finished and the offering would have to be made for each of them."
+
 ## Clean and Unclean — From Noah to Messiah (see [[00s-clean-and-unclean-from-noah-to-messiah]])
 
 > **Localization (ADR-0008):** ESV/CJB verified; NIV added at Mark 7:19 for comparison; **RVR1960 MATERIALLY RELEVANT at Mark 7:19.** Hebrew: *tahor*, *qadosh*. Greek: *katharizōn panta ta brōmata*, *brōmata*, *koinos*, *akathartos*, *lachana*.

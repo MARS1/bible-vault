@@ -44,6 +44,8 @@ This file sits before [[01-convictions]] on purpose — it's the answer to "how 
 
 **κοινός / ἀκάθαρτος — *koinos* / *akathartos*** *(added 2026-08-12, Stage 18)*. ***Koinos*** = common, profane, defiled-by-association. ***Akathartos*** = the standard Septuagint term for animals categorized as **inherently unclean**. **English flattens both to "unclean"; Greek does not** — and **Peter distinguishes them in one breath at Acts 10:14, "common *or* unclean."** **Paul uses *koinos* at Romans 14:14.** Whether that distinction is load-bearing there is a live question, not a settled one — see [[04-open-questions]].
 
+**גֵּר — *gēr*** *(added 2026-08-13, Stage 18.7)* — **sojourner / resident alien / foreigner living among Israel.** **Not identical to a native-born Israelite; not simply an unrelated foreigner living far away.** A non-native dwelling *among* Israel and therefore participating to some degree in Israel's communal life — **Torah gives him both protections and obligations.** **Numbers 15:15–16:** "**One law and one rule shall be for you and for the stranger who sojourns with you**"; CJB: "the same *Torah* and standard of judgment." **Load-bearing because the Tanakh already contains categories for foreigners attaching themselves to Yahweh's people — Gentile inclusion does not appear from nowhere in Acts.** 🚧 **But do not flatten *ger* into "Gentile Christian"** — ancient Israel under Sinai and a first-century Gentile follower of Yeshua are historically and covenantally different situations. **The legitimate question is whether James drew on Torah's requirements for resident foreigners when framing the Acts 15 decree** ([[00t-acts-15-and-the-four-requirements]] §10–11) — a serious intertextual hypothesis, not an established identification.
+
 **Epistemology** *(added 2026-08-12, Stage 16)* — the study of **how we know what we know**: what counts as evidence, how claims are tested, degrees of certainty, and when conclusions should be revised. **This is the correct name for what this project is building.** Exegesis and hermeneutics are *tools operating inside* it.
 
 > ### ⚠️ Terminology correction — "ecumenological" is a different word
@@ -197,6 +199,23 @@ The test runs in both directions. Collapse packages several things as one; **imp
 > **When two Gospels record the same episode, a narrower summary in one constrains an ambiguous clause in the other — because both authors are reporting the same event.**
 
 **Worked case:** **Matthew 15:20** summarizes the controversy as "**to eat with unwashed hands does not defile anyone**" — and **Matthew has no parenthesis at all** where Mark 7:19 has "(thus he declared all foods clean)." **Matthew's narrower scope has to constrain the reading of Mark's ambiguous participle.** *(It does not by itself settle the grammar — see [[00s-clean-and-unclean-from-noah-to-messiah]] §13.)*
+
+## Covenantal Transmission (formal rule, added 2026-08-13, Stage 18.7)
+
+> ### **When people from outside Israel are incorporated into Messiah's people, ask of each prior covenantal command: is it explicitly REAFFIRMED, TRANSFORMED, UNIVERSALIZED, SPIRITUALLY DEEPENED, LEFT UNSTATED, or ATTACHED TO A PRIOR ADMINISTRATION?**
+
+**Far better than *"is Torah abolished — yes or no?"*, because Scripture is not behaving like that binary.** **Acts 15 is the demonstration:** circumcision **not imposed**; blood, sexual holiness, idolatry, and strangled meat **explicitly retained** for Gentiles; **unclean species conspicuously absent**; sacrifice **fulfilled/reconfigured**; Sabbath **untouched and requiring its own investigation**.
+
+### The two mistakes it blocks — one in each direction
+
+| ❌ | Refuted by |
+|---|---|
+| *If one Mosaic command changes administratively, all must change identically* | **circumcision** (Stage 17) and **Acts 15's explicit retentions** |
+| *If one Torah command continues, all must continue identically* | **Messiah's priesthood** (Stage 16) |
+
+> ### **The unit of analysis must be granular: what does Scripture do with THIS particular command or institution across the covenant story?**
+
+**Relation to the other rules:** Covenantal **Jurisdiction** asks *who a command was addressed to*; Covenantal **Transmission** asks *what happens to it when the covenant people expands*. **Jurisdiction looks backward to the command's origin; Transmission looks forward through the covenant story.** Full working: [[00t-acts-15-and-the-four-requirements]] §14–15.
 
 ## Covenantal Jurisdiction (formal rule, added 2026-08-12, Stage 17)
 

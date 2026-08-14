@@ -431,11 +431,45 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 - **THE LANDSCAPE IS NOT ONE BINARY SWITCH.** Six passages, six different questions in view. **Ten categories that must not be collapsed:** species · blood · sacrifice · idolatry · ritual defilement · preparation/provenance · conscience · ascetic prohibition · thanksgiving · love of neighbor. **Category Collapse applied at the largest scale yet — and the reason "can Christians eat pork?" was the wrong opening question**
 - **🧵 THE LOOSE THREAD: ACTS 15:21.** **Both investigations landed on the Jerusalem Council independently** — circumcision brought us there, food brought us straight back. Acts 15's four requirements sit inside an **older biblical matrix** (Daniel's pagan court · Corinth's idol-meat · **Gen 9:4's blood, given to humanity** · Lev 17's *ger* laws). **Then James adds "Moses is read every Sabbath" — and it gets routinely skipped when the council is summarized as "Gentiles only had four rules."** **Reading A** (four are sufficient; enabling fellowship) vs **Reading B** (four are initial; instruction continues) → **very different conclusions.** Promoted from bookmark to **next investigation**
 
-**→ Stage 18's actual destination, now stated precisely enough to be answerable:** **what did Yahweh designate as food, for whom, under which covenantal administration — and what, if anything, does Messiah's work change about those distinctions?** *(Note: that is **Covenantal Jurisdiction** from Stage 17, applied to food. The instrument was built two stages before the question that needed it.)*
+**→ Stage 18.6's destination, now stated precisely enough to be answerable:** **what did Yahweh designate as food, for whom, under which covenantal administration — and what, if anything, does Messiah's work change about those distinctions?** *(Note: that is **Covenantal Jurisdiction** from Stage 17, applied to food. The instrument was built two stages before the question that needed it.)*
+
+### Stage 18.7 — Acts 15: Were the Four Requirements the Whole Torah for Gentiles? *(current)*
+
+**File:** [[00t-acts-15-and-the-four-requirements]] *(own file — Acts 15 is where **both** investigations converged independently, and it produces two new instruments; the spine holds the sequence)*
+
+- **Reconstruct the problem first.** Acts 15:5 — **believers from the party of the Pharisees** propose *circumcise them AND command them to keep the Torah of Moses.* **Luke calls them believers: the dispute is INSIDE the believing community**, not Christianity vs Judaism. Whatever the council decides, it decides against **that** proposition — narrower than "against Torah"
+- **Acts 15:9's "cleansed their HEARTS by faith"** joins the converging threads: heart-circumcision (Deut 10:16, 30:6; Jer 4:4) · heart-cleansing · Ruach · faith. *(Convergence, not citation — same classification discipline as 00s §9)*
+- **⚠️ "THE YOKE" (15:10) HELD OPEN.** Commonly read as *Torah itself is an unbearable burden* — **but Deut 30:11 ("not too hard for you"), Psalm 19:7 ("the law of Yahweh is perfect, reviving the soul"), and 1 John 5:3 ("his commandments are not burdensome") describe it very differently.** Four candidates for what Peter means; **context ties it to the proposition actually on the table at 15:5** — Gentile circumcision + commanded Torah-keeping *as a condition of inclusion*. **Narrowest supported reading taken, per standing practice**
+- **📌 THIRD CONFIRMED VERSIFICATION OFFSET: CJB numbers Psalm 19:7 as 19:8** (superscription counted as v.1). Surfaced the same way as Jeremiah 31 — a direct fetch returned the wrong verse. *(After Jeremiah 31 and Zechariah 2:6.)*
+- **James appeals to Amos 9:11–12** — Gentile inclusion **interpreted through the prophetic story**, not as Israel's story abandoned
+- **The *gar* matters.** Acts 15:21's "**for**" normally introduces a reason. **James is not changing subject; there IS a logical relation between v.20 and v.21. The question is which**
+- **READING A** (four requirements are what makes **Jewish/Gentile table fellowship** possible, since Moses is read everywhere and these sensitivities are universally known) **vs READING B** (four are **initial** requirements; converts will keep hearing Moses and learning). **🚧 BRAKE: v.21 does NOT say Gentiles will attend synagogue and gradually learn the rest of Torah. READING B IS AN INFERENCE** — possibly strong, worth investigating, **but it cannot be upgraded to textual statement because it fits a hypothesis**
+- **Third and fourth possibilities kept open:** A and B are **not mutually exclusive**; and **James may not be constructing our later theological categories at all** — the question *"entry requirement or permanent list?"* may be one the text never answered
+- **❗ THE REDUCTIO — and it needs no lexical or historical work.** If Acts 15 gave Gentiles only four rules, were they permitted to **murder, steal, bear false witness, dishonor parents?** Obviously not; none is in the list. **THEREFORE THE FOUR CANNOT BE AN EXHAUSTIVE LIST OF MORAL OBLIGATION.** Whatever Acts 15 is doing, it is **not** the entire ethical content of discipleship in four bullets
+- **WHY THESE FOUR — Leviticus 17–18, and the overlap is with precisely the laws Torah applied to BOTH Israelites and RESIDENT FOREIGNERS.** Lev 17:10/17:12 (blood — "**neither shall any stranger who sojourns among you**"), Lev 18:26 ("**either the native or the stranger**"), plus Lev 17's slaughter/sacrifice and Lev 18's sexual prohibitions. **Serious intertextual hypothesis; NOT announced as established**
+- **🆕 GLOSSARY: *GER*** — sojourner/resident alien. Not a native Israelite, **not** simply a distant foreigner. **Numbers 15:15–16: "one law and one rule for you and for the stranger who sojourns with you."** **The Tanakh already has categories for foreigners attaching to Yahweh's people — Gentile inclusion doesn't appear from nowhere in Acts.** 🚧 **But do NOT flatten *ger* into "Gentile Christian"** — different covenantal situations
+- **🔴 THE TEXTUAL ASYMMETRY, AND IT CUTS AGAINST CONTINUITY.** Blood, strangled meat, idol pollution, sexual immorality — **explicitly commanded.** **UNCLEAN ANIMAL SPECIES — ABSENT.** If James drew on Lev 17–18, **Leviticus 11's classification is conspicuously not reproduced.** ⚖️ **That is real evidence against imposing the Levitical dietary code on Gentiles, AND IT IS LET TO STAND. But 15:21 blocks "therefore Moses no longer matters."** **Both simplistic answers hit a wall — that is the finding**
+- **PETER'S SILENCE AT THE COUNCIL** — in the one setting where a dietary argument would have been maximally useful, **in front of the people who most needed convincing, he says Yahweh cleansed their HEARTS.** He never says "my vision abolished the food laws." **Third independent line pointing the same way** (10:28's own interpretation; 11:18's conclusion; the *use* of the episode here)
+
+**🆕 NEW FORMAL RULE — COVENANTAL TRANSMISSION:** for each prior covenantal command as the covenant people expands, ask whether it is **reaffirmed · transformed · universalized · spiritually deepened · left unstated · or attached to a prior administration.** **Replaces the malformed "is Torah abolished — yes or no?"** Blocks **both** errors: *one changed → all changed* (refuted by Acts 15's retentions) and *one continues → all continue* (refuted by Messiah's priesthood). **Pairs with Jurisdiction — that one looks backward to a command's origin, this one looks forward through the covenant story.**
+
+**→ earns the next question:** what did the council actually mean — and Acts 21 may say so directly.
 
 ---
 
 ## Next Stage (not yet written)
+
+**Acts 21:17–26 — the control case that cannot be skipped.** Years after the council, Paul returns to Jerusalem. **Three things it puts in play, none resolved yet:**
+
+1. **"Many thousands" of Jewish believers "zealous for the Torah"** (21:20; CJB "tens of thousands… zealots for the *Torah*") — as a **normal state of affairs decades in**
+2. The charge that Paul taught **Jews** to **forsake Moses** treated as a **false rumor requiring public refutation** (21:21)
+3. **Paul entering the Temple, purifying himself, with an offering presented** (21:26) — **after** Hebrews' "once for all"
+
+**And the single most clarifying sentence available for what Acts 15 meant:** **Acts 21:25** — years later, James **explicitly distinguishes** what was decided about **Gentile** believers from what is expected of **Jewish** believers, in the same breath.
+
+---
+
+## Superseded — Previous "Next Stage" Entry (18.6 → 18.7), Preserved
 
 **Acts 15:21 — "Moses is read every Sabbath in the synagogues."** Why does James say that *immediately after* imposing four requirements on Gentile believers? **Reading A vs Reading B** ([[04-open-questions]] item 26). **James's own comment may reveal how the apostles understood the requirements they had just issued** — which bears on both the circumcision stage and the food stage, since both arrived at this council independently.
 
