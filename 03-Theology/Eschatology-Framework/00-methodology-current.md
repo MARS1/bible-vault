@@ -359,6 +359,36 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 
 **And the destination, stated at the precision the evidence supports:** ❌ not *"we don't have to preach the gospel now"* — ✅ **"does Scripture teach that the prophetic worldwide proclamation associated with 'the end' remains an unfinished commission imposed upon every believer in our present moment?"** **Claim only what has been demonstrated.** Full statement: [[00z-recentering-the-map]].
 
+## 📦 Unabridged Research Preservation (ADR-0010) *(added v2.1)*
+
+> ### **THREE ARTIFACTS, THREE DIFFERENT REQUIREMENTS:**
+> **1. The Research Record** — complete, unabridged, approaching an append-only event log. **Nothing substantive discarded.**
+> **2. The Structured Vault** — this repository. Derived state: claims → evidence → classification → objections → corrections → confidence → open questions → sequence.
+> **3. The Manuscript** — ruthlessly edited. **The reader may never see 80% of the above.**
+>
+> ### **The manuscript should not contain everything. The project absolutely should.**
+
+**Preserve especially:** distinctions between **lexical · grammatical · contextual · intertextual · historical · textual-critical · theological · inferential** evidence · translation divergences · **rejected readings and why** · **corrections and what caused them** · confidence classifications · falsification conditions · methodological brakes · unresolved questions · side branches · manuscript-voice insights · **and the reasoning that explains why a conclusion was reached.**
+
+> ### **Compression may create a NEW derivative artifact; it must NOT replace or overwrite the fuller one.** Every major structured conclusion must remain **traceable backward** to the reasoning that produced it. **Backwards-compatible research.**
+
+### ❗ NEVER COLLAPSE EVIDENCE TYPES — the clause with the most day-to-day force
+
+> - **"Contextually favored" must not silently become "lexically established."**
+> - **"Plausible" must not become "proven."**
+> - **"Unverified" must not become "false."**
+> - **A later conclusion must not erase the uncertainty under which an earlier stage operated.**
+>
+> **Evidence-type collapse is quiet, feels like tidying, and is nearly undetectable downstream.**
+
+**Canonical example:** Ephesians 2:15 — *"contextual datum favoring the narrower reading, recorded as contextual, not lexical"* ([[00y-who-are-the-people-of-god]] §13; [[04-open-questions]] item 56).
+
+### Both organizations are mandatory
+
+**Subject topology** (*where does this belong?*) **AND discovery chronology** (*how did we get here?*). **[[00a-narrative-spine]] carries the second; topical organization may never replace it.**
+
+**Interlude stages (16½, 18½, 21½) are stages in their own right.** A methodological stage is still a stage — **never merged into a neighbour for not being exegetical.** The spine carries an explicit **Stage Index** making every stage addressable by number.
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -383,6 +413,7 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **2.1** | 2026-08-15 | Added **Unabridged Research Preservation** (ADR-0010) — the three artifacts, the *never collapse evidence types* clause, the both-organizations requirement, and the rule that **interlude stages are stages**. Spine gained an explicit **Stage Index**. |
 | **2.0** | 2026-08-15 | Added **Expansion ≠ Erasure** and **Later Inclusion ≠ Rewritten Context** (Stage 21), the **Anachronism Test** with the *ancient Israel ≠ modern State* rule, the **"Satan deceives" unfalsifiability protection**, and the **Thesis Discipline** keeping preterism downstream of the evidence (Stage 21½). |
 | **1.9** | 2026-08-14 | Added **Fulfillment ≠ Exhaustion** with its bridge requirement, and the **Lexical Escalation** rule — including the distinction that *a theological dictionary's citation is not a verified primary source* (Stage 20). |
 | **1.8** | 2026-08-14 | Added **Removal ≠ Replacement** (Stage 19) — *fulfillment must be demonstrated; replacement must be demonstrated separately.* Blocks the two-step slide (institution changed → therefore successor X) across Israel→Church, Sabbath→Sunday, Passover→Easter, feasts→Christian calendar, priesthood→ecclesiastical priesthood. |

@@ -22,6 +22,50 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 
 ---
 
+## 📑 STAGE INDEX — Every Stage, Addressable by Number
+
+> **Added 2026-08-15 for discoverability.** Interludes (`½`) are **stages in their own right**, not appendices to the stage before them — a methodological stage is still a stage. **Never merge one into its neighbour merely because it is methodological rather than exegetical.**
+
+| Stage | Title | File |
+|---|---|---|
+| **1** | The Trigger | *(spine only)* |
+| **2** | Building the Method Before Touching the Controversy | [[00b-biblical-epistemology]] |
+| **3** | Israel-Centered Mission, and the Nations Anticipated | [[00c-commission-covenant-investigation]] |
+| **4** | Acts, Followed in Sequence | [[00c-commission-covenant-investigation]] |
+| **5** | Paul's Theology, and the Terminology Stress-Test | [[00e-olive-tree-and-covenant-identity]] |
+| **6** | The Synthesis, Where the Method Cost Its Own Author | [[00f-witness-synthesis]] |
+| **7** | Matthew 24 Approached, Not Assumed | [[00g-matthew-24-and-the-oikoumene]] |
+| **8** | Clouds | [[00h-coming-on-the-clouds]] |
+| **9** | Stars, the Dragon, the Cross *(side branch)* | [[00i-stars-the-dragon-and-the-cross]] |
+| **10** | Cosmic Signs, and Intertextual Priority Named | [[00j-cosmic-signs-and-intertextual-priority]] |
+| **11** | The Gathering, and the Second Costly Concession | [[00k-the-gathering-of-the-elect]] |
+| **12** | Tribes of the Land | [[00l-tribes-of-the-land]] |
+| **13** | The Fig Tree, "This Generation," and Heaven and Earth | [[00m-fig-tree-generation-heaven-and-earth]] |
+| **14** | "Until Heaven and Earth Pass Away" | [[00n-torah-fulfilled-and-what-changed]] |
+| **15** | What Actually Changes in the New Covenant? | [[00o-new-covenant-what-changed]] |
+| **16** | Sacrifice, Priesthood, and What Fulfillment Looks Like | [[00p-sacrifice-priesthood-and-fulfillment]] |
+| **16½** | **⚙️ Epistemological Sidebar: What Is a Covenant?** | [[00r-what-is-a-covenant]] |
+| **17** | Circumcision: Covenant Sign, Heart, and Messiah | [[00q-circumcision-covenant-sign-and-heart]] |
+| **18** | Clean and Unclean: From Noah to Messiah | [[00s-clean-and-unclean-from-noah-to-messiah]] |
+| **18½** | Daniel's Table, Romans' Table, Corinth's Table | [[00s-clean-and-unclean-from-noah-to-messiah]] §22.5, §25b–d |
+| **18.6** | 1 Timothy 4 Under Full Pressure | [[00s-clean-and-unclean-from-noah-to-messiah]] §27b–d |
+| **18.7** | Acts 15: Were the Four Requirements the Whole Torah? | [[00t-acts-15-and-the-four-requirements]] |
+| **18.8** | Acts 21: Paul, Torah, and the Difference Between Two Groups | [[00u-acts-21-paul-torah-and-the-two-groups]] |
+| **18.9** | Numbers 6: What Was Paul Actually Doing? | [[00u-acts-21-paul-torah-and-the-two-groups]] §19–29 |
+| **18.10** | Colossians 2: What Happens to a Shadow? | [[00v-colossians-2-shadow-and-body]] |
+| **19** | Sabbath: Creation, Covenant Sign, Shadow, and Rest | [[00w-sabbath-creation-covenant-sign-shadow-rest]] |
+| **20** | Hebrews 4: "There Remains a Sabbath-Rest" | [[00x-hebrews-4-sabbatismos-and-the-rest-that-remains]] |
+| **21** | Who Are "the People of God"? | [[00y-who-are-the-people-of-god]] |
+| **21½** | **⚙️ Recenter the Narrative: What Are We Actually Trying to Determine?** | **[[00z-recentering-the-map]]** |
+| **22** | *(next)* Romans 9, in sequence | — |
+
+> ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
+> **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
+>
+> **File: [[00z-recentering-the-map]]. Read it whenever the direction of the investigation feels unclear.**
+
+---
+
 ## Stage 1 — The Trigger
 
 **What started it:** a conversation with another believer about whether every follower of Yeshua carries the same obligation to evangelize, and how someone arrives at a preterist reading. *(Depersonalized per ADR-0006 — the conversation was the catalyst, not the subject.)*
@@ -620,7 +664,10 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ THE FINDING THAT VINDICATED THE METHOD:** preserving Israel's priority made the Gentile case **STRONGER, not weaker**. **Context did not shrink the gospel — it showed why it could become so large.**
 
-## Stage 21½ — Recentering the Map *(current)*
+## Stage 21½ — Recenter the Narrative: What Are We Actually Trying to Determine? *(current)*
+
+> ### ⚙️ **THE ORIENTATION STAGE. A stage in its own right — NOT an appendix to Stage 21, and never to be merged into it merely because it is methodological rather than exegetical.**
+> **Function: freezes the project's destination · keeps preterism and the Little Season downstream of the evidence · records the largest falsifiable chain · prevents later branches from obscuring the original evangelistic question.**
 
 **File:** [[00z-recentering-the-map]]
 

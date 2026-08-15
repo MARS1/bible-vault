@@ -17,3 +17,4 @@ Not code-architecture ADRs — same pattern, applied to a research/writing vault
 | [ADR-0007](ADR-0007-dual-architecture-narrative-and-reference.md) | Dual architecture — reference structure and narrative spine, neither replacing the other | active |
 | [ADR-0008](ADR-0008-source-language-first-localization.md) | Source-language-first localization — research once at source level, render separately per edition (extends ADR-0003) | active |
 | [ADR-0009](ADR-0009-three-content-provenance-layers.md) | Three content provenance layers — Main Argument / Manuscript Voice / Researcher's Commentary (orthogonal to ADR-0006) | active |
+| [ADR-0010](ADR-0010-unabridged-research-preservation.md) | Unabridged research preservation — three artifacts, and the rule against collapsing evidence types | active |
