@@ -561,7 +561,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** what does *sabbatismos* actually mean, and is the rest already entered, still future, or both?
 
-## Stage 20 — Hebrews 4: "There Remains a Sabbath-Rest" *(current)*
+## Stage 20 — Hebrews 4: "There Remains a Sabbath-Rest"
 
 **File:** [[00x-hebrews-4-sabbatismos-and-the-rest-that-remains]]
 
@@ -592,9 +592,77 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question, and it is the oldest one in the project.**
 
+## Stage 21 — Who Are "the People of God"?
+
+**File:** [[00y-who-are-the-people-of-god]]
+
+- **Four substitutions refused at the outset** — *Christians · Israel · the Church replacing Israel · ethnic Israelites only*. **None permitted until the text earns it**
+- **"People of God" begins as unmistakably ISRAELITE covenant language** (Exod 6:7; Lev 26:12) — the formula *I will be their God and they shall be My people*. **Primary referent: Israel. That is the starting point**
+- **But election was never an end in itself.** Gen 12:3 — **particularity and universality present together from the beginning**; the chosen line is **the MEANS** through which blessing extends outward
+- **Torah itself permits incorporation** — Exod 12:48–49, "**one law for the native and for the stranger.**" **Genealogy and covenant membership are RELATED BUT NOT IDENTICAL.** *(Sixth appearance of the *ger* thread)*
+- **Rahab and Ruth make it concrete** — and Ruth enters the line to David and Messiah. **So *Israel = biological ancestry and nothing else* is refused by the story itself.** ⚖️ **Opposite brake immediately: it does NOT follow that biological Israel becomes irrelevant**
+- **🔴 ISAIAH 19:25 — YAHWEH CALLS EGYPT "MY PEOPLE."** Historic oppressor. **AND ISRAEL DOES NOT DISAPPEAR — Israel remains "my inheritance."** **Prophetic evidence that the people-category can EXPAND WITHOUT ERASING Israel. A major control text**
+- **Hosea's *Lo-Ammi* → "my people"** — ❗ **contextually about ISRAEL, and that must not be skipped.** **📌 FIFTH VERSIFICATION OFFSET: CJB numbers ESV Hosea 1:10 as 2:1, and 2:23 as 2:21**
+- **Peter applies Israel's Sinai vocabulary** (1 Pet 2:9 = Exodus 19) **and Hosea** (2:10) to Messiah-followers among the nations. ⚠️ **His audience's composition is genuinely contested** — "Dispersion" sounds Jewish, 4:3's former life sounds Gentile. **Not resolved casually**
+- **Paul deploys Hosea inside a Jew+Gentile argument** (Rom 9:24–26). **NOT "because Paul doesn't care about context"** — hypothesis: **Israel's restoration and the nations' inclusion CONVERGE in Messiah.** Needs Romans 9–11 whole
+- **THE OLIVE TREE (Rom 11:17–18):** wild branches grafted into an **EXISTING** tree. **Yahweh did not chop down Israel's tree and plant a Gentile one.** And "**it is not you who support the root, but the root that supports you**" — **almost devastating to triumphalist replacement**
+- **Better category than "replacement":** continuity + pruning + grafting + restoration. **Avoid ❌ "Church replaces Israel" AND ❌ "Church simply IS Israel" — Paul supplies GRAFTING. Use his vocabulary before inventing ours**
+- **Ephesians 2 is the architectural version** — Gentiles were alienated **from ISRAEL and from THE COVENANTS**, not merely "not Christians." **far → near · strangers → citizens · aliens → household · two → one**
+- **🔴 MAJOR TRANSLATION DIVERGENCE — EPHESIANS 2:15.** **ESV: Messiah "abolishing THE LAW of commandments." CJB: "destroying in his own body THE ENMITY OCCASIONED BY the Torah."** **NOT THE SAME CLAIM** — one removes the law, the other removes the hostility attached to it. **v.14 has just named "the dividing wall of HOSTILITY," and v.16 kills "the hostility" — a contextual datum favoring the narrower reading, though not a lexical demonstration.** Interest noted both directions; **fourth passage where an English rendering has been quoted to this project as though it were the verse**
+- **❗ THE BRAKE — Rom 11:28–29: "beloved for the sake of their forefathers," "the gifts and the calling of God are IRREVOCABLE."** **Ethnic Israel did not cease to matter to Paul**
+- **Jeremiah 31's New Covenant is made with ISRAEL AND JUDAH** — yet Gentiles participate. **So "Old covenant = Jews; New Covenant = Christians" is increasingly inadequate.** Model: **Gentiles brought into covenantal blessing THROUGH Israel's Messiah, not given an unrelated covenant**
+- **Galatians 3:8 calls Genesis 12 "the gospel beforehand"** — so **Gentile inclusion is NOT a Plan B caused by Israel's failure.** 🚧 But Paul does **not** say Gentiles biologically become descendants of Jacob — **inheritance in the Abrahamic promise through Messiah**
+- **"Messianic Israelite" disciplined a THIRD time** — continue resisting a premature label. **Paul's own phrases are strongest and we don't need to improve them yet**
+- **STRONGEST CURRENT SYNTHESIS (Tier B):** *Yahweh's people remain rooted in the covenant story of Israel, centered in Israel's Messiah, with believing Gentiles incorporated into that people through Messiah — rather than establishing a rival people alongside or in place of Israel*
+- **⚖️ COUNTEREVIDENCE PRESERVED, because an elegant model is exactly when to look hardest:** why does Paul keep distinguishing Jew and Gentile (Acts 21:25)? which Torah obligations follow grafting? what is **"the Israel of God"** (Gal 6:16)? what does "all Israel" mean? **and what does Revelation 21:12–14's architecture communicate — twelve TRIBES as gates, twelve APOSTLES as foundations, in one city?**
+
+**🆕 TWO NEW RULES: EXPANSION DOES NOT REQUIRE ERASURE** (test which relationship the text depicts — replacement/incorporation/expansion/fulfillment/grafting — and **prefer the text's own word over an imposed label**) **and LATER INCLUSION MUST NOT REWRITE EARLIER CONTEXT** (preserve the original audience first, then find the bridge). **The second is what started this entire project.**
+
+**→ THE FINDING THAT VINDICATED THE METHOD:** preserving Israel's priority made the Gentile case **STRONGER, not weaker**. **Context did not shrink the gospel — it showed why it could become so large.**
+
+## Stage 21½ — Recentering the Map *(current)*
+
+**File:** [[00z-recentering-the-map]]
+
+> **Deliberate pause before Romans 9 to mark position on the map.**
+
+- **🔧 "Hybrid" refined → DISTINCTION WITHOUT UNNECESSARY SEPARATION.** Not splitting differences; **Scripture refuses the binaries we force onto it.** *("Hybrid" implies two systems blended by us; this describes what the text is already doing before we arrive)*
+- **THE ORIGINAL QUESTION RESTATED** — and it splits in two. **(A) MINISTRY:** does every believer have the same calling? **Substantially answered NO** — but *bearing witness* and *possessing the ministry of an evangelist* are not identical propositions. **(B) TIMING:** what "end," what *oikoumenē*, what does "this generation" control, and **has that proclamation already occurred within the horizon Yeshua described?**
+- **❗ THESIS DISCIPLINE: PRETERISM STAYS DOWNSTREAM.** The book must NOT be *"I am a preterist, here is how the Bible proves it."* **The preceding texts must EARN the little-season hypothesis — otherwise it becomes the lens through which every prior verse is read.** Chain to be earned in order: **preterist fulfillment → millennial chronology → millennium past → Satan released → behavior derived**. **Probably the largest falsifiable chain in the project, and naming it falsifiable is the point**
+- **Same for identity: text → synthesis → label, NEVER label → text**
+- **🔧 THREE FACTUAL CORRECTIONS RECORDED:** (a) **Judaism DOES contain internal movements** — Pharisees, Sadducees, Essenes; later Rabbinic, Karaite, Hasidic, Orthodox/Conservative/Reform; (b) **Sephardic and Ashkenazi are NOT denominations** — historical-cultural populations, a category error to parallel with "sects"; (c) **the Talmud is not simply "Babylonian confusion"** — there are **TWO** major compilations, Jerusalem/Palestinian and Babylonian, and the Oral-Torah transmission claim is a *rabbinic claim* whose historical establishment is a separate matter
+- **And the methodological answer needing no hostility toward anyone: TANAKH DEFINES TANAKH before later rabbinic literature does — AND SYMMETRICALLY the NT is read in its first-century Jewish environment before later Christian tradition dictates it.** *Intertextual Priority applied to both traditions*
+- **🆕 TERMINOLOGY RULE: ANCIENT ISRAEL ≠ THE MODERN STATE.** 📅 **State declared 14 May 1948; Balfour 1917.** Paul's Ἰσραήλ cannot silently become a twentieth-century institution. ⚖️ **Brake both ways — nor may we assert NO relationship to later Jewish populations.** **Protects the argument from either modern political conscription**
+- **🆕 GLOSSARY: ANACHRONISM** (*aná* + *chrónos*, "back-time") **+ THE ANACHRONISM TEST** — before reading an ancient text through a later institution/system/model/entity/label/term, ask whether that category existed in the author's world
+- **🆕 THE UNFALSIFIABILITY PROTECTION: "SATAN DECEIVES" IS NOT EVIDENCE.** Blocks *I believe X → evidence contradicts X → Satan lies → therefore the contradiction proves X.* **Protects the investigation precisely BECAUSE it takes deception warnings seriously**
+- **THE ARCHITECTURE MAPPED — 17 steps from the trigger to the final question.** **We did not study Sabbath because we forgot the question: Acts 15 forced Torah, Torah forced covenant, covenant forced *who belongs* — and WE CANNOT DETERMINE WHO RECEIVES A COMMAND UNTIL WE KNOW WHO THE COMMANDED PEOPLE ARE. Linear reasoning with branches, not wandering**
+- **🚧 RUPES NIGRA STAYS DOWNSTREAM.** Required sequence: what Revelation says → what the camp and beloved city ARE → only then compare geographical models. **Otherwise: find an intriguing map → read Revelation through it → find the map in Revelation. Exactly the circularity this methodology exists to prevent.** *And if it survives the harder sequence it becomes MORE interesting*
+- **✍️ Babel/confusion preserved as AUTHOR'S REFLECTION, not exegetical identification** — whether Scripture prophetically identifies later religious fragmentation with "Babylon" is a separate question
+- **🔧 THE DESTINATION RE-STATED AT THE PRECISION THE EVIDENCE SUPPORTS.** ❌ NOT *"we don't have to preach the gospel now"* — too broad, unearned. ✅ **"Does Scripture teach that the prophetic worldwide proclamation associated with 'the end' remains an unfinished commission imposed upon every believer in our present moment?"** **Even a "no" would not mean nobody should evangelize** — Philip evangelizes, teachers teach, the one asked for the reason for his hope answers, parents teach children. **The conclusion would be: we must not manufacture a universal personal ministry obligation from a prophetic commission whose audience, scope and fulfillment belong elsewhere**
+
+**→ earns the next question:** the final unresolved premise underneath "the people of God."
+
 ---
 
 ## Next Stage (not yet written)
+
+### **ROMANS 9 — IN SEQUENCE**
+
+> **Romans 9–11 is ONE argument, routinely pulled apart to prove opposite systems.** Dangerous slogans living there: *"not all who are descended from Israel belong to Israel"* · *"Jacob I loved, Esau I hated"* · *"mercy on whomever he wills"* · *"vessels of wrath"* · *"wild olive branches"* · *"until the fullness of the Gentiles"* · ***"all Israel will be saved."***
+
+**THE GOVERNING QUESTION — Romans 9:6:** *"For not all who are descended from Israel belong to Israel."*
+
+> ### **Does Paul redefine Israel as "the Church"? Or make a distinction WITHIN Israel concerning promise, election, and faithful remnant?**
+>
+> ### **Get that wrong and everything downstream is contaminated — including Romans 11.**
+
+**METHOD LOCKED: Romans 9 FIRST, WITHOUT letting Romans 11's conclusion predetermine what Romans 9 is allowed to say.** Then see whether Paul's own argument carries us **Israel → remnant → Gentiles → grafting → all Israel.**
+
+**If it does, the first enormous arc of this investigation may be approaching its close.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (20 → 21), Preserved
 
 ### **WHO ARE "THE PEOPLE OF GOD"? — not Sunday**
 
@@ -760,6 +828,10 @@ The journey's self-corrections, kept deliberately because they demonstrate the m
 | 16.5 | **"Addendum"** as the model for accumulating covenants | **Modified, not rejected.** "Addendum" implies terms appended to one unchanged contract. The biblical form is **Galatians 3:17** — later legal development *does not annul an earlier promise*. Sharper, and it is Paul's own reasoning |
 | 17 | **"Gentiles become Israelites"** (used conversationally by this project) | **Sharpened via Ruth.** Ephesians 2 and Romans 11 are genuine *incorporation* language — but **neither requires ethnic descent from Jacob.** Ruth is fully incorporated and still called "**the Moabite**" afterward (2:2). **Incorporation does not require erasure of origin.** "Messianic Israelite" now carries a written definition in [[01-convictions]] B.5 |
 | 17 | **"Old *Mosaic* shadow → Messiah reality"** as the general model of fulfillment | **Broken by circumcision, which predates Sinai.** Replaced with: *trace each institution from its earliest appearance → covenantal function → prophetic development → Yeshua → apostolic interpretation.* **Immediate cost accepted as evidence it's real: the food stage cannot begin at Leviticus** |
+| 21½ | **"It's never all or nothing — it's always a hybrid"** *(the author's own naming of the pattern)* | **Refined, not rejected.** "Hybrid" implies two systems being blended **by us**. The pattern is **distinction without unnecessary separation** — **Scripture refusing the binaries we force onto it, before we arrive** |
+| 21½ | **"Christianity has many sects but Judaism doesn't"** | **Does not hold.** Pharisees, Sadducees, Essenes in the Second Temple period; later Rabbinic, Karaite, Hasidic, Orthodox/Conservative/Reform. **And Sephardic/Ashkenazi are NOT denominations** — historical-cultural populations, a category error to parallel with "sects" |
+| 21½ | **"The Talmud came from Babylon… has nothing to do with Tanakh"** | **Two major compilations — Jerusalem/Palestinian AND Babylonian.** The Oral-Torah transmission claim is a *rabbinic claim*; establishing it historically is a separate matter. **Methodological answer needs no hostility: Tanakh defines Tanakh before later rabbinic literature — and symmetrically the NT is read in its first-century environment before later Christian tradition** |
+| 21½ | **State of Israel dated to "43 or 45 or 48"** | **14 May 1948.** Balfour Declaration **1917**. Recorded because the anachronism rule depends on the date being right |
 | 18.9 | **"Paul performed an obsolete Jewish ritual merely to appease Torah-observant believers"** *(this project's own accommodation framing, Stage 18.8 §5)* | **DOWNGRADED by Numbers 6's actual cost.** "Pay their expenses" for **four men** means multiple animals, bread, grain and drink offerings — **Paul materially finances the vows.** Not theater. **And the appeasement reading makes the demonstration deceptive, when James's stated point is that it demonstrates something TRUE.** Replaced with: *Paul considered the practice genuinely permissible for himself, while denying it justified anyone or bound Gentiles* |
 | 18.9 | **Treating *"sin offering"* as equivalent to Messiah's once-for-all removal of sin** | **Numbers 6:9–12 breaks it:** a man who merely stood near a corpse owes a *ḥaṭṭāʾt* **and** an *asham* — **and the text says "he sinned by reason of the dead body."** The category is **broader than deliberate moral transgression**; ⚖️ **but the sin-language is real and may not simply be relabeled away.** *"I had been reading my own vocabulary back into Yahweh's"* |
 | 18.8 | **"…because yesterday's offering did not finish anything"** *(this project's own wording, Stage 16 §9)* | **Overreached.** Hebrews says the Levitical sacrifices could not **perfect** or **finally take away sins** — **not that they accomplished nothing.** **Leviticus 4:20/26/35: "the priest shall make atonement… and they shall be forgiven."** Corrected to: *they accomplished the purposes Yahweh assigned them, but not the final once-for-all removal Hebrews attributes to Messiah.* **Strengthens pattern→reality** |

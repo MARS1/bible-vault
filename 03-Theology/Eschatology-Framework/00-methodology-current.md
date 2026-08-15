@@ -121,6 +121,24 @@ For every substantive claim or connection, **preserve where applicable**. Not ev
 
 **Companion distinction — two axes for "clean food":** **species classification** vs **preparation/provenance/condition**. Independent. Do not let a conviction on one silently settle the other.
 
+## Expansion ≠ Erasure · Later Inclusion ≠ Rewritten Context *(added v2.0)*
+
+> ### **Extending a title, promise, blessing, or identity beyond earlier recipients does NOT displace them.** Test which relationship the text depicts — **replacement · incorporation · expansion · fulfillment · grafting** — and **prefer the text's own word over an imposed label.** *(Isaiah 19:25: Egypt "my people" **while** Israel remains "my inheritance." Romans 11: grafting into an **existing** tree.)*
+
+> ### **And in reverse: later extension does NOT authorize pretending an earlier passage originally addressed a broader audience.** **Preserve the original audience first; then find the bridge by which Scripture expands the scope.** **This is the rule the whole project started from.**
+
+## The Anachronism Test *(added v2.0)*
+
+> ### **Before reading an ancient text through a later institution, theological system, scientific model, political entity, geographic label, or technical term — ask whether that category existed in the author's world. If not, establish the ancient meaning first and argue any later application separately.**
+
+**Standing case: *ancient Israel ≠ the modern State of Israel* (declared 14 May 1948; Balfour 1917).** **Brake runs both ways** — nor may we assert *no* relationship to later Jewish populations. **Separate historical argument required in either direction.**
+
+## "Satan Deceives" Is Not Evidence *(added v2.0)*
+
+> ### **Never let "the enemy deceives" function as evidence that contrary evidence is false.** *I believe X → evidence contradicts X → Satan lies → therefore the contradiction proves X.* **Unfalsifiable. Blocked.**
+
+**Scripture establishes deception as real; individual historical claims still need evidence.** Companion to Point 12.
+
 ## Fulfillment ≠ Exhaustion — and the Bridge Requirement *(added v1.9)*
 
 > ### **A genuine historical fulfillment may possess a further scripturally established realization.**
@@ -327,6 +345,20 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 
 **Every other rule in this file governs the investigation. This one governs the investigator.** Paul places the warning in the same sentence that opens the food-and-idols dispute — exactly where the knowledgeable party was about to be right and destructive simultaneously. **A project accumulating this much knowledge is the intended audience.**
 
+## ⚠️ The Thesis Discipline — Preterism Stays Downstream *(added v2.0)*
+
+> ### **The project must NOT be structured as "I am a preterist; therefore here is how the Bible proves preterism."**
+> ### **Preterism is a HYPOTHESIS BEING TESTED, not the premise.**
+
+**If cumulative evidence points there, say so. But the chain must be earned in order:**
+**preterist fulfillment → millennial chronology → millennium already past → Satan presently released → behavior derived from it.**
+
+> ### ❗ **Otherwise "little season" becomes the lens through which every preceding verse is read. We want the opposite: THE PRECEDING TEXTS MUST EARN THE LITTLE-SEASON HYPOTHESIS.**
+
+**Same discipline for identity labels:** **text → synthesis → label**, never label → text. *("Messianic Israelite" is shorthand at most, not a thesis.)*
+
+**And the destination, stated at the precision the evidence supports:** ❌ not *"we don't have to preach the gospel now"* — ✅ **"does Scripture teach that the prophetic worldwide proclamation associated with 'the end' remains an unfinished commission imposed upon every believer in our present moment?"** **Claim only what has been demonstrated.** Full statement: [[00z-recentering-the-map]].
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -351,6 +383,7 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **2.0** | 2026-08-15 | Added **Expansion ≠ Erasure** and **Later Inclusion ≠ Rewritten Context** (Stage 21), the **Anachronism Test** with the *ancient Israel ≠ modern State* rule, the **"Satan deceives" unfalsifiability protection**, and the **Thesis Discipline** keeping preterism downstream of the evidence (Stage 21½). |
 | **1.9** | 2026-08-14 | Added **Fulfillment ≠ Exhaustion** with its bridge requirement, and the **Lexical Escalation** rule — including the distinction that *a theological dictionary's citation is not a verified primary source* (Stage 20). |
 | **1.8** | 2026-08-14 | Added **Removal ≠ Replacement** (Stage 19) — *fulfillment must be demonstrated; replacement must be demonstrated separately.* Blocks the two-step slide (institution changed → therefore successor X) across Israel→Church, Sabbath→Sunday, Passover→Easter, feasts→Christian calendar, priesthood→ecclesiastical priesthood. |
 | **1.7** | 2026-08-14 | Added **Fulfillment ≠ Abolition** (Stage 18.10) — ask what fulfillment *does* to each pattern; "it was a shadow" is not a universal abolition algorithm; both silent additions forbidden. Added the **Collapsed-Explanation Diagnostic** (Stage 18.9) to 00b. Restated the **lexical-substitution guard** (*cheirographon* ≠ *nomos*). |

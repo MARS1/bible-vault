@@ -52,6 +52,16 @@ This file sits before [[01-convictions]] on purpose — it's the answer to "how 
 
 **This project has been operating the distinction since Stage 1 without naming it** — every "OBSERVATION / INFERENCE / STATUS: unsupported" block is exactly this. **Naming it matters because the two get conflated in ordinary speech, and the conflation is how an inference quietly acquires the authority of a statement.** Worked case: *"Peter ate unclean animals at Cornelius's house"* — the narrative does not imply it; a reader infers it, and the inference is unsupported ([[00s-clean-and-unclean-from-noah-to-messiah]] §20).
 
+**Anachronism** *(added 2026-08-15, Stage 21½)* — from Greek **ἀνά *aná*** (back) + **χρόνος *chrónos*** (time). **Interpreting or describing something from an earlier historical period using a concept, institution, terminology, or circumstance belonging to a later period** — something placed in the wrong time.
+
+**Examples:** reading Paul's **Ἰσραήλ** as directly referring to the political State of Israel founded in 1948; calling Eli or Samuel a "**rabbi**" without qualification, since *rabbi* became a particular title in a later setting *(rendering the function as "teacher" approximates it; importing the later rabbinic institution backward does not)*.
+
+> ### **THE ANACHRONISM TEST**
+> **Before interpreting an ancient text through a later institution, theological system, scientific model, political entity, geographic label, or technical term — ask whether that category existed within the author's historical world.**
+> **If not: establish the ancient meaning first, and argue for any later application separately.**
+
+**Related standing rule — *ancient Israel ≠ the modern State of Israel*:** biblical references to Israel must first be interpreted in their own historical, genealogical, covenantal and literary contexts. **Any proposed relationship between biblical Israel, later Jewish communities, and the modern political State (declared 14 May 1948; Balfour Declaration 1917) requires a separate historical argument and must not be assumed in either direction.** ⚖️ **The brake runs both ways** — we also may not conclude ancient Israel has *no* relationship to later Jewish populations; that too requires evidence. **This protects the biblical argument from being conscripted for either modern political position.** See [[00z-recentering-the-map]] §6–7.
+
 **Epistemology** *(added 2026-08-12, Stage 16)* — the study of **how we know what we know**: what counts as evidence, how claims are tested, degrees of certainty, and when conclusions should be revised. **This is the correct name for what this project is building.** Exegesis and hermeneutics are *tools operating inside* it.
 
 > ### ⚠️ Terminology correction — "ecumenological" is a different word
@@ -220,6 +230,37 @@ The test runs in both directions. Collapse packages several things as one; **imp
 > **When two Gospels record the same episode, a narrower summary in one constrains an ambiguous clause in the other — because both authors are reporting the same event.**
 
 **Worked case:** **Matthew 15:20** summarizes the controversy as "**to eat with unwashed hands does not defile anyone**" — and **Matthew has no parenthesis at all** where Mark 7:19 has "(thus he declared all foods clean)." **Matthew's narrower scope has to constrain the reading of Mark's ambiguous participle.** *(It does not by itself settle the grammar — see [[00s-clean-and-unclean-from-noah-to-messiah]] §13.)*
+
+## Expansion Does Not Require Erasure (formal rule, added 2026-08-15, Stage 21)
+
+> ### **When Scripture extends a covenantal title, promise, blessing, or identity beyond its earlier recipients, do NOT assume the original recipient has thereby been displaced.**
+> ### **Test whether the later text depicts REPLACEMENT · INCORPORATION · EXPANSION · FULFILLMENT · GRAFTING · or some other relationship.**
+> ### **Prefer the relationship EXPLICITLY SUPPLIED BY THE TEXT over a theological label imposed upon it.**
+
+**Worked cases:** **Isaiah 19:25** calls Egypt "**my people**" *while Israel remains "my inheritance"* — expansion without displacement, stated in one verse. **Romans 11:17–18** grafts wild branches into an **existing** tree *whose root supports them* — and Paul's chosen metaphor is **grafting**, not replacement. **Use Paul's vocabulary before inventing ours.**
+
+**Consequence for labels:** avoid ❌ *"Church replaces Israel"* — but also avoid prematurely asserting ❌ *"Church simply IS Israel"* without qualification. **Neither is Paul's word.**
+
+## Later Inclusion Must Not Rewrite Earlier Context (formal rule, added 2026-08-15, Stage 21)
+
+> ### **The fact that Scripture LATER extends a promise or mission does not authorize retroactively pretending an earlier passage originally addressed a broader audience than its historical context supports.**
+> ### **Preserve the original audience first; THEN trace the textual bridge by which Scripture itself expands the scope.**
+
+> **This rule is what started the entire project** — the refusal to universalize instructions given to Israelite apostles merely because later tradition reads them that way.
+
+**And the finding that vindicated it: preserving Israel's priority made the Gentile case *stronger*, not weaker** ([[00y-who-are-the-people-of-god]] §19). **Context did not shrink the gospel; it showed why it could become so large.**
+
+**Companion to Fulfillment ≠ Exhaustion:** that rule requires a textual bridge before extending a fulfillment *forward*; **this requires one before extending an audience *backward*.**
+
+## "Satan Deceives" Is Not Evidence — the Unfalsifiability Protection (formal rule, added 2026-08-15, Stage 21½)
+
+> ### **"Satan deceives" cannot itself become evidence that a particular disputed claim is false.**
+
+**The reasoning it blocks:** *I believe X → evidence contradicts X → Satan is the father of lies → therefore the contrary evidence proves Satan is hiding X.* **Unfalsifiable, and it destroys the methodology.**
+
+**Scripture can establish deception as a reality. Individual historical claims still require evidence.**
+
+> **This protects the investigation PRECISELY BECAUSE it takes biblical warnings about deception seriously.** Companion to **Point 12** of the 12-point structure — *a claim with no falsification condition is being protected, not held.*
 
 ## Fulfillment ≠ Exhaustion — With Its Brake Attached (formal rule, added 2026-08-14, Stage 20)
 

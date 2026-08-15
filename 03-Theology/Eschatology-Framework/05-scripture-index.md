@@ -1431,6 +1431,88 @@ ESV: "The one who observes the day, observes it in honor of the Lord. The one wh
 CJB: "He who observes a day as special does so to honor the Lord."
 **🚧 Paul does NOT say "Sabbath." Romans 14 is not the Sabbath-abolition passage — see [[04-open-questions]] item 34.**
 
+## The People of God — Covenant Formula, Expansion, Grafting (see [[00y-who-are-the-people-of-god]])
+
+> Greek: **τῷ λαῷ τοῦ θεοῦ** *tō laō tou theou* ("the people of God") · **πᾶς Ἰσραήλ** *pas Israēl* ("all Israel"). Hebrew: **לֹא עַמִּי** *Lo-Ammi* ("not my people").
+
+**Exodus 6:7 / Leviticus 26:12** — the covenant formula
+ESV (Ex 6:7): "I will take you to be my people, and I will be your God, and you shall know that I am the Lord your God"
+ESV (Lev 26:12): "And I will walk among you and will be your God, and you shall be my people."
+CJB (Ex 6:7): "I will take you as my people, and I will be your God."
+
+**Genesis 12:3** — particularity AND universality together from the start
+ESV: "I will bless those who bless you, and him who dishonors you I will curse; and in you all the families of the earth shall be blessed."
+CJB: "by you all the families of the earth will be blessed."
+
+**Exodus 12:49** — one law for native and stranger
+ESV: "There shall be one law for the native and for the stranger who sojourns among you."
+CJB: "The same teaching is to apply equally to the citizen and to the foreigner living among you."
+
+**Isaiah 19:24–25** — 🔴 Yahweh calls EGYPT "my people," AND Israel remains "my inheritance"
+ESV (24): "In that day Israel will be the third with Egypt and Assyria, a blessing in the midst of the earth"
+ESV (25): "Blessed be Egypt my people, and Assyria the work of my hands, and Israel my inheritance."
+CJB (24): "On that day Isra'el will be a third partner with Egypt and Ashur, a blessing here on earth"
+CJB (25): "Blessed be Egypt my people, Ashur the work of my hands and Isra'el my heritage."
+**EXPANSION WITHOUT ERASURE, stated in a single verse. Major control text.**
+
+**Hosea 1:9–10, 2:23** — 📌 CJB offset: ESV 1:10 = CJB 2:1; ESV 2:23 = CJB 2:21 (FIFTH confirmed offset)
+ESV (1:9): "Call his name Not My People, for you are not my people, and I am not your God."
+ESV (1:10): "And in the place where it was said to them, 'You are not my people,' it shall be said to them, 'Children of the living God.'"
+ESV (2:23): "I will say to Not My People, 'You are my people'; and he shall say, 'You are my God.'"
+CJB (1:9): "Name him Lo-'Ammi [not-my-people]"
+**Contextually about ISRAEL. That must not be skipped when Paul and Peter reuse it.**
+
+**1 Peter 2:9–10** — Sinai vocabulary (Exodus 19) applied among the nations
+ESV (9): "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession"
+ESV (10): "Once you were not a people, but now you are God's people; once you had not received mercy, but now you have received mercy."
+CJB (9): "a chosen people, the King's cohanim, a holy nation, a people for God to possess!"
+
+**1 Peter 4:3** — the audience-composition complication
+ESV: "For the time that is past suffices for doing what the Gentiles want to do, living in sensuality, passions, drunkenness, orgies, drinking parties, and lawless idolatry."
+CJB: "living the way the pagans want you to live... forbidden idol-worship."
+**"Dispersion" sounds Jewish; this sounds Gentile. Composition genuinely contested.**
+
+**Romans 9:6** — the governing question for the NEXT stage
+ESV: "But it is not as though the word of God has failed. For not all who are descended from Israel belong to Israel,"
+CJB: "For not everyone from Isra'el is truly part of Isra'el;"
+
+**Romans 9:24–26** — Hosea deployed in a Jew+Gentile argument
+ESV (24): "even us whom he has called, not from the Jews only but also from the Gentiles?"
+ESV (25): "Those who were not my people I will call 'my people,' and her who was not beloved I will call 'beloved.'"
+ESV (26): "And in the very place where it was said to them, 'You are not my people,' there they will be called 'sons of the living God.'"
+
+**Romans 11:17–18** — the olive tree; grafted into an EXISTING tree
+ESV (17): "But if some of the branches were broken off, and you, although a wild olive shoot, were grafted in among the others and now share in the nourishing root of the olive tree,"
+ESV (18): "do not be arrogant toward the branches. If you are, remember it is not you who support the root, but the root that supports you."
+CJB (17): "you — a wild olive — were grafted in among them and have become equal sharers in the rich root of the olive tree"
+CJB (18): "don't boast as if you were better than the branches!"
+
+**Romans 11:25–29** — ❗ the brake
+ESV (25): "a partial hardening has come upon Israel, until the fullness of the Gentiles has come in."
+ESV (26): "And in this way all Israel will be saved"
+ESV (28): "As regards election, they are beloved for the sake of their forefathers."
+ESV (29): "For the gifts and the calling of God are irrevocable."
+CJB (29): "for God's free gifts and his calling are irrevocable."
+**Ethnic Israel did not cease to matter to Paul. See [[04-open-questions]] item 14 on "all Israel."**
+
+**Ephesians 2:13–15** — 🔴 MAJOR TRANSLATION DIVERGENCE at v.15. See [[04-open-questions]] item 56.
+ESV (13): "But now in Christ Jesus you who once were far off have been brought near by the blood of Christ."
+ESV (14): "For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility"
+ESV (15): "by abolishing THE LAW of commandments expressed in ordinances, that he might create in himself one new man in place of the two"
+CJB (14): "he has made us both one and has broken down the m'chitzah which divided us"
+CJB (15): "by destroying in his own body THE ENMITY OCCASIONED BY the Torah, with its commands set forth in the form of ordinances... a single new humanity"
+**ESV: Messiah abolishes the law. CJB: Messiah destroys the enmity occasioned by it. NOT the same claim. v.14's "dividing wall of HOSTILITY" and v.16's "killing the hostility" make hostility the paragraph's recurring object — a contextual datum, not a lexical demonstration.**
+
+**Galatians 6:16** — "the Israel of God." See [[04-open-questions]] item 57.
+ESV: "And as for all who walk by this rule, peace and mercy be upon them, and upon the Israel of God."
+CJB: "And as many as order their lives by this rule, shalom upon them and mercy, and upon the Isra'el of God!"
+**The force of *kai*: "and also upon" a DISTINCT group, or "namely"? Opposite conclusions. Unresolved.**
+
+**Revelation 21:12–14** — counterevidence to be tested. See [[04-open-questions]] item 58.
+ESV: "It had a great, high wall, with twelve gates... and on the gates the names of the twelve tribes of the sons of Israel were inscribed... And the wall of the city had twelve foundations, and on them were the twelve names of the twelve apostles of the Lamb."
+CJB: "inscribed on the gates were the names of the twelve tribes of Isra'el... on these were the twelve names of the twelve emissaries of the Lamb."
+**TWELVE TRIBES AS GATES. TWELVE APOSTLES AS FOUNDATIONS. ONE CITY.**
+
 ## Hebrews 3–4 — Katapausis, Sabbatismos, and "Today" (see [[00x-hebrews-4-sabbatismos-and-the-rest-that-remains]])
 
 > Greek: **κατάπαυσις** *katapausis* (rest — dominant through Heb 3–4) · **σαββατισμός** *sabbatismos* (Heb 4:9 ONLY) · **ἀναπαύω** *anapauo* (Rev 14:13 — a DIFFERENT word, do not merge) · **τῷ λαῷ τοῦ θεοῦ** *tō laō tou theou* ("the people of God").
