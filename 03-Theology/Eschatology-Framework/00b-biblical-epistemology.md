@@ -221,6 +221,41 @@ The test runs in both directions. Collapse packages several things as one; **imp
 
 **Worked case:** **Matthew 15:20** summarizes the controversy as "**to eat with unwashed hands does not defile anyone**" — and **Matthew has no parenthesis at all** where Mark 7:19 has "(thus he declared all foods clean)." **Matthew's narrower scope has to constrain the reading of Mark's ambiguous participle.** *(It does not by itself settle the grammar — see [[00s-clean-and-unclean-from-noah-to-messiah]] §13.)*
 
+## Fulfillment ≠ Exhaustion — With Its Brake Attached (formal rule, added 2026-08-14, Stage 20)
+
+> ### **A prophecy, pattern, covenant sign, or type may have a genuine historical fulfillment without every dimension of its significance being exhausted.**
+
+**Hebrews demonstrates it: Joshua really gave Israel rest in the land — yet Psalm 95, written centuries later, still says "Today" and still warns about entering Yahweh's rest.** **Hebrews 4:8: "if Joshua had given them rest, God would not have spoken of another day later on."** **The earlier fulfillment is not erased; it is shown to be non-exhaustive.**
+
+> ### ❗ **THE BRAKE, ATTACHED IMMEDIATELY — WITHOUT IT THIS RULE IS AN ESCAPE HATCH:**
+> ### **Multiple fulfillment must be DEMONSTRATED BY SCRIPTURE, not invented whenever a prophecy fails to fit a preferred chronology.**
+>
+> **Hebrews earns its move because *Psalm 95 itself speaks later than Joshua*. The Bible supplies the evidentiary bridge. That is the standard.**
+
+### Why it matters for this project's own thesis
+
+| ❌ Invalid | Why |
+|---|---|
+| *"This happened in AD 70, therefore it cannot have any other significance"* | Hebrews shows the reasoning is not automatically valid |
+| *"It happened in AD 70, therefore it must happen again at the end of history"* | Equally invalid — recurrence requires demonstration |
+
+> ### **Correct question: does Scripture itself extend the pattern beyond the historical fulfillment?**
+>
+> **Note it cuts against both the preterist and the futurist shortcut — which is precisely why it is worth having.**
+
+**The three related distinctions now held together:** **Fulfillment ≠ Abolition** (is the pattern gone?) · **Removal ≠ Replacement** (did something take its seat?) · **Fulfillment ≠ Exhaustion** (was the pattern used up?). Worked: [[00x-hebrews-4-sabbatismos-and-the-rest-that-remains]] §3, §14, §16.
+
+## The Lexical Escalation Rule (formal rule, added 2026-08-14, Stage 20)
+
+> ### **When an argument materially depends on an unusual or disputed Greek/Hebrew term, do not allow an English gloss to settle the question.**
+> ### **Record the immediate context first → then verify attested ancient usage independently → preserve ambiguity where the lexical evidence permits more than one sense.**
+
+**And a distinction the first application immediately forced:** **a theological dictionary's citation is not a verified primary source.** **Record what the lexicon claims, then check the claim.**
+
+**First application — *sabbatismos* (Hebrews 4:9):** Thayer's lists **two** senses ("a keeping sabbath" / eschatological rest) and cites Plutarch *De Superstitione* §3. **Verification attempt found Sabbath material at §8, not §3, and in English translation only — the Greek word was never confirmed.** **Status recorded as REPORTED, NOT INDEPENDENTLY VERIFIED** ([[00x-hebrews-4-sabbatismos-and-the-rest-that-remains]] §8).
+
+> **The rule produced a gap rather than an answer, and that is it working.** Had the gloss been accepted, the file would now assert an attestation nobody checked — and the section-number mismatch would have passed unnoticed. **Same discipline as the 1 Enoch precedent.**
+
 ## Do Not Confuse Removal With Replacement (formal rule, added 2026-08-14, Stage 19)
 
 > ### **If Scripture modifies, fulfills, or removes a covenantal institution, that does NOT automatically establish that some later practice replaced it.**

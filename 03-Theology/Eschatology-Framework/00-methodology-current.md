@@ -121,6 +121,26 @@ For every substantive claim or connection, **preserve where applicable**. Not ev
 
 **Companion distinction — two axes for "clean food":** **species classification** vs **preparation/provenance/condition**. Independent. Do not let a conviction on one silently settle the other.
 
+## Fulfillment ≠ Exhaustion — and the Bridge Requirement *(added v1.9)*
+
+> ### **A genuine historical fulfillment may possess a further scripturally established realization.**
+> ### ❗ **BUT: a second or greater fulfillment requires a TEXTUAL BRIDGE. "Double fulfillment" may NOT be invoked merely to rescue a preferred interpretation.**
+
+**Hebrews earns it because Psalm 95 speaks later than Joshua. Find the bridge or don't make the move.**
+
+**Cuts against both shortcuts:** ❌ *"happened in AD 70, therefore nothing further"* · ❌ *"happened in AD 70, therefore it recurs at the end."* **Ask instead: does Scripture itself extend the pattern?**
+
+**Now three related rules — run all three:** Fulfillment ≠ **Abolition** · Removal ≠ **Replacement** · Fulfillment ≠ **Exhaustion**.
+
+## Lexical Escalation — Run Before Any Argument Rests on a Rare Term *(added v1.9)*
+
+> ### **When an argument materially depends on an unusual or disputed Greek/Hebrew term, an English gloss does not settle it.**
+> ### **Immediate context first → verify attested ancient usage independently → preserve ambiguity where the evidence permits more than one sense.**
+>
+> ### **A theological dictionary's citation is NOT a verified primary source. Record what the lexicon claims, then check the claim.**
+
+**Worked (and it produced a gap, not an answer):** *sabbatismos* — Thayer's gives two senses and cites Plutarch §3; verification found Sabbath material at §8, English only, Greek unconfirmed. **Recorded as REPORTED, NOT VERIFIED.**
+
 ## Removal ≠ Replacement — Run Whenever a Successor Is Claimed *(added v1.8)*
 
 > ### **Fulfillment must be demonstrated; replacement must be demonstrated SEPARATELY.**
@@ -331,6 +351,7 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **1.9** | 2026-08-14 | Added **Fulfillment ≠ Exhaustion** with its bridge requirement, and the **Lexical Escalation** rule — including the distinction that *a theological dictionary's citation is not a verified primary source* (Stage 20). |
 | **1.8** | 2026-08-14 | Added **Removal ≠ Replacement** (Stage 19) — *fulfillment must be demonstrated; replacement must be demonstrated separately.* Blocks the two-step slide (institution changed → therefore successor X) across Israel→Church, Sabbath→Sunday, Passover→Easter, feasts→Christian calendar, priesthood→ecclesiastical priesthood. |
 | **1.7** | 2026-08-14 | Added **Fulfillment ≠ Abolition** (Stage 18.10) — ask what fulfillment *does* to each pattern; "it was a shadow" is not a universal abolition algorithm; both silent additions forbidden. Added the **Collapsed-Explanation Diagnostic** (Stage 18.9) to 00b. Restated the **lexical-substitution guard** (*cheirographon* ≠ *nomos*). |
 | **1.6** | 2026-08-14 | Added the **three content provenance layers** (ADR-0009) — Main Argument / ✍️ Manuscript Voice / 🔬 **Researcher's Commentary** — with the classification question to run on every tranche and the *preserve everything now, curate later* principle. Glossary gained the **imply/infer** distinction. **BIBLE-04g's scope extended:** the Stages 1–12 backfill must now also **recover Researcher's Commentary** wherever surviving material permits. |

@@ -532,7 +532,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question, and it is the hardest covenant-sign test yet.**
 
-## Stage 19 — Sabbath: Creation, Covenant Sign, Shadow, and Rest *(current)*
+## Stage 19 — Sabbath: Creation, Covenant Sign, Shadow, and Rest
 
 **File:** [[00w-sabbath-creation-covenant-sign-shadow-rest]]
 
@@ -561,9 +561,56 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** what does *sabbatismos* actually mean, and is the rest already entered, still future, or both?
 
+## Stage 20 — Hebrews 4: "There Remains a Sabbath-Rest" *(current)*
+
+**File:** [[00x-hebrews-4-sabbatismos-and-the-rest-that-remains]]
+
+> **Prevents reducing Sabbath EITHER to a calendar rule OR to a metaphor that has swallowed the calendar rule.** Started in **Hebrews 3**, so *sabbatismos* wouldn't become another isolated word carrying imported theology.
+
+- **Hebrews' own view of Scripture, noted before anything else:** 3:7 introduces Psalm 95 with "**as the Holy Spirit SAYS**" — present tense. Written in history, **still being spoken**
+- **The dominant word through Hebrews 3–4 is κατάπαυσις *katapausis*, NOT *sabbatismos*.** Holding that distinction is what makes v.9's shift visible
+- **THE ARGUMENT IS CHRONOLOGICAL AND BEAUTIFUL:** Psalm 95 was written **after Joshua**, yet still says "**Today**" and still warns about entering the rest. **Heb 4:8 — "if Joshua had given them rest, God would not have spoken of another day later on."** **Joshua's entrance into Canaan cannot have exhausted the meaning.** And crucially — **the earlier fulfillment is NOT erased. Israel really entered the land**
+- **Then Hebrews reaches back PAST Joshua to Genesis 2** (4:4) — so the archetype is **Yahweh's own seventh-day rest**. *(Stage 19 had to begin at Genesis; Hebrews independently does the same, which is worth noting)*
+- **Layers: Yahweh rests → Israel called → Joshua's historical rest → Psalm 95's still-open "Today" → the invitation remains open.** Progressive development of one motif, not repetition
+- **🔴 v.9 SHIFTS VOCABULARY: σαββατισμός.** ESV "a Sabbath **rest**" (a state) vs CJB "a *Shabbat*-**keeping**" (an observance). **Thayer's lists BOTH senses and declines to choose.** ⚖️ Brake both ways: doesn't prove "observe Saturday," can't be flattened to "generic spiritual relaxation"
+- **⛔ LEXICAL VERIFICATION ATTEMPTED AND INCOMPLETE — RECORDED HONESTLY.** Thayer's cites **Plutarch *De Superstitione* §3**. Verification found Sabbath material at **§8, not §3**, and **in English translation only — the Greek word was never confirmed.** **STATUS: REPORTED BY A LEXICON, NOT INDEPENDENTLY VERIFIED.** *(To complete: Greek text of Moralia 166A, then Justin Martyr / Epiphanius / Apostolic Constitutions in Greek.)* **🔬 First application of the new rule produced a GAP rather than an answer — that is the rule working. Had the gloss been accepted, the file would assert an attestation nobody checked, and the §3/§8 mismatch would have passed unnoticed**
+- **What context establishes regardless:** 4:10's "**as God did**" keeps Genesis 2 controlling. **So *sabbatismos* means human participation in the pattern of Yahweh's own rest** — larger than "take Saturday off," **but "larger than" ≠ "abolishes"**
+- **🔑 THE PARADOX: 4:3 "we who have believed ENTER that rest" (present) vs 4:11 "let us STRIVE TO ENTER" (not yet).** **ALREADY / NOT YET.** The reality has begun; consummation remains ahead
+- **Which makes Colossians' *tōn mellontōn* more interesting** — supplies a plausible reason Sabbath could be **a shadow AND still meaningful: its ultimate referent hasn't been exhausted**
+- **🔍 GENESIS 2 LITERARY OBSERVATION:** the "**and there was evening and there was morning**" formula appears on days one through six — **and is ABSENT on day seven.** **🚧 We do NOT conclude "the seventh day never ended" — that's interpretation.** But it's a verifiable literary fact, and open as a research question
+- **"TODAY" is the second temporal symbol** — the seventh day reaches **backward** to completed work; "Today" reaches **forward** to the person still hearing. **Sabbath becomes a theology of ceasing from our own works and entering Yahweh's completed work through faithful hearing**
+- **⚠️ But "our own works" handled carefully — Hebrews repeatedly exhorts obedience.** The contrast is **not** *works = evil*. And **3:19 "unbelief" / 4:6 "disobedience" are treated as deeply connected** — faith here manifests as **trusting obedience**, which corrects reducing 4:10 to "stop trying to earn salvation"
+- **PRECISE VERDICT ON THE SABBATH QUESTION:** Hebrews **does** use Sabbath vocabulary, root the argument in Genesis, say a *sabbatismos* **remains**, and describe believers entering Yahweh's rest. **It does NOT say "therefore cease work Friday sunset to Saturday sunset." It does NOT say "the weekly Sabbath is abolished because Yeshua is your Sabbath." Neither formulation is present. Both sides need more evidence**
+- **🔑 AND 4:9's SUBJECT REOPENS THE OLDEST QUESTION: τῷ λαῷ τοῦ θεοῦ — "THE PEOPLE OF GOD."** Can't be casually substituted with "the modern Gentile church replacing Israel," **nor** restricted to "ethnic Israelites only." **Sabbath has reconnected to the earliest investigation — not forced; the vocabulary itself reopened it**
+- **Revelation 14:13 resonance recorded, vocabulary NOT merged** — that's ἀναπαύω *anapauō*, a different word. Intertextual question, not an argument
+
+**🆕 TWO NEW FORMAL RULES:**
+- **FULFILLMENT ≠ EXHAUSTION — WITH ITS BRAKE ATTACHED.** A genuine historical fulfillment may possess a further scripturally established realization. ❗ **BUT multiple fulfillment must be DEMONSTRATED BY SCRIPTURE, not invented when a prophecy fails to fit a preferred chronology.** **Hebrews earns its move because *Psalm 95 itself speaks later than Joshua* — the Bible supplies the bridge.** **CUTS AGAINST BOTH SHORTCUTS:** ❌ *"happened in AD 70, therefore nothing further"* and ❌ *"happened in AD 70, therefore it recurs at the end."* **Extremely important control for this project's own preterist thesis.** Now three related rules: Fulfillment ≠ **Abolition** · Removal ≠ **Replacement** · Fulfillment ≠ **Exhaustion**
+- **LEXICAL ESCALATION.** When an argument materially depends on a rare or disputed term, **an English gloss does not settle it** — immediate context first, then independent verification of attested ancient usage, **preserving ambiguity where the evidence permits more than one sense.** **And the distinction its first application forced: A THEOLOGICAL DICTIONARY'S CITATION IS NOT A VERIFIED PRIMARY SOURCE**
+
+**REFINED SABBATH HYPOTHESIS:** *the seventh-day rest established at creation becomes a covenantal sign within Israel and simultaneously participates in a larger motif of entering Yahweh's own rest; Hebrews carries that motif beyond Joshua into the life and hope of the Messianic people of God. Messiah does not make the Sabbath motif meaningless — He brings its deepest referent into view. Whether weekly seventh-day observance remains obligatory is a further question NOT settled by Hebrews 4 alone.* **⚖️ Note the discipline: the question has not been decided because this project finds Sabbath attractive**
+
+**→ earns the next question, and it is the oldest one in the project.**
+
 ---
 
 ## Next Stage (not yet written)
+
+### **WHO ARE "THE PEOPLE OF GOD"? — not Sunday**
+
+> ### **Hebrews 4:9 says a *sabbatismos* remains FOR THE PEOPLE OF GOD. Before asking what remains, we need to know FOR WHOM it remains.**
+
+**Straight back into: Israel · the nations · grafting · covenant · Romans 9–11 · Ephesians 2 — and the question underneath all of them:**
+
+> ### **Does the New Covenant create a NEW people, or ENLARGE/RESTORE the people Yahweh already had?**
+
+**This could tie the entire first major arc together** — [[00e-olive-tree-and-covenant-identity]], [[00c-commission-covenant-investigation]], the ***ger* thread now surfacing from five directions**, and the "Messianic Israelite" definition disciplined twice ([[01-convictions]] B.5).
+
+**Still queued behind it:** the **Stage 18 provisional verdict** on clean/unclean food · the ***sabbatismos* primary-source completion** · and **Sunday**, dormant until a replacement is actually claimed.
+
+---
+
+## Superseded — Previous "Next Stage" Entry (19 → 20), Preserved
 
 ### **HEBREWS 4 SURGICALLY — *sabbatismos*. Deliberately NOT Sunday.**
 

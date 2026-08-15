@@ -1431,6 +1431,56 @@ ESV: "The one who observes the day, observes it in honor of the Lord. The one wh
 CJB: "He who observes a day as special does so to honor the Lord."
 **🚧 Paul does NOT say "Sabbath." Romans 14 is not the Sabbath-abolition passage — see [[04-open-questions]] item 34.**
 
+## Hebrews 3–4 — Katapausis, Sabbatismos, and "Today" (see [[00x-hebrews-4-sabbatismos-and-the-rest-that-remains]])
+
+> Greek: **κατάπαυσις** *katapausis* (rest — dominant through Heb 3–4) · **σαββατισμός** *sabbatismos* (Heb 4:9 ONLY) · **ἀναπαύω** *anapauo* (Rev 14:13 — a DIFFERENT word, do not merge) · **τῷ λαῷ τοῦ θεοῦ** *tō laō tou theou* ("the people of God").
+
+**Hebrews 3:7–8** — Scripture as PRESENT speech
+ESV: "Therefore, as the Holy Spirit says, 'Today, if you hear his voice, do not harden your hearts as in the rebellion, on the day of testing in the wilderness'"
+CJB: "as the Ruach HaKodesh says, 'Today, if you hear God's voice, don't harden your hearts, as you did in the Bitter Quarrel'"
+**Note the present tense — "says," not "said."**
+
+**Hebrews 3:11, 19**
+ESV (11): "As I swore in my wrath, 'They shall not enter my rest.'"
+ESV (19): "So we see that they were unable to enter because of unbelief."
+CJB (19): "they were unable to enter because of lack of trust."
+
+**Hebrews 3:13** — "Today"
+ESV: "But exhort one another every day, as long as it is called 'today,' that none of you may be hardened by the deceitfulness of sin."
+
+**Psalm 95:7–8, 11** — the text Hebrews reasons from (CJB numbering identical here, checked)
+ESV (8): "Do not harden your hearts, as at Meribah, as on the day at Massah in the wilderness"
+ESV (11): "Therefore I swore in my wrath, 'They shall not enter my rest.'"
+CJB (8): "Don't harden your hearts, as you did at M'rivah, as you did on that day at Massah in the desert"
+
+**Hebrews 4:3–4** — believers ENTER (present), and the archetype is Genesis 2
+ESV (3): "For we who have believed enter that rest, as he has said, 'As I swore in my wrath, They shall not enter my rest,'"
+ESV (4): "For he has somewhere spoken of the seventh day in this way: 'And God rested on the seventh day from all his works.'"
+CJB (3): "For it is we who have trusted who enter the rest."
+
+**Hebrews 4:6–7** — disobedience, and "Today" appointed again
+ESV (6): "Since therefore it remains for some to enter it, and those who formerly received the good news failed to enter because of disobedience,"
+ESV (7): "again he appoints a certain day, 'Today,' saying through David so long afterward"
+**3:19 "unbelief" and 4:6 "disobedience" treated as deeply connected.**
+
+**Hebrews 4:8** — the chronological argument
+ESV: "For if Joshua had given them rest, God would not have spoken of another day later on."
+CJB: "For if Y'hoshua had given them rest, God would not have spoken later of another 'day.'"
+**Psalm 95 postdates Joshua. THE BIBLE SUPPLIES THE BRIDGE. See the Fulfillment != Exhaustion rule in [[00b-biblical-epistemology]].**
+
+*(Hebrews 4:9–11 indexed above under the Sabbath section — ESV "a Sabbath rest" / CJB "a Shabbat-keeping.")*
+
+**Genesis 1:5, 1:31** — the formula that is ABSENT on day seven. See [[04-open-questions]] item 54.
+ESV (1:5): "And there was evening and there was morning, the first day."
+ESV (1:31): "And there was evening and there was morning, the sixth day."
+CJB (1:5): "So there was evening, and there was morning, one day."
+**Genesis 2:2-3 has no closure formula. Verifiable literary observation; NOT a conclusion that the day never ended.**
+
+**Revelation 14:13** — resonance recorded, vocabulary NOT merged
+ESV: "And I heard a voice from heaven saying, 'Write this: Blessed are the dead who die in the Lord from now on.' 'Blessed indeed,' says the Spirit, 'that they may rest from their labors, for their deeds follow them!'"
+CJB: "now they may rest from their efforts, for the things they have accomplished follow along with them."
+**Greek is anapauo, NOT katapausis or sabbatismos. Intertextual question, not an argument.**
+
 ## Sabbath — Creation, Covenant Sign, Shadow, Rest (see [[00w-sabbath-creation-covenant-sign-shadow-rest]])
 
 > Hebrew: **שָׁבַת** *shāvat* (cease/rest) → **שַׁבָּת** *Shabbat* · **אוֹת** *ʾôt* (sign) · **זָכוֹר** *zāḵôr* (remember). Greek: **ἄνθρωπος** *anthrōpos* · **σάββατον** *sabbaton* · **σαββατισμός** *sabbatismos*.
