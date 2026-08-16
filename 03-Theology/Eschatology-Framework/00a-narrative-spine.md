@@ -407,7 +407,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** food — where the same "it was merely Mosaic" answer will fail **for the second consecutive stage**.
 
-## Stage 18 — Clean and Unclean: From Noah to Messiah *(current)*
+## Stage 18 — Clean and Unclean: From Noah to Messiah
 
 **File:** [[00s-clean-and-unclean-from-noah-to-messiah]]
 
