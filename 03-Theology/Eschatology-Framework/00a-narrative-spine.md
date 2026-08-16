@@ -59,7 +59,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **21½** | **⚙️ Recenter the Narrative: What Are We Actually Trying to Determine?** | **[[00z-recentering-the-map]]** |
 | **22** | Romans 9: "Not All Who Are From Israel Are Israel" | [[01a-romans-9-not-all-israel-is-israel]] |
 | **23** | Romans 10: "How Will They Hear Without Someone Preaching?" | [[01b-romans-10-how-will-they-hear]] |
-| **24** | *(next)* Romans 11 — has God rejected His people? | — |
+| **24** | Romans 11: Remnant, Grafting, and "All Israel" | [[01c-romans-11-remnant-grafting-and-all-israel]] |
+| **25** | *(next)* **🔑 The Comparative Scope Study — back to the main eschatological question** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -727,7 +728,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 23 — Romans 10: "How Will They Hear Without Someone Preaching?" *(current)*
+## Stage 23 — Romans 10: "How Will They Hear Without Someone Preaching?"
 
 **File:** [[01b-romans-10-how-will-they-hear]] · **The stage we said we would run at rather than avoid.**
 
@@ -759,7 +760,68 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 24 — Romans 11: Remnant, Grafting, and "All Israel" *(current)*
+
+**File:** [[01c-romans-11-remnant-grafting-and-all-israel]] · **Closes the Romans 9–11 arc AND the "Who are the people of God?" branch opened at Stage 20.**
+
+> ### **THE CANONICAL CONTROL: Romans 9:6 cannot be responsibly read without Romans 11:1.** *"Not all who are from Israel are Israel"* cannot become *"God rejected Israel"* — **because Paul asks that exact question two chapters later and answers "by no means" (11:1), then says it again about the stumbling (11:11).**
+
+**Ten statements from Paul's own mouth that no simple replacement model survives:** not rejected (11:1–2) · remnant by grace (11:5) · not a final fall (11:11) · hardening **partial**, ***apo merous*** (11:25) · hardening bounded, ***achri hou*** (11:25) · Gentiles grafted **into an existing tree** (11:17) · Gentiles forbidden to boast **and cuttable themselves** (11:18–22) · natural branches graftable back into **"their own olive tree"** (11:23–24) · Israel **beloved as regards election** (11:28) · calling ***ametamelēta*, irrevocable** (11:29).
+
+**⚖️ And the counterweight at equal force:** branches were broken off **because of unbelief** (11:20). **Ethnicity matters; ethnicity does not substitute for faith. Distinction without separation.**
+
+### 🛑 Romans 11:26 — three-way SOURCE-TEXT divergence, and Paul matches neither witness
+
+| Witness | Preposition | Direction |
+|---|---|---|
+| **MT** וּבָא **לְצִיּוֹן** גּוֹאֵל | **לְ** | **TO** Zion |
+| **LXX** ἥξει **ἕνεκεν Σιὼν** | **ἕνεκεν** | **FOR THE SAKE OF** Zion |
+| **Paul** Ἥξει **ἐκ Σιὼν** | **ἐκ** | **OUT OF / FROM** Zion |
+
+> ### ❗❗ **Stronger than Stage 23's finding. At Romans 10:18 Paul quoted the LXX VERBATIM; here he matches NO extant witness examined.** **Any argument resting on the DIRECTION of the Deliverer's coming rests on a preposition that differs across every witness — the project may not build on it.**
+>
+> ### **🆕 AND THE LESSON IS NARROWER THAN EITHER GENERALIZATION: QUOTATION BEHAVIOR MUST BE CHECKED PER QUOTATION. It is not a property of the author.** Generalizing Stage 23 forward gives *"Paul quotes the LXX"* — **false here.** Generalizing Stage 24 backward gives *"Paul reshapes his sources"* — **false at 10:18.**
+
+**Also verified: οὕτως (11:26) is an ADVERB (3779)** — *"in this MANNER,"* not *"and THEN."* **Chronology may not be imported from the English "so."** **And the quotation's object is JACOB**, which weighs against emptying "all Israel" of ethnic reference — **recorded as intertextual, not lexical.**
+
+**"All Israel" — four readings listed, NONE SELECTED (q75)**, deliberately, even though this project's own identity language would be simpler under two of them. **The Thesis Discipline applied where the convenient answer is also genuinely defensible.**
+
+**🆕 DIVERGENCE TALLIES KEPT SEPARATE:** **8 translation divergences** (English witnesses) vs **2 source-text divergences** (MT/LXX/NT author — Ps 19:5's *qav*/*phthongos*, and this one). **Merging them into "10" would itself be an evidence-type collapse (ADR-0010).**
+
+**🆕 TWO METHODOLOGICAL RULES ADDED: Question–Answer Canonical Control · Metaphor Preservation** — *use Paul's metaphor before inventing a label; the olive tree has six moving parts that every one-word label collapses.*
+
+**📐 And Romans 11:33 went into the epistemology as a worked biblical precedent:** Paul reasons at maximum intensity for three chapters — Torah, Prophets, history, logic, intertextuality, an extended metaphor, an explicit "mystery" — **and ends in worship rather than a completed system. The humility arrives AFTER the exegesis, not instead of it.**
+
+**Provisional synthesis, labeled provisional:** *Yahweh's people remain rooted in Israel's covenantal story; Messiah is the decisive center; Gentiles are genuinely incorporated through faith without erasing Israel; unbelief can sever participation; grace forbids boasting in either ancestry or Gentile inclusion.*
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 25 — 🔑 THE COMPARATIVE SCOPE STUDY (q68). BACK TO THE MAIN QUESTION.**
+
+> ### **No longer a Torah side branch. This is the bridge identified at Stage 23 — and where the preterist timeline stands or falls.**
+>
+> **Did the New Testament writers believe the gospel had already been proclaimed throughout the "world" before AD 70?**
+
+| Text | Scope term | Status |
+|---|---|---|
+| **Matthew 24:14** | ὅλῃ τῇ **οἰκουμένῃ** | ✅ verified |
+| **Romans 10:18** | **γῆν** … **οἰκουμένης** | ✅ verified — **but QUOTED from LXX Ps 18:5, NOT Paul's own word** |
+| **Colossians 1:6** | "whole world" | ❌ not yet retrieved |
+| **Colossians 1:23** | πάσῃ **κτίσει** | ✅ verified — ***ktisis*, NOT *oikoumenē***; shares Matthew's verb lemma |
+| **Acts 2** diaspora list | — | ❌ not yet examined |
+| **Acts 17** / Paul's ministry-reach claims | — | ❌ not yet examined |
+
+**Apply the Universal-Language Scope Test to every occurrence — clause (c) FIRST: *whose word is it?***
+
+> ### **If Matthew says proclamation throughout the *oikoumenē* → then the end, and pre-AD-70 apostolic writers describe that proclamation in comparably universal language IN THEIR OWN WORDS, there is a real first-century fulfillment hypothesis to TEST rather than a theological intuition.**
+>
+> ### **The test must survive two now-demonstrated hazards: INHERITED SCOPE TERMS (Stage 23) and QUOTATION BEHAVIOR THAT VARIES PER QUOTATION (Stage 24).**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (23 → 24), Preserved
 
 ### **ROMANS 11 — "HAS GOD REJECTED HIS PEOPLE?"**
 

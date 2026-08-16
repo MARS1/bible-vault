@@ -429,6 +429,62 @@ A believer may **teach, encourage, bear witness, or proclaim** in a given circum
 
 ---
 
+## ⚖️ Question–Answer Canonical Control — Run Whenever an Inference Is Drawn From a Verse *(added v2.3)*
+
+> **When a biblical author LATER asks explicitly the theological question that readers infer from an earlier statement, the author's own answer exerts strong interpretive control over that inference.**
+
+> ### **An inference drawn from an earlier verse may not survive the author's own later DENIAL of that inference.**
+
+*(Worked instance: Stage 24 §1, §24. Romans 9:6's *"not all who are from Israel are Israel"* is routinely read as Israel's cancellation. **Two chapters later Paul asks "has God rejected his people?" and answers "by no means" (11:1) — then repeats the denial about the stumbling (11:11).** The inference does not survive the author's own answer.)*
+
+**Runs in both directions:** it equally forbids using a later answer to erase what an earlier passage genuinely says. **Romans 9:6's distinction within Israel is real; Romans 11:1 constrains what may be CONCLUDED from it.**
+
+---
+
+## 🫒 Metaphor Preservation — Run Before Adopting Any Theological Label *(added v2.3)*
+
+> **When an author supplies a sustained metaphor for a complex theological relationship, PRESERVE THE METAPHOR'S DISTINCTIONS before replacing it with a later theological label.**
+
+Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is Israel"* may obscure distinctions the author deliberately preserved.
+
+**Paul's olive tree has six moving parts** — root · natural branches · wild branches · breaking off · grafting in · **grafting back** — **and every available one-word label collapses at least one of them.**
+
+> ### **COROLLARY: if a label cannot reproduce the metaphor's distinctions, the label is lossy and the metaphor stays.**
+
+*(Worked instance: Stage 24 §21–22. "Grafting" is currently more textually precise than either "replacement" or identity-collapse — and the project's own identity term *Messianic Israelite* was re-scoped to sit downstream of the metaphor rather than substituting for it.)*
+
+---
+
+## 🔀 Quotation Behavior Is Per-Quotation, Not Per-Author *(added v2.3)*
+
+> **When a NT author quotes the Tanakh, check THAT quotation against MT and LXX. Never generalize a quotation habit from one instance to another.**
+
+**Demonstrated by two consecutive stages producing opposite results:**
+
+| Instance | Relationship to sources |
+|---|---|
+| **Romans 10:18** (Stage 23) | **Quotes LXX Psalm 18:5 VERBATIM** — *oikoumenē* inherited, not chosen |
+| **Romans 11:26** (Stage 24) | **Matches NEITHER MT NOR LXX** — MT *l'* (to Zion) · LXX *heneken* (for Zion's sake) · Paul *ek* (from Zion) |
+
+> ### ❗ **Either generalization would have been FALSE:** *"Paul quotes the LXX"* fails at 11:26; *"Paul reshapes his sources"* fails at 10:18.
+
+**Practical consequence:** before building any argument on a quoted word — especially a **scope term, a preposition, or a direction** — establish whose word it is at that specific verse. **This is clause (c) of the Universal-Language Scope Test generalized beyond scope terms.**
+
+---
+
+## 🧮 Divergence Tallies Are Kept Separate *(added v2.3)*
+
+**Two running counts, permanently distinct:**
+
+| Category | What it is | Count |
+|---|---|---|
+| **Translation divergence** | English witnesses rendering the same Greek differently (ESV / CJB / RVR1960) | **8** |
+| **Source-text divergence** | MT, LXX, and the NT author differing at the level of the text itself | **2** |
+
+> ### ❗ **MERGING THESE INTO ONE NUMBER WOULD ITSELF BE AN EVIDENCE-TYPE COLLAPSE (ADR-0010).** A translator choosing between senses of one Greek word and an author quoting a source that reads differently in every witness are **not the same phenomenon and do not support the same conclusions.**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -454,6 +510,7 @@ A believer may **teach, encourage, bear witness, or proclaim** in a given circum
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **2.3** | 2026-08-16 | Added **Question–Answer Canonical Control**, **Metaphor Preservation**, **Quotation Behavior Is Per-Quotation**, and the **separated divergence tallies** (Stage 24). The quotation rule exists because Stages 23 and 24 produced **opposite** results from the same author two chapters apart — either generalization would have been false. |
 | **2.2** | 2026-08-16 | Added the **Role–Act Distinction** and the **Universal-Language Scope Test** (Stage 23), the latter's **clause (c) — "whose word is it?"** — written deliberately *before* the Matthew 24:14 study so it cannot be tuned later. Added to Verification Honesty: **a successful retrieval is not automatically a verification** (HTTP 200 with real-but-wrong content, Stage 23 §19). |
 | **2.1** | 2026-08-15 | Added **Unabridged Research Preservation** (ADR-0010) — the three artifacts, the *never collapse evidence types* clause, the both-organizations requirement, and the rule that **interlude stages are stages**. Spine gained an explicit **Stage Index**. |
 | **2.0** | 2026-08-15 | Added **Expansion ≠ Erasure** and **Later Inclusion ≠ Rewritten Context** (Stage 21), the **Anachronism Test** with the *ancient Israel ≠ modern State* rule, the **"Satan deceives" unfalsifiability protection**, and the **Thesis Discipline** keeping preterism downstream of the evidence (Stage 21½). |

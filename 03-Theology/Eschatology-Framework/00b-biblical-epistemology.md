@@ -586,6 +586,52 @@ For the fuller working-out of the worked example above (Yeshua's Israel-focused 
 
 ---
 
+## 📐 Paul's Own Epistemology — Romans 11:33 as Worked Biblical Precedent *(added Stage 24)*
+
+> **Romans 11:33** — "Oh, **the depth of the riches and wisdom and knowledge of God!** How **unsearchable** are his judgments and how **inscrutable** his ways!"
+
+**Paul has just spent three of the densest chapters in the canon reasoning at maximum intensity** — Torah, Prophets, Writings, history, logic, intertextuality, rhetorical questions, an extended metaphor, an explicit *"mystery."*
+
+**And he ends in worship, not in a completed system.**
+
+> ### ❗ **THE ORDER IS THE POINT: the humility arrives AFTER the exegesis, not INSTEAD of it.** Romans 11:33 is not a retreat from the argument — it is where the argument lands. **Paul does not say the depths excuse him from reasoning; he reasons to the floor and then names the floor as a depth.**
+
+**This is the posture this document tried to establish before it knew Paul modeled it:** *what has been revealed, held confidently; the depths acknowledged as depths.* **Rigor and reverence are not opposites.**
+
+**Guard, both directions:**
+- **Against premature mystery** — "it's a mystery" invoked *before* the work is done is an evasion, not humility. Paul did the work.
+- **Against false closure** — finishing the work does not entitle anyone to claim the subject is exhausted. Paul finished and worshiped.
+
+*(See [[01c-romans-11-remnant-grafting-and-all-israel]] §19.)*
+
+---
+
+## Question–Answer Canonical Control *(added Stage 24)*
+
+> **When a biblical author LATER asks explicitly the theological question that readers infer from an earlier statement, the author's own answer exerts strong interpretive control over that inference.**
+
+> ### **An inference drawn from an earlier verse may not survive the author's own later denial of it.**
+
+**Worked instance:** Romans 9:6's *"not all who are from Israel are Israel"* is routinely deployed as the opening of Israel's cancellation. **Paul asks that exact question at Romans 11:1 — "has God rejected his people?" — and answers "by no means," then denies it again at 11:11 regarding the stumbling.**
+
+**Runs both directions:** it equally forbids using the later answer to erase what the earlier passage genuinely says. **The distinction within Israel at 9:6 is real; 11:1 constrains what may be CONCLUDED from it, not what it says.**
+
+---
+
+## Metaphor Preservation *(added Stage 24)*
+
+> **When an author supplies a sustained metaphor for a complex theological relationship, preserve the metaphor's distinctions before replacing it with a later theological label.**
+
+**Paul's olive tree has six moving parts:** root · natural branches · wild branches · breaking off · grafting in · **grafting back**.
+
+**Every available one-word label — "replacement," "continuity," "spiritual Israel," "the Church is Israel" — collapses at least one of them.** *"Replacement"* loses grafting-back and the root's ownership; *"identity-collapse"* loses natural-vs-wild; **and Paul kept all six.**
+
+> ### **COROLLARY: if a label cannot reproduce the metaphor's distinctions, the label is lossy and the metaphor stays.**
+
+**Applied to this project's own vocabulary:** *Messianic Israelite* was re-scoped at Stage 24 §22 to sit **downstream** of the grafting metaphor rather than substituting for it — the same text → synthesis → label ordering the Thesis Discipline requires for eschatology, applied to identity.
+
+---
+
 ## Role–Act Distinction *(added Stage 23)*
 
 > **Do not equate performing an act with holding the formal ministry/office associated with that act.**

@@ -1598,6 +1598,100 @@ ESV (21): "All day long I have held out my hands to a **disobedient and contrary
 
 ---
 
+## Romans 11 — Remnant, Grafting, "All Israel" (see [[01c-romans-11-remnant-grafting-and-all-israel]])
+
+> Greek: **οὕτως** *houtōs* (3779, **ADVERB**) · **ἄχρι οὗ** *achri hou* (891+3739) · **ἀπὸ μέρους** *apo merous* (575+3313) · **πλήρωμα τῶν ἐθνῶν** *plērōma tōn ethnōn* (4138+1484) · **ἀμεταμέλητα** *ametamelēta* (278) · **ἐκ Σιών** *ek Siōn*. Hebrew: **לְצִיּוֹן** *l'tziyon*. LXX: **ἕνεκεν Σιών** *heneken Siōn*.
+> ⚠️ **CJB NOT RETRIEVED for this chapter — open question q71. No translation-divergence claim is made in either direction.**
+
+**Romans 11:1–2** — 🔑 **THE CANONICAL CONTROL ON ROMANS 9:6**
+ESV (1): "I ask, then, **has God rejected his people? By no means!** For I myself am an Israelite, a descendant of Abraham, a member of the tribe of Benjamin."
+ESV (2): "**God has not rejected his people whom he foreknew.**"
+**Paul presents himself as evidence — ethnically and covenantally an Israelite, and a believer.**
+
+**Romans 11:3–5** — Elijah and the remnant *(quoting **1 Kings 19:18**)*
+ESV (3): "Lord, they have killed your prophets, they have demolished your altars, and **I alone am left**, and they seek my life."
+ESV (4): "**I have kept for myself seven thousand men** who have not bowed the knee to Baal."
+ESV (5): "**So too at the present time there is a remnant, chosen by grace.**"
+**Elijah's perception was that faithfulness had vanished; Yahweh's reply was that it had not, and that Elijah could not see it.**
+
+**Romans 11:6** — grace and works, in context
+ESV: "But if it is by grace, it is no longer on the basis of works; otherwise grace would no longer be grace."
+**In context this explains WHY THE REMNANT EXISTS — not a free-floating slogan. Brake: Romans 10:16 has Paul speaking of OBEYING the gospel. Both stand.**
+
+**Romans 11:7–10** — hardening *(quoting **Isaiah 29:10** / **Deuteronomy 29:4**, and **Psalm 69:22–23**)*
+ESV (7): "Israel failed to obtain what it was seeking. The elect obtained it, but **the rest were hardened**."
+ESV (8): "God gave them a spirit of stupor, eyes that would not see and ears that would not hear, down to this very day."
+
+**Romans 11:11** — the second "by no means"
+ESV: "So I ask, **did they stumble in order that they might fall? By no means!** Rather, through their trespass salvation has come to the Gentiles, **so as to make Israel jealous**."
+**The jealousy motif planted at Romans 10:19 (Deuteronomy 32:21) detonates here exactly as flagged.**
+
+**Romans 11:12, 15** — beyond the present remnant
+ESV (12): "if their trespass means riches for the world… **how much more will their full inclusion mean!**"
+ESV (15): "For if their rejection means the reconciliation of the world, **what will their acceptance mean but life from the dead?**"
+**Forecloses one reading: Paul does NOT treat Israel's present unbelief as Israel's final state. Open questions q69, q70.**
+**⚠️ "Life from the dead" is FLAGGED, NOT USED — must not be quietly cashed as a resurrection-timing datum (q70).**
+
+**Romans 11:13–14** — audience shift, explicitly marked
+ESV: "**Now I am speaking to you Gentiles.** Inasmuch then as I am an apostle to the Gentiles, I magnify my ministry in order somehow to **make my fellow Jews jealous, and thus save some of them**."
+**Paul's Gentile mission and his concern for Israel are one project, not rivals.**
+
+**Romans 11:16–17** — the olive tree
+ESV (16): "if the root is holy, so are the branches."
+ESV (17): "if some of the branches were broken off, and you, **although a wild olive shoot, were grafted in among the others** and now **share in the nourishing root** of the olive tree…"
+**No second tree. No destroyed tree. Wild branches grafted INTO AN EXISTING CULTIVATED TREE.**
+**❗ Paul never says "the root is Christ" — the referent is an open question, q72.**
+
+**Romans 11:18–22** — the warning to Gentiles
+ESV (18): "**do not be arrogant toward the branches.** If you are, remember **it is not you who support the root, but the root that supports you**."
+ESV (19–20): "Then you will say, 'Branches were broken off so that I might be grafted in.' **That is true.** They were broken off because of their unbelief, but you stand fast through faith. **So do not become proud, but fear.**"
+ESV (21): "For if God did not spare the natural branches, **neither will he spare you**."
+ESV (22): "Note then **the kindness and the severity of God**… provided you continue in his kindness. **Otherwise you too will be cut off.**"
+**❗ GENTILE INCLUSION CREATES NO BASIS FOR CONTEMPT TOWARD ISRAEL. Paul grants the premise at v.19 and refuses the conclusion.**
+
+**Romans 11:23–24** — grafted back into **their own** tree
+ESV (23): "**And even they, if they do not continue in their unbelief, will be grafted in**, for God has the power to graft them in again."
+ESV (24): "how much more will these, the natural branches, be grafted back into **their own olive tree**."
+**❗❗ "THEIR OWN OLIVE TREE" — Paul's own phrase, about currently-unbelieving Israel. Very difficult to argue the tree denotes a Gentile institution that replaced Israel.**
+
+**Romans 11:25** — the mystery, with two verified qualifiers
+ESV: "**Lest you be wise in your own sight**, I do not want you to be unaware of this mystery, brothers: **a partial hardening has come upon Israel, until the fullness of the Gentiles has come in.**"
+Greek — VERIFIED BY INTERLINEAR: **ἀπὸ μέρους** *apo merous* (575+3313) = **PARTIAL, not total** · **ἄχρι οὗ** *achri hou* (891+3739) = **UNTIL, a stated terminus** · **τὸ πλήρωμα τῶν ἐθνῶν** (4138+1484)
+**🚧 BRAKE: *achri hou* marks a terminus; it does NOT by itself specify what follows it. "Until X" ≠ "and then not-Y."**
+**Note the mystery is introduced as an ANTIDOTE TO GENTILE ARROGANCE, not as a prophecy chart. *Plērōma* = open question q73.**
+
+**Romans 11:26–27** — 🛑 **THREE-WAY SOURCE-TEXT DIVERGENCE**
+ESV: "**And in this way all Israel will be saved**, as it is written, '**The Deliverer will come from Zion**, he will banish ungodliness from **Jacob**'; 'and this will be my covenant with them when I take away their sins.'"
+Greek — VERIFIED: *καὶ* **οὕτως** *πᾶς Ἰσραὴλ σωθήσεται* — **οὕτως, Strong's 3779, ADVERB: "in this MANNER," not "and THEN." Chronology may not be imported from the English "so."**
+
+| Witness | Text | Preposition | Direction |
+|---|---|---|---|
+| **MT Isaiah 59:20** (Sefaria, VERIFIED) | וּבָ֤א **לְצִיּוֹן֙** גּוֹאֵ֔ל | **לְ** *l'* | **TO** Zion |
+| **LXX Isaiah 59:20** (Elpenor, VERIFIED) | καὶ ἥξει **ἕνεκεν Σιὼν** ὁ ῥυόμενος | **ἕνεκεν** | **FOR THE SAKE OF** Zion |
+| **Paul, Romans 11:26** (interlinear, VERIFIED) | Ἥξει **ἐκ Σιὼν** ὁ Ῥυόμενος | **ἐκ** | **OUT OF / FROM** Zion |
+
+> ### ❗❗ **THREE WITNESSES, THREE PREPOSITIONS, THREE DIRECTIONS. PAUL MATCHES NEITHER.** Contrast Romans 10:18, where he quotes the LXX **verbatim**. **QUOTATION BEHAVIOR IS PER-QUOTATION, NOT PER-AUTHOR. Open question q74.**
+
+**The quotation's object is JACOB** — weighs against emptying "all Israel" of ethnic reference. **Recorded as INTERTEXTUAL, not lexical.** *(Covenant clause at 11:27 resembles **Isaiah 27:9**.)*
+**"All Israel" — four readings, NONE SELECTED: q75.**
+
+**Romans 11:28–29** — the statement replacement models must reckon with
+ESV (28): "**As regards the gospel, they are enemies for your sake. But as regards election, they are beloved for the sake of their forefathers.**"
+ESV (29): "For **the gifts and the calling of God are irrevocable**."
+Greek — VERIFIED: **ἀμεταμέλητα** *ametamelēta*, **Strong's 278**, adjective nom. neut. plural, **sentence-initial for emphasis** — "not to be repented of." *ἀμεταμέλητα γὰρ τὰ χαρίσματα καὶ ἡ κλῆσις τοῦ Θεοῦ.*
+**❗ Paul holds BOTH simultaneously, of the SAME PEOPLE, in adjacent clauses.**
+
+**Romans 11:30–32** — mercy is the terminus
+ESV (32): "For **God has consigned all to disobedience, that he may have mercy on all**."
+**The arc closes where Romans 9 opened it — Exodus 33:19, "I will have mercy on whom I have mercy."**
+
+**Romans 11:33–36** — 📐 **Paul's own epistemology**
+ESV (33): "Oh, **the depth of the riches and wisdom and knowledge of God!** How **unsearchable** are his judgments and how **inscrutable** his ways!"
+ESV (36): "For from him and through him and to him are all things. To him be glory forever. Amen."
+**❗ THE ORDER IS THE POINT: humility arrives AFTER three chapters of maximum-intensity exegesis, not instead of it. Added to [[00b-biblical-epistemology]] as a worked biblical precedent.**
+
+---
+
 ## The People of God — Covenant Formula, Expansion, Grafting (see [[00y-who-are-the-people-of-god]])
 
 > Greek: **τῷ λαῷ τοῦ θεοῦ** *tō laō tou theou* ("the people of God") · **πᾶς Ἰσραήλ** *pas Israēl* ("all Israel"). Hebrew: **לֹא עַמִּי** *Lo-Ammi* ("not my people").
