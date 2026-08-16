@@ -407,7 +407,7 @@ A believer may **teach, encourage, bear witness, or proclaim** in a given circum
 
 ## 🌍 Universal-Language Scope Test — Run on Every "All the Earth" *(added v2.2)*
 
-> **When an ancient text says "all the earth," "the whole world," "every nation," or "all creation," do not assume modern planetary exhaustiveness OR merely local scope.**
+> **When an ancient text says "all the earth," "the whole world," "every nation," or "all creation," do not assume exhaustiveness across every geographical location on the earth OR merely local scope.**
 
 **Determine, before assigning any geographic scope:**
 
@@ -485,6 +485,49 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 📛 Terminology — No Globe / Globular / Planetary Language *(added v2.4, standing author instruction)*
+
+> ### **Write *earth · land · world · inhabited world · creation* according to what the underlying biblical term actually says. NEVER "globe," "globular," "planetary," or "planet Earth."**
+
+**Not a cosmological position — exegetical hygiene.** Those words import a frame *gē*, *kosmos*, *oikoumenē*, *ktisis*, and *aiōn* do not carry, **and importing it decides the scope question before the investigation runs.**
+
+**Where "every geographical location on the earth" is meant, write that.**
+
+*(Extends ADR-0003's existing "never write planet Earth." **Applied retroactively 2026-08-16 — 13 occurrences across 10 files, including THREE instances of "modern planetary exhaustiveness" inside this project's own Universal-Language Scope Test. The rule's own statement violated the rule.** Recorded rather than silently fixed.)*
+
+---
+
+## ⚖️ Equivalent-Scope Burden — Run Before Equating Any Two Universal Expressions *(added v2.4)*
+
+> **When two passages use different universal expressions, DO NOT assume identical scope merely because English translates both with "world," "all," or "earth."**
+
+**Compare before treating them as equivalent:** original vocabulary · genre · rhetorical purpose · historical horizon · **the author's own usage elsewhere.**
+
+> ### **Keeps *οἰκουμένη · κόσμος · γῆ · κτίσις · αἰών* DISTINCT until context earns the synthesis.**
+
+*(Worked instance: Stage 25 §4, §19. A scope argument that appeared to rest on one word — Matthew's *oikoumenē* — turned out to rest on **four different words across three authors**. **Paul never chooses *oikoumenē* in any proclamation text**; Colossians 1:6 is *kosmos*, Colossians 1:23 is *ktisis*, and Romans 10:18's *oikoumenē* is quoted from the LXX. **The argument as commonly stated depends entirely on the English collapse and would have been invisible without retrieval.**)*
+
+**Companion to the Universal-Language Scope Test (v2.2):** that test asks *what does this term mean, and whose word is it?* — **this one asks whether two terms may be equated at all.**
+
+---
+
+## 🛐 The Providence–Inference Boundary — Run on Every Divine-Agency Statement *(added v2.4)*
+
+> **When Scripture EXPLICITLY attributes direction, prevention, calling, sending, opening of hearts, foreknowledge, or election to Yahweh, RECORD THE DIVINE AGENCY PLAINLY.**
+>
+> **But do NOT infer the unrevealed reason for every person or place NOT reached.**
+
+> ### **Divine omniscience may explain HOW limited human agents accomplish Yahweh's purposes. It does not grant the interpreter access to Yahweh's complete providential calculus.**
+
+**Intertextual thread this rule travels with:**
+
+> **Acts 8 → Acts 16 → Acts 18 → Romans 15 → Romans 11:33**
+> *sent to a road* → *prevented, then redirected* → *"I have many in this city"* → *"no more room in these regions"* → ***"how unsearchable."***
+
+**The terminus is the brake.** *(Worked instance: Stage 25½ §9–§12, where a formulation offered by the author — "the rest weren't meant to hear it anyway" — was **corrected** against 2 Peter 3:9 and 1 Timothy 2:4 while the underlying intuition was preserved and rebuilt.)*
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -510,6 +553,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **2.4** | 2026-08-16 | Added the standing **no-globe/globular/planetary terminology rule** (author instruction, applied retroactively across 10 files — **including this document's own Scope Test, which violated it**), the **Equivalent-Scope Burden** (Stage 25), and the **Providence–Inference Boundary** (Stage 25½). |
 | **2.3** | 2026-08-16 | Added **Question–Answer Canonical Control**, **Metaphor Preservation**, **Quotation Behavior Is Per-Quotation**, and the **separated divergence tallies** (Stage 24). The quotation rule exists because Stages 23 and 24 produced **opposite** results from the same author two chapters apart — either generalization would have been false. |
 | **2.2** | 2026-08-16 | Added the **Role–Act Distinction** and the **Universal-Language Scope Test** (Stage 23), the latter's **clause (c) — "whose word is it?"** — written deliberately *before* the Matthew 24:14 study so it cannot be tuned later. Added to Verification Honesty: **a successful retrieval is not automatically a verification** (HTTP 200 with real-but-wrong content, Stage 23 §19). |
 | **2.1** | 2026-08-15 | Added **Unabridged Research Preservation** (ADR-0010) — the three artifacts, the *never collapse evidence types* clause, the both-organizations requirement, and the rule that **interlude stages are stages**. Spine gained an explicit **Stage Index**. |

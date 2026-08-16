@@ -32,7 +32,7 @@ The Temple is the catalyst. The disciples' question is the frame for everything 
 
 **Eschatology** — from Greek *eschatos* ("last") + *-logia* ("study/discourse"). The study of last things: judgment, resurrection, Messiah's coming, the kingdom, the end of the age.
 
-**αἰών (*aiōn*) — age.** Matthew does **not** use *kosmos* in 24:3. The disciples ask about **συντελείας τοῦ αἰῶνος** (*synteleias tou aiōnos*) — the consummation/end of *the age*. Notably, **CJB renders this "that the *olam hazeh* is ending"** — using the Hebrew equivalent, "this present age," rather than anything about a globe. "The end" does not automatically mean the destruction of the earth; which *age* is in view is the actual question, and importing an eschatological system into the phrase decides it in advance.
+**αἰών (*aiōn*) — age.** Matthew does **not** use *kosmos* in 24:3. The disciples ask about **συντελείας τοῦ αἰῶνος** (*synteleias tou aiōnos*) — the consummation/end of *the age*. Notably, **CJB renders this "that the *olam hazeh* is ending"** — using the Hebrew equivalent, "this present age," rather than anything about the earth's physical extent. "The end" does not automatically mean the destruction of the earth; which *age* is in view is the actual question, and importing an eschatological system into the phrase decides it in advance.
 
 **οἰκουμένη (*oikoumenē*)** — the inhabited world / inhabited land. Used in Matthew 24:14 (see below).
 **γῆ (*gē*)** — earth, land, ground, region — depending on context.
@@ -56,7 +56,7 @@ Caesar Augustus did not conduct a census of the peoples of the Americas, Austral
 
 Three occurrences, one word: Luke 2:1, Acts 11:28, Matthew 24:14.
 
-> **Prose:** this does not prove Matthew 24:14 was fulfilled before AD 70. It does something more basic and more important: it removes an assumption. "Whole world" cannot simply be read as "every modern nation-state on the globe" *because the Greek says so* — the Greek does not say so. Two translation traditions render the same word "throughout the Empire" and "the inhabited earth" without controversy in other passages. Before asking whether the prophecy is being fulfilled now, the honest question is what the word was doing then.
+> **Prose:** this does not prove Matthew 24:14 was fulfilled before AD 70. It does something more basic and more important: it removes an assumption. "Whole world" cannot simply be read as "every modern nation-state on the earth" *because the Greek says so* — the Greek does not say so. Two translation traditions render the same word "throughout the Empire" and "the inhabited earth" without controversy in other passages. Before asking whether the prophecy is being fulfilled now, the honest question is what the word was doing then.
 
 ## 3. What the Apostles Themselves Said About the Gospel's Reach
 
@@ -184,9 +184,9 @@ Directly relevant to [[04-open-questions]] item 1 (the "respawn" question, alrea
 
 ## Manuscript Voice
 
-> **Prose:** Matthew 24:14 taught me an important lesson about prophetic interpretation: sometimes the disagreement is hidden inside a word we assume we already understand. Reading "the whole world," a modern reader naturally imagines the entire globe. Yet Matthew wrote *oikoumenē*, a word Luke could use for the world subjected to Caesar's census and for the reach of a first-century famine. More importantly, Paul himself could describe the gospel as bearing fruit throughout the world and as proclaimed in all creation under heaven. Before asking whether Yeshua's prophecy is being fulfilled in our century, therefore, intellectual honesty requires asking whether His apostles believed it was already being fulfilled — or even fulfilled in the relevant sense — in theirs.
+> **Prose:** Matthew 24:14 taught me an important lesson about prophetic interpretation: sometimes the disagreement is hidden inside a word we assume we already understand. Reading "the whole world," a modern reader naturally imagines every geographical location on the earth. Yet Matthew wrote *oikoumenē*, a word Luke could use for the world subjected to Caesar's census and for the reach of a first-century famine. More importantly, Paul himself could describe the gospel as bearing fruit throughout the world and as proclaimed in all creation under heaven. Before asking whether Yeshua's prophecy is being fulfilled in our century, therefore, intellectual honesty requires asking whether His apostles believed it was already being fulfilled — or even fulfilled in the relevant sense — in theirs.
 >
-> This does not prove preterism by itself. It does something methodologically prior: it removes an assumption. "The gospel has not yet reached the whole world" cannot simply be inserted into Matthew 24:14 as though Scripture itself said "the modern geographical globe." Once that assumption is removed, the timing language of the passage must be heard again on its own terms.
+> This does not prove preterism by itself. It does something methodologically prior: it removes an assumption. "The gospel has not yet reached the whole world" cannot simply be inserted into Matthew 24:14 as though Scripture itself said "every geographical location on the earth." Once that assumption is removed, the timing language of the passage must be heard again on its own terms.
 
 And on holding the open question:
 

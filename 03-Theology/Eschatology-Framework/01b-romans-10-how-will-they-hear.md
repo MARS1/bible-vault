@@ -408,7 +408,7 @@ Both added to `00-methodology-current.md` and `00b-biblical-epistemology.md`.
 
 ### Rule — Universal-Language Scope Test
 
-> **When an ancient text uses "all the earth," "the whole world," "every nation," or "all creation," do not assume either modern planetary exhaustiveness or merely local scope.** Determine, before assigning geographic scope: (a) the **semantic range** of the original term; (b) the **rhetorical genre**; (c) **whether the phrase is quoted from an earlier source, and if so whose word it is**; (d) the **historical audience**; (e) **comparable contemporary usage**.
+> **When an ancient text uses "all the earth," "the whole world," "every nation," or "all creation," do not assume either exhaustiveness across every geographical location on the earth or merely local scope.** Determine, before assigning geographic scope: (a) the **semantic range** of the original term; (b) the **rhetorical genre**; (c) **whether the phrase is quoted from an earlier source, and if so whose word it is**; (d) the **historical audience**; (e) **comparable contemporary usage**.
 >
 > **Clause (c) is not optional and was added because of this stage.** Romans 10:18's *oikoumenē* is inherited from LXX Psalm 18:5 — a scope term in a quotation is evidence about the source text first, and about the quoting author only secondarily.
 

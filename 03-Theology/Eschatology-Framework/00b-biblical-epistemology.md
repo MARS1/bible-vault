@@ -141,7 +141,7 @@ Isaiah 13 does not tell us what Matthew 24 means — it tells us what Matthew 24
 
 **Five instances where this was needed** (four in [[00m-fig-tree-generation-heaven-and-earth]] §7, the fifth in [[00n-torah-fulfilled-and-what-changed]] §5):
 - stars ≠ always astronomical bodies — **but** ≠ always angels/rulers either
-- *gē* ≠ always the globe — **but** ≠ always Israel either (Matthew 5:18 proves it)
+- *gē* ≠ always the whole earth — **but** ≠ always Israel either (Matthew 5:18 proves it)
 - *angelos* ≠ always heavenly angel — **yet** Matthew's context probably *does* favor heavenly angels here
 - heaven and earth ≠ necessarily only physical cosmos — **but** ≠ automatically covenant either
 - *plēroō* ("fulfill") ≠ terminate — **but** ≠ "nothing whatsoever may change" either; likewise *metathesis* (Hebrews 7:12) ranges from Enoch's *transfer* (Heb 11:5) to the *removal* of what is shaken (Heb 12:27), and so settles nothing on its own
@@ -650,7 +650,7 @@ A believer may teach, encourage, bear witness, or proclaim in a given circumstan
 
 ## Universal-Language Scope Test *(added Stage 23)*
 
-> **When an ancient text says "all the earth," "the whole world," "every nation," or "all creation," do not assume modern planetary exhaustiveness OR merely local scope.**
+> **When an ancient text says "all the earth," "the whole world," "every nation," or "all creation," do not assume exhaustiveness across every geographical location on the earth OR merely local scope.**
 
 **Five determinations, before any geographic scope is assigned:**
 

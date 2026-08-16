@@ -1598,6 +1598,96 @@ ESV (21): "All day long I have held out my hands to a **disobedient and contrary
 
 ---
 
+## 🔑 The Scope-Term Corpus — *Oikoumenē* / *Kosmos* / *Ktisis* / *Gē* / *Aiōn* (see [[01d-had-the-gospel-already-gone-throughout-the-world]])
+
+> **📛 TERMINOLOGY: this study writes earth · land · world · inhabited world · creation per the underlying term. No globe, globular, or planetary language.**
+
+**ALL SIX VERIFIED BY INTERLINEAR RETRIEVAL. The table is the finding.**
+
+| Text | Greek scope term | Strong's | Whose word? |
+|---|---|---|---|
+| **Matthew 24:14** | ἐν ὅλῃ τῇ **οἰκουμένῃ** | **3625** | Matthew's / Yeshua's |
+| **Luke 2:1** | πᾶσαν τὴν **οἰκουμένην** | **3625** | Luke's |
+| **Acts 11:28** | ἐφ' ὅλην τὴν **οἰκουμένην** | 3650 + **3625** | Luke's |
+| **Romans 10:18** | πᾶσαν τὴν **γῆν** … τὰ πέρατα τῆς **οἰκουμένης** | 1093 + **3625** | ❗ **QUOTED verbatim from LXX Ps 18:5 — NOT Paul's** |
+| **Colossians 1:6** | ἐν παντὶ τῷ **κόσμῳ** | **2889** | Paul's — **DIFFERENT WORD** |
+| **Colossians 1:23** | ἐν πάσῃ **κτίσει** τῇ ὑπὸ τὸν οὐρανόν | **2937** | Paul's — **THIRD DIFFERENT WORD** |
+
+> ### ❗❗ **PAUL NEVER CHOOSES *OIKOUMENĒ* IN ANY PROCLAMATION TEXT.** The "Paul says whole world = Matthew's *oikoumenē*" bridge **depends entirely on English supplying one word for three distinct Greek terms.** **LUKE, not Paul, is the real lexical control on Matthew's word.**
+
+**Luke 2:1** — the control
+ESV: "a decree went out from Caesar Augustus that **all the world** should be registered."
+**Augustus was not registering every geographical location on the earth — the census operated within the Roman imperial horizon.**
+
+**Acts 11:28** — the second control
+ESV: Agabus "foretold by the Spirit that there would be a great famine **over all the world**" — in the days of Claudius.
+**Luke plainly uses *oikoumenē* in an imperial / inhabited-world sense.**
+**⚠️ BRAKE: Matthew is not Luke. Comparative NT usage CONSTRAINS possible meaning; it does not DEFINE Matthew's term.**
+
+**Romans 15:19, 15:23** — "fulfilled," and the verb matters
+ESV (19): "from Jerusalem and all the way around to Illyricum **I have fulfilled the ministry of the gospel of Christ**."
+ESV (23): "**I no longer have any room for work in these regions.**"
+Greek — VERIFIED: **πεπληρωκέναι** *peplērōkenai*, lemma **πληρόω *plēroō*, 4137, PERFECT INFINITIVE ACTIVE** — completed action with continuing resultant state.
+**🔑 SAME LEMMA AS MATTHEW 5:17'S "FULFIL" (Stage 14).**
+**→ Apostolic mission completion ≠ exhaustive individual evangelisation. Open question q76.**
+**⚠️ Shared lemma ≠ shared meaning — reported as a lexical link only.**
+
+**Colossians 1:6** — VERIFIED
+Greek: **ἐν παντὶ τῷ κόσμῳ** — ***kosmos*, 2889. NOT *oikoumenē*.**
+
+**Colossians 1:23** — VERIFIED
+Greek: **ἐν πάσῃ κτίσει τῇ ὑπὸ τὸν οὐρανόν** — ***ktisis*, 2937.** Verb: **κηρυχθέντος**, aorist passive participle of *kēryssō* (2784).
+**🔑 SAME VERB LEMMA AS MATTHEW 24:14's κηρυχθήσεται (future passive). Aorist against future — the strongest single datum for a first-century fulfilment reading. AND STILL NOT A FULFILMENT CLAIM: Paul never writes that Matthew 24:14 is fulfilled.**
+
+**Matthew 24:3** — the age, not the earth
+Greek: **συντέλεια τοῦ αἰῶνος** *synteleia tou aiōnos* — **consummation of the AGE.** *(CJB: "that the *olam hazeh* is ending.")*
+**αἰών (165) ≠ κόσμος (2889) ≠ οἰκουμένη (3625).**
+**❗ Older "end of the world" renderings import a cosmology the Greek does not carry. WHICH age is the actual question — q77.**
+
+**Acts 1:8** — the geographic program
+ESV: "you will be my witnesses in **Jerusalem** and in all **Judea** and **Samaria**, and to **the end of the earth**."
+**Close to the structural outline of Acts, which ends in ROME — centre of the imperial *oikoumenē*.**
+
+**Acts 2:5** — ⚠️ Greek NOT retrieved (q78)
+"every nation under heaven," with the diaspora list. **Representative universal language.**
+
+**Matthew 28:18–20** — the next stage's text
+ESV: "**Go therefore and make disciples of all nations**… and behold, I am with you always, **to the end of the age**."
+**🔑 Is that *synteleia tou aiōnos* the SAME phrase as Matthew 24:3? VERIFY, DO NOT ASSUME — q85.**
+
+---
+
+## Providence and Apostolic Mission Geography (see [[01e-did-yahweh-know-whom-the-mission-needed-to-reach]])
+
+> Greek: **τεταγμένοι** *tetagmenoi* (5021, **perfect participle MIDDLE *or* PASSIVE**).
+
+**Acts 18:9–10** — ESV, VERIFIED
+"the Lord said to Paul one night in a vision, '**Do not be afraid, but go on speaking and do not be silent**, for I am with you, and no one will attack you to harm you, **for I have many in this city who are my people**.'"
+**Yeshua's knowledge of His people is the REASON Paul must not stop and must not leave. Open question q80.**
+
+**Acts 16:6–10** — ESV, VERIFIED
+"having been **forbidden by the Holy Spirit** to speak the word in Asia… they attempted to go into Bithynia, **but the Spirit of Jesus did not allow them**… a vision appeared to Paul in the night: a man of Macedonia… '**Come over to Macedonia and help us**'… **concluding that God had called us to preach the gospel to them**."
+**❗ THE PROHIBITIONS ARE THE POINT — they were TRYING to proclaim and were twice stopped. Apostolic mission is depicted as geographically DIRECTED, not as indiscriminate outward motion. Open question q81.**
+
+**Acts 16:14** — ESV, VERIFIED
+"One who heard us was a woman named Lydia… **The Lord opened her heart to pay attention to what was said by Paul.**"
+**Sequence: Ruach prevents → prevents → directs → Paul proclaims → Yahweh opens the hearer's heart.**
+
+**Acts 13:48** — ⚠️ handled with maximum care
+"as many as were **appointed** to eternal life believed."
+Greek — VERIFIED: **τεταγμένοι**, lemma **τάσσω (5021)**, **PERFECT PARTICIPLE — MIDDLE *OR* PASSIVE** — nom. masc. plural (V-RPM/P-NMP).
+> ### ❗❗ **VOICE GRAMMATICALLY UNDETERMINED. SAME SITUATION AS ROMANS 9:22's κατηρτισμένα (Stage 22).** The two most-contested election texts in the canon both rest on a perfect participle whose voice the grammar does not settle. **Neither side of the historic debate can claim the grammar. Open question q83.**
+
+**Acts 8:26–39** — backward-reference, not reopened
+**Third reason this episode has mattered: providential mission geography.** An angel sends Philip to a road; the Ruach identifies a chariot; the man is reading **Isaiah 53**. **Philip received no demographic briefing.**
+
+**Counterweight texts** — ⚠️ NOT RETRIEVED (q84)
+**2 Peter 3:9** — "not wishing that any should perish, but that all should reach repentance"
+**1 Timothy 2:4** — "desires all people to be saved and to come to the knowledge of the truth"
+**❗ These are the brake against "the rest weren't meant to hear anyway." A brake resting on unverified citations is a weakness — but the conservative direction of the error means it stands until closed.**
+
+---
+
 ## Romans 11 — Remnant, Grafting, "All Israel" (see [[01c-romans-11-remnant-grafting-and-all-israel]])
 
 > Greek: **οὕτως** *houtōs* (3779, **ADVERB**) · **ἄχρι οὗ** *achri hou* (891+3739) · **ἀπὸ μέρους** *apo merous* (575+3313) · **πλήρωμα τῶν ἐθνῶν** *plērōma tōn ethnōn* (4138+1484) · **ἀμεταμέλητα** *ametamelēta* (278) · **ἐκ Σιών** *ek Siōn*. Hebrew: **לְצִיּוֹן** *l'tziyon*. LXX: **ἕνεκεν Σιών** *heneken Siōn*.

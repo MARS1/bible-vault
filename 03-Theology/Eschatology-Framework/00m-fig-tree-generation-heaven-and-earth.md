@@ -129,7 +129,7 @@ The same danger has now appeared four times, and it deserves a name.
 | Escaped rigidity | Danger of the replacement |
 |---|---|
 | stars ≠ always astronomical bodies | but stars ≠ always angels/rulers either |
-| *gē* ≠ always the globe | but *gē* ≠ always Israel either |
+| *gē* ≠ always the whole earth | but *gē* ≠ always Israel either |
 | *angelos* ≠ always heavenly angel | yet Matthew's context probably *does* favor heavenly angels |
 | heaven and earth ≠ necessarily only physical cosmos | but heaven and earth ≠ automatically covenant either |
 

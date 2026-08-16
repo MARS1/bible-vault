@@ -13,7 +13,7 @@ related: "[[00h-coming-on-the-clouds]], [[00k-the-gathering-of-the-elect]], [[00
 
 **Matthew 24:30** — ESV: "then **all the tribes of the earth** will mourn, and they will see the Son of Man coming on the clouds of heaven." **CJB: "all the tribes of the Land will mourn."** RVR1960: "lamentarán todas las tribus de la tierra."
 
-Sounds global in English. The method asks two questions first: **what word is being translated, and what passage is Yeshua drawing from?**
+Sounds all-encompassing in English. The method asks two questions first: **what word is being translated, and what passage is Yeshua drawing from?**
 
 **γῆ (*gē*)** — earth, land, ground, country, region, by context (ADR-0003's lexical extension). So "all the tribes of the **land**" is a legitimate rendering, not a special-pleading one — and CJB already prints it that way.
 
@@ -35,7 +35,7 @@ And Zechariah names the families specifically — the house of David, the house 
 | **the land** mourns | tribes of the **gē** mourn |
 | **each family by itself** | **all the tribes** |
 
-Yeshua's phrase is not floating free. It appears to draw on **Zechariah's mourning of the families of the land in connection with the pierced one** — which is considerably more specific than every ethnic group on the globe mourning simultaneously.
+Yeshua's phrase is not floating free. It appears to draw on **Zechariah's mourning of the families of the land in connection with the pierced one** — which is considerably more specific than every ethnic group on the earth mourning simultaneously.
 
 ## 2. Revelation 1:7 Makes the Combination Explicit
 

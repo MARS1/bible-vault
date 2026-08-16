@@ -60,7 +60,9 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **22** | Romans 9: "Not All Who Are From Israel Are Israel" | [[01a-romans-9-not-all-israel-is-israel]] |
 | **23** | Romans 10: "How Will They Hear Without Someone Preaching?" | [[01b-romans-10-how-will-they-hear]] |
 | **24** | Romans 11: Remnant, Grafting, and "All Israel" | [[01c-romans-11-remnant-grafting-and-all-israel]] |
-| **25** | *(next)* **🔑 The Comparative Scope Study — back to the main eschatological question** | — |
+| **25** | **🔑 Had the Gospel Already Gone "Throughout the World" Before AD 70?** | **[[01d-had-the-gospel-already-gone-throughout-the-world]]** |
+| **25½** | **⚙️ Did Yahweh Know Whom the Apostolic Mission Needed to Reach?** | **[[01e-did-yahweh-know-whom-the-mission-needed-to-reach]]** |
+| **26** | *(next)* Matthew 28 — the Great Commission, read inside Matthew | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -760,7 +762,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 24 — Romans 11: Remnant, Grafting, and "All Israel" *(current)*
+## Stage 24 — Romans 11: Remnant, Grafting, and "All Israel"
 
 **File:** [[01c-romans-11-remnant-grafting-and-all-israel]] · **Closes the Romans 9–11 arc AND the "Who are the people of God?" branch opened at Stage 20.**
 
@@ -796,7 +798,89 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 25 — 🔑 Had the Gospel Already Gone "Throughout the World" Before AD 70? *(current)*
+
+**File:** [[01d-had-the-gospel-already-gone-throughout-the-world]] · **This is q68. Back to the main question after nine stages of Torah/Israel branches.**
+
+### 📛 STANDING TERMINOLOGY RULE, set by the author at this stage
+
+> **This study writes *earth · land · world · inhabited world · creation* per the underlying biblical term. NO "globe," "globular," "planetary," or "planet Earth."** Not a cosmological position — **exegetical hygiene**, since those words import a frame the Greek does not carry. Where "every geographical location on the earth" is meant, that is what gets written.
+> **Applied retroactively: 12 occurrences across 9 files corrected — including three instances of "modern planetary exhaustiveness" inside this project's OWN Universal-Language Scope Test. The rule violated the rule it was stating.** *(Extends ADR-0003's existing "never write planet Earth.")*
+
+### 🔑 THE SCOPE-TERM TABLE — six verifications, and the bridge MOVED
+
+| Text | Greek | Strong's | Whose word? |
+|---|---|---|---|
+| **Matthew 24:14** | ἐν ὅλῃ τῇ **οἰκουμένῃ** | **3625** | Matthew's / Yeshua's |
+| **Luke 2:1** | πᾶσαν τὴν **οἰκουμένην** | **3625** | Luke's |
+| **Acts 11:28** | ἐφ' ὅλην τὴν **οἰκουμένην** | **3625** | Luke's |
+| **Romans 10:18** | **γῆν** … **οἰκουμένης** | **3625** | ❗ **QUOTED verbatim from LXX — NOT Paul's own** |
+| **Colossians 1:6** | ἐν παντὶ τῷ **κόσμῳ** | **2889** | Paul's — **DIFFERENT WORD** |
+| **Colossians 1:23** | ἐν πάσῃ **κτίσει** | **2937** | Paul's — **THIRD DIFFERENT WORD** |
+
+> ### ❗❗ **PAUL NEVER CHOOSES *OIKOUMENĒ* IN ANY PROCLAMATION TEXT.** The one occurrence in Paul is the LXX quotation Stage 23 already flagged. **The popular preterist move — "Paul says whole world, which is Matthew's *oikoumenē*, therefore Matthew 24:14 was fulfilled" — COLLAPSES UNDER RETRIEVAL.** It depends entirely on **English** supplying one word "world" for **three distinct Greek terms.**
+>
+> ### **The bridge is not where it was thought to be. LUKE, not Paul, is the real lexical control on Matthew's word — and Luke's two uses (Caesar's census, the Claudian famine) are strong.**
+
+**✅ ESTABLISHED: *oikoumenē* demonstrably need not mean every geographical location on the earth** — Luke uses it twice where it cannot. **⚠️ Brake: Matthew is not Luke. Comparative NT usage CONSTRAINS possible meaning; it does not DEFINE Matthew's term.**
+
+**🆕 Romans 15:19's "fulfilled" verified: πεπληρωκέναι — PERFECT INFINITIVE ACTIVE of πληρόω (4137), the SAME LEMMA AS MATTHEW 5:17** (Stage 14). Paul regards a vast region as **standing fulfilled** while millions there never heard him. **→ apostolic mission completion ≠ exhaustive individual evangelisation.** **⚠️ Reported as a lexical link only — shared lemma ≠ shared meaning, per Stage 23's own collapse.**
+
+**🆕 Colossians 1:23's κηρυχθέντος (aorist) vs Matthew 24:14's κηρυχθήσεται (future) — same lemma. Strongest single datum for first-century fulfilment. AND STILL NOT A FULFILMENT CLAIM: Paul never writes that Matthew 24:14 is fulfilled.**
+
+**🆕 Matthew 24:3 is συντέλεια τοῦ αἰῶνος — consummation of the AGE.** *aiōn* ≠ *kosmos* ≠ *oikoumenē*. **Older "end of the world" renderings import a cosmology the Greek does not carry. WHICH age is the actual question — not answered here (q77).**
+
+**🆕 *Fulfilled prophetic proclamation ≠ nobody ever proclaims again.*** Same shape as *fulfilment ≠ abolition* (Stage 14) — **and this brake protects against the PRETERIST overreach, not the futurist one.**
+
+**🆕 METHODOLOGICAL RULE: EQUIVALENT-SCOPE BURDEN** — *two passages using different universal expressions may not be assumed to have identical scope merely because English renders both "world."* Keeps *oikoumenē · kosmos · gē · ktisis · aiōn* distinct until context earns the synthesis.
+
+> ### **NET EFFECT, AND IT CUTS BOTH WAYS: a major OBJECTION to the preterist reading was REMOVED (the scale objection). A favoured ARGUMENT for it was WEAKENED (the "Paul says whole world" bridge). The hypothesis is MORE PLAUSIBLE and LESS WELL-EVIDENCED than when the stage began.**
+
+---
+
+## Stage 25½ — ⚙️ Did Yahweh Know Whom the Apostolic Mission Needed to Reach?
+
+**File:** [[01e-did-yahweh-know-whom-the-mission-needed-to-reach]] · **An interlude, and a stage in its own right (ADR-0010). Arose from a question asked mid-stage; it materially changes what Romans 15:19's "fulfilled" can mean.**
+
+**The Acts chain, all verified by retrieval:** **Acts 8** — sent to a road, one man on it · **Acts 16:6–7** — **forbidden** to speak in Asia, **not allowed** into Bithynia *(they were TRYING; the prohibitions are the point)* · **Acts 16:9–10** — redirected to Macedonia · **Acts 16:14** — *"the Lord opened her heart"* · **Acts 18:9–10** — *"**I have many in this city who are my people**"* as the reason Paul must not stop.
+
+> ### **THE APOSTLES DID NOT NEED OMNISCIENCE IN ORDER TO FULFIL A MISSION DIRECTED BY AN OMNISCIENT GOD.** Paul did not need to know whether someone remained whom Yahweh wanted reached *through Paul*. **This materially strengthens the Romans 15 finding (q76) — Tier B, inference from narrative pattern, recorded at that strength.**
+
+**🛑 A FORMULATION FROM THE AUTHOR WAS CORRECTED:** *"the rest that didn't believe weren't meant to hear it anyway"* **goes beyond the evidence** — 2 Peter 3:9 and 1 Timothy 2:4 cut directly against it, and Acts shows Paul preaching to audiences he knows will partly reject. **Intuition preserved, formulation rebuilt.** Treated exactly as this project's own overreaches are.
+
+**🔑 ACTS 13:48 VERIFIED, AND THE RESULT CONVERGES:** **τεταγμένοι — perfect participle, MIDDLE *OR* PASSIVE (5021), voice grammatically undetermined.** **This is the SAME situation as Romans 9:22's κατηρτισμένα (Stage 22).** **The two most-contested election texts in the canon both rest on a perfect participle whose voice the grammar does not decide — verified independently, both times, without importing either side of the debate. Neither side can claim the grammar.**
+
+**🆕 METHODOLOGICAL RULE: THE PROVIDENCE–INFERENCE BOUNDARY** — *record divine agency plainly where Scripture states it; do NOT infer the unrevealed reason for every person or place not reached.* **Travels with its own intertextual chain: Acts 8 → Acts 16 → Acts 18 → Romans 15 → Romans 11:33.** **The terminus is the brake.**
+
+**📐 And Romans 11:33 did actual work here rather than serving as devotional punctuation:** *there are things Yahweh knows that the apostles did not need to know in order to obey Him.*
+
+**⚠️ RETRIEVAL DEBT (q84): Matthew 7:13–14 · John 10 · Romans 8:29 · Ephesians 1:4 · 2 Peter 3:9 · 1 Timothy 2:4 not retrieved.** The stage's central claim rests on the **Acts** texts, which were verified.
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 26 — MATTHEW 28:16–20. THE GREAT COMMISSION, READ INSIDE MATTHEW.**
+
+> **The strongest remaining text for: *"maybe Matthew 24:14 had a first-century fulfilment, but Yeshua still gave a universal Great Commission that continues."***
+
+**Not as an isolated slogan. The question that makes it tractable:**
+
+| Passage | Instruction |
+|---|---|
+| **Matthew 10:5–6** | "**Go nowhere among the Gentiles**… go rather to the lost sheep of the house of Israel" |
+| **Matthew 24:14** | gospel proclaimed **throughout the whole *oikoumenē*** |
+| **Matthew 28:19** | "**make disciples of all nations**" |
+
+> ### **WHAT CHANGED BETWEEN MATTHEW 10 AND MATTHEW 28?** — a far stronger question than *"does the Great Commission still apply?"*
+
+**Determine:** who receives it · what ***panta ta ethnē*** means there · what ***mathēteusate*** means · whether the commission is apostolic, ecclesial, or universally individual · **and 🔑 whether Matthew 28:20's "to the end of the age" is the SAME *synteleia tou aiōnos* as Matthew 24:3. VERIFY, DO NOT ASSUME — if they are the same age, the Commission's own duration clause is tied to Matthew 24's framework.**
+
+**Constraint carried in from Stage 25½:** whatever Matthew 28 commits its recipients to, **Acts depicts its execution as directed, prevented, and redirected by Yahweh — not as an undifferentiated obligation discharged by human initiative alone.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (24 → 25), Preserved
 
 ### **STAGE 25 — 🔑 THE COMPARATIVE SCOPE STUDY (q68). BACK TO THE MAIN QUESTION.**
 
