@@ -1511,6 +1511,93 @@ CJB (31): "Isra'el, even though they kept pursuing a Torah that offers righteous
 CJB (32): "not as being grounded in trusting but as if it were grounded in doing legalistic works"
 **🔍 CJB's "legalistic works" is an interpretive rendering where ESV reads "works" — recorded, not adopted.**
 
+## Romans 10 — Proclamation, Sending, and the *Oikoumenē* Quotation (see [[01b-romans-10-how-will-they-hear]])
+
+> Greek: **τέλος** *telos* (10:4, Strong's 5056) · **κηρύσσω** *kēryssō* (2784) · **ἀποστέλλω** *apostellō* · **εὐαγγελιστής** *euangelistēs* (Eph 4:11) · **γῆ** *gē* (1093) · **οἰκουμένη** *oikoumenē* (3625) · **φθόγγος** *phthongos* · **κτίσις** *ktisis* (2937). Hebrew: **קַו** *qav* (line) · **תֵבֵל** *tevel* (inhabited world).
+
+**Romans 10:1–3** — the subject has not changed; it is still Israel
+ESV (1): "Brothers, my heart's desire and prayer to God for them is that they may be saved."
+ESV (2): "For I bear them witness that they have a zeal for God, but not according to knowledge."
+ESV (3): "being ignorant of the righteousness of God, and seeking to establish their own, they did not submit to God's righteousness."
+**The defect is the BASIS of the zeal, not its absence.**
+
+**Romans 10:4** — ⚠️ **TRANSLATION DIVERGENCE #6**
+ESV: "For Christ is **the end of the law** for righteousness to everyone who believes."
+CJB: "For **the goal at which the *Torah* aims** is the Messiah, who offers righteousness to everyone who trusts."
+Greek: *τέλος γὰρ νόμου Χριστὸς* — **τέλος, Strong's 5056, nom. neut. sing.** Carries **end · goal · culmination · outcome · completion · purpose.**
+**❗ CANNOT be settled from the English word "end." Open question q63.**
+
+**Romans 10:6–8** — Paul argues faith-righteousness FROM Moses
+ESV (6–7): "Do not say in your heart, 'Who will ascend into heaven?' (that is, to bring Christ down) or 'Who will descend into the abyss?' (that is, to bring Christ up from the dead)."
+ESV (8): "But what does it say? 'The word is near you, in your mouth and in your heart' (that is, the word of faith that we proclaim)."
+
+**Deuteronomy 30:11–14** — the source, VERIFIED
+ESV (11–12): "this commandment that I command you today is not too hard for you, neither is it far off. It is not in heaven, that you should say, 'Who will ascend to heaven for us…?'"
+ESV (13): "Neither is it **beyond the sea**, that you should say, 'Who will **go over the sea** for us…?'"
+ESV (14): "But the word is very near you. It is in your mouth and in your heart, so that you can do it."
+**❗ PAUL CHANGED "beyond the sea" → "into the abyss" — and the change is what enables his "bring Christ up from the dead" gloss. Open question q62.**
+**Note: Deuteronomy 30 is also the circumcision-of-the-heart chapter (Stage 17).**
+
+**Romans 10:11–13** — access universalizes
+ESV (12): "For there is no distinction between Jew and Greek; for the same Lord is Lord of all, bestowing his riches on all who call on him."
+ESV (13): "For 'everyone who calls on the name of the Lord will be saved.'"
+
+**Joel 2:32** — the source, VERIFIED
+ESV: "And it shall come to pass that everyone who calls on the name of the Lord shall be saved. For **in Mount Zion and in Jerusalem** there shall be those who escape, as the Lord has said, and among the survivors shall be those whom the Lord calls."
+**Joel's "everyone who calls" sits inside a Zion/Jerusalem-located promise. Whether the locative frame carries into Paul is NOT established — open question q67.**
+
+**Romans 10:14–15** — the chain
+ESV (14): "How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching?"
+ESV (15): "And how are they to preach **unless they are sent**? As it is written, 'How beautiful are the feet of those who preach the good news!'"
+CJB (14): "But how can they call on someone if they haven't trusted in him? And how can they trust in someone if they haven't heard about him? And how can they hear about someone if no one is proclaiming him?"
+CJB (15): ⚠️ **TRANSLATION DIVERGENCE #7** — "And how can people proclaim him unless **God sends them**?" — **agent supplied; ESV's passive is agent-neutral. SAME MODE AS ROMANS 9:22, two chapters earlier. Open question q64.**
+**❗ THE LAST LINK — "unless they are SENT" — introduces COMMISSION, which RESTRICTS the set of heralds rather than expanding it.**
+
+**Isaiah 52:7** — the source, VERIFIED
+ESV: "How beautiful upon the mountains are the feet of him who brings good news, who publishes peace, who brings good news of happiness, who publishes salvation, who says **to Zion**, '**Your God reigns**.'"
+**Royal/covenantal proclamation with a named addressee — and Isaiah 52 runs straight into the suffering servant of Isaiah 53.**
+
+**Romans 10:16–17** — obedience and belief are the same response
+ESV (16): "But they have not all **obeyed** the gospel. For Isaiah says, 'Lord, who has **believed** what he has heard from us?'" *(quoting **Isaiah 53:1**)*
+CJB (16): "The problem is that they haven't all paid attention to the Good News and obeyed it."
+ESV (17): "So faith comes from hearing, and hearing through the word of Christ."
+**unbelief ↔ disobedience — same equivalence as Hebrews (Stages 19–20).**
+
+**Romans 10:18** — 🔑 **THE LOAD-BEARING VERSE, AND ⚠️ TRANSLATION DIVERGENCE #8**
+ESV: "But I ask, **have they not heard? Indeed they have**, for 'Their voice has gone out to all the **earth**, and their words to the ends of the **world**.'"
+CJB: "'But, I say, isn't it rather that they didn't hear?' No, they did hear — 'Their voice has gone out throughout the whole **world** and their words to the ends of the **earth**.'"
+Greek — VERIFIED BY INTERLINEAR: *πᾶσαν τὴν* **γῆν** *(gē, 1093)* … *τὰ πέρατα τῆς* **οἰκουμένης** *(oikoumenē, 3625)*
+> ### ❗❗ **CJB INVERTS THE TWO ENGLISH TERMS RELATIVE TO THE GREEK.** Greek order is **gē** then **oikoumenē**; CJB renders "world" then "earth." **Anyone building the Matthew 24:14 bridge from CJB English attaches *oikoumenē* to the WRONG HALF OF THE VERSE.** Strongest practical vindication of ADR-0008 to date.
+
+**Psalm 19:4 (English) = MT 19:5 = LXX 18:5** — 🛑 **THE BRAKE**
+Hebrew (Sefaria, VERIFIED): בְּכׇל־הָאָ֨רֶץ יָ֘צָ֤א **קַוָּ֗ם** וּבִקְצֵ֣ה **תֵ֭בֵל** מִלֵּיהֶ֑ם — Revised JPS: "Their voice carries throughout the earth, their words to the end of the world."
+LXX (Elpenor, VERIFIED on rung 5 of the source ladder): *εἰς πᾶσαν τὴν* **γῆν** *ἐξῆλθεν ὁ* **φθόγγος** *αὐτῶν καὶ εἰς τὰ πέρατα τῆς* **οἰκουμένης** *τὰ ῥήματα αὐτῶν*
+> ### ❗❗ **PAUL QUOTES THE LXX VERBATIM. He did NOT choose the word *oikoumenē* — he inherited it from a Psalm about the heavens.** The Matthew 24:14 overlap is **INTERTEXTUAL, NOT INDEPENDENT-LEXICAL.**
+**And MT *qav* ("their LINE") ≠ LXX *phthongos* ("their VOICE") — Paul follows the LXX against the Hebrew, and his whole "indeed they have heard" argument depends on it. Open question q65.**
+**Note *tevel* stands where the LXX puts *oikoumenē* — the scope question predates the Greek.**
+*(Confirms the documented Psalms superscription offset again: Sefaria's Hebrew 19:4 is a different verse — "There is no utterance, there are no words, whose sound goes unheard.")*
+
+**Romans 10:19–21** — Gentile inclusion + Israel's disobedience
+ESV (19): "I will make you **jealous** of those who are not a nation; with a foolish nation I will make you angry." *(**Deuteronomy 32:21** — the jealousy motif that detonates in Romans 11)*
+ESV (20): "I have been found by those who did not seek me; I have shown myself to those who did not ask for me." *(**Isaiah 65:1**)*
+ESV (21): "All day long I have held out my hands to a **disobedient and contrary** people." *(**Isaiah 65:2**)*
+
+**Matthew 24:14** — the other end of the bridge, VERIFIED BY INTERLINEAR
+*καὶ* **κηρυχθήσεται** *(kēryssō, 2784) τοῦτο τὸ εὐαγγέλιον τῆς βασιλείας ἐν ὅλῃ τῇ* **οἰκουμένῃ** *(3625) … καὶ τότε ἥξει τὸ* **τέλος** *(5056)*
+**Three lemmas shared with Romans 10 — but see the brake above: on inspection they collapse to roughly one (*kēryssō*, Paul's own verb). Open question q68.**
+
+**Colossians 1:23** — VERIFIED BY INTERLINEAR
+*ἐν πάσῃ* **κτίσει** *(ktisis, 2937) τῇ ὑπὸ τὸν οὐρανόν* — "in all creation under heaven"
+**❗ Uses *ktisis*, NOT *oikoumenē*.** But the verb is **κηρυχθέντος** — **same lemma as Matthew 24:14's κηρυχθήσεται**, aorist passive (completed) against Matthew's future passive.
+**Verb matches; scope noun does not. Do not collapse the two.**
+
+**Role/act distinction — supporting texts** *(⚠️ Eph 4:11 and 1 Cor 12:29 NOT YET RETRIEVAL-VERIFIED — open question q66)*
+**Ephesians 4:11** — apostles, prophets, **εὐαγγελιστής *euangelistēs*** (evangelist), shepherds, teachers — evangelist is a **distinct listed gift**
+**1 Corinthians 12:29** — "Are all apostles? Are all prophets? Are all teachers?" — rhetorical, implied **no**
+**1 Peter 3:15** — the counterweight: believers **ready to give an answer** for the hope in them
+
+---
+
 ## The People of God — Covenant Formula, Expansion, Grafting (see [[00y-who-are-the-people-of-god]])
 
 > Greek: **τῷ λαῷ τοῦ θεοῦ** *tō laō tou theou* ("the people of God") · **πᾶς Ἰσραήλ** *pas Israēl* ("all Israel"). Hebrew: **לֹא עַמִּי** *Lo-Ammi* ("not my people").

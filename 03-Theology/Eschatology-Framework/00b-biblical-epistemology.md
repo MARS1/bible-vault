@@ -580,4 +580,44 @@ Directly feeds [[04-open-questions]] item 5 (historical/theological value of Eno
 
 Full policy in ADR-0003 (`docs/adr/`). Summary: three translations quoted per verse going forward — **CJB** (primary, Hebrew/Jewish context) → **ESV** (English cross-reference) → **RVR1960** (Spanish witness, since the eventual compiled document exists in Spanish too). When a question turns on exact wording or a specific term, go to the underlying Hebrew/Aramaic/Greek first — no single translation, including RVR1960, settles what the source text says. Existing [[05-scripture-index]] entries are being backfilled with RVR1960; new entries get all three from creation.
 
+> ⚠️ **The paragraph above is SUPERSEDED by ADR-0008 (Stage 17) and is retained per ADR-0010 rather than overwritten.** The "three translations quoted per verse going forward" rule proved unsustainable across Stages 13–16. **Current policy: research once at the source-language level; ESV + CJB as default English witnesses; RVR1960 pulled SELECTIVELY against defined triggers.** See [[00-methodology-current]] and ADR-0008.
+
 For the fuller working-out of the worked example above (Yeshua's Israel-focused earthly ministry, the Canaanite/Syrophoenician woman, Cornelius, the Jerusalem council, Paul's Gentile commission, and the covenant-continuity thread it all sits inside), see [[00c-commission-covenant-investigation]].
+
+---
+
+## Role–Act Distinction *(added Stage 23)*
+
+> **Do not equate performing an act with holding the formal ministry/office associated with that act.**
+
+A believer may teach, encourage, bear witness, or proclaim in a given circumstance **without thereby being** *a teacher, an evangelist, a prophet, or an apostle* in the specialized ministry sense.
+
+> ### **Role language must be established INDEPENDENTLY of act language.**
+
+**Both shortcuts are refused:**
+- **Not** "he proclaimed, therefore he held the office of herald."
+- **Not** "the office is distinct, therefore no one outside it may ever speak."
+
+**Why this belongs in the epistemology and not merely the style guide:** the project's own original position — *not everyone is an evangelist* — was for a long time **personal intuition wearing the clothes of an argument.** Romans 10:15's *sending* clause, Ephesians 4:11's *euangelistēs* as a distinct listed gift, and 1 Corinthians 12:29's rhetorical *"are all apostles?"* give it textual footing; **1 Peter 3:15 and Acts supply the counterweight that keeps it from becoming an excuse.** The rule exists to keep both halves standing — see [[01b-romans-10-how-will-they-hear]] §16.
+
+---
+
+## Universal-Language Scope Test *(added Stage 23)*
+
+> **When an ancient text says "all the earth," "the whole world," "every nation," or "all creation," do not assume modern planetary exhaustiveness OR merely local scope.**
+
+**Five determinations, before any geographic scope is assigned:**
+
+| | Determination |
+|---|---|
+| **(a)** | **Semantic range** of the original term — *gē* · *oikoumenē* · *ktisis* · *kosmos* · *tevel* are **not interchangeable** |
+| **(b)** | **Rhetorical genre** — hyperbole, liturgy, and administrative description behave differently |
+| **(c)** | **🔑 Is the phrase QUOTED from an earlier source — and if so, WHOSE WORD IS IT?** |
+| **(d)** | **Historical audience** |
+| **(e)** | **Comparable contemporary usage** |
+
+> ### ❗ **CLAUSE (c) IS NOT OPTIONAL. A scope term inside a quotation is evidence about the SOURCE TEXT first, and about the QUOTING AUTHOR only secondarily.**
+
+**The instance that produced it:** Romans 10:18's *oikoumenē* appeared to be independent Pauline attestation that the gospel had reached the same *oikoumenē* named in Matthew 24:14. **It is a verbatim quotation of LXX Psalm 18:5 — a Psalm about the heavens declaring God's glory. Paul did not select the word.** The overlap is **intertextual, not independent-lexical**, and three apparent shared lemmas collapsed to roughly one on inspection.
+
+> ### **Written BEFORE the Matthew 24:14 study (open question q68), deliberately — so it cannot be tuned to produce a preferred result once the answer starts to matter. This is the Thesis Discipline applied to a rule rather than to a conclusion.**

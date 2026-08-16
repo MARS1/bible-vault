@@ -58,7 +58,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **21** | Who Are "the People of God"? | [[00y-who-are-the-people-of-god]] |
 | **21½** | **⚙️ Recenter the Narrative: What Are We Actually Trying to Determine?** | **[[00z-recentering-the-map]]** |
 | **22** | Romans 9: "Not All Who Are From Israel Are Israel" | [[01a-romans-9-not-all-israel-is-israel]] |
-| **23** | *(next)* Romans 10 — hearing and proclamation | — |
+| **23** | Romans 10: "How Will They Hear Without Someone Preaching?" | [[01b-romans-10-how-will-they-hear]] |
+| **24** | *(next)* Romans 11 — has God rejected His people? | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -690,7 +691,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **→ earns the next question:** the final unresolved premise underneath "the people of God."
 
-## Stage 22 — Romans 9: "Not All Who Are From Israel Are Israel" *(current)*
+## Stage 22 — Romans 9: "Not All Who Are From Israel Are Israel"
 
 **File:** [[01a-romans-9-not-all-israel-is-israel]]
 
@@ -726,7 +727,55 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 23 — Romans 10: "How Will They Hear Without Someone Preaching?" *(current)*
+
+**File:** [[01b-romans-10-how-will-they-hear]] · **The stage we said we would run at rather than avoid.**
+
+**Paul's chain (10:14–15):** call ← believe ← hear ← proclaimer ← **sent**.
+
+> ### **THE PIVOT: the chain's LAST link cuts against the universal-obligation reading rather than for it.** Paul does not stop at *"someone must preach."* He adds *"unless they are **sent**"* — introducing **commission**, which restricts the set of heralds rather than expanding it. **The text most likely to overturn the original position contains, in its own final clause, the distinction the original position was trying to draw.**
+
+**Then 10:18 — "have they not heard? *Indeed they have.*"** Israel's stumbling is **not** attributed to a proclamation deficit. That reframes 10:14–15 as **removing an excuse**, not primarily issuing a commission.
+
+### 🛑 The brake that matters most — and it cost the project a bridge it wanted
+
+**Verified by retrieval:** Romans 10:18 contains **οἰκουμένης** and **γῆν**; Matthew 24:14 contains **οἰκουμένῃ**, **κηρυχθήσεται**, and **τέλος**. Three shared lemmas. **A powerful-looking eschatological bridge.**
+
+**But Romans 10:18 is a verbatim quotation of LXX Psalm 18:5** — *εἰς πᾶσαν τὴν **γῆν** ἐξῆλθεν ὁ **φθόγγος** αὐτῶν καὶ εἰς τὰ πέρατα τῆς **οἰκουμένης** τὰ ῥήματα αὐτῶν* — **verified on rung 5 of the source ladder after three sources failed.**
+
+> ### ❗❗ **PAUL DID NOT CHOOSE THE WORD *OIKOUMENĒ*. He inherited it from a Psalm about the heavens. The overlap is INTERTEXTUAL, not INDEPENDENT-LEXICAL — and may never be reported as the latter.** *"Paul says the gospel reached the oikoumenē, therefore Matthew 24:14 was fulfilled"* rests on a borrowed word. **On inspection the three overlaps collapse to roughly one** (*kēryssō*, Paul's own verb).
+
+**ADR-0010's "never collapse evidence types" operating on a case the project would have preferred to read the other way.** Also verified: **Paul follows LXX *phthongos* ("voice") against MT *qav* ("line")**; **Colossians 1:23 uses *ktisis*, NOT *oikoumenē***.
+
+**🆕 Three translation divergences in one chapter — #6, #7, #8:** *telos* at 10:4 (ESV "end" / CJB "goal at which Torah aims") · 10:15 agent supplied by CJB (**same mode as Romans 9:22, two chapters earlier — now a characterizable tendency**) · **and 10:18, where CJB INVERTS *gē*/*oikoumenē* relative to the Greek, so anyone building the Matthew 24:14 bridge from CJB English attaches the term to the WRONG HALF OF THE VERSE.** Strongest practical vindication of ADR-0008 yet.
+
+**Role/act distinction became textual** rather than personal: Rom 10:15 (sending) + Eph 4:11 (*euangelistēs* a distinct listed gift) + 1 Cor 12:29 ("are all apostles?"), counterweighted by 1 Peter 3:15. *(Eph 4:11 and 1 Cor 12:29 not yet retrieval-verified — q66.)*
+
+**🆕 TWO METHODOLOGICAL RULES ADDED: Role–Act Distinction · Universal-Language Scope Test** — the latter's clause (c), *"whether the phrase is quoted from an earlier source, and if so whose word it is,"* **exists because of this stage. Written BEFORE Matthew 24:14, deliberately, so it cannot be tuned once the answer starts to matter.**
+
+**🆕 METHODOLOGICAL LINE: *A QUOTED SCOPE TERM IS EVIDENCE ABOUT THE SOURCE TEXT FIRST, AND ABOUT THE QUOTING AUTHOR ONLY SECONDARILY.***
+
+**Verdict:** Romans 10 **neither overturned nor vindicated** the original position. It **split the question into two answerable halves** — *is every believer the herald?* and *was the predicted proclamation completed?* — which is more useful than a verdict. **q68 (the comparative scope study) now carries the second.**
+
+---
+
 ## Next Stage (not yet written)
+
+### **ROMANS 11 — "HAS GOD REJECTED HIS PEOPLE?"**
+
+> **Romans 11:1 — *"I ask, then, has God rejected his people?"* → *"By no means!"***
+>
+> ### **That opening alone places enormous pressure on any simplistic replacement model — and it must be allowed to do so on its own terms, not because this project prefers the result.**
+
+**The arc to trace:** remnant → hardening → Gentiles → **jealousy** *(planted at 10:19, Deuteronomy 32:21)* → grafting → fullness → **"all Israel"** → **irrevocable calling**.
+
+**Method carried in:** the same lock as Stages 22–23 — Romans 11 is not read backward through later systematics, and *"all Israel"* is not resolved before Paul's own argument resolves it. **Stage 22 already flagged Romans 9:6's "Israel₂" (q61) as unresolved; Romans 11 is where that must be faced.**
+
+**Then:** close the Romans 9–11 arc and return to **q68 — the comparative scope study** (*oikoumenē* / *gē* / *ktisis* / *kosmos* across Matthew 24:14 · Romans 10:18 · Colossians 1:6 · Colossians 1:23 · Acts 2 · Acts 17). **That is where the preterist timeline stands or falls — and after Stage 23, it must be built on authors' own words rather than inherited quotations.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (22 → 23), Preserved
 
 ### **ROMANS 10 — AND THE TEXT THAT COULD FALSIFY THE ORIGINAL POSITION**
 
@@ -741,6 +790,8 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 > ### **Precisely the kind of potentially falsifying evidence this project exists to welcome. Point 12 in live operation.**
 
 **Note also where Romans 10 sits structurally:** Romans 9 asks *has Yahweh's word failed?* · **Romans 10 asks why Israel is presently stumbling — and answers with Messiah, faith, and HEARING/PROCLAMATION** · Romans 11 asks *has Yahweh rejected His people?* **The original question of this project sits in the middle of the argument we are now inside.**
+
+**→ ANSWERED at Stage 23.** The question was well-posed: the answer was *"something considerably more specific inside Paul's argument about Israel"* — **and the sending clause did the work.**
 
 ---
 

@@ -389,6 +389,46 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 
 **Interlude stages (16½, 18½, 21½) are stages in their own right.** A methodological stage is still a stage — **never merged into a neighbour for not being exegetical.** The spine carries an explicit **Stage Index** making every stage addressable by number.
 
+## 🎭 Role–Act Distinction — Run Whenever a Text Describes Someone Performing a Ministry Act *(added v2.2)*
+
+> **Do not equate performing an act with holding the formal ministry/office associated with that act.**
+
+A believer may **teach, encourage, bear witness, or proclaim** in a given circumstance without thereby being *a teacher, an evangelist, a prophet, or an apostle* in the specialized ministry sense.
+
+> ### **Role language must be established INDEPENDENTLY of act language.**
+
+**Runs in both directions, and neither shortcut is permitted:**
+- **Not** "he proclaimed, therefore he held the office of herald."
+- **Not** "the office is distinct, therefore no one outside it may ever speak."
+
+*(Worked instance: Stage 23 §16. Romans 10:15's **sending** clause + Ephesians 4:11's ***euangelistēs*** as a distinct listed gift + 1 Corinthians 12:29's "are all apostles?" establish differentiated callings — counterweighted by 1 Peter 3:15's "ready to give an answer." Both halves stand.)*
+
+---
+
+## 🌍 Universal-Language Scope Test — Run on Every "All the Earth" *(added v2.2)*
+
+> **When an ancient text says "all the earth," "the whole world," "every nation," or "all creation," do not assume modern planetary exhaustiveness OR merely local scope.**
+
+**Determine, before assigning any geographic scope:**
+
+| | Determination |
+|---|---|
+| **(a)** | The **semantic range** of the original term (*gē* · *oikoumenē* · *ktisis* · *kosmos* · *tevel* are not interchangeable) |
+| **(b)** | The **rhetorical genre** — hyperbole, liturgy, and administrative description behave differently |
+| **(c)** | **🔑 Whether the phrase is QUOTED from an earlier source — and if so, WHOSE WORD IT IS** |
+| **(d)** | The **historical audience** |
+| **(e)** | **Comparable contemporary usage** |
+
+> ### ❗ **CLAUSE (c) IS NOT OPTIONAL AND EXISTS BECAUSE OF STAGE 23.**
+>
+> **A scope term inside a quotation is evidence about the SOURCE TEXT first, and about the QUOTING AUTHOR only secondarily.**
+
+*(Worked instance: Stage 23 §13. Romans 10:18's ***oikoumenē*** looked like independent Pauline attestation of first-century gospel reach, matching Matthew 24:14's term. **Retrieval showed Paul quotes LXX Psalm 18:5 verbatim — he did not choose the word.** The overlap is **intertextual, not independent-lexical**. Three apparent shared lemmas collapsed to roughly one.)*
+
+> ### **This rule was written BEFORE the Matthew 24:14 study (q68), deliberately — so it cannot be tuned to produce a preferred result once the answer starts to matter.**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -403,6 +443,7 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 ## Verification Honesty
 
 - **A failed retrieval is a finding, not an inconvenience.** Record **VERIFICATION FAILED** with the reason and the exact step required to complete it. *(Worked instance: 1 Enoch, HTTP 403, Stage 16 §21.)*
+- **❗ A SUCCESSFUL retrieval is not automatically a verification.** *(added v2.2)* **Read what actually came back.** An index/TOC page, a translation-only page, or the wrong chapter all return **HTTP 200 with real content that is not the content needed.** *(Worked instance: Stage 23 §19 — the LXX Psalm 18:5 verification failed on FOUR sources before succeeding on the fifth. **Two of those four failures returned HTTP 200**: one served Brenton's English instead of Greek, one served the wrong psalm. Stopping at "the request succeeded" would have recorded a false verification; stopping at the first 404 would have recorded a false failure — **and the stage's single most important finding, which WEAKENED a bridge this project wanted, would never have been discovered.**)*
 - **Never assert an external source's content from conversational report alone.** Mark it **REPORTED — NOT VERIFIED** and name what would verify it.
 - **Static-analysis language discipline** (global rule): for anything derived from reading rather than observing, say **"traced"** or **"the text would mean X if"** — never "confirmed."
 
@@ -413,6 +454,7 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **2.2** | 2026-08-16 | Added the **Role–Act Distinction** and the **Universal-Language Scope Test** (Stage 23), the latter's **clause (c) — "whose word is it?"** — written deliberately *before* the Matthew 24:14 study so it cannot be tuned later. Added to Verification Honesty: **a successful retrieval is not automatically a verification** (HTTP 200 with real-but-wrong content, Stage 23 §19). |
 | **2.1** | 2026-08-15 | Added **Unabridged Research Preservation** (ADR-0010) — the three artifacts, the *never collapse evidence types* clause, the both-organizations requirement, and the rule that **interlude stages are stages**. Spine gained an explicit **Stage Index**. |
 | **2.0** | 2026-08-15 | Added **Expansion ≠ Erasure** and **Later Inclusion ≠ Rewritten Context** (Stage 21), the **Anachronism Test** with the *ancient Israel ≠ modern State* rule, the **"Satan deceives" unfalsifiability protection**, and the **Thesis Discipline** keeping preterism downstream of the evidence (Stage 21½). |
 | **1.9** | 2026-08-14 | Added **Fulfillment ≠ Exhaustion** with its bridge requirement, and the **Lexical Escalation** rule — including the distinction that *a theological dictionary's citation is not a verified primary source* (Stage 20). |
