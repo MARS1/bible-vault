@@ -1598,6 +1598,42 @@ ESV (21): "All day long I have held out my hands to a **disobedient and contrary
 
 ---
 
+## Consummation Without Exhaustion, and the Taken/Left Problem (see [[01k-can-an-age-end-while-resurrection-remains-ahead]], [[01l-one-taken-and-one-left]])
+
+**Hebrews 9:26, 9:28** — 🔑🔑 **THE ANSWER, TWO VERSES APART** — ESV, VERIFIED
+9:26: "But as it is, **he has appeared once for all at the end of the ages** to put away sin by the sacrifice of himself."
+9:28: "so Christ, having been offered once to bear the sins of many, **will appear a second time**, not to deal with sin but to save those who are eagerly waiting for him."
+> ### ❗❗ **THE SAME AUTHOR, IN THE SAME PARAGRAPH, PLACES MESSIAH'S APPEARANCE AT "THE END OF THE AGES" *AND* SPEAKS OF A SECOND APPEARING STILL AWAITED. CONSUMMATION LANGUAGE NEED NOT EXHAUST EVERY ESCHATOLOGICAL EVENT.** *(Not proof of AD 70 — proof that the distinction is available.)*
+
+**Luke 4:18–21 / Isaiah 61:1–2** — 🔑 **HE STOPPED MID-VERSE** — ESV, VERIFIED
+Luke 4:19: Yeshua reads "…**to proclaim the year of the Lord's favor**." · 4:20: "**And he rolled up the scroll**…" · 4:21: "**Today this Scripture has been fulfilled in your hearing.**"
+Isaiah 61:2: "to proclaim **the year of the Lord's favor**, **AND the day of vengeance of our God**; to comfort all who mourn."
+> ### ❗❗ **BOTH CLAUSES ARE IN THE SAME VERSE. He read the first, closed the scroll, and declared fulfilment.** **Partial/progressive fulfilment demonstrated at a finer grain than passage-level. Establishes the CATEGORY, not its application to Matthew 13.**
+
+**Zechariah 14:16–19** — 🔑 **FORMAL MILLENNIAL CONTROL TEXT** — ESV, VERIFIED
+"everyone who survives of all the nations that have come against Jerusalem shall go up **year after year** to worship the King, the Lord of hosts, and **to keep the Feast of Booths**. And if any of the families of the earth do not go up… **there will be no rain on them**… there shall be the plague with which the Lord afflicts the nations that do not go up to keep the Feast of Booths."
+**Details corrected: SUKKOT, not Passover · YEAR AFTER YEAR, not twice yearly · Egypt named.**
+> ### **✅ Established: Zechariah anticipates surviving nations worshipping, with Sukkot/Jerusalem/rain connected. ❌ NOT established: that this scene IS Revelation 20's millennium — Zechariah never says "during the thousand years." A CONTROL TEXT, NOT YET A DEFEATER. q102.**
+
+**Revelation 6:9–11** — the full number of the martyrs — ESV, VERIFIED
+"I saw under the altar **the souls of those who had been slain** for the word of God and for the witness they had borne… told to rest a little longer, **until the number of their fellow servants and their brothers should be complete**, who were to be killed as they themselves had been."
+**Intertextual question INSIDE Revelation: same group as 20:4's first-resurrection rulers? q103.**
+
+**Matthew 24:37–41** — ⚠️ **AND THE NOAH ANALOGY CUTS THE OTHER WAY** — ESV + Greek, VERIFIED
+"as were the days of Noah… they were unaware until **the flood came and swept them all away**, so will be the coming of the Son of Man. Then two men will be in the field; **one will be taken and one left**. Two women will be grinding at the mill; **one will be taken and one left**."
+Greek 24:40 — VERIFIED: **παραλαμβάνεται** *paralambanetai* (**3880**) "is taken" · **ἀφίεται** *aphietai* (**863**) "is left" — **BOTH Present Indicative MIDDLE OR PASSIVE, no stated agent.**
+> ### ❗ **IN THE IMMEDIATELY PRECEDING ANALOGY THE ONES REMOVED ARE THE WICKED.** **Yeshua says TAKEN and LEFT — not "disappears."**
+> ### ❗❗ **THIRD VERIFIED OCCURRENCE OF UNDETERMINED VOICE: Romans 9:22 · Acts 13:48 · here. No camp can claim the grammar in any of them. q104.**
+**⚠️ Matthew 24:39's verb for "swept them all away" NOT retrieved — the datum that would show whether Matthew uses a different verb there (q107).**
+
+**Luke 17:26–37** — 🔑 **"WHERE, LORD?"** — ESV, VERIFIED
+"the flood came and **destroyed them all**"… Lot — "fire and sulfur rained from heaven and **destroyed them all**"… "two in one bed. **One will be taken and the other left.**"
+17:37: "**And they said to him, 'Where, Lord?' He said to them, 'Where the corpse is, there the vultures will gather.'**"
+> ### ❗❗ **THE DISCIPLES ASK WHERE THE TAKEN ONES GO, AND THE ANSWER INVOKES A CORPSE AND GATHERING VULTURES. That sounds like JUDGMENT, not transportation of saints to a protected kingdom.** **Makes "one taken = believer gathered" far less automatic than it appears. q105.**
+**Note: two women grinding — ἀλήθω *alēthō*, ordinary domestic grinding (hand mill/rotary quern). NOT two people pushing one giant stone. And HISTORICALLY SITUATED IMAGERY DOES NOT ESTABLISH HISTORICALLY LIMITED FULFILMENT.**
+
+---
+
 ## Resurrection — the Taxonomy Corpus (see [[01j-resurrection-before-revelation]])
 
 > Greek: **μνημεῖον** *mnēmeion* (3419, tombs) · **σῶμα πνευματικόν** *sōma pneumatikon* · **ἀπάντησις** *apantēsis* (529).

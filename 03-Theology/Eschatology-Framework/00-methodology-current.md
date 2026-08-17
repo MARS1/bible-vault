@@ -658,6 +658,54 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 🎯 Consummation–Exhaustion Distinction — Run on Every "End" Statement *(added v2.9)*
+
+> **A text may describe the consummation of a particular AGE, COVENANTAL ORDER, MISSION, or PROPHETIC HORIZON without implying that every eschatological reality has thereby been exhausted.**
+>
+> ### **DETERMINE THE OBJECT BEING CONSUMMATED before inferring universal finality.**
+
+**Warrant — and it is a single paragraph by one author:** *(Stage 30 §2)* **Hebrews 9:26** — "he has appeared once for all **at the end of the ages**" · **Hebrews 9:28** — "so Christ… **will appear a second time**." **Two verses apart. Consummation language coexists with a still-awaited appearing.**
+
+---
+
+## 🗜️ Prophetic-Compression Brake — Run Before Separating or Merging Prophetic Events *(added v2.9)*
+
+### Glossary — prophetic compression
+
+> **A prophetic presentation in which events separated by historical intervals may be depicted together within one visionary scene, because the prophecy emphasizes THEOLOGICAL RELATIONSHIP rather than supplying a complete chronological interval map.**
+
+> **Prophecy MAY present theologically related events together without specifying every interval — BUT temporal compression may NOT be invoked solely to rescue a preferred chronology.**
+>
+> ### **A proposed SEPARATION requires textual, intertextual, or fulfilment-based evidence.**
+
+**Warrant for the CATEGORY:** *(Stage 30 §6)* **Luke 4:18–21 against Isaiah 61:2 — Yeshua stopped MID-VERSE.** Isaiah 61:2 contains both "the year of the LORD's favor" **and** "the day of vengeance of our God"; He read the first clause, **rolled up the scroll**, and declared fulfilment. **Partial fulfilment demonstrated at a finer grain than passage-level.**
+
+> ### ❗ **Warrant for the BRAKE: this project's own hypothesis BENEFITS from compression — which is precisely when the rule is most needed.**
+
+---
+
+## 📰 Report–Event Distinction — Run on Every Historical Source *(added v2.9)*
+
+> **A historical source can establish, with varying confidence, that a CLAIM, TESTIMONY, or TRADITION existed — without thereby establishing that the reported EVENT occurred exactly as described.**
+>
+> ### **RECORD THE REPORT FIRST; ASSESS THE UNDERLYING EVENT SEPARATELY.**
+
+### Glossary — anecdotal evidence
+
+> **Evidence based on individual reports, personal experiences, stories, or isolated observations rather than systematic documentation or independently controlled investigation.** **Anecdotal does NOT mean automatically false — it means its evidentiary weight is limited.**
+
+*(Worked instance: Stage 30 §12. Josephus reporting that people saw armies among the clouds is evidence that **such a report existed**; it does NOT prove Matthew 24's "coming on the clouds" was fulfilled. **And Josephus is not a neutral camera — a revolt participant who surrendered to Rome and received Flavian patronage.** Order: **biblical expectation first, THEN the historian.**)*
+
+---
+
+## 🚫 Stated-Restriction Rule — Do Not Expand or Narrow a Specified Limit *(added v2.9)*
+
+> **A stated restriction may NOT be expanded into an absolute restriction — nor narrowed to create a loophole. Take the limit at the scope the text gives it.**
+
+*(Worked instance: Side Branch 30½ §8. **Revelation 20:3 says Satan is bound "so that he might not deceive the nations."** That may not become *"Satan exercised zero influence of any kind"* — **nor** may a communications loophole be invented merely because he is described as bound. **Both exceed the text.** **Consequence: a bound deceiver does NOT entail a sinless millennium**, since Genesis 6:5, Mark 7:21–23 and James 1:14 locate evil in the human heart independently — **which defeats the common objection that historical wickedness disproves a past binding.**)*
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -683,6 +731,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **2.9** | 2026-08-17 | Added the **Consummation–Exhaustion Distinction**, the **Prophetic-Compression Brake** (+ glossary *prophetic compression*), the **Report–Event Distinction** (+ glossary *anecdotal evidence*), and the **Stated-Restriction Rule** (Stage 30 + Side Branch 30½). Also adopted the working label **Post-Millennial Little-Season Hypothesis** — see [[01k-can-an-age-end-while-resurrection-remains-ahead]] §9 — because *partial preterism* does NOT place anyone in the little season. |
 | **2.8** | 2026-08-17 | Added the **Metaphorical–Bodily Distinction** and **Category-Lock**, with the **resurrection taxonomy (A–E)** (Stage 29). Category-Lock generalizes four prior forced separations — *Israel*, *world*, *age*, *resurrection*. |
 | **2.7** | 2026-08-16 | Added the **Inauguration–Consummation Distinction** and the **inaugurated eschatology** glossary entry (Stage 28), with the explicit note that the concept is **neither preterist nor futurist** and is adopted as a distinction only. |
 | **2.6** | 2026-08-16 | Added the **Foundation–Continuation Distinction** (Stage 27) and the **Compatibility–Evidence Distinction** (Side Branch 27½), plus the **deferred historical-hypotheses register** ([[07-deferred-historical-register]]) and its required order of operations: *Bible → textual model → then historical evidence as an independent test.* |

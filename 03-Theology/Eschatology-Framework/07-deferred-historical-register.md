@@ -71,6 +71,41 @@ related: "[[00-methodology-current]], [[01h-who-is-alive-during-and-after-the-th
 | **H8** | **Population discontinuity claims** — cities reported as empty and later repopulated | Requires primary sources per city, per date |
 | **H9** | **Rupes Nigra and historical cartography** | **Already deliberately kept downstream** (Stage 21½) to prevent finding-the-map-in-Revelation circularity. **That deferral stands and is reinforced here** |
 | **H10** | **Post-millennial historical reconstruction generally** | Cannot even be framed until Revelation's own chronology is established (**q94**) |
+| **H11** | **Numeral conventions on inscriptions, coinage and buildings** — characters resembling **I** rather than **1** | A genuine **paleographic/epigraphic** question: what numeral conventions applied in the relevant language, period, inscription type, printing tradition, coinage or architecture? **Investigate actual specimens and their known conventions before drawing any chronological conclusion** |
+| **H12** | **Eden's rivers and later river names** | Genesis names four rivers including Tigris and Euphrates by traditional renderings. Proposing that later rivers bearing those names were renamed after older originals is **possible as a hypothesis** — **Scripture does not establish the name migration.** **Compatible possibility ≠ textual evidence.** ⚠️ **And Revelation's Euphrates passages must NOT be defined by a disputed geographic reconstruction before John speaks — they are read when Revelation reaches them sequentially** |
+| **H13** | **"Dark Ages" as a candidate millennial period** | ⚠️ **The label is later historiography, applied unevenly to portions of early medieval Europe — not a neutral description of conditions across the earth.** **ANACHRONISM WARNING.** Do not ask *"were the Dark Ages the millennium?"* — ask **"what conditions should Revelation 20 predict during Satan's binding, and do surviving records from a candidate period exhibit them?"** *(Side Branch 30½ §9)* |
+| **H14** | **Reported disappearance of a population, first/early-second century** | ⚠️ **This one is a FALSIFICATION TEST, not a confirmation search — see q109.** Depends on **q105** (who was gathered) being settled first |
+
+---
+
+## Fixed Historical Markers — No Assigned Position
+
+| Marker | Status |
+|---|---|
+| **AD 70 — destruction of Jerusalem and the Temple** | Historically attested. **Whether Revelation identifies it with the start of the thousand years is NOT established** *(Side Branch 27½ §5)* |
+| **AD 325 — First Council of Nicaea** | **FIXED HISTORICAL MARKER; MILLENNIAL RELATIONSHIP UNRESOLVED.** ⚠️ Do NOT record "Nicaea occurred before the millennium" — depending on where the millennium's start is eventually placed, it could fall before or during. ⚠️ Date carried from conversation, **not independently verified — q107** |
+
+---
+
+## The Historical Corroboration Track *(opened Stage 30)*
+
+**Distinct from this register.** The register holds claims that cannot presently be evaluated. **The Corroboration Track holds legitimate historical sources to be consulted — but only AFTER the biblical model is fixed.**
+
+**Josephus sits near the front of it.**
+
+- **Relevant** because he wrote extensively on the revolt and the destruction of Jerusalem as a near-contemporary.
+- ⚠️ **NOT "non-biased":** a participant in the revolt who surrendered to the Romans, received Flavian patronage, and wrote with his own political and apologetic interests. **An invaluable near-contemporary historian — not an infallible neutral camera.**
+- **Jewish War 6.5.3** reportedly describes portents before the catastrophe, including armies among the clouds. ⚠️ **NOT RETRIEVED — q107.**
+
+> ### ❗ **THE ORDER IS ABSOLUTE: Matthew / Daniel / Isaiah establish the biblical expectation FIRST. THEN Josephus is asked whether a contemporary historian reports phenomena that ancient observers associated with that judgment.**
+>
+> ### **Josephus reporting armies in the clouds DOES NOT PROVE Matthew 24's "coming on the clouds" was fulfilled. Governed by the REPORT–EVENT DISTINCTION: a source can establish that a REPORT existed without establishing that the EVENT occurred as described.**
+
+### The research design, stated in advance *(Side Branch 30½ §9)*
+
+> **When Revelation eventually yields a candidate date range, FREEZE THE BIBLICAL PREDICTION FIRST.** Only then open Josephus, early Christian writers, Roman sources, archaeology, Byzantine chronicles, medieval sources, Jewish records, and others — and ask: **what fits · what doesn't · what is silent · what contradicts · what requires special pleading.**
+>
+> ### **THIS PREVENTS BROWSING HISTORY UNTIL SOMETHING LOOKS MILLENNIAL. A prospective test applied retrospectively.**
 
 ---
 

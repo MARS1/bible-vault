@@ -67,7 +67,9 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **27½** | **⚙️ Who Is Alive During and After the Thousand Years?** *(side branch + firewall)* | **[[01h-who-is-alive-during-and-after-the-thousand-years]]** |
 | **28** | "This Age" and "the Age to Come" | [[01i-this-age-and-the-age-to-come]] |
 | **29** | **🔑 Resurrection Before Revelation** | **[[01j-resurrection-before-revelation]]** |
-| **30** | *(next)* Can one "age" end while resurrection remains ahead? | — |
+| **30** | Can One Age End While Bodily Resurrection Remains Ahead? | [[01k-can-an-age-end-while-resurrection-remains-ahead]] |
+| **30½** | **⚙️ "One Taken and One Left"** *(side branch + corrections)* | **[[01l-one-taken-and-one-left]]** |
+| **31** | *(next)* **🔑 Daniel 12, in full — the final Tanakh pressure test** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -987,7 +989,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 29 — 🔑 Resurrection Before Revelation *(current)*
+## Stage 29 — 🔑 Resurrection Before Revelation
 
 **File:** [[01j-resurrection-before-revelation]] · **Scheduled BEFORE Revelation deliberately — so resurrection gets classified before any chronology depends on it.**
 
@@ -1024,7 +1026,77 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 30 — Can One Age End While Bodily Resurrection Remains Ahead? *(current)*
+
+**File:** [[01k-can-an-age-end-while-resurrection-remains-ahead]]
+
+> ### ❗❗ **HEBREWS 9 ANSWERS IT — TWO VERSES APART, SAME AUTHOR, SAME PARAGRAPH.** **9:26** — "he has appeared once for all **at the end of the ages**." **9:28** — "so Christ… **will appear a second time**, not to deal with sin but to save those who are eagerly waiting for him."
+>
+> ### ✅ **THEREFORE "CONSUMMATION OF THE AGES" LANGUAGE DOES NOT NECESSARILY MEAN EVERY ESCHATOLOGICAL EVENT HAS ALREADY OCCURRED.** **Not proof of AD 70 — but the exact distinction Stage 30 set out to test, and the demonstration is a single paragraph rather than a synthesis across authors.**
+
+**🚧 FIRST BRAKE HELD: Matthew's συντέλεια τοῦ αἰῶνος and Paul's τὸ τέλος are DIFFERENT EXPRESSIONS and may not be equated because English says "end" for both.** **Paul's ultimate *telos* includes the destruction of death (1 Cor 15:26) — so if the two are identical, a first-century consummation becomes extremely difficult.**
+
+**🔑 LUKE 4 — AND SHARPER THAN THE TRANCHE CLAIMED: Yeshua stopped MID-VERSE. Isaiah 61:2 contains BOTH "the year of the LORD's favor" AND "the day of vengeance of our God." He read the first clause, ROLLED UP THE SCROLL, and said "Today this Scripture has been fulfilled."** **Partial/progressive fulfilment established at a finer grain than "he stopped before the next passage" — the category is BIBLICAL, though its application to Matthew 13 is not thereby established.**
+
+**🆕 GLOSSARY: prophetic compression** — *events separated by historical intervals may be depicted together in one visionary scene because the prophecy emphasizes theological relationship rather than supplying an interval map.* **⚠️ WITH THE BRAKE STATED AT THE MOMENT OF INTRODUCTION: compression MAY NOT be invoked every time chronology becomes inconvenient. A tool, NOT an escape hatch — and this project's own hypothesis benefits from it, which is exactly when the rule is most needed.**
+
+**⚖️ AND MATTHEW 13 STILL COMPLICATES IT: angels · separation · fiery judgment · righteous shining sounds BIGGER than "Temple administration changed." If the first century is the horizon, THE EVENT MUST CARRY REAL JUDICIAL AND ESCHATOLOGICAL WEIGHT — AD 70 may not be reduced to "Romans knocked down a building."**
+
+### 🏷️ LABEL CORRECTION — the position is NOT standard partial preterism
+
+> **STANDARD PARTIAL PRETERISM DOES NOT PLACE ANYONE IN THE LITTLE SEASON.** It generally holds the millennium (or its consummation) still future. **The author retains future final judgment, so NOT full preterism either.**
+>
+> ### **WORKING LABEL ADOPTED: POST-MILLENNIAL LITTLE-SEASON HYPOTHESIS**, on a **strong first-century fulfilment framework.** *first-century fulfilment → first resurrection/gathering → thousand-year reign ACTUALLY OCCURRED → Satan released → PRESENT LITTLE SEASON → final judgment still future.*
+>
+> ### **AND WHAT IT BUYS: because the millennium sits AFTER the first-century crisis, bodily resurrection could occur at the START of that period rather than being equated with Jerusalem's destruction. STAGE 29 DID NOT KILL THE HYPOTHESIS — IT CLARIFIED ITS BURDEN**, itemized as: timing of the first resurrection · identity of those raised · start of the thousand years · what happens during the reign · what marks its end.
+
+**🔑 ZECHARIAH 14:16–19 VERIFIED and made a FORMAL MILLENNIAL CONTROL TEXT (q102).** Details corrected: **Sukkot, not Passover** · **year after year, not twice yearly** · Egypt named. **✅ Established: Zechariah anticipates surviving nations worshipping with Sukkot, Jerusalem, rain. ❌ NOT established: that this scene IS Revelation 20's millennium.** **The objection is REAL once its missing step is supplied — and as stated it was circular: "this hasn't happened because the millennium hasn't; I know the millennium hasn't because this hasn't."**
+
+**🆕 Revelation 6:9–11 verified — martyrs told to rest "until the number… should be complete." INTERTEXTUAL QUESTION INSIDE REVELATION: same group as Revelation 20's first-resurrection rulers? (q103.)**
+
+**🆕 HISTORICAL CORROBORATION TRACK OPENED, with Josephus near the front — to run in PARALLEL once Revelation begins, NEVER ahead of the biblical model.** **⚠️ Josephus is NOT "non-biased": a revolt participant who surrendered to Rome and received Flavian patronage.** **🆕 RULE: REPORT–EVENT DISTINCTION** — *a source can establish that a claim or tradition EXISTED without establishing that the reported EVENT occurred as described.* **Josephus's cloud-armies do NOT prove Matthew 24's "coming on the clouds" was fulfilled.** **🆕 glossary: anecdotal evidence.** **Nicaea (AD 325) recorded as a FIXED MARKER WITH NO ASSIGNED MILLENNIAL POSITION.**
+
+**🆕 TWO RULES: CONSUMMATION–EXHAUSTION DISTINCTION · PROPHETIC-COMPRESSION BRAKE.**
+
+---
+
+## Side Branch 30½ — ⚙️ "One Taken and One Left"
+
+**File:** [[01l-one-taken-and-one-left]] · **Reached for as corroboration; came back as PRESSURE.**
+
+> ### ❗ **FIRST CORRECTION: Yeshua says one is TAKEN and one is LEFT. He does not say one DISAPPEARS. And the context raises: IS THE ONE TAKEN THE SAVED PERSON — OR THE JUDGED ONE?**
+>
+> **Matthew's own analogy: Noah enters the ark → the flood "swept them all away" → "so will be the coming of the Son of Man" → one taken, one left. **In the preceding analogy the ones removed are the WICKED.**
+>
+> ### ❗❗ **AND LUKE MAKES IT SHARPER: the disciples ask "WHERE, LORD?" Yeshua answers: "WHERE THE CORPSE IS, THERE THE VULTURES WILL GATHER." That sounds like JUDGMENT, not transportation of saints to a protected kingdom.**
+
+**🔑 GREEK VERIFIED — AND A PATTERN NOW HIT THREE TIMES: Matthew 24:40's παραλαμβάνεται (3880) and ἀφίεται (863) are BOTH present indicative MIDDLE OR PASSIVE with NO STATED AGENT.** **Same situation as Romans 9:22's κατηρτισμένα (Stage 22) and Acts 13:48's τεταγμένοι (Stage 25½).** **THREE OF THE MOST CONTESTED VERSES IN THE CANON REST ON GRAMMATICALLY UNDETERMINED VOICE, AND NO CAMP CAN CLAIM THE GRAMMAR IN ANY OF THEM (q104).**
+
+**⚠️ MILLSTONE REFINED:** the text says *two women grinding at the mill* (ἀλήθω) — **not two people pushing one giant stone.** Ancient domestic grinding could use a hand mill or rotary quern. **The ordinary-first-century-life observation survives; the caution is decisive: HISTORICALLY SITUATED IMAGERY DOES NOT ESTABLISH HISTORICALLY LIMITED FULFILMENT.** **The STRONG route is structural — audience · discourse structure · demonstratives and time statements · Synoptic parallels — and note the taken/left sayings sit INSIDE the discourse that says "THIS GENERATION."**
+
+**⚠️ SATAN'S BINDING — TWO EXPANSIONS REFUSED:** not *"zero influence of any kind"* · not *"therefore a sinless millennium."* **Genesis 6:5, Mark 7:21–23 and James 1:14 locate evil in the human heart independently of external deception.** → **DEFEATS a common objection: "there was wickedness between AD 300 and 1300, therefore Satan wasn't bound" ASSUMES Revelation defines the binding as the elimination of human sin. IT DOES NOT.**
+
+**🛑 "DARK AGES" CHAIN NOT ATTACHED** — too many unsupported premises, and the label is later historiography applied unevenly to parts of early medieval Europe. **🔑 RESEARCH DESIGN STATED IN ADVANCE INSTEAD: when Revelation yields a candidate range, FREEZE THE BIBLICAL PREDICTION FIRST, then open the historical record and ask what fits, what doesn't, what's silent, what contradicts, what needs special pleading. PREVENTS BROWSING HISTORY UNTIL SOMETHING LOOKS MILLENNIAL.**
+
+**🛑 RUPES NIGRA KEPT MODULAR:** no biblical bridge establishes camp-of-the-saints = Rupes Nigra · Eden = Rupes Nigra · Paul's gathering = transport there · biblical north = concentric centre. **THE MILLENNIUM COULD PROVE PAST EVEN IF RUPES NIGRA IS COMPLETELY WRONG — that independence is worth protecting.**
+
+**⚠️ THREE TRADITIONS DOWNGRADED:** Isaiah 14 explicitly addresses **the king of Babylon** · Ezekiel 28 explicitly addresses **the king of Tyre** · **"Satan was heaven's worship leader" and "instruments in his body" are NOT ESTABLISHED** — later constructions resting on a disputed rendering of Ezekiel 28:13 plus a prior Satan identification. **And *hêlēl* ("shining one") ≠ *hālal* ("praise") — a beautiful-sounding chain whose lexical links are undemonstrated. Same failure mode as *cheirographon* → "Torah."**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 31 — 🔑 DANIEL 12, IN FULL. THE FINAL MAJOR TANAKH PRESSURE TEST BEFORE REVELATION.**
+
+**Not just 12:2–3. The whole chapter:** Michael · unprecedented distress · deliverance of those written in the book · **awakening from the dust** · the wise shining · **sealing the book** · **"the time of the end"** · **"how long?"** · **time, times, and half a time** · the scattering/shattering of the holy people · **1,290 days** · **1,335 days** · Daniel told he will rest and **stand in his allotted place at the end of the days.**
+
+> ### 🔑 **THE CONTRAST TO CARRY IN DELIBERATELY: DANIEL IS TOLD TO *SEAL* THE BOOK UNTIL THE TIME OF THE END. REVELATION IS TOLD *"DO NOT SEAL"* — "THE TIME IS NEAR." That contrast may become enormously important once Revelation opens, and it should be carried in rather than discovered late.**
+
+**Then — and only then — Revelation sequentially from chapter 1, with q95's falsification condition written FIRST.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (29 → 30), Preserved
 
 ### **STAGE 30 — CAN ONE "AGE" END WHILE RESURRECTION REMAINS AHEAD?**
 
