@@ -1598,6 +1598,56 @@ ESV (21): "All day long I have held out my hands to a **disobedient and contrary
 
 ---
 
+## "This Age" and "the Age to Come" (see [[01i-this-age-and-the-age-to-come]])
+
+> Greek: **αἰών** *aiōn* (165) · **τέλος/τέλη** *telos/telē* (5056) · **συντέλεια** *synteleia* (4930) · **οἰκουμένη** *oikoumenē* (3625) · **καταντάω** *katantaō* (2658).
+
+**Matthew 12:32** — the framework, from Yeshua — *(verified Stage 27)*
+"either **in this age** [ἐν τούτῳ τῷ αἰῶνι] or **in the age to come** [ἐν τῷ μέλλοντι]."
+**The second is not merely "the future" — it is THE COMING AGE.**
+
+**Mark 10:29–30** — ESV, VERIFIED
+"…will not fail to receive a hundredfold **now in this time**… and **in the age to come eternal life**."
+*(Luke 18:29–30 parallel — ⚠️ not retrieved, q97.)*
+
+**Luke 20:34–36** — ⚖️ **THE PRESSURE POINT** — ESV, VERIFIED
+"**The sons of this age** marry and are given in marriage, but those who are considered worthy to attain to **that age and to the resurrection from the dead** neither marry nor are given in marriage, **for they cannot die anymore**, because they are equal to angels and are sons of God, **being sons of the resurrection**."
+> ### ❗❗ **THE COMING AGE IS TIED TO RESURRECTION FROM THE DEAD. The age transition CANNOT be reduced to "Temple administration changed." This project may not say "age transition = AD 70" and quietly ignore this.**
+**Note the contrast is *this age* vs *that age* — aiōn → aiōn. NOT this earth vs another earth.**
+
+**Ephesians 1:20–21** — 🔑 already enthroned, still "this age" — ESV, VERIFIED
+"[God] raised him from the dead and **seated him at his right hand** in the heavenly places, far above all rule and authority and power and dominion, and above every name that is named, **not only in this age but also in the one to come**."
+> ### **MESSIAH IS ALREADY ENTHRONED WHILE PAUL STILL CALLS HIS OWN PERIOD "THIS AGE."** Blocks BOTH *"Messiah becomes King only when the coming age begins"* AND *"the resurrection instantly ended the previous age."*
+
+**1 Corinthians 10:11** — 🔑🔑 **APOSTOLIC SELF-LOCATION** — ESV + Greek, VERIFIED
+"these things happened to them as an example, but they were written down for our instruction, **on whom the ends of the ages have come**."
+Greek — VERIFIED BY INTERLINEAR: **τὰ τέλη τῶν αἰώνων** — **τέλη (5056, PLURAL of *telos*)** + **αἰώνων (165, PLURAL of *aiōn*)**. Main verb **κατήντηκεν** *katēntēken* (**2658**) — **PERFECT INDICATIVE ACTIVE**, "have arrived."
+> ### ❗ **PERFECT TENSE — completed action with continuing relevance. AND THE PRONOUN IS *US*.** **Establishes that Paul considered his own generation eschatologically transitional. NOT proof of AD 70.**
+**⚠️ *telē* is the plural of τέλος (5056) — same lexeme as Matthew 24:14's "the end" and Romans 10:4's "end of the law" (q63). THIRD load-bearing appearance. Shared lemma ≠ shared meaning — RECORDED, NOT ARGUED FROM.**
+
+**Hebrews 9:26** — independent convergence — ESV, VERIFIED
+"he has appeared **once for all at the end of the ages** to put away sin by the sacrifice of himself."
+
+**Hebrews 6:4–5** — 🔑 the overlap, from the text — ESV, VERIFIED
+"those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit, and have **tasted the goodness of the word of God and the powers of the age to come**."
+> ### **THE COMING AGE INTRUDES INTO THE PRESENT BEFORE THE PRESENT AGE REACHES ITS CONSUMMATION. An overlap model emerging FROM THE TEXT — not invented to reconcile passages.** → glossary: **inaugurated eschatology** (neither preterist nor futurist).
+
+**Hebrews 2:5** — ⚖️ **AND THIS ONE CUTS AGAINST THE HYPOTHESIS** — ESV + Greek, VERIFIED
+"For it was not to angels that God subjected **the world to come**, of which we are speaking."
+Greek — VERIFIED BY INTERLINEAR: **οἰκουμένην τὴν μέλλουσαν** — **οἰκουμένη, Strong's 3625.** NOT *kosmos*, NOT *aiōn*.
+> ### ❗❗ **THE SAME WORD AS MATTHEW 24:14, ATTACHED TO A *COMING* ORDER.** Stage 25 showed *oikoumenē* need not mean every geographical location on the earth (Luke 2:1, Acts 11:28); **Hebrews shows it can denote a FUTURE order.** **Neither cancels the other — the referent must be determined PER OCCURRENCE. q96, and it feeds q68's scope study.**
+**Connected by Hebrews to Psalm 8 — ⚠️ Psalm 8 / Hebrews 2:6–9 not retrieved, q97.**
+
+**Hebrews 8:13** — 🚧 suggestive, and the brake — *(verified Stage 27)*
+"what is **becoming obsolete and growing old is ready to vanish away**."
+**Fits the age-overlap structure — BUT HEBREWS 8 IS DISCUSSING *COVENANT*, NOT AGES. COVENANT = AGE HAS NOT BEEN ASSERTED. Suggestive ≠ identity.**
+
+**1 Corinthians 15:20–26** — ⚖️ **THE HARD TEST FOR ANY CHRONOLOGY** — ESV, VERIFIED
+"Christ has been raised from the dead, **the firstfruits** of those who have fallen asleep… **each in his own order: Christ the firstfruits, then at his coming those who belong to Christ. Then comes the end**, when he delivers the kingdom to God the Father after destroying every rule and every authority and power. For he must reign until he has put all his enemies under his feet. **The last enemy to be destroyed is death.**"
+> ### ❗❗ **RESURRECTION · COMING · KINGDOM · "THE END" IN ONE STATED ORDER, WITH A STATED FINAL ITEM. Whatever chronology this project builds MUST SURVIVE THIS — possibly a harder test than Daniel 12.**
+
+---
+
 ## Matthew 13 — The Harvest Parables, and *Kosmos* vs *Aiōn* (see [[01g-what-age-is-ending-in-matthew]])
 
 > Greek: **κόσμος** *kosmos* (2889) · **αἰών** *aiōn* (165) · **συντέλεια** *synteleia* (4930).

@@ -598,6 +598,27 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## ⏱️ Inauguration–Consummation Distinction — Run on Every "Already Operative" Promise *(added v2.7)*
+
+> **When Scripture presents a promised reality as ALREADY OPERATIVE while also speaking of its FUTURE COMPLETION, distinguish INAUGURATION from CONSUMMATION.**
+>
+> - **Do NOT infer that because something has BEGUN it has been COMPLETED.**
+> - **Do NOT infer that because consummation remains AHEAD the reality has not genuinely BEGUN.**
+>
+> ### **Determine BOTH from the text.**
+
+**Fourth member of the both-directions family** — Role–Act (v2.2) · Corporate–Individual (v2.5) · Foundation–Continuation (v2.6) · **Inauguration–Consummation** (here). **Each blocks a collapse in both directions, and that symmetry is what makes them usable by either side of a dispute rather than by one.**
+
+### Glossary — inaugurated eschatology
+
+> **The understanding that an eschatological reality has genuinely BEGUN or been inaugurated while aspects of its promised CONSUMMATION remain outstanding. Often summarized "already, but not yet."**
+
+> ### ⚖️ **NEITHER INHERENTLY PRETERIST NOR INHERENTLY FUTURIST.** Both can agree Messiah inaugurated realities before their consummation, **then disagree about WHEN the consummation occurred or will occur** — which is exactly where this investigation sits. **The concept is adopted; no theological system attached to it is.**
+
+*(Worked instance: Stage 28. **Hebrews 6:4–5** — first-century believers had already "tasted… the powers of the age to come," while **Ephesians 1:20–21** still distinguishes "this age" from "the one to come" with Messiah already enthroned. **The overlap emerged from the text rather than being invented to reconcile passages** — which is the whole difference between exegesis and harmonization.)*
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -623,6 +644,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **2.7** | 2026-08-16 | Added the **Inauguration–Consummation Distinction** and the **inaugurated eschatology** glossary entry (Stage 28), with the explicit note that the concept is **neither preterist nor futurist** and is adopted as a distinction only. |
 | **2.6** | 2026-08-16 | Added the **Foundation–Continuation Distinction** (Stage 27) and the **Compatibility–Evidence Distinction** (Side Branch 27½), plus the **deferred historical-hypotheses register** ([[07-deferred-historical-register]]) and its required order of operations: *Bible → textual model → then historical evidence as an independent test.* |
 | **2.5** | 2026-08-16 | **Extended the terminology rule** to bar *global · globally · worldwide* (author instruction; second retroactive pass, 15 further occurrences across 9 files — **including the project's own destination statement, and two phrases introduced by the FIRST terminology pass the same day**). Added the **Corporate–Individual Distinction** and the **Until-Reversal Caution** (Stage 26). |
 | **2.4** | 2026-08-16 | Added the standing **no-globe/globular/planetary terminology rule** (author instruction, applied retroactively across 10 files — **including this document's own Scope Test, which violated it**), the **Equivalent-Scope Burden** (Stage 25), and the **Providence–Inference Boundary** (Stage 25½). |

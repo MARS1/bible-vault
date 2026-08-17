@@ -65,7 +65,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **26** | Matthew 28: The Great Commission in Context | [[01f-matthew-28-the-great-commission-in-context]] |
 | **27** | **🔑 What Age Is Ending in Matthew?** | **[[01g-what-age-is-ending-in-matthew]]** |
 | **27½** | **⚙️ Who Is Alive During and After the Thousand Years?** *(side branch + firewall)* | **[[01h-who-is-alive-during-and-after-the-thousand-years]]** |
-| **28** | *(next)* "This age" and "the age to come" | — |
+| **28** | "This Age" and "the Age to Come" | [[01i-this-age-and-the-age-to-come]] |
+| **29** | *(next)* **🔑 Resurrection Before Revelation** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -903,7 +904,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 27 — 🔑 What Age Is Ending in Matthew? *(current)*
+## Stage 27 — 🔑 What Age Is Ending in Matthew?
 
 **File:** [[01g-what-age-is-ending-in-matthew]] · **This is q86 — the referential half Stage 26 deliberately left open.**
 
@@ -951,7 +952,61 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 28 — "This Age" and "the Age to Come" *(current)*
+
+**File:** [[01i-this-age-and-the-age-to-come]] · **Followed the language rather than deciding beforehand.**
+
+**The two-age framework is NOT peculiar to Matthew:** Mt 12:32 · **Mark 10:30** *"in the age to come eternal life"* · **Luke 20:34–36** · **Ephesians 1:20–21** · **Hebrews 6:4–5, 9:26** — all verified.
+
+**🔑 Ephesians 1:20–21 — MESSIAH IS ALREADY ENTHRONED WHILE PAUL STILL CALLS HIS OWN PERIOD "THIS AGE."** Complicates simplistic timelines **in both directions**: cannot say *"Messiah becomes King only when the coming age begins"* (He is already seated), and cannot say *"the resurrection instantly ended the previous age"* (Paul still distinguishes both after it). **Something has BEGUN without the previous order having reached consummation.**
+
+**🔑🔑 1 Corinthians 10:11 — GREEK VERIFIED: τὰ τέλη τῶν αἰώνων (τέλη = plural of *telos* 5056; αἰώνων = plural of *aiōn* 165), main verb κατήντηκεν (2658) — PERFECT INDICATIVE ACTIVE, "have arrived."** **And the pronoun is *US*.** **Retrieval turned a rhetorical-sounding phrase into a grammatical datum: this is APOSTOLIC SELF-LOCATION — Paul considered his own generation eschatologically transitional. NOT proof of AD 70.** **Hebrews 9:26 converges independently — Messiah appeared "at the end of the ages."**
+
+**🔑 Hebrews 6:4–5 — believers had already "tasted… the POWERS OF THE AGE TO COME." THE COMING AGE INTRUDES INTO THE PRESENT BEFORE THE PRESENT AGE IS CONSUMMATED. An overlap model emerging FROM THE TEXT, not invented to reconcile passages.** → **glossary: inaugurated eschatology**, adopted as a distinction, **explicitly neither preterist nor futurist** — both agree on inauguration and disagree about the timing of consummation, **which is precisely where this investigation sits.**
+
+### ⚖️ AND TWO FINDINGS THAT CUT AGAINST THE HYPOTHESIS — kept at full strength
+
+> ### ❗ **Luke 20:34–36 ties the COMING AGE to "the RESURRECTION FROM THE DEAD," and to those who "cannot die anymore." THE AGE TRANSITION CANNOT BE REDUCED TO "TEMPLE ADMINISTRATION CHANGED." This project may not say "age transition = AD 70" and quietly ignore resurrection.**
+>
+> ### ❗❗ **Hebrews 2:5 — GREEK VERIFIED: οἰκουμένην τὴν μέλλουσαν. THE SAME WORD AS MATTHEW 24:14 (3625), ATTACHED TO A *COMING* ORDER.** **Stage 25 used Luke's census and famine to show *oikoumenē* need not mean every geographical location on the earth. Hebrews now shows it can denote a FUTURE order. Neither cancels the other — together they mean the referent must be determined PER OCCURRENCE. The Universal-Language Scope Test working against the project this time. q96.**
+
+**🚧 BRAKE HELD: Hebrews 8:13's covenant language fits the age-overlap structure beautifully — and Hebrews 8 is discussing COVENANT, not ages. Equating covenant = age would be the cleanest available move and it has NOT been made.**
+
+**⚖️ 1 Corinthians 15:20–26 verified and placed on the table: firstfruits → at his coming those who belong → then the end → "the last enemy to be destroyed is death." RESURRECTION · COMING · KINGDOM · "THE END" IN ONE STATED ORDER. Whatever chronology this project builds must survive it — possibly a harder test than Daniel 12.**
+
+**🆕 METHODOLOGICAL RULE: INAUGURATION–CONSUMMATION DISTINCTION** — *do not infer completion from beginning; do not infer non-beginning from pending completion.* **Fourth member of the both-directions family** (Role–Act · Corporate–Individual · Foundation–Continuation · this).
+
+### 🔗 THE DEPENDENCY CHAIN — recorded because it is itself evidence
+
+> **original question → what did "world" mean? → audience and geography → Israel and the nations → covenant → Torah and New Covenant → Matthew 24 → Danielic judgment language → "end of the age" → and now RESURRECTION.**
+>
+> ### **NOT WANDERING. Each question earned the next. The method is doing the driving, not the hypothesis.**
+
+> ### ❌ **STAGE 28 IS NOT "PRETERISM CONFIRMED."** Established: the two-age framework · apostolic self-location · Messiah already enthroned · powers of the coming age already tasted. **PLAUSIBLE BUT NOT ESTABLISHED: that AD 70 marks the decisive consummation of "this age." MAJOR UNRESOLVED PRESSURE: resurrection.**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 29 — 🔑 RESURRECTION BEFORE REVELATION**
+
+**The anticipated title CHANGED, and the reason is methodological:**
+
+> ### ❗ **If an AD 70 age-ending model is built FIRST and resurrection is postponed, the temptation will be to reinterpret resurrection afterward TO SAVE THE MODEL. That is backwards.**
+
+**So the hardest texts go on the table BEFORE Revelation and BEFORE declaring what the consummation was:**
+
+**Daniel 12 · Matthew 13 · Luke 20 · John 5 · 1 Corinthians 15 · 1 Thessalonians 4** → and only then, eventually, **Revelation 20.**
+
+**May take two stages rather than one. Accepted.**
+
+> ### **If the little-season hypothesis survives THAT before Revelation 20 is ever opened, it will have earned considerable credibility. And if it does not survive, that is exactly what this methodology was built to discover.**
+
+**Carry in:** **q95 — the falsification condition, still to be written BEFORE Revelation 20** · the Inauguration–Consummation Distinction · and the standing refusal to let *"could fit"* become *"does fit."*
+
+---
+
+## Superseded — Previous "Next Stage" Entry (27 → 28), Preserved
 
 ### **STAGE 28 — "THIS AGE" AND "THE AGE TO COME."**
 
