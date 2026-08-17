@@ -62,7 +62,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **24** | Romans 11: Remnant, Grafting, and "All Israel" | [[01c-romans-11-remnant-grafting-and-all-israel]] |
 | **25** | **🔑 Had the Gospel Already Gone "Throughout the World" Before AD 70?** | **[[01d-had-the-gospel-already-gone-throughout-the-world]]** |
 | **25½** | **⚙️ Did Yahweh Know Whom the Apostolic Mission Needed to Reach?** | **[[01e-did-yahweh-know-whom-the-mission-needed-to-reach]]** |
-| **26** | *(next)* Matthew 28 — the Great Commission, read inside Matthew | — |
+| **26** | Matthew 28: The Great Commission in Context | [[01f-matthew-28-the-great-commission-in-context]] |
+| **27** | *(next)* **🔑 What age is ending in Matthew?** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -690,7 +691,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 - **THE ARCHITECTURE MAPPED — 17 steps from the trigger to the final question.** **We did not study Sabbath because we forgot the question: Acts 15 forced Torah, Torah forced covenant, covenant forced *who belongs* — and WE CANNOT DETERMINE WHO RECEIVES A COMMAND UNTIL WE KNOW WHO THE COMMANDED PEOPLE ARE. Linear reasoning with branches, not wandering**
 - **🚧 RUPES NIGRA STAYS DOWNSTREAM.** Required sequence: what Revelation says → what the camp and beloved city ARE → only then compare geographical models. **Otherwise: find an intriguing map → read Revelation through it → find the map in Revelation. Exactly the circularity this methodology exists to prevent.** *And if it survives the harder sequence it becomes MORE interesting*
 - **✍️ Babel/confusion preserved as AUTHOR'S REFLECTION, not exegetical identification** — whether Scripture prophetically identifies later religious fragmentation with "Babylon" is a separate question
-- **🔧 THE DESTINATION RE-STATED AT THE PRECISION THE EVIDENCE SUPPORTS.** ❌ NOT *"we don't have to preach the gospel now"* — too broad, unearned. ✅ **"Does Scripture teach that the prophetic worldwide proclamation associated with 'the end' remains an unfinished commission imposed upon every believer in our present moment?"** **Even a "no" would not mean nobody should evangelize** — Philip evangelizes, teachers teach, the one asked for the reason for his hope answers, parents teach children. **The conclusion would be: we must not manufacture a universal personal ministry obligation from a prophetic commission whose audience, scope and fulfillment belong elsewhere**
+- **🔧 THE DESTINATION RE-STATED AT THE PRECISION THE EVIDENCE SUPPORTS.** ❌ NOT *"we don't have to preach the gospel now"* — too broad, unearned. ✅ **"Does Scripture teach that the prophetic proclamation throughout the earth associated with 'the end' remains an unfinished commission imposed upon every believer in our present moment?"** **Even a "no" would not mean nobody should evangelize** — Philip evangelizes, teachers teach, the one asked for the reason for his hope answers, parents teach children. **The conclusion would be: we must not manufacture a universal personal ministry obligation from a prophetic commission whose audience, scope and fulfillment belong elsewhere**
 
 **→ earns the next question:** the final unresolved premise underneath "the people of God."
 
@@ -798,7 +799,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 25 — 🔑 Had the Gospel Already Gone "Throughout the World" Before AD 70? *(current)*
+## Stage 25 — 🔑 Had the Gospel Already Gone "Throughout the World" Before AD 70?
 
 **File:** [[01d-had-the-gospel-already-gone-throughout-the-world]] · **This is q68. Back to the main question after nine stages of Torah/Israel branches.**
 
@@ -858,7 +859,71 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 26 — Matthew 28: The Great Commission in Context *(current)*
+
+**File:** [[01f-matthew-28-the-great-commission-in-context]] · **The strongest remaining counter-text, run at directly.**
+
+### 📛 TERMINOLOGY EXTENDED by the author at this stage
+> **Also removed: global · globally · worldwide** (same ambiguity). **Better: state the actual scope being claimed rather than reaching for a summarizing adjective.** *(Second retroactive pass — **15 further occurrences across 9 files**, including the project's **OWN DESTINATION STATEMENT**, which read "prophetic worldwide proclamation" and now reads **"prophetic proclamation throughout the earth."** **Two corrected phrases had been INTRODUCED by the first terminology pass the same day** — "global scope" → "world-wide scope" → "reached the nations". **The fix needed fixing.**)*
+
+**🔑 GRAMMAR THAT REORGANIZES THE PASSAGE — VERIFIED:** **πορευθέντες (4198) is an AORIST PARTICIPLE, not the imperative.** The main command is **μαθητεύσατε (3100), aorist imperative active 2nd plural — MAKE DISCIPLES.** *Baptizing* and *teaching* are participles explaining how. **The commission's centre is FORMATION, not travel** — which makes it **broader** than the popular reading and **harder to universalize** as a personal travel mandate.
+
+**Matthew's own development, and it vindicates a position held since Stage 1:** **Matthew 10:5–6** — *"Go nowhere among the Gentiles… go rather to the lost sheep of the house of Israel"* → **Matthew 28:19** — *"all nations" (**πάντα τὰ ἔθνη**, verified)*. **Messiah's death and resurrection stand between them.** **Matthew 10 need not be distorted to defend Matthew 28; Matthew 28 need not be suppressed to preserve Israel's priority.**
+
+**⚖️ AND THE COUNTER-EVIDENCE IS NOT WEAKENED: Matthew 28 genuinely establishes a nations mission. "The apostles were never commissioned beyond Israel" is NOT allowed by this text.** The project's question stays narrower: *does every LATER believer individually inherit the same apostolic commission?*
+
+**The recursive-commission argument was given its strongest form** *(teach them everything → including disciple-making → indefinitely)* **and then bounded:** if *"everything I commanded"* distributed every command identically, **every believer would have to be apostle, prophet, teacher, AND evangelist — which Paul explicitly denies.** → establishes **the community continues making disciples** more readily than **every member carries an identical personal commission.**
+
+### 🔑🔑 THE INTRATEXTUAL SURVEY — ALL FOUR VERIFIED
+
+| Reference | Greek | Strong's | Context |
+|---|---|---|---|
+| **Matthew 13:39** | συντέλεια αἰῶνός | **4930 + 165** | weeds — harvest, reapers |
+| **Matthew 13:49** | τῇ συντελείᾳ τοῦ αἰῶνος | **4930 + 165** | net — separation |
+| **Matthew 24:3** | συντέλεια τοῦ αἰῶνος | **4930 + 165** | the Olivet question |
+| **Matthew 28:20** | ἕως τῆς συντελείας τοῦ αἰῶνος | **4930 + 165** | **the Commission's DURATION** |
+
+> ### ❗❗ **ALL FOUR ARE THE SAME MATTHEW-DISTINCTIVE PHRASE. The Great Commission's own duration clause is expressed in Matthew's age-consummation vocabulary, not in generic language.** **Invisible in English, where older renderings give 13:39 "end of the world" and 24:3/28:20 "end of the age."**
+>
+> ### 🚧 **BUT: IDENTICAL PHRASING ≠ IDENTICAL REFERENT — the same brake that killed the Stage 23 bridge.** **The LEXICAL half of q85 is CLOSED. The REFERENTIAL half is OPEN and is Stage 27.**
+>
+> ### **CONSEQUENCE: if Matthew's συντέλεια τοῦ αἰῶνος denotes one horizon, the Commission's DURATION and Matthew 24's TIMING are the same question — making q77 ("which age?") the hinge of BOTH branches at once.**
+
+**🆕 *τηρεῖν* (5083) verified — discipleship includes OBEDIENCE.** **Intratextual control on Matthew as a whole: 5:17 opens with *not abolish but fulfil*; 28:20 closes with *observe everything I commanded*. Matthew does not present grace as "no commands."** **And calling Matthew 28 "the command to evangelize" is NARROWER THAN THE TEXT** — evangelism is part of the process, not the whole commission.
+
+**🆕 Reach ≠ response.** *"Make disciples of all nations"* does not require converting every member of every people; Acts' outcome is mixed. **Apostolic completeness is compatible with rejection** — converging with the Romans 15 model (Stage 25).
+
+**🆕 TWO METHODOLOGICAL RULES: Corporate–Individual Distinction · Until-Reversal Caution.** The second was written **before** Stage 27, deliberately: *"until X" guarantees continuation THROUGH X and does NOT establish reversal after it.* **It blocks a careless PRETERIST inference ("Messiah's presence simply stops"), not a futurist one.** Second occurrence of this need — Romans 11:25's *achri hou* was the first.
+
+**Original question now cleanly THREE:** **ecclesial** (community's continuing disciple-making — strong YES) · **individual-vocational** (every believer an evangelist — Paul points strongly NO) · **eschatological** (was the first-century proclamation to the nations tied to an age-ending event already occurred — **STILL OPEN**).
+
+> ### **NOT ESTABLISHED, BOTH DIRECTIONS: that Matthew 28's commission ENDED at AD 70, or that it CONTINUES unchanged in apostolic form for every later age. Neither assumed. The chronology decides.**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 27 — 🔑 WHAT AGE IS ENDING IN MATTHEW?**
+
+> **The surgical question — now the hinge of TWO branches at once: the preterist timeline AND the Great Commission's duration.**
+
+| Reference | To be examined |
+|---|---|
+| **Matthew 13:39–43** | weeds — harvest, angels, furnace |
+| **Matthew 13:47–50** | net — separation of evil from righteous |
+| **Matthew 24:3** | the question, against **24:34's "this generation"** |
+| **Matthew 28:20** | the Commission's duration |
+
+> ### **If these consistently point to ONE horizon, Matthew 28:20's "until" runs to whatever Matthew 24 describes.**
+> ### **AND IF THEY DO NOT, THE PRETERIST HYPOTHESIS MUST ABSORB THAT EVIDENCE — stated in advance, before the survey, so the result cannot be tuned.**
+
+**Carry in:** the **Until-Reversal Caution** · **identical phrasing ≠ identical referent** · and **q77**, now load-bearing for the Commission as well as the timeline.
+
+**This returns the investigation to the core preterist chronology without losing the Great Commission thread — exactly where Stage 21½ said it needed to end up.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (25 → 26), Preserved
 
 ### **STAGE 26 — MATTHEW 28:16–20. THE GREAT COMMISSION, READ INSIDE MATTHEW.**
 

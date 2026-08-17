@@ -432,7 +432,7 @@ Both added to `00-methodology-current.md` and `00b-biblical-epistemology.md`.
 
 ## 23. Where This Leaves the Original Question
 
-**The project's original question** — *is the prophetic worldwide proclamation associated with "the end" an unfinished commission imposed on every believer now?* — is now split cleanly into two by this stage:
+**The project's original question** — *is the prophetic proclamation throughout the earth associated with "the end" an unfinished commission imposed on every believer now?* — is now split cleanly into two by this stage:
 
 1. **Is every believer the herald?** Romans 10 gives a real answer: **the chain runs through sending, and Scripture differentiates ministries.** Not established that every believer holds the office; not established that ordinary witness is excused.
 2. **Was the predicted proclamation completed in the first century?** Romans 10:18 says Israel **heard**. But §13 shows Paul's universal phrasing is **quoted**, not surveyed. **q68 now carries this question**, and it must be answered from authors' own scope words.

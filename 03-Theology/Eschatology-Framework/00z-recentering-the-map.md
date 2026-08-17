@@ -45,7 +45,7 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[00-index]], [[0
 
 **With the author's own qualification, which must survive to the conclusion:**
 
-> **"I am not saying that I have no responsibility to bear witness to Yeshua. I am asking whether Scripture establishes that every member of Messiah's body possesses the particular calling or ministry of an evangelist, and whether the global proclamation texts commonly invoked today actually address our present historical moment."**
+> **"I am not saying that I have no responsibility to bear witness to Yeshua. I am asking whether Scripture establishes that every member of Messiah's body possesses the particular calling or ministry of an evangelist, and whether the texts about proclamation to the nations commonly invoked today actually address our present historical moment."**
 
 **Two different questions live inside that.**
 
@@ -225,7 +225,7 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[00-index]], [[0
 > ### ❌ **The final thesis must NOT be: "We don't have to preach the gospel now."** **Too broad, and the evidence has not earned it.**
 
 > ### ✅ **The question actually being approached:**
-> ### **Does Scripture teach that the prophetic worldwide proclamation associated with "the end" remains an unfinished commission imposed upon every believer in our present historical moment?**
+> ### **Does Scripture teach that the prophetic proclamation throughout the earth associated with "the end" remains an unfinished commission imposed upon every believer in our present historical moment?**
 
 **Because even if the eventual conclusion is *"no — the Matthew 24:14 proclamation was fulfilled within the eschatological horizon Yeshua identified,"* it would NOT follow that nobody today should evangelize.**
 

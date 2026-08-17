@@ -357,7 +357,7 @@ Established branches: **Daniel 2 / Rupes Nigra** (Stage 13) · **Leviticus 16 / 
 
 **Same discipline for identity labels:** **text → synthesis → label**, never label → text. *("Messianic Israelite" is shorthand at most, not a thesis.)*
 
-**And the destination, stated at the precision the evidence supports:** ❌ not *"we don't have to preach the gospel now"* — ✅ **"does Scripture teach that the prophetic worldwide proclamation associated with 'the end' remains an unfinished commission imposed upon every believer in our present moment?"** **Claim only what has been demonstrated.** Full statement: [[00z-recentering-the-map]].
+**And the destination, stated at the precision the evidence supports:** ❌ not *"we don't have to preach the gospel now"* — ✅ **"does Scripture teach that the prophetic proclamation throughout the earth associated with 'the end' remains an unfinished commission imposed upon every believer in our present moment?"** **Claim only what has been demonstrated.** Full statement: [[00z-recentering-the-map]].
 
 ## 📦 Unabridged Research Preservation (ADR-0010) *(added v2.1)*
 
@@ -487,7 +487,9 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ## 📛 Terminology — No Globe / Globular / Planetary Language *(added v2.4, standing author instruction)*
 
-> ### **Write *earth · land · world · inhabited world · creation* according to what the underlying biblical term actually says. NEVER "globe," "globular," "planetary," or "planet Earth."**
+> ### **Write *earth · land · world · inhabited world · creation* according to what the underlying biblical term actually says. NEVER "globe," "global," "globally," "globular," "planet," "planetary," "planet Earth" — or "worldwide," which creates the same ambiguity.** *(extended v2.5)*
+>
+> ### **Better still: STATE THE ACTUAL SCOPE BEING CLAIMED rather than reaching for a summarizing adjective.**
 
 **Not a cosmological position — exegetical hygiene.** Those words import a frame *gē*, *kosmos*, *oikoumenē*, *ktisis*, and *aiōn* do not carry, **and importing it decides the scope question before the investigation runs.**
 
@@ -528,6 +530,37 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 👥 Corporate–Individual Distinction — Run on Every Command Given to a Group *(added v2.5)*
+
+> **A command given to a covenant community or an apostolic body may establish a continuing COMMUNAL mission without requiring every member to perform every function identically.**
+
+> ### **TEST INDIVIDUAL OBLIGATION SEPARATELY FROM CORPORATE VOCATION.**
+
+**Companion to the Role–Act Distinction (v2.2):** *that* rule separates **performing an act** from **holding an office**; **this one separates a body's mission from a member's obligation.** Together they cover both directions of the same collapse.
+
+*(Worked instance: Stage 26 §9–§10. If Matthew 28:20's *"teach them everything I commanded you"* distributed every command identically, **every believer would have to be apostle, prophet, teacher AND evangelist — which 1 Corinthians 12:29 explicitly denies.** The recursive-commission argument therefore establishes that **the community continues making disciples** more readily than that **every member carries an identical personal commission.**)*
+
+---
+
+## ⏳ Until-Reversal Caution — Run on Every "Until" *(added v2.5)*
+
+> **A statement that something continues "until" a specified point guarantees continuation THROUGH that point. It does NOT by itself establish cessation or reversal afterward.**
+
+> ### **Any post-terminal change must be demonstrated INDEPENDENTLY.**
+
+*"I will protect you until you arrive home"* does not imply *"then I will attack you."*
+
+**Two occurrences already, and they were about to be over-read in OPPOSITE directions:**
+
+| Text | Word | The over-reading it blocks |
+|---|---|---|
+| **Romans 11:25** (Stage 24) | **ἄχρι οὗ** *achri hou* | *"Israel's hardening simply ends"* |
+| **Matthew 28:20** (Stage 26) | **ἕως** *heōs* | *"Messiah's presence simply stops"* |
+
+> ### **Note the second blocks a careless PRETERIST inference, not a futurist one. Written BEFORE Stage 27, deliberately, so it cannot be tuned once the answer matters.**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -544,7 +577,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 - **A failed retrieval is a finding, not an inconvenience.** Record **VERIFICATION FAILED** with the reason and the exact step required to complete it. *(Worked instance: 1 Enoch, HTTP 403, Stage 16 §21.)*
 - **❗ A SUCCESSFUL retrieval is not automatically a verification.** *(added v2.2)* **Read what actually came back.** An index/TOC page, a translation-only page, or the wrong chapter all return **HTTP 200 with real content that is not the content needed.** *(Worked instance: Stage 23 §19 — the LXX Psalm 18:5 verification failed on FOUR sources before succeeding on the fifth. **Two of those four failures returned HTTP 200**: one served Brenton's English instead of Greek, one served the wrong psalm. Stopping at "the request succeeded" would have recorded a false verification; stopping at the first 404 would have recorded a false failure — **and the stage's single most important finding, which WEAKENED a bridge this project wanted, would never have been discovered.**)*
 - **Never assert an external source's content from conversational report alone.** Mark it **REPORTED — NOT VERIFIED** and name what would verify it.
-- **Static-analysis language discipline** (global rule): for anything derived from reading rather than observing, say **"traced"** or **"the text would mean X if"** — never "confirmed."
+- **Static-analysis language discipline** (project-wide rule): for anything derived from reading rather than observing, say **"traced"** or **"the text would mean X if"** — never "confirmed."
 
 ---
 
@@ -553,6 +586,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **2.5** | 2026-08-16 | **Extended the terminology rule** to bar *global · globally · worldwide* (author instruction; second retroactive pass, 15 further occurrences across 9 files — **including the project's own destination statement, and two phrases introduced by the FIRST terminology pass the same day**). Added the **Corporate–Individual Distinction** and the **Until-Reversal Caution** (Stage 26). |
 | **2.4** | 2026-08-16 | Added the standing **no-globe/globular/planetary terminology rule** (author instruction, applied retroactively across 10 files — **including this document's own Scope Test, which violated it**), the **Equivalent-Scope Burden** (Stage 25), and the **Providence–Inference Boundary** (Stage 25½). |
 | **2.3** | 2026-08-16 | Added **Question–Answer Canonical Control**, **Metaphor Preservation**, **Quotation Behavior Is Per-Quotation**, and the **separated divergence tallies** (Stage 24). The quotation rule exists because Stages 23 and 24 produced **opposite** results from the same author two chapters apart — either generalization would have been false. |
 | **2.2** | 2026-08-16 | Added the **Role–Act Distinction** and the **Universal-Language Scope Test** (Stage 23), the latter's **clause (c) — "whose word is it?"** — written deliberately *before* the Matthew 24:14 study so it cannot be tuned later. Added to Verification Honesty: **a successful retrieval is not automatically a verification** (HTTP 200 with real-but-wrong content, Stage 23 §19). |

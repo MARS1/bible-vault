@@ -61,7 +61,7 @@ Israel's **dispersion** is described in four-winds-of-heaven language. Matthew d
 
 **Three components now have solid Tanakh precedent:**
 - **gathering** → scattered covenant people (Deuteronomy 30, Isaiah 11, 43)
-- **four winds / four corners** → worldwide dispersion (Zechariah 2:6, Isaiah 11:12)
+- **four winds / four corners** → dispersion throughout the earth (Zechariah 2:6, Isaiah 11:12)
 - **trumpet** → restoration and regathering (Isaiah 27:13)
 
 ## 6. Who Are "the Elect"?

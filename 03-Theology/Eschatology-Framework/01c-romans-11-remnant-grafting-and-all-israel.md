@@ -357,7 +357,7 @@ If used personally, it should mean something like:
 
 **Israel's stumbling → Gentile inclusion → Israel provoked to jealousy → mercy/restoration**
 
-> ### **This may matter at Matthew 24. A first-century proclamation whose stated purpose includes provoking Israel is a different object than a generic global-evangelization mandate — and the two would be tested differently.**
+> ### **This may matter at Matthew 24. A first-century proclamation whose stated purpose includes provoking Israel is a different object than a generic mandate to evangelize all nations — and the two would be tested differently.**
 
 **Recorded as a consideration, not an argument. Open question q73 carries the *plērōma* half of it.**
 

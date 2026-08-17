@@ -1598,6 +1598,56 @@ ESV (21): "All day long I have held out my hands to a **disobedient and contrary
 
 ---
 
+## Matthew 28 — The Great Commission, and the συντέλεια Survey (see [[01f-matthew-28-the-great-commission-in-context]])
+
+> Greek: **πορευθέντες** *poreuthentes* (4198, **aorist participle**) · **μαθητεύσατε** *mathēteusate* (3100, **aorist imperative active 2P — THE MAIN VERB**) · **πάντα τὰ ἔθνη** *panta ta ethnē* (3956+3588+1484) · **τηρεῖν** *tērein* (5083, pres. inf. act.) · **ἕως τῆς συντελείας τοῦ αἰῶνος** (2193 + **4930** + **165**).
+
+**Matthew 28:16** — who receives it
+ESV: "**The eleven disciples** went to Galilee, to the mountain to which Jesus had directed them."
+**The immediate recipients are the eleven — not an undefined crowd of all future believers.**
+
+**Matthew 28:18** — the commission flows from enthronement
+ESV: "**All authority in heaven and on earth has been given to me.**"
+
+**Matthew 28:19** — ⚠️ **"GO" IS NOT THE MAIN VERB** — VERIFIED BY INTERLINEAR
+ESV: "**Go therefore and make disciples of all nations**, baptizing them in the name of the Father and of the Son and of the Holy Spirit."
+| Word | Strong's | Parsing |
+|---|---|---|
+| **πορευθέντες** | 4198 | **AORIST PARTICIPLE** — "having gone/going" |
+| **μαθητεύσατε** | **3100** | **AORIST IMPERATIVE ACTIVE, 2nd plural — THE MAIN COMMAND** |
+| **βαπτίζοντες** | 907 | participle — *baptizing* |
+| **διδάσκοντες** | 1321 | participle — *teaching* |
+**❗ The commission's centre is FORMATION, not travel: proclamation → baptism → teaching → obedience. This is BROADER than "the command to evangelize" and HARDER to universalize as a personal travel mandate.**
+
+**Matthew 10:5–6** — the earlier, restricted mission *(⚠️ not retrieved this pass — q88)*
+"**Go nowhere among the Gentiles** and enter no town of the Samaritans, but **go rather to the lost sheep of the house of Israel**."
+**❗ MATTHEW'S OWN DEVELOPMENT: Matthew 10 = Israel only → Matthew 28 = all nations. Messiah's death and resurrection stand between them. Neither passage need be distorted to protect the other.**
+
+**Matthew 28:20a** — discipleship includes obedience
+ESV: "**teaching them to observe all that I have commanded you**."
+Greek — VERIFIED: **τηρεῖν** *tērein*, **5083**, present infinitive active — *keep / observe / guard*.
+**Intratextual control on Matthew as a whole: 5:17 opens with *not abolish but fulfil*; 28:20 closes with *observe everything I commanded*. Matthew does not present grace as "no commands."**
+
+### 🔑🔑 Matthew 28:20b — and the four-occurrence συντέλεια survey, ALL VERIFIED
+
+ESV: "**And behold, I am with you always, to the end of the age.**"
+Greek — VERIFIED: **ἕως τῆς συντελείας τοῦ αἰῶνος** — *heōs* (2193) + **συντελείας (4930)** + **αἰῶνος (165)**.
+
+| Reference | Greek | Strong's | Context |
+|---|---|---|---|
+| **Matthew 13:39** | συντέλεια αἰῶνός | **4930 + 165** | weeds — harvest, angels as reapers |
+| **Matthew 13:49** | τῇ συντελείᾳ τοῦ αἰῶνος | **4930 + 165** | net — angels separate evil from righteous |
+| **Matthew 24:3** | συντέλεια τοῦ αἰῶνος | **4930 + 165** | the disciples' Olivet question |
+| **Matthew 28:20** | ἕως τῆς **συντελείας τοῦ αἰῶνος** | **4930 + 165** | **the Commission's DURATION** |
+
+> ### ❗❗ **ALL FOUR ARE THE SAME MATTHEW-DISTINCTIVE PHRASE.** **Invisible in English**, where older renderings give 13:39 "end of the world" against 24:3/28:20 "end of the age."
+> ### 🚧 **LEXICAL half of q85 CLOSED. REFERENTIAL half OPEN (q86) — IDENTICAL PHRASING ≠ IDENTICAL REFERENT.**
+> ### **If the four denote one horizon, Matthew 28:20's "until" runs to whatever Matthew 24 describes — making q77 the hinge of BOTH the timeline AND the Commission.**
+
+**⏳ AND THE GUARD, written before the answer is known:** *"until X"* guarantees continuation **through** X; it does **not** establish cessation or reversal after it. **Blocks a careless PRETERIST inference here, not a futurist one.**
+
+---
+
 ## 🔑 The Scope-Term Corpus — *Oikoumenē* / *Kosmos* / *Ktisis* / *Gē* / *Aiōn* (see [[01d-had-the-gospel-already-gone-throughout-the-world]])
 
 > **📛 TERMINOLOGY: this study writes earth · land · world · inhabited world · creation per the underlying term. No globe, globular, or planetary language.**
