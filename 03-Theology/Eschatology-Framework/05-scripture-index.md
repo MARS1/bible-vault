@@ -1598,6 +1598,47 @@ ESV (21): "All day long I have held out my hands to a **disobedient and contrary
 
 ---
 
+## Resurrection — the Taxonomy Corpus (see [[01j-resurrection-before-revelation]])
+
+> Greek: **μνημεῖον** *mnēmeion* (3419, tombs) · **σῶμα πνευματικόν** *sōma pneumatikon* · **ἀπάντησις** *apantēsis* (529).
+> **Taxonomy: A** literal bodily · **B** spiritual/regeneration · **C** corporate/national · **D** martyr vindication *(not established as resurrection meaning)* · **E** final judgment.
+
+**John 5:24–29** — 🔑 **THE AUTHOR-INTERNAL CONTROL** — ESV + Greek, VERIFIED
+ESV (24): "whoever hears my word and believes him who sent me **has eternal life**… but **has passed from death to life**." → **CATEGORY B**
+ESV (25): "an hour is coming, **and is now here**, when the dead will hear the voice of the Son of God, and those who hear will live." → **CATEGORY B**
+ESV (28–29): "an hour is coming" — **NO 'and is now here'** — "when **all who are in the tombs** will hear his voice **and come out**, those who have done good to the **resurrection of life**, and those who have done evil to the **resurrection of judgment**." → **CATEGORY A / E**
+Greek — VERIFIED: **μνημείοις** *mnēmeiois*, **Strong's 3419**, dative neuter plural — **tombs / memorial monuments.**
+> ### ❗❗ **JOHN ADDS "AND IS NOW HERE" TO v25 AND OMITS IT FROM v28. THE AUTHOR MARKS THE DIFFERENCE HIMSELF.** **Spiritual-resurrection language may NOT be used to erase bodily-resurrection language — both exist in one chapter, distinguished by that author.** **Close parallel to Daniel 12: dead → raised → life/judgment.**
+
+**1 Corinthians 15:42–44** — the transformation contrast — ESV, VERIFIED
+"What is sown is **perishable**; what is raised is **imperishable**… sown in **dishonor**, raised in **glory**… sown in **weakness**, raised in **power**… sown a **natural body**; it is raised a **spiritual body**." → **CATEGORY A**
+> ### **σῶμα πνευματικόν — Paul still says *sōma*. "Spiritual" describes the body's MODE, SOURCE, or ORDER — not immateriality. The phrase does not mean "non-body."**
+
+**1 Corinthians 15:50–54** — ⚖️ **THE OBJECTION, ANSWERED BY PAUL'S NEXT SENTENCES** — ESV, VERIFIED
+15:50: "**flesh and blood cannot inherit the kingdom of God**, nor does the perishable inherit the imperishable."
+15:51–52: "**We shall not all sleep, but we shall all be changed**, in a moment, in the twinkling of an eye, **at the last trumpet**… the dead will be raised imperishable, and we shall be changed."
+15:53: "For **this perishable body must put on the imperishable, and this mortal body must put on immortality**."
+15:54: "**Death is swallowed up in victory.**"
+> ### ❗❗ **PAUL DOES NOT SAY BODIES ARE DISCARDED. The perishable PUTS ON imperishable; the mortal PUTS ON immortality. TRANSFORMATION, NOT ABANDONMENT.** **Read alone, 15:50 appears to weigh against bodily resurrection; read with 15:51–53 it does the opposite. Contextual Question Principle.**
+
+**1 Thessalonians 4:16–17** — ⚠️ ESV not retrieved (q101); Greek VERIFIED
+"**the dead in Christ will rise first**"… living believers "**caught up together with them** to meet the Lord." → **CATEGORY A**
+Greek — VERIFIED: **ἀπάντησιν** *apantēsin*, **Strong's 529** — "a meeting" (from *apantaō*).
+**🔖 BOOKMARKED, NOT SETTLED (q99): some argue the term evokes citizens going out to meet an arriving dignitary AND ESCORTING HIM BACK. Others caution against a rigid rule from few usages. The resurrection itself remains explicit either way.**
+
+**Daniel 12:2** *(verified Stage 27)* → **CATEGORY A / E** — sleep in dust · awake · two destinies · **Hebrew רַבִּים *rabbim*, "many," not "all"**
+**Matthew 13:43** *(verified Stage 27)* — "the righteous will **shine like the sun**" — **echoes Daniel 12:3; Matthew's harvest may draw on Danielic resurrection/judgment language, so Matthew 13 may not be read as merely institutional covenant transfer**
+**Luke 20:34–36** *(verified Stage 28)* → **CATEGORY A** — "that age **and the resurrection from the dead**"… "**cannot die anymore**"… "**sons of the resurrection**"
+**1 Corinthians 15:20–26** *(verified Stage 28)* — firstfruits → at his coming those who belong → **then the end** → "**the last enemy to be destroyed is death**"
+**Revelation 20:4–6** *(verified Side Branch 27½)* → ⏳ **DELIBERATELY UNCLASSIFIED — that is what reading Revelation sequentially is for**
+**Ezekiel 37** — ⚠️ NOT RETRIEVED (q101) — the corporate-resurrection control needed to classify **category C** properly
+
+> ### 🚧 **RESONANCE IS NOT EQUIVALENCE: Luke 20:36's "cannot die anymore" and Revelation 20:6's "the second death has no power" resonate — Luke speaks of INABILITY TO DIE, Revelation specifically of THE SECOND DEATH. Preserved as distinct.**
+
+> ### 🚧 **THE STAGING PUZZLE, STATED NOT SOLVED: Daniel's "MANY awake" · John's "ALL who are in the tombs" · Revelation's first resurrection → "the rest of the dead." Do Daniel and John compress multiple moments into one prophetic scene? Does Revelation's "first resurrection" mean something qualitatively different? Or is the sequence being misunderstood? Postponed until Revelation is read from chapter 1.**
+
+---
+
 ## "This Age" and "the Age to Come" (see [[01i-this-age-and-the-age-to-come]])
 
 > Greek: **αἰών** *aiōn* (165) · **τέλος/τέλη** *telos/telē* (5056) · **συντέλεια** *synteleia* (4930) · **οἰκουμένη** *oikoumenē* (3625) · **καταντάω** *katantaō* (2658).

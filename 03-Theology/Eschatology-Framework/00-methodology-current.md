@@ -619,6 +619,45 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 🪦 Metaphorical–Bodily Distinction — Run on Every Resurrection Text *(added v2.8)*
+
+> **Because Scripture CAN use death and resurrection imagery metaphorically, the existence of metaphorical resurrection language does NOT automatically redefine texts that explicitly describe tombs, dust, bodies, mortality, or coming forth from the dead.**
+>
+> ### **Classify each passage by ITS OWN markers before harmonizing.**
+
+**The warrant is author-internal:** *(Stage 29 §4)* **John 5:25 says "an hour is coming, AND IS NOW HERE" — John 5:28 says "an hour is coming" and OMITS the clause, then specifies "all who are in the TOMBS" (μνημείοις, 3419).** **John distinguishes spiritual from bodily resurrection himself, in one discourse. No external framework is required — and the distinction is visible only if the passage is read rather than the proof-text.**
+
+---
+
+## 🔒 Category-Lock — Run Before Any Synthesis on a Multi-Sense Term *(added v2.8)*
+
+> **When a doctrine depends on a term Scripture uses in MULTIPLE SENSES — death · resurrection · Israel · world · law · age — classify EACH OCCURRENCE INDEPENDENTLY before synthesis.**
+>
+> ### **Do NOT allow a meaning established in one passage to migrate automatically into another merely because the English word is the same.**
+
+**Generalizes what this project has already been forced to do four separate times:**
+
+| Term | Where |
+|---|---|
+| ***Israel*** | Stages 22, 24 |
+| ***world*** — *gē · kosmos · oikoumenē · ktisis* | Stages 23, 25, 28 |
+| ***age*** — *aiōn* vs *kosmos* | Stage 27 |
+| ***resurrection*** | Stage 29 |
+
+### Resurrection taxonomy *(Category-Lock applied — every passage gets a letter before it gets an argument)*
+
+| | Category | Markers |
+|---|---|---|
+| **A** | Literal bodily resurrection, explicitly marked | tombs · dust · bodies · mortality/immortality · "come out" |
+| **B** | Spiritual resurrection / regeneration | passing from death to life **while physically alive** |
+| **C** | Corporate / national resurrection imagery | Ezekiel 37-type restoration of a people |
+| **D** | Martyr vindication / enthronement imagery | **NOT yet established as carrying resurrection meaning** |
+| **E** | Final judgment resurrection | life versus condemnation, both destinies present |
+
+> ### **Revelation 20:4–6 is DELIBERATELY LEFT UNCLASSIFIED. That is what reading Revelation sequentially is for.**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -644,6 +683,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **2.8** | 2026-08-17 | Added the **Metaphorical–Bodily Distinction** and **Category-Lock**, with the **resurrection taxonomy (A–E)** (Stage 29). Category-Lock generalizes four prior forced separations — *Israel*, *world*, *age*, *resurrection*. |
 | **2.7** | 2026-08-16 | Added the **Inauguration–Consummation Distinction** and the **inaugurated eschatology** glossary entry (Stage 28), with the explicit note that the concept is **neither preterist nor futurist** and is adopted as a distinction only. |
 | **2.6** | 2026-08-16 | Added the **Foundation–Continuation Distinction** (Stage 27) and the **Compatibility–Evidence Distinction** (Side Branch 27½), plus the **deferred historical-hypotheses register** ([[07-deferred-historical-register]]) and its required order of operations: *Bible → textual model → then historical evidence as an independent test.* |
 | **2.5** | 2026-08-16 | **Extended the terminology rule** to bar *global · globally · worldwide* (author instruction; second retroactive pass, 15 further occurrences across 9 files — **including the project's own destination statement, and two phrases introduced by the FIRST terminology pass the same day**). Added the **Corporate–Individual Distinction** and the **Until-Reversal Caution** (Stage 26). |

@@ -66,7 +66,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **27** | **🔑 What Age Is Ending in Matthew?** | **[[01g-what-age-is-ending-in-matthew]]** |
 | **27½** | **⚙️ Who Is Alive During and After the Thousand Years?** *(side branch + firewall)* | **[[01h-who-is-alive-during-and-after-the-thousand-years]]** |
 | **28** | "This Age" and "the Age to Come" | [[01i-this-age-and-the-age-to-come]] |
-| **29** | *(next)* **🔑 Resurrection Before Revelation** | — |
+| **29** | **🔑 Resurrection Before Revelation** | **[[01j-resurrection-before-revelation]]** |
+| **30** | *(next)* Can one "age" end while resurrection remains ahead? | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -952,7 +953,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 28 — "This Age" and "the Age to Come" *(current)*
+## Stage 28 — "This Age" and "the Age to Come"
 
 **File:** [[01i-this-age-and-the-age-to-come]] · **Followed the language rather than deciding beforehand.**
 
@@ -986,7 +987,65 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 29 — 🔑 Resurrection Before Revelation *(current)*
+
+**File:** [[01j-resurrection-before-revelation]] · **Scheduled BEFORE Revelation deliberately — so resurrection gets classified before any chronology depends on it.**
+
+> ### ❗ **THE CIRCULARITY THIS PREVENTS: if the little-season hypothesis required redefining resurrection only AFTER encountering the resurrection texts, then the hypothesis — not the texts — would have to give way.**
+
+### 🔑 JOHN 5 — AND JOHN MARKS THE DISTINCTION HIMSELF
+
+| | v24–25 | v28–29 |
+|---|---|---|
+| timing marker | **"an hour is coming, AND IS NOW HERE"** | **"an hour is coming"** — clause ABSENT |
+| subject | "the dead" | **"all who are in the TOMBS"** — **μνημείοις, 3419, verified** |
+| action | hear and **live** | hear and **come out** |
+| category | **ALREADY** — passed from death to life | **STILL COMING** — resurrection of life / of judgment |
+
+> ### ❗❗ **THE AUTHOR SEPARATES SPIRITUAL FROM BODILY RESURRECTION IN ONE DISCOURSE. No external framework needed — and the separation is visible ONLY if you read the passage rather than the proof-text.** → **new rule: METAPHORICAL–BODILY DISTINCTION** — metaphorical resurrection language does not automatically redefine texts marked by tombs, dust, bodies, mortality.
+
+**⚖️ AND THE "FLESH AND BLOOD" OBJECTION COLLAPSED ON RETRIEVAL TOO:** 1 Cor 15:50 read alone appears to weigh against bodily resurrection; **Paul's own next sentences (15:51–53) say the perishable PUTS ON imperishable and the mortal PUTS ON immortality. TRANSFORMATION, NOT ABANDONMENT.** **And 15:44's σῶμα πνευματικόν still says *sōma* — "spiritual" describes mode, not immateriality.**
+
+**⚖️ PRESSURE PRESERVED, NOT MANAGED:** Daniel 12's *"sleep in the dust → awake → divergent destinies"* · Luke 20's *"cannot die anymore"* · 1 Cor 15's firstfruits continuity with Messiah's own bodily resurrection · *"the last enemy to be destroyed is death"* while ordinary death visibly continues. **Anyone placing Messiah's "coming" entirely in AD 70 must explain the resurrection of those who belong to Him AND the destruction of death.**
+
+**🔑 RESURRECTION TAXONOMY ESTABLISHED (A–E):** literal bodily · spiritual/regeneration · corporate/national (Ezekiel 37-type) · **martyr vindication/enthronement — NOT yet established as carrying resurrection meaning** · final judgment. **Every passage gets a letter before it gets an argument.** **Revelation 20:4–6 DELIBERATELY LEFT UNCLASSIFIED — that is what reading Revelation sequentially is for.**
+
+### ❗❗ THE FALSIFIABILITY REQUIREMENT, STATED BEFORE REVELATION
+
+**A millennium-already-occurred hypothesis survives only if the FIRST RESURRECTION preceding it can be explained. Four possibilities, ALL KEPT LIVE:** (1) a literal bodily resurrection of the martyrs already occurred · (2) "first resurrection" means something else **and Revelation itself supplies the evidence** · (3) the millennium's chronology is not where assumed · **(4) THE BROADER HYPOTHESIS IS WRONG.**
+
+> ### **THIS PROJECT MUST BE WILLING TO LAND ON #4.** **And because bodily resurrection is strongly established elsewhere, a SYMBOLIC first-resurrection reading of Revelation 20 CARRIES A BURDEN OF PROOF — applied to this project's own preferred reading first.**
+
+**🚧 FOUR SATISFYING IDENTIFICATIONS AVAILABLE AND DECLINED:** Daniel's *rabbim* ("many") vs John's "all in the tombs" · Luke's "cannot die anymore" vs Revelation's "second death has no power" *(**resonance, NOT equivalence**)* · the trumpets of 1 Cor 15 / Mt 24 / 1 Thess 4 / Revelation *(**same symbol ≠ same event**)* · ***apantēsis* (529, verified)** — the arriving-dignitary reading **bookmarked, not settled** (q99).
+
+**🆕 METHODOLOGICAL RULE: CATEGORY-LOCK** — *when a doctrine depends on a term Scripture uses in multiple senses (death · resurrection · Israel · world · law · age), classify EACH OCCURRENCE independently before synthesis.* **Generalizes what this project has already been forced to do four times: *Israel* (22, 24) · *world* (23, 25, 28) · *age* (27) · and now *resurrection*.**
+
+> ### ⚖️ **VERDICT: REAL PRESSURE, NOT DESTRUCTION. A first-century consummation model CANNOT simply redefine all resurrection language as covenantal metaphor. The model must distinguish inauguration from later bodily consummation, demonstrate multiple stages from Scripture, OR BE REVISED. Recorded as a CHECKPOINT, not as a difficulty absorbed in passing.**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 30 — CAN ONE "AGE" END WHILE RESURRECTION REMAINS AHEAD?**
+
+**A short bridge before Daniel 12 gets a full stage.**
+
+> **Could the Mosaic/covenantal age reach consummation WHILE bodily resurrection and the final defeat of death remain future relative to that event?**
+
+**Test:** Matthew 13's harvest · Matthew 24's generation · Hebrews' age language · 1 Corinthians 15's *"then the end"* · **and whether Scripture ITSELF distinguishes covenantal consummation from final resurrection.**
+
+> ### **If NO — the first-century age-ending model takes a serious hit.**
+> ### **If YES — Daniel 12 becomes the next major pressure test.**
+>
+> ### **But does Matthew allow it? Does "consummation of the age" in Matthew 13 permit a COVENANTAL harvest without FINAL bodily resurrection? DANIEL 12 PRESSURE SAYS: MAYBE NOT SO EASILY.**
+
+**Then, and only then, Revelation sequentially from chapter 1 — with q95's falsification condition written FIRST.**
+
+**Carry in:** the resurrection taxonomy · Metaphorical–Bodily Distinction · Category-Lock · Inauguration–Consummation Distinction · **and the standing willingness to land on possibility #4.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (28 → 29), Preserved
 
 ### **STAGE 29 — 🔑 RESURRECTION BEFORE REVELATION**
 
