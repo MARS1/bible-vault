@@ -63,7 +63,9 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **25** | **🔑 Had the Gospel Already Gone "Throughout the World" Before AD 70?** | **[[01d-had-the-gospel-already-gone-throughout-the-world]]** |
 | **25½** | **⚙️ Did Yahweh Know Whom the Apostolic Mission Needed to Reach?** | **[[01e-did-yahweh-know-whom-the-mission-needed-to-reach]]** |
 | **26** | Matthew 28: The Great Commission in Context | [[01f-matthew-28-the-great-commission-in-context]] |
-| **27** | *(next)* **🔑 What age is ending in Matthew?** | — |
+| **27** | **🔑 What Age Is Ending in Matthew?** | **[[01g-what-age-is-ending-in-matthew]]** |
+| **27½** | **⚙️ Who Is Alive During and After the Thousand Years?** *(side branch + firewall)* | **[[01h-who-is-alive-during-and-after-the-thousand-years]]** |
+| **28** | *(next)* "This age" and "the age to come" | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -859,7 +861,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 26 — Matthew 28: The Great Commission in Context *(current)*
+## Stage 26 — Matthew 28: The Great Commission in Context
 
 **File:** [[01f-matthew-28-the-great-commission-in-context]] · **The strongest remaining counter-text, run at directly.**
 
@@ -901,7 +903,75 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 27 — 🔑 What Age Is Ending in Matthew? *(current)*
+
+**File:** [[01g-what-age-is-ending-in-matthew]] · **This is q86 — the referential half Stage 26 deliberately left open.**
+
+> ### ❗❗ **THE FINDING, AND IT CAME FROM TWO ADJACENT CLAUSES: Matthew 13:38–39 — *"The field is the **world** [kosmos]… The harvest is the **end of the age** [synteleia tou aiōnos]."* MATTHEW USES BOTH WORDS IN ONE INTERPRETATION AND DOES NOT TREAT THEM AS INTERCHANGEABLE.**
+>
+> **Every argument this project has made about not collapsing *kosmos · oikoumenē · gē · aiōn* now has an AUTHOR-INTERNAL warrant — found by retrieving a passage, not by reasoning about one.**
+
+**Yeshua interprets His own parable, so the symbolism is not guessed:** sower = **Son of Man** · field = ***kosmos*** · good seed = **sons of the kingdom** · weeds = **sons of the evil one** · enemy = **the devil** · **harvest = συντέλεια τοῦ αἰῶνος** · reapers = **angels**.
+
+**⚖️ AND THE JUDGMENT CONTENT IS EVIDENCE AGAINST A THIN READING, KEPT AT FULL STRENGTH:** 13:40–43 gives fiery furnace, angelic gathering, separation, and **"the righteous will shine like the sun."** **13:47–50 repeats the identical shape.** **"End of the age" is NOT merely chronological vocabulary — it carries JUDICIAL and SEPARATIVE content, and a first-century model must EXPLAIN that, not relabel it "symbolic" when convenient.**
+
+**🔑 INTRATEXTUAL CORRESPONDENCE — Matthew 13 vs Matthew 24:** Son of Man · συντέλεια τοῦ αἰῶνος · angels · gathering · separation/judgment · kingdom. **The burden now shifts: anyone proposing two unrelated "ends of the age" inside one Gospel must explain why Matthew keeps surrounding the phrase with the same imagery.** **Note the Equivalent-Scope Burden REVERSED DIRECTION here — at Stage 25 it destroyed a preterist bridge; here it supports one. A rule that only ever helped would be a bias with a rule's name on it.**
+
+**🆕 Matthew 12:32 VERIFIED — *"either in this age or in the age to come."* MATTHEW HIMSELF RECOGNIZES TWO AGES.** → the **overlapping-ages hypothesis** (Tier D, q90): one age ending while another arrives, which would explain how the New Covenant operates **while the Temple still stands**, and why **Hebrews 8:13** uses process language — *"becoming obsolete and growing old and ready to vanish away."* **⚠️ Hebrews' force depends on its DATE — classified POTENTIAL CORROBORATION, DEPENDENT ON DATING (q91).**
+
+**🆕 Daniel 12 verified and then SET DOWN. 12:2's Hebrew is רַבִּים — *rabbim*, "MANY," not "all."** Directly relevant to Revelation 20:5's *"the rest of the dead"* — **and building on it now would be the premature synchronization the method forbids. q89 carries it into Stage 30.**
+
+**🆕 Matthew 13:52's "new and old" DELIBERATELY NOT USED** — the most quotable verse in the chapter for this project's covenant argument, and the most tempting to over-read. **Recorded as resonance, not proof.**
+
+**🔑 THE COHERENT SEQUENCE, ASSEMBLED BUT NOT DECIDED:** Mt 10 Israel-restricted → Mt 13 harvest at the consummation → Mt 23 judgment on "this generation" → Mt 24 Temple + *oikoumenē* proclamation + coming/gathering + "this generation" → Mt 28 nations commission, present **until the consummation of the age**. **A genuine TEXTUAL model — Matthew supplied the pieces.**
+
+**⚖️ FALSIFICATION PRESSURE NAMED IN THE STAGE THAT BUILT THE MODEL:** Mt 13 sounds like ultimate judgment · Daniel 12 sounds like resurrection of the dead · Mt 24 has cosmic imagery · Matthew's judgment language may extend beyond AD 70 · Mt 28's disciple-making has been understood as ongoing ever since. **These get EXPLAINED better than competing models do, or the model gets revised.**
+
+**🆕 METHODOLOGICAL RULE: FOUNDATION–CONTINUATION DISTINCTION** *(Ephesians 2:20 — a foundation is laid once; the building continues on it)* — **runs BOTH directions, and that symmetry is the point.** Could explain how an apostolic commission reaches completion **without the body of Messiah ceasing to bear witness** — converging with Romans 15 from a second, independent route.
+
+---
+
+## Side Branch 27½ — ⚙️ Who Is Alive During and After the Thousand Years?
+
+**File:** [[01h-who-is-alive-during-and-after-the-thousand-years]] · **⚠️ NOT the Revelation investigation. Captures ONE textual correction and firewalls the material that arrived with it.**
+
+**The question:** if the millennial reign is resurrected saints, **where do the enormous nations of Revelation 20:8 come from?**
+
+> ### ❗❗ **THE CORRECTION: Revelation 20:3 — Satan is bound *"so that he might not deceive THE NATIONS any longer, UNTIL the thousand years were ended."* THE NATIONS EXIST DURING THE THOUSAND YEARS. No post-millennial repopulation mechanism is required. The problem dissolved on retrieval.**
+
+**Also verified:** 20:5's staged resurrection *("the rest of the dead did not come to life until…")* · 20:6's royal priesthood — **with the precision that Revelation says the SECOND DEATH has no authority over them, which is not the same as a claim about their bodily state throughout.**
+
+**🛑 SYNCHRONIZATION REFUSED:** *"the millennium began in AD 70"* would have been the most satisfying sentence available in this branch. **Revelation has not earned it.** Candidate chronologies listed, none selected. **And Revelation's literary structure — chronological? recapitulation? both? — must be settled BEFORE any seals→trumpets→bowls sequence is used (q94).**
+
+**🛑 EPISTEMOLOGICAL FIREWALL + new file [[07-deferred-historical-register]] — marked DEFERRED — DO NOT USE AS BIBLICAL EVIDENCE.** Ten items registered (world's fairs, orphan trains, mud-flood claims, sub-grade building levels, founding-vs-construction dates, population discontinuity, Rupes Nigra, etc.). **The underlying phenomena are real; the proposed EXPLANATIONS are separate claims. Preservation without promotion, per ADR-0010.**
+
+**🆕 METHODOLOGICAL RULE: COMPATIBILITY–EVIDENCE DISTINCTION** — *a hypothesis being compatible with Scripture is not evidence it occurred.* **COULD FIT ≠ DOES FIT ≠ PROVES.** *(Worked: Genesis 9 does not make a regional flood impossible — and provides no evidence one occurred.)*
+
+> ### **🔬 THE REAL LESSON: external historical anomalies were being reached for to solve a biblical problem BEFORE it was verified that the problem existed. It did not. Reversing that order is how a research project quietly becomes an apologetic for a pre-existing theory.**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 28 — "THIS AGE" AND "THE AGE TO COME."**
+
+**Matthew 12:32 has just established that Matthew recognizes two ages. Taking this BEFORE Daniel 12 is a deliberate sequencing choice.**
+
+**Examine:** Matthew 12:32 · then **Paul's** use of the same distinction · then **Hebrews**.
+
+> ### **If the NT writers consistently understand themselves as living at a TRANSITION BETWEEN AGES, that supplies the framework needed BEFORE asking whether AD 70 marks the consummation. Then Daniel 12 becomes the pressure test — reached IN SEQUENCE, not grabbed because it supports or threatens the hypothesis.**
+
+**Anticipated route to Revelation** *(planning, not commitment)*: **28** two ages → **29** what exactly is consummated *(aiōn · covenant · Temple · priesthood · kingdom · AD 70, without prematurely identifying them with each other)* → **30** Daniel 12 pressure test → **31** resurrection taxonomy → **possibly 32** Daniel → Matthew → Revelation bridge.
+
+> # **AND THEN REVELATION FROM CHAPTER 1 — NOT FROM CHAPTER 20.**
+>
+> ### **After 27 stages of refusing to cherry-pick, arriving at Revelation and jumping to the thousand years would be the single inconsistency capable of discrediting everything before it.**
+>
+> ### **Controls first: audience · time statements · OT intertexts · genre · recapitulation-vs-chronology · symbols defined internally before external identification. AND THE FALSIFICATION CONDITION STATED IN ADVANCE (q95) — what evidence would make this project say "no, the little-season hypothesis does not survive the text."**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (26 → 27), Preserved
 
 ### **STAGE 27 — 🔑 WHAT AGE IS ENDING IN MATTHEW?**
 

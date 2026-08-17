@@ -1598,6 +1598,69 @@ ESV (21): "All day long I have held out my hands to a **disobedient and contrary
 
 ---
 
+## Matthew 13 — The Harvest Parables, and *Kosmos* vs *Aiōn* (see [[01g-what-age-is-ending-in-matthew]])
+
+> Greek: **κόσμος** *kosmos* (2889) · **αἰών** *aiōn* (165) · **συντέλεια** *synteleia* (4930).
+
+**Matthew 13:37–39** — 🔑 **YESHUA'S OWN DICTIONARY, AND THE DISTINCTION IN ADJACENT CLAUSES** — ESV, VERIFIED
+"The one who sows the good seed is the **Son of Man**. **The field is the world** [*kosmos*], and the good seed is the **sons of the kingdom**. The weeds are the **sons of the evil one**, and the enemy who sowed them is the **devil**. **The harvest is the end of the age** [*synteleia tou aiōnos*], and the reapers are **angels**."
+> ### ❗❗ **MATTHEW USES *KOSMOS* FOR THE FIELD AND *AIŌN* FOR THE HARVEST'S TIMING IN TWO ADJACENT CLAUSES. The field is NOT "the age"; the harvest is NOT "the destruction of the world." AUTHOR-INTERNAL WARRANT for the Equivalent-Scope Burden.**
+**Direct equation: HARVEST = CONSUMMATION OF THE AGE.**
+
+**Matthew 13:40–43** — ⚖️ the judgment content, kept at full strength — ESV, VERIFIED
+"Just as the weeds are gathered and burned with fire, **so will it be at the end of the age**. The Son of Man will send his **angels**, and they will **gather out of his kingdom** all causes of sin and all law-breakers, and throw them into the **fiery furnace**… **Then the righteous will shine like the sun in the kingdom of their Father.**"
+**❗ EVIDENCE AGAINST A THIN READING. A first-century model must EXPLAIN harvest, angelic agency, separation and fiery judgment — not relabel them "symbolic" when convenient.**
+**13:43 appears to echo Daniel 12:3 — q89.**
+
+**Matthew 13:47–50** — the second control — ESV, VERIFIED
+"the kingdom of heaven is like a **net**… gathered fish of every kind… sorted the good into containers but threw away the bad. **So it will be at the end of the age. The angels will come out and separate the evil from the righteous** and throw them into the fiery furnace."
+**Two controls, same shape: angels · gathering · separation · fiery judgment. "End of the age" carries JUDICIAL and SEPARATIVE content, not merely chronological.**
+
+**Matthew 13:51–52** — 🚧 deliberately NOT load-bearing — ESV, VERIFIED
+"'Have you understood all these things?' They said to him, 'Yes.' … '**every scribe who has been trained for the kingdom of heaven is like a master of a house, who brings out of his treasure what is new and what is old**.'"
+**Not "old discarded, new substituted" — treasure containing BOTH. Recorded as RESONANCE with Matthew's continuity-and-fulfilment pattern (5:17 → 28:20), NOT as proof. The most quotable verse here for this project's covenant argument, and the most tempting to over-read.**
+
+**Matthew 12:32** — 🔑 Matthew recognizes TWO AGES — ESV, VERIFIED
+"whoever speaks against the Holy Spirit will not be forgiven, **either in this age or in the age to come**."
+**Textual, not inferred. Grounds the overlapping-ages hypothesis — q90.**
+
+**Hebrews 8:13** — process language — ESV, VERIFIED
+"In speaking of a new covenant, he makes the first one obsolete. And what is **becoming obsolete and growing old is ready to vanish away**."
+**⚠️ Force depends on the DATE of Hebrews, which is disputed. CLASSIFIED: POTENTIAL CORROBORATION, DEPENDENT ON DATING — q91.**
+
+**Daniel 12:1–4, 12:13** — the coming pressure test — ESV, VERIFIED
+12:1: "At that time shall arise **Michael**… there shall be **a time of trouble, such as never has been** since there was a nation till that time."
+12:2: "**many** of those who sleep in the dust of the earth shall awake, **some to everlasting life, and some to shame and everlasting contempt**."
+12:3: "those who are wise shall **shine like the brightness of the sky above**; and those who turn many to righteousness, like the stars forever and ever."
+12:4: "shut up the words and **seal the book, until the time of the end**." · 12:13: "you shall rest and shall stand in your allotted place **at the end of the days**."
+> ### 🔑 **HEBREW VERIFIED (Sefaria): 12:2 reads וְרַבִּ֕ים — *rabbim*, "MANY." NOT "all."** **Directly relevant to Revelation 20:5's "the rest of the dead" — RETRIEVED AND DELIBERATELY SET DOWN. Building on it now would be premature synchronization. q89, Stage 30.**
+
+---
+
+## Revelation 20 — Recorded for the Correction Only (see [[01h-who-is-alive-during-and-after-the-thousand-years]])
+
+> ⚠️ **NOT the Revelation investigation. Revelation will be opened FROM CHAPTER 1, in sequence, several stages from now. These verses are recorded because one of them dissolved a problem the project thought it had.**
+
+**Revelation 20:3** — 🔑 **THE CORRECTION** — ESV, VERIFIED
+"and threw him into the pit, and shut it and sealed it over him, **so that he might not deceive the nations any longer, until the thousand years were ended**."
+> ### ❗❗ **BINDING SATAN SO HE CANNOT DECEIVE THE NATIONS *UNTIL* THE THOUSAND YEARS END IMPLIES THE NATIONS EXIST DURING THE THOUSAND YEARS.** **Revelation 20:7–8's post-millennial deception therefore requires NO repopulation mechanism — the nations were already in the narrative.**
+
+**Revelation 20:4–6** — the staged resurrection — ESV, VERIFIED
+20:4: "**They came to life and reigned with Christ for a thousand years.**"
+20:5: "**The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection.**"
+20:6: "**Over such the second death has no power**, but they will be **priests of God and of Christ**."
+**🚧 PRECISION: Revelation says the SECOND DEATH has no authority over them. That is not the same as a claim about their bodily state throughout the thousand years. Do not make Revelation say more than Revelation says.**
+
+**Revelation 20:7–8** — ESV, VERIFIED
+"when the thousand years are ended, Satan will be released… **and will come out to deceive the nations** that are at the four corners of the earth, **Gog and Magog**… their number is like the sand of the sea."
+
+**Revelation 20:11–15** — the later judgment — ESV, VERIFIED
+"books were opened… another book… the book of life… **the dead were judged by what was written**… Death and Hades were thrown into the lake of fire. **This is the second death.**"
+
+> ### 🛑 **NO SYNCHRONIZATION CLAIMED. "The millennium began in AD 70" would be the most satisfying sentence available here and REVELATION HAS NOT EARNED IT. Candidate chronologies listed at [[01h-who-is-alive-during-and-after-the-thousand-years]] §5, NONE selected. And Revelation's literary structure — chronological, recapitulation, or both — must be settled first (q94).**
+
+---
+
 ## Matthew 28 — The Great Commission, and the συντέλεια Survey (see [[01f-matthew-28-the-great-commission-in-context]])
 
 > Greek: **πορευθέντες** *poreuthentes* (4198, **aorist participle**) · **μαθητεύσατε** *mathēteusate* (3100, **aorist imperative active 2P — THE MAIN VERB**) · **πάντα τὰ ἔθνη** *panta ta ethnē* (3956+3588+1484) · **τηρεῖν** *tērein* (5083, pres. inf. act.) · **ἕως τῆς συντελείας τοῦ αἰῶνος** (2193 + **4930** + **165**).

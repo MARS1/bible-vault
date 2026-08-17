@@ -561,6 +561,43 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 🏗️ Foundation–Continuation Distinction — Run on Every Apostolic-Era Activity *(added v2.6)*
+
+> **When Scripture describes apostles and prophets as FOUNDATIONAL (Ephesians 2:20), do not assume that activities performed during the laying of that foundation must continue afterward in identical form.**
+>
+> **CONVERSELY, completion of a foundational function does NOT imply cessation of everything subsequently built upon it.**
+
+> ### **Establish SEPARATELY what belongs to foundation and what belongs to continuing community life.**
+
+**Runs in both directions — the symmetry IS the rule.** Third member of a family: **Role–Act** (v2.2, act vs office) · **Corporate–Individual** (v2.5, body's mission vs member's obligation) · **Foundation–Continuation** (here, once-laid vs ongoing).
+
+*(Worked instance: Stage 27 §16–§17. Even if Matthew 28:20's horizon corresponds to Matthew 24's, that would establish only that **the particular apostolic commission had an appointed horizon** — not that disciple-making, evangelism, or Messiah's presence ceased. **Converges with Romans 15 from a second independent route.**)*
+
+**⚠️ Flagged, deliberately not opened:** this rule will bear on apostles · prophets · sign gifts · evangelists · teachers · the post-apostolic community. **Not needed yet; not started.**
+
+---
+
+## 🧱 Compatibility–Evidence Distinction — Run Before Any Historical Correlation *(added v2.6)*
+
+> **A hypothesis being COMPATIBLE with Scripture does not constitute EVIDENCE that the hypothesis occurred.**
+>
+> **Biblical texts may rule possibilities in or out where they speak directly. Historical claims require INDEPENDENT historical evidence.**
+>
+> ### **NEVER convert "Scripture does not prohibit X" into "Scripture predicts or confirms X."**
+
+> ### **COULD FIT ≠ DOES FIT ≠ PROVES — three distinct epistemic categories, never merged.**
+
+**Required order of operations:**
+
+> **Bible → textual model** *(established independently)* **→ then historical evidence → independent test.**
+> **NEVER: interesting historical theory → search Scripture for verses that resemble it.**
+
+*(Worked instance: Side Branch 27½ §8. Genesis 9 does not make a regional flood in the recent past impossible — **and provides no evidence that one occurred.** The deferred register [[07-deferred-historical-register]] exists to hold such material: **preservation without promotion**, ADR-0010 applied to claims the project cannot currently evaluate.)*
+
+> ### **🔬 The failure this prevents, observed live at 27½: external historical anomalies being reached for to solve a biblical problem BEFORE verifying the problem existed. It did not — Revelation 20:3 had already answered it. Reversing that order is how a research project quietly becomes an apologetic for a pre-existing theory.**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -586,6 +623,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **2.6** | 2026-08-16 | Added the **Foundation–Continuation Distinction** (Stage 27) and the **Compatibility–Evidence Distinction** (Side Branch 27½), plus the **deferred historical-hypotheses register** ([[07-deferred-historical-register]]) and its required order of operations: *Bible → textual model → then historical evidence as an independent test.* |
 | **2.5** | 2026-08-16 | **Extended the terminology rule** to bar *global · globally · worldwide* (author instruction; second retroactive pass, 15 further occurrences across 9 files — **including the project's own destination statement, and two phrases introduced by the FIRST terminology pass the same day**). Added the **Corporate–Individual Distinction** and the **Until-Reversal Caution** (Stage 26). |
 | **2.4** | 2026-08-16 | Added the standing **no-globe/globular/planetary terminology rule** (author instruction, applied retroactively across 10 files — **including this document's own Scope Test, which violated it**), the **Equivalent-Scope Burden** (Stage 25), and the **Providence–Inference Boundary** (Stage 25½). |
 | **2.3** | 2026-08-16 | Added **Question–Answer Canonical Control**, **Metaphor Preservation**, **Quotation Behavior Is Per-Quotation**, and the **separated divergence tallies** (Stage 24). The quotation rule exists because Stages 23 and 24 produced **opposite** results from the same author two chapters apart — either generalization would have been false. |
