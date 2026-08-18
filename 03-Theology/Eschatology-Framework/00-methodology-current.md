@@ -706,6 +706,110 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 📜 The Revelation Controls *(added v3.0 — Stages 31–34½)*
+
+**Seventeen controls built BEFORE Revelation's visions were interpreted, so that the book could not simply confirm what was already believed.**
+
+### 🔓 Seal–Nearness Control *(Stage 31)*
+> **When one prophetic text explicitly commands SEALING because fulfilment lies ahead, and a later text invoking the same prophetic tradition explicitly FORBIDS sealing because the time is near, treat the contrast as SIGNIFICANT TEMPORAL EVIDENCE. Determine the SCOPE of the nearness FROM THE LATER TEXT before overriding it with an external chronology.**
+
+*Warrant: Daniel 12:4 and 12:9 (SEAL, "until the time of the end") against Revelation 1:1, 1:3, 22:10 (DO NOT SEAL, "for the time is near"). **Verbal opposition with a stated reason on both sides.*** **⚠️ Does NOT settle how much is near, or what "soon" refers to.**
+
+### 👥 Original-Audience Control *(Stage 32)*
+> **An interpretation must first be intelligible as communication to the STATED ORIGINAL RECIPIENTS before being expanded to later audiences.**
+
+**⚠️ Does not mean everything must occur before every original reader dies. Means they are not decorative addresses on a book whose real audience lives two millennia later.**
+
+### 🔍 Internal-Interpretation Priority *(Stage 32)*
+> **When Revelation explicitly defines one of its own symbols, its definition GOVERNS that occurrence and becomes a CONTROL for — not an automatic dictionary governing — similar imagery elsewhere.**
+
+*Warrant: Revelation 1:20 — "the seven stars ARE the angels… the seven lampstands ARE the seven churches." Establishes star→angel **in this vision**; does NOT license "every star everywhere = angel."*
+
+### ⏱️ Temporal-Cluster Principle *(Stage 32)*
+> **A single word such as "soon" may permit semantic flexibility. MULTIPLE INDEPENDENT TEMPORAL INDICATORS within the same work — *soon*, *near*, contemporary recipients, contemporary participants, generational referents — must be evaluated CUMULATIVELY rather than neutralized individually.**
+
+**Otherwise every indicator gets explained away separately and their cumulative force is never confronted.**
+
+### 🪞 Typological Correspondence *(Side Branch 32½)*
+> **When Scripture EXPLICITLY identifies an earlier person or event as a sign/type corresponding to a later fulfilment, give priority to the correspondence THE TEXT ITSELF identifies. Additional parallels may be investigated, but SIMILARITY ALONE DOES NOT ESTABLISH EXHAUSTIVE ONE-TO-ONE IDENTITY between type and fulfilment.**
+
+*Glossary — **typology**: a real earlier person, event, institution or pattern anticipating and corresponding to a later, greater fulfilment.* *Worked: Yeshua names "the sign of Jonah" (Matthew 12:39–41) — yet Jonah disobeys and Yeshua obeys perfectly.*
+
+### 🧱 Clear-Text Load Bearing *(Side Branch 32½)*
+> **Do NOT make a disputed, poetic, or ambiguous passage bear the PRIMARY evidentiary weight for a proposition already stated more clearly elsewhere. Establish it from clearer texts first; then investigate whether the difficult passage enriches it.**
+
+*Worked: Messiah's pre-existence rests on John 1, Colossians 1, John 17 — **not** on Proverbs 8, which may then remain a Wisdom-Christology question without carrying weight it cannot bear.*
+
+### 🚪 Coming-Language Control *(Stage 33)*
+> **The verb "come" must receive its SCOPE FROM CONTEXT. Do NOT automatically equate every coming of Messiah with the final consummation.**
+
+*Warrant: Revelation 2:5 (come and remove **its** lampstand) · 2:16 (come and war against **those** offenders) · **3:3 — "IF YOU WILL NOT WAKE UP, I will come like a thief."*** **If every thief-coming were the final return, whether the consummation occurs would depend on whether Sardis repents.** **The question is never "does Yeshua come?" but "WHAT KIND of coming is this?"**
+
+### 🌱 Present-Reality / Future-Consummation Distinction *(Stage 33)*
+> **A reality can already be inaugurated or possessed while awaiting a later manifestation, expansion, vindication, or consummation. Do NOT infer from "already present" that nothing remains future; do NOT infer from future consummation that the reality was previously absent.**
+
+*Revelation-specific sharpening of the Inauguration–Consummation Distinction (v2.7).*
+
+### 📖 Application–Exegesis Distinction *(Stage 33)*
+> **Preserve what a passage MEANT in its original communicative setting separately from legitimate later applications.**
+
+*Glossary — **exegesis**: drawing meaning from the text per language, context, author, audience, literary setting, intertexts · **application**: how that established meaning bears on another person, community or circumstance · **eisegesis**: reading a meaning INTO the text that the text has not established.* *Worked: Revelation 3:20 addresses **a church**.*
+
+### 👑 Kingdom ≠ Millennium Control *(Stage 33)*
+> **Messiah's kingship, enthronement, kingdom participation, and priestly people are ALREADY PRESENT REALITIES in Revelation 1–3. Therefore kingdom/reign terminology ALONE cannot identify Revelation 20's thousand-year period.**
+
+*Warrant: **Revelation 3:21 — "as I also CONQUERED AND SAT DOWN with my Father on his throne"** (past tense) · 1:5 · 1:6 · 1:9 · 5:10.* **→ q129 in the central register.**
+
+### 🕰️ Narrative-Timing Control *(Side Branch 33½)*
+> **A command, prohibition, opportunity, or mission assignment given at ONE POINT in a biblical narrative must NOT automatically be converted into a permanent rule. Follow the narrative FORWARD to determine whether the restriction remains, changes, or is later reversed.**
+
+*Worked: Acts 16:6 (forbidden to speak the word in Asia) → **Acts 19:10 ("all the residents of Asia heard the word of the Lord").***
+
+### 🌍 Foundational Reach ≠ Exhaustive Individual Contact *(Side Branch 33½)*
+> **Biblical statements that a region has "heard," received, or been reached by the word need NOT mean that every individual inhabitant personally encountered an apostle. Established communities and subsequent ordinary proclamation can coexist with the biblical description of a region as already reached.**
+
+> ### **AND THE CONVERSE: continued preaching in a region does NOT prove it had not previously been reached.** **Directly relevant to Matthew 24:14.**
+
+### 🎞️ Vision Sequence ≠ Event Sequence *(Stage 34)*
+> **The ORDER IN WHICH JOHN RECEIVES VISIONS must not automatically be equated with the CHRONOLOGICAL ORDER of everything represented by those visions.**
+
+*Revelation 4:1's "after this" establishes sequence in John's visionary experience — not that every subsequent event occurs historically after everything in chapters 1–3. **Revelation itself must demonstrate any such correspondence (q94).***
+
+### 👂👁️ Hear–See Correspondence *(Stage 34)*
+> **When Revelation presents John HEARING one identification and then SEEING apparently different imagery, investigate whether the two descriptions interpret the SAME REALITY from different symbolic perspectives BEFORE assuming they represent different entities.**
+
+*Warrant: **5:5 John HEARS "the Lion of the tribe of Judah… has conquered"; 5:6 John SEES "a Lamb standing, as though it had been slain."*** **Not two Messiahs — and the second image EXPLAINS the first. This is Revelation teaching us how Revelation works.**
+
+### 🐑 Conquest-by-the-Lamb Control *(Stage 34)*
+> **Revelation defines Messiah's victory through His being SLAIN AND STANDING ALIVE. Later warfare imagery must be interpreted CONSISTENTLY with that established mode of conquest unless context requires otherwise.**
+
+**THE WOUND IS THE VICTORY SIGN. HE CONQUERS THROUGH DYING.** *Carried to Revelation 12 (q131).*
+
+### 🔎 Description Before Identification *(Stage 34)*
+> **Record what Revelation EXPLICITLY SAYS about a symbolic figure before assigning it a disputed historical or theological identity.**
+
+*Worked: the twenty-four elders — elders · enthroned · crowned · white · worshipping. **That is enough for now.***
+
+### ⛓️‍💥 Partial-Parallel Brake *(Side Branch 34½)*
+> **Shared features between two biblical persons or narratives do NOT establish typological correspondence when the CONTROLLING PURPOSE or DECISIVE MOVEMENT of the passages differs. Test the ENTIRE NARRATIVE ARC — especially its RESOLUTION — rather than matching isolated similarities.**
+
+*Worked: the prodigal son and the great rebel share departure-and-loss; **the prodigal's decisive movement is REPENTANCE, and Revelation's dragon persists in rebellion through his final opportunity.*** **SIMILARITY AT DEPARTURE CANNOT OVERCOME CONTRADICTION AT RESOLUTION.**
+
+### 🔁 Glossary — recapitulation *(Stage 34)*
+> **A later vision returns to an earlier event or period and portrays it again from another perspective rather than advancing chronology continuously.**
+
+> ### ⚠️ **A PHENOMENON TO BE DEMONSTRATED, NEVER ASSUMED (q94).**
+
+---
+
+### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
+
+> **The slain-yet-standing Lamb's approach to the heavenly throne and reception of the scroll MAY portray the heavenly consequence of Yeshua's death, resurrection, ascension and enthronement, drawing particularly on Daniel 7. If so, the opening of the seals should INITIALLY BE TESTED within the historical horizon following Messiah's first-century exaltation rather than presumed to begin in a distant future.**
+>
+> ### ❗ **FALSIFICATION CONDITION, stated with the hypothesis and before the seals: if the seals themselves require events demonstrably beyond that horizon, THE HYPOTHESIS MUST EXPAND, CHANGE, OR FAIL.**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -731,6 +835,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **3.0** | 2026-08-18 | **THE REVELATION CONTROLS** — seventeen rules built BEFORE Revelation's visions were interpreted (Stages 31–34½): Seal–Nearness · Original-Audience · Internal-Interpretation Priority · Temporal-Cluster · Typological Correspondence · Clear-Text Load Bearing · Coming-Language · Present-Reality/Future-Consummation · Application–Exegesis · **Kingdom ≠ Millennium** · Narrative-Timing · Foundational Reach ≠ Exhaustive Contact · Vision Sequence ≠ Event Sequence · **Hear–See Correspondence** · Conquest-by-the-Lamb · Description Before Identification · Partial-Parallel Brake. Glossary: *typology · exegesis · application · eisegesis · recapitulation*. Records the **Revelation 5 Exaltation Hypothesis** with its falsification condition. |
 | **2.9** | 2026-08-17 | Added the **Consummation–Exhaustion Distinction**, the **Prophetic-Compression Brake** (+ glossary *prophetic compression*), the **Report–Event Distinction** (+ glossary *anecdotal evidence*), and the **Stated-Restriction Rule** (Stage 30 + Side Branch 30½). Also adopted the working label **Post-Millennial Little-Season Hypothesis** — see [[01k-can-an-age-end-while-resurrection-remains-ahead]] §9 — because *partial preterism* does NOT place anyone in the little season. |
 | **2.8** | 2026-08-17 | Added the **Metaphorical–Bodily Distinction** and **Category-Lock**, with the **resurrection taxonomy (A–E)** (Stage 29). Category-Lock generalizes four prior forced separations — *Israel*, *world*, *age*, *resurrection*. |
 | **2.7** | 2026-08-16 | Added the **Inauguration–Consummation Distinction** and the **inaugurated eschatology** glossary entry (Stage 28), with the explicit note that the concept is **neither preterist nor futurist** and is adopted as a distinction only. |

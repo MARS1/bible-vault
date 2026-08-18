@@ -69,7 +69,14 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **29** | **🔑 Resurrection Before Revelation** | **[[01j-resurrection-before-revelation]]** |
 | **30** | Can One Age End While Bodily Resurrection Remains Ahead? | [[01k-can-an-age-end-while-resurrection-remains-ahead]] |
 | **30½** | **⚙️ "One Taken and One Left"** *(side branch + corrections)* | **[[01l-one-taken-and-one-left]]** |
-| **31** | *(next)* **🔑 Daniel 12, in full — the final Tanakh pressure test** | — |
+| **31** | **🔑 Daniel 12, in Full — the Final Tanakh Pressure Test** | **[[01m-daniel-12-resurrection-sealing-and-the-time-of-the-end]]** |
+| **32** | **Revelation 1: The Book Tells Us How to Read It** | **[[01n-revelation-1-the-book-tells-us-how-to-read-it]]** |
+| **32½** | ⚙️ Jonah, Sheol, Three Days, and the Keys of Death | [[01o-jonah-sheol-three-days-and-the-keys-of-death]] |
+| **33** | Revelation 2–3: Seven Real Assemblies, Repeated Comings, the Coming Trial | [[01p-revelation-2-3-seven-assemblies-repeated-comings-and-the-coming-trial]] |
+| **33½** | ⚙️ "Forbidden to Speak the Word in Asia" | [[01q-forbidden-to-speak-the-word-in-asia]] |
+| **34** | Revelation 4–5: The Throne, the Scroll, and the Lamb | [[01r-revelation-4-5-the-throne-the-scroll-and-the-lamb]] |
+| **34½** | ⚙️ The Dragon's Tail, "Son of Perdition," and the Prodigal | [[01s-the-dragons-tail-son-of-perdition-and-the-prodigal]] |
+| **35** | *(next)* **🔑 The Seals — Revelation 6** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1026,7 +1033,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 30 — Can One Age End While Bodily Resurrection Remains Ahead? *(current)*
+## Stage 30 — Can One Age End While Bodily Resurrection Remains Ahead?
 
 **File:** [[01k-can-an-age-end-while-resurrection-remains-ahead]]
 
@@ -1084,7 +1091,139 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stages 31–34½ — Daniel 12, and the Entry into Revelation *(current: Stage 34½)*
+
+**Files:** [[01m-daniel-12-resurrection-sealing-and-the-time-of-the-end]] · [[01n-revelation-1-the-book-tells-us-how-to-read-it]] · [[01o-jonah-sheol-three-days-and-the-keys-of-death]] · [[01p-revelation-2-3-seven-assemblies-repeated-comings-and-the-coming-trial]] · [[01q-forbidden-to-speak-the-word-in-asia]] · [[01r-revelation-4-5-the-throne-the-scroll-and-the-lamb]] · [[01s-the-dragons-tail-son-of-perdition-and-the-prodigal]]
+
+### 🔑 STAGE 31 — Daniel 12
+
+**Full chapter verified.** Michael and *Daniel's people* · "**a time of trouble, such as never has been**" *(→ Matthew 24:21, verified)* · sleepers awakening from the dust · the wise shining *(→ Matthew 13:43)* · **"the shattering of the power of the holy people"** as the completion marker — **an EVENT, not a calendar date** · the **regular burnt offering taken away** and the **abomination that makes desolate** → **1,290 days**, then **1,335** · and Daniel promised he will **rest, then STAND at the end of the days.**
+
+**⚠️ CORRECTION AGAINST THE HYPOTHESIS'S FAVOUR: *rabbim* ("many") does NOT establish "not all."** Biblical "many" can function as a broad collective. **The inference that Daniel's "many" might be Revelation's first-resurrection group is attractive precisely because it would help — and it is not earned (q110).**
+
+**⚠️ ANACHRONISM TEST APPLIED: 12:4's "run to and fro… knowledge shall increase" — Hebrew יְשֹׁטְטוּ ("range far and wide") + הַדָּעַת with the definite article, sitting between the sealing command and Daniel's "I did not understand." NOT cars, airplanes, the internet (q111).**
+
+**📐 12:8 — "I HEARD, BUT I DID NOT UNDERSTAND."** The prophet received the vision and did not grasp its chronology; the answer was not an explanation but a restatement that the words were sealed. **For a project thirty-one stages into building a chronology, that verse is worth more than most of the numbers around it.**
+
+> ### ❗❗ **THE SEAL–NEARNESS CONTRAST — VERBAL, NOT THEMATIC, AND DANIEL SAYS IT TWICE.**
+>
+> | Text | Command | Stated reason |
+> |---|---|---|
+> | **Daniel 12:4** | **SEAL** | "until the time of the end" |
+> | **Daniel 12:9** | **SEAL** | "until the time of the end" |
+> | **Revelation 22:10** | **DO NOT SEAL** | "**for the time is near**" |
+>
+> ### **Same command, opposite directions, opposite stated reasons. AT MINIMUM: Revelation presents itself as standing much nearer its fulfilment horizon than Daniel did. ⚠️ It does NOT establish that every event through Revelation 22 happened before AD 70.**
+
+**And the first-century anchor is strong:** **Matthew 24:15** — "the abomination of desolation **spoken of by the prophet Daniel**" · **Luke 21:20** — "**when you see Jerusalem surrounded by armies**" · "days of vengeance, **to fulfill all that is written**." **🆕 And Luke 21:24's "until the times of the Gentiles are fulfilled" is an *until* the Until-Reversal Caution governs — possibly evidence of staging inside Luke 21 itself (q106).**
+
+> ### ⚖️ **UNRESOLVED CORE: how much of Daniel 12's RESURRECTION horizon belongs to that same fulfilment? A first-century reading must demonstrate staged fulfilment, demonstrate prophetic compression, or explain resurrection another defensible way. IT CANNOT SIMPLY DECLARE THE CHAPTER FULFILLED IN AD 70 WITHOUT ADDRESSING RESURRECTION.**
+
+---
+
+### STAGE 32 — Revelation 1
+
+**Two temporal statements in three verses, both verified:** **1:1 ἐν τάχει** *(en tachei, 5034)* · **1:3 ὁ καιρὸς ἐγγύς** — **and the lexical detail matters: *kairos* (2540), NOT *chronos*.** **An APPOINTED SEASON, not a duration** — so 1:3 is not "it will happen fast when it finally happens"; it is **"the appointed season is near."**
+
+**🆕 RULES: Original-Audience Control · Internal-Interpretation Priority · Temporal-Cluster Principle.**
+
+**1:20 gives Revelation's FIRST internal interpretation: stars = angels, lampstands = churches.** ✅ Establishes star→angel **in this vision**; ❌ does **not** license a universal dictionary. **Strengthens the Revelation 12 angelic-stars reading without establishing it (q119).**
+
+**1:5 "the ruler of kings on earth" · 1:6 kingdom and priests · 1:9 John already a partner in the tribulation AND the kingdom · 1:18 "I died… I have the keys of Death and Hades" — resurrection Christology BEFORE any resurrection vision.**
+
+> ### ⚖️ **THE CUMULATIVE CLUSTER a distant-future reading must explain:** soon · the time is near · seven historical Asian assemblies · "those who pierced him" · John participating in tribulation and kingdom · Danielic cloud-coming · Zecharian mourning · the reversal of Daniel's sealing. **It cannot answer "with God a thousand years is like a day" — REVELATION WAS NOT WRITTEN TO TELL YAHWEH THE TIME WAS NEAR. It blessed CONGREGATIONS for hearing it BECAUSE the time was near.**
+>
+> ### ⚖️ **AND PRETERISM GETS NO FREE VICTORY: "near" may not become our new rigid dictionary any more than "earth," "stars," "all," or "world" could.**
+
+---
+
+### SIDE BRANCH 32½ — Jonah and the Keys
+
+**Yeshua Himself establishes the typology** *(Matthew 12:39–41, verified)* — "**the sign of the prophet Jonah**," three days "in the heart of the earth," **"this generation,"** "something greater than Jonah is here." **And Jonah 2:2 verified: "out of the belly of SHEOL I cried."**
+
+**⚠️ BRAKE: established that Jonah DESCRIBES his descent in Sheol language; NOT established that his spirit spent three days in the realm of the dead while his corpse remained in the fish. We may not use the antitype to force details back into the type.** → **RULE: Typological Correspondence.**
+
+**⚠️ AUTHOR'S CLARIFICATION RECORDED AS A CORRECTION TO THE EARLIER FRAMING: NOT a combat scene. Through His obedient death and resurrection the victory was accomplished; their authority over Him was decisively broken, and He emerged POSSESSING the keys. Revelation 1:18's sequence IS the argument — died → alive forevermore → holds the keys.** **HE CONQUERS THROUGH DYING.**
+
+**🆕 RULE: Clear-Text Load Bearing** — Yeshua's pre-existence rests on John 1, Colossians 1, John 17, **not** on Proverbs 8, which may then remain a Wisdom-Christology question without carrying weight it cannot bear. **And "Elohim" gets a brake before use (q126).**
+
+---
+
+### STAGE 33 — Revelation 2–3
+
+> ### ❗❗ **REVELATION 3:21 — PAST TENSE: "as I also CONQUERED AND SAT DOWN with my Father on his throne." MESSIAH'S ENTHRONEMENT HAD ALREADY OCCURRED WHEN JOHN WROTE.**
+>
+> ### **THEREFORE "KINGDOM LANGUAGE = MILLENNIUM" IS DEMONSTRABLY TOO SIMPLE. → RULE: KINGDOM ≠ MILLENNIUM CONTROL, and CENTRAL-REGISTER QUESTION q129: what distinguishes Revelation 20's thousand-year reign from the reign and kingdom Revelation says ALREADY EXISTED?** **"Reign appears → therefore the millennium begins here" IS NO LONGER AVAILABLE. THE HYPOTHESIS JUST BECAME MORE FALSIFIABLE.**
+
+**And "coming" broke open before any seal:** **2:5** come and remove *its* lampstand · **2:16** come and war against *those* offenders · **3:3 "IF YOU WILL NOT WAKE UP, I will come like a thief."** **If every thief-coming were the final return, whether the consummation occurs would depend on whether Sardis repents. → RULE: COMING-LANGUAGE CONTROL. The question is never "does Yeshua come?" but "WHAT KIND of coming is this?"**
+
+**🔑 3:10 — ὅλης τῆς οἰκουμένης — THE THIRD VERIFIED *holē + oikoumenē*** after Matthew 24:14 and Acts 11:28, **addressed to a NAMED first-century congregation**, followed immediately by **3:11 "I am coming soon."** **⚠️ And do not overcorrect: Hebrews 2:5 uses *oikoumenē* of a COMING order (q96).**
+
+**🆕 Also: New Jerusalem is promised to Philadelphia in chapter 3, not introduced at chapter 21 (q128).** **⚠️ 3:9's "synagogue of Satan" has been weaponized historically — HISTORICAL CONFLICT STAYS HISTORICALLY PARTICULAR.** **🆕 RULES: Present-Reality / Future-Consummation · Application–Exegesis** *(glossary: exegesis · application · eisegesis)*.
+
+---
+
+### SIDE BRANCH 33½ — Asia
+
+**The apparent tension dissolves into a chronology.** **Acts 19:8–10 verified: two years in the hall of Tyrannus, "so that ALL THE RESIDENTS OF ASIA HEARD THE WORD OF THE LORD."** **Acts 19:26 — a hostile witness: "almost all of Asia."**
+
+> **CLOSED (Acts 16) → Macedonia → Ephesus OPENED → "all Asia heard" → ESTABLISHED assemblies → CORRECTED in Revelation**
+
+**⚠️ Correction: Acts does NOT say the prohibition was because they already knew the word — substantial work remained. WHY Macedonia first stays UNKNOWN (Providence–Inference Boundary).** **Asia = the ROMAN PROVINCE in western Anatolia, not the continent and not Greece — five maps embedded.**
+
+> ### 🔑 **AND THE PAYOFF: LUKE — the same author whose *oikoumenē* usage anchored Stage 25 — CAN SAY "ALL ASIA HEARD" WHILE PAUL WORKED FROM ONE CITY AND THE WORD SPREAD THROUGH A NETWORK. Independent confirmation of the Romans 15 conclusion.** **🆕 RULES: Narrative-Timing Control · Foundational Reach ≠ Exhaustive Individual Contact.**
+>
+> ### **"The gospel reached Asia" ≠ "nobody in Asia ever needs to hear again" — AND continued preaching there does NOT prove it had not been reached. Directly relevant to Matthew 24:14.**
+
+---
+
+### STAGE 34 — Revelation 4–5
+
+**What dominates chapter 4 is THE THRONE — not Satan, not Rome, not the beast. THE THRONE IS OCCUPIED BEFORE THE SEALS EVER OPEN.** Revelation is not the story of Satan almost winning until Yah intervenes.
+
+> ### ❗❗ **5:5 JOHN HEARS "the Lion of the tribe of Judah… HAS CONQUERED." 5:6 JOHN SEES "a Lamb standing, AS THOUGH IT HAD BEEN SLAIN." NOT TWO MESSIAHS — and the second image EXPLAINS the first. THE WOUND IS THE VICTORY SIGN.**
+>
+> ### **🆕 RULE: HEAR–SEE CORRESPONDENCE — Revelation teaching us how Revelation works. 🔖 Flagged, not pursued: this may eventually bear on how Revelation identifies ISRAEL and the multinational redeemed people (q130).**
+
+**🆕 RULE: CONQUEST-BY-THE-LAMB CONTROL** — later warfare imagery must be read consistently with the mode of conquest already established. **→ carried to Revelation 12 (q131), where 12:11 has believers conquering "by the blood of the Lamb" and 12:5 has the child "caught up to God and to his throne."**
+
+**🔑 5:9 — ransomed people "FROM every tribe and language and people and nation." NOT *all of* them. DIVERSITY OF SOURCE ≠ EXHAUSTIVE SALVATION.** **And 5:10's kingdom + priests + reigning appears BEFORE Revelation 20 exists in the narrative — hardening q129.**
+
+**📌 REVELATION 5 EXALTATION HYPOTHESIS (recorded, not concluded):** the slain-yet-standing Lamb's approach and reception of the scroll **may portray the heavenly consequence of Yeshua's death, resurrection, ascension and enthronement**, drawing on Daniel 7 — in which case the seals should **initially be tested within the post-exaltation horizon.** **❗ FALSIFICATION CONDITION STATED WITH IT: if the seals require events demonstrably beyond that horizon, the hypothesis must expand, change, or fail.**
+
+**⚠️ AND THE BRAKE: do NOT reason "enthroned in Revelation 5 → millennium begins." Stage 33 blocked it. Revelation 5 may depict an ALREADY-ACCOMPLISHED enthronement from another perspective — which would be RECAPITULATION (new glossary term; a phenomenon to be DEMONSTRATED, never assumed).** **🆕 RULES: Vision Sequence ≠ Event Sequence · Description Before Identification.**
+
+---
+
+### SIDE BRANCH 34½ — the tail, the title, and a parallel that failed
+
+**12:4 verified — "His tail swept down a third of the stars" — the observation is textually real; 12:7–9 also gives an explicit war. How they relate is open (q132).**
+
+> ### ⚠️ **CORRECTION: SCRIPTURE NEVER CALLS SATAN "THE SON OF PERDITION." John 17:12 = JUDAS. 2 Thessalonians 2:3 = the man of lawlessness. Verified both.** And "son of X" is Semitic idiom for *characterized by / destined for* — not offspring.
+
+**And the prodigal parallel fails on context: Luke 15:1–2 verified — the parables are triggered by "This man receives sinners and eats with them." The decisive movement is REPENTANCE ("I have sinned… I am no longer worthy"). Revelation's dragon, released after the thousand years, IMMEDIATELY DECEIVES AGAIN.**
+
+> ### **🆕 RULE: PARTIAL-PARALLEL BRAKE — similarity at departure cannot overcome contradiction at resolution. Test the whole arc, especially its RESOLUTION.**
+>
+> ### 📌 **AND THE LINE WORTH KEEPING: "The methodology isn't designed to stop us from asking dangerous or unusual questions. It's designed to MAKE IT SAFE TO ASK THEM, because we're willing to let the text tell us no."**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 35 — 🔑 THE SEALS (Revelation 6). THE FIRST GENUINELY DANGEROUS TEST.**
+
+The Lamb opens the seals · four horsemen · war, scarcity, **Death with Hades following** · martyrs beneath the altar asking **"How long?"** and told to wait **until the number of their fellow servants is complete** *(q103)* · then earthquake · blackened sun · blood-red moon · falling stars · rolled-up heaven · mountains and islands moved · people hiding from **the wrath of the Lamb**.
+
+**Nearly every tool is already built:** Isaiah 13 · Isaiah 34 · Ezekiel 32 · Daniel · Matthew 24 · cosmic-judgment language · stars/angels · Original-Audience Control · Intertextual Priority · **and the Revelation 5 Exaltation Hypothesis with its falsification condition.**
+
+> ### ❗ **AND THE DIFFERENCE THAT MATTERS: we are not bringing those passages to Revelation because they support a conclusion. REVELATION ITSELF IS CALLING THEM BACK.**
+
+**Note also: the horseman named Death, with Hades following, reconnects Side Branch 32½ to the spine almost immediately.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (30 → 31), Preserved
 
 ### **STAGE 31 — 🔑 DANIEL 12, IN FULL. THE FINAL MAJOR TANAKH PRESSURE TEST BEFORE REVELATION.**
 
