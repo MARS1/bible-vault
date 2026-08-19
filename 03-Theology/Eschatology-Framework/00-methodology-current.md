@@ -812,6 +812,20 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### 🙏 Prompting ≠ Proof *(Side Branch 35½)*
+> **A thought, recollection, intuition, dream, conviction, or perceived spiritual prompting may LEGITIMATELY GENERATE a research question — but it does NOT establish the answer. The proposed connection must subsequently survive the same textual, contextual, intertextual, historical, lexical and falsification controls applied to every other hypothesis.**
+
+> ### **This leaves Yah completely free to have prompted something WITHOUT making divine prompting an evidentiary shortcut. THE THOUGHTS NEED NOT BE SUPPRESSED, AND NEED NOT BE CANONIZED. BRING THEM TO THE TEXT.**
+
+*Consistent with ADR-0001's epigraph — do not quench the Spirit, AND test everything, hold fast what is good. Neither clause may cancel the other.* **This project's record shows recollection producing all three outcomes: wrong · partly wrong · astonishingly relevant. THE MEMORIES GENERATE QUESTIONS; THE METHODOLOGY JUDGES THEM.**
+
+### 🔄 Anti-Inversion Brake *(Side Branch 35½)*
+> **Correcting an overgeneralized interpretation does NOT justify adopting its categorical opposite. If "coming" does not ALWAYS mean physical relocation, that does NOT establish that it NEVER does.**
+
+**Same methodological error; different conclusion.** *Companion to the Anti-Replacement Principle (disproving A does not establish B) — this is its RIGID-DICTIONARY form, and it applies to every correction this project makes, including its own.*
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -847,6 +861,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **3.2** | 2026-08-18 | Added **Prompting ≠ Proof** and the **Anti-Inversion Brake** (Side Branch 35½). Records the investigation's **provenance** — begun roughly 2001, ~25 years before this work — as intellectual autobiography **quarantined from the argument**, with the tools' contribution stated in BOTH directions. |
 | **3.1** | 2026-08-18 | Added **Question–Answer Structural Control** and **Delegated-Power Control** (Stage 35). Records that the **Revelation 5 Exaltation Hypothesis SURVIVED its first major test at Revelation 6 — not proven** — and that the cosmic-judgment finding (Isaiah 13 · Isaiah 34 · Ezekiel 32) held on contact, with **Isaiah 34's rolled-up-like-a-scroll nearly verbatim at Revelation 6:14**. |
 | **3.0** | 2026-08-18 | **THE REVELATION CONTROLS** — seventeen rules built BEFORE Revelation's visions were interpreted (Stages 31–34½): Seal–Nearness · Original-Audience · Internal-Interpretation Priority · Temporal-Cluster · Typological Correspondence · Clear-Text Load Bearing · Coming-Language · Present-Reality/Future-Consummation · Application–Exegesis · **Kingdom ≠ Millennium** · Narrative-Timing · Foundational Reach ≠ Exhaustive Contact · Vision Sequence ≠ Event Sequence · **Hear–See Correspondence** · Conquest-by-the-Lamb · Description Before Identification · Partial-Parallel Brake. Glossary: *typology · exegesis · application · eisegesis · recapitulation*. Records the **Revelation 5 Exaltation Hypothesis** with its falsification condition. |
 | **2.9** | 2026-08-17 | Added the **Consummation–Exhaustion Distinction**, the **Prophetic-Compression Brake** (+ glossary *prophetic compression*), the **Report–Event Distinction** (+ glossary *anecdotal evidence*), and the **Stated-Restriction Rule** (Stage 30 + Side Branch 30½). Also adopted the working label **Post-Millennial Little-Season Hypothesis** — see [[01k-can-an-age-end-while-resurrection-remains-ahead]] §9 — because *partial preterism* does NOT place anyone in the little season. |

@@ -77,6 +77,7 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **34** | Revelation 4–5: The Throne, the Scroll, and the Lamb | [[01r-revelation-4-5-the-throne-the-scroll-and-the-lamb]] |
 | **34½** | ⚙️ The Dragon's Tail, "Son of Perdition," and the Prodigal | [[01s-the-dragons-tail-son-of-perdition-and-the-prodigal]] |
 | **35** | **🔑 Revelation 6: The Seals, the Martyrs, and Cosmic Collapse** | **[[01t-revelation-6-the-seals-the-martyrs-and-cosmic-collapse]]** |
+| **35½** | **⚙️ "If They Say, He Is in the Wilderness" — and the Provenance of the Investigation** | **[[01u-if-they-say-he-is-in-the-wilderness]]** |
 | **36** | *(next)* **🔑 Revelation 7 — the 144,000 and the innumerable multitude** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
@@ -1210,7 +1211,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 35 — 🔑 Revelation 6: The Seals, the Martyrs, and Cosmic Collapse *(current)*
+## Stage 35 — 🔑 Revelation 6: The Seals, the Martyrs, and Cosmic Collapse
 
 **File:** [[01t-revelation-6-the-seals-the-martyrs-and-cosmic-collapse]]
 
@@ -1235,6 +1236,48 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 > ### ⚖️ **VERDICT: THE REVELATION 5 EXALTATION HYPOTHESIS SURVIVED ITS FIRST MAJOR TEST — NOT PROVEN. The first-century horizon is presently becoming more textually economical, not less.**
 >
 > ### ❗ **FIVE IDENTIFICATIONS AVAILABLE AND DECLINED, EVERY ONE OF WHICH WOULD HAVE HELPED: the white rider (q135) · the seals target (q136) · the falling stars (q138) · whether the sixth seal is specifically Jerusalem judgment (q136) · whether the seals are ONE bounded sequence or range beyond it (q139). KEEP ALL FIVE OPEN.**
+
+---
+
+## Side Branch 35½ — ⚙️ "If They Say, He Is in the Wilderness" — and the Provenance of the Investigation *(current)*
+
+**File:** [[01u-if-they-say-he-is-in-the-wilderness]] · **Two things arrived together and belong in TWO DIFFERENT EVIDENTIARY CATEGORIES.**
+
+### PART ONE — Provenance, recorded and quarantined from the argument
+
+**The investigation did not begin when the tools arrived.** Roughly **2001**, in Washington DC, a classmate — **Corey, who went by "Lord Creator"** — asked whether the author had read Revelation. He had not, and says he barely knew what it was. **Then he read it.** ⚠️ **The author could not pin the date precisely; that uncertainty is PRESERVED rather than smoothed.**
+
+**What followed was NOT twenty-five years of continuous scholarship** — questions → life → faith → greater and lesser engagement → things learned and forgotten → convictions challenged → Scripture revisited. **Hot and cold; milk before meat; always coming back.**
+
+> ### 🔑 **STATED IN BOTH DIRECTIONS: THE LANGUAGE MODELS CHANGED WHAT BECAME PRACTICALLY POSSIBLE — pretending otherwise would be dishonest. AND: THE TOOLS ACCELERATED THE INVESTIGATION; THEY DID NOT MANUFACTURE THE JOURNEY THAT PRODUCED THE QUESTIONS.** **Both halves are needed — the first without the second overclaims for the author; the second without the first overclaims against the tools.**
+>
+> ### ❗ **AND IT MAY NOT BECOME AN ARGUMENT: "I have thought about this for twenty-five years, therefore my interpretation is correct" WOULD VIOLATE EVERYTHING THIS PROJECT HAS BUILT.**
+
+**Why provenance matters METHODOLOGICALLY: this project's own record shows all three outcomes from recollection —** *wrong* (Satan as "son of perdition" — John 17:12 is **Judas**) · *partly wrong* (the Sukkot/rain objection — real text, wrong details, missing identity step) · *astonishingly relevant* (Jonah's "belly of Sheol" · the two at the mill · Revelation 20:3's nations). **THE MEMORIES GENERATE QUESTIONS. THE METHODOLOGY JUDGES THEM.**
+
+**⚠️ AND A BRAKE ON THE VERSE THE AUTHOR APPLIED TO HIMSELF: 1 Corinthians 1:27–31 VERIFIED — the STATED PURPOSE CLAUSE is "so that no human being might boast." IT IS ABOUT BOASTING-PREVENTION. It does NOT mean lack of scholarship = superior interpretation, nor that scholars are people Yah intends to shame.** **Proverbs 2:1–6 and 4:5–7 VERIFIED push the other way — "seek it like silver and search for it as for hidden treasures" · "Get wisdom; get insight."** **→ LEARN RELENTLESSLY WITHOUT LETTING LEARNING BECOME GROUNDS FOR BOASTING. Proverbs 2:6 holds both: you SEARCH, and the LORD GIVES.**
+
+> ### 🆕 **NEW EPISTEMOLOGICAL RULE — PROMPTING ≠ PROOF: a thought, recollection, intuition, dream, conviction or perceived spiritual prompting may LEGITIMATELY GENERATE a research question, but does NOT establish the answer. It must survive the same controls as every other hypothesis.**
+>
+> ### **This leaves Yah completely free to have prompted something WITHOUT making prompting an evidentiary shortcut. THE THOUGHTS NEED NOT BE SUPPRESSED, AND NEED NOT BE CANONIZED. BRING THEM TO THE TEXT.** *(ADR-0001's epigraph: do not quench the Spirit — AND test everything.)*
+
+### PART TWO — the Localized-Messiah Warning
+
+**Matthew 24:23–27 VERIFIED:** *"if they say to you, 'Look, he is in the wilderness,' DO NOT GO OUT. If they say, 'Look, he is in the inner rooms,' DO NOT BELIEVE IT. For as the lightning comes from the east and shines as far as the west, so will be the coming of the Son of Man."*
+
+> ### 🔑 **HIS FOLLOWERS WERE NOT SUPPOSED TO IDENTIFY THE *PAROUSIA* BY SOMEONE GIVING THEM MESSIAH'S PHYSICAL COORDINATES. Physical-location claims are NOT reliable evidence of His promised coming.**
+
+**🆕 AND 24:28 CLOSES A LOOP FROM SIDE BRANCH 30½: "Wherever the corpse is, there the vultures will gather" — THE SAME SAYING LUKE 17:37 GIVES AS THE ANSWER TO "WHERE, LORD?" after the one-taken-one-left sayings. Visible only because 24:23–28 was retrieved as a BLOCK rather than stopping at the lightning verse. Feeds q105 directly (q142).**
+
+**Reconnects the cloud study:** Daniel 7's Son of Man moves TOWARD the Ancient of Days · Revelation 5's Lamb approaches the throne · Revelation 3:21 "I conquered and SAT DOWN." → **resurrection → exaltation → heavenly enthronement → authority → judgment/coming language.** **Considerably more sophisticated than "leaves earth, waits millennia, descends."**
+
+> ### 🆕 **NEW RULE — ANTI-INVERSION BRAKE: correcting an overgeneralized interpretation does NOT justify adopting its categorical opposite. If "coming" does not ALWAYS mean physical relocation, that does NOT establish that it NEVER does.** **Same methodological error, different conclusion. Companion to the Anti-Replacement Principle.**
+
+> ### ❗❗ **AND THE INFERENCE DECLINED AT ITS MOST ATTRACTIVE MOMENT: the proposal that the millennial reign must therefore have occurred somewhere physically inaccessible IS NOT ESTABLISHED BY MATTHEW 24.** **What it establishes: location-claims don't authenticate the *parousia*. What it does NOT establish: the location or mode of the millennial reign · that Messiah was physically hidden · Rupes Nigra · that the *parousia* was invisible.**
+>
+> ### **AND THE PRIOR QUESTIONS COME FIRST — including 🔑 DOES REVELATION 20 SPECIFY THE GEOGRAPHICAL LOCATION AT ALL? If it doesn't, WE CANNOT FILL THAT BLANK MERELY BECAUSE A PROPOSED GEOGRAPHY WOULD SOLVE THE PROBLEM (q143).** **"Inaccessible" is at least SIX distinct possibilities, not one.**
+
+**⚖️ But one thing keeps the hypothesis interesting: Revelation 20:8 has Satan deceiving "the nations at the four corners of the earth" — SO NATIONS APPARENTLY EXIST TO BE DECEIVED. The intuition that ordinary populations coexist with the reign is NOT merely external speculation; REVELATION ITSELF WILL FORCE THE QUESTION.**
 
 ---
 

@@ -632,6 +632,34 @@ For the fuller working-out of the worked example above (Yeshua's Israel-focused 
 
 ---
 
+## Prompting ≠ Proof *(added Side Branch 35½)*
+
+> **A thought, recollection, intuition, dream, conviction, or perceived spiritual prompting may LEGITIMATELY GENERATE a research question — but it does NOT establish the answer.** The proposed connection must subsequently survive the same textual, contextual, intertextual, historical, lexical and falsification controls applied to every other hypothesis.
+
+> ### **This leaves Yah completely free to have prompted something WITHOUT making divine prompting an evidentiary shortcut.**
+>
+> ### **THE THOUGHTS NEED NOT BE SUPPRESSED, AND NEED NOT BE CANONIZED. BRING THEM TO THE TEXT.**
+
+**Why this belongs in the epistemology rather than only in the checklist:** this project's own record shows recollection producing **all three** outcomes —
+
+| Outcome | Worked instance |
+|---|---|
+| **Wrong** | "Satan is called the son of perdition" — **John 17:12 is JUDAS** *(Side Branch 34½)* |
+| **Partly wrong** | the Sukkot/rain objection — real text, misremembered details, **and a missing identity step** *(Stage 30)* |
+| **Astonishingly relevant** | **Jonah's "belly of Sheol"** *(32½)* · **the two at the mill** *(30½)* · **Revelation 20:3's nations** *(27½)* |
+
+> ### **THE MEMORIES GENERATE QUESTIONS. THE METHODOLOGY JUDGES THEM.**
+
+**Consistent with this document's founding posture and ADR-0001's epigraph: *do not quench the Spirit* — AND *test everything; hold fast what is good.* Neither clause may cancel the other.**
+
+**And the counterweight on learning, since 1 Corinthians 1:27 is easily misapplied here:** its **stated purpose clause** is *"so that no human being might boast"* — **boasting-prevention, not a claim that lack of scholarship interprets better.** Proverbs pushes the other way: *"seek it like silver and search for it as for hidden treasures"* (2:4) · *"Get wisdom; get insight"* (4:5). **And Proverbs 2:6 holds both together — you SEARCH, and the LORD GIVES.**
+
+> ### **THE BIBLICAL POSTURE: LEARN RELENTLESSLY WITHOUT ALLOWING LEARNING TO BECOME GROUNDS FOR BOASTING.**
+
+*(Full treatment: [[01u-if-they-say-he-is-in-the-wilderness]] Part One.)*
+
+---
+
 ## Role–Act Distinction *(added Stage 23)*
 
 > **Do not equate performing an act with holding the formal ministry/office associated with that act.**
