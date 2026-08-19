@@ -800,6 +800,18 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 > ### ⚠️ **A PHENOMENON TO BE DEMONSTRATED, NEVER ASSUMED (q94).**
 
+### ❓ Question–Answer Structural Control *(Stage 35)*
+> **When one vision ends with an EXPLICIT UNRESOLVED QUESTION and the following vision appears to supply the category of persons capable of answering it, TEST THE SECTIONS AS A LITERARY UNIT before treating the intervening vision as an unrelated chronological event.**
+
+*Standing example: Revelation 6:17 — who can stand? → Revelation 7's sealed servants and multitude before the throne.* **Simple — and it could prevent a massive chronological error.**
+
+### 🎚️ Delegated-Power Control *(Stage 35)*
+> **When Revelation says authority WAS GIVEN to an agent, distinguish PERMITTED/DELEGATED CAPACITY from ULTIMATE SOVEREIGNTY. The grammatical recipient of authority is not thereby identified as its ultimate source.**
+
+*Warrant: Revelation 6:2 a crown **was given** · 6:4 **was permitted**… **was given** a great sword · 6:8 they **were given** authority.* **Yah's throne was already occupied before any of these powers moved (4:2). Even terrifying agents operate within bounded permission — ⚠️ which does NOT make their actions righteous, only NOT SOVEREIGN.** **Indispensable at Revelation 13, where the dragon gives authority to the beast.**
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -835,6 +847,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **3.1** | 2026-08-18 | Added **Question–Answer Structural Control** and **Delegated-Power Control** (Stage 35). Records that the **Revelation 5 Exaltation Hypothesis SURVIVED its first major test at Revelation 6 — not proven** — and that the cosmic-judgment finding (Isaiah 13 · Isaiah 34 · Ezekiel 32) held on contact, with **Isaiah 34's rolled-up-like-a-scroll nearly verbatim at Revelation 6:14**. |
 | **3.0** | 2026-08-18 | **THE REVELATION CONTROLS** — seventeen rules built BEFORE Revelation's visions were interpreted (Stages 31–34½): Seal–Nearness · Original-Audience · Internal-Interpretation Priority · Temporal-Cluster · Typological Correspondence · Clear-Text Load Bearing · Coming-Language · Present-Reality/Future-Consummation · Application–Exegesis · **Kingdom ≠ Millennium** · Narrative-Timing · Foundational Reach ≠ Exhaustive Contact · Vision Sequence ≠ Event Sequence · **Hear–See Correspondence** · Conquest-by-the-Lamb · Description Before Identification · Partial-Parallel Brake. Glossary: *typology · exegesis · application · eisegesis · recapitulation*. Records the **Revelation 5 Exaltation Hypothesis** with its falsification condition. |
 | **2.9** | 2026-08-17 | Added the **Consummation–Exhaustion Distinction**, the **Prophetic-Compression Brake** (+ glossary *prophetic compression*), the **Report–Event Distinction** (+ glossary *anecdotal evidence*), and the **Stated-Restriction Rule** (Stage 30 + Side Branch 30½). Also adopted the working label **Post-Millennial Little-Season Hypothesis** — see [[01k-can-an-age-end-while-resurrection-remains-ahead]] §9 — because *partial preterism* does NOT place anyone in the little season. |
 | **2.8** | 2026-08-17 | Added the **Metaphorical–Bodily Distinction** and **Category-Lock**, with the **resurrection taxonomy (A–E)** (Stage 29). Category-Lock generalizes four prior forced separations — *Israel*, *world*, *age*, *resurrection*. |

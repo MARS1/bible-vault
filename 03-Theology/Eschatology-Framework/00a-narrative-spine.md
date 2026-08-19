@@ -76,7 +76,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **33½** | ⚙️ "Forbidden to Speak the Word in Asia" | [[01q-forbidden-to-speak-the-word-in-asia]] |
 | **34** | Revelation 4–5: The Throne, the Scroll, and the Lamb | [[01r-revelation-4-5-the-throne-the-scroll-and-the-lamb]] |
 | **34½** | ⚙️ The Dragon's Tail, "Son of Perdition," and the Prodigal | [[01s-the-dragons-tail-son-of-perdition-and-the-prodigal]] |
-| **35** | *(next)* **🔑 The Seals — Revelation 6** | — |
+| **35** | **🔑 Revelation 6: The Seals, the Martyrs, and Cosmic Collapse** | **[[01t-revelation-6-the-seals-the-martyrs-and-cosmic-collapse]]** |
+| **36** | *(next)* **🔑 Revelation 7 — the 144,000 and the innumerable multitude** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1091,7 +1092,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stages 31–34½ — Daniel 12, and the Entry into Revelation *(current: Stage 34½)*
+## Stages 31–34½ — Daniel 12, and the Entry into Revelation
 
 **Files:** [[01m-daniel-12-resurrection-sealing-and-the-time-of-the-end]] · [[01n-revelation-1-the-book-tells-us-how-to-read-it]] · [[01o-jonah-sheol-three-days-and-the-keys-of-death]] · [[01p-revelation-2-3-seven-assemblies-repeated-comings-and-the-coming-trial]] · [[01q-forbidden-to-speak-the-word-in-asia]] · [[01r-revelation-4-5-the-throne-the-scroll-and-the-lamb]] · [[01s-the-dragons-tail-son-of-perdition-and-the-prodigal]]
 
@@ -1209,7 +1210,52 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 35 — 🔑 Revelation 6: The Seals, the Martyrs, and Cosmic Collapse *(current)*
+
+**File:** [[01t-revelation-6-the-seals-the-martyrs-and-cosmic-collapse]]
+
+> ### **A THRESHOLD: no longer building tools FOR Revelation — TESTING WHETHER THEY SURVIVE CONTACT WITH IT.**
+
+**🔑 THE COSMIC-JUDGMENT FINDING HELD.** Isaiah 13 (Babylon) · Isaiah 34 (Edom) · Ezekiel 32 (Egypt) all describe historical judgments in darkened-sun, falling-star, rolled-up-heaven language **without creation ceasing to exist** — and **Isaiah 34 rolled-up-like-a-scroll is nearly verbatim Revelation 6:14.** **That finding was established stages earlier, against a different question, before Revelation was open. REVELATION CALLED IT BACK; WE DID NOT BRING IT.**
+
+**🔑🔑 EZEKIEL 14:21 VERIFIED — the fourth seal FOUR judgments are Ezekiel four: SWORD · FAMINE · WILD BEASTS · PESTILENCE — and EZEKIEL NAMES JERUSALEM as the target.** **⚠️ BRAKE APPLIED IMMEDIATELY: vocabulary ancestry is NOT target identification. This establishes that Revelation imagery is COVENANTAL rather than generic — not that Revelation 6 target is Jerusalem (q136).**
+
+**🔑 FALL ON US — the chain verified end to end: Hosea 10:8 → LUKE 23:28–31, where YESHUA HIMSELF quotes it while being led to crucifixion and directs it at JERUSALEM WOMEN AND THEIR CHILDREN in days that are coming → Revelation 6:16.**
+
+**🆕 AND A DETAIL THE TRANCHE HAD NOT FLAGGED — found only because Matthew 23:35 was retrieved in full: THE ALTAR APPEARS ON BOTH SIDES.** Matthew 23 locates a murder **between the sanctuary and the altar**; Revelation 6:9 locates the martyrs **under the altar**. **Matthew 23 also has righteous blood, Jerusalem, and THIS GENERATION.**
+
+**⚖️ THE FIRST-CENTURY JUDGMENT CLUSTER, stated at its real strength:** Matthew 23 (blood · altar · this generation · Jerusalem) · Matthew 24 (temple · wars/famines/cosmic signs · this generation) · Luke 23 (Jerusalem women · mountains fall on us) · Revelation 6 (war/scarcity/death · **martyrs asking for blood-vindication** · cosmic signs · mountains fall on us). **CANNOT RESPONSIBLY BE IGNORED — AND DOES NOT YET PROVE IDENTITY.**
+
+**🆕 6:11 REST A LITTLE LONGER joins the temporal cluster:** *must soon take place* · *the time is near* · *I will come to you soon* · *I am coming soon* · seven historical assemblies · *those who pierced him* · John already a partner in the tribulation. **WEIGH CUMULATIVELY, NOT ONE AT A TIME.**
+
+**🆕 Fourth seal reconnects Side Branch 32½ immediately: the rider name was DEATH, and HADES followed him — and Revelation 1:18 has ALREADY told us Yeshua holds their keys. THEY ARE NOT INDEPENDENT SOVEREIGNS.** **And their authority WAS GIVEN, like the first rider crown and the second sword → new rule DELEGATED-POWER CONTROL, indispensable at Revelation 13.**
+
+**🆕 6:17 WHO CAN STAND? runs straight into chapter 7 → new rule QUESTION–ANSWER STRUCTURAL CONTROL. Revelation 7 is likely an ANSWER, not an unrelated interruption.**
+
+> ### ⚖️ **VERDICT: THE REVELATION 5 EXALTATION HYPOTHESIS SURVIVED ITS FIRST MAJOR TEST — NOT PROVEN. The first-century horizon is presently becoming more textually economical, not less.**
+>
+> ### ❗ **FIVE IDENTIFICATIONS AVAILABLE AND DECLINED, EVERY ONE OF WHICH WOULD HAVE HELPED: the white rider (q135) · the seals target (q136) · the falling stars (q138) · whether the sixth seal is specifically Jerusalem judgment (q136) · whether the seals are ONE bounded sequence or range beyond it (q139). KEEP ALL FIVE OPEN.**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 36 — 🔑 REVELATION 7: THE 144,000 AND THE INNUMERABLE MULTITUDE**
+
+> **John HEARS a number — 144,000, sealed, from the tribes of Israel.**
+> **Then John LOOKS — and SEES a multitude no one could number, from every nation, tribe, people and language.**
+>
+> ### **HE HEARD LION AND SAW LAMB. NOW HE HEARS NUMBERED ISRAEL AND SEES AN INNUMERABLE MULTINATIONAL MULTITUDE.**
+
+**Questions, NONE pre-decided:** two groups? · one group represented twice? · Israel and the nations joined but distinguished? · different chronological populations? · **and what does SEALED mean, given that Revelation later gives the beast its own MARK?**
+
+**Tools already in hand:** **Hear–See Correspondence** (Stage 34) · **Question–Answer Structural Control** (Stage 35) · **Category-Lock** (Stage 29) · and the whole **Romans 9–11 arc** on Israel and the nations (Stages 22–24).
+
+> ### ❗ **STANDING DISCIPLINE: investigate it WITHOUT HIJACKING EITHER ISRAEL OR THE NATIONS. Expansion without erasure has held since Stage 21. It holds here too.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (34½ → 35), Preserved
 
 ### **STAGE 35 — 🔑 THE SEALS (Revelation 6). THE FIRST GENUINELY DANGEROUS TEST.**
 
