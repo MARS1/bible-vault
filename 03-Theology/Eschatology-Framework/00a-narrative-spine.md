@@ -79,10 +79,12 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **35** | **🔑 Revelation 6: The Seals, the Martyrs, and Cosmic Collapse** | **[[01t-revelation-6-the-seals-the-martyrs-and-cosmic-collapse]]** |
 | **35½** | **⚙️ "If They Say, He Is in the Wilderness" — and the Provenance of the Investigation** | **[[01u-if-they-say-he-is-in-the-wilderness]]** |
 | **36** | **🔑 Revelation 7: The 144,000 and the Innumerable Multitude** *(incl. Side Note 36½ — Revelation 14)* | **[[01v-revelation-7-the-144000-and-the-innumerable-multitude]]** |
-| **37** | Revelation 8–9: Silence, Trumpets, the Abyss, and the Euphrates | *(pending write-up)* |
+| **37** | Revelation 8–9: Silence, Trumpets, the Abyss, and the Euphrates | [[01y-revelation-8-9-silence-trumpets-abyss-and-euphrates]] |
 | **37½** | 🔒 **Sexual Morality, Marriage, and Repentance** *(PRIVATE — unabridged only)* | **[[01w-sexual-morality-marriage-and-repentance]]** |
 | **38** | **🔑 Revelation 10–11: The Little Scroll, the Temple, and the Two Witnesses** | **[[01x-revelation-10-11-the-little-scroll-the-temple-and-the-two-witnesses]]** |
-| **39** | *(next)* **🔑 Revelation 12 — the woman, the dragon, and the war in heaven** | — |
+| **39** | **🔑🔑 Revelation 12: The Woman, the Dragon, the Child, and the War in Heaven** | **[[01z-revelation-12-the-woman-the-dragon-and-the-war-in-heaven]]** |
+| **39½** | **🔑 The Short Time, Apostolic Mission, and the Completion of the Martyrs** *(historical control)* | **[[02a-the-short-time-apostolic-mission-and-the-completion-of-the-martyrs]]** |
+| **40** | *(next)* **🔑 Revelation 13 — the beast, the image, the mark, and 666** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1357,7 +1359,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 38 — 🔑 Revelation 10–11: The Little Scroll, the Temple, and the Two Witnesses *(current)*
+## Stage 38 — 🔑 Revelation 10–11: The Little Scroll, the Temple, and the Two Witnesses
 
 **File:** [[01x-revelation-10-11-the-little-scroll-the-temple-and-the-two-witnesses]]
 
@@ -1385,11 +1387,97 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **Cumulative judicial narrative now: Mt 23 → Lk 23 → Rev 6 → Rev 8 → Rev 11. MATERIALLY STRENGTHENED — NOT DEMONSTRATED.**
 
-**⚠️ Stage 37 (Revelation 8–9) was delivered as a tranche but its write-up is PENDING — the trumpets, Wormwood, the abyss, Abaddon/Apollyon, and the four angels at the Euphrates (incl. the corrected-memory case: Revelation 9's bound angels vs Revelation 16's Euphrates drying and frog-like spirits are SEPARATE passages). q160.**
+**📌 Stage 37 (Revelation 8–9) write-up debt DISCHARGED — see [[01y-revelation-8-9-silence-trumpets-abyss-and-euphrates]]. Originally pending — the trumpets, Wormwood, the abyss, Abaddon/Apollyon, and the four angels at the Euphrates (incl. the corrected-memory case: Revelation 9's bound angels vs Revelation 16's Euphrates drying and frog-like spirits are SEPARATE passages). q160.**
+
+---
+
+## Stage 37 — Revelation 8–9: Silence, Trumpets, the Abyss, and the Euphrates *(write-up debt discharged)*
+
+**File:** [[01y-revelation-8-9-silence-trumpets-abyss-and-euphrates]] · **⚠️ WRITTEN LATE. Delivered as a tranche, held at q160, written after Stages 38–39 had already leaned on its findings. The delay is recorded rather than hidden. ⚠️ AND NOTHING IN IT WAS RETRIEVED VERBATIM — every citation is REPORTED, NOT VERIFIED (q161).**
+
+**Seventh seal opens with SILENCE — and Tanakh supplies the environment: Habakkuk 2:20 · Zephaniah 1:7 · Zechariah 2:13, all pairing Yah's presence and imminent judgment with the cessation of human speech.**
+
+**🔑 THE PRAYERS RETURN: incense with "the prayers of all the saints" → ALTAR FIRE CAST DOWN → trumpets begin. PRAYER RISES, JUDGMENT DESCENDS — continuing 6:10's "how long?" ⚠️ "all the saints" forbids claiming these are exclusively the Rev 6 prayers.** Ezekiel 10 scatters sanctuary coals over **Jerusalem** — accumulating, not declaring.
+
+> ### 🔑 **THE NEW EXODUS PATTERN NAMED HERE — and the question deliberately BANKED rather than answered: "IF REVELATION CASTS SOME CONDEMNED POWER IN THE ROLE OF EGYPT, WHO OCCUPIES THAT ROLE?" ANSWERED TWO CHAPTERS LATER AT 11:8. THAT IS WHAT SEQUENTIAL READING BUYS.**
+
+**Jeremiah 51's Babylon as a BURNT MOUNTAIN · Wormwood saturated by Jeremiah 9:15 and 23:15 · cosmic-language controls holding.**
+
+**🆕 MEASURED PARTIAL JUDGMENT — the repeated THIRDS are too systematic to ignore: judgment severe but BOUNDED, warning against identifying every apocalyptic catastrophe with FINAL CONSUMMATION. ⚠️ And stated precisely: this gives the past-fulfilment hypothesis CONCEPTUAL ROOM — conceptual possibility is NOT historical demonstration.**
+
+**Fallen star of 9:1: PERSONAL, and the key is GIVEN — Delegated-Power again. ❌ NOT established as Satan. Abaddon/Apollyon: ❌ NOT automatically Satan either.** **Locusts EXPLICITLY forbidden to harm vegetation (so not ordinary insects) and forbidden to harm THE SEALED — Revelation 7 was no interruption, and the EZEKIEL 9 STRUCTURE strengthens (q145). Authority bounded on every axis: who · what · not-what · five months.** **📌 JOEL BEFORE HELICOPTER — Joel 1–2's locusts already run "like horses… like the rumbling of chariots."**
+
+**🔑 SIXTH TRUMPET — THE EUPHRATES, REACHED IN SEQUENCE. ⚠️ CORRECTED-MEMORY CASE STUDY: the recollection blended Revelation 9's FOUR BOUND ANGELS with Revelation 16's DRYING of the Euphrates and its separate FROG-LIKE SPIRITS. Real components, compressed together. DO NOT MERGE. Memory generated the question; the text reconstructed the passage.** ⚠️ Parthian/Roman-war identifications are legitimate to INVESTIGATE — Revelation names neither.
+
+**🔑🔑 AND THE CHAPTER ENDS WITH WHAT MATTERS MOST: the survivors DID NOT REPENT. 🆕 JUDGMENT–REPENTANCE CONTROL — judgments explicitly evaluated by repentance are MORAL AND COVENANTAL CONFRONTATIONS, not a disaster timetable.** **Exodus does the same: plague → refusal → plague → "Pharaoh will not relent." THE NEW EXODUS PATTERN REPRODUCES EXODUS' THEOLOGICAL STRUCTURE, not just its visuals.** **📌 This verse triggered Side Study 37½.**
+
+---
+
+## Stage 39 — 🔑🔑 Revelation 12: The Woman, the Dragon, the Child, and the War in Heaven
+
+**File:** [[01z-revelation-12-the-woman-the-dragon-and-the-war-in-heaven]]
+
+> ### **THE CHAPTER THE INVESTIGATION HAS CIRCLED SINCE THE BEGINNING — REACHED IN SEQUENCE, WITH 38 STAGES OF CONTROLS IN HAND. And the chapter labels itself: "A great SIGN appeared in heaven."**
+
+**Woman: sun + moon + TWELVE STARS → Genesis 37's Israel/Jacob covenantal matrix. ⚠️ Backdrop ≠ definition.** **Mary alone is TOO NARROW — the woman flees, is nourished 1,260 days, and has OTHER OFFSPRING. Working possibility: THE COVENANT PEOPLE FROM WHOM MESSIAH COMES, with Mary personally embodying that role. Corporate AND personal, neither erasing the other.**
+
+> ### 🔑 **DRAGON = SATAN — STATED, NOT INFERRED (12:9). INTERNAL-INTERPRETATION PRIORITY AT ITS CLEAREST. AND THE CONTRAST IS THE POINT: when Revelation wants to identify something, IT DOES — which is exactly why its silences at 9:1, Abaddon, the two witnesses and the 144,000 must be respected.**
+
+**Tail-sweep: 🟢 STRONG that the stars are angelic beings aligned with the dragon · ❌ NOT ESTABLISHED that 12:4 and 12:7–9 are the same event in strict sequence (q132).** **Child = Messiah via Psalm 2's rod of iron ✅ — an easy identification, said plainly rather than manufacturing difficulty.**
+
+> ### ❗❗ **BORN → CAUGHT UP TO THE THRONE. MINISTRY, BAPTISM, TEACHING, CRUCIFIXION, RESURRECTION — ALL ABSENT.**
+>
+> ### 🆕 **VISIONARY COMPRESSION CONTROL: Revelation may COMPRESS historically separated events into a brief symbolic sequence when its purpose is THEOLOGICAL rather than BIOGRAPHICAL; missing intermediate events must NOT be read as absent from the underlying history. REVELATION *DEMONSTRATED* THIS — it was not imported to rescue a timetable. ⚠️ And its corollary restrains this project as much as it helps: adjacent visionary scenes need not be adjacent historical moments.**
+
+**🔑🔑 12:10–11 VERIFIED — the accuser thrown down, and "THEY HAVE CONQUERED HIM BY THE BLOOD OF THE LAMB and by the word of their testimony, for THEY LOVED NOT THEIR LIVES EVEN UNTO DEATH." NOT a cosmic duel. THE WAR IS INTERPRETED THROUGH THE SACRIFICE.** **📌 The author's own correction at 32½ — "he didn't have to fight anybody" — supplied BEFORE reaching this verse, and vindicated by it (q131 CONFIRMED).**
+
+**🔑 CROSS–CASTING-DOWN HYPOTHESIS → STRONG. Four internal supports. ⚠️ Open: cross specifically, or that victory COMBINED with later historical implementation? (q162.)**
+
+**🔑 JOHANNINE CLUSTER, all VERIFIED: Luke 10:18 · ❗ John 12:31–32 — "NOW will the ruler of this world be cast out… when I am LIFTED UP FROM THE EARTH" · John 16:11. Revelation dramatizes apocalyptically what the Gospel states discursively.** **HEAVENLY-COURT TRADITION: Job 1–2 and ✅ Zechariah 3:1–2 (Satan accusing a HIGH PRIEST; "The LORD rebuke you"). The casting down may be LOSS OF PROSECUTORIAL STANDING — war with a JURIDICAL dimension. Hebrews may supply the mechanism: the accuser is not overpowered, he is ANSWERED. ⚠️ Coherent ≠ proven.**
+
+> ### 🛑🛑 **AND THEN THE CHRONOLOGY GOT HARDER — THE STRONGEST FALSIFICATION PRESSURE IN THE INVESTIGATION: CAST DOWN ≠ BOUND. Rev 12 has him on earth in GREAT WRATH, actively persecuting. Rev 20 has him SEALED so he CANNOT DECEIVE THE NATIONS. "CROSS = SATAN BOUND = MILLENNIUM STARTS" IS NOT SUPPORTED BY REVELATION 12.**
+
+**🔑 TWO "SHORT" PERIODS — and the author's interjection SHARPENED the model: he caught the *oligon kairon* (12:12) being silently equated with the post-millennial *mikron chronon* (20:3) and challenged it. HIS READING IS THE CLEANER CANDIDATE — two distinct intervals, the first running from casting-down to binding. Different wording; *kairos* ≠ *chronos*. SIMILARITY EARNED THE QUESTION, NOT THE IDENTITY. 🛑 NOTHING YET ESTABLISHES WHEN THE BINDING BEGINS — do not equate it with the cross OR AD 70 (q163).**
+
+**RECAPITULATION → INCREASINGLY SUPPORTED (not merely hypothetical): chapter 12 returns to birth/exaltation AFTER the seventh trumpet, and repeats the Danielic 1,260/3½ from another angle. ⚠️ AND STAGE 38's REFUSAL STILL STANDS — better-supported is not permission to deploy it wherever a timetable is inconvenient. The evidence promoted it; the need for it did not.**
+
+**12:17 — other offspring "KEEP THE COMMANDMENTS OF GOD *AND* HOLD TO THE TESTIMONY OF JESUS." NOT Torah versus Messiah. NOT obedience versus grace. Revelation holds them together.** **One-third-of-angels: real textual basis 🟢, but the pre-history narrative is RECONSTRUCTED ❌. Isaiah 14: typology more plausible, Babylonian-king context NOT erasable. "Son of perdition" stays put — Revelation supplies ample Satan vocabulary without borrowing a disputed title.** **🎵 Sons of Thunder / seven thunders: real βροντή overlap, significance UNESTABLISHED — and the author flagged his own forcing unprompted (q164).**
+
+---
+
+## Side Branch 39½ — 🔑 The Short Time, Apostolic Mission, and the Completion of the Martyrs *(current)*
+
+**File:** [[02a-the-short-time-apostolic-mission-and-the-completion-of-the-martyrs]] · **A HISTORICAL-CONTROL BRANCH THAT BUILDS THE APPARATUS WHICH COULD DESTROY THE HYPOTHESIS — at the exact moment it started to feel comfortable.**
+
+**🔑 The author's tired recollection was CORRECT: Revelation 6:9–11's martyrs must wait "a little longer" until the NUMBER of fellow servants to be killed is COMPLETE — and Revelation 12:11–12 has the faithful conquering while "loving not their lives even unto death" as the dragon rages because his time is SHORT. Same kind of people, same kind of death, same kind of bounded interval. NEARLY EVERY COMPONENT COMES FROM REVELATION ITSELF. 🛑 RECORD CORRESPONDENCE; DO NOT DECLARE IDENTITY (q165).**
+
+**✅ Acts 9:15 VERIFIED VERBATIM — and it constrains this project: Paul's commission includes "the Gentiles AND KINGS AND THE CHILDREN OF ISRAEL." Any model pushing his mission entirely away from Israel is not reading the commission.**
+
+> ### 🔑 **CORRECTION TO SIDE BRANCH 33½: ASIA WAS NEVER PERMANENTLY CLOSED. Acts 16's prohibition was PARTICULAR AND DIRECTIONAL; Acts 19 has Paul two years in the hall of Tyrannus "so that ALL THE RESIDENTS OF ASIA heard the word." REDIRECTION, NOT REFUSAL — and Ephesus is one of Revelation's seven assemblies. ⚠️ Substantively sound but REPORTED, NOT VERIFIED: Acts 16, 19 and 12 all returned SUMMARIZED (q167).**
+
+**Apostolic timeline c. 30–70 SKETCHED ONLY — every entry requires independent sourcing; evidentiary stratification MANDATORY (NT-attested / datable external / early post-NT / later tradition), especially for apostolic death accounts, which vary enormously in attestation. Stays in the DEFERRED HISTORICAL REGISTER.**
+
+**🛑 THE BRAKE, AT MAXIMUM STRENGTH: DO NOT MOVE THE MILLENNIUM'S BEGINNING TO AD 70 MERELY BECAUSE THE PRECEDING SEQUENCE FITS. Revelation 20 must establish the binding on its own terms.** **📌 Honest gain recorded alongside it: the 30–70 interval was EMPTY SPACE in the model and Revelation is now potentially filling it — which is exactly when a hypothesis becomes seductive.**
+
+> ### 🔑🔑 **DATING BRANCH PROMOTED FROM DEFERRED TO *REQUIRED BEFORE ANY MAJOR CHRONOLOGICAL CONCLUSION* (q166, absorbing q157). BOTH candidates examined with EQUAL aggression. If the LATE date survives overwhelmingly, THIS PROJECT'S CHRONOLOGY MUST ABSORB IT. If ambiguous, THE MANUSCRIPT MUST SAY SO.**
+>
+> ### 🆕 **INDEPENDENT CONVERGENCE REQUIREMENT — earned by a "Sons of Thunder" tangent that led to the biggest methodological hole in the project. 666 and the composition date can each "prove" the other. Establish the date INDEPENDENTLY → read Revelation 13 → investigate 666 INDEPENDENTLY → see whether they CONVERGE. Deciding either first produces a conclusion that feels doubly confirmed while resting on nothing.**
 
 ---
 
 ## Next Stage (not yet written)
+
+### **STAGE 40 — 🔑 REVELATION 13: THE BEAST, THE IMAGE, THE MARK, AND 666**
+
+**The dragon stands beside the sea. A beast rises.** **seven heads · ten horns · blasphemous names · 42 months · war on the saints · authority over nations · a SECOND beast · an IMAGE · a MARK · and **666**.**
+
+**We arrive with the controls already built:** ***Daniel before newspaper*** · ***Deuteronomy before microchip*** · ***Joel before helicopter*** · **Delegated-Power** · **Original-Audience** · the **42-month Danielic architecture** · **Deferred Internal Interpretation** (the beast first appeared almost casually at 11:7).
+
+> ### 🛑 **AND THE NEW ONE THAT GOVERNS THIS STAGE: THE INDEPENDENT CONVERGENCE REQUIREMENT FORBIDS USING 666 TO DATE THE BOOK, OR THE BOOK'S DATE TO DECODE 666.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (38 → 39), Preserved
 
 ### **STAGE 39 — 🔑 REVELATION 12: THE WOMAN, THE DRAGON, AND THE WAR IN HEAVEN**
 

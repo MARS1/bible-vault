@@ -868,6 +868,54 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### 📏 Measured Partial Judgment *(Stage 37)*
+> **Repeated FRACTIONAL limits ("a third of the land… a third of the sea… a third of humanity") indicate BOUNDED, PARTIAL judgment — and warn against automatically identifying every apocalyptic catastrophe with FINAL CONSUMMATION.**
+
+*Warrant: Revelation 8–9's systematically repeated "thirds," alongside the book's repeated "was given" grant-language (Delegated-Power Control).*
+
+> ### **REVELATION ITSELF DISTINGUISHES SEVERE PRELIMINARY JUDGMENTS FROM LATER CONSUMMATIVE JUDGMENT. We may not collapse every judgment scene into "the end of everything."**
+>
+> ### ⚖️ **AND WHAT THIS DOES FOR THIS PROJECT'S OWN HYPOTHESIS, STATED PRECISELY: enormous apocalyptic imagery does NOT necessarily equal final universal consummation — which is exactly the CONCEPTUAL ROOM a past-fulfilment reading requires. **CONCEPTUAL POSSIBILITY IS NOT HISTORICAL DEMONSTRATION.****
+
+### ⚖️ Judgment–Repentance Control *(Stage 37)*
+> **When Revelation explicitly evaluates a judgment by whether its recipients REPENT, the event must be interpreted not merely as physical catastrophe but as part of a MORAL AND COVENANTAL CONFRONTATION between Yah and human rebellion.**
+
+*Warrant: Revelation 9:20–21 — after the trumpets, the survivors "did not repent."*
+
+> ### **THIS PREVENTS REVELATION FROM BECOMING A DISASTER TIMETABLE. The point is not "look how many terrible things happen." The point includes: THEY SAW JUDGMENT AND STILL WOULD NOT TURN.** *(Exodus does the same: plague → refusal → plague → Pharaoh will not relent.)*
+
+### 🗜️ Visionary Compression Control *(Stage 39)*
+> **Revelation may COMPRESS historically separated events into a brief symbolic sequence when its purpose is THEOLOGICAL rather than BIOGRAPHICAL. Missing intermediate events must NOT automatically be interpreted as ABSENT FROM THE UNDERLYING HISTORY.**
+
+*Warrant: Revelation 12:5 — the male child is born and "was caught up to God and to his throne." **The ministry, baptism, teaching, crucifixion and resurrection are ALL ABSENT.***
+
+> ### **REVELATION *DEMONSTRATED* THE CATEGORY. IT WAS NOT IMPORTED TO RESCUE A TIMETABLE. Birth → enthronement is enough.**
+>
+> ### ⚠️ **AND THE COROLLARY CUTS BOTH WAYS, WHICH IS WHY IT IS SAFE TO ADOPT: be extremely cautious about assuming every ADJACENT VISIONARY SCENE represents an IMMEDIATELY ADJACENT HISTORICAL MOMENT. A rule that only ever helps one side is not a rule.**
+
+### 🚫 CAST DOWN ≠ BOUND *(Stage 39 — falsification pressure on this project's own hypothesis)*
+> **Revelation 12's casting down of the dragon and Revelation 20's binding of Satan are DIFFERENT DESCRIPTIONS OF DIFFERENT CONDITIONS and may NOT be equated.**
+
+| Revelation 12 | Revelation 20 |
+|---|---|
+| cast from **heaven to earth** | **seized, bound, thrown into the abyss, SEALED** |
+| **actively persecuting in great wrath**, his time short | **so that he cannot DECEIVE THE NATIONS** |
+
+> ### 🛑 **THEREFORE "CROSS = SATAN BOUND = MILLENNIUM IMMEDIATELY STARTS" IS NOT SUPPORTED BY REVELATION 12.** **AND SEPARATELY: Revelation 12:12's ὀλίγον καιρόν may NOT be identified with Revelation 20:3's μικρὸν χρόνον from conceptual similarity alone — different wording, and *kairos* ≠ *chronos*. SIMILARITY EARNS THE QUESTION, NOT THE IDENTITY.**
+>
+> ### **NOTHING YET ESTABLISHES WHEN THE BINDING BEGINS. DO NOT EQUATE IT WITH THE CROSS *OR* WITH AD 70.**
+
+### 🔗 Independent Convergence Requirement *(Side Branch 39½)*
+> **When two lines of evidence could EACH be used to establish the other, they must be established SEPARATELY, on their own sources, BEFORE either is allowed to support the other. Convergence counts as evidence ONLY when neither line was derived from the other.**
+
+*Warrant: Revelation's composition date and the identity of 666 are mutually capable of "proving" one another.*
+
+> ### **CORRECT ORDER: establish the DATING evidence independently → read Revelation 13 → investigate 666 independently → SEE WHETHER THEY CONVERGE.**
+>
+> ### ❗ **IF WE DECIDE "666 IS NERO" AND THEN USE NERO TO DATE REVELATION EARLY, WE HAVE REASONED IN A CIRCLE — AND WE WILL NOT NOTICE, BECAUSE BOTH STEPS WILL FEEL LIKE EVIDENCE. This is the most likely way this project could fail while feeling successful.**
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -903,6 +951,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **3.5** | 2026-08-19 | Added **Measured Partial Judgment** and the **Judgment–Repentance Control** (Stage 37, write-up debt discharged); **Visionary Compression Control** and **CAST DOWN ≠ BOUND** (Stage 39); the **Independent Convergence Requirement** (39½). **Promoted the Cross–Casting-Down Hypothesis to STRONG** on Revelation 12:10–11 plus the Johannine cluster. **Upgraded RECAPITULATION from hypothetical to INCREASINGLY SUPPORTED** — while Stage 38's refusal to deploy it stands. **Promoted the Revelation DATING question from deferred to REQUIRED before any major chronological conclusion.** |
 | **3.4** | 2026-08-19 | Added the **Revelatory-Limit Control** and the **Dating Independence Control** (Stage 38). Upgraded the **New Exodus Pattern** from general correspondence to a **high-priority hypothesis requiring continued testing**, because Revelation 11:8 calls the city where Messiah was crucified **Egypt** — with the **covenantal-not-ethnic guard written into the same finding**. Opened **Side Study 37½** (private) applying the method inward. |
 | **3.3** | 2026-08-18 | Added **Proleptic-Completion Control** (+ glossary *prolepsis*) and **Deferred Internal Interpretation** (Stage 36 / Side Note 36½), plus a **STATUS NOTE on Hear–See Correspondence** recording that Revelation 7 is its SECOND CANDIDATE application and NOT a proven instance — written specifically so the rule cannot harden into a dogma. |
 | **3.2** | 2026-08-18 | Added **Prompting ≠ Proof** and the **Anti-Inversion Brake** (Side Branch 35½). Records the investigation's **provenance** — begun roughly 2001, ~25 years before this work — as intellectual autobiography **quarantined from the argument**, with the tools' contribution stated in BOTH directions. |
