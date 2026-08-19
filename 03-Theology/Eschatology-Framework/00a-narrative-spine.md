@@ -79,7 +79,10 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **35** | **🔑 Revelation 6: The Seals, the Martyrs, and Cosmic Collapse** | **[[01t-revelation-6-the-seals-the-martyrs-and-cosmic-collapse]]** |
 | **35½** | **⚙️ "If They Say, He Is in the Wilderness" — and the Provenance of the Investigation** | **[[01u-if-they-say-he-is-in-the-wilderness]]** |
 | **36** | **🔑 Revelation 7: The 144,000 and the Innumerable Multitude** *(incl. Side Note 36½ — Revelation 14)* | **[[01v-revelation-7-the-144000-and-the-innumerable-multitude]]** |
-| **37** | *(next)* Revelation 8–9 — the seventh seal, the trumpets, and the Euphrates | — |
+| **37** | Revelation 8–9: Silence, Trumpets, the Abyss, and the Euphrates | *(pending write-up)* |
+| **37½** | 🔒 **Sexual Morality, Marriage, and Repentance** *(PRIVATE — unabridged only)* | **[[01w-sexual-morality-marriage-and-repentance]]** |
+| **38** | **🔑 Revelation 10–11: The Little Scroll, the Temple, and the Two Witnesses** | **[[01x-revelation-10-11-the-little-scroll-the-temple-and-the-two-witnesses]]** |
+| **39** | *(next)* **🔑 Revelation 12 — the woman, the dragon, and the war in heaven** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1282,7 +1285,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 36 — 🔑 Revelation 7: The 144,000 and the Innumerable Multitude *(current)*
+## Stage 36 — 🔑 Revelation 7: The 144,000 and the Innumerable Multitude
 
 **File:** [[01v-revelation-7-the-144000-and-the-innumerable-multitude]] · **includes Side Note 36½ — Revelation 14 already knows more.**
 
@@ -1324,7 +1327,83 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Side Study 37½ — 🔒 Sexual Morality, Marriage, and Repentance *(PRIVATE)*
+
+**File:** [[01w-sexual-morality-marriage-and-repentance]] · **⚠️ UNABRIDGED RESEARCH RECORD ONLY — not manuscript voice, not for any published edition unless the author later chooses specific findings.**
+
+**Trigger: Revelation 9:20–21's survivors who DID NOT REPENT — of murders, sorceries, SEXUAL IMMORALITY, thefts, idolatry. At that point the author turned the interpretive method INWARD rather than treating *porneia* as a category applied to other people.**
+
+> ### **THE METHODOLOGY DOING WHAT IT WAS BUILT FOR. If it is worth anything, eventually it has to be allowed to investigate US, not only Revelation.**
+
+**🔑 A RULE THE AUTHOR SUPPLIED HIMSELF, AGAINST HIS OWN INTEREST, BEFORE ANY TEXT WAS CONSULTED: *someone else's failure toward me does not automatically redefine what obedience requires from me.*** **It governs the branch.**
+
+**Two permission structures REMOVED rather than defended:** **SOLOMON** — Deuteronomy 17:17 VERIFIED, *"he shall not acquire many wives for himself, LEST HIS HEART TURN AWAY"*, and 1 Kings 11 records exactly that outcome · and **"I did it with love"** — Paul's own definition of love *does not rejoice at wrongdoing*, so love and obedience cannot be made opponents.
+
+**One structure NOT removed, which makes it harder:** *"we did not marry in a church"* is **not** a strong biblical basis for concluding no marriage existed (q151).
+
+**Strongest preliminary finding: 1 Corinthians 6:15–20 addresses union with a prostitute directly — and Paul's objection is neither mistreatment, illegality, nor unfairness, but THE SEXUAL UNION ITSELF ("the two will become one flesh"). KINDNESS CANNOT TRANSFORM A PROHIBITED ACT INTO AN OBEDIENT ONE — AND recognizing it as sin DOES NOT require dehumanizing the woman. Independent questions.**
+
+**🔑 AND THE OBSERVATION THAT MATTERS MOST: REVELATION 9 CONDEMNED THOSE WHO *DID NOT REPENT* — NOT SIMPLY THOSE WHO HAD SINNED. If the criterion were the latter, repentance would be irrelevant. And 1 Corinthians 6:11 — "such WERE some of you… you were washed, sanctified, justified." THESE ARE NOT PEOPLE WHOSE BIOGRAPHIES CONTAIN NO SEXUAL SIN; THEIR FORMER CONDUCT DOES NOT GET THE FINAL WORD.**
+
+**Three non-identical moral events separated: ATTRACTION → CULTIVATED FANTASY → SEXUAL CONDUCT.** **Paul's language of SELF-CONTROL implies desire can remain present while behaviour changes — so the task is not "become incapable of attraction" but "do not treat the desire as permission."**
+
+**⚠️ And Revelation 14:4's virginity language may NOT be used to conclude that sexual experience is inferior — HEBREWS 13:4 VERIFIED constrains it: "let marriage be held in honor among all, and let the marriage bed be undefiled." Scripture cannot coherently teach that sex itself contaminates. Nor may "defiled with women" become "women/sex = dirty." (q153.)** **Stage 36's refusal to close the 144,000 identification now matters personally as well as methodologically.**
+
+**📐 HEBREWS 4:15–16 VERIFIED supplies the posture: Yeshua tempted in every respect yet without sin is given as the reason to DRAW NEAR to the throne of grace — NOT the reason to hide.**
+
+**Brakes stated in advance:** do not start from traditional Christian sexual ethics OR from a desired permission · separate description from prescription · separate the spouse's failures from the author's obligations · treat LEGALITY, CONSENT, KINDNESS and BIBLICAL PERMISSIBILITY as four distinct questions · **context before lexicon**, or *porneia* gets a definition chosen once and imposed everywhere — the same failure refused at *gē*, *oikoumenē*, *telos*, *Israel* and *resurrection*.
+
+**The branch does NOT reorder the Revelation spine. q150–q154.**
+
+---
+
+## Stage 38 — 🔑 Revelation 10–11: The Little Scroll, the Temple, and the Two Witnesses *(current)*
+
+**File:** [[01x-revelation-10-11-the-little-scroll-the-temple-and-the-two-witnesses]]
+
+**⚠️ STRUCTURAL: the sixth trumpet has NOT finished. Revelation 10–11:14 sits INSIDE the trumpet structure — 11:14 closes the second woe, and only then does the seventh trumpet sound. NOT floating material.**
+
+> ### ❗❗ **REVELATION 11:8 — THE FIRST TIME THE BOOK SUPPLIES A HISTORICAL REFERENT RATHER THAN A PATTERN: "the great city that symbolically is called Sodom and Egypt, WHERE THEIR LORD WAS CRUCIFIED."**
+>
+> ### **JERUSALEM IS THEREFORE AN EXTREMELY STRONG REFERENT — substantially stronger than "holy city probably means Jerusalem."** **AND PRESERVE THE DISTINCTION: Jerusalem is the HISTORICAL referent; SODOM and EGYPT are explicitly SYMBOLIC designations.**
+
+**🔑 THE NEW EXODUS PATTERN NOW HAS A CANDIDATE TARGET — status upgraded from general correspondence to HIGH-PRIORITY HYPOTHESIS REQUIRING CONTINUED TESTING.** Revelation 8–9 gave Exodus plague vocabulary reproducing Exodus theological structure (judgment exposes hardened rebellion); **11:8 names the city Egypt.**
+
+> ### ⚠️ **AND THE ANTI-ETHNIC GUARD IS WRITTEN INTO THE SAME SECTION, NOT APPENDED LATER: the claim is NOT "Jews = Egyptians" and NOT "Israel rejected and replaced." ISAIAH 1:10 ADDRESSED JERUSALEM'S LEADERSHIP AS "RULERS OF SODOM." THE INDICTMENT IS COVENANTAL BEFORE IT IS ETHNIC — Revelation's Messiah, apostles, martyrs and earliest assemblies are themselves deeply Israelite.** *(Same line held at Revelation 3:9, Stage 33.)*
+
+**🆕 REVELATORY-LIMIT CONTROL — "Seal up what the seven thunders have said, and do not write it down." REVELATION EXPLICITLY TELLS US SOME INFORMATION WAS WITHHELD, which destroys the expectation that a clever enough interpreter can reconstruct every detail. For a project 38 stages into a chronology, that is worth having said by the text itself.**
+
+**🆕 DATING INDEPENDENCE CONTROL — Revelation 11's temple/holy city makes composition date explosive: traditional AD 95–96 vs a pre-70 minority dating. WE CANNOT CHOOSE THE EARLY DATE BECAUSE THE HYPOTHESIS NEEDS IT (q157). AND THE SYMMETRICAL BRAKE: temple language ≠ proof of early composition; late composition ≠ proof the temple cannot refer symbolically or retrospectively.**
+
+**🆕 The temporal thread tightens INTERNALLY: 1:3 the time is NEAR → 6:11 wait A LITTLE LONGER → 10:6 NO MORE DELAY → 11:14 the third woe comes SOON. The 6:11 → 10:6 movement is the martyrs' "how long?" being answered.**
+
+**Two witnesses built from ZECHARIAH 4's olive trees and lampstands; powers resemble Elijah and Moses — but REVELATION NEVER NAMES THEM (q156).** **42 months / 1,260 days / three-and-a-half times = DANIELIC TIME ARCHITECTURE — ⚠️ same duration ≠ same event.** **The beast appears almost casually at 11:7 — DEFERRED INTERNAL INTERPRETATION; chapters 13 and 17 supply it.**
+
+> ### ❗❗ **AND THE SEVENTH TRUMPET MADE THE CHRONOLOGY HARDER, NOT EASIER: 11:15–18 announces KINGDOM + WRATH + JUDGMENT OF THE DEAD + REWARD OF THE SAINTS — ALL BEFORE REVELATION 20.** **Reinforces KINGDOM ≠ MILLENNIUM (q129).**
+>
+> ### 🛑 **NOT HARMONIZED. Recapitulation and prolepsis both exist in the glossary and NEITHER was invoked — because invoking one here because the timetable needs it would be the Prophetic-Compression Brake's exact failure mode in a new costume (q158).**
+
+**Cumulative judicial narrative now: Mt 23 → Lk 23 → Rev 6 → Rev 8 → Rev 11. MATERIALLY STRENGTHENED — NOT DEMONSTRATED.**
+
+**⚠️ Stage 37 (Revelation 8–9) was delivered as a tranche but its write-up is PENDING — the trumpets, Wormwood, the abyss, Abaddon/Apollyon, and the four angels at the Euphrates (incl. the corrected-memory case: Revelation 9's bound angels vs Revelation 16's Euphrates drying and frog-like spirits are SEPARATE passages). q160.**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 39 — 🔑 REVELATION 12: THE WOMAN, THE DRAGON, AND THE WAR IN HEAVEN**
+
+**Where the author's EARLIEST questions finally arrive IN SEQUENCE, with everything now available to constrain them:**
+
+**a woman clothed with the sun · twelve stars · a dragon · a child destined to rule the nations · the child CAUGHT UP TO GOD AND TO HIS THRONE · war in heaven · Michael · Satan cast down · "NOW the salvation and the power and the kingdom… have come" · and "THEY CONQUERED HIM BY THE BLOOD OF THE LAMB."**
+
+**Tools in hand:** **Conquest-by-the-Lamb Control** (q131 — the war MAY narrate the heavenly consequence of the cross rather than separate combat) · **Internal-Interpretation Priority** (1:20 established star→angel *in that vision only*, so 12:4's stars stay open, q119) · **Delegated-Power Control** · **Hear–See Correspondence** with its status note · **Deferred Internal Interpretation** · **q132** on 12:4's tail-sweep vs 12:7–9's war.
+
+> ### ❗ **THEY ARE BEING REACHED BY SEQUENCE, NOT DRAGGED FORWARD — WHICH IS THE ONLY REASON THE ANSWERS WILL BE WORTH ANYTHING.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (36 → 37), Preserved
 
 ### **STAGE 37 — REVELATION 8–9: THE SEVENTH SEAL AND THE TRUMPETS**
 

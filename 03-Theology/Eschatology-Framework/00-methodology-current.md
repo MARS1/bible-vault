@@ -850,6 +850,24 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### 🤐 Revelatory-Limit Control *(Stage 38)*
+> **When Scripture EXPLICITLY WITHHOLDS information, the interpreter must PRESERVE THE BOUNDARY rather than attempting to reconstruct the concealed content through speculation.**
+
+*Warrant: Revelation 10:4 — John hears the seven thunders, prepares to write, and is told **"Seal up what the seven thunders have said, and do not write it down."***
+
+> ### **REVELATION EXPLICITLY TELLS ITS READERS THAT SOME INFORMATION ABOUT THESE EVENTS WAS NOT GIVEN. That destroys the expectation that a sufficiently clever interpreter can reconstruct every detail of the apocalypse.**
+>
+> ### **THERE REALLY ARE THINGS WE ARE NOT SUPPOSED TO KNOW FROM THIS TEXT.** *(Compare Daniel 12:4's sealing and Daniel 12:8 — the prophet himself did not understand the chronology.)*
+
+### 📅 Dating Independence Control *(Stage 38)*
+> **When the interpretation of a passage depends substantially upon the DATE OF COMPOSITION, establish the dating evidence INDEPENDENTLY rather than selecting the date that best supports the desired interpretation.**
+
+*Warrant: Revelation 11:1–2's temple and holy city make composition date chronologically explosive — traditional **AD 95–96** under Domitian versus a minority **pre-AD 70** dating. **The early date would help this project's hypothesis enormously, which is precisely why it must be established from Irenaeus, internal evidence, Nero traditions and the manuscript traditions rather than chosen.***
+
+> ### ⚖️ **AND THE SYMMETRICAL BRAKE, which cuts against the project's own preference: temple language ≠ automatic proof of pre-70 composition · AND late composition ≠ automatic proof that the temple cannot refer symbolically or retrospectively to Jerusalem. BOTH DIRECTIONS NEED INDEPENDENT EVIDENCE.**
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -885,6 +903,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **3.4** | 2026-08-19 | Added the **Revelatory-Limit Control** and the **Dating Independence Control** (Stage 38). Upgraded the **New Exodus Pattern** from general correspondence to a **high-priority hypothesis requiring continued testing**, because Revelation 11:8 calls the city where Messiah was crucified **Egypt** — with the **covenantal-not-ethnic guard written into the same finding**. Opened **Side Study 37½** (private) applying the method inward. |
 | **3.3** | 2026-08-18 | Added **Proleptic-Completion Control** (+ glossary *prolepsis*) and **Deferred Internal Interpretation** (Stage 36 / Side Note 36½), plus a **STATUS NOTE on Hear–See Correspondence** recording that Revelation 7 is its SECOND CANDIDATE application and NOT a proven instance — written specifically so the rule cannot harden into a dogma. |
 | **3.2** | 2026-08-18 | Added **Prompting ≠ Proof** and the **Anti-Inversion Brake** (Side Branch 35½). Records the investigation's **provenance** — begun roughly 2001, ~25 years before this work — as intellectual autobiography **quarantined from the argument**, with the tools' contribution stated in BOTH directions. |
 | **3.1** | 2026-08-18 | Added **Question–Answer Structural Control** and **Delegated-Power Control** (Stage 35). Records that the **Revelation 5 Exaltation Hypothesis SURVIVED its first major test at Revelation 6 — not proven** — and that the cosmic-judgment finding (Isaiah 13 · Isaiah 34 · Ezekiel 32) held on contact, with **Isaiah 34's rolled-up-like-a-scroll nearly verbatim at Revelation 6:14**. |
