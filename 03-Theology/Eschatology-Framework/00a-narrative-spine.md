@@ -78,7 +78,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **34½** | ⚙️ The Dragon's Tail, "Son of Perdition," and the Prodigal | [[01s-the-dragons-tail-son-of-perdition-and-the-prodigal]] |
 | **35** | **🔑 Revelation 6: The Seals, the Martyrs, and Cosmic Collapse** | **[[01t-revelation-6-the-seals-the-martyrs-and-cosmic-collapse]]** |
 | **35½** | **⚙️ "If They Say, He Is in the Wilderness" — and the Provenance of the Investigation** | **[[01u-if-they-say-he-is-in-the-wilderness]]** |
-| **36** | *(next)* **🔑 Revelation 7 — the 144,000 and the innumerable multitude** | — |
+| **36** | **🔑 Revelation 7: The 144,000 and the Innumerable Multitude** *(incl. Side Note 36½ — Revelation 14)* | **[[01v-revelation-7-the-144000-and-the-innumerable-multitude]]** |
+| **37** | *(next)* Revelation 8–9 — the seventh seal, the trumpets, and the Euphrates | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1239,7 +1240,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Side Branch 35½ — ⚙️ "If They Say, He Is in the Wilderness" — and the Provenance of the Investigation *(current)*
+## Side Branch 35½ — ⚙️ "If They Say, He Is in the Wilderness" — and the Provenance of the Investigation
 
 **File:** [[01u-if-they-say-he-is-in-the-wilderness]] · **Two things arrived together and belong in TWO DIFFERENT EVIDENTIARY CATEGORIES.**
 
@@ -1281,7 +1282,63 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 36 — 🔑 Revelation 7: The 144,000 and the Innumerable Multitude *(current)*
+
+**File:** [[01v-revelation-7-the-144000-and-the-innumerable-multitude]] · **includes Side Note 36½ — Revelation 14 already knows more.**
+
+> ### **THE STAGE'S MOST IMPORTANT RESULT IS A REFUSAL.**
+
+**QUESTION–ANSWER STRUCTURAL CONTROL VINDICATED ON ITS FIRST REAL APPLICATION:** Revelation 6 ends *who can stand?* · Revelation 7 shows sealed servants and white-robed worshippers **STANDING** before the throne and the Lamb. **The answer is not "nobody survives Yah's presence" but "THOSE BELONGING TO THE LAMB CAN STAND."**
+
+**🔑🔑 EZEKIEL 9:4 VERIFIED — "Pass through the city, THROUGH JERUSALEM, and put a mark on the FOREHEADS of the men who sigh and groan." Revelation 7 seals foreheads BEFORE judgment proceeds. Pattern established — ⚠️ TARGET NOT (q145).** **And "sealed" does NOT mean physically removed: Ezekiel's marked righteous REMAIN in the place facing judgment, distinguished from those under condemnation.**
+
+**🔑 THE TRIBAL LIST IS DELIBERATELY STRANGE — verified in full, 12,000 each:** **JUDAH FIRST** (not Reuben) · **LEVI included** · **MANASSEH included though he is JOSEPH'S son, not Jacob's** · **EPHRAIM not named** · **DAN ABSENT though Dan IS Jacob's son.** ⚠️ **Correction recorded: this is NOT simply "the original tribes."** **Inference: the list is INTENTIONALLY ARRANGED. UNKNOWN: the precise reason for every modification — Revelation does not say why Dan is missing (q146).**
+
+**🔑 7:14's "the great tribulation" — τῆς θλίψεως τῆς μεγάλης — is a DIRECT LEXICAL CORRESPONDENCE with Matthew 24:21's θλῖψις μεγάλη.** **⚠️ Lexical identity does not prove event identity — but it joins the cluster: Mt 23 (blood · altar · this generation) · Mt 24 (great tribulation · cosmic signs · this generation) · Lk 23 (Jerusalem · mountains fall on us) · Rev 6 (martyrs · a little longer · mountains fall on us) · Rev 7 (the great tribulation). (q147)**
+
+**🆕 ISAIAH 49:10 IS NEARLY VERBATIM AT 7:16–17** — and Isaiah 49:6's "a light for the nations" is precisely the Israel-outward trajectory traced independently at Stages 21–24. **WE ARRIVED WITH EXPANSION WITHOUT ERASURE; WE DID NOT BUILD IT HERE.**
+
+### ❗❗ AND THE REFUSAL
+
+**John HEARS 144,000 from Israel. John LOOKS and SEES an innumerable multinational multitude. The Lion→Lamb manoeuvre one chapter earlier makes the parallel enormously attractive — AND IT WAS NOT APPLIED AS A CONCLUSION.**
+
+> ### **A METHOD THAT ALWAYS PRODUCES THE SAME ANSWER HAS BECOME A DOGMA RATHER THAN A METHOD.**
+>
+> **Evidence FOR one group:** hear→see transition · both associated with Yah · both answer *who can stand* · Israel-structured fullness + nations · fits Expansion Without Erasure.
+> **Evidence FOR two:** **Revelation NEVER says the multitude WAS the 144,000** · one described by Israelite tribes, the other by every nation · their descriptions genuinely differ.
+> **And a THIRD possibility: DISTINCT BUT INTEGRALLY RELATED representations within one redeemed people** — because this project has repeatedly found binary questions badly framed.
+
+**🆕 SIDE NOTE 36½ — AND THE TEXT PUSHED BACK ON ITS OWN.** The author, reading mid-stage, independently remembered the 144,000's later description. **Revelation 14:1–5 VERIFIED: Mount Zion · Father's name on foreheads · a song only they can learn · "have not defiled themselves with women, for they are VIRGINS" · follow the Lamb · redeemed as *aparchē*, FIRSTFRUITS · blameless.**
+
+> ### ❗ **HAD WE DECLARED 144,000 = THE MULTITUDE, REVELATION 14 WOULD FORCE US TO EXPLAIN WHY THAT ENTIRE MULTINATIONAL MULTITUDE IS DESCRIBED AS MALE VIRGINS.** **⚠️ And we may NOT simply announce "virgin means spiritually faithful" — THAT WOULD BE INTERPRETING THE DIFFICULT TEXT ACCORDING TO WHAT OUR PREFERRED HYPOTHESIS NEEDS (q148).**
+>
+> ### **FIRSTFRUITS normally implies a relationship between a FIRST PORTION and SOMETHING FOLLOWING — which weighs AGAINST a simple equation. PRESSURE, NOT DESTRUCTION.**
+>
+> ### **THE RECOLLECTION DID NOT EXPOSE SOMETHING MISSED — IT FOUND THE VERY PASSAGE THE STAGE WAS DELIBERATELY WAITING FOR, AND IT INCREASED PRESSURE ON THE ATTRACTIVE READING RATHER THAN CONFIRMING IT.** *(Prompting ≠ Proof working exactly as written.)*
+
+**🆕 THREE NEW RULES: PROLEPTIC-COMPLETION CONTROL** *(consummation-like imagery inside an earlier vision does not prove the narrative has reached the end — 7:17's "wipe away every tear" recurs near Revelation's conclusion)* · **DEFERRED INTERNAL INTERPRETATION** *(if Revelation later revisits a symbol, postpone identification until that evidence is incorporated)* · **glossary: prolepsis.**
+
+**🆕 And a distinction that may decide Matthew 24:14 eventually — THREE non-identical claims now separated: GEOGRAPHIC/ETHNIC REACH · INDIVIDUAL RECEPTION · EXHAUSTIVE INDIVIDUAL CONTACT.** **7:9's redeemed are "FROM every nation," same construction as 5:9. ⚠️ Record the correspondence; DO NOT CASH IT.**
+
+> ### ❓ **UNRESOLVED, VERBATIM IN THE REGISTER: ARE THE 144,000 AND THE INNUMERABLE MULTITUDE IDENTICAL, DISTINCT, OR DISTINCT-BUT-INTEGRALLY-RELATED REPRESENTATIONS OF YAH'S REDEEMED PEOPLE?**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 37 — REVELATION 8–9: THE SEVENTH SEAL AND THE TRUMPETS**
+
+**The seventh seal opens — and unexpectedly: SILENCE IN HEAVEN.** Then incense rises with **the prayers of the saints**; fire from the altar is thrown upon the earth/land; **and the trumpets begin.**
+
+**Then it becomes strange:** hail and fire mixed with blood · a burning mountain thrown into the sea · **Wormwood** · darkened sun, moon and stars · **the abyss** · locusts that are not ordinary locusts · and finally **four angels bound at the EUPHRATES**.
+
+> ### 🔑 **THE EUPHRATES ARRIVES NATURALLY, IN SEQUENCE — one of the author's own earlier recollections, reached WITHOUT having to be dragged forward.**
+>
+> ### **AND THE PRAYERS OF THE SAINTS RISING WITH THE INCENSE RECONNECT DIRECTLY TO REVELATION 6:10's "HOW LONG?" — the martyrs' cry may be about to be answered.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (35½ → 36), Preserved
 
 ### **STAGE 36 — 🔑 REVELATION 7: THE 144,000 AND THE INNUMERABLE MULTITUDE**
 

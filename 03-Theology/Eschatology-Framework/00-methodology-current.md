@@ -826,6 +826,30 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### ⏭️ Proleptic-Completion Control *(Stage 36)*
+
+**Glossary — prolepsis:** *portraying or anticipating a later reality BEFORE reaching its full chronological occurrence in the narrative.*
+
+> **Revelation can portray the SECURE DESTINY or HEAVENLY STATUS of Yah's people before the narrative reaches final consummation. Therefore CONSUMMATION-LIKE IMAGERY INSIDE AN EARLIER VISION DOES NOT BY ITSELF PROVE THAT CHRONOLOGICAL HISTORY HAS REACHED THE END.**
+
+*Warrant: Revelation 7:15–17 gives temple-dwelling, no hunger or thirst, the Lamb as shepherd, springs of living water, and God wiping away every tear — **and that last line recurs near Revelation's conclusion**, while the narrative still has fourteen chapters to run.*
+
+> ### **A BRAKE THAT CUTS BOTH WAYS: against a hasty "this must be the end," AND against a hasty "therefore this is only future." Likely important at the millennium.**
+
+### ⏳ Deferred Internal Interpretation *(Side Note 36½)*
+> **When Revelation introduces a symbol or group and LATER EXPLICITLY REVISITS IT with additional characteristics, POSTPONE unnecessary identification until the later internal evidence has been incorporated.**
+
+*Warrant: the 144,000 of Revelation 7 return at **Revelation 14:1–5** with Mount Zion, the Father's name on foreheads, an exclusive song, virginity/non-defilement language, following the Lamb, blamelessness, and designation as **aparchē — firstfruits**.* **Revelation itself supplies the later evidence; speculation is not needed to fill the gap.**
+
+### 🔒 Hear–See Correspondence — STATUS NOTE *(Stage 36)*
+> ### ❗ **Revelation 7 is the rule's SECOND CANDIDATE APPLICATION — NOT A PROVEN INSTANCE.**
+>
+> **Revelation 5 (Lion heard → Lamb seen) is established: the vision explicitly interprets the announcement.** **Revelation 7 (144,000 heard → multitude seen) is PLAUSIBLE and UNPROVEN — Revelation never says the multitude WAS the number, the descriptions genuinely differ, and Revelation 14 subsequently adds characteristics that PRESSURE the equation.**
+>
+> ### **A METHOD THAT ALWAYS PRODUCES THE SAME ANSWER HAS BECOME A DOGMA RATHER THAN A METHOD. This note exists so the rule cannot quietly harden into one.**
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -861,6 +885,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **3.3** | 2026-08-18 | Added **Proleptic-Completion Control** (+ glossary *prolepsis*) and **Deferred Internal Interpretation** (Stage 36 / Side Note 36½), plus a **STATUS NOTE on Hear–See Correspondence** recording that Revelation 7 is its SECOND CANDIDATE application and NOT a proven instance — written specifically so the rule cannot harden into a dogma. |
 | **3.2** | 2026-08-18 | Added **Prompting ≠ Proof** and the **Anti-Inversion Brake** (Side Branch 35½). Records the investigation's **provenance** — begun roughly 2001, ~25 years before this work — as intellectual autobiography **quarantined from the argument**, with the tools' contribution stated in BOTH directions. |
 | **3.1** | 2026-08-18 | Added **Question–Answer Structural Control** and **Delegated-Power Control** (Stage 35). Records that the **Revelation 5 Exaltation Hypothesis SURVIVED its first major test at Revelation 6 — not proven** — and that the cosmic-judgment finding (Isaiah 13 · Isaiah 34 · Ezekiel 32) held on contact, with **Isaiah 34's rolled-up-like-a-scroll nearly verbatim at Revelation 6:14**. |
 | **3.0** | 2026-08-18 | **THE REVELATION CONTROLS** — seventeen rules built BEFORE Revelation's visions were interpreted (Stages 31–34½): Seal–Nearness · Original-Audience · Internal-Interpretation Priority · Temporal-Cluster · Typological Correspondence · Clear-Text Load Bearing · Coming-Language · Present-Reality/Future-Consummation · Application–Exegesis · **Kingdom ≠ Millennium** · Narrative-Timing · Foundational Reach ≠ Exhaustive Contact · Vision Sequence ≠ Event Sequence · **Hear–See Correspondence** · Conquest-by-the-Lamb · Description Before Identification · Partial-Parallel Brake. Glossary: *typology · exegesis · application · eisegesis · recapitulation*. Records the **Revelation 5 Exaltation Hypothesis** with its falsification condition. |
