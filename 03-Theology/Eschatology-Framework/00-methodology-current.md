@@ -916,6 +916,42 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### 🦁 Composite-Beast Control *(Stage 40)*
+> **Daniel establishes beast imagery primarily as KINGDOM / IMPERIAL POWER. An individual ruler may EMBODY a beast without EXHAUSTING the symbol.**
+
+*Warrant, and Daniel supplies BOTH halves within six verses:* **Daniel 7:17 — "these four great beasts are FOUR KINGS who shall arise out of the earth."** ✅ **Daniel 7:23 — "there shall be a FOURTH KINGDOM on earth."** ✅
+
+> ### **DANIEL MOVES BETWEEN RULER AND REALM WITHOUT TREATING THEM AS ALTERNATIVES. So even if a number or name identifies a particular man, "beast = that man and nothing else" DOES NOT FOLLOW.** *(Revelation 17 later makes heads both MOUNTAINS and KINGS — layered referents, stated by the text itself.)*
+
+### 🪧 Sign-Truth Control *(Stage 40)*
+> **The occurrence of an extraordinary SIGN cannot independently AUTHENTICATE a messenger whose message or allegiance contradicts Yah's revealed truth.**
+
+*Warrant: Deuteronomy 13:1–4 — and note precisely what Torah says:* **"and the sign or wonder that he tells you COMES TO PASS, and if he says, 'Let us go after other gods'… YOU SHALL NOT LISTEN… for the LORD your God is TESTING YOU."** ✅ *Applied at Revelation 13:13–14, where the second beast's fire-from-heaven DECEIVES.*
+
+> ### ❗ **TORAH DOES NOT SAY THE SIGN FAILS. IT SAYS THE SIGN SUCCEEDS AND IS STILL NOT AUTHENTICATING. That is far stronger than "false prophets do fake miracles."**
+
+### ✋ Covenantal Mark Priority *(Stage 40)*
+> **When Revelation places marks on the HAND or FOREHEAD, interpret the imagery FIRST through Scripture's pre-existing hand/forehead covenant vocabulary and Revelation's OWN opposing seals, BEFORE proposing a later technological mechanism.**
+
+*Warrant:* **Deuteronomy 6:8 · 11:18 · Exodus 13:9 — "BIND THEM AS A SIGN ON YOUR HAND… FRONTLETS BETWEEN YOUR EYES."** ✅ *Plus Revelation 7:3's seal and 14:1's name on the foreheads of Yah's own people.*
+
+> ### **HAND → CONDUCT / ACTION / ALLEGIANCE · FOREHEAD → IDENTITY / MIND / ALLEGIANCE. ⚠️ This does NOT prejudge literal versus symbolic manifestation — it preserves INTERTEXTUAL PRIORITY.**
+>
+> ### ⚠️ **AND THE ANTI-OVER-CORRECTION, WHICH IS PART OF THE RULE: Revelation 13:17 attaches REAL ECONOMIC CONSEQUENCE. Do not conclude that buying and selling are "merely symbolic." THE MARK SIGNIFIES ALLEGIANCE *AND* CARRIES CONCRETE SOCIAL/ECONOMIC CONSEQUENCE.**
+>
+> ### 🔑 **AND WHAT THIS PROTECTS: reducing the mark to a DEVICE obscures Revelation's moral warning. A PERSON COULD REFUSE EVERY TECHNOLOGY EVER INVENTED AND STILL BEAR THE BEAST'S ESSENTIAL CHARACTERISTIC IF HIS ALLEGIANCE IS BEASTLY — and possessing neutral technology cannot by itself establish beast worship. THE TEXT MAKES WORSHIP CENTRAL.**
+
+### 📉 Constraint-Not-Resemblance Standard *(Side Branch 40½ — the author's own standard)*
+> **Historical material earns its place in this project only when it CONSTRAINS a reading of Scripture. Material that merely RESEMBLES the text is not evidence, and a constraint that goes AGAINST the hypothesis must be recorded as prominently as one that supports it.**
+
+*Warrant: the author's framing — "if our proposed first-century window is real, independent history should increasingly CONSTRAIN Revelation rather than merely RESEMBLE it."*
+
+> ### **FIRST APPLICATION, AND IT WENT AGAINST US: Tacitus attests Nero's persecution but supplies NO DURATION — so the familiar "64–68" is a CONSTRUCTED interval, and using it to satisfy Revelation's 42 months would be rounding history until prophecy fits. Tacitus also describes a persecution AT ROME, which sits awkwardly against Revelation 13:7's scope language.**
+>
+> ### ❗ **AND THE RULE THAT FOLLOWS FROM IT: WHEN A PRIOR STAGE REFUSES A CONVENIENT READING, THE COST OF THAT REFUSAL IS PAID WHERE IT LANDS — NOT QUIETLY RENEGOTIATED LATER.**
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -951,6 +987,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **3.6** | 2026-08-19 | Added the **Composite-Beast Control**, **Sign-Truth Control** and **Covenantal Mark Priority** (Stage 40), and the **Constraint-Not-Resemblance Standard** (40½). **Recapitulation strengthened again** — the Danielic period now appears FIVE times across Revelation 11–13. **Opened the 666/616 branch** (q169) and **recorded the first historical result that went AGAINST the hypothesis**: Tacitus attests Nero's persecution but supplies no duration, and describes it at Rome. |
 | **3.5** | 2026-08-19 | Added **Measured Partial Judgment** and the **Judgment–Repentance Control** (Stage 37, write-up debt discharged); **Visionary Compression Control** and **CAST DOWN ≠ BOUND** (Stage 39); the **Independent Convergence Requirement** (39½). **Promoted the Cross–Casting-Down Hypothesis to STRONG** on Revelation 12:10–11 plus the Johannine cluster. **Upgraded RECAPITULATION from hypothetical to INCREASINGLY SUPPORTED** — while Stage 38's refusal to deploy it stands. **Promoted the Revelation DATING question from deferred to REQUIRED before any major chronological conclusion.** |
 | **3.4** | 2026-08-19 | Added the **Revelatory-Limit Control** and the **Dating Independence Control** (Stage 38). Upgraded the **New Exodus Pattern** from general correspondence to a **high-priority hypothesis requiring continued testing**, because Revelation 11:8 calls the city where Messiah was crucified **Egypt** — with the **covenantal-not-ethnic guard written into the same finding**. Opened **Side Study 37½** (private) applying the method inward. |
 | **3.3** | 2026-08-18 | Added **Proleptic-Completion Control** (+ glossary *prolepsis*) and **Deferred Internal Interpretation** (Stage 36 / Side Note 36½), plus a **STATUS NOTE on Hear–See Correspondence** recording that Revelation 7 is its SECOND CANDIDATE application and NOT a proven instance — written specifically so the rule cannot harden into a dogma. |

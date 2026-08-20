@@ -84,7 +84,9 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **38** | **🔑 Revelation 10–11: The Little Scroll, the Temple, and the Two Witnesses** | **[[01x-revelation-10-11-the-little-scroll-the-temple-and-the-two-witnesses]]** |
 | **39** | **🔑🔑 Revelation 12: The Woman, the Dragon, the Child, and the War in Heaven** | **[[01z-revelation-12-the-woman-the-dragon-and-the-war-in-heaven]]** |
 | **39½** | **🔑 The Short Time, Apostolic Mission, and the Completion of the Martyrs** *(historical control)* | **[[02a-the-short-time-apostolic-mission-and-the-completion-of-the-martyrs]]** |
-| **40** | *(next)* **🔑 Revelation 13 — the beast, the image, the mark, and 666** | — |
+| **40** | **🔑🔑 Revelation 13: The Beasts, the Mark, and 666** | **[[02b-revelation-13-the-beasts-the-mark-and-666]]** |
+| **40½** | **🔑 Nero, the Apostles, and the Asian Assemblies** *(historical control — ⚠️ 2/3 OPEN)* | **[[02c-nero-the-apostles-and-the-asian-assemblies]]** |
+| **41** | *(next)* **Revelation 14 — Mount Zion, the everlasting good news, Babylon's fall, the harvest** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1445,7 +1447,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Side Branch 39½ — 🔑 The Short Time, Apostolic Mission, and the Completion of the Martyrs *(current)*
+## Side Branch 39½ — 🔑 The Short Time, Apostolic Mission, and the Completion of the Martyrs
 
 **File:** [[02a-the-short-time-apostolic-mission-and-the-completion-of-the-martyrs]] · **A HISTORICAL-CONTROL BRANCH THAT BUILDS THE APPARATUS WHICH COULD DESTROY THE HYPOTHESIS — at the exact moment it started to feel comfortable.**
 
@@ -1465,7 +1467,71 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 40 — 🔑🔑 Revelation 13: The Beasts, the Mark, and 666
+
+**File:** [[02b-revelation-13-the-beasts-the-mark-and-666]] · **✅ FULL CHAPTER VERIFIED VERBATIM, plus Deuteronomy 6:6–8 · 11:18 · 13:1–4 · Exodus 13:9 · Daniel 7:17 · 7:23 · Exodus 15:11.**
+
+> ### **WE STOPPED DELIBERATELY BEFORE THIS CHAPTER — WHICH IS THE ONLY REASON IT COULD BE READ WITHOUT HAVING ALREADY DECIDED THE BEAST MUST BE NERO, ROME, OR A MODERN SYSTEM. THE INDEPENDENT CONVERGENCE REQUIREMENT'S FIRST REAL TEST, AND IT HELD.**
+
+**Counterfeit hierarchy: Yah → Messiah ⟷ dragon → beast. THE BEAST'S AUTHORITY IS DELEGATED, so the beast is NOT another name for Satan — Revelation distinguishes them, same discipline that kept 9:1's fallen star and Abaddon separate.**
+
+**🔑 DANIEL GETS PRIORITY — AND DANIEL INTERPRETS ITSELF. ✅ Daniel 7:17 "these four great beasts are FOUR KINGS" · ✅ 7:23 "a fourth KINGDOM on earth." DANIEL MOVES BETWEEN RULER AND REALM IN SIX VERSES WITHOUT TREATING THEM AS ALTERNATIVES. 🆕 COMPOSITE-BEAST CONTROL: beast imagery is primarily KINGDOM/IMPERIAL POWER; an individual ruler may EMBODY a beast without EXHAUSTING the symbol.**
+
+**Counterfeit structure systematic, not decorative: delegated authority · slain-and-healed head vs the Lamb who was slain · worship · a prophetic spokesman · opposing marks. ✅ And 13:4's "WHO IS LIKE THE BEAST" parodies ✅ Exodus 15:11's "WHO IS LIKE YOU, O LORD" — the beast APPROPRIATES A CATEGORY BELONGING TO YAH, which is why Revelation says *blasphemy* three times in six verses.**
+
+**42 MONTHS AGAIN — now FIVE occurrences across three chapters (11:2 · 11:3 · 12:6 · 12:14 · 13:5). RECAPITULATION STRENGTHENS AGAIN. ⚠️ Brake holds: SAME DURATION ≠ SAME EVENT.**
+
+**🔑 "IT WAS ALLOWED" ×4 IN ONE CHAPTER — REVELATION REFUSES DUALISM. Satan is not Yah's equal opposite; the beast is not independently sovereign. ✅ And the saints are NOT promised escape: "allowed to make war on the saints AND TO CONQUER THEM," immediately followed by "a call for the ENDURANCE AND FAITH of the saints." Supplies a MECHANISM for the dragon's short time — he operates through an earthly beast-power.**
+
+> ### ⚠️ **SCOPE DISCIPLINE APPLIED IN BOTH DIRECTIONS AT 13:7: we may not claim it PROVES universal political administration — AND WE MAY NOT SHRINK IT BECAUSE A FIRST-CENTURY CANDIDATE NEEDS SMALLER TERRITORY. THE SECOND HALF IS THE ONE THIS PROJECT MUST WATCH.**
+
+**Second beast: LOOKS lamb-like, SOUNDS dragon-like — deception built into the description. Structure dragon → beast → false prophet → worship. ⚠️ DELIBERATELY NOT CALLED A COUNTERFEIT "TRINITY" — that imports later systematics; record the structure, do not overname it.**
+
+**🔑 ✅ DEUTERONOMY 13:1–4 IS STRONGER THAN EXPECTED: the sign "COMES TO PASS" and is STILL not authenticating — "you shall not listen… the LORD your God is TESTING YOU." 🆕 SIGN-TRUTH CONTROL: an extraordinary sign cannot independently authenticate a messenger whose allegiance contradicts Yah's revealed truth.** **The image joins DANIEL 3 to DANIEL 7 — so the mark cannot be interpreted apart from the WORSHIP context the text builds BEFORE mentioning it.**
+
+> ### 🔑🔑 **THE MARK — AND DEUTERONOMY COMES BEFORE MICROCHIPS. ✅ Deut 6:8 / 11:18 / Exod 13:9: BIND THEM AS A SIGN ON YOUR HAND, FRONTLETS BETWEEN YOUR EYES. HAND → CONDUCT/ALLEGIANCE · FOREHEAD → IDENTITY/ALLEGIANCE, with Yah's OWN covenant instruction as precedent. 🆕 COVENANTAL MARK PRIORITY — interpret hand/forehead imagery FIRST through Torah and Revelation's own opposing seals BEFORE proposing a technological mechanism. ⚠️ Does NOT prejudge literal vs symbolic; preserves INTERTEXTUAL PRIORITY. Nobody claims the 144,000 had devices in their skulls.**
+
+**⚠️ BUT DO NOT OVER-CORRECT — the economic restriction is REAL and explicit. Best formulation: THE MARK SIGNIFIES ALLEGIANCE *AND* CARRIES CONCRETE SOCIAL/ECONOMIC CONSEQUENCE. Mechanism OPEN (q170).**
+
+**🔑 ✅ 13:18 "let the one who has understanding CALCULATE the number… for it is THE NUMBER OF A MAN." 666 IS NOT FREE-FLOATING MYSTICISM — JOHN EXPECTS A CALCULATION ON A NAME, which makes gematria TEXTUALLY WARRANTED rather than retrofitted.** **NERO becomes a SERIOUS CANDIDATE AND ONLY A CANDIDATE: Hebrew *Neron Qesar* → 666; Latinized without the final *n* → 616; AND SOME ANCIENT MANUSCRIPTS READ 616. ⚠️ REPORTED, NOT VERIFIED — nothing here was retrieved (q169).** **🔑 WHY THE VARIANT MATTERS: one gematria calculation is unfalsifiable in practice; AN EARLY MANUSCRIPT TRADITION READING 616 IS A FACT ABOUT DOCUMENTS THAT EXISTS WHETHER OR NOT ANYONE WANTS IT TO. Strongest reason Nero is not a preterist invention — 🛑 AND STILL NOT PROOF.** **⚠️ IRENAEUS IS A SHARED SOURCE WITH THE DATING QUESTION — keeping them independent is harder, therefore more important.** **📌 And even if 666 identifies Nero personally, Daniel forbids "beast = Nero and nothing else": candidate frame BEAST = imperial kingdom/system, NERO = a head/ruler-embodiment.**
+
+**⚠️ CORRECTION AGAINST OUR OWN CONVENIENCE: Revelation 6 does NOT say all the apostles must die (q171) — and JOHN'S TRADITIONAL LONGEVITY IS THE OBVIOUS PRESSURE POINT.**
+
+> ### 🔑🔑 **AND WHAT THE CHAPTER IS ACTUALLY ABOUT: NOT technology versus no technology. *WHOM DO YOU WORSHIP?* A PERSON COULD REFUSE EVERY DEVICE EVER INVENTED AND STILL BEAR THE BEAST'S ESSENTIAL CHARACTERISTIC IF HIS ALLEGIANCE IS BEASTLY — and neutral technology cannot by itself establish beast worship. REDUCING THE MARK TO A DEVICE OBSCURES REVELATION'S MORAL WARNING.** **Every generation named its own frightening technology; ⚠️ modern resemblance does not establish Revelation's historical referent — AND that does not mean modern systems can never become oppressive.**
+
+---
+
+## Side Branch 40½ — 🔑 Nero, the Apostles, and the Asian Assemblies *(current)*
+
+**File:** [[02c-nero-the-apostles-and-the-asian-assemblies]] · **THE AUTHOR SET THE STANDARD: "independent history should increasingly CONSTRAIN Revelation rather than merely RESEMBLE it." Resemblance is cheap; constraint can go against you.**
+
+**⚠️ HONEST STATUS: ONE OF THREE QUESTIONS PARTIALLY ANSWERED, TWO NOT STARTED — stated in each section rather than implied.**
+
+**✅ TACITUS *ANNALS* 15.44 RETRIEVED (English translation only): Nero blamed Christians for the fire and inflicted "the most exquisite tortures"; "Christus… SUFFERED THE EXTREME PENALTY DURING THE REIGN OF TIBERIUS AT THE HANDS OF ONE OF OUR PROCURATORS, PONTIUS PILATUS"; the movement had reached Rome. Fire at 15.38–43. A NON-CHRISTIAN, HOSTILE WITNESS — which strengthens rather than weakens the testimony.**
+
+> ### 🛑🛑 **AND IT WENT PARTLY AGAINST THE HYPOTHESIS, WHICH IS THE MOST USEFUL RESULT IT COULD HAVE PRODUCED:**
+>
+> ### **1. TACITUS GIVES NO DURATION AND NO END DATE. The familiar "64–68" is a CONSTRUCTED interval pairing an attested start with Nero's death. USING IT TO SATISFY REVELATION'S 42 MONTHS WOULD BE EXACTLY THE ROUNDING q170 FORBIDS — recorded now so it cannot happen quietly later.**
+>
+> ### **2. TACITUS DESCRIBES A PERSECUTION *AT ROME*, not an empire-wide program. Against 13:7's "every tribe and people and language and nation" and 13:16's "all, both small and great," THAT IS A REAL OPEN PROBLEM — and it is THE PRICE OF STAGE 40'S REFUSAL TO SHRINK THAT PHRASE. PAID HERE RATHER THAN RENEGOTIATED.**
+>
+> ### **3. TACITUS WROTE ROUGHLY HALF A CENTURY LATER — TIER C, NOT TIER A.**
+
+**❌ Q2 (Peter and Paul's deaths) and ❌ Q3 (John and the Asian assemblies) DELIBERATELY LEFT EMPTY — nothing written from memory, because 60s dates and a young-assemblies reading would both suit the hypothesis and could be produced plausibly without a single source. AN UNANSWERED QUESTION IS RECOVERABLE; A CONFIDENTLY WRONG ANSWER RESTATED THREE TIMES IS NOT.** **Full source ladders and both-direction circularity traps recorded at q173 and q174.**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 41 — REVELATION 14: MOUNT ZION, THE EVERLASTING GOOD NEWS, BABYLON'S FALL, AND THE HARVEST**
+
+**The 144,000 with the Lamb on MOUNT ZION, bearing the Father's name on their foreheads — returning to Stage 36's deliberately unclosed identification, now with Revelation 13's opposing mark in hand.** **The everlasting good news proclaimed · ⚠️ THE FIRST ANNOUNCEMENT OF BABYLON'S FALL (Jeremiah 51 was banked at Stage 37) · the harvest · the winepress.**
+
+> ### ⚠️ **AND SIDE BRANCH 40½ REMAINS TWO-THIRDS OPEN. q172, q173 and q174 TRAVEL WITH THE INVESTIGATION and must be discharged before any first-century identification hardens into a conclusion.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (39½ → 40), Preserved
 
 ### **STAGE 40 — 🔑 REVELATION 13: THE BEAST, THE IMAGE, THE MARK, AND 666**
 
