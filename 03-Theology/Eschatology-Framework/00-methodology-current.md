@@ -1021,6 +1021,29 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### 🔗 Correspondence–Identity Distinction *(Stage 42)*
+> **Two passages sharing IMAGERY, VOCABULARY, CHRONOLOGY or STRUCTURE establishes CORRESPONDENCE. IDENTITY OF REFERENT REQUIRES ADDITIONAL EVIDENCE.**
+
+| Pair | Correspondence | Identity |
+|---|---|---|
+| Revelation 6 martyrs ↔ Revelation 12 faithful unto death | **strong** | not established |
+| Revelation 16 battle ↔ Revelation 20 Gog/Magog | **strong** | **unresolved** *(q188)* |
+| Revelation's Babylon ↔ Matthew 23's Jerusalem | **increasingly strong** | **pending Rev 17–18** *(q186)* |
+| Trumpets ↔ Bowls | **strong** | not established *(q191)* |
+
+> ### **THIS RULE PROTECTS IN BOTH DIRECTIONS — AGAINST MISSING CONNECTIONS *AND* AGAINST OVERSTATING THEM. This project has needed both halves.**
+
+### 🔄 Intertextual Function Control *(Stage 42)*
+> **When Revelation reuses Tanakh imagery, preserve BOTH the earlier source AND Revelation's NEW CONTEXTUAL FUNCTION. Shared imagery does NOT require identical historical referent or identical symbolic function.**
+
+*Warrant — the cleanest possible demonstration:* **Exodus 8:2–6 VERIFIED — frogs are A PLAGUE UPON EGYPT.** ✅ **Revelation 16:13–14 VERIFIED — frog-like spirits are DEMONIC DECEIVERS WHO GATHER KINGS FOR BATTLE.** ✅
+
+> ### **SAME IMAGE. DIFFERENT FUNCTION. AND REVELATION NAMES THEM ITSELF.**
+>
+> ### **INTERTEXTUALITY SUPPLIES VOCABULARY; CONTEXT SUPPLIES FUNCTION.**
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -1056,6 +1079,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **3.9** | 2026-08-19 | Added the **Correspondence–Identity Distinction** and the **Intertextual Function Control** (Stage 42). **The NEW EXODUS PATTERN reached its strongest point** — John names the Song of Moses BEFORE the plague sequence, so Exodus is not imposed on Revelation. **Opened the blood-of-prophets chain (q186), the Euphrates intertextual branch (q187), the Rev 16 vs Rev 20 battle correspondence (q188), the thief-coming branch (q189), the Armageddon lexical branch (q190) and the trumpet–bowl comparison (q191)** — NONE resolved. **Recorded 15:3–4's all-nations-will-come-and-worship and 16:19's three-item sequence, both missed by the tranche.** |
 | **3.8** | 2026-08-19 | Added the **Firstfruits Completion Control**, the **Proclamation-Agent Distinction**, and formalized **Location Humility** (Stage 41). **Stage 40's Covenantal Mark Priority upgraded** — Revelation 14:1 supplies the opposing mark INTERNALLY, not only via Torah parallels. **Recapitulation strengthened again** (12:17 ≈ 14:12; the martyr thread runs unbroken 6 → 12 → 13 → 14). **Recorded an unresolved problem the tranche missed: an angel commands the one on the cloud to reap (14:15).** |
 | **3.7** | 2026-08-19 | **Added the SOURCE-PROVENANCE REQUIREMENT, the RETROACTIVE SOURCE AUDIT protocol, and the THREE PROVENANCE LAYERS — opened [[08-source-ledger]].** Gap caught by the author immediately before the dating/Nero/666 investigation makes external evidence load-bearing. **Stage 40½ expanded to a full stage and its headline is COUNTEREVIDENCE: Eusebius places John's Patmos exile under DOMITIAN and quotes Irenaeus for a Domitianic vision — pressure against the early date, recorded as prominently as any support.** **1 Clement opened and found THINNER than the tradition built on it** (no Nero, no Rome, no modes of death). **Three-hypothesis fork preserved with NO branch prioritised.** |
 | **3.6** | 2026-08-19 | Added the **Composite-Beast Control**, **Sign-Truth Control** and **Covenantal Mark Priority** (Stage 40), and the **Constraint-Not-Resemblance Standard** (40½). **Recapitulation strengthened again** — the Danielic period now appears FIVE times across Revelation 11–13. **Opened the 666/616 branch** (q169) and **recorded the first historical result that went AGAINST the hypothesis**: Tacitus attests Nero's persecution but supplies no duration, and describes it at Rome. |

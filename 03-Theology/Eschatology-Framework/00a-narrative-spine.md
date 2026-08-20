@@ -87,7 +87,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **40** | **🔑🔑 Revelation 13: The Beasts, the Mark, and 666** | **[[02b-revelation-13-the-beasts-the-mark-and-666]]** |
 | **40½** | **🛑 Historical Control: Apostolic Mission, Nero, and the Martyrs** *(COUNTEREVIDENCE ON RECORD)* | **[[02c-nero-the-apostles-and-the-asian-assemblies]]** |
 | **41** | **🔑🔑 Revelation 14: The 144,000, the Good News, Babylon, and the Harvest** | **[[02d-revelation-14-the-144000-the-good-news-babylon-and-the-harvest]]** |
-| **42** | *(next)* **Revelation 15–16 — the seven bowls, and the hardest test yet for recapitulation** | — |
+| **42** | **🔑🔑 Revelation 15–16: The Bowls, the Euphrates, Armageddon, and "It Is Done"** | **[[02e-revelation-15-16-the-bowls-the-euphrates-armageddon-and-it-is-done]]** |
+| **43** | *(next)* **🔑🔑 Revelation 17–18 — Babylon explained. THE CLEANEST FALSIFICATION TEST YET** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1548,7 +1549,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 41 — 🔑🔑 Revelation 14: The 144,000, the Good News, Babylon, and the Harvest *(current)*
+## Stage 41 — 🔑🔑 Revelation 14: The 144,000, the Good News, Babylon, and the Harvest
 
 **File:** [[02d-revelation-14-the-144000-the-good-news-babylon-and-the-harvest]] · **✅ FULL CHAPTER VERIFIED VERBATIM, plus Hebrews 12:22–24 · 1 Corinthians 15:20–23 · Daniel 7:13–14 · Matthew 24:14.** **First stage under the SOURCE-PROVENANCE REQUIREMENT — all-biblical, so no new ledger entries required.**
 
@@ -1578,7 +1579,61 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 42 — 🔑🔑 Revelation 15–16: The Bowls, the Euphrates, Armageddon, and "It Is Done" *(current)*
+
+**File:** [[02e-revelation-15-16-the-bowls-the-euphrates-armageddon-and-it-is-done]] · **✅ BOTH CHAPTERS VERIFIED VERBATIM, plus Exodus 8:2–6 · Isaiah 44:27–45:1 · Jeremiah 51:36 · Matthew 23:34–38.** All-biblical stage; no new ledger entries required.
+
+> ### **THE TEST: seals, trumpets and bowls — CONSECUTIVE EVENTS, or JOHN REVISITING ONE JUDGMENT HORIZON WITH INCREASING INTENSITY? WE DID NOT DECIDE FIRST.**
+
+**✅ 15:1 "the LAST plagues, FOR WITH THEM THE WRATH OF GOD IS FINISHED" — a strong completion datum. ⚠️ But "last WHAT": last PLAGUES, in which wrath is finished; NOT automatically "the last events of all history."**
+
+**🔑 15:2's conquerors appear BEFORE judgment begins — and TWO DEFINITIONS OF VICTORY OPERATE SIMULTANEOUSLY: the beast "conquers" the saints by killing them (13:7), while the saints "conquer" the beast by refusing to abandon Yah. Same logic as the Lion who conquers as a slain Lamb.**
+
+> ### 🔑 **✅ 15:3 THE SONG OF MOSES *AND* THE SONG OF THE LAMB — not Moses OR the Lamb. TORAH/EXODUS PATTERN → MESSIAH FULFILMENT, not "Moses was wrong."** **❗ AND THE SONG'S CONTENT, WHICH THE TRANCHE DID NOT QUOTE: "O KING OF THE NATIONS!… **ALL NATIONS WILL COME AND WORSHIP YOU**." A UNIVERSAL-WORSHIP EXPECTATION IN THE CONQUERORS' MOUTHS AT THE THRESHOLD OF THE SEVEREST JUDGMENT IN THE BOOK. 🛑 Recorded, NOT resolved — do not build universalism on it, do not suppress it because it complicates a wrath-only reading (q185).**
+
+**Bowls TARGETED, not arbitrary: bowl 1 strikes those bearing THE MARK; bowl 5 strikes THE BEAST'S THRONE and its KINGDOM (strengthening COMPOSITE-BEAST CONTROL). Movement is consistently ⅓ → ALL. "It WAS ALLOWED" survives even here. And JUDGMENT–REPENTANCE CONTROL is confirmed across the series — 16:9, 16:11, 16:21: they cursed God and DID NOT REPENT.**
+
+> ### 🔑🔑 **✅ 16:5–6 — judgment is just "FOR THEY HAVE SHED THE BLOOD OF SAINTS AND PROPHETS." And ✅ MATTHEW 23:34–38 VERIFIED supplies the first leg explicitly: "all the righteous blood shed on earth… ALL THESE THINGS WILL COME UPON THIS GENERATION… O JERUSALEM, JERUSALEM, THE CITY THAT KILLS THE PROPHETS… your house is left to you desolate." Revelation 18 will accuse Babylon of the same blood. THREE-WAY CHAIN FORMALLY OPEN (q186). 🛑 BABYLON STILL NOT IDENTIFIED — Revelation 17–18 must be exegeted independently, exactly as the beast, the two witnesses and the 144,000 were made to wait.**
+
+**🔑 ✅ 16:12 THE EUPHRATES DRIES "to prepare the way for the kings from the east." ESTABLISHED: it dries · prepares a way · kings from the east. ❌ NOT ESTABLISHED: the geographical referent · whether it is literally the river ordinarily so called · whether the kings are specific rulers · ❗ AND EXPLICITLY, whether this connects to ANY alternative geographical reconstruction discussed earlier — THOSE GET NO PRIVILEGED ENTRY.** **AND THE TANAKH BACKGROUND TURNED OUT SPECIFIC, NOT ATMOSPHERIC: ✅ ISAIAH 44:27–45:1 has Yah "say to the deep, BE DRY; I WILL DRY UP YOUR RIVERS" in the SAME BREATH as raising CYRUS "to subdue nations… TO OPEN DOORS BEFORE HIM"; ✅ JEREMIAH 51:36 has Yah drying Babylon's waters INSIDE A BABYLON ORACLE (q187).**
+
+**✅ 16:13–14 THE FROGS — from the MOUTHS of dragon, beast and false prophet, and REVELATION NAMES THEM ITSELF: "FOR THEY ARE DEMONIC SPIRITS, PERFORMING SIGNS." Deferred Internal Interpretation solving the symbol. 🆕 INTERTEXTUAL FUNCTION CONTROL, and the frogs are its cleanest demonstration: ✅ Exodus 8 frogs are A PLAGUE UPON EGYPT; Revelation's frog-spirits are DECEIVERS GATHERING KINGS. INTERTEXTUALITY SUPPLIES VOCABULARY; CONTEXT SUPPLIES FUNCTION.**
+
+> ### ❗❗ **✅ 16:13–14 ⟷ REVELATION 20: DECEPTION → GATHERING OF RULERS/NATIONS → BATTLE, in both. TWO SEPARATE BATTLES OR TWO VISIONS OF ONE CONFLICT? 🛑 DO NOT ANSWER — answering here, before Revelation 20 is read on its own terms, would be the exact failure mode this project exists to avoid. ONE OF THE STRONGEST RECAPITULATION TESTS IN THE INVESTIGATION (q188).**
+
+**✅ 16:15 YESHUA INTERRUPTS MID-GATHERING (ESV brackets it): "Behold, I AM COMING LIKE A THIEF! Blessed is the one who STAYS AWAKE." The battle gathering is explicitly tied to his coming — THIEF-COMING BRANCH owed (q189). And the pastoral force is itself a control: Revelation demands faithfulness of ITS OWN READERS, inside the bowls.**
+
+**⚠️ ARMAGEDDON — THE ETYMOLOGY IS NOT SETTLED. Usually *Har Megiddo*, "Mount Megiddo" — but MEGIDDO IS NOT A PROMINENT MOUNTAIN in the sense the name implies. Candidates: Megiddo · the Carmel/Megiddo region · Zechariah 12:11 · *har mo'ed* · other constructions. 📇 SOURCE-PROVENANCE REQUIRED when researched — a model's explanation of the word is NOT the evidence (q190).**
+
+**✅ 16:17 "IT IS DONE" — a major completion marker.** **❗ AND ✅ 16:19 NAMES THREE ITEMS IN SEQUENCE, WHICH THE TRANCHE MERGED: "THE GREAT CITY was split into three parts, AND THE CITIES OF THE NATIONS fell, AND God remembered BABYLON THE GREAT." IS "THE GREAT CITY" IDENTICAL TO BABYLON OR DISTINGUISHED FROM HER? Not pedantry — REVELATION 11:8 ALREADY USED "THE GREAT CITY" FOR THE PLACE "WHERE THEIR LORD WAS CRUCIFIED." EITHER ANSWER BEARS DIRECTLY ON BABYLON'S IDENTITY (q186).**
+
+**Islands flee, mountains vanish, hailstones "about one hundred pounds each." ⚠️ APOCALYPTIC MAGNITUDE DOES NOT AUTOMATICALLY ESTABLISH LITERAL PHYSICAL MECHANICS — *and that does not mean "nothing actually happened."* Prophetic symbolism can describe very real historical judgment in cosmic language.**
+
+> ### 🔑 **THE EXODUS FRAME IS NO LONGER SPECULATIVE: Song of Moses → sanctuary/tent of witness → sores → water to blood → darkness → frogs → hail. JOHN TOLD US WHERE TO LOOK BEFORE THE PLAGUES BEGAN. THE NEW EXODUS PATTERN IS AT ITS STRONGEST POINT IN THE INVESTIGATION — and the question follows: WHO IS EGYPT? ✅ REVELATION 11:8 ALREADY CALLED THE GREAT CITY "SODOM AND EGYPT, WHERE THEIR LORD WAS CRUCIFIED." CORRESPONDENCE PROMOTED; IDENTIFICATION STILL WITHHELD, with Stage 38's covenantal-not-ethnic guard travelling unchanged.**
+
+**📊 TRUMPETS ⟷ BOWLS TABULATED — and THE SIXTH IN BOTH SERIES IS THE EUPHRATES. Not exact identity; far too parallel to ignore. SUCCESSIVE ESCALATION *or* RECAPITULATION WITH INTENSIFICATION — 🛑 NOT CHOSEN (q191).**
+
+**🆕 CORRESPONDENCE–IDENTITY DISTINCTION: shared imagery, vocabulary, chronology or structure establishes CORRESPONDENCE; IDENTITY OF REFERENT REQUIRES ADDITIONAL EVIDENCE. Protects in BOTH directions — against missing connections AND against overstating them.**
+
+> ### 📌 **MANUSCRIPT VOICE, THE AUTHOR'S OWN SENTENCE, EFFECTIVELY THIS PROJECT'S ENTIRE EPISTEMOLOGY IN ONE LINE: *"IF THE THEORY IS TRUE, IT CAN SURVIVE WAITING."***
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 43 — 🔑🔑 REVELATION 17–18: BABYLON EXPLAINED**
+
+> ### **ONE OF THE MOST IMPORTANT FALSIFICATION STAGES YET. John supplies CONCRETE IDENTIFYING CHARACTERISTICS: woman · beast · seven heads · SEVEN MOUNTAINS · SEVEN KINGS · ten horns/kings · fornication with kings · drunk with the saints' blood · the great city · rule over kings · merchants · luxury · destruction · and the blood of PROPHETS, SAINTS, AND ALL WHO HAD BEEN SLAIN.**
+>
+> ### ❗ **ROME AND JERUSALEM BOTH HAVE SERIOUS PRIMA-FACIE CLAIMS ON PARTS OF THE IMAGERY.**
+>
+> ### **SO WE DO NOT CHOOSE. WE BUILD TWO COLUMNS AND MAKE EACH CANDIDATE EXPLAIN *EVERY* MAJOR IDENTIFYING DATUM — INCLUDING THE EVIDENCE THAT HURTS IT. THAT MAY BE THE CLEANEST FALSIFICATION TEST THIS PROJECT HAS CONDUCTED.**
+
+**Arriving with: q186's blood-of-prophets chain · q187's Babylon/Euphrates Tanakh background · q169's 666 branch · q166's blocking dating question · the COMPOSITE-BEAST CONTROL (heads = mountains AND kings, layered referents stated by the text itself) · and the CORRESPONDENCE–IDENTITY DISTINCTION.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (41 → 42), Preserved
 
 ### **STAGE 42 — REVELATION 15–16: THE SEVEN BOWLS**
 
