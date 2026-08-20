@@ -88,7 +88,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **40½** | **🛑 Historical Control: Apostolic Mission, Nero, and the Martyrs** *(COUNTEREVIDENCE ON RECORD)* | **[[02c-nero-the-apostles-and-the-asian-assemblies]]** |
 | **41** | **🔑🔑 Revelation 14: The 144,000, the Good News, Babylon, and the Harvest** | **[[02d-revelation-14-the-144000-the-good-news-babylon-and-the-harvest]]** |
 | **42** | **🔑🔑 Revelation 15–16: The Bowls, the Euphrates, Armageddon, and "It Is Done"** | **[[02e-revelation-15-16-the-bowls-the-euphrates-armageddon-and-it-is-done]]** |
-| **43** | *(next)* **🔑🔑 Revelation 17–18 — Babylon explained. THE CLEANEST FALSIFICATION TEST YET** | — |
+| **43** | **🔑🔑 Revelation 17–18: Babylon the Great — Rome, Jerusalem, or Something More Complex?** | **[[02f-revelation-17-18-babylon-the-great-rome-jerusalem-or-something-more-complex]]** |
+| **44** | *(next)* **Revelation 19 — the marriage supper, the rider on the white horse, and THE FINAL BRIDGE BEFORE THE MILLENNIUM** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1579,7 +1580,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 42 — 🔑🔑 Revelation 15–16: The Bowls, the Euphrates, Armageddon, and "It Is Done" *(current)*
+## Stage 42 — 🔑🔑 Revelation 15–16: The Bowls, the Euphrates, Armageddon, and "It Is Done"
 
 **File:** [[02e-revelation-15-16-the-bowls-the-euphrates-armageddon-and-it-is-done]] · **✅ BOTH CHAPTERS VERIFIED VERBATIM, plus Exodus 8:2–6 · Isaiah 44:27–45:1 · Jeremiah 51:36 · Matthew 23:34–38.** All-biblical stage; no new ledger entries required.
 
@@ -1619,7 +1620,61 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 43 — 🔑🔑 Revelation 17–18: Babylon the Great — Rome, Jerusalem, or Something More Complex? *(current)*
+
+**File:** [[02f-revelation-17-18-babylon-the-great-rome-jerusalem-or-something-more-complex]] · **✅ VERIFIED VERBATIM: Revelation 17:1–18 · Revelation 18:4–8, 11–13, 20, 24 · Ezekiel 16:37–39 · Isaiah 47:7–9 · Isaiah 1:21.**
+
+> ### **THE CLEANEST FALSIFICATION TEST THE PROJECT HAS RUN — AND IT PRODUCED NO WINNER. THAT IS THE CORRECT OUTCOME, AND IT WAS NOT ENGINEERED.**
+
+**⚠️ VERIFICATION-INTEGRITY NOTE FIRST: the Revelation 17 retrieval returned FULL CONTENT but its VERSE NUMBERING DRIFTED — it merged standard 17:9–10 into one "verse 9," so every label after ran ONE LOW. Content verified; numbering not. All citations use corrected standard numbering. REPORTED RATHER THAN SILENTLY FIXED — a citation that is right by luck is not verification (q193).**
+
+**Revelation interprets its own hardest symbol: ✅ 17:15 "the waters… ARE PEOPLES AND MULTITUDES AND NATIONS AND LANGUAGES." And *porneia* here is plainly covenantal/political — cities do not literally have intercourse — confirming q150's rule from the other direction: THE WORD SPANS A RANGE WITHIN A SINGLE BOOK.**
+
+> ### 🔑 **JERUSALEM CANNOT BE EXCLUDED A PRIORI. ✅ ISAIAH 1:21 — "how THE FAITHFUL CITY has become A WHORE… but now MURDERERS" — PROSTITUTION AND MURDER IN ONE VERSE, the same double indictment Revelation brings. Ezekiel 16 and 23 do the same. THE ARGUMENT "obviously it must be pagan Rome because Jerusalem could never be portrayed that way" IS DEAD.**
+>
+> ### **AND ROME CANNOT BE EXCLUDED EITHER: ✅ 17:9 SEVEN MOUNTAINS · ✅ 17:18 "the great city THAT HAS DOMINION OVER THE KINGS OF THE EARTH."**
+
+**🔑🔑 THE STRUCTURAL DATUM THAT CONSTRAINS EVERYTHING — WOMAN ≠ BEAST. ✅ She RIDES it (17:3, 17:7); ✅ 17:16 "the ten horns… THEY AND THE BEAST WILL HATE THE PROSTITUTE… make her DESOLATE AND NAKED… BURN HER UP WITH FIRE." ANY READING OF woman = Rome AND beast = Rome MUST EXPLAIN WHY ROME RIDES ROME AND THEN DESTROYS ROME. Possible — but must be ARGUED, not assumed. Alternative open: TWO DISTINCT BUT TEMPORARILY ALLIED POWERS (q197).**
+
+> ### 🔑 **EZEKIEL 16:37–39 IS A STRUCTURAL MATCH, NOT A RESEMBLANCE — and it is addressed to JERUSALEM: Yah GATHERS HER LOVERS AGAINST HER · UNCOVERS HER NAKEDNESS · judges her "as women who commit adultery AND SHED BLOOD" · GIVES HER INTO THEIR HANDS · they STRIP her, take her JEWELS, LEAVE HER NAKED AND BARE. Against Revelation 17:16–17's hatred, nakedness, burning — and ✅ "GOD HAS PUT IT INTO THEIR HEARTS." SAME SEQUENCE, SAME DOUBLE CHARGE, SAME DIVINE AGENCY BEHIND THE LOVERS' TURN (q195).**
+
+**✅ ISAIAH 47:7–9 BABYLONIZES HER NEAR-VERBATIM: "I shall not sit as a widow" ⟷ ✅ Rev 18:7 "I am no widow"; "in a moment, IN ONE DAY" ⟷ ✅ 18:8 "IN A SINGLE DAY." SO THE QUESTION IS NOT WHETHER BABYLON IMAGERY IS PRESENT — IT IS: TO WHOM IS JOHN APPLYING BABYLON'S PROPHETIC IDENTITY? Prophetic reuse establishes GENRE AND SEVERITY, not the target's ordinary name.**
+
+**✅ 17:5 her forehead bears "A NAME OF MYSTERY." Revelation's forehead symbolism is now complete in three parts — Yah's name · the beast's mark · BABYLON. AND REVELATION HAS ALREADY RENAMED A CITY SPIRITUALLY (11:8's "Sodom and Egypt, where their Lord was crucified"), so *Babylon* MAY be a prophetic name for a city whose ordinary name is something else. NOT special pleading — Revelation's own established practice.**
+
+**✅ 17:8 the beast gets a COUNTERFEIT of the divine formula — "was, and is not, and is about to rise." ✅ 17:11 "IT IS AN EIGHTH BUT IT BELONGS TO THE SEVEN" — 🛑 NOT SMOOTHED AWAY; any interpretation must explain it. ✅ 17:9–10's "FIVE HAVE FALLEN, ONE IS" locates John's visionary present inside a sequence — potentially one of the strongest DATING controls available. 🛑 BUT THE TRAP IS NAMED BEFORE THE BRANCH OPENS: we may not adjust the counting start until Nero lands where we want him — same prohibition as manufacturing 42 months. 📇 SOURCE-PROVENANCE REQUIRED; a model's recollection of an emperor list is NOT the evidence (q194).**
+
+> ### 🔑🔑 **THE BLOOD-GUILT CHAIN CLOSED, AND ITS THIRD LEG IS NEARLY WORD-FOR-WORD WITH ITS FIRST: ✅ REVELATION 18:24 "in her was found the blood of prophets and of saints, AND OF ALL WHO HAVE BEEN SLAIN ON EARTH" ≈ ✅ MATTHEW 23:35 "ALL THE RIGHTEOUS BLOOD SHED ON EARTH" — with Matthew naming JERUSALEM explicitly and adding "THIS GENERATION." THE STRONGEST SINGLE DATUM IN THE JERUSALEM COLUMN.**
+>
+> ### ⚠️ **AND THE PROBLEM FLAGGED AGAINST OUR OWN STRONGEST DATUM: *epi tēs gēs* renders "on the earth" OR "IN THE LAND," and forty stages have turned on exactly that ambiguity. THE ENGLISH MAY BE CARRYING WEIGHT THE GREEK DOES NOT. Retrieve before leaning on it (q195).**
+
+> ### 🛑 **AND THE COUNTEREVIDENCE, RECORDED IN THE SAME TYPEFACE AS EVERYTHING ELSE: ✅ 18:11–13's cargo manifest — SILK · IVORY · MARBLE · eastern spices · HORSES AND CHARIOTS · "SLAVES, THAT IS, HUMAN SOULS" — mourned by MERCHANTS, SHIPMASTERS AND SAILORS. AN INLAND CITY DOES NOT ANCHOR THAT MANIFEST. REVELATION 18'S INTERNATIONAL MARITIME LUXURY SYSTEM AND SLAVE TRADE FIT IMPERIAL ROME CONSIDERABLY MORE NATURALLY. REAL PRESSURE AGAINST A SIMPLE JERUSALEM IDENTIFICATION (q196).**
+
+**📊 THE BABYLON CANDIDATE MATRIX — 17 data, both columns, each candidate facing what it struggles with. ROME OWNS THE COMMERCE AND GEOGRAPHY. JERUSALEM OWNS THE PROPHETIC IDIOM AND THE BLOOD-GUILT. NEITHER OWNS BOTH. NEITHER CANDIDATE IS STUPID — which is why this has been debated for centuries.**
+
+**🆕 COMPOSITE-SYMBOL POSSIBILITY — apocalyptic symbols MAY gather characteristics from multiple earlier cities/empires without one-to-one mapping. 🛑 WITH ITS LEASH ATTACHED, WITHOUT WHICH THE RULE IS POISON: IT MAY NOT BE INVOKED MERELY TO RESCUE AN OTHERWISE FALSIFIED IDENTIFICATION. If a candidate needs "it is composite" to survive its worst datum, THAT IS A FAILING CANDIDATE, NOT A LAYERED ONE.**
+
+> ### 🔑 **AND THE TEXT FORCES THE BRANCHES BACK TOGETHER: SHE RIDES THE BEAST AND THE BEAST DESTROYS HER. IDENTIFY THE BEAST INDEPENDENTLY AND THE WOMAN IS DRAMATICALLY CONSTRAINED — which is why q169 (666) and q194 (seven kings) now matter enormously. 🛑 DO NOT USE BABYLON TO IDENTIFY THE BEAST AND THEN THE BEAST TO IDENTIFY BABYLON.**
+>
+> ### **DATING TIGHTENS AGAIN: pre-70 maps naturally onto an approaching Jerusalem/Rome conflict; c. 95 makes a straightforwardly PREDICTIVE Jerusalem reading much harder (recapitulation still available). ⚠️ AND THE DOMITIAN COUNTEREVIDENCE FROM q175 STANDS UNSOFTENED.**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 44 — REVELATION 19: THE MARRIAGE SUPPER, THE RIDER, AND THE FINAL BRIDGE**
+
+**Babylon falls · heaven rejoices · the MARRIAGE SUPPER OF THE LAMB · heaven opens · Yeshua appears as the RIDER ON THE WHITE HORSE · the beast and kings gather against him · the beast and false prophet are defeated.**
+
+> ### ❗ **AND THE QUESTION THAT MUST BE ANSWERED BEFORE REVELATION 20 CAN BE OPENED: IS THE BATTLE AT THE END OF REVELATION 19 THE SAME BATTLE GATHERING AT ARMAGEDDON IN REVELATION 16 (q188)?**
+>
+> ### **BECAUSE REVELATION 20 THEN PRESENTS *ANOTHER* GATHERING OF NATIONS AFTER THE THOUSAND YEARS. IS THE STRUCTURE *BATTLE → MILLENNIUM → SECOND BATTLE*, OR DO SOME OF THESE VISIONS RECAPITULATE ONE ANOTHER?**
+>
+> ### 🛑 **WE CANNOT RESPONSIBLY CLAIM WE ARE IN THE LITTLE SEASON UNTIL THAT STRUCTURE SURVIVES. STAGE 44 IS THE FINAL BRIDGE BEFORE THE MILLENNIUM.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (42 → 43), Preserved
 
 ### **STAGE 43 — 🔑🔑 REVELATION 17–18: BABYLON EXPLAINED**
 

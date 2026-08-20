@@ -1044,6 +1044,35 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### 🧩 Composite-Symbol Possibility *(Stage 43 — and its leash is part of the rule)*
+> **Apocalyptic symbols MAY gather characteristics from multiple earlier cities and empires WITHOUT requiring every characteristic to map one-to-one onto a single ordinary geographical entity.**
+
+*Warrant: Revelation 17–18 describes Babylon with Isaiah 47's Babylon language, Ezekiel 16's Jerusalem language, seven mountains, and an international maritime luxury economy — and no single ordinary city carries all of it comfortably.*
+
+> ### 🛑 **THE LEASH, WITHOUT WHICH THIS RULE IS POISON: COMPOSITE SYMBOLISM MAY NOT BE INVOKED MERELY TO RESCUE AN OTHERWISE FALSIFIED IDENTIFICATION.**
+>
+> ### **IT DESCRIBES HOW PROPHETIC TYPOLOGY DEMONSTRABLY WORKS — IT IS NOT PERMISSION TO MAKE SYMBOLS MEAN ANYTHING.**
+>
+> ### ❗ **IF A CANDIDATE NEEDS "IT IS COMPOSITE" TO SURVIVE ITS WORST DATUM, THAT IS A FAILING CANDIDATE, NOT A LAYERED ONE.**
+
+### 📊 Candidate Matrix Requirement *(Stage 43)*
+> **When two or more serious identifications compete, build an EXPLICIT MATRIX of every major identifying datum and require EACH candidate to face the data it struggles with — in the same typeface as the data that favours it.**
+
+*Warrant: the Babylon audit. ROME owns the seven mountains, dominion over kings, the international luxury manifest, maritime commerce and the slave trade. JERUSALEM owns the prostitute-city idiom (Isa 1:21, Ezek 16, Ezek 23), the blood of the prophets, the Matthew 23 near-verbatim correspondence, and Revelation 11:8's "great city… where their Lord was crucified." **NEITHER OWNS BOTH.***
+
+> ### **A THEORY THAT EXPLAINS ONLY ITS FAVOURITE VERSES IS NOT AN IDENTIFICATION. EVERY IDENTIFYING DATUM BELONGS TO THE FILE — INCLUDING THE EVIDENCE FOR THE OTHER SIDE.**
+>
+> ### 📌 **AND WHERE A MATRIX PRODUCES NO WINNER, *THAT IS A RESULT* — record it as one rather than forcing a verdict.**
+
+### 🧾 Citation-Numbering Integrity *(Stage 43)*
+> **When a retrieval returns correct CONTENT under incorrect verse NUMBERING, report the discrepancy rather than silently correcting it.**
+
+*Warrant: the Revelation 17 retrieval merged standard 17:9–10 into one verse, running every subsequent label one low.*
+
+> ### **A CITATION THAT IS RIGHT BY LUCK IS NOT VERIFICATION. The content was verified; the numbering was not, and the distinction goes on the record.**
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -1079,6 +1108,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **4.0** | 2026-08-20 | Added the **Composite-Symbol Possibility** (with its anti-rescue leash), the **Candidate Matrix Requirement**, and **Citation-Numbering Integrity** (Stage 43). **Ran the Babylon falsification audit and it produced NO WINNER** — recorded as a result rather than forced. **Closed the blood-guilt chain** (Rev 18:24 near-verbatim with Matt 23:35) while flagging the *epi tes ges* ambiguity AGAINST our own strongest datum. **Recorded the maritime/slave-trade counterevidence against a simple Jerusalem reading.** Opened the Seven Kings audit (q194) with its number-fitting trap named in advance. |
 | **3.9** | 2026-08-19 | Added the **Correspondence–Identity Distinction** and the **Intertextual Function Control** (Stage 42). **The NEW EXODUS PATTERN reached its strongest point** — John names the Song of Moses BEFORE the plague sequence, so Exodus is not imposed on Revelation. **Opened the blood-of-prophets chain (q186), the Euphrates intertextual branch (q187), the Rev 16 vs Rev 20 battle correspondence (q188), the thief-coming branch (q189), the Armageddon lexical branch (q190) and the trumpet–bowl comparison (q191)** — NONE resolved. **Recorded 15:3–4's all-nations-will-come-and-worship and 16:19's three-item sequence, both missed by the tranche.** |
 | **3.8** | 2026-08-19 | Added the **Firstfruits Completion Control**, the **Proclamation-Agent Distinction**, and formalized **Location Humility** (Stage 41). **Stage 40's Covenantal Mark Priority upgraded** — Revelation 14:1 supplies the opposing mark INTERNALLY, not only via Torah parallels. **Recapitulation strengthened again** (12:17 ≈ 14:12; the martyr thread runs unbroken 6 → 12 → 13 → 14). **Recorded an unresolved problem the tranche missed: an angel commands the one on the cloud to reap (14:15).** |
 | **3.7** | 2026-08-19 | **Added the SOURCE-PROVENANCE REQUIREMENT, the RETROACTIVE SOURCE AUDIT protocol, and the THREE PROVENANCE LAYERS — opened [[08-source-ledger]].** Gap caught by the author immediately before the dating/Nero/666 investigation makes external evidence load-bearing. **Stage 40½ expanded to a full stage and its headline is COUNTEREVIDENCE: Eusebius places John's Patmos exile under DOMITIAN and quotes Irenaeus for a Domitianic vision — pressure against the early date, recorded as prominently as any support.** **1 Clement opened and found THINNER than the tradition built on it** (no Nero, no Rome, no modes of death). **Three-hypothesis fork preserved with NO branch prioritised.** |
