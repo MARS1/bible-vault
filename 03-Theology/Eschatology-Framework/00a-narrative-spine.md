@@ -90,7 +90,9 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **42** | **🔑🔑 Revelation 15–16: The Bowls, the Euphrates, Armageddon, and "It Is Done"** | **[[02e-revelation-15-16-the-bowls-the-euphrates-armageddon-and-it-is-done]]** |
 | **43** | **🔑🔑 Revelation 17–18: Babylon the Great — Rome, Jerusalem, or Something More Complex?** | **[[02f-revelation-17-18-babylon-the-great-rome-jerusalem-or-something-more-complex]]** |
 | **44** | **🔑🔑 Revelation 19: Babylon Falls, the Lamb Marries, and the Rider Conquers** | **[[02g-revelation-19-babylon-falls-the-lamb-marries-and-the-rider-conquers]]** |
-| **45** | *(next)* **🔑🔑🔑 REVELATION 20 — THE WALL. Four movements. The stage where we do not protect the hypothesis** | — |
+| **45** | **🔑🔑🔑 Revelation 20: THE WALL — Binding, First Resurrection, the Thousand Years, the Little Season** | **[[02h-revelation-20-binding-first-resurrection-thousand-years-little-season]]** |
+| **45½** | **🔑 The Abyss Audit and the Greek of Revelation 20** *(methodology correction)* | **[[02i-the-abyss-audit-and-the-greek-of-revelation-20]]** |
+| **46** | *(next)* **Revelation 21–22 — New Jerusalem, the Bride identified, and "who remains OUTSIDE?"** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1661,7 +1663,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 44 — 🔑🔑 Revelation 19: Babylon Falls, the Lamb Marries, and the Rider Conquers *(current)*
+## Stage 44 — 🔑🔑 Revelation 19: Babylon Falls, the Lamb Marries, and the Rider Conquers
 
 **File:** [[02g-revelation-19-babylon-falls-the-lamb-marries-and-the-rider-conquers]] · **✅ FULL CHAPTER VERIFIED VERBATIM, plus Ezekiel 39:17–20 · Isaiah 63:1–6 · Isaiah 11:4.**
 
@@ -1699,7 +1701,75 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 45 — 🔑🔑🔑 Revelation 20: THE WALL
+
+**File:** [[02h-revelation-20-binding-first-resurrection-thousand-years-little-season]] · **✅ FULL CHAPTER VERIFIED (English) + GREEK OF 20:1–8 RETRIEVED AND USED.**
+
+> ### 📌 **CURRENT HYPOTHESIS STATUS: STRUCTURALLY VIABLE. HISTORICALLY UNPROVEN.**
+
+**MOVEMENT I — BINDING. ✅ ἵνα μὴ πλανήσῃ ἔτι τὰ ἔθνη: REVELATION DEFINES THE BINDING FUNCTIONALLY — *so that he should not deceive the nations any longer.* It does NOT say Satan ceased to exist, that demons vanished, that all became righteous, or that no wickedness could occur. THE BINDING-SCOPE CONTROL IS NOW REVELATION'S OWN, NOT MERELY OUR METHODOLOGY.** **✅ ἄχρι τελεσθῇ — from τελέω, THE SAME ROOT AS *TELOS* this project worked in early stages: COMPLETION, not cessation. ✅ δεῖ λυθῆναι — IT IS NECESSARY that he be released: the little season is NOT AN ESCAPE but a sovereignly ordained sequence. ⚠️ And AN ANGEL binds him, not Yeshua personally — no direct duel required.** **CAST DOWN ≠ BOUND CONFIRMED INTERNALLY: Rev 12 has him on earth furiously active; Rev 20 has him seized, bound, thrown in, shut and SEALED.**
+
+**MOVEMENT II — THE THRONES. The population is EXPLICITLY the one from chapters 6–14 (martyrs · testimony · beast · image · mark), so Revelation 20 introduces no unrelated group. ✅ Rev 6's ψυχάς under the altar told to REST A LITTLE LONGER ⟷ Rev 20's ψυχάς who COME TO LIFE AND REIGN — one of the strongest internal identity hypotheses in the investigation (q205).**
+
+> ### 🛑🛑 **AND THE WALL: ✅ 20:4 καὶ ἔζησαν · ✅ 20:5 οὐκ ἔζησαν — THE SAME VERB IN ADJACENT VERSES, then ✅ αὕτη ἡ ἀνάστασις ἡ πρώτη. READING THE FIRST SYMBOLICALLY AND THE SECOND BODILY REQUIRES TEXTUAL JUSTIFICATION FOR CHANGING SENSE MID-PASSAGE. A PAST-MILLENNIUM HYPOTHESIS THAT NEEDS A NON-BODILY FIRST RESURRECTION MUST EXPLAIN THE RESURRECTION TERMINOLOGY *WITHOUT* WEAKENING THE STANDARDS THAT ESTABLISHED BODILY RESURRECTION AT DANIEL 12, JOHN 5 AND 1 CORINTHIANS 15. HARDEST EVIDENTIARY BURDEN THE HYPOTHESIS HAS FACED (q206).**
+>
+> ### 📌 **BUT ALSO: the population is LIMITED and "the rest of the dead" wait — WHICH IS STAGED RESURRECTION STATED BY THE TEXT, and the strongest biblical case yet for staging alongside Messiah as FIRSTFRUITS (q179).**
+
+**✅ AND A GREEK FINDING THE ENGLISH LOSES: 20:6 ὁ δεύτερος θάνατος οὐκ ἔχει ἐξουσίαν — ESV "no POWER," Greek *EXOUSIA* = AUTHORITY, the same word Revelation uses for DELEGATED authority throughout. THE SECOND DEATH HAS NO JURISDICTION OVER THEM.** **And "priests… and they will reign" does not create priesthood from nothing — Rev 1:6 and 5:10 already made them a kingdom and priests. PRESENT-REALITY / FUTURE-CONSUMMATION supported.**
+
+> ### ❌ **AND THE TEXT DOES NOT SAY WHERE THEY REIGN. Not Jerusalem, not heaven, not Mount Zion, not New Jerusalem. LOCATION UNSTATED, SO EVERY GEOGRAPHICAL PROPOSAL IS SECONDARY — INCLUDING THE AUTHOR'S OWN RUPES NIGRA MATERIAL, WHICH REVELATION 20 GIVES NO BRIDGE TO. Stated plainly rather than left ambiguous (q208).**
+
+**MOVEMENT III — THE LITTLE SEASON. ✅ THE DECEPTION BOOKEND, VISIBLE ONLY IN GREEK: 20:3 μὴ πλανήσῃ … τὰ ἔθνη ⟷ 20:8 πλανῆσαι τὰ ἔθνη. SAME VERB, SAME OBJECT — JOHN DEFINES THE BINDING BY THE VERY ACTIVITY THAT RESUMES AFTER RELEASE. The Binding-Scope Control is a STRUCTURAL ARGUMENT in Greek, not an inference.** **🔑 NATIONS MUST EXIST DURING THE THOUSAND YEARS — he is bound so he cannot deceive THEM, and afterward he deceives THEM; their number is LIKE THE SAND OF THE SEA. SO THE MILLENNIUM IS NOT ONLY RESURRECTED SAINTS: REIGNING SAINTS *AND* NATIONS. ⚠️ And their condition is unstated — not said to be righteous, wicked, immortal or resurrected, only RESTRAINED-FROM-DECEPTION then DECEIVABLE, which UNDERMINES the idea that the millennium must be a universally sinless society.** **✅ 20:10 the devil is thrown where THE BEAST AND FALSE PROPHET ALREADY WERE — REVELATION PLACES SATAN'S LAKE-OF-FIRE JUDGMENT *AFTER* THE MILLENNIUM WHILE THEY PRECEDE IT. STRONG EVIDENCE FOR TWO DISTINCT CONFLICTS USING RELATED EZEKIEL IMAGERY, materially favouring a genuine thousand-year interval (q200 substantially resolved).**
+
+**MOVEMENT IV — THE GREAT WHITE THRONE, AFTER the millennium and the revolt. Comprehensive: the dead great and small, books, the book of life, sea/Death/Hades giving up their dead. ❗ SO FINAL JUDGMENT REMAINS FUTURE *IF* THE MILLENNIUM IS PAST — the author's model is NOT full preterism, and Revelation 20 itself makes that distinction.** **✅ 1 Cor 15:26's "the LAST ENEMY to be destroyed is DEATH" ⟷ 20:14's Death and Hades thrown into the lake — AN EXTRAORDINARILY STRONG SYNTHESIS, and it VINDICATES STAGE 30: AN AGE CAN END EARLIER WHILE THE FINAL DEFEAT OF DEATH REMAINS AHEAD.** **And "second death," introduced in Revelation 2, is finally interpreted eighteen chapters later — DEFERRED INTERNAL INTERPRETATION PAYS OFF.**
+
+> ### 🛑 **THE REQUIRED NEXT MOVE, AND THE TRAP IT AVOIDS: Revelation names NO calendar year. So the next phase is NOT "find a thousand years somewhere in history" — it is *WHAT TEXTUAL EVENT MARKS THE BEGINNING OF THE BINDING?* Only then may we ask where a thousand years lands. Otherwise we would search history for a period fitting a desired endpoint — the same failure as manufacturing 42 months or adjusting the emperor count (q209).**
+>
+> ### 📌 **MANUSCRIPT VOICE: *"The hypothesis had survived Revelation 20. It had not yet earned history."***
+
+---
+
+## Side Branch 45½ — 🔑 The Abyss Audit and the Greek of Revelation 20 *(current)*
+
+**File:** [[02i-the-abyss-audit-and-the-greek-of-revelation-20]] · **OPENED AT THE AUTHOR'S INSISTENCE, BEFORE REVELATION 21, ON TWO OBSERVATIONS HE MADE HIMSELF — and both were right.**
+
+> ### ✅ **THE GREEK CRITICISM IS ACCEPTED WITHOUT QUALIFICATION. Greek and Hebrew had been used at high-leverage points but NOT SYSTEMATICALLY through Revelation. For a passage carrying Revelation 20's weight that was not good enough.**
+>
+> ### 🆕 **GREEK AUDIT REQUIREMENT: English for READABILITY; source language WHENEVER a claim depends on wording · grammar · lexical range · tense/aspect · preposition · article · number · modality · temporal marker · or translation divergence. Whenever an argument runs "X means Y," THE SOURCE-LANGUAGE EXPRESSION MUST BE INSPECTED BEFORE THE ARGUMENT IS PROMOTED.**
+
+> ### ❗❗ **AND ACCEPTING IT COST AN ARGUMENT IMMEDIATELY: the author suspected English "might" was carrying a legal-modal range (Black's Law Dictionary). ✅ THE GREEK IS ἵνα + μή + AORIST SUBJUNCTIVE — A PURPOSE CLAUSE. THERE IS NO GREEK WORD MEANING "MIGHT." The modal is a translator's device, so a legal dictionary would move us AWAY from the source text.**
+>
+> ### **A QUESTION ASKED IN GOOD FAITH RETURNED AN ANSWER AGAINST THE QUESTIONER. THAT IS THE ONLY KIND OF CHECK WORTH HAVING (q204).**
+
+**🔑🔑 ABADDON IS NOT SATAN. Revelation identifies Satan in near-identical formulas TWICE — ✅ 12:9 and ✅ 20:2's ὁ ὄφις ὁ ἀρχαῖος, ὅς ἐστιν Διάβολος καὶ ὁ Σατανᾶς — YET AT 9:11 CALLS ABADDON/APOLLYON "THE ANGEL OF THE ABYSS." JOHN IDENTIFIES SATAN WHEN HE WANTS TO AND DECLINED HERE. Safest classification: an abyss-associated DESTRUCTIVE ANGELIC BEING whose identity with Satan is NOT ESTABLISHED; the burden is on any merger (q210).**
+
+**🔑 THE ABYSS THREAD IS ARCHITECTURE, NOT SCENERY — 9:1–2 key GIVEN, abyss OPENED → 9:11 Abaddon its ANGEL → 11:7 the beast ASCENDS FROM it → 17:8 about to ASCEND and go to destruction → ✅ 20:1 an angel HAVING the key → ✅ 20:3 Satan CAST IN, shut and SEALED. THE ABYSS PARTICIPATES IN *BOTH* THE EMERGENCE OF BEASTLY ACTIVITY *AND* THE CONFINEMENT OF THE DRAGON WHO EMPOWERED THE BEAST. And the key differs in Greek: 9:1 WAS GIVEN (ἐδόθη) vs ✅ 20:1 HAVING (ἔχοντα), with 1:18's "I have THE KEYS OF DEATH AND HADES" above both — NOTHING OPENS OR CLOSES THE ABYSS WITHOUT AUTHORIZATION (q211).**
+
+**⚠️ BRAKE ON THE WATER READING: *abyssos* genuinely carries primordial-depth background (LXX renders תְּהוֹם *tehom*, Genesis 1:2's "the deep"). BUT NT usage — Luke 8:31's demons BEGGING NOT TO BE SENT INTO THE ABYSS — is CONFINEMENT OF HOSTILE SPIRITUAL POWERS. PHYSICAL OCEAN IDENTIFICATION IS NOT ESTABLISHED BY THE NOUN ALONE, and an external geographical hypothesis DOES NOT GET TO COLLECT ON THE ETYMOLOGY.**
+
+> ### 🌀 **AND THE AUTHOR'S SPIRAL INSTINCT SHARPENED INTO SOMETHING TESTABLE: Revelation returns to the SAME symbolic domains while their RELATIONSHIPS AND STATES CHANGE. *ABYSS OPENED* IS NOT *ABYSS SEALED*. THE ABYSS IS THE FIRST CONCRETE, TRACEABLE TEST CASE FOR SPIRAL PROGRESSION — which had been in real danger of explaining everything and therefore nothing (q203 → q211).** **Vertical grammar recorded: HEAVEN ↕ EARTH/LAND ↕ ABYSS, with characters cast down · ascending · descending · confined · released. AN APOCALYPTIC VERTICAL-MOVEMENT AUDIT IS OWED.**
+
+**⚠️ HONEST LIMIT: this branch OPENS the audit and does not complete it. Only Revelation 20:1–8 was retrieved in Greek; 9:1, 9:11, 11:7, 17:8, 1:18 and Luke 8:31 are still being handled through English and the tranche's REPORTED Greek — which, by this branch's own new rule, IS NOT SUFFICIENT (q210).**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 46 — REVELATION 21–22: NEW JERUSALEM, THE BRIDE, AND WHO REMAINS OUTSIDE**
+
+**new heaven and new earth · New Jerusalem DESCENDING · ❗ THE BRIDE FINALLY IDENTIFIED · no temple · NATIONS WALKING BY THE CITY'S LIGHT · KINGS BRINGING GLORY INTO IT · gates never shutting.**
+
+> ### ❗❗ **AND THE AUTHOR'S STANDING PUZZLE: "outside are the dogs, sorcerers, sexually immoral, murderers, idolaters." IF WE ARE ALREADY PAST THE GREAT WHITE THRONE AND FINAL JUDGMENT — *WHO EXACTLY REMAINS OUTSIDE?*
+
+**And the book closes by REPEATING THE TEMPORAL CLAIMS WITH WHICH IT OPENED: "what must SOON take place" · "Behold, I am coming SOON" · "do not seal up the words… FOR THE TIME IS NEAR."**
+
+> ### 📇 **THOSE CLAUSES ARE CHRONOLOGY-BEARING AND THEREFORE REQUIRE THE GREEK — the audit rule from 45½ is now ACTIVE.**
+
+**Arriving with: q208 (the beloved city unnamed — Revelation 21 may identify it internally) · q202 (the Bride, deferred since Revelation 19) · q166 (the blocking dating question) · and q209's start-marker requirement.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (44 → 45), Preserved
 
 ### **STAGE 45 — 🔑🔑🔑 REVELATION 20 — THE WALL**
 

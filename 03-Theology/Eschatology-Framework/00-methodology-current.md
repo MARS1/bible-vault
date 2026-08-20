@@ -1098,6 +1098,32 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### 🏛️ Greek Audit Requirement *(Side Branch 45½ — the author's own criticism, accepted without qualification)*
+> **English translation for READABILITY. Hebrew/Aramaic/Greek WHENEVER a claim depends on: wording · grammar · lexical range · tense or aspect · preposition · article · number · modality · temporal marker · or a translation divergence.**
+
+**Whenever an argument runs *"X means Y"* — *might* means, *until* means, *came to life* means, *earth* means, *soon* means, *must* means, *first* means — THE SOURCE-LANGUAGE EXPRESSION MUST BE INSPECTED BEFORE THE ARGUMENT IS PROMOTED.**
+
+> ### ❗ **AND THE RULE PROVED ITSELF BY DESTROYING THE ARGUMENT THAT PROMPTED IT.** The author suspected English *"might"* in Revelation 20:3 carried a legal-modal range. **✅ The Greek is ἵνα + μή + AORIST SUBJUNCTIVE — a PURPOSE CLAUSE. THERE IS NO GREEK WORD MEANING "MIGHT"; the modal is a translator's device.** A legal dictionary would have moved us AWAY from the source text.
+>
+> ### **A QUESTION ASKED IN GOOD FAITH RETURNED AN ANSWER AGAINST THE QUESTIONER. THAT IS THE ONLY KIND OF CHECK WORTH HAVING.**
+
+**And the same audit recovered what English had quietly lost:** ✅ **20:6's οὐκ ἔχει ἐξουσίαν — *EXOUSIA*, AUTHORITY (ESV: "power") — the same word Revelation uses for DELEGATED authority throughout, so the second death has no JURISDICTION** · ✅ **δεῖ λυθῆναι — IT IS NECESSARY that Satan be released, not an escape** · ✅ **ἄχρι τελεσθῇ — from τελέω, the *TELOS* root: COMPLETION, not cessation.**
+
+> ### 📇 **A MODEL'S GLOSS IS NOT A LEXICAL CITATION. "The Greek means X" requires a lexical authority in [[08-source-ledger]].**
+
+### 🕳️ Abyss Architecture *(Side Branch 45½)*
+> **Recurring symbolic domains in Revelation are ARCHITECTURAL CORRESPONDENCE, not automatic EVENT IDENTITY. The same domain may recur with its STATE CHANGED.**
+
+*Warrant — the abyss thread:* **9:1–2 key GIVEN, abyss OPENED → 9:11 Abaddon its ANGEL → 11:7 the beast ASCENDS FROM it → 17:8 about to ascend and go to destruction → 20:1 an angel HAVING the key → 20:3 Satan CAST IN, shut and SEALED.**
+
+> ### **THE ABYSS PARTICIPATES IN *BOTH* THE EMERGENCE OF BEASTLY ACTIVITY *AND* THE CONFINEMENT OF THE DRAGON WHO EMPOWERED THE BEAST.**
+>
+> ### 📌 **AND THIS IS THE FIRST CONCRETE, TRACEABLE TEST CASE FOR SPIRAL PROGRESSION (q203), which had been in real danger of explaining everything and therefore nothing. *ABYSS OPENED* IS NOT *ABYSS SEALED* — yet both belong to one architecture.**
+>
+> ### ⚠️ **AND TWO BRAKES AGAINST THIS PROJECT'S OWN INTERESTS: ABADDON/APOLLYON IS *NOT* ESTABLISHED AS SATAN — Revelation identifies Satan in near-identical formulas at 12:9 and 20:2 and DECLINED to do so at 9:11, calling him "the angel of the abyss." AND *abyssos* carries real primordial-depth background (LXX for *tehom*), BUT NT usage (Luke 8:31) is CONFINEMENT OF HOSTILE SPIRITS — PHYSICAL OCEAN IDENTIFICATION IS NOT ESTABLISHED BY THE NOUN ALONE, and an external geographical hypothesis does not get to collect on the etymology.**
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -1133,6 +1159,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **4.2** | 2026-08-20 | **THE WALL REACHED.** Added the **Greek Audit Requirement** (author's criticism, accepted — and it killed the argument that prompted it) and **Abyss Architecture** (Stage 45, 45½). **Binding-Scope Control CONFIRMED BY THE GREEK** via the pi-lambda-alpha-nu-alpha-omega bookend at 20:3 / 20:8. **CAST DOWN != BOUND confirmed internally.** **First-resurrection bodily pressure recorded as HIGH — the hardest burden the hypothesis has faced.** **Millennial geography left UNSTATED, with the author's own Rupes Nigra material explicitly given no bridge.** **Hypothesis status: STRUCTURALLY VIABLE, HISTORICALLY UNPROVEN.** |
 | **4.1** | 2026-08-20 | Added **Spiral Progression** (hypothesis only, with its unfalsifiability danger named) and the **Adversary-Sequence Datum** (Stage 44). **Promoted Armageddon vs Revelation 19 to a STRONG identity hypothesis.** **Recorded counterpressure against total recapitulation** — the beast and false prophet go straight to the lake of fire while the dragon is bound first. **Found on retrieval: the rider's robe is blood-dipped SIX VERSES BEFORE the battle, and Isaiah 63's warrior treads ALONE while Revelation's rider has armies who are never said to fight.** |
 | **4.0** | 2026-08-20 | Added the **Composite-Symbol Possibility** (with its anti-rescue leash), the **Candidate Matrix Requirement**, and **Citation-Numbering Integrity** (Stage 43). **Ran the Babylon falsification audit and it produced NO WINNER** — recorded as a result rather than forced. **Closed the blood-guilt chain** (Rev 18:24 near-verbatim with Matt 23:35) while flagging the *epi tes ges* ambiguity AGAINST our own strongest datum. **Recorded the maritime/slave-trade counterevidence against a simple Jerusalem reading.** Opened the Seven Kings audit (q194) with its number-fitting trap named in advance. |
 | **3.9** | 2026-08-19 | Added the **Correspondence–Identity Distinction** and the **Intertextual Function Control** (Stage 42). **The NEW EXODUS PATTERN reached its strongest point** — John names the Song of Moses BEFORE the plague sequence, so Exodus is not imposed on Revelation. **Opened the blood-of-prophets chain (q186), the Euphrates intertextual branch (q187), the Rev 16 vs Rev 20 battle correspondence (q188), the thief-coming branch (q189), the Armageddon lexical branch (q190) and the trumpet–bowl comparison (q191)** — NONE resolved. **Recorded 15:3–4's all-nations-will-come-and-worship and 16:19's three-item sequence, both missed by the tranche.** |
