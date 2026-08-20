@@ -952,6 +952,41 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### 📇 Source-Provenance Requirement *(Stage 40½ — the author caught this gap himself)*
+> **Preserve the SOURCE PROVENANCE of every claim that depends on material OUTSIDE the biblical text itself.**
+
+**Ledger: [[08-source-ledger]].** Each entry records, where available: **source/author/title · passage, chapter, section, page or manuscript locator · URL or stable identifier · date accessed · which stage-claim it supports · evidence tier (primary / early secondary / later secondary / modern scholarly) · verification state.**
+
+> ### ❗❗ **DO NOT TREAT A CHATGPT OR CLAUDE STATEMENT AS THE SOURCE. THE UNDERLYING SOURCE IS THE SOURCE.** "Tacitus says…" must point to *Annals* 15.44 — **not to the tranche that reported it.**
+>
+> ### **A SOURCE CITED BY A MODEL BUT NOT INDEPENDENTLY OPENED REMAINS *REPORTED — NOT VERIFIED* UNTIL VERIFIED.**
+
+**Biblical claims preserve verse references AND translations consulted. Lexical claims preserve the underlying Hebrew/Aramaic/Greek term AND the lexical or textual evidence — not merely a model's explanation of the word. Text-critical claims require manuscript provenance wherever obtainable: "some manuscripts read 616" is NOT an acceptable final citation.**
+
+**Historical claims must distinguish PRIMARY evidence from LATER TRADITION — and where a later historian preserves an earlier source, IDENTIFY THE EARLIER SOURCE HE CLAIMS TO PRESERVE.**
+
+> ### **PRESERVE SOURCES EQUALLY FOR FINDINGS THAT CUT AGAINST THE WORKING HYPOTHESIS. PROVENANCE IS EVIDENTIARY INFRASTRUCTURE, NOT ADVOCACY.**
+
+### 🔖 Retroactive Source Audit *(Stage 40½)*
+> **DO NOT stop the sequential investigation to comprehensively backfill every source from Stages 1–40½ now.** Mark such claims **SOURCE-BACKFILL**.
+
+> **1. When an older claim becomes CONSEQUENTIAL to a later argument, verify and source it AT THAT POINT.**
+>
+> **2. Before manuscript publication, perform a COMPLETE BACKWARD SOURCE AUDIT from Stage 1 onward.**
+>
+> ### 3. ❗❗ **NEVER SILENTLY UPGRADE AN OLDER UNSOURCED ASSERTION INTO A SOURCED FACT MERELY BECAUSE IT HAS BEEN REPEATED ACROSS MULTIPLE STAGES.** **Repetition FEELS like corroboration and is not. A claim restated in five files is still ONE UNSOURCED CLAIM.**
+
+### 🧬 The three provenance layers *(Stage 40½)*
+| Layer | Question | Lives in |
+|---|---|---|
+| **Biblical** | *Where does Scripture actually say this?* | [[05-scripture-index]] + each stage's `localization` |
+| **External evidentiary** | *What manuscript, historian, find, lexicon or scholarly work supports this?* | [[08-source-ledger]] |
+| **Research-process** | *Where in the investigation did this idea, correction or hypothesis ORIGINATE and EVOLVE?* | stage files + [[00a-narrative-spine]] |
+
+> ### **NOT INTERCHANGEABLE. Example: the *oligon kairon* / *mikron chronon* distinction has BIBLICAL provenance (Rev 12:12, 20:3), LEXICAL provenance (the two Greek phrases), and RESEARCH-PROCESS provenance (THE AUTHOR challenged an apparent conflation at Stage 39, which is why the two-period hypothesis was preserved rather than collapsed). THE THIRD RECORDS THAT A HUMAN OBJECTION, NOT A TEXT, PRODUCED THE DISTINCTION.** *(ADR-0010.)*
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -987,6 +1022,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **3.7** | 2026-08-19 | **Added the SOURCE-PROVENANCE REQUIREMENT, the RETROACTIVE SOURCE AUDIT protocol, and the THREE PROVENANCE LAYERS — opened [[08-source-ledger]].** Gap caught by the author immediately before the dating/Nero/666 investigation makes external evidence load-bearing. **Stage 40½ expanded to a full stage and its headline is COUNTEREVIDENCE: Eusebius places John's Patmos exile under DOMITIAN and quotes Irenaeus for a Domitianic vision — pressure against the early date, recorded as prominently as any support.** **1 Clement opened and found THINNER than the tradition built on it** (no Nero, no Rome, no modes of death). **Three-hypothesis fork preserved with NO branch prioritised.** |
 | **3.6** | 2026-08-19 | Added the **Composite-Beast Control**, **Sign-Truth Control** and **Covenantal Mark Priority** (Stage 40), and the **Constraint-Not-Resemblance Standard** (40½). **Recapitulation strengthened again** — the Danielic period now appears FIVE times across Revelation 11–13. **Opened the 666/616 branch** (q169) and **recorded the first historical result that went AGAINST the hypothesis**: Tacitus attests Nero's persecution but supplies no duration, and describes it at Rome. |
 | **3.5** | 2026-08-19 | Added **Measured Partial Judgment** and the **Judgment–Repentance Control** (Stage 37, write-up debt discharged); **Visionary Compression Control** and **CAST DOWN ≠ BOUND** (Stage 39); the **Independent Convergence Requirement** (39½). **Promoted the Cross–Casting-Down Hypothesis to STRONG** on Revelation 12:10–11 plus the Johannine cluster. **Upgraded RECAPITULATION from hypothetical to INCREASINGLY SUPPORTED** — while Stage 38's refusal to deploy it stands. **Promoted the Revelation DATING question from deferred to REQUIRED before any major chronological conclusion.** |
 | **3.4** | 2026-08-19 | Added the **Revelatory-Limit Control** and the **Dating Independence Control** (Stage 38). Upgraded the **New Exodus Pattern** from general correspondence to a **high-priority hypothesis requiring continued testing**, because Revelation 11:8 calls the city where Messiah was crucified **Egypt** — with the **covenantal-not-ethnic guard written into the same finding**. Opened **Side Study 37½** (private) applying the method inward. |

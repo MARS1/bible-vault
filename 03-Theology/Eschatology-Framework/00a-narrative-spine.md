@@ -85,7 +85,7 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **39** | **🔑🔑 Revelation 12: The Woman, the Dragon, the Child, and the War in Heaven** | **[[01z-revelation-12-the-woman-the-dragon-and-the-war-in-heaven]]** |
 | **39½** | **🔑 The Short Time, Apostolic Mission, and the Completion of the Martyrs** *(historical control)* | **[[02a-the-short-time-apostolic-mission-and-the-completion-of-the-martyrs]]** |
 | **40** | **🔑🔑 Revelation 13: The Beasts, the Mark, and 666** | **[[02b-revelation-13-the-beasts-the-mark-and-666]]** |
-| **40½** | **🔑 Nero, the Apostles, and the Asian Assemblies** *(historical control — ⚠️ 2/3 OPEN)* | **[[02c-nero-the-apostles-and-the-asian-assemblies]]** |
+| **40½** | **🛑 Historical Control: Apostolic Mission, Nero, and the Martyrs** *(COUNTEREVIDENCE ON RECORD)* | **[[02c-nero-the-apostles-and-the-asian-assemblies]]** |
 | **41** | *(next)* **Revelation 14 — Mount Zion, the everlasting good news, Babylon's fall, the harvest** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
@@ -1501,23 +1501,49 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Side Branch 40½ — 🔑 Nero, the Apostles, and the Asian Assemblies *(current)*
+## Stage 40½ — 🛑 Historical Control: Apostolic Mission, Nero, and the Martyrs *(current)*
 
-**File:** [[02c-nero-the-apostles-and-the-asian-assemblies]] · **THE AUTHOR SET THE STANDARD: "independent history should increasingly CONSTRAIN Revelation rather than merely RESEMBLE it." Resemblance is cheap; constraint can go against you.**
+**File:** [[02c-nero-the-apostles-and-the-asian-assemblies]] · **Provenance: [[08-source-ledger]] S1–S7.**
 
-**⚠️ HONEST STATUS: ONE OF THREE QUESTIONS PARTIALLY ANSWERED, TWO NOT STARTED — stated in each section rather than implied.**
-
-**✅ TACITUS *ANNALS* 15.44 RETRIEVED (English translation only): Nero blamed Christians for the fire and inflicted "the most exquisite tortures"; "Christus… SUFFERED THE EXTREME PENALTY DURING THE REIGN OF TIBERIUS AT THE HANDS OF ONE OF OUR PROCURATORS, PONTIUS PILATUS"; the movement had reached Rome. Fire at 15.38–43. A NON-CHRISTIAN, HOSTILE WITNESS — which strengthens rather than weakens the testimony.**
-
-> ### 🛑🛑 **AND IT WENT PARTLY AGAINST THE HYPOTHESIS, WHICH IS THE MOST USEFUL RESULT IT COULD HAVE PRODUCED:**
+> ### **THE QUESTION DELIBERATELY *NOT* ASKED: "can we find history that proves Revelation 12–13?" THE QUESTION ASKED: "what can we establish INDEPENDENTLY about the period between Messiah's ministry and Jerusalem's destruction — and ONLY AFTERWARD ask whether Revelation resembles it?"**
 >
-> ### **1. TACITUS GIVES NO DURATION AND NO END DATE. The familiar "64–68" is a CONSTRUCTED interval pairing an attested start with Nero's death. USING IT TO SATISFY REVELATION'S 42 MONTHS WOULD BE EXACTLY THE ROUNDING q170 FORBIDS — recorded now so it cannot happen quietly later.**
->
-> ### **2. TACITUS DESCRIBES A PERSECUTION *AT ROME*, not an empire-wide program. Against 13:7's "every tribe and people and language and nation" and 13:16's "all, both small and great," THAT IS A REAL OPEN PROBLEM — and it is THE PRICE OF STAGE 40'S REFUSAL TO SHRINK THAT PHRASE. PAID HERE RATHER THAN RENEGOTIATED.**
->
-> ### **3. TACITUS WROTE ROUGHLY HALF A CENTURY LATER — TIER C, NOT TIER A.**
+> ### ❗ **AND THIS STAGE'S HEADLINE IS COUNTEREVIDENCE, NOT SUPPORT — STATED AT THE TOP OF THE FILE RATHER THAN BURIED.**
 
-**❌ Q2 (Peter and Paul's deaths) and ❌ Q3 (John and the Asian assemblies) DELIBERATELY LEFT EMPTY — nothing written from memory, because 60s dates and a young-assemblies reading would both suit the hypothesis and could be produced plausibly without a single source. AN UNANSWERED QUESTION IS RECOVERABLE; A CONFIDENTLY WRONG ANSWER RESTATED THREE TIMES IS NOT.** **Full source ladders and both-direction circularity traps recorded at q173 and q174.**
+**✅ TACITUS *ANNALS* 15.44 (S1) — a hostile, non-Christian Roman historian attests Nero's persecution after the 64 fire, and independently attests "Christus… suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus." HIS HOSTILITY STRENGTHENS THE TESTIMONY. 🛑 But he gives NO DURATION and NO END DATE — the familiar "64–68" is a CONSTRUCTED interval, and selecting a start month to manufacture ~42 months is exactly the number-fitting the methodology exists to prevent. CORRESPONDENCE, NOT IDENTIFICATION.**
+
+> ### 🔑 **1 CLEMENT 5 OPENED (S2) — AND THE EARLIEST SOURCE SAYS LESS THAN THE TRADITION BUILT ON IT. Peter "suffered martyrdom"; Paul "seven times thrown into captivity… preached both in the east and west… MARTYRDOM UNDER THE PREFECTS." ❗ IT DOES NOT NAME NERO. NOT ROME. NOT CRUCIFIXION. NOT BEHEADING. NO DATE. An OFFICE, not an emperor — and the text has editor-reconstructed LACUNAE. Tier C (early: they were martyred) and Tier D (later: under Nero, at Rome, modes specified) MAY NOT BE FLATTENED INTO ONE CERTAINTY. 📌 q173 partially discharged — the section deliberately left empty last pass is now filled FROM A SOURCE, and the source turned out thinner than memory would have written it.**
+
+**The 30–70 interval is NOT empty space: mission · expansion · opposition · martyrdom · imperial persecution. 🛑 But we still cannot say Revelation 6's martyr-number was COMPLETED before 70 — Revelation never gives the number, and history cannot tell us whether Yah regarded it as complete (q171 holds, second refusal).**
+
+**🔑 AND A GAIN THAT HAD NOTHING TO DO WITH THE HYPOTHESIS: Acts 19:10's "ALL the residents of Asia heard the word" is the UNIVERSAL-LANGUAGE SCOPE TEST confirmed by a NARRATIVE text. Luke writes "all" and plainly does not mean a census. Stronger than any argument this project could construct for itself. Asia moved from temporarily-closed mission field → major apostolic centre → broad dissemination → established congregations, BEFORE Revelation addresses its seven assemblies.**
+
+> ### 🛑🛑 **THE COUNTEREVIDENCE — RECORDED WITH THE SAME PROMINENCE AS ANY SUPPORT:**
+>
+> ### **✅ EUSEBIUS *HE* III.18 (S3): John "condemned to dwell on THE ISLAND OF PATMOS in consequence of his testimony to the divine word" — under DOMITIAN. And Eusebius quotes ✅ IRENAEUS (S4): the Apocalypse "was seen not long ago, but almost in our own generation, AT THE END OF THE REIGN OF DOMITIAN." ✅ *HE* III.20 (S5): John returned and settled at EPHESUS after Nerva, "according to AN ANCIENT CHRISTIAN TRADITION."**
+>
+> ### ❗ **IF HISTORICALLY STRONG, REVELATION BELONGS c. MID-90s — NOT BEFORE 70 — placing substantial pressure on any reading that treats "near/soon" as prediction of a still-future Jerusalem destruction. WE NEED THAT PRESSURE. IF EVERY NEW SOURCE ONLY CONFIRMED US, WE SHOULD SUSPECT WE HAD STOPPED LOOKING FOR COUNTEREVIDENCE.**
+>
+> ### ⚠️ **NOT DECISIVE EITHER: Eusebius writes centuries later and HIMSELF labels III.20 a transmission claim; and the IRENAEUS WORDING IS THE CRUX — what "was seen," the vision, the book, or John? We hold it only as a TRANSLATION of a QUOTATION inside a LATER HISTORIAN. EXTERNAL TRADITION PRESENTLY LEANS LATE; THE DATE IS NOT ADJUDICATED (q175).**
+
+**⚠️ AND A CORRECTION RECORDED AGAINST THE TRANCHE ITSELF: the "two Johns" claim (apostle vs presbyter) WAS NOT RETURNED by the Book III retrieval — it sits at *HE* III.39 (Papias) and is NOT confirmed by anything this stage opened. Likely correct in substance; NOT passed through as established (q176, S6). ❗ Consequential: if early Asian tradition conflates two men named John, then "John was in Asia under Domitian" and "the apostle John wrote Revelation" MAY NOT BE THE SAME CLAIM.**
+
+> ### 🔑 **THE THREE-HYPOTHESIS FORK, NO BRANCH PRIORITISED (q177): (A) EARLY Revelation / first-century judgment sequence — textually attractive, directly pressured by q175. (B) LATER Revelation RECAPITULATING first-century events already past — more plausible if the Domitianic tradition survives, and ⚠️ NOT a defeat for this project, since recapitulation is already INCREASINGLY SUPPORTED on internal grounds. (C) A LAYERED COMBINATION via recapitulation and prolepsis — and Revelation has DEMONSTRABLY compressed and revisited chronology.**
+>
+> ### **DATING REVELATION DOES NOT MECHANICALLY SOLVE EVERY VISION — BUT IT PROFOUNDLY CONSTRAINS THE OPTIONS. NO BRANCH RECEIVES PRIORITY MERELY BECAUSE IT MAKES THE NARRATIVE CLEANER.**
+
+---
+
+## 📇 Infrastructure added at Stage 40½ — the SOURCE LEDGER
+
+**File: [[08-source-ledger]] · Methodology → v3.7.**
+
+> ### **THE AUTHOR CAUGHT THE GAP HIMSELF: *"are we independently marking these sources also for Claude, or did we forget that one little detail?"* THE HONEST ANSWER: citation preservation had been happening; EXPLICIT SOURCE-PROVENANCE MANAGEMENT HAD NOT BEEN FORMALIZED. Caught immediately before the dating/Nero/666 work makes external evidence load-bearing.**
+
+**🆕 SOURCE-PROVENANCE REQUIREMENT — every claim depending on material outside the biblical text gets source · locator · identifier · date accessed · which stage-claim it supports · evidence tier · verification state.** **❗❗ DO NOT TREAT A CHATGPT OR CLAUDE STATEMENT AS THE SOURCE — "Tacitus says…" points to *Annals* 15.44, not to the tranche that reported it. A SOURCE CITED BY A MODEL BUT NOT INDEPENDENTLY OPENED REMAINS *REPORTED — NOT VERIFIED*.** **Text-critical claims need manuscript provenance: "some manuscripts read 616" is NOT an acceptable final citation (S8).**
+
+**🆕 RETROACTIVE SOURCE AUDIT — do NOT halt the investigation to backfill 40 stages now; mark them SOURCE-BACKFILL. Verify when an old claim becomes CONSEQUENTIAL; full backward audit before publication. ❗❗ AND NEVER SILENTLY UPGRADE AN OLDER UNSOURCED ASSERTION INTO A SOURCED FACT BECAUSE IT HAS BEEN REPEATED ACROSS STAGES — repetition FEELS like corroboration and is not.**
+
+**🆕 THREE PROVENANCE LAYERS, not interchangeable: BIBLICAL ([[05-scripture-index]]) · EXTERNAL EVIDENTIARY ([[08-source-ledger]]) · RESEARCH-PROCESS (stage files + this spine — where an idea or correction ORIGINATED). The *oligon kairon* / *mikron chronon* distinction demonstrates all three, and its third layer records that A HUMAN OBJECTION, NOT A TEXT, produced it.**
 
 ---
 
