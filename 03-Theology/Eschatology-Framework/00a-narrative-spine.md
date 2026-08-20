@@ -86,7 +86,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **39½** | **🔑 The Short Time, Apostolic Mission, and the Completion of the Martyrs** *(historical control)* | **[[02a-the-short-time-apostolic-mission-and-the-completion-of-the-martyrs]]** |
 | **40** | **🔑🔑 Revelation 13: The Beasts, the Mark, and 666** | **[[02b-revelation-13-the-beasts-the-mark-and-666]]** |
 | **40½** | **🛑 Historical Control: Apostolic Mission, Nero, and the Martyrs** *(COUNTEREVIDENCE ON RECORD)* | **[[02c-nero-the-apostles-and-the-asian-assemblies]]** |
-| **41** | *(next)* **Revelation 14 — Mount Zion, the everlasting good news, Babylon's fall, the harvest** | — |
+| **41** | **🔑🔑 Revelation 14: The 144,000, the Good News, Babylon, and the Harvest** | **[[02d-revelation-14-the-144000-the-good-news-babylon-and-the-harvest]]** |
+| **42** | *(next)* **Revelation 15–16 — the seven bowls, and the hardest test yet for recapitulation** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1501,7 +1502,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 40½ — 🛑 Historical Control: Apostolic Mission, Nero, and the Martyrs *(current)*
+## Stage 40½ — 🛑 Historical Control: Apostolic Mission, Nero, and the Martyrs
 
 **File:** [[02c-nero-the-apostles-and-the-asian-assemblies]] · **Provenance: [[08-source-ledger]] S1–S7.**
 
@@ -1547,7 +1548,49 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 41 — 🔑🔑 Revelation 14: The 144,000, the Good News, Babylon, and the Harvest *(current)*
+
+**File:** [[02d-revelation-14-the-144000-the-good-news-babylon-and-the-harvest]] · **✅ FULL CHAPTER VERIFIED VERBATIM, plus Hebrews 12:22–24 · 1 Corinthians 15:20–23 · Daniel 7:13–14 · Matthew 24:14.** **First stage under the SOURCE-PROVENANCE REQUIREMENT — all-biblical, so no new ledger entries required.**
+
+> ### **SEVERAL LINES DEVELOPED INDEPENDENTLY ACROSS FORTY STAGES APPEAR IN ONE CHAPTER — WHICH IS EXACTLY WHEN A PROJECT IS MOST LIKELY TO SEE WHAT IT WANTS.**
+
+**🔑 REVELATION ANSWERS THE MARK WITH A MARK, INTERNALLY: 13 ends with the beast's mark/name/number; 14:1 opens with the Lamb's name AND the Father's name on the 144,000's foreheads. ⚠️ Small correction to the tranche: BOTH names, not the Father's alone. STAGE 40'S COVENANTAL MARK PRIORITY NOW RESTS ON REVELATION'S OWN INTERNAL INTERPRETATION, not only Torah parallels.**
+
+**MOUNT ZION FLAGGED, NOT SOLVED — ✅ Hebrews 12:22 "you HAVE COME to Mount Zion… the heavenly Jerusalem" (already arrived), yet John SEES them on Zion, HEARS a voice FROM HEAVEN, and the song is sung BEFORE THE THRONE. LOCATION HUMILITY: visionary geography must not be converted automatically into ordinary physical geography. ❗ Same class of question as "where do the saints reign during the thousand years?" — Revelation 20 will need this.**
+
+**⚠️ VIRGINITY: three readings preserved (literal celibates · symbolic covenantal purity · literal characteristic carrying symbolic significance) and NONE chosen — we may not conclude "144,000 men who never had sex," AND we may not erase the literal wording because a symbolic reading suits our theology. 🔒 FIRM BRAKE FOR SIDE STUDY 37½: the 144,000 are NOT the complete population of the saved (Rev 7's innumerable multitude), so *sexually experienced → not among them → therefore excluded from salvation* IS FORBIDDEN REASONING. 14:4 may not prematurely answer the sexual-ethics branch.**
+
+> ### 🔑🔑 **FIRSTFRUITS — THE MOST CONSEQUENTIAL FINDING. ✅ 14:4 "redeemed from mankind as FIRSTFRUITS." FIRSTFRUITS ARE DEFINITIONALLY NOT THE WHOLE HARVEST. ✅ 1 Cor 15:20–23 supplies the pattern WITH AN EXPLICIT ORDERING — "each in his own order: Christ the firstfruits, THEN at his coming those who belong to Christ." 🆕 FIRSTFRUITS COMPLETION CONTROL: ask FIRST PORTION OF WHAT SUBSEQUENT WHOLE — never treat it as an ornament for "special." AND REVELATION 14 MAY ANSWER ITSELF: 14:15–16 reaps "the harvest of the earth" IN THE SAME CHAPTER. 🛑 Identity NOT declared. May materially affect the millennial chronology (q179).**
+
+**🔑 PROCLAMATION — AND THE AGENT IS AN ANGEL. ✅ 14:6–7 "another ANGEL… with an ETERNAL GOSPEL to proclaim… to every nation and tribe and language and people… the hour of his judgment HAS COME." ✅ Matthew 24:14 "this gospel of THE KINGDOM… as a testimony to all nations, AND THEN THE END WILL COME." DIFFERENCES TABULATED, NOT FLATTENED — content (kingdom vs eternal) · agent (disciples implied vs AN ANGEL) · timing (FUTURE vs ARRIVED). 🆕 PROCLAMATION-AGENT DISTINCTION: similar proclamation language does NOT establish identical commissioning agents. Matthew 28 / Acts / Paul / Revelation 14 are NOT interchangeable. SHARPENS THE FOUNDING QUESTION — Revelation 14 does NOT establish that nations-proclamation is a standing commission on every believer (q182).**
+
+**BABYLON FALLS AND WE DO NOT NAME HER — not Rome, not Jerusalem, not a later city. Revelation 17–18 will supply more. ⚠️ And *porneia* appears for a CITY's unfaithfulness: CONTEXT DETERMINES THE REFERENT — we cannot open a concordance and assign one English definition universally (essential for q150).** **14:9 puts WORSHIP BEFORE MARK — Stage 40 reinforced by the text's own sequencing.**
+
+**✅ 14:12 "those who KEEP THE COMMANDMENTS OF GOD and their FAITH IN JESUS" — near-identical to ✅ 12:17. NOT commandments VERSUS faith; side by side, TWICE. ⚠️ Does not settle which Mosaic administrations remain applicable — that needs the covenantal sorting already done, and this verse may not shortcut it. Same covenant-faithful population from another angle → RECAPITULATION AGAIN.** **14:13's blessing on the faithful dead keeps the martyr thread live from 6 → 12 → 13 → 14: THEMES RECUR AND OVERLAP, which resists reading 6–14 as separate historical blocks.**
+
+> ### ❗❗ **AND THE DATUM THE TRANCHE MISSED: ✅ 14:15 — "ANOTHER ANGEL CAME OUT OF THE TEMPLE, CALLING… TO HIM WHO SAT ON THE CLOUD, 'PUT IN YOUR SICKLE, AND REAP.'" AN ANGEL TELLS THE CLOUD-FIGURE WHEN TO REAP. Candidates: the angel RELAYS the Father's timing · the figure is NOT Messiah · apocalyptic convention does not encode rank in who-speaks-to-whom. 🛑 NOT RESOLVED, NOT USED — but any argument that the cloud-figure is straightforwardly Messiah MUST account for it (q180).**
+>
+> ### ⚠️ **AND ✅ DANIEL 7:13's DIRECTION, ROUTINELY REVERSED IN POPULAR READING: the son of man comes TO THE ANCIENT OF DAYS and IS PRESENTED BEFORE HIM, receiving dominion — HE IS NOT DESCRIBED AS DESCENDING TO EARTH. Bears on every "coming with clouds" text in this project.**
+
+**TWO HARVESTS? First: the cloud-figure reaps, NO wrath language. Second: an ANGEL gathers "the vine of the earth" into "the great winepress of THE WRATH OF GOD." Candidate: righteous gathered ⟷ wicked judged. 🛑 NOT concluded — grain AND grape harvest both appear in prophetic JUDGMENT contexts; Joel 3:13 and Isaiah 63:1–6 required (q181).** **"OUTSIDE THE CITY" — which city? RECORD, DO NOT SOLVE. ⚠️ And the tranche omitted "1,600 STADIA" (40 × 40) — recorded, NOT interpreted.**
+
+> ### 🛑 **THE BRAKE, WRITTEN AS A SECTION BECAUSE THIS CHAPTER HANDS THE PROJECT SEVERAL THINGS IT WANTS AT ONCE: the forbidden reasoning is "we want the Commission completed → Revelation 14 proves it → therefore the millennium happened → therefore we are in the little season." IT WOULD FEEL LIKE PROGRESS THE WHOLE WAY DOWN. REQUIRED ORDER: Matthew independently · Paul independently · Acts independently · Revelation independently — THEN compare. The Independent Convergence Requirement now governs the proclamation texts too.**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 42 — REVELATION 15–16: THE SEVEN BOWLS**
+
+> ### ❗ **THE HARDEST TEST YET FOR RECAPITULATION: compare SEALS → TRUMPETS → BOWLS WITHOUT assuming either THREE CONSECUTIVE DISASTER SEQUENCES or THREE DESCRIPTIONS OF THE SAME JUDGMENTS.**
+
+**Also arriving: the SONG OF MOSES AND THE LAMB (the New Exodus pattern's most explicit statement yet) · the temple filled with smoke · and ⚠️ THE EUPHRATES RETURNS at 16:12 — the author remembered it correctly, and Stage 37 already separated it from Revelation 9's four bound angels.**
+
+> ### **THIS TIME WE LET THE TEXT ESTABLISH EXACTLY WHAT HAPPENS BEFORE ATTACHING ANY GEOGRAPHY OR LATER HISTORICAL THEORY TO IT.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (40½ → 41), Preserved
 
 ### **STAGE 41 — REVELATION 14: MOUNT ZION, THE EVERLASTING GOOD NEWS, BABYLON'S FALL, AND THE HARVEST**
 

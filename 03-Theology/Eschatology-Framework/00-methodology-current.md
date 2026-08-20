@@ -987,6 +987,40 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### 🌾 Firstfruits Completion Control *(Stage 41)*
+> **When Scripture calls a group or person FIRSTFRUITS, ask: FIRST PORTION OF *WHAT SUBSEQUENT WHOLE?* Do NOT treat "firstfruits" as an ornamental synonym for "special."**
+
+*Warrant:* **Revelation 14:4 — the 144,000 "redeemed from mankind as FIRSTFRUITS for God and the Lamb."** ✅ *And the NT supplies the pattern with an explicit ordering:* **1 Corinthians 15:20–23 — "Christ the firstfruits… EACH IN HIS OWN ORDER: Christ the firstfruits, THEN at his coming those who belong to Christ."** ✅
+
+> ### **FIRSTFRUITS ARE DEFINITIONALLY NOT THE WHOLE HARVEST. THE WORD CARRIES A SEQUENCE WHEREVER THE NT USES IT SERIOUSLY.**
+>
+> ### ❗ **AND REVELATION 14 MAY ANSWER ITS OWN QUESTION — 14:15–16 reaps "the harvest of the earth" IN THE SAME CHAPTER. 🛑 IDENTITY NOT DECLARED. May materially affect the millennial chronology (q179).**
+
+### 📢 Proclamation-Agent Distinction *(Stage 41)*
+> **Similar proclamation language does NOT establish identical commissioning agents. Preserve WHO SPEAKS · WHO IS COMMANDED · WHO PROCLAIMS · TO WHOM · UNDER WHAT TEMPORAL CONDITIONS, before combining proclamation passages.**
+
+| Text | Agent |
+|---|---|
+| **Matthew 28** | disciples commissioned |
+| **Acts** | apostolic/community expansion |
+| **Paul** | proclamation already accomplished or spreading |
+| **Revelation 14:6** | ❗ **AN ANGEL** |
+
+*And the timing differs too:* **Matthew 24:14 "and THEN the end WILL COME"** ✅ *versus* **Revelation 14:7 "the hour of his judgment HAS COME."** ✅
+
+> ### **THIS DOES NOT ANSWER MATTHEW 28. IT PREVENTS COLLAPSING EVERY PROCLAMATION TEXT INTO ONE UNDIFFERENTIATED "GREAT COMMISSION" — and it sharpens the investigation's founding question: REVELATION 14 DOES NOT ESTABLISH THAT NATIONS-PROCLAMATION IS A STANDING COMMISSION ASSIGNED INDISCRIMINATELY TO EVERY BELIEVER.**
+
+### 🗺️ Location Humility *(formalized at Stage 41)*
+> **Apocalyptic visionary geography must NOT be automatically converted into ordinary physical geography.**
+
+*Warrant: Revelation 14 places the Lamb and the 144,000 on MOUNT ZION, while John hears a voice FROM HEAVEN and the new song is sung BEFORE THE THRONE — the vision moves between them without explaining the spatial mechanics. Compare Hebrews 12:22's "you HAVE COME to Mount Zion… the heavenly Jerusalem" (already arrived).* ✅
+
+> ### ❗ **DIRECTLY RELEVANT TO REVELATION 20: "where do the saints reign during the thousand years?" is the SAME CLASS OF QUESTION. FLAG IT; DO NOT SOLVE IT EARLY.**
+>
+> **Related datum:** ✅ **Daniel 7:13 — the son of man comes TO THE ANCIENT OF DAYS and IS PRESENTED BEFORE HIM, receiving dominion. HE IS NOT DESCRIBED AS DESCENDING TO EARTH IN THAT VERSE.** *This bears on every "coming with clouds" text in the project (q180).*
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -1022,6 +1056,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **3.8** | 2026-08-19 | Added the **Firstfruits Completion Control**, the **Proclamation-Agent Distinction**, and formalized **Location Humility** (Stage 41). **Stage 40's Covenantal Mark Priority upgraded** — Revelation 14:1 supplies the opposing mark INTERNALLY, not only via Torah parallels. **Recapitulation strengthened again** (12:17 ≈ 14:12; the martyr thread runs unbroken 6 → 12 → 13 → 14). **Recorded an unresolved problem the tranche missed: an angel commands the one on the cloud to reap (14:15).** |
 | **3.7** | 2026-08-19 | **Added the SOURCE-PROVENANCE REQUIREMENT, the RETROACTIVE SOURCE AUDIT protocol, and the THREE PROVENANCE LAYERS — opened [[08-source-ledger]].** Gap caught by the author immediately before the dating/Nero/666 investigation makes external evidence load-bearing. **Stage 40½ expanded to a full stage and its headline is COUNTEREVIDENCE: Eusebius places John's Patmos exile under DOMITIAN and quotes Irenaeus for a Domitianic vision — pressure against the early date, recorded as prominently as any support.** **1 Clement opened and found THINNER than the tradition built on it** (no Nero, no Rome, no modes of death). **Three-hypothesis fork preserved with NO branch prioritised.** |
 | **3.6** | 2026-08-19 | Added the **Composite-Beast Control**, **Sign-Truth Control** and **Covenantal Mark Priority** (Stage 40), and the **Constraint-Not-Resemblance Standard** (40½). **Recapitulation strengthened again** — the Danielic period now appears FIVE times across Revelation 11–13. **Opened the 666/616 branch** (q169) and **recorded the first historical result that went AGAINST the hypothesis**: Tacitus attests Nero's persecution but supplies no duration, and describes it at Rome. |
 | **3.5** | 2026-08-19 | Added **Measured Partial Judgment** and the **Judgment–Repentance Control** (Stage 37, write-up debt discharged); **Visionary Compression Control** and **CAST DOWN ≠ BOUND** (Stage 39); the **Independent Convergence Requirement** (39½). **Promoted the Cross–Casting-Down Hypothesis to STRONG** on Revelation 12:10–11 plus the Johannine cluster. **Upgraded RECAPITULATION from hypothetical to INCREASINGLY SUPPORTED** — while Stage 38's refusal to deploy it stands. **Promoted the Revelation DATING question from deferred to REQUIRED before any major chronological conclusion.** |
