@@ -89,7 +89,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **41** | **🔑🔑 Revelation 14: The 144,000, the Good News, Babylon, and the Harvest** | **[[02d-revelation-14-the-144000-the-good-news-babylon-and-the-harvest]]** |
 | **42** | **🔑🔑 Revelation 15–16: The Bowls, the Euphrates, Armageddon, and "It Is Done"** | **[[02e-revelation-15-16-the-bowls-the-euphrates-armageddon-and-it-is-done]]** |
 | **43** | **🔑🔑 Revelation 17–18: Babylon the Great — Rome, Jerusalem, or Something More Complex?** | **[[02f-revelation-17-18-babylon-the-great-rome-jerusalem-or-something-more-complex]]** |
-| **44** | *(next)* **Revelation 19 — the marriage supper, the rider on the white horse, and THE FINAL BRIDGE BEFORE THE MILLENNIUM** | — |
+| **44** | **🔑🔑 Revelation 19: Babylon Falls, the Lamb Marries, and the Rider Conquers** | **[[02g-revelation-19-babylon-falls-the-lamb-marries-and-the-rider-conquers]]** |
+| **45** | *(next)* **🔑🔑🔑 REVELATION 20 — THE WALL. Four movements. The stage where we do not protect the hypothesis** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1620,7 +1621,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 43 — 🔑🔑 Revelation 17–18: Babylon the Great — Rome, Jerusalem, or Something More Complex? *(current)*
+## Stage 43 — 🔑🔑 Revelation 17–18: Babylon the Great — Rome, Jerusalem, or Something More Complex?
 
 **File:** [[02f-revelation-17-18-babylon-the-great-rome-jerusalem-or-something-more-complex]] · **✅ VERIFIED VERBATIM: Revelation 17:1–18 · Revelation 18:4–8, 11–13, 20, 24 · Ezekiel 16:37–39 · Isaiah 47:7–9 · Isaiah 1:21.**
 
@@ -1660,7 +1661,65 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 44 — 🔑🔑 Revelation 19: Babylon Falls, the Lamb Marries, and the Rider Conquers *(current)*
+
+**File:** [[02g-revelation-19-babylon-falls-the-lamb-marries-and-the-rider-conquers]] · **✅ FULL CHAPTER VERIFIED VERBATIM, plus Ezekiel 39:17–20 · Isaiah 63:1–6 · Isaiah 11:4.**
+
+> ### **THIS STAGE PRODUCED THE STRONGEST INTERNAL SUPPORT THE SEQUENCE HYPOTHESIS HAS RECEIVED — AND THE STRONGEST STRUCTURAL COUNTERPRESSURE AGAINST TOTAL RECAPITULATION, FROM THE SAME THREE VERSES.**
+
+**🔑 THE MARTYR ARC CLOSES AND REVELATION SUPPLIES ITS OWN ANSWER-LANGUAGE: ✅ 19:2 "he has JUDGED the great prostitute… and HAS AVENGED ON HER THE BLOOD OF HIS SERVANTS" against 6:10's "how long until you AVENGE OUR BLOOD?" and 18:24's blood of prophets and saints. NO LONGER THEMATIC RESEMBLANCE. Arc: martyr cry → waiting → judgments → Babylon blood-guilty → Babylon destroyed → BLOOD AVENGED.**
+
+**Prostitute → BRIDE, deliberately contrasted. ✅ 19:8 "the fine linen is THE RIGHTEOUS DEEDS OF THE SAINTS" — internal interpretation. And note the double: she MADE HERSELF READY, yet it WAS GRANTED to her — agency and gift held together, uncollapsed. ⚠️ Marriage imagery is Tanakh covenant vocabulary (Isaiah, Jeremiah, Ezekiel, Hosea), so "unfaithful woman judged → faithful bride prepared" MAY represent covenant judgment and restoration — BUT NOT "Jerusalem destroyed → Church replaces Israel." The erasure model was ruled out at Stage 24.**
+
+**✅ 19:11 the rider is IDENTIFIED — Faithful and True, THE WORD OF GOD, KING OF KINGS AND LORD OF LORDS. ❗ Revelation 6:2 ALSO had a white horse and conquering rider AND REVELATION DID NOT IDENTIFY HIM — so SAME HORSE COLOUR ≠ SAME RIDER is STRENGTHENED, not weakened. Revelation identifies when it wants to.** **✅ 19:15's sword FROM HIS MOUTH + ✅ Isaiah 11:4's "rod of his mouth… breath of his lips" — MESSIAH'S WEAPON IS HIS WORD, constraining literal-military readings. ✅ Psalm 2's rod of iron returns: THE MALE CHILD OF REVELATION 12 AND THE RIDER OF 19 ARE THE SAME KING — Revelation revisits one Messiah across radically different scenes.**
+
+> ### ❗❗ **FOUND ON RETRIEVAL, NOT IN THE TRANCHE: ✅ 19:13 THE ROBE IS "DIPPED IN BLOOD" AT VERSE 13 — AND THE BATTLE DOES NOT OCCUR UNTIL 19:19–21. THE ROBE IS ALREADY BLOOD-DIPPED WHEN HE RIDES OUT, so the blood CANNOT simply be that of enemies killed in a battle that has not yet happened. Candidates preserved: HIS OWN sacrificial blood (5:9, 12:11) · enemies' blood via Isaiah 63 narrated PROLEPTICALLY · deliberately layered (q199).**
+>
+> ### **AND A SECOND DIFFERENCE THE COMPARISON EXPOSES: ✅ Isaiah 63:3 "I HAVE TRODDEN THE WINEPRESS *ALONE*, AND FROM THE PEOPLES NO ONE WAS WITH ME" against ✅ 19:14's "THE ARMIES OF HEAVEN… WERE FOLLOWING HIM." AND THE ARMIES ARE NEVER DESCRIBED AS FIGHTING — 19:21 says the rest were slain BY THE SWORD FROM HIS MOUTH.**
+
+**🔑🔑 THE ANTI-BANQUET IS EZEKIEL 39 — *BEFORE* REVELATION 20 EVER NAMES GOG: ✅ 19:17–18's birds summoned to "THE GREAT SUPPER OF GOD" to eat the flesh of KINGS, CAPTAINS, MIGHTY MEN, HORSES AND THEIR RIDERS, against ✅ EZEKIEL 39:17–20's birds summoned to "THE SACRIFICIAL FEAST… ON THE MOUNTAINS OF ISRAEL" for "THE FLESH OF THE MIGHTY… HORSES AND CHARIOTEERS, MIGHTY MEN." NEAR-DIRECT. BOTH REVELATION 19 AND 20 DRAW ON EZEKIEL 38–39. TWO FULFILMENTS OF ONE ARCHETYPE, OR TWO PRESENTATIONS OF ONE CONFLICT? 🛑 UNAVOIDABLE NOW, AND THE CENTRAL STRUCTURAL TEST OF STAGE 45 (q200).** **⚠️ Ezekiel's "on the mountains of Israel" is a geographic datum Revelation does NOT repeat — recorded, not pressed.** **Deliberate pairing: MARRIAGE SUPPER OF THE LAMB ⟷ GREAT SUPPER OF GOD. Participation, or being consumed.**
+
+**📌 ARMAGEDDON ⟷ REVELATION 19 BATTLE PROMOTED TO *STRONG IDENTITY HYPOTHESIS*: 16 = the GATHERING · 17–18 = BABYLON EXPLAINED AND JUDGED · 19 = THE BATTLE EXECUTED. Stronger than shared vocabulary — gathering and engagement are narratively COMPLEMENTARY, not merely similar. Not absolute.** **And the battle is strangely SHORT: no campaign; the beast CAPTURED, the rest slain by the word.**
+
+> ### ❗❗ **THE DRAGON IS MISSING. Revelation 19 disposes of BEAST and FALSE PROPHET — thrown ALIVE into the lake of fire — and NEVER MENTIONS THE DRAGON, the very figure who GAVE the beast his throne. Then Revelation 20 opens by SEIZING THE DRAGON.**
+>
+> ### 🛑 **AND THEIR TRAJECTORIES DIFFER EXPLICITLY: beast + false prophet → LAKE OF FIRE IMMEDIATELY; dragon → BOUND → thousand years → RELEASED → revolt → THEN the same lake. THEREFORE "every adversary's defeat is one event viewed differently" CANNOT BE SUSTAINED. THAT IS REAL COUNTERPRESSURE AGAINST TOTAL RECAPITULATION — THE MODEL THIS PROJECT HAS BEEN INCREASINGLY DRAWN TO — AND IT IS RECORDED IN THE SAME TYPEFACE AS THE SUPPORT (q201).**
+
+**🆕 SPIRAL PROGRESSION offered as an ARCHITECTURAL HYPOTHESIS, NOT A RULE: revisiting earlier events from new perspectives WHILE advancing toward genuine later transitions. 🛑 ITS DANGER NAMED WITH IT — "spiral" could explain ANY arrangement, which would make it UNFALSIFIABLE. It must earn each application, exactly as the Composite-Symbol Possibility must (q203).**
+
+> ### 🔑 **AND THE SEQUENCE THE AUTHOR PROPOSED AT STAGE 39, FROM REVELATION 12 ALONE, HAS NOW ARISEN FROM REVELATION'S OWN STRUCTURE: dragon cast down with A SHORT TIME (12) → dragon EMPOWERS the beast (13) → beast and false prophet DESTROYED (19) → dragon BOUND (20).**
+>
+> ### **AND THE RELIEF THIS PROVIDES, STATED PLAINLY: WE DO NOT NEED AD 70 TO EQUAL THE BINDING. The chronology runs without deciding what calendar year corresponds to Revelation 20:1 — exactly what q163's brake required, satisfied without strain.**
+>
+> ### 🛑 **STILL FORBIDDEN: "therefore the millennium definitely happened historically after 70." ZERO PERMISSION FOR THAT JUMP. STAGE 45 MUST DETERMINE WHAT THE FIRST RESURRECTION AND THE THOUSAND YEARS ACTUALLY MEAN. THAT IS THE WALL.**
+
+**⚠️ AND A REAL PROBLEM RECORDED: ✅ 19:7 places THE MARRIAGE OF THE LAMB *BEFORE* the thousand years, where many popular schemes place it after all eschatological history. Sequential · proleptic · recapitulative — NOT DECIDED, and later theological charts may not determine the sequence (q202). The bride is not closed either: Revelation 21 will identify her with NEW JERUSALEM.**
+
+> ### 📌 **MANUSCRIPT VOICE: *"The hypothesis had finally reached the passage capable of breaking it."***
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 45 — 🔑🔑🔑 REVELATION 20 — THE WALL**
+
+**Taken in FOUR SEPARATE MOVEMENTS, because collapsing them has caused enormous confusion historically:**
+
+> **20:1–3 SATAN BOUND · 20:4–6 THE FIRST RESURRECTION AND THE THOUSAND-YEAR REIGN · 20:7–10 THE LITTLE SEASON, GOG AND MAGOG · 20:11–15 THE GREAT WHITE THRONE**
+
+**The decisive questions, no longer vague:** what does *bound* actually PREVENT Satan from doing · WHO sits on the thrones · does *they came to life* mean BODILY resurrection · does *first resurrection* FORCE that conclusion · is the thousand years literal, symbolic, or both · WHERE does the reign occur (Location Humility, Stage 41) · WHO are the nations existing during it · WHY can Satan deceive them after release · is Revelation 20's Gog/Magog DISTINCT from Revelation 19's (q200) · **and does anything in the text PERMIT placing the thousand years in past history?**
+
+> ### 🛑 **THIS IS THE STAGE WHERE WE DO NOT PROTECT THE HYPOTHESIS.**
+>
+> ### **IF BODILY RESURRECTION AND CHRONOLOGY MAKE A PAST MILLENNIUM IMPOSSIBLE, WE SAY SO.**
+>
+> ### **IF THE TEXT GENUINELY PERMITS IT, WE THEN DETERMINE WHAT EXTERNAL HISTORICAL EVIDENCE WOULD BE REQUIRED TO MOVE FROM *PERMITTED* TO *PROBABLE*.**
+
+**Arriving with: q163 (cast down ≠ bound) · q188/q200 (the battle correspondences) · q201 (the adversary-sequence counterpressure) · q179 (firstfruits — what is the harvest, and where does it fall relative to the first resurrection?) · q129 (kingdom ≠ millennium) · and Stages 29–31's resurrection work.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (43 → 44), Preserved
 
 ### **STAGE 44 — REVELATION 19: THE MARRIAGE SUPPER, THE RIDER, AND THE FINAL BRIDGE**
 

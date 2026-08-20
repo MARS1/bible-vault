@@ -1073,6 +1073,31 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### 🌀 Spiral Progression *(Stage 44 — HYPOTHESIS, NOT A RULE)*
+> **A narrative structure that REVISITS earlier events and themes from new perspectives WHILE SIMULTANEOUSLY ADVANCING toward later developments or greater consummation.**
+
+*Why proposed: the evidence now cuts both ways.* **RECAPITULATION is increasingly supported** — Revelation 12 returns to Messiah's birth AFTER the seventh trumpet; the Danielic period recurs five times across 11–13; 12:17 ≈ 14:12. **AND GENUINE PROGRESSION is now also supported** — the adversaries receive DIFFERENT sequences at 19→20 *(q201)*.
+
+> ### **NEITHER STRICT CHRONOLOGY NOR TOTAL RECAPITULATION ACCOUNTS FOR BOTH.**
+>
+> ### 🛑 **AND ITS DANGER IS NAMED WITH IT: "SPIRAL" COULD EXPLAIN ANY ARRANGEMENT WHATSOEVER, WHICH WOULD MAKE IT UNFALSIFIABLE. IT MUST EARN EACH APPLICATION FROM THE TEXT — exactly as the Composite-Symbol Possibility must. DO NOT PROMOTE TO A RULE WITHOUT DEMONSTRATING THAT IT PREDICTS SOMETHING A SIMPLER MODEL DOES NOT.**
+
+### ⚔️ Adversary-Sequence Datum *(Stage 44 — counterpressure against this project's own drift)*
+> **Revelation assigns its adversaries DIFFERENT trajectories, so "every enemy-defeat vision is one event viewed from different angles" cannot be sustained.**
+
+| | |
+|---|---|
+| **beast + false prophet** | **→ thrown ALIVE into the lake of fire IMMEDIATELY** (19:20) ✅ |
+| **dragon** | **→ BOUND → thousand years → RELEASED → revolt → THEN the same lake** (20) |
+
+*And the dragon — who GAVE the beast his power, throne and authority (13:2) — is CONSPICUOUSLY ABSENT from Revelation 19's disposal.*
+
+> ### **REAL PRESSURE *TOWARD* GENUINE CHRONOLOGICAL PROGRESSION AND *AGAINST* TOTAL RECAPITULATION — the model this project has been increasingly drawn to. RECORDED IN THE SAME TYPEFACE AS THE SUPPORT.**
+>
+> ### ⚠️ **Standing brake still applies: VISION SEQUENCE ≠ AUTOMATICALLY EVENT SEQUENCE. But the omission here is CONSPICUOUS rather than incidental.**
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -1108,6 +1133,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **4.1** | 2026-08-20 | Added **Spiral Progression** (hypothesis only, with its unfalsifiability danger named) and the **Adversary-Sequence Datum** (Stage 44). **Promoted Armageddon vs Revelation 19 to a STRONG identity hypothesis.** **Recorded counterpressure against total recapitulation** — the beast and false prophet go straight to the lake of fire while the dragon is bound first. **Found on retrieval: the rider's robe is blood-dipped SIX VERSES BEFORE the battle, and Isaiah 63's warrior treads ALONE while Revelation's rider has armies who are never said to fight.** |
 | **4.0** | 2026-08-20 | Added the **Composite-Symbol Possibility** (with its anti-rescue leash), the **Candidate Matrix Requirement**, and **Citation-Numbering Integrity** (Stage 43). **Ran the Babylon falsification audit and it produced NO WINNER** — recorded as a result rather than forced. **Closed the blood-guilt chain** (Rev 18:24 near-verbatim with Matt 23:35) while flagging the *epi tes ges* ambiguity AGAINST our own strongest datum. **Recorded the maritime/slave-trade counterevidence against a simple Jerusalem reading.** Opened the Seven Kings audit (q194) with its number-fitting trap named in advance. |
 | **3.9** | 2026-08-19 | Added the **Correspondence–Identity Distinction** and the **Intertextual Function Control** (Stage 42). **The NEW EXODUS PATTERN reached its strongest point** — John names the Song of Moses BEFORE the plague sequence, so Exodus is not imposed on Revelation. **Opened the blood-of-prophets chain (q186), the Euphrates intertextual branch (q187), the Rev 16 vs Rev 20 battle correspondence (q188), the thief-coming branch (q189), the Armageddon lexical branch (q190) and the trumpet–bowl comparison (q191)** — NONE resolved. **Recorded 15:3–4's all-nations-will-come-and-worship and 16:19's three-item sequence, both missed by the tranche.** |
 | **3.8** | 2026-08-19 | Added the **Firstfruits Completion Control**, the **Proclamation-Agent Distinction**, and formalized **Location Humility** (Stage 41). **Stage 40's Covenantal Mark Priority upgraded** — Revelation 14:1 supplies the opposing mark INTERNALLY, not only via Torah parallels. **Recapitulation strengthened again** (12:17 ≈ 14:12; the martyr thread runs unbroken 6 → 12 → 13 → 14). **Recorded an unresolved problem the tranche missed: an angel commands the one on the cloud to reap (14:15).** |
