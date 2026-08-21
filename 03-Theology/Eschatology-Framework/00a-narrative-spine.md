@@ -91,7 +91,7 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **43** | **🔑🔑 Revelation 17–18: Babylon the Great — Rome, Jerusalem, or Something More Complex?** | **[[02f-revelation-17-18-babylon-the-great-rome-jerusalem-or-something-more-complex]]** |
 | **44** | **🔑🔑 Revelation 19: Babylon Falls, the Lamb Marries, and the Rider Conquers** | **[[02g-revelation-19-babylon-falls-the-lamb-marries-and-the-rider-conquers]]** |
 | **45** | **🔑🔑🔑 Revelation 20: THE WALL — Binding, First Resurrection, the Thousand Years, the Little Season** | **[[02h-revelation-20-binding-first-resurrection-thousand-years-little-season]]** |
-| **45½** | **🔑 The Abyss Audit and the Greek of Revelation 20** *(methodology correction)* | **[[02i-the-abyss-audit-and-the-greek-of-revelation-20]]** |
+| **45½** | **🔑 The Abyss Audit and the Greek of Revelation 20** *(SBLGNT clause-by-clause · methodology correction)* | **[[02i-the-abyss-audit-and-the-greek-of-revelation-20]]** |
 | **46** | *(next)* **Revelation 21–22 — New Jerusalem, the Bride identified, and "who remains OUTSIDE?"** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
@@ -1748,6 +1748,32 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **⚠️ BRAKE ON THE WATER READING: *abyssos* genuinely carries primordial-depth background (LXX renders תְּהוֹם *tehom*, Genesis 1:2's "the deep"). BUT NT usage — Luke 8:31's demons BEGGING NOT TO BE SENT INTO THE ABYSS — is CONFINEMENT OF HOSTILE SPIRITUAL POWERS. PHYSICAL OCEAN IDENTIFICATION IS NOT ESTABLISHED BY THE NOUN ALONE, and an external geographical hypothesis DOES NOT GET TO COLLECT ON THE ETYMOLOGY.**
 
 > ### 🌀 **AND THE AUTHOR'S SPIRAL INSTINCT SHARPENED INTO SOMETHING TESTABLE: Revelation returns to the SAME symbolic domains while their RELATIONSHIPS AND STATES CHANGE. *ABYSS OPENED* IS NOT *ABYSS SEALED*. THE ABYSS IS THE FIRST CONCRETE, TRACEABLE TEST CASE FOR SPIRAL PROGRESSION — which had been in real danger of explaining everything and therefore nothing (q203 → q211).** **Vertical grammar recorded: HEAVEN ↕ EARTH/LAND ↕ ABYSS, with characters cast down · ascending · descending · confined · released. AN APOCALYPTIC VERTICAL-MOVEMENT AUDIT IS OWED.**
+
+**📇 UPGRADED 2026-08-21 — SBLGNT RETRIEVED INDEPENDENTLY AND VERIFIED VERBATIM FOR 20:1–10 (ledger S11). It matched the tranche's citations exactly, but was CHECKED rather than passed through: matching is a RESULT, not a substitute for checking. ⚠️ And SBLGNT is a CRITICALLY EDITED text, NOT an infallible one — variants must be catalogued, not ignored (q212, S12).**
+
+**THE CLAUSE-BY-CLAUSE AUDIT TIGHTENED EVERY HINGE POINT — the opposite of what a project protecting its own conclusion would want:**
+
+**🔒 IT STRENGTHENED THE BINDING. ✅ FIVE cumulative restraint actions — ἐκράτησεν SEIZED → ἔδησεν BOUND → ἔβαλεν εἰς τὴν ἄβυσσον THREW IN → ἔκλεισεν SHUT → ἐσφράγισεν ἐπάνω αὐτοῦ SEALED OVER HIM — plus ✅ 20:7's ἐκ τῆς φυλακῆς αὐτοῦ, HIS PRISON. WE MAY NOT SOFTEN "BOUND" INTO "SATAN CONTINUES AS BEFORE, SLIGHTLY HAMPERED." That is insufficient to the imagery.**
+
+**🔑 AND IT STRENGTHENED THE RESTRICTED PURPOSE. So BOTH extremes fail. 🆕 CONFINEMENT–FUNCTION DISTINCTION, which SUPERSEDES the Binding-Scope Control alone — that rule guarded only ONE side (over-expanding the restriction) and the Greek exposed the opposite error (q214).**
+
+**🔑 ✅ ἔτι — "ANY LONGER" IMPLIES PRIOR DECEPTION. The binding restrains a PRE-EXISTING activity, giving a structured BEFORE / DURING / AFTER. 📌 AND THAT CONSTRAINS q209's START-MARKER SEARCH: whatever event marks the binding should be identifiable as A CHANGE IN THE DECEPTION OF THE NATIONS — not merely an impressive event (q213).**
+
+**✅ THREE PROGRESSION MARKERS IN ONE VERSE: ἄχρι τελεσθῇ (until COMPLETED, from τελέω — the *TELOS* root) · μετὰ ταῦτα (AFTER THESE THINGS — Revelation supplies its own temporal transition) · δεῖ λυθῆναι (IT IS NECESSARY). ⚠️ But *dei* gives NECESSITY, not MOTIVE — "Yah gives Satan another chance" is NOT available; that would supply a reason the text withholds.**
+
+**🛑🛑 IT STRENGTHENED THE RESURRECTION PROBLEM. English was NOT manufacturing "came to life": ✅ ἔζησαν → ✅ οὐκ ἔζησαν → ✅ αὕτη ἡ ἀνάστασις ἡ πρώτη. THREE MUTUALLY REINFORCING PIECES — dead people · they lived · first resurrection. STATUS UPGRADED TO *VERY HIGH* ON SOURCE-LANGUAGE GROUNDS. The single largest textual obstacle to a past millennium (q206).**
+
+**✅ AND IT STRENGTHENED THE TWO-BATTLE SEQUENCE: 20:3's ἔβαλεν εἰς τὴν ἄβυσσον and 20:10's ἐβλήθη εἰς τὴν λίμνην use THE SAME THROWING VERB WITH EMPHATICALLY DIFFERENT DESTINATIONS — abyss = temporary confinement then release; lake = final judgment. And ὅπου καὶ τὸ θηρίον καὶ ὁ ψευδοπροφήτης: they were ALREADY THERE from Revelation 19 (q200).**
+
+**📌 ONLY ONE THING GOT EASIER, AND IT WAS A DISTINCTION RATHER THAN A CONCLUSION: ὀλίγον καιρόν (12:12) and μικρὸν χρόνον (20:3) are semantically similar but LEXICALLY NOT IDENTICAL, and Revelation 20 explicitly locates its *mikron chronon* AFTER the thousand years. NO LEXICAL OR GRAMMATICAL REASON TO FORCE THEM TOGETHER — the author's two-interval reading survives ON ITS OWN TERMS rather than by preference (q163).**
+
+**Other Greek findings: ✅ πεπελεκισμένων, a PERFECT PASSIVE PARTICIPLE, makes it unambiguous these are PEOPLE WHO HAD BEEN KILLED · ✅ 20:4 ἐβασίλευσαν AORIST vs 20:6 βασιλεύσουσιν FUTURE, a real tense shift English levels · ✅ 20:8's εἰς τὸν πόλεμον carries the DEFINITE ARTICLE, "THE war" · ✅ 20:9 pairs ἀνέβησαν with κατέβη in one verse, feeding the Vertical-Movement Audit · ✅ 20:10's ὁ πλανῶν αὐτούς makes DECEPTION his defining action, closing the arc opened at 20:3.**
+
+**⚠️ AND THREE OBSERVATIONS RECORDED AS OBSERVATIONS ONLY, BECAUSE WE DO NOT PARSE DISPUTED SYNTAX OURSELVES: 20:2's nominative ὁ ὄφις ὁ ἀρχαῖος after accusative τὸν δράκοντα · 20:4's genuinely disputed one-class-or-two syntax · 20:9's ἀναβαίνω, which has upward language but standardly describes MILITARY/GEOGRAPHICAL movement and must NOT be made a physical vertical ascent (q212, ledger S14).**
+
+> ### 📌 **STATUS: LITTLE-SEASON HYPOTHESIS TEXTUALLY COHERENT IN ITS SEQUENCE — HISTORICAL PLACEMENT UNPROVEN, CHIEFLY BECAUSE THE FIRST RESURRECTION MUST BE ACCOUNTED FOR.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"The English translator needed grammar; I had almost turned the translator's grammar into theology."* And: *"The hypothesis would have to survive the Greek too."***
 
 **⚠️ HONEST LIMIT: this branch OPENS the audit and does not complete it. Only Revelation 20:1–8 was retrieved in Greek; 9:1, 9:11, 11:7, 17:8, 1:18 and Luke 8:31 are still being handled through English and the tranche's REPORTED Greek — which, by this branch's own new rule, IS NOT SUFFICIENT (q210).**
 

@@ -100,6 +100,17 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 | **S9** | **Hebrew/Aramaic spelling and numerical value of NERON QESAR** | **TBD** | that the name calculates to 666, and a Latinized spelling to 616 | **PRIMARY** *(when obtained)* | ⚠️ **REPORTED — NOT VERIFIED** *(q169)* |
 | **S10** | **Irenaeus on the number/variant readings** | **TBD** | what Irenaeus knew about 666 vs 616 | **LATER SECONDARY** | ⚠️ **REPORTED — NOT VERIFIED.** 🛑 **SHARED SOURCE WITH THE DATING QUESTION (S4) — the two investigations must stay analytically independent, which is HARDER because they share a witness** |
 
+## Stage 45½ — Greek base text
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S11** | **SBLGNT — SBL Greek New Testament** | **Revelation 20:1–10** | the entire clause-by-clause Greek audit: ἵνα μὴ πλανήσῃ ἔτι τὰ ἔθνη · ἄχρι τελεσθῇ · μετὰ ταῦτα · δεῖ λυθῆναι · ἔζησαν / οὐκ ἔζησαν · ἡ ἀνάστασις ἡ πρώτη · οὐκ ἔχει ἐξουσίαν · φυλακῆς · πλανῆσαι τὰ ἔθνη · ἐβλήθη εἰς τὴν λίμνην | **PRIMARY** *(critical edition of the Greek NT)* | ✅ **VERIFIED** — retrieved INDEPENDENTLY via Bible Gateway and matched against the tranche's citations. **⚠️ A CRITICALLY EDITED TEXT, NOT AN INFALLIBLE ONE** — textual-critical claims must compare major variants *(q212)* | 2026-08-21 |
+| **S12** | **SBLGNT apparatus, Revelation 20** | **TBD** | which variants in the chapter could materially change interpretation | **PRIMARY** *(when obtained)* | ⚠️ **NOT RETRIEVED.** Most appear minor for present chronology, but they must be **CATALOGUED RATHER THAN IGNORED** *(q212)* | — |
+| **S13** | **Lexical authority for ἄβυσσος · אֲבַדּוֹן · Ἀπολλύων · πλανάω · ἐξουσία · δεῖ** | **TBD** | every lexical claim in Stage 45 and 45½ | **MODERN SCHOLARLY** *(when obtained)* | ⚠️ **NOT RETRIEVED.** ❗ **A MODEL'S GLOSS IS NOT A LEXICAL CITATION** *(q210, q212)* | — |
+| **S14** | **Greek grammar authority** | **TBD** | Revelation 20:2's nominative-after-accusative · 20:4's one-class-or-two syntax · ἀναβαίνω's military/geographical range at 20:9 | **MODERN SCHOLARLY** *(when obtained)* | ⚠️ **NOT RETRIEVED. These are recorded as OBSERVATIONS ONLY — we do not parse disputed syntax ourselves** *(q212)* | — |
+
+---
+
 ---
 
 ## 🔖 SOURCE-BACKFILL REGISTER — Stages 1–40½

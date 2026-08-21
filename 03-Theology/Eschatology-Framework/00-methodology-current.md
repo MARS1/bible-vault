@@ -1111,6 +1111,22 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 > ### 📇 **A MODEL'S GLOSS IS NOT A LEXICAL CITATION. "The Greek means X" requires a lexical authority in [[08-source-ledger]].**
 
+### 🔒 Confinement–Function Distinction *(Side Branch 45½ — supersedes the Binding-Scope Control alone)*
+> **Revelation 20 describes Satan's CONDITION using emphatic incarceration imagery while SEPARATELY specifying the FUNCTION relevant to the narrative. NEITHER MAY ERASE THE OTHER.**
+
+| | |
+|---|---|
+| **CONDITION** ✅ | ἐκράτησεν SEIZED → ἔδησεν BOUND → ἔβαλεν εἰς τὴν ἄβυσσον THREW IN → ἔκλεισεν SHUT → ἐσφράγισεν ἐπάνω αὐτοῦ SEALED OVER HIM — and 20:7's **ἐκ τῆς φυλακῆς αὐτοῦ, HIS PRISON** |
+| **FUNCTION** ✅ | **ἵνα μὴ πλανήσῃ ἔτι τὰ ἔθνη** — he may no longer deceive the nations, bookended by 20:8's **πλανῆσαι τὰ ἔθνη** |
+
+> ### **BOTH EXTREMES THEREFORE FAIL: NOT *"binding means absolutely no satanic influence whatsoever"* — AND NOT *"binding means practically nothing beyond a vague symbolic defeat."***
+>
+> ### **THE TEXT GIVES REAL CONFINEMENT WITH A SPECIFICALLY STATED FUNCTIONAL CONSEQUENCE.**
+>
+> ### 📌 **THE EARLIER BINDING-SCOPE CONTROL GUARDED ONLY ONE SIDE — it prevented over-expanding the restriction but not the opposite error of softening "bound" into mere inconvenience. THE GREEK MADE THE SECOND ERROR VISIBLE, SO THE RULE IS UPGRADED.**
+>
+> **And ✅ ἔτι ("any longer") implies PRIOR deception — so the binding restrains a PRE-EXISTING activity, giving a BEFORE / DURING / AFTER structure. That constrains the start-marker search: whatever event marks the binding should be identifiable as A CHANGE IN THE DECEPTION OF THE NATIONS, not merely an impressive event (q213).**
+
 ### 🕳️ Abyss Architecture *(Side Branch 45½)*
 > **Recurring symbolic domains in Revelation are ARCHITECTURAL CORRESPONDENCE, not automatic EVENT IDENTITY. The same domain may recur with its STATE CHANGED.**
 
@@ -1159,6 +1175,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **4.3** | 2026-08-21 | **SBLGNT retrieved INDEPENDENTLY and verified verbatim for Revelation 20:1–10** (ledger S11) — it matched the tranche exactly, but matching is a result, not a substitute for checking. Added the **Confinement–Function Distinction**, which SUPERSEDES the Binding-Scope Control alone because the Greek exposed the opposite error. **First-resurrection bodily pressure upgraded to VERY HIGH** on source-language grounds. **Two short periods stay lexically distinct**, so the author's two-interval reading survives on its own terms. Recorded three grammatical observations as OBSERVATIONS ONLY, requiring authority we do not have. |
 | **4.2** | 2026-08-20 | **THE WALL REACHED.** Added the **Greek Audit Requirement** (author's criticism, accepted — and it killed the argument that prompted it) and **Abyss Architecture** (Stage 45, 45½). **Binding-Scope Control CONFIRMED BY THE GREEK** via the pi-lambda-alpha-nu-alpha-omega bookend at 20:3 / 20:8. **CAST DOWN != BOUND confirmed internally.** **First-resurrection bodily pressure recorded as HIGH — the hardest burden the hypothesis has faced.** **Millennial geography left UNSTATED, with the author's own Rupes Nigra material explicitly given no bridge.** **Hypothesis status: STRUCTURALLY VIABLE, HISTORICALLY UNPROVEN.** |
 | **4.1** | 2026-08-20 | Added **Spiral Progression** (hypothesis only, with its unfalsifiability danger named) and the **Adversary-Sequence Datum** (Stage 44). **Promoted Armageddon vs Revelation 19 to a STRONG identity hypothesis.** **Recorded counterpressure against total recapitulation** — the beast and false prophet go straight to the lake of fire while the dragon is bound first. **Found on retrieval: the rider's robe is blood-dipped SIX VERSES BEFORE the battle, and Isaiah 63's warrior treads ALONE while Revelation's rider has armies who are never said to fight.** |
 | **4.0** | 2026-08-20 | Added the **Composite-Symbol Possibility** (with its anti-rescue leash), the **Candidate Matrix Requirement**, and **Citation-Numbering Integrity** (Stage 43). **Ran the Babylon falsification audit and it produced NO WINNER** — recorded as a result rather than forced. **Closed the blood-guilt chain** (Rev 18:24 near-verbatim with Matt 23:35) while flagging the *epi tes ges* ambiguity AGAINST our own strongest datum. **Recorded the maritime/slave-trade counterevidence against a simple Jerusalem reading.** Opened the Seven Kings audit (q194) with its number-fitting trap named in advance. |
