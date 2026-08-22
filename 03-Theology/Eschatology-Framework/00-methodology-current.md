@@ -1161,6 +1161,27 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### 🪜 Source-Language Audit — THE FULL LADDER *(Side Branch 46½ — upgrades the 45½ rule)*
+
+> ### **SOURCE-LANGUAGE AUDIT ≠ SOURCE-LANGUAGE SOLUTION.**
+>
+> **Going to the Greek answers *WHAT DID JOHN ACTUALLY WRITE?* It does NOT automatically answer *WHAT DOES JOHN'S IMAGE MEAN?***
+
+> **SOURCE LANGUAGE → GRAMMAR/SYNTAX → INTRATEXTUAL USAGE → TANAKH/LXX INTERTEXT → FIRST-CENTURY SEMANTIC ENVIRONMENT WHERE NECESSARY → *ONLY THEN* INTERPRETIVE CONCLUSION.**
+
+*Why this upgrade exists:* **Revelation 20:3 made "go to the Greek" look sufficient — because there the Greek DID settle it, by showing the English "might" was not in the text at all.** **Revelation 21:1 shows the ordinary situation: ✅ θάλασσα genuinely means SEA, so the Greek settles nothing by itself.** ⚠️ **AND THE PROCESS FAILURE IS NAMED: the sea thread should have been audited when the abyss thread was, and was not. The rule was established and then not applied one stage later.**
+
+### 🌊 Contextual Symbolism *(Side Branch 46½)*
+> **A recurring apocalyptic symbol MAY RETAIN ITS ORDINARY REFERENT WHILE SIMULTANEOUSLY ACQUIRING additional literary and prophetic associations. Those associations must be DEMONSTRATED CONTEXTUALLY rather than converted into a universal one-to-one code.**
+
+*Warrant, and it is one verse away from the temptation:* ✅ **Revelation 20:13 — "THE SEA GAVE UP THE DEAD who were in it" — an ordinary referent IMMEDIATELY BEFORE ✅ 21:1's "the sea is no more." Anyone building "sea = chaotic nations" as a dictionary entry would have had to step over it.**
+
+> ### ❗ **AND *thalassa* ≠ *abyssos*: Revelation has BOTH words and keeps them SEPARATE. 21:1 removes THE SEA, NOT THE ABYSS (q222).**
+>
+> ### **AND "NO MORE SEA" IS NOT "NO MORE WATER" — ✅ 22:1's river of the water of life is in the very next chapter.**
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -1196,6 +1217,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **4.5** | 2026-08-22 | **REVELATION FINISHED.** Added the **full SOURCE-LANGUAGE LADDER** (upgrading the 45½ Greek Audit Requirement — *audit ≠ solution*) and **Contextual Symbolism** (Side Branch 46½). **SPIRAL PROGRESSION PROMOTED to a strong architectural model, with its leash intact.** **Bride ⟷ New Jerusalem CONFIRMED internally; Expansion Without Erasure confirmed at the consummation (tribes in the gates, apostles in the foundations).** **Recorded the TEMPORAL ENVELOPE and the DANIEL SEALING REVERSAL, and the post-judgment nations problem — unresolved by design.** ⚠️ **Corrections to ourselves: “It is done” is not unique to 16:17; the reign changes duration between 20:6 and 22:5.** |
 | **4.4** | 2026-08-22 | Added the **Translation Architecture** block operationalizing **ADR-0008 §5** (Side Branch 45¾) — the GLOSSARY entry **TRANSLATION ARTIFACT**, **Source-Language-First Translation**, **Translation-Divergence Notes Are Written Not Translated**, **Translation-Independent Source Anchoring**, and the **`SOURCE-LANGUAGE` / `ENGLISH-SPECIFIC` / `SPANISH-SPECIFIC` scope tags**. ⚠️ **A draft ADR-0011 was prepared and WITHDRAWN — ADR-0008 already decides this.** An AMENDMENT to ADR-0008 is proposed instead, pending approval. |
 | **4.3** | 2026-08-21 | **SBLGNT retrieved INDEPENDENTLY and verified verbatim for Revelation 20:1–10** (ledger S11) — it matched the tranche exactly, but matching is a result, not a substitute for checking. Added the **Confinement–Function Distinction**, which SUPERSEDES the Binding-Scope Control alone because the Greek exposed the opposite error. **First-resurrection bodily pressure upgraded to VERY HIGH** on source-language grounds. **Two short periods stay lexically distinct**, so the author's two-interval reading survives on its own terms. Recorded three grammatical observations as OBSERVATIONS ONLY, requiring authority we do not have. |
 | **4.2** | 2026-08-20 | **THE WALL REACHED.** Added the **Greek Audit Requirement** (author's criticism, accepted — and it killed the argument that prompted it) and **Abyss Architecture** (Stage 45, 45½). **Binding-Scope Control CONFIRMED BY THE GREEK** via the pi-lambda-alpha-nu-alpha-omega bookend at 20:3 / 20:8. **CAST DOWN != BOUND confirmed internally.** **First-resurrection bodily pressure recorded as HIGH — the hardest burden the hypothesis has faced.** **Millennial geography left UNSTATED, with the author's own Rupes Nigra material explicitly given no bridge.** **Hypothesis status: STRUCTURALLY VIABLE, HISTORICALLY UNPROVEN.** |

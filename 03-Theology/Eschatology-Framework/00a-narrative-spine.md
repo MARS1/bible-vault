@@ -93,7 +93,9 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **45** | **🔑🔑🔑 Revelation 20: THE WALL — Binding, First Resurrection, the Thousand Years, the Little Season** | **[[02h-revelation-20-binding-first-resurrection-thousand-years-little-season]]** |
 | **45½** | **🔑 The Abyss Audit and the Greek of Revelation 20** *(SBLGNT clause-by-clause · methodology correction)* | **[[02i-the-abyss-audit-and-the-greek-of-revelation-20]]** |
 | **45¾** | **🌐 Translation Architecture — the Spanish Edition, Reina-Valera, and the Greek** *(publication decision)* | **[[02j-translation-architecture-the-spanish-edition-and-the-greek]]** |
-| **46** | *(next)* **Revelation 21–22 — New Jerusalem, the Bride identified, and "who remains OUTSIDE?"** | — |
+| **46** | **🔑🔑 Revelation 21–22: New Jerusalem, the Nations, and the Final Temporal Claims** | **[[02k-revelation-21-22-new-jerusalem-the-nations-and-the-final-temporal-claims]]** |
+| **46½** | **🌊 The Sea Audit — *thalassa* in Revelation** *(methodology correction)* | **[[02l-the-sea-audit-thalassa-in-revelation]]** |
+| **47** | *(next)* **🔑🔑🔑 THE FIRST RESURRECTION SYNTHESIS — the gate before any historical millennium** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1780,7 +1782,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Side Branch 45¾ — 🌐 Translation Architecture: the Spanish Edition and the Greek *(current)*
+## Side Branch 45¾ — 🌐 Translation Architecture: the Spanish Edition and the Greek
 
 **File:** [[02j-translation-architecture-the-spanish-edition-and-the-greek]] · **✅ VERIFIED: Apocalipsis 20:1–10 RVR1960 · Apocalipsis 20:3, 20:4–6 RVA-2015 (ledger S15–S16).**
 
@@ -1810,7 +1812,79 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 46 — 🔑🔑 Revelation 21–22: New Jerusalem, the Nations, and the Final Temporal Claims
+
+**File:** [[02k-revelation-21-22-new-jerusalem-the-nations-and-the-final-temporal-claims]] · **✅ BOTH CHAPTERS VERIFIED (ESV, FULL) + SBLGNT of 21:1, 22:6, 22:10, 22:12, 22:20. REVELATION IS FINISHED.**
+
+**🔑 THE BRIDE IS CLOSED BY THE TEXT: ✅ 21:9–10 — the angel promises "THE BRIDE, THE WIFE OF THE LAMB" and SHOWS "THE HOLY CITY JERUSALEM." NOT a woman inside a city — THE CITY ITSELF SYMBOLIZES THE BRIDE. q202 settled by Deferred Internal Interpretation. And it WARNS AGAINST LITERALIZING THE CITY'S GEOMETRY PIECE BY PIECE.** **⚠️ Rev 20:9's "BELOVED CITY" ⟷ New Jerusalem: STRONG CANDIDATE, NOT EXPLICIT IDENTITY — Rev 20 does not use "New Jerusalem." AND NO TEXTUAL BRIDGE TO ANY EXTERNAL GEOGRAPHY (q208).**
+
+> ### 🔑 **THE CITY'S ARCHITECTURE IS THE STRONGEST FORM YET OF A FINDING MADE TWENTY STAGES EARLIER: ✅ 21:12–14 — TWELVE GATES BEARING THE TWELVE TRIBES OF ISRAEL, TWELVE FOUNDATIONS BEARING THE TWELVE APOSTLES. NOT Israel erased. NOT apostles disconnected from Israel. BOTH IN ONE COVENANTAL STRUCTURE. *EXPANSION WITHOUT ERASURE* CONFIRMED AT THE CONSUMMATION.**
+
+**Numbers structural not arithmetical: ✅ 12,000 stadia (12 × 1000) · 144 cubits (12 × 12) — same twelve-architecture as the 144,000. ✅ 21:16 the city is a CUBE, like the Holy of Holies; ✅ 21:22 NO TEMPLE, "for its temple is the Lord God the Almighty and the Lamb" — the city does not LACK sacred presence, IT HAS BECOME IT. ⚠️ And ✅ 21:23's "HAS NO NEED of sun or moon" is NOT "sun and moon cease to exist" — do not make more claims than the text makes.**
+
+> ### ⚠️ **A CORRECTION TO OURSELVES: "IT IS DONE" APPEARS AT ✅ 16:17 *AND* ✅ 21:6. So it does NOT automatically mark final chronology wherever it occurs — Stage 42 was right to call it a completion marker but wrong to imply it was UNIQUE. CONTEXT MUST DEFINE WHAT HAS BEEN COMPLETED (q217).**
+
+**🛑🛑 THE POST-JUDGMENT NATIONS PROBLEM — THE AUTHOR'S STANDING PUZZLE, AND IT IS REAL. After the great white throne and the destruction of Death, in narrative order: ✅ 21:24 THE NATIONS WALK and THE KINGS bring glory · 21:26 · 21:27 nothing UNCLEAN enters · 22:2 leaves FOR THE HEALING OF THE NATIONS · 22:15 OUTSIDE are the dogs and sorcerers · 22:17 LET THE ONE WHO IS THIRSTY COME. WHO IS OUTSIDE? Candidates: (A) COVENANTAL EXCLUSION rather than post-judgment geography, and (B) RECAPITULATION — BOTH WELL GROUNDED; (C) another ontology — ⚠️ needs far more evidence, DO NOT INVENT ONE BECAUSE "OUTSIDE" SOUNDS SPATIAL. NEITHER SELECTED.** **❗ AND THE SHARPEST INSTANCE, NOT PRESSED IN THE TRANCHE: ✅ 22:11 "LET THE EVILDOER STILL DO EVIL" PRESUPPOSES ONGOING MORAL AGENCY — harder to place after irreversible judgment than the "outside" list is.**
+
+> ### ❗❗ **A DATUM THE TRANCHE MISSED, FOUND ON RETRIEVAL: THE REIGN CHANGES DURATION. ✅ 20:4 and 20:6 — the saints reign FOR A THOUSAND YEARS. ✅ 22:5 — "and they will reign FOREVER AND EVER." EITHER TWO PHASES OF REIGN, OR THE SAME REIGN FROM A CONSUMMATED VANTAGE. EITHER WAY: **THE THOUSAND YEARS IS NOT THE FINAL STATE** — which independently supports a genuine transition after it and cuts against any reading that makes the millennium the terminus (q218).**
+
+**Eden closes: ✅ 22:1–3 river of the water of life · tree of life · "NO LONGER WILL THERE BE ANYTHING ACCURSED." And ✅ 22:4 "his NAME will be ON THEIR FOREHEADS" — the beast's mark gone, Babylon's forehead-name gone, YAH'S NAME REMAINS. THE ENTIRE MARK CONFLICT RESOLVES INTO *WHOSE NAME DO YOU BEAR?* — exactly what Stage 40 said the chapter was about.**
+
+> ### 🔑🔑 **THE TEMPORAL ENVELOPE — SBLGNT VERIFIED: ✅ 22:6 ἃ δεῖ γενέσθαι ἐν τάχει, **THE SAME PHRASE AS REVELATION 1:1** · ✅ 22:12 Ἰδοὺ ἔρχομαι ταχύ · ✅ 22:20 Ναί· ἔρχομαι ταχύ · ✅ 22:10 Μὴ σφραγίσῃς… **ὁ καιρὸς γὰρ ἐγγύς ἐστιν**. THE BOOK CLOSES WITH THE EXACT FRAME IT OPENED WITH — A DELIBERATE LITERARY ENVELOPE.**
+>
+> ### 🔑 **AND THE DANIEL SEALING REVERSAL: Daniel is told to SEAL because the time is DISTANT; REVELATION 22:10 SAYS **DO NOT SEAL**, AND GIVES THE REASON — **THE TIME IS NEAR**. One of the strongest whole-book chronological controls available. ⚠️ Daniel 12:4 and 12:9 NOT RETRIEVED — verify the Daniel end before leaning on it (q219, q220).**
+
+**✅ 22:17 "THE SPIRIT AND THE BRIDE SAY, COME" — the Bride is not merely a future object to admire; SHE PARTICIPATES IN THE INVITATION. That may be the best explanation of the continuing nations/outside imagery: REVELATION'S FINAL VISION FUNCTIONS PASTORALLY FOR ITS PRESENT HEARERS, not as a documentary of post-judgment existence. ORIGINAL-AUDIENCE CONTROL AT THE VERY END.**
+
+> ### 🌀 **SPIRAL PROGRESSION PROMOTED FROM HYPOTHESIS TO **STRONG ARCHITECTURAL MODEL** (q221) — Revelation demonstrably REWINDS, OVERLAYS, ANTICIPATES and REUSES CONSUMMATIVE IMAGERY EARLY, *while also* containing genuine transition markers. ⚠️ ITS LEASH TRAVELS WITH THE PROMOTION: it must STILL EARN EACH APPLICATION. A MODEL THAT EXPLAINS ANY ARRANGEMENT EXPLAINS NOTHING.**
+>
+> ### ❗ **AND THE ENVELOPE CREATES THE REAL HISTORICAL QUESTION: NEITHER EXTREME SURVIVES. Revelation cannot be reduced to a distant timetable — the envelope forbids it. Nor can its great white throne and destruction of Death be forced into the first century. **THE TEXT DEMANDS SUBSTANTIAL NEAR FULFILMENT *PLUS* LATER FINAL CONSUMMATION.** SO: *WHICH PARTS BELONG TO THE NEAR HORIZON, AND WHERE DOES REVELATION TRANSITION?* REVELATION 19 → 20 IS THE STRONGEST CANDIDATE. THIS MAY BE *THE* CHRONOLOGY QUESTION.**
+
+**📌 AND THE LABEL SETTLED: standard PARTIAL PRETERISM does NOT hold the thousand years to be past, so that label would HIDE THE MOST DISTINCTIVE PART OF THE HYPOTHESIS. *PAST-MILLENNIUM / PRESENT-LITTLE-SEASON HYPOTHESIS* stands.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"The question was no longer whether Revelation contained both nearness and futurity. It did. The question was where the transition occurred."***
+
+---
+
+## Side Branch 46½ — 🌊 The Sea Audit: *thalassa* in Revelation *(current)*
+
+**File:** [[02l-the-sea-audit-thalassa-in-revelation]] · **THE AUTHOR CAUGHT AN INCONSISTENCY AND WAS RIGHT: *"You need to use the same Greek language lens on sea."* THE RULE WAS ESTABLISHED AT 45½ AND THEN NOT APPLIED ONE STAGE LATER.**
+
+**✅ SBLGNT 21:1: καὶ ἡ θάλασσα οὐκ ἔστιν ἔτι. ❗ UNLIKE THE 20:3 "MIGHT" CASE, THIS IS *NOT* A TRANSLATION ARTIFACT — θάλασσα IS A REAL NOUN MEANING SEA. So the question does NOT dissolve; IT MOVES ONE LEVEL DEEPER.**
+
+**🔑 *thalassa* ≠ *abyssos* — Revelation has BOTH words and keeps them SEPARATE. **21:1 REMOVES THE SEA, NOT THE ABYSS.** ⚠️ A CORRECTION TO 45½'s PHRASING, which discussed *abyssos*'s watery *tehom* background in a way that could blur them (q222).**
+
+**INTRATEXTUAL THREAD WE SKIPPED AND SHOULD NOT HAVE: 4:6 sea of glass · 8:8–9 · 10:2 foot on sea and foot on land · 12→13 · ❗ 13:1 THE BEAST RISES ἐκ τῆς θαλάσσης · 15:2 · 16:3 · 18's maritime commerce · ✅ 20:13 · ✅ 21:1. AND REVELATION'S OWN HORIZONTAL POLARITY: 13:1's beast from the SEA vs 13:11's beast from the LAND — so there are TWO AXES, heaven↕earth↕abyss AND sea⟷land.** **Daniel 7's beasts also come from the sea — too strong to ignore, ⚠️ but it yields INTERTEXTUAL INFERENCE, NOT LEXICAL DEFINITION.**
+
+> ### 🛑 **AND THE COUNTER-DATUM ONE VERSE EARLIER FORBIDS A DICTIONARY: ✅ 20:13 "THE SEA GAVE UP THE DEAD WHO WERE IN IT" — an ordinary referent immediately before 21:1. NO "SEA = NATIONS/CHAOS" ENTRY MAY BE BUILT. 🆕 CONTEXTUAL SYMBOLISM RULE: a symbol MAY RETAIN ITS ORDINARY REFERENT WHILE ACQUIRING prophetic associations; associations must be DEMONSTRATED CONTEXTUALLY, never converted into a universal code.**
+>
+> ### ❗ **AND THE CHEAPEST OBSERVATION MAY BE THE MOST USEFUL: "NO MORE SEA" IS NOT "NO MORE WATER" — ✅ 22:1's RIVER OF THE WATER OF LIFE IS IN THE VERY NEXT CHAPTER.**
+
+**📐 CORRECTED VERDICT REPLACING STAGE 46's COMPRESSED LINE: whether 21:1 denotes PHYSICAL TRANSFORMATION, SYMBOLIC ELIMINATION OF HOSTILE CHAOS, or BOTH — REMAINS OPEN. DO NOT COLLAPSE.**
+
+> ### 🆕🆕 **AND THE RULE THE INTERRUPTION EXPOSED — A GENUINE UPGRADE ON 45½: **SOURCE-LANGUAGE AUDIT ≠ SOURCE-LANGUAGE SOLUTION.** THE FULL LADDER: SOURCE LANGUAGE → GRAMMAR/SYNTAX → INTRATEXTUAL USAGE → TANAKH/LXX INTERTEXT → FIRST-CENTURY SEMANTIC ENVIRONMENT IF NEEDED → *ONLY THEN* INTERPRETIVE CONCLUSION.**
+>
+> ### **THE 20:3 CASE MADE "GO TO THE GREEK" LOOK SUFFICIENT — BECAUSE THERE THE GREEK *DID* SETTLE IT, BY SHOWING THE ENGLISH WORD WAS NOT IN THE TEXT AT ALL. THE SEA CASE SHOWS THE ORDINARY SITUATION: **THE GREEK IS WHERE THE WORK BEGINS** (q223).**
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 47 — 🔑🔑🔑 THE FIRST RESURRECTION SYNTHESIS**
+
+> ### 🛑 **AND *NOT* A SEARCH THROUGH HISTORY FOR A THOUSAND-YEAR PERIOD. THAT WOULD BE BACKWARDS.**
+>
+> ### **THE FIRST THING HISTORY WOULD ASK IS: *IF THE MILLENNIUM ALREADY HAPPENED, WHAT HAPPENED AT ITS BEGINNING?* AND REVELATION'S STRONGEST ANSWER IS **THE FIRST RESURRECTION**.**
+
+**Side by side, in sequence: DANIEL 12 · MATTHEW 27 · JOHN 5 · MATTHEW 24 / THE GATHERING · 1 CORINTHIANS 15 · 1 THESSALONIANS 4 · REVELATION 6 · REVELATION 7 · REVELATION 14 · REVELATION 20 — and possibly HEBREWS 11–12.**
+
+> ### **ONE QUESTION, WITHOUT PROTECTING THE HYPOTHESIS: *DOES SCRIPTURE PERMIT THE FIRST RESURRECTION PRECEDING THE MILLENNIUM TO HAVE ALREADY OCCURRED — AND IF SO, WHAT EXACTLY WOULD THAT EVENT HAVE INVOLVED?***
+
+**Arriving with: q206 (bodily pressure VERY HIGH) · q179 (firstfruits — what is the harvest?) · q205 (Rev 6 martyrs ⟷ Rev 20) · q218 (the reign changes duration) · q209 (the start marker) · q213 (whatever marks the binding should be a CHANGE IN THE DECEPTION OF THE NATIONS) · and the FULL SOURCE-LANGUAGE LADDER (q223).**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (45½ → 46), Preserved
 
 ### **STAGE 46 — REVELATION 21–22: NEW JERUSALEM, THE BRIDE, AND WHO REMAINS OUTSIDE**
 
