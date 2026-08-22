@@ -1140,6 +1140,27 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### 🌐 Translation Architecture *(Side Branch 45¾ — operationalizes ADR-0008 §5)*
+
+**📖 GLOSSARY — TRANSLATION ARTIFACT**
+> **A wording, ambiguity, emphasis, or apparent theological problem CREATED OR AMPLIFIED BY A TRANSLATION CHOICE that is not present in the same form in the source-language text.**
+>
+> ### 🛑 **TRANSLATION ARTIFACTS MUST NOT BE TREATED AS SOURCE-TEXT EVIDENCE.** *Standing example: Revelation 20:3's English "might."*
+
+**🆕 SOURCE-LANGUAGE-FIRST TRANSLATION** — the Spanish edition is NOT produced by translating finished English prose. Where an argument depends on wording, grammar, modality, aspect, lexical range or a translation divergence, re-check in order: **source text → English witnesses → Spanish witnesses → WHETHER THE NOTE IS NEEDED IN SPANISH AT ALL.**
+
+**🆕 TRANSLATION-DIVERGENCE NOTES ARE WRITTEN, NOT TRANSLATED** — ⚠️ **a NARROW EXCEPTION to ADR-0008's allowance that "explanatory prose may be translated and adapted."** Commentary about a translation artefact analyses a word that may not exist in the target Bible, so it must be composed per edition. **PENDING APPROVAL as an ADR-0008 amendment.**
+
+**🆕 TRANSLATION-INDEPENDENT SOURCE ANCHORING** — every source-language claim appears in EVERY edition with the Greek/Hebrew PRESENT. **THE SOURCE TEXT IS THE ONLY ELEMENT COMMON TO ALL EDITIONS — the only thing that makes them the same book.**
+
+**🏷️ SCOPE TAGS on every note: `SOURCE-LANGUAGE` (all editions) · `ENGLISH-SPECIFIC` · `SPANISH-SPECIFIC`.** *Cheap now, expensive retroactively.*
+
+> ### ❗ **PROVEN BY EVIDENCE AT REVELATION 20, IN BOTH DIRECTIONS:** ✅ **RVR1960's "para que no ENGAÑASE" is purpose + SUBJUNCTIVE, doing natively what ἵνα μὴ πλανήσῃ does — so the English "might" problem DOES NOT EXIST IN SPANISH.** **BUT** ✅ **RVR1960 renders 20:4 "vivieron" and 20:5 "no volvieron a vivir," BREAKING the verbal identity that carries the first-resurrection argument — which RVA-2015 preserves.** **AND** ✅ **RVR1960's *potestad* renders ἐξουσία BETTER than the ESV's "power."**
+>
+> ### **NO SINGLE TRANSLATION IN EITHER LANGUAGE IS RELIABLE ACROSS THE PASSAGE. THAT IS WHY THE ANCHOR MUST BE THE SOURCE TEXT (q215, q216).**
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -1175,6 +1196,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **4.4** | 2026-08-22 | Added the **Translation Architecture** block operationalizing **ADR-0008 §5** (Side Branch 45¾) — the GLOSSARY entry **TRANSLATION ARTIFACT**, **Source-Language-First Translation**, **Translation-Divergence Notes Are Written Not Translated**, **Translation-Independent Source Anchoring**, and the **`SOURCE-LANGUAGE` / `ENGLISH-SPECIFIC` / `SPANISH-SPECIFIC` scope tags**. ⚠️ **A draft ADR-0011 was prepared and WITHDRAWN — ADR-0008 already decides this.** An AMENDMENT to ADR-0008 is proposed instead, pending approval. |
 | **4.3** | 2026-08-21 | **SBLGNT retrieved INDEPENDENTLY and verified verbatim for Revelation 20:1–10** (ledger S11) — it matched the tranche exactly, but matching is a result, not a substitute for checking. Added the **Confinement–Function Distinction**, which SUPERSEDES the Binding-Scope Control alone because the Greek exposed the opposite error. **First-resurrection bodily pressure upgraded to VERY HIGH** on source-language grounds. **Two short periods stay lexically distinct**, so the author's two-interval reading survives on its own terms. Recorded three grammatical observations as OBSERVATIONS ONLY, requiring authority we do not have. |
 | **4.2** | 2026-08-20 | **THE WALL REACHED.** Added the **Greek Audit Requirement** (author's criticism, accepted — and it killed the argument that prompted it) and **Abyss Architecture** (Stage 45, 45½). **Binding-Scope Control CONFIRMED BY THE GREEK** via the pi-lambda-alpha-nu-alpha-omega bookend at 20:3 / 20:8. **CAST DOWN != BOUND confirmed internally.** **First-resurrection bodily pressure recorded as HIGH — the hardest burden the hypothesis has faced.** **Millennial geography left UNSTATED, with the author's own Rupes Nigra material explicitly given no bridge.** **Hypothesis status: STRUCTURALLY VIABLE, HISTORICALLY UNPROVEN.** |
 | **4.1** | 2026-08-20 | Added **Spiral Progression** (hypothesis only, with its unfalsifiability danger named) and the **Adversary-Sequence Datum** (Stage 44). **Promoted Armageddon vs Revelation 19 to a STRONG identity hypothesis.** **Recorded counterpressure against total recapitulation** — the beast and false prophet go straight to the lake of fire while the dragon is bound first. **Found on retrieval: the rider's robe is blood-dipped SIX VERSES BEFORE the battle, and Isaiah 63's warrior treads ALONE while Revelation's rider has armies who are never said to fight.** |

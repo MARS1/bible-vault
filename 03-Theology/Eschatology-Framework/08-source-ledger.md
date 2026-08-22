@@ -111,6 +111,16 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Side Branch 45¾ — Spanish witnesses
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S15** | **Reina-Valera 1960 (RVR1960)** | **Apocalipsis 20:1–10** | that Spanish uses **purpose + SUBJUNCTIVE** like Greek ("para que no **engañase** más") so the English "might" artefact does not exist; that RVR1960 **BREAKS** the ἔζησαν/οὐκ ἔζησαν parallel ("vivieron" / "no volvieron a vivir"); that it renders ἐξουσία as **potestad**, more accurately than ESV | **MODERN TRANSLATION** *(designated Spanish witness per ADR-0008 §5)* | ✅ **VERIFIED** verbatim | 2026-08-22 |
+| **S16** | **Reina Valera Actualizada 2015 (RVA-2015)** | **Apocalipsis 20:3, 20:4–6** | that RVA-2015 **PRESERVES** the resurrection parallel ("volvieron a vivir" / "no volvieron a vivir") that RVR1960 breaks; but renders ἐξουσία as *poder*, losing the authority sense | **MODERN TRANSLATION** | 🟡 **PARTIALLY** — **the 20:3 fetch ended without the "debe ser desatado" clause. ALMOST CERTAINLY RETRIEVAL TRUNCATION, NOT AN OMISSION BY THE EDITION — recorded as uncertainty, NOT as a textual claim. RE-RETRIEVE** *(q215)* | 2026-08-22 |
+| **S17** | **Further Spanish witnesses** | **RVR1909 · RVR1995 · NVI · LBLA** | the full comparison owed before any Spanish base is confirmed | **MODERN TRANSLATION** | ⚠️ **NOT RETRIEVED.** ❗ **ONE PASSAGE IS NOT A TRANSLATION EVALUATION** *(q216)* | — |
+
+---
+
 ---
 
 ## 🔖 SOURCE-BACKFILL REGISTER — Stages 1–40½

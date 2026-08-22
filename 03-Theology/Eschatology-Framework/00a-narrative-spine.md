@@ -92,6 +92,7 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **44** | **🔑🔑 Revelation 19: Babylon Falls, the Lamb Marries, and the Rider Conquers** | **[[02g-revelation-19-babylon-falls-the-lamb-marries-and-the-rider-conquers]]** |
 | **45** | **🔑🔑🔑 Revelation 20: THE WALL — Binding, First Resurrection, the Thousand Years, the Little Season** | **[[02h-revelation-20-binding-first-resurrection-thousand-years-little-season]]** |
 | **45½** | **🔑 The Abyss Audit and the Greek of Revelation 20** *(SBLGNT clause-by-clause · methodology correction)* | **[[02i-the-abyss-audit-and-the-greek-of-revelation-20]]** |
+| **45¾** | **🌐 Translation Architecture — the Spanish Edition, Reina-Valera, and the Greek** *(publication decision)* | **[[02j-translation-architecture-the-spanish-edition-and-the-greek]]** |
 | **46** | *(next)* **Revelation 21–22 — New Jerusalem, the Bride identified, and "who remains OUTSIDE?"** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
@@ -1729,7 +1730,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Side Branch 45½ — 🔑 The Abyss Audit and the Greek of Revelation 20 *(current)*
+## Side Branch 45½ — 🔑 The Abyss Audit and the Greek of Revelation 20
 
 **File:** [[02i-the-abyss-audit-and-the-greek-of-revelation-20]] · **OPENED AT THE AUTHOR'S INSISTENCE, BEFORE REVELATION 21, ON TWO OBSERVATIONS HE MADE HIMSELF — and both were right.**
 
@@ -1776,6 +1777,36 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 > ### ✍️ **MANUSCRIPT VOICE: *"The English translator needed grammar; I had almost turned the translator's grammar into theology."* And: *"The hypothesis would have to survive the Greek too."***
 
 **⚠️ HONEST LIMIT: this branch OPENS the audit and does not complete it. Only Revelation 20:1–8 was retrieved in Greek; 9:1, 9:11, 11:7, 17:8, 1:18 and Luke 8:31 are still being handled through English and the tranche's REPORTED Greek — which, by this branch's own new rule, IS NOT SUFFICIENT (q210).**
+
+---
+
+## Side Branch 45¾ — 🌐 Translation Architecture: the Spanish Edition and the Greek *(current)*
+
+**File:** [[02j-translation-architecture-the-spanish-edition-and-the-greek]] · **✅ VERIFIED: Apocalipsis 20:1–10 RVR1960 · Apocalipsis 20:3, 20:4–6 RVA-2015 (ledger S15–S16).**
+
+> ### **THE AUTHOR RAISED THIS IMMEDIATELY AFTER THE GREEK AUDIT: *"That 'might' is in English… I wouldn't want it to just translate. Maybe that word isn't actually inside the Reina-Valera version."* HE WAS RIGHT — AND THE CHECK PRODUCED SOMETHING BETTER *AND* WORSE THAN HE EXPECTED.**
+
+**✅ THE "MIGHT" PROBLEM DOES NOT EXIST IN SPANISH. RVR1960 reads "para que no ENGAÑASE más a las naciones" — *para que* + IMPERFECT SUBJUNCTIVE, doing NATIVELY what ἵνα μὴ + AORIST SUBJUNCTIVE does. SPANISH RETAINS THE PRODUCTIVE SUBJUNCTIVE ENGLISH LARGELY LOST, so it needs NO modal auxiliary. AT THIS VERSE SPANISH IS STRUCTURALLY CLOSER TO THE GREEK THAN ENGLISH IS. Translated into Spanish, the "might" discussion would examine a word no Reina-Valera reader can find.**
+
+> ### 🛑🛑 **BUT THE REAL DAMAGE IS ELSEWHERE, AND IT HITS THE LOAD-BEARING ARGUMENT: ✅ RVR1960 renders 20:4 "y VIVIERON" but 20:5 "no VOLVIERON A VIVIR" — **BREAKING** the ἔζησαν / οὐκ ἔζησαν verbal identity that carries the ENTIRE first-resurrection pressure (q206). ✅ RVA-2015 PRESERVES it. A SPANISH READER USING RVR1960 MAY NEVER NOTICE THE PARALLEL.**
+>
+> ### ⚠️ **NOT AN ERROR BY RVR1960 — "volver a vivir" is natural Spanish and varying it is defensible. THE PROBLEM IS THAT AN ARGUMENT BUILT ON *VERBAL IDENTITY* CANNOT SURVIVE A TRANSLATION THAT VARIES WORDING FOR STYLE. Any argument of that class is TRANSLATION-FRAGILE and must be flagged as such (q215).**
+
+**🔑 AND THE ADVANTAGE SWITCHES INSIDE THE SAME CHAPTER: ✅ 20:6's ἐξουσία is rendered **potestad** by RVR1960 — MORE ACCURATE THAN THE ESV's "power" AND than RVA-2015's "poder." SO NO SINGLE TRANSLATION IN EITHER LANGUAGE IS RELIABLE ACROSS THE PASSAGE. That is the finding, and it is the argument for anchoring both editions to the Greek rather than to any translation.**
+
+**📖 NEW GLOSSARY TERM — TRANSLATION ARTIFACT: a wording, ambiguity or apparent theological problem CREATED BY A TRANSLATION CHOICE and not present in the source text. MUST NOT BE TREATED AS SOURCE-TEXT EVIDENCE. 📌 And a vocabulary correction the author asked for: he reached for "terse," which means concise — the term he wanted is TRANSLATION ARTIFACT.**
+
+**🆕 RULES: SOURCE-LANGUAGE-FIRST TRANSLATION (re-check source → English witnesses → Spanish witnesses → whether the note is needed in Spanish AT ALL) · TRANSLATION-DIVERGENCE NOTES ARE WRITTEN, NOT TRANSLATED · TRANSLATION-INDEPENDENT SOURCE ANCHORING (the Greek appears in EVERY edition — it is THE ONLY ELEMENT COMMON TO ALL EDITIONS) · NAME THE BASE TRANSLATION · 🏷️ SCOPE TAGS `SOURCE-LANGUAGE` / `ENGLISH-SPECIFIC` / `SPANISH-SPECIFIC`.**
+
+**🧭 ARCHITECTURE: ❌ NOT Greek → English book → translated Spanish book. ✅ BUT: GREEK/HEBREW RESEARCH SPINE → ENGLISH BRANCH *and* GREEK/HEBREW RESEARCH SPINE → SPANISH BRANCH. The branches share FINDINGS and SOURCE TEXT; they do NOT share translation commentary. The editions will therefore carry DIFFERENT NOTES AT DIFFERENT VERSES — correct, not defective.**
+
+> ### ⚠️ **AND A CORRECTION AGAINST OURSELVES: A DRAFT "ADR-0011" WAS PREPARED AND **WITHDRAWN**. [[ADR-0008-source-language-first-localization]] — ACCEPTED 2026-08-12 AT STAGE 17 — ALREADY DECIDES THIS, and its §5 already requires that original-language analysis be preserved IDENTICALLY across editions with each edition explaining its own translation.**
+>
+> ### 📌 **THE AUTHOR RE-DERIVED HIS OWN RULE INDEPENDENTLY, FROM A LIVE PROBLEM, WITHOUT REMEMBERING IT WAS ON THE BOOKS. THAT CONVERGENCE IS EVIDENCE THE RULE IS RIGHT — and ADR-0008 had already anticipated the phenomenon with its own example (Genesis 17:13's "everlasting" vs "pacto perpetuo").**
+
+**📄 PROPOSED INSTEAD, PENDING APPROVAL — an AMENDMENT to ADR-0008, not a new ADR, covering three things that genuinely exceed it: (1) ⚠️ THE RVR1960 DESIGNATION IS NOW CHALLENGED BY EVIDENCE — not a reason to switch, but a reason to DECIDE DELIBERATELY rather than by inheritance, with a likely third option of keeping RVR1960 as base AND carrying RVA-2015 as a second Spanish witness at translation-sensitive verses, exactly as ADR-0003 already carries ESV *and* CJB; (2) 🆕 A NARROW TRANSLATION-ARTIFACT EXCEPTION to ADR-0008's allowance that "explanatory prose may be translated and adapted"; (3) 🆕 THE SCOPE-TAGGING SYSTEM, which makes ADR-0008's rule ENFORCEABLE rather than merely stated.**
+
+**⚠️ SCOPE WARNING: this branch tested ONE passage. Revelation 20 was the right test case as the most consequential chapter — but ONE PASSAGE IS NOT A TRANSLATION EVALUATION. RVR1909 · RVR1995 · NVI · LBLA still owed before any base is confirmed (S17).**
 
 ---
 
