@@ -1182,6 +1182,36 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### ⚰️ Rev 6 Intermediate-State Control *(Stage 47 — and it cuts against this project's convenience)*
+> **Revelation 6 ALREADY depicts slain martyrs consciously existing before Revelation 20. Therefore Revelation 20's "they lived / first resurrection" MAY NOT be reduced merely to CONSCIOUS POSTMORTEM SURVIVAL without explaining the CHANGE OF STATE.**
+
+*Warrant:* ✅ **Revelation 6:9 — "the souls of those who had been slain"** *(vv.10–11's cry, robes and "rest a little longer" TRUNCATED on retrieval — q224)*. **Revelation 7 likewise places the faithful before the throne.**
+
+> ### **THE MARTYRS DID NOT NEED CHAPTER 20 TO BEGIN EXISTING. SO "THEY LIVED" MARKS SOMETHING BEYOND ORDINARY POSTMORTEM SURVIVAL.**
+>
+> ### ❗ **A PAST MILLENNIUM WOULD BE ENORMOUSLY SIMPLER UNDER THE SPIRITUAL-RESURRECTION READING. THE PROJECT'S OWN TEXT REFUSES IT.** **STATUS: FIRST RESURRECTION ACTUAL-CHANGE PRESSURE = VERY HIGH.**
+
+### 🧍 Transformed Embodiment Control *(Stage 47)*
+> **Paul's σῶμα πνευματικόν REMAINS σῶμα. Do NOT equate "spiritual body" with disembodied spirit — and do not require resurrected saints to behave like the mortal body that entered death.**
+
+*Warrant:* ✅ **1 Corinthians 15:44 — "It is sown a NATURAL BODY; it is raised a SPIRITUAL BODY."** **BOTH ARE BODIES.**
+
+> ### **THE REAL ALTERNATIVE IS NOT "PHYSICAL CORPSE WALKING NORMALLY" VERSUS "PURELY SPIRITUAL METAPHOR." PAUL SUPPLIES A THIRD CATEGORY: RESURRECTED, TRANSFORMED EMBODIMENT — with YESHUA AS THE CONTROLLING PATTERN (firstfruits), NOT AN ESCAPE HATCH.**
+
+### 🛑 Supernatural-Possibility Brake *(Stage 47 — aimed squarely at this project)*
+> **A biblical precedent showing that an event COULD occur supernaturally may answer an objection of IMPOSSIBILITY — but it DOES NOT CONSTITUTE EVIDENCE that the proposed historical event ACTUALLY OCCURRED.**
+
+> ### **TRANSFORMED EMBODIMENT GENUINELY ANSWERS "RAISED SAINTS COULD NOT HAVE ESCAPED NOTICE." IT WOULD BE VERY EASY TO LET THAT ANSWER DO DOUBLE DUTY AS EVIDENCE. IT MAY NOT.**
+>
+> ### **COROLLARY: ABSENCE OF EVIDENCE HAS WEIGHT ONLY RELATIVE TO THE AMOUNT AND TYPE OF EVIDENCE WE SHOULD REASONABLY EXPECT TO SURVIVE — ARGUED, NOT ASSERTED IN EITHER DIRECTION.**
+
+### 📌 The corrected order of chronological work *(Stage 47)*
+> **1. Determine the FIRST-RESURRECTION / GATHERING EVENT. 2. Determine SATAN'S BINDING MARKER (q209, constrained by q213 — it should be identifiable as a CHANGE IN THE DECEPTION OF THE NATIONS). 3. ONLY THEN ask whether those events align historically. 4. If they do, MEASURE the interval.**
+>
+> ### 🛑 **THE TIMELINE MAY NOT BEGIN WITH "FIND 1,000 YEARS." That would invert the method: *find an attractive millennium in history → retrofit resurrection and binding around it.***
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -1217,6 +1247,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **4.6** | 2026-08-23 | **THE GATE REACHED.** Added the **Rev 6 Intermediate-State Control**, **Transformed Embodiment Control**, the **Supernatural-Possibility Brake**, and the **corrected order of chronological work** (Stage 47). ⚠️ **Recorded the author's correction (stop reopening Revelation 20's settled two-stage structure) AND the counter-correction against him (“morally higher” exceeds what Revelation says).** **First-resurrection actual-change pressure = VERY HIGH, on a Revelation-internal argument that cuts against this project's own convenience.** ❗ **The translation machinery caught its first artifact one stage after being built: ESV Hebrews 11:35 renders anastasis as “life.”** |
 | **4.5** | 2026-08-22 | **REVELATION FINISHED.** Added the **full SOURCE-LANGUAGE LADDER** (upgrading the 45½ Greek Audit Requirement — *audit ≠ solution*) and **Contextual Symbolism** (Side Branch 46½). **SPIRAL PROGRESSION PROMOTED to a strong architectural model, with its leash intact.** **Bride ⟷ New Jerusalem CONFIRMED internally; Expansion Without Erasure confirmed at the consummation (tribes in the gates, apostles in the foundations).** **Recorded the TEMPORAL ENVELOPE and the DANIEL SEALING REVERSAL, and the post-judgment nations problem — unresolved by design.** ⚠️ **Corrections to ourselves: “It is done” is not unique to 16:17; the reign changes duration between 20:6 and 22:5.** |
 | **4.4** | 2026-08-22 | Added the **Translation Architecture** block operationalizing **ADR-0008 §5** (Side Branch 45¾) — the GLOSSARY entry **TRANSLATION ARTIFACT**, **Source-Language-First Translation**, **Translation-Divergence Notes Are Written Not Translated**, **Translation-Independent Source Anchoring**, and the **`SOURCE-LANGUAGE` / `ENGLISH-SPECIFIC` / `SPANISH-SPECIFIC` scope tags**. ⚠️ **A draft ADR-0011 was prepared and WITHDRAWN — ADR-0008 already decides this.** An AMENDMENT to ADR-0008 is proposed instead, pending approval. |
 | **4.3** | 2026-08-21 | **SBLGNT retrieved INDEPENDENTLY and verified verbatim for Revelation 20:1–10** (ledger S11) — it matched the tranche exactly, but matching is a result, not a substitute for checking. Added the **Confinement–Function Distinction**, which SUPERSEDES the Binding-Scope Control alone because the Greek exposed the opposite error. **First-resurrection bodily pressure upgraded to VERY HIGH** on source-language grounds. **Two short periods stay lexically distinct**, so the author's two-interval reading survives on its own terms. Recorded three grammatical observations as OBSERVATIONS ONLY, requiring authority we do not have. |

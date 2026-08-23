@@ -95,7 +95,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **45¾** | **🌐 Translation Architecture — the Spanish Edition, Reina-Valera, and the Greek** *(publication decision)* | **[[02j-translation-architecture-the-spanish-edition-and-the-greek]]** |
 | **46** | **🔑🔑 Revelation 21–22: New Jerusalem, the Nations, and the Final Temporal Claims** | **[[02k-revelation-21-22-new-jerusalem-the-nations-and-the-final-temporal-claims]]** |
 | **46½** | **🌊 The Sea Audit — *thalassa* in Revelation** *(methodology correction)* | **[[02l-the-sea-audit-thalassa-in-revelation]]** |
-| **47** | *(next)* **🔑🔑🔑 THE FIRST RESURRECTION SYNTHESIS — the gate before any historical millennium** | — |
+| **47** | **🔑🔑🔑 First Resurrection Synthesis — THE GATE** | **[[02m-first-resurrection-synthesis]]** |
+| **48** | *(next)* **🔑🔑 THE GATHERING IDENTITY AUDIT — the decisive bridge to history** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1846,7 +1847,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Side Branch 46½ — 🌊 The Sea Audit: *thalassa* in Revelation *(current)*
+## Side Branch 46½ — 🌊 The Sea Audit: *thalassa* in Revelation
 
 **File:** [[02l-the-sea-audit-thalassa-in-revelation]] · **THE AUTHOR CAUGHT AN INCONSISTENCY AND WAS RIGHT: *"You need to use the same Greek language lens on sea."* THE RULE WAS ESTABLISHED AT 45½ AND THEN NOT APPLIED ONE STAGE LATER.**
 
@@ -1868,7 +1869,61 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 47 — 🔑🔑🔑 First Resurrection Synthesis: THE GATE *(current)*
+
+**File:** [[02m-first-resurrection-synthesis]] · **✅ VERIFIED: 1 Cor 15:20–28, 42–49, 51–53 · 1 Thess 4:13–17 · John 5:28–29 · Daniel 12:2 · Hebrews 11:35.**
+
+> ### ⚠️⚠️ **TWO CORRECTIONS RECORDED FIRST, IN BOTH DIRECTIONS.**
+>
+> ### **THE AUTHOR'S, ACCEPTED: *"I don't understand why the need to conflate the two when it was already established pretty clear that they're separate."* HE IS RIGHT. REVELATION 20 ITSELF ALREADY STAGES THEM — first-resurrection participants are BLESSED AND HOLY, LIVE AND REIGN, and the second death has no *exousia* over them; "THE REST OF THE DEAD" do not live until afterward. THE REMAINING QUESTION IS NOT WHETHER REVELATION HAS TWO STAGES — IT IS HOW DANIEL, YESHUA AND PAUL MAP ONTO THE STRUCTURE REVELATION ALREADY ESTABLISHED. STOP PHRASING IT AS IF THE DISTINCTION WERE BEING RECONSIDERED.**
+>
+> ### ⚠️ **AND THE COUNTER-CORRECTION, WHICH GOES IN TOO: "MORALLY HIGHER" GOES BEYOND WHAT REVELATION SAYS. DISTINCTIVE HOLINESS, STATUS AND REWARD ARE ESTABLISHED — but the later great-white-throne population includes EVERYONE in that horizon, and ✅ THE BOOK OF LIFE IS PRESENT THERE. Do not infer simple moral ranking unless the text establishes it (q225).**
+
+**⚠️ THREE TRUNCATED RETRIEVALS DECLARED BEFORE ANY ARGUMENT RESTS ON THEM — and ALL THREE are load-bearing: REVELATION 6:9–11 returned v.9 ONLY, missing the "HOW LONG" cry, the WHITE ROBES and "REST A LITTLE LONGER" — the very passage the central argument leans on · MATTHEW 27:51–53 cut before "many BODIES… WERE RAISED" · HEBREWS 12:22–23 cut before "THE SPIRITS OF THE RIGHTEOUS MADE PERFECT." REPORTED, NOT VERIFIED. RE-RETRIEVE BEFORE PUBLICATION (q224).**
+
+> ### 🔑🔑 **THE MAJOR FINDING, AND IT IS REVELATION-INTERNAL: **THE MARTYRS WERE ALREADY ALIVE.** John saw their souls beneath the altar in chapter 6 — speaking, robed, told to wait. Revelation 7 shows the faithful before the throne. **THEY DID NOT NEED CHAPTER 20 IN ORDER TO EXIST CONSCIOUSLY AFTER DEATH.** THEREFORE 20's "THEY LIVED / FIRST RESURRECTION" DESCRIBES SOMETHING BEYOND ORDINARY POSTMORTEM SURVIVAL.**
+>
+> ### 🆕 **REV 6 INTERMEDIATE-STATE CONTROL — this SUBSTANTIALLY WEAKENS the common spiritual-resurrection solution, and it CUTS AGAINST THIS PROJECT'S OWN CONVENIENCE: a past millennium would be enormously simpler under that reading. THE PROJECT'S OWN TEXT REFUSES IT. STATUS: FIRST RESURRECTION ACTUAL-CHANGE PRESSURE = VERY HIGH (q228).** **Second independent argument if it holds: Hebrews 12:23's "spirits of the righteous MADE PERFECT" describes conscious heavenly existence WITHOUT calling it resurrection.**
+
+**✅ 1 COR 15 GIVES EXPLICIT ORDER — "EACH IN HIS OWN ORDER: Christ the FIRSTFRUITS, THEN at his coming those who belong to Christ, THEN comes THE END." RESURRECTION STAGING IS NOT FOREIGN TO PAUL. ⚠️ But "those who belong to Christ" sounds BROAD — options: martyrs REPRESENT the faithful corporately · Paul COMPRESSES stages · or Revelation 20's population is BROADER than we read it (the disputed syntax at q212).**
+
+**✅ DANIEL 12:2 "MANY of those who sleep in the DUST shall AWAKE" — serious bodily-resurrection language. ⚠️ But "MANY," not "all" — preserve whether רַבִּים *rabbim* means many-but-not-everyone or functions corporately. DO NOT IMPORT ENGLISH ARITHMETIC INTO HEBREW.** **✅ JOHN 5:28–29's "ALL WHO ARE IN THE TOMBS" sounds like the great-white-throne horizon — COMPRESSION HYPOTHESIS available, but ⚠️ JOHN 6's repeated "I will raise him up ON THE LAST DAY" is A GENUINE OBSTACLE TO CARELESS STAGING and needs source-language work (q226).**
+
+> ### 🛑 **AND THE HISTORICAL BURDEN INCREASES: ✅ 1 Cor 15:51–52 "WE SHALL NOT ALL SLEEP, BUT WE SHALL ALL BE CHANGED, IN A MOMENT, IN THE TWINKLING OF AN EYE" *(the author's long-held memory CONFIRMED VERBATIM)* and ✅ 1 Thess 4:16–17's dead rising and living CAUGHT UP. IF Revelation 20's first resurrection IS these, a historical model may require DEAD SAINTS RAISED **AND** LIVING SAINTS INSTANTANEOUSLY TRANSFORMED — FAR HARDER TO HIDE THAN A HEAVENLY VINDICATION VISION. A FALSIFICATION CRITERION (q227).** **⚠️ And 1 Thess's *πρῶτον* is RELATIVE TO THE LIVING — NOT lexical identity with *ἀνάστασις ἡ πρώτη*.**
+
+**🔑 ✅ "SPIRITUAL BODY" IS NOT "NO BODY": σῶμα ψυχικόν vs σῶμα πνευματικόν — BOTH CONTAIN σῶμα. 🆕 TRANSFORMED EMBODIMENT CONTROL. The real alternative is NOT "corpse walking normally" vs "spiritual metaphor" — Paul supplies a THIRD CATEGORY, and YESHUA IS THE CONTROLLING PATTERN (firstfruits), NOT AN ESCAPE HATCH.**
+
+> ### 🛑🛑 **AND THE RULE AIMED AT THIS PROJECT: 🆕 SUPERNATURAL-POSSIBILITY BRAKE — a biblical precedent showing an event COULD occur supernaturally may answer an objection of IMPOSSIBILITY, but IT IS NOT EVIDENCE THAT IT ACTUALLY OCCURRED. Transformed embodiment genuinely answers "raised saints could not have escaped notice" — IT WOULD BE VERY EASY TO LET THAT ANSWER DO DOUBLE DUTY AS EVIDENCE. IT MAY NOT.** **COROLLARY: ABSENCE OF EVIDENCE HAS WEIGHT ONLY RELATIVE TO WHAT WE SHOULD REASONABLY EXPECT TO SURVIVE — argued, not asserted in either direction (q227).**
+
+**❗ AND THE NEW TRANSLATION MACHINERY EARNED ITS KEEP ONE STAGE AFTER BEING BUILT: ✅ ESV Hebrews 11:35 renders κρείττονος ἀναστάσεως as "a better LIFE" rather than "a better RESURRECTION" — OBSCURING PRECISELY THE DIFFERENTIATED-RESURRECTION DATUM THIS STAGE NEEDS. A textbook TRANSLATION ARTIFACT, tagged `ENGLISH-SPECIFIC` (q229).**
+
+**📊 FOUR MODELS DEFINED, NONE SELECTED: **A** bodily first resurrection before the millennium (fits the Greek; challenge = WHERE AND WHEN historically) · **B** heavenly vindication only (historically easy but UNDER CONSIDERABLE TEXTUAL PRESSURE from q228) · **C** bodily/transformed resurrection PLUS living gathering (harmonizes Paul, but the historical burden grows) · **D** the martyrs represent a broader corporate faithful population (needs the q212 syntax audit).** **CURRENT WEIGHT FAVOURS *SOME FORM OF ACTUAL CHANGE OF STATE SUBSTANTIALLY STRONGER THAN MERE POSTMORTEM SURVIVAL*.**
+
+> ### 📌 **AND THE CORRECTED ORDER OF FUTURE WORK: **FIRST** determine the first-resurrection/gathering event · **SECOND** determine Satan's binding marker (q209, constrained by q213) · **THIRD** only then ask whether they align historically · **FOURTH** if they do, measure the interval. THAT PREVENTS: *find an attractive millennium in history → retrofit resurrection and binding around it.* EXACTLY THE WRONG DIRECTION.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"Supernatural possibility could explain how an event might escape ordinary expectations; it could not be used to make the hypothesis unfalsifiable."***
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 48 — 🔑🔑 THE GATHERING IDENTITY AUDIT**
+
+> ### 🛑 **THE QUESTION IS SHARPENED BY THE AUTHOR'S CORRECTION. IT IS *NOT* "are all these resurrection texts one event?" — that phrasing wastes time retesting what Revelation 20 already settled.**
+>
+> ### **IT IS: *WHICH REVELATION-20 RESURRECTION STAGE, IF EITHER, CORRESPONDS TO MATTHEW 24, 1 CORINTHIANS 15 AND 1 THESSALONIANS 4 — AND DO THOSE PASSAGES DESCRIBE THE SAME FIRST-RESURRECTION/GATHERING COMPLEX OR DIFFERENT ASPECTS OF IT?***
+
+**Texts: Matthew 24:29–31 · 1 Corinthians 15:20–28, 35–58 · 1 Thessalonians 4:13–5:11 · Revelation 20:4–6 · Daniel 12 · relevant John passages.**
+
+**⚠️ TWO BRAKES TRAVEL WITH IT: the "ONE TAKEN, ONE LEFT" passage STILL cannot carry the argument — the Noah/Lot judgment context leaves open whether the "taken" person is RESCUED or JUDGED, so it may NOT be used as evidence for living saints vanishing · AND Matthew 24 places its discourse within JUDEA · TEMPLE · THIS GENERATION · GREAT TRIBULATION, which is precisely the tension the audit exists to resolve.**
+
+> ### **IF MATTHEW 24:31's GATHERING IS THE SAME AS 1 THESSALONIANS 4, THE FIRST-CENTURY HORIZON BECOMES EXTREMELY CONSEQUENTIAL. IF THEY ARE DISTINCT GATHERINGS USING SHARED LANGUAGE, WE NEED EVIDENCE FOR THE DISTINCTION.**
+>
+> ### **THIS MAY BE THE DECISIVE BRIDGE BETWEEN THE BIBLICAL CHRONOLOGY AND THE HISTORICAL INVESTIGATION.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (46½ → 47), Preserved
 
 ### **STAGE 47 — 🔑🔑🔑 THE FIRST RESURRECTION SYNTHESIS**
 
