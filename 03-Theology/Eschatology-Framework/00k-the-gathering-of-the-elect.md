@@ -92,13 +92,15 @@ Greek: **τοὺς ἐκλεκτοὺς αὐτοῦ** (*tous eklektous autou*) 
 **And here the method has to be allowed to inconvenience the conclusion.**
 
 Matthew's own usage of "his angels" points the other way:
-**Matthew 13:41** — ESV: "The Son of Man will send **his angels**, and they will gather out of his kingdom all causes of sin." *(Note: "send his angels" + "gather" — the closest structural parallel to 24:31 in the entire Gospel.)*
+**Matthew 13:41** — ESV: "The Son of Man will send **his angels**, and they will gather out of his kingdom all causes of sin." *(Note: the **sending clause** is near-verbatim with 24:31 — ✅ 13:41 **ἀποστελεῖ ὁ υἱὸς τοῦ ἀνθρώπου τοὺς ἀγγέλους αὐτοῦ** / ✅ 24:31 **ἀποστελεῖ τοὺς ἀγγέλους αὐτοῦ** — the closest structural parallel to 24:31 in the entire Gospel.)*
 **Matthew 16:27** — ESV: "the Son of Man is going to come with **his angels** in the glory of his Father."
 **Matthew 25:31** — ESV: "When the Son of Man comes in his glory, and **all the angels with him**."
 
 **Classification:**
 - **Lexically possible:** human messengers.
-- **Contextually more probable:** heavenly messengers — Matthew's "his angels" formula consistently means supernatural angels, and 13:41 pairs it with the same gathering verb.
+- **Contextually more probable:** heavenly messengers — Matthew's "his angels" formula consistently means supernatural angels, and 13:41 pairs it with a **near-verbatim sending clause** (ἀποστελεῖ … τοὺς ἀγγέλους αὐτοῦ) followed by a gathering.
+
+> ### ⚠️ **CORRECTED 2026-08-23 AT STAGE 48 — this line previously read "13:41 pairs it with THE SAME GATHERING VERB." THAT WAS FALSE.** ✅ **13:41 is ΣΥΛΛΕΞΟΥΣΙΝ (συλλέγω); 24:31 is ΕΠΙΣΥΝΑΞΟΥΣΙΝ (ἐπισυνάγω). DIFFERENT VERBS.** **The conclusion is unaffected — the *sending* clause carries it, and carries it better.** **📌 And correcting the error produced a finding: Matthew's ONLY other use of ἐπισυνάγω is ✅ 23:37, Yeshua's covenantal lament over JERUSALEM, one chapter before the Olivet Discourse — which bears directly on whether 24:31's gathering is covenantal restoration or resurrection.** See [[02n-the-gathering-identity-audit]] §8 (q236).
 
 **We do not pick the meaning that saves the theory.** We pick the one the text most strongly supports.
 

@@ -2599,6 +2599,7 @@ RVR1960: "Herodes y Poncio Pilato, con los gentiles y el pueblo de Israel."
 ESV: "he will send out his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of heaven to the other."
 CJB: "He will send out his angels with a great shofar; and they will gather together his chosen people from the four winds."
 RVR1960: "enviará sus ángeles con gran voz de trompeta, y juntarán a sus escogidos, de los cuatro vientos."
+> ⚠️ **GREEK ADDED AT STAGE 48 — and it corrects all three renderings above:** ✅ SBLGNT reads **μετὰ σάλπιγγος μεγάλης**, simply *"with a great trumpet."* **There is no word for "call" (ESV) or "voz" (RVR1960) in the Greek.** Full entry under *Stage 48 — The Gathering Identity Audit* below (q238).
 
 **Deuteronomy 30:1–4**
 ESV: "he will gather you again from all the peoples where the Lord your God has scattered you. If your outcasts are in the uttermost parts of heaven, from there the Lord your God will gather you."
@@ -3004,6 +3005,154 @@ RVR1960: "un solo y nuevo hombre... ya no sois extranjeros ni advenedizos, sino 
 ESV: "They shall be to you as native-born children of Israel. With you they shall be allotted an inheritance among the tribes of Israel."
 CJB: "for you they are to be no different from the native-born among the people of Isra'el."
 RVR1960: "los tendréis como naturales entre los hijos de Israel; echarán suertes con vosotros para tener heredad entre las tribus de Israel."
+
+## Stage 48 — The Gathering Identity Audit (see [[02n-the-gathering-identity-audit]])
+
+> **Every verse below was retrieved verse-by-verse from SBLGNT + ESV (+ CJB where noted) on 2026-08-23. Greek is printed because the stage's arguments depend on wording (S18).**
+
+### The Revelation 20 chronology lock — Greek printed, because the sequence IS the argument
+
+**Revelation 19:20** — the beast and false prophet, BEFORE the millennium
+SBLGNT: "…**ζῶντες ἐβλήθησαν οἱ δύο εἰς τὴν λίμνην τοῦ πυρὸς** τῆς καιομένης ἐν θείῳ."
+ESV: "These two were thrown **alive** into the lake of fire that burns with sulfur."
+❗ *Satan is not mentioned. The dragon's absence from ch.19's disposal is a recorded datum (Stage 44).*
+
+**Revelation 20:10** — Satan, AFTER the millennium and the revolt
+SBLGNT: "καὶ ὁ διάβολος ὁ πλανῶν αὐτοὺς ἐβλήθη εἰς τὴν λίμνην τοῦ πυρὸς καὶ θείου, **ὅπου καὶ τὸ θηρίον καὶ ὁ ψευδοπροφήτης**…"
+ESV: "and the devil who had deceived them was thrown into the lake of fire and sulfur **where the beast and the false prophet were**…"
+❗ **Death and Hades are NOT named as already present.**
+
+**Revelation 20:12**
+SBLGNT: "καὶ εἶδον τοὺς νεκρούς, **τοὺς μεγάλους καὶ τοὺς μικρούς**, ἑστῶτας ἐνώπιον τοῦ θρόνου…"
+ESV: "And I saw the dead, **great and small**, standing before the throne, and books were opened."
+
+**Revelation 20:13** — ❗ THE DECISIVE VERSE
+SBLGNT: "καὶ ἔδωκεν ἡ **θάλασσα** τοὺς νεκροὺς τοὺς ἐν αὐτῇ, καὶ **ὁ θάνατος καὶ ὁ ᾅδης ἔδωκαν** τοὺς νεκροὺς τοὺς ἐν αὐτοῖς…"
+ESV: "And the sea gave up the dead who were in it, **Death and Hades gave up the dead who were in them**…"
+CJB: "The sea gave up the dead in it; and Death and **Sh'ol** gave up the dead in them."
+❗ **They are still HOLDING and SURRENDERING the dead here — therefore they cannot have been abolished before the thousand years.**
+
+**Revelation 20:14**
+SBLGNT: "καὶ **ὁ θάνατος καὶ ὁ ᾅδης ἐβλήθησαν εἰς τὴν λίμνην τοῦ πυρός**. **οὗτος ὁ θάνατος ὁ δεύτερός ἐστιν.**"
+ESV: "Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire."
+❗ *Hades is thrown INTO the lake — so **ᾅδης ≠ λίμνη τοῦ πυρός**. And "the second death," introduced at Rev 2:11, is finally interpreted here.*
+
+**Revelation 21:4**
+SBLGNT: "…καὶ **ὁ θάνατος οὐκ ἔσται ἔτι**· οὔτε πένθος οὔτε κραυγὴ οὔτε πόνος οὐκ ἔσται ἔτι. τὰ πρῶτα ἀπῆλθαν."
+ESV: "and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore."
+❗ *Same **ἔτι** as Rev 20:3's ἵνα μὴ πλανήσῃ **ἔτι** τὰ ἔθνη.*
+
+**Revelation 1:18** — authority, not abolition
+SBLGNT: "…καὶ **ἔχω τὰς κλεῖς τοῦ θανάτου καὶ τοῦ ᾅδου**."
+ESV: "and I have the keys of Death and Hades."
+CJB: "And I hold the keys to Death and **Sh'ol**."
+
+**Revelation 11:15, 11:18** — the seventh trumpet
+SBLGNT 11:15: "Καὶ **ὁ ἕβδομος ἄγγελος ἐσάλπισεν**· καὶ ἐγένοντο φωναὶ μεγάλαι ἐν τῷ οὐρανῷ…"
+SBLGNT 11:18: "…καὶ ἦλθεν ἡ ὀργή σου καὶ **ὁ καιρὸς τῶν νεκρῶν κριθῆναι** καὶ δοῦναι τὸν μισθὸν τοῖς δούλοις σου τοῖς προφήταις καὶ τοῖς ἁγίοις… **τοὺς μικροὺς καὶ τοὺς μεγάλους**…"
+ESV 11:18: "the time for the dead to be judged, and for rewarding your servants… **both small and great**."
+❗ **Shares BOTH the judging-of-the-dead AND the small-and-great merism with 20:12 — so the seventh trumpet's own vocabulary points at the great white throne (q232).**
+⚠️ CJB renders **κόσμου** at 11:15 as "of the **universe**" — flagged; *kosmos* is not "the universe."
+
+### 1 Thessalonians 4–5 — the resurrection and gathering
+
+**1 Thessalonians 4:15–17**
+SBLGNT 4:15: "…ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι **εἰς τὴν παρουσίαν τοῦ κυρίου** οὐ μὴ φθάσωμεν τοὺς κοιμηθέντας·"
+SBLGNT 4:16: "ὅτι αὐτὸς ὁ κύριος ἐν **κελεύσματι**, ἐν **φωνῇ ἀρχαγγέλου** καὶ ἐν **σάλπιγγι θεοῦ**, καταβήσεται ἀπ' οὐρανοῦ, καὶ **οἱ νεκροὶ ἐν Χριστῷ ἀναστήσονται πρῶτον**,"
+SBLGNT 4:17: "**ἔπειτα** ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι ἅμα σὺν αὐτοῖς **ἁρπαγησόμεθα** ἐν νεφέλαις εἰς ἀπάντησιν τοῦ κυρίου εἰς ἀέρα…"
+ESV 4:16: "the Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God. And **the dead in Christ will rise first**."
+CJB 4:16: "with a rousing cry, with **a call from one of the ruling angels**, and with God's **shofar**; those who died **united with** the Messiah will be the first to rise."
+❗ *Population EXPLICITLY RESTRICTED — **ἐν Χριστῷ** — against Rev 20:12's unrestricted "great and small." And the noun **ἀνάστασις** does not appear; Paul uses the verb.*
+
+**1 Thessalonians 5:1–3** — the discourse continues across the chapter break
+SBLGNT 5:1: "**Περὶ δὲ** τῶν χρόνων καὶ τῶν καιρῶν, ἀδελφοί…" *(δέ — a connective; the chapter break is editorial)*
+SBLGNT 5:2: "…**ἡμέρα κυρίου ὡς κλέπτης ἐν νυκτὶ** οὕτως ἔρχεται."
+SBLGNT 5:3: "ὅταν λέγωσιν· **Εἰρήνη καὶ ἀσφάλεια**, τότε **αἰφνίδιος** αὐτοῖς ἐφίσταται **ὄλεθρος**…"
+ESV 5:3: "While people are saying, 'There is peace and security,' then sudden destruction will come upon them."
+
+**1 Thessalonians 5:6, 5:10** — ❗ the two sleep-verbs English collapses (q234)
+SBLGNT 5:6: "ἄρα οὖν μὴ **καθεύδωμεν** ὥσπερ καὶ οἱ λοιποί, ἀλλὰ γρηγορῶμεν καὶ νήφωμεν."
+SBLGNT 5:10: "…ἵνα εἴτε γρηγορῶμεν εἴτε **καθεύδωμεν** ἅμα σὺν αὐτῷ ζήσωμεν."
+ESV 5:6 "sleep" *(moral vigilance)* / ESV 5:10 "asleep" — **ESV prints "asleep" for καθεύδω here AND for κοιμάομαι at 4:13–15, hiding that Paul switched verbs.**
+CJB 5:10: "whether we are alive or **dead**" — **CJB splits them; ESV does not.**
+
+### 1 Corinthians 15 — the staged sequence
+
+**1 Corinthians 15:23–26**
+SBLGNT 15:23: "ἕκαστος δὲ ἐν τῷ ἰδίῳ **τάγματι**· ἀπαρχὴ Χριστός, **ἔπειτα** οἱ τοῦ Χριστοῦ **ἐν τῇ παρουσίᾳ αὐτοῦ**·"
+SBLGNT 15:24: "**εἶτα τὸ τέλος**, ὅταν παραδιδῷ τὴν βασιλείαν τῷ θεῷ καὶ πατρί…"
+SBLGNT 15:25: "**δεῖ** γὰρ αὐτὸν **βασιλεύειν ἄχρι οὗ** θῇ πάντας τοὺς ἐχθροὺς ὑπὸ τοὺς πόδας αὐτοῦ."
+SBLGNT 15:26: "**ἔσχατος ἐχθρὸς καταργεῖται ὁ θάνατος**,"
+ESV 15:25–26: "For he must reign until he has put all his enemies under his feet. The last enemy to be destroyed **is** death."
+CJB 15:26: "The last enemy to be done away with **will be** death" — ⚠️ **CJB shifts the PRESENT καταργεῖται to a FUTURE.**
+❗ **TWO sequence words — ἔπειτα (23) and εἶτα (24). καταργεῖται is PRESENT PASSIVE, not future (recorded as an observation; grammar authority owed, S22).**
+
+**1 Corinthians 15:51–52**
+SBLGNT: "…πάντες οὐ κοιμηθησόμεθα πάντες δὲ ἀλλαγησόμεθα, **ἐν ἀτόμῳ, ἐν ῥιπῇ ὀφθαλμοῦ, ἐν τῇ ἐσχάτῃ σάλπιγγι**· σαλπίσει γάρ, καὶ οἱ νεκροὶ ἐγερθήσονται ἄφθαρτοι, καὶ ἡμεῖς ἀλλαγησόμεθα."
+ESV: "in a moment, in the twinkling of an eye, **at the last trumpet**."
+❗ **ἐσχάτῃ, not ἑβδόμῃ. "Last" ≠ "seventh" (q232).**
+
+**1 Corinthians 15:54–55** — ⚠️ quotation sources NOT VERIFIED at LXX level (S20)
+SBLGNT: "…**Κατεπόθη ὁ θάνατος εἰς νῖκος. ποῦ σου, θάνατε, τὸ νῖκος; ποῦ σου, θάνατε, τὸ κέντρον;**"
+ESV: "Death is swallowed up in victory. O death, where is your victory? O death, where is your sting?"
+❗ *Reported sources: Isaiah 25:8 and Hosea 13:14. **Whether Paul matches LXX, MT or neither is UNVERIFIED — the LXX was never retrieved.***
+
+### Matthew 24 — and what is NOT in it
+
+**Matthew 24:29–31**
+SBLGNT 24:29: "**Εὐθέως δὲ μετὰ τὴν θλῖψιν τῶν ἡμερῶν ἐκείνων** ὁ ἥλιος σκοτισθήσεται, καὶ ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς, καὶ οἱ ἀστέρες πεσοῦνται ἀπὸ τοῦ οὐρανοῦ, καὶ **αἱ δυνάμεις τῶν οὐρανῶν** σαλευθήσονται."
+SBLGNT 24:30: "…καὶ ὄψονται τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον **ἐπὶ τῶν νεφελῶν** τοῦ οὐρανοῦ μετὰ δυνάμεως καὶ δόξης πολλῆς·"
+SBLGNT 24:31: "καὶ **ἀποστελεῖ τοὺς ἀγγέλους αὐτοῦ μετὰ σάλπιγγος μεγάλης**, καὶ **ἐπισυνάξουσιν τοὺς ἐκλεκτοὺς αὐτοῦ** ἐκ τῶν τεσσάρων ἀνέμων ἀπ' ἄκρων οὐρανῶν ἕως τῶν ἄκρων αὐτῶν."
+ESV 24:31: "he will send out his angels with a **loud trumpet call**…"
+❗ **THE GREEK READS SIMPLY μετὰ σάλπιγγος μεγάλης — "with a great trumpet." THERE IS NO WORD FOR "CALL." ESV adds it (q238).**
+❗ **NO RESURRECTION VOCABULARY ANYWHERE IN 24:29–31. Searched and ABSENT: ἀνάστασις · ἐγείρω · ἀνίστημι · νεκροί · μνημεῖα · ἐξανάστασις · θάνατος.**
+
+**Matthew 24:34–35**
+SBLGNT 24:34: "ἀμὴν λέγω ὑμῖν ὅτι οὐ μὴ παρέλθῃ **ἡ γενεὰ αὕτη** ἕως ἂν **πάντα ταῦτα** γένηται."
+ESV: "this generation will not pass away until all these things take place."
+CJB: "**this people** will certainly not pass away before all these things happen." *(divergence already on record, ADR-0003)*
+
+**παρουσία in Matthew 24 — all four occurrences, and NONE inside 24:29–36**
+SBLGNT 24:3: "τί τὸ σημεῖον τῆς σῆς **παρουσίας** καὶ συντελείας τοῦ αἰῶνος;"
+SBLGNT 24:27: "οὕτως ἔσται ἡ **παρουσία** τοῦ υἱοῦ τοῦ ἀνθρώπου."
+SBLGNT 24:37: "οὕτως ἔσται ἡ **παρουσία** τοῦ υἱοῦ τοῦ ἀνθρώπου."
+SBLGNT 24:39: "οὕτως ἔσται καὶ ἡ **παρουσία** τοῦ υἱοῦ τοῦ ἀνθρώπου."
+❗ **It BRACKETS the gathering pericope. It is not in it (q238).**
+
+### The ἐπισυνάγω family — audited, and it went against the hypothesis
+
+**Matthew 23:37** — ❗ Matthew's ONLY other use of the verb, one chapter before the Olivet Discourse
+SBLGNT: "Ἰερουσαλὴμ Ἰερουσαλήμ… **ποσάκις ἠθέλησα ἐπισυναγαγεῖν τὰ τέκνα σου**, ὃν τρόπον **ὄρνις ἐπισυνάγει** τὰ νοσσία αὐτῆς ὑπὸ τὰς πτέρυγας, **καὶ οὐκ ἠθελήσατε**."
+ESV: "How often would I have gathered your children together as a hen gathers her brood under her wings, and you were not willing!"
+❗ **COVENANTAL, PROTECTIVE, JERUSALEM-DIRECTED (q236).**
+
+**Matthew 13:41** — ❗ a DIFFERENT verb; corrects this project's own Stage 11 claim
+SBLGNT: "**ἀποστελεῖ ὁ υἱὸς τοῦ ἀνθρώπου τοὺς ἀγγέλους αὐτοῦ**, καὶ **συλλέξουσιν** ἐκ τῆς βασιλείας αὐτοῦ πάντα τὰ σκάνδαλα…"
+❗ **συλλέξουσιν (συλλέγω), NOT ἐπισυνάγω. The SENDING clause is near-verbatim with 24:31; the GATHERING verb is not.**
+
+**Mark 13:27** — SBLGNT: "…καὶ **ἐπισυνάξει** τοὺς ἐκλεκτοὺς αὐτοῦ ἐκ τῶν τεσσάρων ἀνέμων…" *(eschatological)*
+**Luke 13:34** — SBLGNT: "…ποσάκις ἠθέλησα **ἐπισυνάξαι** τὰ τέκνα σου…" *(Jerusalem — covenantal)*
+**Luke 17:37** — SBLGNT: "…ἐκεῖ καὶ οἱ ἀετοὶ **ἐπισυναχθήσονται**." *(vultures)*
+
+**2 Thessalonians 2:1**
+SBLGNT: "Ἐρωτῶμεν δὲ ὑμᾶς, ἀδελφοί, ὑπὲρ τῆς **παρουσίας** τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ ἡμῶν **ἐπισυναγωγῆς** ἐπ' αὐτόν"
+ESV: "concerning the coming of our Lord Jesus Christ and our being gathered together to him"
+*Two genitives joined by καί under one ὑπέρ.*
+
+**Hebrews 10:25** — ❗❗ THE FINDING THAT WEAKENED THE BRIDGE
+SBLGNT: "μὴ ἐγκαταλείποντες τὴν **ἐπισυναγωγὴν** ἑαυτῶν…"
+ESV: "not neglecting to meet together, as is the habit of some."
+❗ **THE NOUN USED FOR AN ORDINARY ASSEMBLY MEETING. The word-family is NOT inherently eschatological (q233).**
+
+### John's "the last day" — all six occurrences, all singular
+
+**John 6:39** — SBLGNT: "…ἀλλὰ ἀναστήσω αὐτὸ **ἐν τῇ ἐσχάτῃ ἡμέρᾳ**." *(Yeshua — resurrection)*
+**John 6:40** — "…καὶ ἀναστήσω αὐτὸν ἐγὼ **τῇ ἐσχάτῃ ἡμέρᾳ**." *(Yeshua — resurrection)*
+**John 6:44** — "…κἀγὼ ἀναστήσω αὐτὸν **ἐν τῇ ἐσχάτῃ ἡμέρᾳ**." *(Yeshua — resurrection)*
+**John 6:54** — "…κἀγὼ ἀναστήσω αὐτὸν **τῇ ἐσχάτῃ ἡμέρᾳ**." *(Yeshua — resurrection)*
+**John 11:24** — ❗ SBLGNT: "λέγει αὐτῷ ἡ **Μάρθα**· Οἶδα ὅτι ἀναστήσεται ἐν τῇ ἀναστάσει **ἐν τῇ ἐσχάτῃ ἡμέρᾳ**." — **MARTHA, NOT YESHUA. A reported first-century Jewish expectation, a different evidence type. The dominical occurrences are FIVE, not six.**
+**John 12:48** — ❗ SBLGNT: "…ὁ λόγος ὃν ἐλάλησα ἐκεῖνος **κρινεῖ** αὐτὸν **ἐν τῇ ἐσχάτῃ ἡμέρᾳ**." — **JUDGMENT, not resurrection.**
+❗ **All six are feminine dative SINGULAR. John NEVER defines the phrase. It carries BOTH the raising of believers and the judging of rejecters (q235).**
 
 ## Not Yet Sourced (proposed categories, no verse confirmed in a tranche yet)
 These theme headings were proposed as future appendix sections but don't yet have a verse actually discussed and cited in this framework — don't backfill them with guessed references. Add real citations here only once an actual tranche produces them: Isaiah 55:8–9, Ephesians 2 (beyond 2:11-22, already sourced above), Exodus 12, Isaiah 56, James 1, Romans 14.

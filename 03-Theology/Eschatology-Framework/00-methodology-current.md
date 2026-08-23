@@ -6,7 +6,7 @@ tags: [methodology, epistemology, exegesis, ingestion-protocol, governance]
 reference:
 created: 2026-08-12
 status: active
-version: "1.0 — 2026-08-12, established at Stage 16"
+version: "4.7 — 2026-08-23, current at Stage 48 (established 1.0 at Stage 16, 2026-08-12)"
 related: "[[00-index]], [[00a-narrative-spine]], [[00b-biblical-epistemology]]"
 ---
 
@@ -1212,6 +1212,66 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+### 🔒 REV 20 CHRONOLOGY LOCK *(Stage 48 — a fixed datum, not an interpretation)*
+
+> **Beast + false prophet enter the lake of fire BEFORE the millennium (19:20, ✅ ζῶντες ἐβλήθησαν — thrown in ALIVE). Satan is bound in the abyss during the millennium and enters the lake only after his post-millennial release and revolt (20:7–10). DEATH AND HADES REMAIN OPERATIVE THROUGHOUT, surrender their dead at the great white throne (✅ 20:13, ἔδωκαν τοὺς νεκρούς), and only THEN enter the lake (✅ 20:14).**
+
+> ### ❗ **THE LOCK RESTS ON LOGICAL DEPENDENCY, NOT VERSE ADJACENCY: A DEATH AND HADES THAT SURRENDER THEIR DEAD AT 20:13 CANNOT HAVE BEEN ABOLISHED BEFORE THE THOUSAND YEARS.** ⚠️ *Vision Sequence ≠ Event Sequence was invoked and correctly found not to rescue the alternative — which is what makes this a lock rather than an assumption.*
+
+**✅ AND TWO LEXICAL FACTS THAT TRAVEL WITH IT: HADES ≠ THE LAKE OF FIRE** (Hades is thrown *into* the lake; it cannot be thrown into itself) **· AND γέεννα APPEARS NOWHERE IN REVELATION** — the book's only term for final judgment is **λίμνη τοῦ πυρός**. ❗ **English "hell" glosses both γέεννα and the lake of fire and therefore collapses a distinction Revelation itself maintains. Do not use it as an analytical term.**
+
+### ⚔️ Defeat ≠ Abolition — Run on Every Claim That an Enemy Has Been Overcome *(Stage 48)*
+
+> **Scripture may present an enemy as DEFEATED, SUBJECTED, or placed under authority LONG BEFORE that enemy is FINALLY ABOLISHED. Establish which of the two a passage asserts.**
+>
+> ### **DO NOT infer from "conquered" that it has ceased to exist — NOR from "still operative" that it was never defeated.**
+
+**Warrant, and Revelation supplies both halves itself:** ✅ **Revelation 1:18 — ἔχω τὰς κλεῖς τοῦ θανάτου καὶ τοῦ ᾅδου: Messiah HOLDS THE KEYS. They still exist.** ✅ **Revelation 20:6 — the second death has no *exousia* over the first-resurrection saints: a POPULATION is exempted, Death is not ended.** ✅ **Revelation 20:14 — only now are Death and Hades destroyed.** ✅ **And Paul independently: 1 Corinthians 15:25–26 — Messiah ALREADY reigns, and Death REMAINS an enemy awaiting abolition.**
+
+> ### 🛑 **AND THE BRAKE AIMED AT THIS PROJECT, BECAUSE THIS RULE IS CONVENIENT FOR IT: the observation that PEOPLE STILL DIE removes an objection to a present-little-season model. IT SUPPLIES NO EVIDENCE FOR IT. Continued mortality is equally compatible with the hypothesis being FALSE — ZERO DISCRIMINATING POWER — and must never be quoted as though it had any.** *(Compatibility–Evidence Distinction: COULD FIT ≠ DOES FIT ≠ PROVES.)*
+
+### 📂 Verify Against the Files, Not the Report *(Stage 48 — and it paid on first use)*
+
+> **When any incoming source — a tranche, a model, a conversation, a collaborator — asserts that THIS ARCHIVE contains an error, AUDIT THE ARCHIVE BEFORE ACCEPTING THE CORRECTION.**
+>
+> ### **A CORRECTION THAT IS TRUE AS A STATEMENT ABOUT SCRIPTURE MAY STILL BE FALSE AS A STATEMENT ABOUT WHAT WE WROTE.**
+
+*Warrant: Stage 48 §0. An incoming tranche instructed that the archive be corrected for placing Death and Hades in the lake of fire before the millennium — **and the correction was entirely right about Revelation.** ✅ **The archive was audited first and already held the correct sequence in FOUR independent files.** **Accepting it on report would have "corrected" four correct files into agreement with an error that existed only in a conversation.***
+
+> ### ❗ **THE FAILURE MODE THIS BLOCKS IS PARTICULARLY QUIET, BECAUSE THE INCOMING CORRECTION *FEELS* LIKE RIGOUR AND ARRIVES WITH THE AUTHORITY OF SELF-CRITICISM. THE ONLY DEFENCE IS TO OPEN THE FILES.**
+
+### 🧬 Lexical-Family Scope Test — Run Before Any Shared-Word Bridge *(Stage 48)*
+
+> **Two passages sharing a WORD or WORD-FAMILY establishes shared VOCABULARY. Before treating it as evidence of a shared EVENT, audit EVERY occurrence of that family and determine whether the family is SPECIALIZED or ORDINARY.**
+>
+> ### **AND STATE EXPLICITLY WHETHER THE AUDIT IS EXHAUSTIVE OR PARTIAL. A partial concordance presented as complete is a false negative waiting to happen.**
+
+*Warrant, and it went against this project: the tranche built a Matthew 24:31 ⟷ 2 Thessalonians 2:1 bridge on the **ἐπισυνάγω / ἐπισυναγωγή** family. ✅ **Hebrews 10:25 uses the noun for SHOWING UP TO A MEETING.** ✅ **Matthew 23:37 and Luke 13:34 use the verb for Yeshua's covenantal lament over Jerusalem.* **THE FAMILY IS NOT INHERENTLY ESCHATOLOGICAL, AND THE BRIDGE IS WEAKER THAN CLAIMED.***
+
+> ### ⚠️ **AND THE COMPANION RULE FOR COMMON WORDS: δεῖ and ἄχρι occur in BOTH 1 Corinthians 15:25 and Revelation 20:3. BOTH ARE AMONG THE COMMONEST WORDS IN THE GREEK NEW TESTAMENT. SHARED OCCURRENCE OF A UBIQUITOUS WORD IS NOISE, NOT A LEXICAL LINK — and refusing it in writing is the only way to stop it returning in a later stage as though it had been established.**
+
+### 🔍 Pericope-Level Vocabulary Check — Run Before Any "These Passages Share a Term" Claim *(Stage 48)*
+
+> **A word occurring in the CHAPTER is not a word occurring in the PASSAGE. Before resting an argument on shared vocabulary, confirm the term appears in THE VERSES ACTUALLY UNDER COMPARISON.**
+
+*Warrant, and it killed the tranche's strongest lexical claim: the argument that Matthew and Paul "share **παρουσία**, and that's much stronger" than sharing an English word. ✅ **Every occurrence in Matthew 24 was retrieved — 24:3, 24:27, 24:37, 24:39 — FOUR, and NOT ONE inside 24:29–36.** **The word BRACKETS the gathering pericope. It is not in it.***
+
+> ### **THE LINK SURVIVES ONLY AS AN INFERENCE FROM CONTEXTUAL FRAMING — WHICH MAY WELL BE CORRECT, AND IS A DIFFERENT EVIDENCE TYPE. THAT IS EXACTLY THE DOWNGRADE ADR-0010 SAYS IS LOST MOST QUIETLY.**
+
+**And the same check run as a NEGATIVE is equally load-bearing — and must then be EXHAUSTIVE:** ✅ **Matthew 24:29–31 contains NO resurrection vocabulary. Searched and ABSENT: ἀνάστασις · ἐγείρω · ἀνίστημι · νεκροί · μνημεῖα · ἐξανάστασις · θάνατος.** ❗ **A load-bearing negative claim requires the full search list to be NAMED, or it is not a finding — it is an impression.**
+
+### 🤖 Delegated Retrieval Is Retrieval, Not Judgement *(Stage 48 — a process rule, learned the hard way)*
+
+> **When retrieval is delegated to parallel agents, the AGENT RETRIEVES; THE COMPARISON ACROSS RETRIEVALS IS NOT DELEGABLE. Read every report against every other report before accepting any of them.**
+
+**Two failures in one stage, both caught only by cross-reading:**
+- ❌ **An agent rated an UNRETRIEVED LXX comparison at "9/10 — inference from English translations is highly probable."** ⚠️ **OVERRULED, DOWNGRADED TO *NOT VERIFIED*. Probability of a conclusion is not the retrieval that would establish it, and *"highly probable"* is precisely the phrasing by which *contextually favored* becomes *lexically established*.**
+- ❌ **An agent reported "nothing significant" that the tranche had missed at Revelation** — having failed to notice that ✅ **Revelation 11:18 and 20:12 share BOTH the judging-of-the-dead AND the τοὺς μικροὺς καὶ τοὺς μεγάλους merism**, which is one of the stage's two best findings.
+
+> ### ❗ **BOTH OF THE STAGE'S STRONGEST FINDINGS CAME FROM COMPARING REPORTS AGAINST EACH OTHER, NOT FROM ANY SINGLE REPORT. A FLEET OF RETRIEVERS DOES NOT REPLACE THE SYNTHESIS STEP — IT ONLY MAKES SKIPPING IT FEEL SAFER.**
+
+---
+
 ---
 
 ### 📌 Standing hypothesis on record — REVELATION 5 EXALTATION HYPOTHESIS
@@ -1247,6 +1307,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **4.7** | 2026-08-23 | **THE BRIDGE WEAKENED WHERE IT WAS NEEDED MOST.** Added the **REV 20 CHRONOLOGY LOCK**, **Defeat ≠ Abolition**, **Verify Against the Files Not the Report**, the **Lexical-Family Scope Test**, the **Pericope-Level Vocabulary Check**, and **Delegated Retrieval Is Retrieval Not Judgement** (Stage 48). ✅ **The Death/Hades chronology was VERIFIED IN GREEK and locked on LOGICAL DEPENDENCY — they still surrender the dead at 20:13, so they cannot have been abolished before the millennium.** ❗ **AND THE INCOMING CORRECTION THAT PROMPTED IT WAS A NO-OP: four independent files were already right, and accepting it on report would have corrupted them.** 🛑 **THREE FINDINGS AGAINST THIS PROJECT'S OWN CHAIN: Matthew 24:29–31 has NO resurrection vocabulary · παρουσία is ABSENT from the gathering pericope (four occurrences, none inside it) · and ✅ Hebrews 10:25 uses ἐπισυναγωγή for an ORDINARY MEETING.** 🔑 **A SELF-CORRECTION PAID: Stage 11's "same gathering verb" was FALSE (συλλέγω vs ἐπισυνάγω), and chasing the real verb found Matthew's only other ἐπισυνάγω at 23:37 — Yeshua's covenantal lament over JERUSALEM, which points AWAY from the reading this project prefers.** ⚠️ **THE UNTIL-REVERSAL CAUTION, written at Stage 26, bit this project's own reading of ἄχρι at 1 Cor 15:25.** ❌ **AND THE STAGE'S LOAD-BEARING DEBT IS DECLARED: THE LXX OF EVERY TANAKH INTERTEXT WAS NOT RETRIEVED (q231).** |
 | **4.6** | 2026-08-23 | **THE GATE REACHED.** Added the **Rev 6 Intermediate-State Control**, **Transformed Embodiment Control**, the **Supernatural-Possibility Brake**, and the **corrected order of chronological work** (Stage 47). ⚠️ **Recorded the author's correction (stop reopening Revelation 20's settled two-stage structure) AND the counter-correction against him (“morally higher” exceeds what Revelation says).** **First-resurrection actual-change pressure = VERY HIGH, on a Revelation-internal argument that cuts against this project's own convenience.** ❗ **The translation machinery caught its first artifact one stage after being built: ESV Hebrews 11:35 renders anastasis as “life.”** |
 | **4.5** | 2026-08-22 | **REVELATION FINISHED.** Added the **full SOURCE-LANGUAGE LADDER** (upgrading the 45½ Greek Audit Requirement — *audit ≠ solution*) and **Contextual Symbolism** (Side Branch 46½). **SPIRAL PROGRESSION PROMOTED to a strong architectural model, with its leash intact.** **Bride ⟷ New Jerusalem CONFIRMED internally; Expansion Without Erasure confirmed at the consummation (tribes in the gates, apostles in the foundations).** **Recorded the TEMPORAL ENVELOPE and the DANIEL SEALING REVERSAL, and the post-judgment nations problem — unresolved by design.** ⚠️ **Corrections to ourselves: “It is done” is not unique to 16:17; the reign changes duration between 20:6 and 22:5.** |
 | **4.4** | 2026-08-22 | Added the **Translation Architecture** block operationalizing **ADR-0008 §5** (Side Branch 45¾) — the GLOSSARY entry **TRANSLATION ARTIFACT**, **Source-Language-First Translation**, **Translation-Divergence Notes Are Written Not Translated**, **Translation-Independent Source Anchoring**, and the **`SOURCE-LANGUAGE` / `ENGLISH-SPECIFIC` / `SPANISH-SPECIFIC` scope tags**. ⚠️ **A draft ADR-0011 was prepared and WITHDRAWN — ADR-0008 already decides this.** An AMENDMENT to ADR-0008 is proposed instead, pending approval. |

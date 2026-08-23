@@ -96,7 +96,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **46** | **🔑🔑 Revelation 21–22: New Jerusalem, the Nations, and the Final Temporal Claims** | **[[02k-revelation-21-22-new-jerusalem-the-nations-and-the-final-temporal-claims]]** |
 | **46½** | **🌊 The Sea Audit — *thalassa* in Revelation** *(methodology correction)* | **[[02l-the-sea-audit-thalassa-in-revelation]]** |
 | **47** | **🔑🔑🔑 First Resurrection Synthesis — THE GATE** | **[[02m-first-resurrection-synthesis]]** |
-| **48** | *(next)* **🔑🔑 THE GATHERING IDENTITY AUDIT — the decisive bridge to history** | — |
+| **48** | **🔑🔑 THE GATHERING IDENTITY AUDIT — the bridge weakened where it was needed most** | **[[02n-the-gathering-identity-audit]]** |
+| **48½** | *(next)* **🔬 Matthew 24:29–34 Under the Greek and Tanakh Microscope** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1869,7 +1870,7 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Stage 47 — 🔑🔑🔑 First Resurrection Synthesis: THE GATE *(current)*
+## Stage 47 — 🔑🔑🔑 First Resurrection Synthesis: THE GATE
 
 **File:** [[02m-first-resurrection-synthesis]] · **✅ VERIFIED: 1 Cor 15:20–28, 42–49, 51–53 · 1 Thess 4:13–17 · John 5:28–29 · Daniel 12:2 · Hebrews 11:35.**
 
@@ -1905,7 +1906,77 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 48 — 🔑🔑 The Gathering Identity Audit: THE BRIDGE WEAKENED WHERE IT WAS NEEDED MOST *(current)*
+
+**File:** [[02n-the-gathering-identity-audit]] · **✅ SBLGNT + ESV + CJB VERIFIED: 1 Thess 4:13–18, 5:1–11 · 1 Cor 15:20–28, 50–57 · Matt 24:29–36 (+24:3, 27, 37, 39) · Rev 1:18, 11:15–18, 19:20, 20:10–15, 21:4.** **✅ SBLGNT + ESV: John 6:39, 40, 44, 54 · John 11:24, 12:48 · 2 Thess 2:1 · Matt 23:37, 13:41 · Mark 13:27 · Luke 13:34, 17:37 · Heb 10:25.**
+
+> ### ⚠️ **THE STAGE OPENED WITH AN AUDIT, NOT AN INGESTION — AND THE AUDIT FOUND NOTHING TO FIX.** The incoming tranche instructed that the archive be corrected for placing Death and Hades in the lake of fire before the millennium. ✅ **FOUR INDEPENDENT FILES ALREADY HELD THE CORRECT SEQUENCE** (02h:241 · 02k:114 · 02k:222 · this spine at Movement IV). **THE DRIFT WAS CONVERSATIONAL; THE WRITTEN RECORD WAS NOT.** **📌 HAD THE CORRECTION BEEN ACCEPTED ON REPORT RATHER THAN CHECKED AGAINST THE FILES, FOUR CORRECT FILES WOULD HAVE BEEN "CORRECTED" INTO ERROR. First live test of that discipline; it paid (q230).**
+
+**🔒 ✅ REV 20 CHRONOLOGY LOCK, VERIFIED IN GREEK — and it rests on LOGICAL DEPENDENCY, not verse adjacency: ✅ 20:10 Satan thrown in "ὅπου καὶ τὸ θηρίον καὶ ὁ ψευδοπροφήτης" — DEATH AND HADES NOT NAMED AS ALREADY THERE · ✅ 20:13 ὁ θάνατος καὶ ὁ ᾅδης ΕΔΩΚΑΝ τοὺς νεκρούς — THEY STILL HOLD AND SURRENDER THE DEAD · ✅ 20:14 ONLY THEN ἐβλήθησαν εἰς τὴν λίμνην · ✅ 21:4 ὁ θάνατος οὐκ ἔσται ἔτι. THEY CANNOT HAVE BEEN ABOLISHED BEFORE THE MILLENNIUM WHILE STILL HOLDING THE DEAD AT 20:13.** **⚠️ The *Vision Sequence ≠ Event Sequence* control was correctly invoked and correctly found not to rescue the alternative.**
+
+> ### 🆕 **DEFEAT ≠ ABOLITION — three moments kept rigidly apart: ✅ Rev 1:18's ἔχω τὰς κλεῖς τοῦ θανάτου καὶ τοῦ ᾅδου (AUTHORITY, not abolition) · Rev 20:6's immunity of the first-resurrection saints from the SECOND death (Death itself still exists) · Rev 20:14's final disposal. ✅ AND PAUL SAYS IT INDEPENDENTLY: 1 Cor 15:26 — Messiah already reigns AND Death remains an enemy awaiting abolition.**
+>
+> ### 🛑 **AND THE BRAKE ON OUR OWN COMFORT: this REMOVES the objection "Revelation says Death is gone, yet people die" — IT DOES NOT SUPPLY EVIDENCE. Continued mortality is equally compatible with the hypothesis being false. IT HAS NO DISCRIMINATING POWER AND MAY NOT BE QUOTED AS THOUGH IT DID.**
+
+**✅ HADES ≠ LAKE OF FIRE, PROVEN INTERNALLY — Hades is thrown INTO the lake; it cannot be thrown into itself. ✅ AND γέεννα APPEARS NOWHERE IN REVELATION — the book's only term is λίμνη τοῦ πυρός, so English "hell" obscures a distinction Revelation itself keeps.**
+
+**🔑 THE PAULINE HALF HELD AND STRENGTHENED. ✅ 1 Thess 4:16's οἱ νεκροὶ ἐν Χριστῷ is EXPLICITLY RESTRICTED, against ✅ Rev 20:12's unrestricted "τοὺς μεγάλους καὶ τοὺς μικρούς" — a restricted resurrection of Messiah's own fits the blessed-and-holy first resurrection far better than the comprehensive judgment. ✅ AND 1 COR 15 IS STAGED IN PAUL'S OWN VOCABULARY: τάγματι → ΕΠΕΙΤΑ (23) → ΕΙΤΑ (24) — TWO distinct sequence words, not one — δεῖ … βασιλεύειν ἄχρι οὗ (25) → ἔσχατος ἐχθρὸς καταργεῖται ὁ θάνατος (26). PAUL PUTS A REIGN BETWEEN THE RESURRECTION AND DEATH'S DEFEAT.** **📐 CORRESPONDENCE STRONG; IDENTITY NOT ESTABLISHED.**
+
+> ### 🛑 **AND THE PROJECT'S OWN RULE BIT ITS OWN ATTRACTIVE READING: the UNTIL-REVERSAL CAUTION (v2.5, written at Stage 26 before it could matter here) means ✅ ἄχρι establishes that Messiah reigns UP TO the subjection of enemies — IT DOES NOT ESTABLISH THAT THE REIGN THEN STOPS. And q218 already found independent evidence that it does not (✅ Rev 22:5 "forever and ever"). THE INTERVAL IS PERMITTED BY THE GRAMMAR; THE TERMINUS IS NOT SUPPLIED BY ἄχρι.**
+>
+> ### ⚠️ **AND TWO OFFERED LINKS WERE REFUSED IN WRITING SO THEY CANNOT QUIETLY RETURN: δεῖ and ἄχρι occur in BOTH 1 Cor 15:25 and Rev 20:3, and BOTH WORDS ARE AMONG THE COMMONEST IN THE GREEK NT. THAT IS NOISE, NOT A LEXICAL BRIDGE.**
+
+**❗ ✅ καταργεῖται (15:26) IS PRESENT PASSIVE, NOT FUTURE — Paul did not write καταργηθήσεται. ⚠️ RECORDED AS AN OBSERVATION ONLY; whether the present is durative, futuristic or gnomic NEEDS A GRAMMAR AUTHORITY WE DO NOT HAVE (S14). ✅ AND CJB SHIFTS IT TO FUTURE ("will be done away with") — `ENGLISH-SPECIFIC`.**
+
+> ### ❗❗ **AND THEN THE MATTHEAN HALF — THE ONLY LINK CARRYING A FIRST-CENTURY DATE — WEAKENED ON THREE INDEPENDENT COUNTS:**
+>
+> ### **1. ✅ MATTHEW 24:29–31 CONTAINS NO RESURRECTION VOCABULARY AT ALL.** Searched exhaustively: ἀνάστασις · ἐγείρω · ἀνίστημι · νεκροί · μνημεῖα · ἐξανάστασις · θάνατος — **ALL ABSENT. Matthew gives a gathering; the resurrection component is PAUL'S.**
+>
+> ### **2. 🛑 παρουσία IS ABSENT FROM THE GATHERING PERICOPE.** ✅ All four occurrences retrieved — 24:3, 24:27, 24:37, 24:39 *(FOUR, not the three the tranche implied)* — **and NONE is inside 24:29–36. It BRACKETS the passage; it is not IN it. THE TRANCHE'S STRONGEST LEXICAL CLAIM DOES NOT SURVIVE RETRIEVAL: the Matthew–Paul παρουσία link is an INFERENCE FROM FRAMING, not shared vocabulary at the disputed verse.**
+>
+> ### **3. 🛑 THE ἐπισυνάγω WORD-FAMILY IS NOT INHERENTLY ESCHATOLOGICAL — ✅ HEBREWS 10:25 USES THE NOUN ἐπισυναγωγή FOR SHOWING UP TO A MEETING.** Shared vocabulary establishes a shared WORD, not a shared EVENT. **RECORDED IN THE SAME TYPEFACE AS THE FINDINGS THAT FAVOUR US.**
+
+**❗ ✅ AND A TRANSLATION ARTIFACT AT THE TRUMPET — SBLGNT reads simply μετὰ σάλπιγγος μεγάλης, "with a great trumpet." ESV PRINTS "a loud trumpet CALL." THERE IS NO WORD FOR "CALL" IN THE GREEK — and "trumpet call" sounds like a summons-event while "a great trumpet" is closer to the Tanakh gathering imagery, WHICH IS THE VERY QUESTION IN DISPUTE. THE ENGLISH NUDGES THE ANSWER (`ENGLISH-SPECIFIC`).**
+
+> ### 🔑🔑 **THE BEST FINDING IN THE STAGE CAME FROM CORRECTING OURSELVES.** [[00k-the-gathering-of-the-elect]] §7 claimed Matthew 13:41 "pairs it with THE SAME GATHERING VERB" as 24:31. ❌ **FALSE: ✅ 13:41 is ΣΥΛΛΕΞΟΥΣΙΝ (συλλέγω); 24:31 is ΕΠΙΣΥΝΑΞΟΥΣΙΝ (ἐπισυνάγω).** ✅ **Stage 11's CONCLUSION SURVIVES on better evidence — the SENDING clause is near-verbatim in both (ἀποστελεῖ … τοὺς ἀγγέλους αὐτοῦ).**
+>
+> ### ❗ **AND CHASING THE ACTUAL VERB PRODUCED THIS: MATTHEW USES ἐπισυνάγω EXACTLY ONCE MORE — ✅ 23:37, YESHUA'S LAMENT OVER *JERUSALEM*, "ποσάκις ἠθέλησα ἐπισυναγαγεῖν τὰ τέκνα σου," ONE CHAPTER BEFORE THE OLIVET DISCOURSE. MATTHEW'S OWN USAGE OF THIS VERB IS COVENANTAL AND CITY-DIRECTED.**
+>
+> ### ⚖️ **THAT STRENGTHENS THE COVENANTAL-GATHERING READING OF 24:31 — WHICH CUTS AGAINST IDENTIFYING MATTHEW'S GATHERING WITH PAUL'S RESURRECTION-GATHERING. 🛑 IT DOES NOT SETTLE IT: agent, object and outcome all differ, and two occurrences are a DATUM, NOT A SEMANTIC RULE (q236).**
+
+**🛑 "LAST TRUMPET" ≠ "SEVENTH TRUMPET" — ✅ ἔσχατος ≠ ἕβδομος, Paul wrote before Revelation, and ordinal arithmetic across two authors is REFUSED. ❗ AND RETRIEVAL PUSHED THE SEVENTH TRUMPET THE OTHER WAY: ✅ Rev 11:18's "ὁ καιρὸς τῶν νεκρῶν κριθῆναι … τοὺς μικροὺς καὶ τοὺς μεγάλους" shares BOTH the judging-of-the-dead AND the small-and-great merism with ✅ Rev 20:12. THE SEVENTH TRUMPET'S OWN VOCABULARY POINTS AT THE GREAT WHITE THRONE, NOT THE FIRST RESURRECTION (q232).** *(Found by comparing two retrievals against each other — neither agent noticed it.)*
+
+> ### 🛑🛑 **AND JOHN'S "LAST DAY" GOT HARDER, NOT EASIER. ✅ All six occurrences retrieved, ALL SINGULAR (ἐσχάτῃ ἡμέρᾳ). ✅ 11:24 IS MARTHA, NOT YESHUA — a REPORTED first-century Jewish expectation, a different evidence type, so the dominical occurrences are FIVE, not six. ✅ AND 12:48 ATTACHES THE LAST DAY TO *JUDGMENT* (κρινεῖ), not resurrection.**
+>
+> ### ❗ **SO JOHN'S "LAST DAY" CARRIES BOTH THE RAISING OF BELIEVERS AND THE JUDGMENT OF REJECTERS — WHICH MAPS ONTO THE GREAT WHITE THRONE MORE NATURALLY THAN ONTO A FIRST RESURRECTION SEPARATED FROM JUDGMENT BY A THOUSAND YEARS. THE STRONGEST SINGLE OBSTACLE THE STAGE PRODUCED, AND "THE STAGING IS WRONG" REMAINS ON THE LIST OF LIVE OPTIONS (q235).**
+
+**📊 SCORECARD: 1 Thess 4 ⟷ Rev 20 first resurrection = CORRESPONDENCE STRONG, identity not established · 1 Cor 15 architecture ⟷ Rev 20 architecture = STRONG, identity not established · Matt 24:31 ⟷ 1 Thess 4 = **DOWNGRADED TO MODERATE** · Matt 24:31 ⟷ Matt 23:37 = **NEW, MODERATE** · last trumpet ⟷ seventh trumpet = **REFUSED** · John's "last day" ⟷ first resurrection = **COUNTER-INDICATED**.**
+
+> ### ❗❗ **THE CHAIN THE HYPOTHESIS NEEDS DID NOT SURVIVE INTACT. THE PAULINE HALF STRENGTHENED; THE MATTHEAN LINK — THE ONLY ONE CARRYING A DATE — WEAKENED. WE ARE LEFT WITH TWO-THIRDS OF AN ARCHITECTURE AND NO ANCHOR IN TIME.**
+
+**⚠️ AND THE STAGE'S OWN LOAD-BEARING DEBT, DECLARED RATHER THAN DISCOVERED LATER: ❌ THE LXX OF EVERY TANAKH INTERTEXT WAS NOT RETRIEVED — Isaiah 27:12–13 · Isaiah 13:10 · Isaiah 34:4 · Joel 2:30–31 · Daniel 7:13–14 · Deuteronomy 30:3–4 · Zechariah 2:6. ALL ASSESSED IN ENGLISH ONLY, THEREFORE *REPORTED, NOT VERIFIED*. A verbal parallel between a Greek Gospel and a Hebrew prophet CANNOT be established by two English translations agreeing (q231).** **📌 A retrieval agent rated an unretrieved LXX comparison "9/10 — highly probable"; THAT WAS OVERRULED AND DOWNGRADED, because "highly probable" is exactly how *contextually favored* becomes *lexically established*.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"I fixed the error expecting to lose something, and instead the corrected text handed me the most interesting datum in the stage, pointing away from the reading I preferred."***
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 48½ — 🔬 MATTHEW 24:29–34 UNDER THE GREEK AND TANAKH MICROSCOPE**
+
+> ### **THE NARROW QUESTION, AND IT IS THE ONLY ONE THAT MATTERS NEXT: *DOES MATTHEW LINGUISTICALLY AND CONTEXTUALLY PERMIT ITS GATHERING TO BE REMOVED FROM THE FIRST-CENTURY "THIS GENERATION" HORIZON?***
+
+**Because ✅ the gathering (24:31) stands BEFORE the generation statement (24:34), any reading placing it outside that generation must explain TEXTUALLY why πάντα ταῦτα excludes it.**
+
+**Audit: εὐθέως · μετὰ τὴν θλῖψιν · παρουσία *(and its absence from the pericope)* · νεφέλαι · ἄγγελοι *(already settled at Stage 11 §7 — do NOT reopen)* · σάλπιγξ μεγάλη · ἐπισυνάγω *(now carrying Matthew 23:37)* · ἐκλεκτοί · γενεά · πάντα ταῦτα — and every major Tanakh intertext IN THE LXX.**
+
+> ### ❗ **FIRST ORDER OF BUSINESS IS THE DEBT STAGE 48 DECLARED: RETRIEVE THE LXX. Isaiah 27:12–13 above all — IF Matthew's μετὰ σάλπιγγος μεγάλης VERBALLY TRACKS ISAIAH'S GREAT TRUMPET IN GREEK, THE COVENANTAL-GATHERING READING STRENGTHENS SHARPLY; IF IT DOES NOT, THE MATTHEW 23:37 FINDING STANDS ALONE. THAT SINGLE RETRIEVAL MAY DECIDE THE STAGE.**
+
+**⚠️ TWO BRAKES STILL TRAVEL WITH IT: the "ONE TAKEN, ONE LEFT" passage STILL cannot carry the argument — the Noah/Lot judgment context leaves open whether the "taken" person is RESCUED or JUDGED · AND Matthew 24 places its discourse within JUDEA · TEMPLE · THIS GENERATION · GREAT TRIBULATION.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (47 → 48), Preserved
 
 ### **STAGE 48 — 🔑🔑 THE GATHERING IDENTITY AUDIT**
 
@@ -1915,11 +1986,11 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 **Texts: Matthew 24:29–31 · 1 Corinthians 15:20–28, 35–58 · 1 Thessalonians 4:13–5:11 · Revelation 20:4–6 · Daniel 12 · relevant John passages.**
 
-**⚠️ TWO BRAKES TRAVEL WITH IT: the "ONE TAKEN, ONE LEFT" passage STILL cannot carry the argument — the Noah/Lot judgment context leaves open whether the "taken" person is RESCUED or JUDGED, so it may NOT be used as evidence for living saints vanishing · AND Matthew 24 places its discourse within JUDEA · TEMPLE · THIS GENERATION · GREAT TRIBULATION, which is precisely the tension the audit exists to resolve.**
-
 > ### **IF MATTHEW 24:31's GATHERING IS THE SAME AS 1 THESSALONIANS 4, THE FIRST-CENTURY HORIZON BECOMES EXTREMELY CONSEQUENTIAL. IF THEY ARE DISTINCT GATHERINGS USING SHARED LANGUAGE, WE NEED EVIDENCE FOR THE DISTINCTION.**
 >
 > ### **THIS MAY BE THE DECISIVE BRIDGE BETWEEN THE BIBLICAL CHRONOLOGY AND THE HISTORICAL INVESTIGATION.**
+>
+> ### 📌 **OUTCOME, RECORDED AGAINST THE PREDICTION: THE BRIDGE WAS BUILT AND IT DID NOT HOLD WHERE IT WAS NEEDED. THE PAULINE CORRESPONDENCES STRENGTHENED; THE MATTHEAN LINK WEAKENED ON THREE COUNTS. THE PREDICTION THAT THIS WOULD BE "DECISIVE" WAS CORRECT — IT DECIDED PARTLY AGAINST US.**
 
 ---
 
@@ -2448,7 +2519,12 @@ The journey's self-corrections, kept deliberately because they demonstrate the m
 | 6 | The author's own "preaching isn't my thing" | Acts 8 + the five-category distinction |
 | 7 | "Where did the millennium's nations come from?" | Revelation 20:7–8 — they simply exist; the premise was imported |
 | 9 | "A third of the angels rebelled" as stated text | Reclassified as inference |
-| 11 | *angeloi* = human missionaries (convenient) | Matthew 13:41's parallel formula |
+| 11 | *angeloi* = human missionaries (convenient) | Matthew 13:41's parallel **sending** formula — ✅ ἀποστελεῖ … τοὺς ἀγγέλους αὐτοῦ, near-verbatim with 24:31 *(amended at Stage 48 — see the next row; the original entry cited the wrong feature)* |
+| **11 → 48** | **"13:41 pairs it with THE SAME GATHERING VERB"** *(this project's own claim, [[00k-the-gathering-of-the-elect]] §7)* | ❌ **FALSE, AND CORRECTED RATHER THAN MEMORIALIZED — an erroneous statement about the Greek (ADR-0007's stated exception).** ✅ **13:41 is ΣΥΛΛΕΞΟΥΣΙΝ (συλλέγω); 24:31 is ΕΠΙΣΥΝΑΞΟΥΣΙΝ (ἐπισυνάγω).** ✅ **The CONCLUSION survives on better evidence — the SENDING clause carries it.** **📌 AND THE CORRECTION PAID: chasing the real verb found Matthew's ONLY other use of ἐπισυνάγω at ✅ 23:37, Yeshua's covenantal lament over JERUSALEM one chapter before the Olivet Discourse — the stage's best datum, and it points AWAY from the reading this project prefers (q236)** |
+| **48** | **The tranche's instruction that the archive be corrected for placing Death/Hades in the lake before the millennium** | ✅ **NO CORRECTION WAS NEEDED. Four independent files already held the right sequence (02h:241 · 02k:114 · 02k:222 · this spine's Movement IV). THE DRIFT WAS CONVERSATIONAL; THE WRITTEN RECORD WAS NOT.** **📌 Recorded because accepting it on report would have "corrected" four correct files INTO error — first live test of *check the files, not the report* (q230)** |
+| **48** | **"Matthew and Paul share παρουσία — that's much stronger"** *(the tranche's strongest lexical claim)* | 🛑 **DOES NOT SURVIVE RETRIEVAL.** ✅ All four occurrences in Matthew 24 retrieved — **24:3, 24:27, 24:37, 24:39** *(four, not three)* — **and NONE is inside 24:29–36.** The word **brackets** the gathering pericope; it is not in it. **Downgraded from shared vocabulary to inference from contextual framing — which may still be right, and is a different evidence type** |
+| **48** | **The ἐπισυνάγω word-family as an eschatological bridge Matthew→2 Thessalonians** | 🛑 **WEAKENED BY ✅ HEBREWS 10:25, which uses the noun ἐπισυναγωγή for AN ORDINARY ASSEMBLY MEETING.** The family spans ordinary and eschatological usage. **Shared vocabulary establishes a shared WORD, not a shared EVENT.** Recorded in the same typeface as findings that favour the hypothesis |
+| **48** | **A retrieval agent's "9/10 — inference from English translations is highly probable"** on the LXX behind 1 Cor 15:54–55 | ⚠️ **OVERRULED AND DOWNGRADED TO *NOT VERIFIED*.** The LXX was never retrieved. **Probability of a conclusion is not a substitute for the retrieval that would establish it — and "highly probable" is precisely the phrasing by which *contextually favored* becomes *lexically established* (ADR-0010)** |
 | 15 | **"one covenant story from Genesis to Revelation"** (this project's own working phrase) | **Jeremiah 31:32's explicit "not like the covenant I made with their fathers."** Refined to **"one covenantal story containing multiple covenants, culminating in Messiah"** — Abrahamic, Sinai, Davidic, and New are one story but not interchangeable. The old phrasing invited the flattening Jeremiah forbids |
 | 15 | Zechariah 6:13 as support for Messiah uniting king + priest | **CJB ("*cohen* *before* his throne") and RVR1960 ("sacerdote *a su lado*") both read a *separate* figure.** Downgraded to suggestive; the priest-king case rests on Psalm 110:4 + Hebrews 7 instead |
 | 16 | **"Ecumenological discipline"** — this project's own informal name for its method | **Term collision.** *Ecumenology* already means the theology of Christian denominational unity — a different field this project isn't doing. Corrected to **"biblical epistemological framework."** Recorded because the near-miss is easy to repeat and would actively mislead a reader of the eventual book |
