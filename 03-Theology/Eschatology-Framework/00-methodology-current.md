@@ -6,7 +6,7 @@ tags: [methodology, epistemology, exegesis, ingestion-protocol, governance]
 reference:
 created: 2026-08-12
 status: active
-version: "4.7 — 2026-08-23, current at Stage 48 (established 1.0 at Stage 16, 2026-08-12)"
+version: "4.8 — 2026-08-23, current at Stage 48½ (established 1.0 at Stage 16, 2026-08-12)"
 related: "[[00-index]], [[00a-narrative-spine]], [[00b-biblical-epistemology]]"
 ---
 
@@ -1260,7 +1260,45 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 **And the same check run as a NEGATIVE is equally load-bearing — and must then be EXHAUSTIVE:** ✅ **Matthew 24:29–31 contains NO resurrection vocabulary. Searched and ABSENT: ἀνάστασις · ἐγείρω · ἀνίστημι · νεκροί · μνημεῖα · ἐξανάστασις · θάνατος.** ❗ **A load-bearing negative claim requires the full search list to be NAMED, or it is not a finding — it is an impression.**
 
-### 🤖 Delegated Retrieval Is Retrieval, Not Judgement *(Stage 48 — a process rule, learned the hard way)*
+### ☄️ Cosmic-Language Brake — Run on Every De-Creation Image *(Stage 48½ — and it is now VERIFIED IN GREEK, not argued in English)*
+
+> **Prophetic cosmic-collapse imagery may NOT be assumed to require the dissolution of the created order — NOR may it be assumed to be MERELY figurative.**
+>
+> ### **ESTABLISH THE TANAKH USAGE FIRST; THEN LET IMMEDIATE CONTEXT DETERMINE APPLICATION.**
+
+**Warrant, at word level:** ✅ **Matthew 24:29's ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς is LXX Isaiah 13:10's ἡ σελήνη οὐ δώσει τὸ φῶς αὐτῆς WITH ONE NOUN CHANGED** · ✅ **σκοτισθήσεται is Isaiah 13:10's verb** · ✅ **αἱ δυνάμεις τῶν οὐρανῶν is Isaiah 34:4's EXACT PHRASE** · ✅ **πίπτω for the falling stars is Isaiah 34:4's.** ⚠️ Only **σαλευθήσονται** diverges (Isaiah 13:13 has **σεισθήσεται**).
+
+> ### ❗❗ **AND *WHICH ORACLES THESE ARE* IS THE ENTIRE POINT: ISAIAH 13 IS AGAINST BABYLON. ISAIAH 34 IS AGAINST EDOM. JUDGMENTS ON IDENTIFIABLE HISTORICAL PEOPLES, IN DE-CREATION LANGUAGE.**
+>
+> ### ⚠️ **INTERTEXTUAL PRIORITY, BOTH HALVES: Isaiah establishes what the vocabulary CAN do. It does NOT establish what Matthew IS doing.**
+
+### 🔀 Intertextual Expansion Rule *(Stage 48½ — adopted WITH two leashes, and the leashes ARE the rule)*
+
+> **A later inspired text may elaborate the mechanics of an earlier prophetic image without invalidating that image's original Tanakh background.**
+
+*Warrant from this stage's own evidence:* ✅ **Isaiah 27 supplies Matthew's TRUMPET (σάλπιγγι τῇ μεγάλῃ) and NOT his GATHERING VERB (Isaiah has ἥξουσιν / συναγάγετε; Matthew has ἐπισυνάξουσιν)** — which is exactly what *same image, developed vocabulary* looks like.
+
+> ### 🛑 **LEASH 1 — ANTI-RESCUE: IF A READING NEEDS "IT IS BOTH" TO SURVIVE ITS WORST DATUM, THAT IS A FAILING CANDIDATE, NOT A LAYERED ONE.** Same shape as the Composite-Symbol leash (Stage 43) and Spiral Progression's (Stage 44). **A rule permitting both readings simultaneously can absorb ANY counterevidence, and a rule that explains every arrangement explains none.**
+>
+> ### 🛑 **LEASH 2 — IT MAY NOT RUN INTERTEXTUAL PRIORITY BACKWARDS.** Rule 2 already states: *never run it backwards — a LATER text developing an earlier one is not evidence about what the EARLIER one meant.* **THEREFORE PAUL MAY *ELABORATE* MATTHEW; PAUL IS NEVER *EVIDENCE FOR WHAT MATTHEW MEANT*. THE EXPANSION RUNS FORWARD ONLY.**
+>
+> ### **THE JOINING MUST BE DEMONSTRATED TEXT BY TEXT. THE RULE LICENSES THE QUESTION, NEVER THE ANSWER.**
+
+### 🔍 Demonstrative-Marked Terms Are Their Own Category *(Stage 48½)*
+
+> **When a term carries multiple senses, check whether the DEMONSTRATIVE-MARKED form behaves differently from the bare form before importing the bare form's range into the marked one.**
+
+*Warrant:* ✅ **In Matthew, γενεά + a demonstrative denotes a CONTEMPORARY BODY in every instance where the referent is determinable — 11:16, 12:41, 12:42, 12:45, 23:36. ✅ Matthew 1:17's four GENEALOGICAL uses carry NO DEMONSTRATIVE.**
+
+> ### ❗ **AND THE INFERENCE THIS BLOCKS, WHICH A RETRIEVAL AGENT ACTUALLY DREW: that 1:17's genealogical sense makes the "race/ethnic people" reading of 24:34 less burdensome. ❌ NON SEQUITUR — GENEALOGICAL-COUNTING-UNIT IS NOT ETHNIC-RACE. A broadened range does not supply whichever *particular* alternative sense an argument happens to need.**
+
+### 🤖 Delegated Retrieval Is Retrieval, Not Judgement *(Stage 48 — a process rule, learned the hard way; UPGRADED at 48½)*
+
+> ### ❗❗ **UPGRADE, STAGE 48½ — THE FABRICATION CASE: A retrieval agent placed ἥξουσιν INSIDE Matthew 24:31 — a word that is not there — and graded it a VERBAL match, inside a table whose other rows were genuine. THE FORMATTING VOUCHED FOR IT.**
+>
+> ### **THEREFORE: EVERY RETRIEVAL TABLE MUST BE CHECKED *ROW BY ROW AGAINST THE ACTUAL VERSE*, NOT READ FOR INTERNAL COHERENCE. A table that is self-consistent can still contain an invented parallel.**
+>
+> *Two further mislabels the same day, same class:* ❌ **συνάγω graded "VERBAL IDENTICAL" to ἐπισυνάγω** · ❌ **ἐπιβλέπω graded "same root" as ὁράω — they are βλέπω and ὁράω, DIFFERENT ROOTS.**
 
 > **When retrieval is delegated to parallel agents, the AGENT RETRIEVES; THE COMPARISON ACROSS RETRIEVALS IS NOT DELEGABLE. Read every report against every other report before accepting any of them.**
 
@@ -1307,6 +1345,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **4.8** | 2026-08-23 | **THE DATE HELD; THE EVENT DID NOT FOLLOW.** Added the **COSMIC-LANGUAGE BRAKE** *(now verified in Greek)*, the **INTERTEXTUAL EXPANSION RULE** with its two leashes, **DEMONSTRATIVE-MARKED TERMS ARE THEIR OWN CATEGORY**, and an **UPGRADE to Delegated Retrieval** (Stage 48½). ✅ **THE LXX DEBT (q231) SUBSTANTIALLY DISCHARGED** — Isaiah 13/27/34, Zechariah 12, Deuteronomy 30, Daniel 7 (Old Greek) all verified in Greek. ⬆️ **PROMOTED: Matthew 24:29–31 inside Matthew's first-century horizon = HIGH — established WITHOUT importing Revelation, Paul, or preterism, and shipped WITH four falsification conditions.** 🔑 **Its strongest evidence is ✅ Matthew 23:36, which carries the SAME PHRASE-PAIR as 24:34 one chapter earlier over an undisputed contemporary referent.** ★ **AND THE HINGE SPLIT: Isaiah 27:13 supplies Matthew's TRUMPET verbally and NOT his GATHERING VERB — neither Isaiah 27 nor Deuteronomy 30 uses ἐπισυνάγω.** ⚠️ **Daniel 7:13's Old Greek DESTABILIZED q180; Theodotion NOT RETRIEVED and now load-bearing.** ❌❌ **AN EVAL CASE: a fabricated Greek parallel (ἥξουσιν into Matthew 24:31) caught before entry, plus two mislabels — the Delegated-Retrieval rule paid for itself one stage after being written.** ⚠️ **TWO CORRECTIONS RECORDED TOGETHER, ONE IN EACH DIRECTION: the tranche upgraded "parousia context" into "that lexical pair"; THIS PROJECT upgraded "identity not established" into "non-identity adopted." SAME ERROR CLASS, SAME TWELVE HOURS.** 🧮 Source-text divergence 2 → 3 *(LXX Zech 12:10 "mocked" vs MT "pierced")*; translation divergence 13 → 14. |
 | **4.7** | 2026-08-23 | **THE BRIDGE WEAKENED WHERE IT WAS NEEDED MOST.** Added the **REV 20 CHRONOLOGY LOCK**, **Defeat ≠ Abolition**, **Verify Against the Files Not the Report**, the **Lexical-Family Scope Test**, the **Pericope-Level Vocabulary Check**, and **Delegated Retrieval Is Retrieval Not Judgement** (Stage 48). ✅ **The Death/Hades chronology was VERIFIED IN GREEK and locked on LOGICAL DEPENDENCY — they still surrender the dead at 20:13, so they cannot have been abolished before the millennium.** ❗ **AND THE INCOMING CORRECTION THAT PROMPTED IT WAS A NO-OP: four independent files were already right, and accepting it on report would have corrupted them.** 🛑 **THREE FINDINGS AGAINST THIS PROJECT'S OWN CHAIN: Matthew 24:29–31 has NO resurrection vocabulary · παρουσία is ABSENT from the gathering pericope (four occurrences, none inside it) · and ✅ Hebrews 10:25 uses ἐπισυναγωγή for an ORDINARY MEETING.** 🔑 **A SELF-CORRECTION PAID: Stage 11's "same gathering verb" was FALSE (συλλέγω vs ἐπισυνάγω), and chasing the real verb found Matthew's only other ἐπισυνάγω at 23:37 — Yeshua's covenantal lament over JERUSALEM, which points AWAY from the reading this project prefers.** ⚠️ **THE UNTIL-REVERSAL CAUTION, written at Stage 26, bit this project's own reading of ἄχρι at 1 Cor 15:25.** ❌ **AND THE STAGE'S LOAD-BEARING DEBT IS DECLARED: THE LXX OF EVERY TANAKH INTERTEXT WAS NOT RETRIEVED (q231).** |
 | **4.6** | 2026-08-23 | **THE GATE REACHED.** Added the **Rev 6 Intermediate-State Control**, **Transformed Embodiment Control**, the **Supernatural-Possibility Brake**, and the **corrected order of chronological work** (Stage 47). ⚠️ **Recorded the author's correction (stop reopening Revelation 20's settled two-stage structure) AND the counter-correction against him (“morally higher” exceeds what Revelation says).** **First-resurrection actual-change pressure = VERY HIGH, on a Revelation-internal argument that cuts against this project's own convenience.** ❗ **The translation machinery caught its first artifact one stage after being built: ESV Hebrews 11:35 renders anastasis as “life.”** |
 | **4.5** | 2026-08-22 | **REVELATION FINISHED.** Added the **full SOURCE-LANGUAGE LADDER** (upgrading the 45½ Greek Audit Requirement — *audit ≠ solution*) and **Contextual Symbolism** (Side Branch 46½). **SPIRAL PROGRESSION PROMOTED to a strong architectural model, with its leash intact.** **Bride ⟷ New Jerusalem CONFIRMED internally; Expansion Without Erasure confirmed at the consummation (tribes in the gates, apostles in the foundations).** **Recorded the TEMPORAL ENVELOPE and the DANIEL SEALING REVERSAL, and the post-judgment nations problem — unresolved by design.** ⚠️ **Corrections to ourselves: “It is done” is not unique to 16:17; the reign changes duration between 20:6 and 22:5.** |

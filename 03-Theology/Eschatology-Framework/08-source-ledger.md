@@ -167,6 +167,26 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Stage 48½ — Matthew 24 Under the Microscope (THE LXX DEBT, LARGELY DISCHARGED)
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S25** | ✅ **SEPTUAGINT — Swete's edition** *(via BibleHub /sepd/; corroborated at Blue Letter Bible / CCAT-UPenn)* | **Isaiah 13:9–13 · Isaiah 27:12–13 · Isaiah 34:4 · Zechariah 12:10–14 · Deuteronomy 30:3–4** | the entire word-level comparison of §2–§5: **ἡ σελήνη οὐ δώσει τὸ φῶς αὐτῆς · σκοτισθήσεται · αἱ δυνάμεις τῶν οὐρανῶν · τὰ ἄστρα πεσεῖται · σεισθήσεται · σάλπιγγι τῇ μεγάλῃ · ἥξουσιν · συναγάγετε · κόψονται · ἡ γῆ κατὰ φυλὰς φυλάς · ἐπιβλέψονται · ἀνθ' ὧν κατωρχήσαντο · συνάξει · ἀπ' ἄκρου τοῦ οὐρανοῦ ἕως ἄκρου τοῦ οὐρανοῦ · οἰκουμένη** | **PRIMARY** *(critical edition of the LXX)* | ✅ **VERIFIED IN GREEK — DISCHARGES THE BULK OF q231.** ⚠️ **Swete attribution is BibleHub's own label, REPORTED not independently confirmed; Rahlfs NOT consulted.** ⚠️ **Editions differ — a Rahlfs cross-check is owed before publication** | 2026-08-23 |
+| **S26** | ✅ **DANIEL 7:13–14 — OLD GREEK** *(same source path)* | **Daniel 7:13–14** | **ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ** *(matching Matthew's preposition against the Aramaic **עִם**)* and **ὡς παλαιὸς ἡμερῶν παρῆν** | **PRIMARY** | 🟡 **VERIFIED AS GREEK; VERSION IDENTIFIED BY INTERNAL EVIDENCE ONLY** — the **ὡς** construction is the classic Old-Greek distinctive, since the source's own label was not independently confirmed. **RECORDED AS AN INFERENCE ABOUT THE VERSION, NOT A SOURCE CLAIM** | 2026-08-23 |
+| **S27** | ❌ **DANIEL 7:13–14 — THEODOTION (θ')** | **Daniel 7:13–14** | which Greek Daniel Matthew 24:30 actually tracks; and whether Theodotion preserves *"came TO the Ancient of Days"* against the Old Greek's *"as an Ancient of Days was present"* | **PRIMARY** *(when obtained)* | ❌ **NOT RETRIEVED** — archive.org, stepbible and BibleHub Septuagint paths all returned 404/empty. ❗❗ **NOW LOAD-BEARING: it destabilizes q180, a claim the archive already holds. DISCHARGE AT STAGE 49, where Daniel 7 is on the comparison list (q246)** | — |
+| **S28** | ✅ **SBLGNT** *(via Bible Gateway / BibleHub)* | **Matthew 24:29–39 · 23:35–36 · 13:24–50 · 28:20 · all 13 occurrences of γενεά · 1:17 · 11:16 · 12:39–45 · 16:4 · 17:17** | the γενεά inventory and the demonstrative-marked pattern (§8); the Matthew 13 gathering-verb audit (§7); the συντέλεια τοῦ αἰῶνος inventory | **PRIMARY** | ✅ **VERIFIED.** ⚠️ **The γενεά inventory is reported exhaustive ON CONCORDANCE GROUNDS and was NOT independently re-verified** | 2026-08-23 |
+| **S29** | ❌ **HEBREW (MT) — Isaiah 27:13 and 13:10** | — | the Hebrew behind the trumpet and the moon-clause | **PRIMARY** *(when obtained)* | ❌ **RETRIEVED BUT UNUSABLE — returned WORD-ORDER SCRAMBLED.** **RECORDED AS A RETRIEVAL FAULT, NOT AS A TEXTUAL CLAIM, and NOT quoted anywhere in the stage.** *(Same discipline as the RVA-2015 truncation, S16.)* Re-retrieve from Sefaria's API | — |
+| **S30** | ❌ **Critical apparatus for Matthew 24:36 (οὐδὲ ὁ υἱός)** | **Matthew 24:36** | which witnesses include or omit *"nor the Son"* | **PRIMARY** *(when obtained)* | ❌ **REPORTED, NOT VERIFIED — no manuscript sigla obtained, NA28/UBS5 not consulted.** Firmly attested at Mark 13:32; presence at Matthew 24:36 is disputed. **Extends the S12 apparatus debt beyond Revelation (q249)** | — |
+| **S31** | ⚠️ **Exhaustive concordance for περὶ δέ in Matthew, and for συντέλεια τοῦ αἰῶνος across all four Gospels** | **TBD** | whether 24:36's **περὶ δέ** is rare enough in Matthew to carry structural weight; whether **συντέλεια τοῦ αἰῶνος** is genuinely Matthew-only | **reference tool** *(when obtained)* | ⚠️ **PARTIAL. περὶ δέ: spot-checks only (14:1, 19:3, 22:15, 25:1 — none use it). συντέλεια: Mark 13 and Luke 21 only.** ❗ **THE FIRST OF THESE UNDERWRITES FALSIFICATION CONDITION (2) OF THIS STAGE'S OWN PROMOTION AND MUST NOT BE LEFT PARTIAL (q248, q249)** | 2026-08-23 *(partial)* |
+
+> ### ❗ **STAGE 48½ IS THE FIRST STAGE THAT *PAID DOWN* MORE EXTERNAL DEBT THAN IT ADDED.** The LXX block (S19) that Stage 48 declared load-bearing is now largely closed by S25.
+>
+> ### ⚠️ **BUT TWO NEW DEBTS ARE LOAD-BEARING AND MUST NOT BE ALLOWED TO AGE QUIETLY: S27 (Theodotion, because it destabilizes a claim the archive ALREADY HOLDS) and S31's περὶ δέ search (because it underwrites this stage's OWN promotion's second falsification condition).**
+>
+> ### 📌 **AND A STANDING CAUTION FROM S25: A SINGLE LXX EDITION IS NOT "THE SEPTUAGINT." Swete, Rahlfs and the Göttingen editions differ, and every word-level claim in Stage 48½ currently rests on ONE edition tree.**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**

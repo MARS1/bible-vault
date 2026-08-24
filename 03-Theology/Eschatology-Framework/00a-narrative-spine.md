@@ -97,7 +97,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **46½** | **🌊 The Sea Audit — *thalassa* in Revelation** *(methodology correction)* | **[[02l-the-sea-audit-thalassa-in-revelation]]** |
 | **47** | **🔑🔑🔑 First Resurrection Synthesis — THE GATE** | **[[02m-first-resurrection-synthesis]]** |
 | **48** | **🔑🔑 THE GATHERING IDENTITY AUDIT — the bridge weakened where it was needed most** | **[[02n-the-gathering-identity-audit]]** |
-| **48½** | *(next)* **🔬 Matthew 24:29–34 Under the Greek and Tanakh Microscope** | — |
+| **48½** | **🔬🔑🔑 Matthew 24:29–34 Under the Greek and Tanakh Microscope — THE DATE HELD** | **[[02o-matthew-24-under-the-microscope]]** |
+| **49** | *(next)* **🔑 What Does "Caught Up to Meet the Lord" Actually Mean?** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -1960,7 +1961,78 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
+## Stage 48½ — 🔬🔑🔑 Matthew 24:29–34 Under the Microscope: THE DATE HELD, THE EVENT DID NOT FOLLOW *(current)*
+
+**File:** [[02o-matthew-24-under-the-microscope]] · **✅ THE LXX DEBT (q231) IS SUBSTANTIALLY DISCHARGED — Isaiah 13:9–13, 27:12–13, 34:4 · Zechariah 12:10–14 · Deuteronomy 30:3–4 · Daniel 7:13–14 (OLD GREEK), all VERIFIED IN GREEK.**
+
+> ### ⚠️⚠️ **TWO CORRECTIONS FIRST, ONE IN EACH DIRECTION — AND THEY ARE THE SAME ERROR CLASS, TWELVE HOURS APART.**
+>
+> ### 🛑 **AGAINST US: Stage 48's checkpoint said the project had adopted *"correspondence-without-identity."* ❌ IT HAD NOT. The FILES said *"identity NOT ESTABLISHED"* — restraint. The SUMMARY said *"non-identity adopted"* — a verdict. **ADR-0010's OWN CLAUSE NAMES IT: "UNVERIFIED" MUST NOT BECOME "FALSE."** RESTORED: **Matthew 24:31 ⟷ Pauline complex = STRONG CORRESPONDENCE, IDENTITY OPEN, to be TESTED rather than adopted or rejected.** Two further formulations corrected: *"Paul supplies structure without chronology"* (❌ too absolute — Paul supplies substantial RELATIVE chronology; what he lacks is ABSOLUTE anchoring) and *"no anchor in time"* (❌ conflated (a) with (b) — **MATTHEW REMAINS THE ANCHOR; what was refused was USING it before the rope was shown**).**
+>
+> ### 🛑 **AGAINST THE TRANCHE: §23's table said *"parousia context"* — accurate. §24 hardened it into *"that lexical pair."* ❌ **THERE IS NO SUCH PAIR IN MATTHEW.** ✅ παρουσία = 24:3, 24:27, 24:37, 24:39 — **NONE in 24:29–36.** ✅ ἐπισυνάγω = 24:31. **THEY NEVER MEET.** CORRECTED FORMULATION RECORDED: **ἐπισυνάγω = LEXICAL · παρουσία = BROADER-DISCOURSE/CONTEXTUAL · the two combined at 24:31 = NOT LEXICAL · ✅ 2 Thess 2:1 is where the pair ACTUALLY exists.**
+>
+> ### ⚠️ **AND A PREMATURE PROMOTION BY US, WITHDRAWN: Stage 48 said Isaiah 27:13 *"may decide the stage."* ❌ One intertext does not decide it alone. Once weighed against Matthew's own usage, Matthew 13, Daniel 7, Deuteronomy 30 and Zechariah 12, **IT DIVIDED RATHER THAN DECIDED.**
+
+**🔑🔑 THE COSMIC-LANGUAGE BRAKE IS NO LONGER ARGUED IN ENGLISH — IT IS VERIFIED IN GREEK. ✅ Matthew 24:29's ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς is LXX Isaiah 13:10's ἡ σελήνη οὐ δώσει τὸ φῶς αὐτῆς with ONE NOUN CHANGED · ✅ σκοτισθήσεται is Isaiah 13:10's verb · ✅ αἱ δυνάμεις τῶν οὐρανῶν is Isaiah 34:4's EXACT PHRASE · ✅ πίπτω for the stars from Isaiah 34:4. ⚠️ Only σαλευθήσονται diverges (Isaiah 13:13 has σεισθήσεται).** **❗❗ AND *WHICH ORACLES THESE ARE* IS THE POINT: ISAIAH 13 IS AGAINST BABYLON, ISAIAH 34 AGAINST EDOM — JUDGMENTS ON IDENTIFIABLE HISTORICAL PEOPLES, IN DE-CREATION LANGUAGE. THE IMAGERY DEMONSTRABLY *CAN* CARRY COVENANTAL-HISTORICAL JUDGMENT (q241).**
+
+**🔑 ZECHARIAH 12 CONSTRAINS γῆ AT 24:30: ✅ κόψονται is IDENTICAL in LXX Zech 12:10 and Matt 24:30 · ✅ Zech 12:12 puts ἡ γῆ and φυλάς in one clause — and Zechariah ENUMERATES the φυλαί: house of David, Nathan, Levi, Shimei — ISRAELITE FAMILIES, and ἡ γῆ is THE LAND. "ALL THE TRIBES OF THE LAND" IS NOW A STRONG LIVE READING. 🛑 Intertextual Priority constrains; context still governs (q242).** **❗ Subtlety: MT reads מִשְׁפָּחוֹת (FAMILIES), not tribes — φυλάς is the LXX's own choice.** **⚠️ And Matthew does NOT follow LXX Zechariah's seeing-verb: Matthew has ὄψονται (ὁράω), Zechariah ἐπιβλέψονται (βλέπω) — DIFFERENT ROOTS.**
+
+**★ THE HINGE SPLIT. ✅ LXX Isaiah 27:13's σάλπιγγι τῇ μεγάλῃ IS a VERBAL MATCH for Matthew's σάλπιγγος μεγάλης. ❌ BUT Isaiah 27:13's gathering word is ἥξουσιν ("they will come") and 27:12's is συναγάγετε — the SIMPLE verb, an IMPERATIVE to "you." **ἐπισυνάγω DOES NOT OCCUR IN ISAIAH 27.** ✅ AND DEUTERONOMY 30:3–4 USES ΣΥΝΑΓΩ TOO, while its ἀπ' ἄκρου τοῦ οὐρανοῦ ἕως ἄκρου τοῦ οὐρανοῦ IS a strong parallel to Matthew's scope phrase.** **❗❗ MATTHEW TOOK THE *PHRASES* FROM THE RESTORATION TEXTS AND NOT THE GATHERING *VERB* — consistent across two independent lanes, and with Stage 48's finding that his only other ἐπισυνάγω is 23:37 over Jerusalem. THE COMPOUND VERB IS MATTHEAN (q243). ⚠️ Two LXX texts is not a survey; lexical authority owed.**
+
+> ### 🛑 **DANIEL 7:13 DESTABILIZED SOMETHING WE ALREADY HOLD. ✅ The Greek has ΕΠΙ τῶν νεφελῶν — MATTHEW'S PREPOSITION — where the Aramaic has עִם ("with"). MATTHEW TRACKS THE GREEK.** **❗ BUT THE SECOND CLAUSE: Aramaic/ESV give "he came TO the Ancient of Days and was PRESENTED before him"; this Greek gives ✅ "and AS AN ANCIENT OF DAYS WAS PRESENT" (ὡς παλαιὸς ἡμερῶν παρῆν). MATERIALLY DIFFERENT — and the ὡς is the tell identifying it as the OLD GREEK.** **q180 (the son of man is presented before the throne, not descending) RESTS ON THE ARAMAIC; THE OLD GREEK DOES NOT CLEARLY SAY IT. A retrieval agent asserted it did — REJECTED.** **❌ THEODOTION NOT RETRIEVED, AND IT IS NOW LOAD-BEARING: WHICH GREEK DANIEL MATTHEW TRACKS IS THE QUESTION (q246).**
+
+**⚖️ MATTHEW 13 SPLIT THE TRANCHE'S ARGUMENT IN HALF. ✅ 13:41's angels gather πάντα τὰ σκάνδαλα καὶ τοὺς ποιοῦντας τὴν ἀνομίαν — THE WICKED — into the furnace, with ΣΥΛΛΕΞΟΥΣΙΝ. ✅ 24:31's gather τοὺς ἐκλεκτοὺς αὐτοῦ — THE ELECT — with ΕΠΙΣΥΝΑΞΟΥΣΙΝ. ✅ AND MATTHEW 13 NEVER GATHERS THE RIGHTEOUS AT ALL — at 13:43 they SHINE.** **✅ §14 STRENGTHENS (Matthew genuinely HAS an end-of-age angelic gathering category; "angels = human evangelists" stays weak, Stage 11 §7 NOT reopened). ❌ §15 WEAKENS ("very strong intra-Matthean correspondence" overstates — sending clause near-verbatim, VERB DIFFERENT, OBJECT OPPOSITE).** **❗ And the age-link is thinner than assumed: ✅ συντέλεια τοῦ αἰῶνος occurs 5× (13:39, 13:40, 13:49, 24:3, 28:20) — **AT 24:3 IT IS IN THE DISCIPLES' QUESTION AND YESHUA NEVER REPEATS IT IN THE DISCOURSE** (q248).**
+
+> ### 🔑🔑🔑 **THE STRONGEST EVIDENCE IN THE STAGE IS MATTHEW 23:36, AND IT IS FOR THE FIRST-CENTURY READING.**
+>
+> ### ✅ **23:36 — ἈΜΗΝ ΛΕΓΩ ΥΜΙΝ, ΠΑΝΤΑ ΤΑΥΤΑ ἥξει ἐπὶ ΤΗΝ ΓΕΝΕΑΝ ΤΑΥΤΗΝ** ⟷ ✅ **24:34 — ἈΜΗΝ ΛΕΓΩ ΥΜΙΝ ὅτι οὐ μὴ παρέλθῃ Η ΓΕΝΕΑ ΑΥΤΗ ἕως ἂν ΠΑΝΤΑ ΤΑΥΤΑ γένηται.**
+>
+> ### **THREE SHARED ELEMENTS, ONE CHAPTER APART — AND AT 23:36 THE REFERENT IS BEYOND DISPUTE: the scribes and Pharisees on whom comes all the righteous blood from Abel to Zechariah.**
+>
+> ### ★ **AND THE PRECISE FINDING, SHARPER THAN THE TRANCHE OR THE RETRIEVAL STATED: IN MATTHEW, γενεά + A DEMONSTRATIVE DENOTES A CONTEMPORARY BODY IN *EVERY* DETERMINABLE INSTANCE — 11:16, 12:41, 12:42, 12:45, 23:36. ✅ MATTHEW 1:17's GENEALOGICAL USE CARRIES *NO DEMONSTRATIVE*.**
+>
+> ### ⚠️ **HONEST COUNTERWEIGHT: 1:17 uses γενεά 4× in a descent-counting sense, so the range genuinely exceeds "contemporaries." ❗ BUT A RETRIEVAL AGENT INFERRED THAT THIS EASES THE "RACE/PEOPLE" READING OF 24:34 — ❌ NON SEQUITUR. GENEALOGICAL-COUNTING-UNIT IS NOT ETHNIC-RACE. **THE "RACE/PEOPLE" SENSE IS NOT DEMONSTRATED ANYWHERE IN MATTHEW** (q251).**
+
+**📐 PROMOTED: ✅ MATTHEW 24:29–31 SITS INSIDE MATTHEW'S FIRST-CENTURY "THIS GENERATION" HORIZON — CONFIDENCE HIGH. Established WITHOUT importing Revelation, WITHOUT importing Paul, WITHOUT assuming preterism — internal to Matthew plus the LXX he quotes.** **🛑 AND ITS FOUR FALSIFICATION CONDITIONS SHIP WITH IT, because this is the conclusion the project most wants: (1) πάντα ταῦτα shown to EXCLUDE 29–31 — burden on exclusion, not yet formally discharged by anyone including us; (2) ❗ **24:36's περὶ δέ as a discourse boundary — THE STRONGEST OUTSTANDING COUNTER-ARGUMENT, WHICH THE TRANCHE DID NOT ENGAGE AT ALL AND WHICH OUR OWN SEARCH DID NOT EXHAUST (q249)**; (3) an unretrieved γενεά occurrence breaking the demonstrative pattern; (4) a lexical authority establishing a first-century "race/people" sense for ἡ γενεὰ αὕτη.**
+
+> ### ❗❗ **AND WHAT THE PROMOTION DOES *NOT* DO — THE WHOLE POINT OF SEPARATING (a) FROM (b): IT ESTABLISHES *WHEN MATTHEW PLACES MATTHEW'S GATHERING*. IT ESTABLISHES NOTHING ABOUT WHETHER THAT GATHERING IS PAUL'S RESURRECTION. ✅ MATTHEW 24:29–31 STILL CONTAINS NO RESURRECTION VOCABULARY. A FIRST-CENTURY GATHERING WITH NO RESURRECTION LANGUAGE IN IT DOES NOT DATE A RESURRECTION.**
+
+**🆕 INTERTEXTUAL EXPANSION RULE ADOPTED — with TWO leashes: ANTI-RESCUE (if a reading needs "it is both" to survive its worst datum, it is a FAILING candidate, not a layered one) and IT MAY NOT RUN INTERTEXTUAL PRIORITY BACKWARDS (Paul may ELABORATE Matthew; Paul is NEVER evidence for what Matthew MEANT — the expansion runs FORWARD only).**
+
+**❌❌ AN EVAL CASE: A RETRIEVAL AGENT PLACED ἥξουσιν INSIDE MATTHEW 24:31 — A WORD THAT IS NOT THERE — AND GRADED IT A VERBAL MATCH, INSIDE A TABLE WHOSE OTHER ROWS WERE GENUINE. CAUGHT ONLY BY READING THE TABLE AGAINST THE VERSE. Two further mislabels from other lanes: συνάγω graded "VERBAL IDENTICAL" to ἐπισυνάγω; ἐπιβλέπω graded "same root" as ὁράω. **THE *DELEGATED RETRIEVAL IS NOT JUDGEMENT* RULE, WRITTEN ONE STAGE EARLIER, PAID FOR ITSELF IMMEDIATELY (q247).**
+
+**🧮 SOURCE-TEXT DIVERGENCE TALLY 2 → 3: ✅ LXX Zechariah 12:10 reads ἀνθ' ὧν ΚΑΤΩΡΧΗΣΑΝΤΟ ("because they MOCKED") where MT reads דָּקָרוּ ("they PIERCED"). An agent smoothed this into "the same theological event" — ❌ REJECTED (q245).**
+
+**🔑 AND A DATUM FROM AN UNRELATED RETRIEVAL: ✅ LXX Isaiah 13:9, 13:11 use ΟΙΚΟΥΜΕΝΗ inside an oracle against BABYLON — so οἰκουμένη in prophetic judgment language demonstrably does NOT require every geographical location on the earth. Directly relevant to Matthew 24:14 (q68) and Stage 25's Equivalent-Scope Burden (q244).**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"So I have a date I did not have this morning, and I still do not have the event. Matthew tells me when Matthew's gathering happens. He does not tell me it is the moment the dead in Messiah rise."***
+
+---
+
 ## Next Stage (not yet written)
+
+### **STAGE 49 — 🔑 WHAT DOES "CAUGHT UP TO MEET THE LORD" ACTUALLY MEAN?**
+
+> ### 🛑 **THE QUESTION IS DELIBERATELY *NOT* "DID A RAPTURE HAPPEN?" — that word imports a system rather than naming a text.**
+>
+> ### **IT IS: *WHAT EVENT DID PAUL ACTUALLY DESCRIBE, WHAT HAPPENS TO THE DEAD AND THE LIVING RESPECTIVELY, AND WHAT DOES HIS GREEK REQUIRE US TO EXPECT AFTERWARD?***
+
+**Audit surgically: ✅ ἁρπάζω · ✅ ἀπάντησις · ✅ εἰς ἀέρα · ✅ νεφέλαι · ✅ πάντοτε σὺν κυρίῳ — then compare 1 Thessalonians 4 · 1 Corinthians 15 · Matthew 24 · Acts 1 · Daniel 7, and ONLY THEN Revelation 20.**
+
+> ### **WHY THIS ORDER: WE FIRST DETERMINE WHAT *KIND* OF EVENT PAUL DESCRIBES, SO THAT WE KNOW WHAT WOULD EVEN *COUNT* AS HISTORICAL EVIDENCE. SEARCHING JOSEPHUS BEFORE THAT IS SEARCHING FOR SOMETHING WE HAVE NOT DEFINED.**
+
+**⚠️ THREE BRAKES TRAVEL WITH IT:**
+- **THE RAPTURE-SYSTEM BRAKE — *harpazō* is a real word and "rapture" derives from its Latin rendering, so the TERM is not illegitimate. But SECRECY · INVISIBILITY · A FIXED HEAVENLY STAY · A SEVEN-YEAR CHRONOLOGY are propositions LATER SYSTEMS ADD. None follows from the verb.**
+- **"ONE TAKEN, ONE LEFT" STAYS OUTSIDE THE PROOF CHAIN — different verb, and the Noah/Lot context still leaves open whether the "taken" one is RESCUED or JUDGED (Side Branch 30½).**
+- **THE SUPERNATURAL-POSSIBILITY BRAKE (Stage 47) governs the historical question when it finally arrives — and it cuts BOTH ways: *supernatural → nobody would record it* makes the theory unfalsifiable; *no Roman historian mentions it → impossible* ignores what records would plausibly survive. THE QUESTION IS HOW SURPRISING THE SILENCE IS *GIVEN THE EVENT AS THE TEXT DESCRIBES IT*.**
+
+**❗ AND THE DEBT TO DISCHARGE HERE: THEODOTION DANIEL 7:13–14 (q246), since Daniel 7 is on this stage's own comparison list.**
+
+**📌 ANTICIPATED AFTER: STAGE 50 — 2 THESSALONIANS 2, because ✅ 2 Thess 2:1 is the ONE PLACE Paul HIMSELF joins παρουσία and ἐπισυναγωγή, and 2:3–8's rebellion · man of lawlessness · temple · restrainer may supply internal chronological markers BEFORE any external history is consulted. ⚠️ AND IT IS A GENUINE TEST: IF 2 THESSALONIANS PUSHES THE GATHERING BEYOND THE FIRST-CENTURY HORIZON, THE HYPOTHESIS TAKES A REAL HIT.**
+
+---
+
+## Superseded — Previous "Next Stage" Entry (48 → 48½), Preserved
 
 ### **STAGE 48½ — 🔬 MATTHEW 24:29–34 UNDER THE GREEK AND TANAKH MICROSCOPE**
 

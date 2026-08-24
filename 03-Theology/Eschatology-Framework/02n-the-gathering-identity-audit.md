@@ -378,8 +378,15 @@ Isaiah 27:12–13's great trumpet and gathering · Isaiah 13:10 · Daniel 7:13�
 > ### ❗❗ **THE CHAIN THE HYPOTHESIS NEEDS — Matthew 24 gathering = 1 Thessalonians 4 gathering = 1 Corinthians 15 transformation = Revelation 20 first resurrection — DID NOT SURVIVE THIS STAGE INTACT.**
 >
 > ### **THE PAULINE HALF HELD AND EVEN STRENGTHENED. THE MATTHEAN LINK — WHICH IS THE ONLY ONE CARRYING A FIRST-CENTURY DATE — WEAKENED ON THREE INDEPENDENT COUNTS.**
+
+> ### ⚠️⚠️ **CORRECTED 2026-08-23 AT STAGE 48½ — THIS SECTION ORIGINALLY CONTINUED: *"MATTHEW IS THE BRIDGE TO HISTORY. WITHOUT IT, 1 THESSALONIANS AND 1 CORINTHIANS SUPPLY STRUCTURE WITH NO DATE."* **THAT CONFLATED TWO QUESTIONS THAT MUST STAY APART:**
 >
-> ### 🛑 **AND THAT IS THE WHOLE PROBLEM, STATED PLAINLY: MATTHEW IS THE BRIDGE TO HISTORY. WITHOUT IT, 1 THESSALONIANS AND 1 CORINTHIANS SUPPLY *STRUCTURE* WITH NO *DATE*.**
+> ### **(a) IS MATTHEW 24:29–31 INSIDE MATTHEW'S FIRST-CENTURY HORIZON? — ⬆️ Stage 48½ PROMOTED THIS TO HIGH.**
+> ### **(b) IS MATTHEW'S GATHERING IDENTICAL TO PAUL'S RESURRECTION COMPLEX? — OPEN.**
+>
+> ### **THIS STAGE WEAKENED (b). IT NEVER TOUCHED (a). ❗ MATTHEW REMAINS THE POTENTIAL HISTORICAL ANCHOR — WHAT WAS REFUSED WAS *USING* THAT ANCHOR FOR PAUL'S RESURRECTION BEFORE SHOWING THE ROPE CONNECTS THE TWO. THAT IS METHODOLOGICAL PROGRESS, NOT LOSS OF THE ANCHOR.**
+>
+> ### **AND *"PAUL SUPPLIES STRUCTURE WITH NO DATE"* IS ALSO TOO ABSOLUTE: PAUL SUPPLIES SUBSTANTIAL *RELATIVE* CHRONOLOGY (τάγματι · ἔπειτα · εἶτα · ἄχρι · ἔσχατος ἐχθρός · πρῶτον). **WHAT PAUL LACKS IS *ABSOLUTE HISTORICAL ANCHORING*.** See [[02o-matthew-24-under-the-microscope]] §0.**
 
 ---
 
@@ -412,7 +419,9 @@ Isaiah 27:12–13's great trumpet and gathering · Isaiah 13:10 · Daniel 7:13�
 >
 > **And John is still sitting there saying "the last day," five times from Yeshua's own mouth, once about judgment.**
 >
-> **I do not have the bridge yet. I have two-thirds of an architecture and no anchor in time.**
+> **I do not have the bridge yet. I have two-thirds of an architecture, and an anchor I have not yet earned the right to tie to it.**
+
+> ⚠️ *Last line corrected 2026-08-23 at Stage 48½. It originally read "and no anchor in time," which was wrong — **Matthew is still the anchor.** What had not been earned was the rope, not the anchor. The error is preserved here rather than silently replaced, because it is the same evidence-strength drift this project spends its time catching in others.*
 
 ---
 
