@@ -98,7 +98,10 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **47** | **🔑🔑🔑 First Resurrection Synthesis — THE GATE** | **[[02m-first-resurrection-synthesis]]** |
 | **48** | **🔑🔑 THE GATHERING IDENTITY AUDIT — the bridge weakened where it was needed most** | **[[02n-the-gathering-identity-audit]]** |
 | **48½** | **🔬🔑🔑 Matthew 24:29–34 Under the Greek and Tanakh Microscope — THE DATE HELD** | **[[02o-matthew-24-under-the-microscope]]** |
-| **49** | *(next)* **🔑 What Does "Caught Up to Meet the Lord" Actually Mean?** | — |
+| **49** | **🔑🔑 What Does "Caught Up to Meet the Lord" Actually Mean?** | **[[02p-caught-up-to-meet-the-lord]]** |
+| **50** | **🔑🔑 2 Thessalonians 2 — The *Parousia*, Our Gathering, and the Lawless One** | **[[02q-2-thessalonians-2-parousia-gathering-lawless-one]]** |
+| **50½** | *(queued, NOT ingested)* **🏛️ What Temple Did Paul Mean?** — blocked on q265 | — |
+| **51** | *(queued, NOT ingested)* **📜 Daniel → Antiochus → Yeshua → Paul: Does the Abomination Pattern Repeat?** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2009,7 +2012,73 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 
 ---
 
-## Next Stage (not yet written)
+## Stage 49 — 🔑🔑 What Does "Caught Up to Meet the Lord" Actually Mean?
+
+**File:** [[02p-caught-up-to-meet-the-lord]] · **✅ VERIFIED SBLGNT+ESV: 1 Thess 4:16–18 · Acts 1:9–11 · Acts 8:39–40 · Acts 23:10 · Acts 28:11–16 · Matt 8:34 · Matt 25:1–13 · John 12:13 · John 6:15 · John 10:12, 28–29 · Matt 11:12 · Matt 13:19 · 2 Cor 12:2 · Eph 2:2 · Jude 23 · Rev 1:7 · Rev 9:2 · Rev 12:5 · Rev 16:17 · 1 Cor 9:26 · 1 Cor 14:9 · Acts 22:23 · Phil 2:6.**
+
+> ### 🔑🔑 **ἁρπάζω DOES NOT ENCODE A HEAVENLY DESTINATION, AND ONE VERSE SETTLES IT. ✅ Acts 8:39 — πνεῦμα κυρίου ἥρπασεν τὸν Φίλιππον → ✅ 8:40 — Φίλιππος δὲ εὑρέθη εἰς ΑΖΩΤΟΝ. SAME VERB, AND PHILIP LANDS IN AN ORDINARY TOWN OF JUDEA AND WALKS ON TO CAESAREA.** Against ✅ Rev 12:5's **πρὸς τὸν θεὸν καὶ πρὸς τὸν θρόνον αὐτοῦ** and ✅ 2 Cor 12:2's **ἕως τρίτου οὐρανοῦ**. **TWELVE simplex occurrences: FIVE state a destination, SEVEN do not. THE DESTINATION COMES FROM CONTEXT EVERY TIME.**
+>
+> ### 🆕 **RAPTURE-SYSTEM BRAKE — the term is legitimate ("rapture" derives from the Latin of ἁρπάζω) but SECRECY · INVISIBILITY · A FIXED HEAVENLY STAY · A SEVEN-YEAR CHRONOLOGY are LATER ADDITIONS. Each tested against the occurrences; EACH ANSWERED NO.**
+
+**🔑 ἀπάντησις CARRIES NO ESCORT SENSE — the escort is in the NARRATIVE, never the noun. ✅ Matt 25:6's meeting is real, but the return is ✅ 25:10's ΕΙΣΗΛΘΟΝ ΜΕΤ' ΑΥΤΟΥ ΕΙΣ ΤΟΥΣ ΓΑΜΟΥΣ — a DIFFERENT VERSE with a DIFFERENT VERB. ✅ Acts 28:15's greeters come out and THE TEXT NEVER SAYS THEY WENT BACK IN. ✅ AND 1 THESS 4:17 STATES NO DIRECTION OF MOVEMENT AFTER THE MEETING AT ALL — no καταβησόμεθα, no ἀναβησόμεθα. The next clause is RELATIONAL: πάντοτε σὺν κυρίῳ.** **❗❗ BOTH POPULAR MODELS ADD A MOVEMENT PAUL DID NOT WRITE.**
+
+> ### ★ **AND THE COUNTEREXAMPLE THE RETRIEVAL FOUND BUT DID NOT PRESS: ✅ Matthew 8:34 — πᾶσα ἡ πόλις ἐξῆλθεν εἰς ὑπάντησιν τῷ Ἰησοῦ — AND THE CITY THEN ASKS HIM TO LEAVE. GOING OUT TO MEET SOMEONE DOES NOT EVEN ENTAIL WELCOME, LET ALONE ESCORT (q255).** **📌 ✅ Matt 25:1 reads ὑπάντησις while 25:6 reads ἀπάντησις — TWO WORDS IN ONE PARABLE; sigla for the variant NOT retrieved (q258).** **🛑 The civic-reception argument (Peterson 1930) is REPORTED, NOT VERIFIED — no primary papyri consulted (q259).**
+
+**❗ TWO SPATIAL FINDINGS: ✅ Paul uses DIFFERENT WORDS one verse apart — 4:16 καταβήσεται ἀπ' ΟΥΡΑΝΟΥ, 4:17 εἰς ΑΕΡΑ. AND ✅ Ephesians 2:2 makes ἀήρ the domain of τὸν ἄρχοντα τῆς ἐξουσίας. 🛑 THE SYNTHESIS IS REFUSED — one verse, different letter, different subject, and the ἀήρ inventory is PROVISIONAL because a direct Greek search failed (q257).**
+
+> ### 🛑 **ACTS 1:11 SPECIFIES MANNER AND NOTHING ELSE. ✅ ὃν τρόπον ἐθεάσασθε αὐτὸν πορευόμενον εἰς τὸν οὐρανόν — NOT location, NOT visibility, NOT audience, NOT timing. IT MAY NOT BE MERGED WITH REVELATION 1:7's "every eye will see him" (q260).**
+>
+> ### ✅ **AND THE CLOUD PASSAGES DO NOT FLATTEN — FOUR PREPOSITIONS, THREE SUBJECTS: Acts 1:9 THE CLOUD is the subject (ὑπέλαβεν αὐτόν) · Matt 24:30 Messiah ΕΠΙ them · 1 Thess 4:17 BELIEVERS ΕΝ them · Rev 1:7 Messiah ΜΕΤΑ them · Daniel 7:13 Aramaic ΕΙΜ, Old Greek ΕΠΙ.**
+
+**🔑🔑 AND REVELATION 1:7 CLOSED q245 — A QUESTION OPENED ONE STAGE EARLIER. ✅ Ἰδοὺ ἔρχεται μετὰ τῶν νεφελῶν, καὶ ΟΨΕΤΑΙ αὐτὸν πᾶς ὀφθαλμὸς καὶ οἵτινες αὐτὸν ΕΞΕΚΕΝΤΗΣΑΝ, καὶ ΚΟΨΟΝΤΑΙ ἐπ' αὐτὸν ΠΑΣΑΙ ΑΙ ΦΥΛΑΙ ΤΗΣ ΓΗΣ.** **THREE FINDINGS: (1) ἐξεκέντησαν is the HEBREW reading ("pierced"), NOT the LXX's κατωρχήσαντο ("mocked") — REVELATION DOES NOT FOLLOW THE LXX HERE; (2) BOTH Matthew and John use ὁράω where LXX Zechariah uses ἐπιβλέπω, WHICH EXPLAINS WHY MATTHEW'S SEEING-VERB NEVER MATCHED — the NT tradition here isn't following the LXX at all; (3) Rev 1:7 and Matt 24:30 share κόψονται πᾶσαι αἱ φυλαὶ τῆς γῆς NEAR-VERBATIM.** **⚠️ IT ESTABLISHES A SHARED NON-LXX TEXTUAL TRADITION AND A SHARED DANIEL-7-PLUS-ZECHARIAH-12 PAIRING — NOT A SHARED EVENT (q253).**
+
+**📐 STATUS: 1 Thess 4 + 1 Cor 15 as complementary dimensions of one event — STRONGLY SUPPORTED. Pauline complex ⟷ Rev 20 first resurrection — ⬆️ VERY STRONG CORRESPONDENCE, identity NOT closed. Pauline complex ⟷ Matthew 24 gathering — STRONG, IDENTITY OPEN (✅ Matthew still contains no resurrection vocabulary).**
+
+**⚠️ AND TWO CORRECTIONS TO THIS STAGE'S OWN RETRIEVAL: a lane MISCOUNTED Luke 8:29's συνηρπάκει (a DIFFERENT compound verb, συναρπάζω) into the simplex inventory — corrected to TWELVE, with συναρπάζω recorded as UNAUDITED (q256) · and it quoted the WRONG CLAUSE for 2 Corinthians 12:4, so that occurrence is NOT VERIFIED BY THIS STAGE despite almost certainly existing.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"The Thessalonians were not asking where they would live. They were grieving people who had died."***
+
+---
+
+## Stage 50 — 🔑🔑 2 Thessalonians 2: The *Parousia*, Our Gathering, and the Lawless One *(current)*
+
+**File:** [[02q-2-thessalonians-2-parousia-gathering-lawless-one]] · **✅ VERIFIED SBLGNT: 2 Thessalonians 2:1–12 in full · John 17:12.**
+
+> ### ✅ **THE LEXICAL PAIR EXISTS HERE — AND BOTH FACTS STAND TOGETHER. ✅ 2:1 — ὑπὲρ τῆς ΠΑΡΟΥΣΙΑΣ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ ἡμῶν ΕΠΙΣΥΝΑΓΩΓΗΣ ἐπ' αὐτόν — two genitives joined by καί under one ὑπέρ. **AND IT IS GENUINELY NOT IN MATTHEW 24:31**, where παρουσία is absent from the whole pericope (24:3, 27, 37, 39 only).**
+>
+> ### 📌 **THE EVIDENCE-CATEGORIES PRESERVED VERBATIM SO THEY CANNOT DRIFT AGAIN: ἐπισυνάγω = LEXICAL · παρουσία = BROADER-DISCOURSE/CONTEXTUAL · the two COMBINED at Matt 24:31 = NOT LEXICAL · 2 Thess 2:1 = where the pair ACTUALLY exists.**
+
+**✅ PAUL'S SEQUENCE, VERIFIED: ἐνέστηκεν (2:2) · ἡ ἀποστασία ΠΡΩΤΟΝ (2:3) · ὁ ἄνθρωπος τῆς ΑΝΟΜΙΑΣ *(SBLGNT reading; the ἁμαρτίας variant REPORTED, no apparatus)* · ὁ υἱὸς τῆς ἀπωλείας · εἰς ΤΟΝ ΝΑΟΝ ΤΟΥ ΘΕΟΥ ΚΑΘΙΣΑΙ (2:4) · prior ORAL teaching (2:5) · ΤΟ ΚΑΤΕΧΟΝ (2:6) → Ο ΚΑΤΕΧΩΝ (2:7) · τὸ μυστήριον ΗΔΗ ΕΝΕΡΓΕΙΤΑΙ (2:7) · ΕΠΙΦΑΝΕΙΑ ΤΗΣ ΠΑΡΟΥΣΙΑΣ (2:8).** **❗ THIS RETIRES "PAUL SUPPLIES STRUCTURE WITHOUT CHRONOLOGY" FOR GOOD — HE SUPPLIES SUBSTANTIAL *RELATIVE* CHRONOLOGY; WHAT HE LACKS IS *ABSOLUTE ANCHORING*.**
+
+> ### ★★ **THREE FINDINGS THE TRANCHE DID NOT CATCH:**
+>
+> ### **1. THERE IS NO VERB OF REMOVAL AT 2:7. ✅ ἕως ΕΚ ΜΕΣΟΥ ΓΕΝΗΤΑΙ — γένηται is from γίνομαι, "come to be." NOT a passive of αἴρω or λαμβάνω. "Until he comes to be out of the midst." THE SYSTEMS SPEAKING OF THE RESTRAINER BEING *TAKEN AWAY* IMPORT A VERB PAUL DID NOT WRITE. ⚠️ And the brake runs both ways: it states a CHANGE OF POSITION, not that nothing is removed (q262).**
+>
+> ### **2. καταργέω IS SHARED WITH 1 CORINTHIANS 15:26 — AND THE TENSES DIFFER: ✅ 15:26 ΚΑΤΑΡΓΕΙΤΑΙ (PRESENT) of DEATH · ✅ 2:8 ΚΑΤΑΡΓΗΣΕΙ (FUTURE) of THE LAWLESS ONE. Paul demonstrably HAD the future available. 🛑 STILL AN OBSERVATION — grammar authority owed (q263).**
+>
+> ### **3. THE ἐνεργ- ROOT RUNS THREE TIMES: ✅ 2:7 ἐνεργεῖται (the mystery) · 2:9 κατ' ἐνέργειαν τοῦ Σατανᾶ · 2:11 πέμπει… ἐνέργειαν πλάνης (and GOD is the sender). No synthesis drawn.**
+
+**✅✅ 2:9 IS DECISIVE FOR THE PROJECT'S LEXICAL DISCIPLINE: οὗ ἐστιν Η ΠΑΡΟΥΣΙΑ κατ' ἐνέργειαν τοῦ Σατανᾶ — **παρουσία IS USED OF THE LAWLESS ONE.** IT IS NOT A TITLE RESERVED FOR MESSIAH; IT MEANS PRESENCE/ARRIVAL, AND CONTEXT SUPPLIES WHOSE AND WHAT KIND.** **📌 THIS RETROACTIVELY VINDICATES THE COMING-LANGUAGE CONTROL (Stage 33), built on Revelation 2:5, 2:16, 3:3 — NOW HOLDING IN PAUL FROM AN INDEPENDENT AUTHOR (q266).**
+
+> ### 🆕 **RESTRAINER RULE — A REFUSAL, NOT AN IDENTIFICATION. Any candidate must account for ALL FOUR: the NEUTER at 2:6 · the MASCULINE at 2:7 · that PAUL'S READERS ALREADY KNEW THE REFERENT (2:5–6) · and the ἐκ μέσου γένηται condition, which is a CHANGE OF POSITION not a removal. **THIS STAGE PROPOSES NO CANDIDATE. NONE (q268).**
+
+**⚠️ SECOND NO-OP IN THREE STAGES: the tranche offered "son of perdition ≠ Satan" as a closure — **SIDE BRANCH 34½ ALREADY HELD IT**, with both occurrences and Judas named. ✅ WHAT STAGE 50 GENUINELY ADDS IS THE UPGRADE FROM ESV-ONLY TO SBLGNT: ✅ John 17:12 — οὐδεὶς ἐξ αὐτῶν ἀπώλετο εἰ μὴ ὁ υἱὸς τῆς ἀπωλείας — IDENTICAL PHRASE TO 2 THESS 2:3. **RECORDED AT THAT STRENGTH, NOT HIGHER. THE CONVERSATION DRIFTED; THE WRITTEN RECORD DID NOT.**
+
+> ### 🛑🛑 **AND A WHOLE RETRIEVAL LANE FAILED — THE ναός/ἱερόν/LXX/DANIEL AUDIT RETURNED NOTHING after 12+ dead sources, writing *"I will not invent Greek text."* ✅ **RECORDED AS THIS PROJECT'S FIRST EVAL-*POSITIVE*** after three stages of eval-negatives.** **❗ BUT THE FAILURE WAS *METHOD*, NOT SOURCE: the proven Bible Gateway SBLGNT pattern had worked FIVE times, neither failing lane used it, and one recorded the source as dry after getting English back. THE 2 THESSALONIANS TEXT WAS THEN RETRIEVED FIRST TRY WITH THE KNOWN-GOOD PATTERN.** **🆕 NEW RULE FOLLOWS: A FAILED REQUEST IS NOT AN UNAVAILABLE SOURCE.**
+>
+> ### **THEREFORE THE TEMPLE QUESTION IS RECORDED AS **UNRESOLVED RESEARCH DEBT (q265), NOT A CONCLUSION.** ✅ All that is verified: 2:4 reads ναός WITH THE ARTICLE, not ἱερόν, with καθίσαι + ἀποδεικνύντα. ❌ NOT AVAILABLE IN EITHER DIRECTION: "Paul says ναὸς θεοῦ therefore Jerusalem" · "Paul calls believers ναός therefore the community." **BOTH ARE THE SAME FALLACY REVERSED.**
+>
+> ### 🆕 **FUTURE-SANCTUARY BRAKE, WRITTEN *BEFORE* THE DATA ARRIVES SO IT CANNOT BE TUNED: PAUL DOES NOT SAY "REBUILT." A future rebuilt sanctuary may not be inserted because a later chronology requires one. **AND SYMMETRICALLY: that a sanctuary stood when Paul wrote does not settle his referent — his own Corinthian usage prevents that shortcut (q267).**
+
+**🚫 PROCEDURAL LOCK — THE LAWLESS-ONE PROFILE IS BUILT AND **NOT ONE HISTORICAL CANDIDATE IS NAMED.** The order is: SCRIPTURE DEFINES THE REQUIRED CHARACTERISTICS → THEN history supplies candidates → THEN each faces the WHOLE cluster including the data it struggles with. **NEVER: pick a candidate → reinterpret Paul around him. ONE CLEVER CORRESPONDENCE IS NOT AN IDENTIFICATION.** *(Precedent: the Babylon audit produced NO WINNER and that was recorded as a result.)*
+
+**📊 FIRST GROWING CHAIN AND EVIDENCE LEDGER RENDERED UNDER ADR-0011, with all six categories including ❗ REFUSED. Nothing displayed beyond the `?` — the millennium, little season and present era REMAIN BEYOND IT.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"Every time I go to the Greek expecting to find the sentence I remember, I find a smaller and stranger one."***
+
+---
+
+## Superseded — Previous "Next Stage" Entry (48½ → 49), Preserved
 
 ### **STAGE 49 — 🔑 WHAT DOES "CAUGHT UP TO MEET THE LORD" ACTUALLY MEAN?**
 

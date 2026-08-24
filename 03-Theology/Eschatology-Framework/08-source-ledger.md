@@ -187,6 +187,30 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Stages 49–50 — the Pauline gathering vocabulary, and a lane that failed correctly
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S32** | ✅ **SBLGNT** *(Bible Gateway, PROVEN PATTERN)* | **1 Thess 4:16–18 · Acts 1:9–11 · Acts 8:39–40 · Acts 23:10 · Acts 28:11–16 · Matt 8:34 · Matt 25:1–13 · John 12:13 · John 6:15 · John 10:12, 28–29 · Matt 11:12 · Matt 13:19 · 2 Cor 12:2 · Eph 2:2 · Jude 23 · Rev 1:7 · Rev 9:2 · Rev 12:5 · Rev 16:17 · 1 Cor 9:26 · 1 Cor 14:9 · Acts 22:23 · Phil 2:6** | the ἁρπάζω inventory · the ἀπάντησις/ὑπάντησις audit · the ἀήρ inventory · the cloud comparison · **Rev 1:7's ἐξεκέντησαν and ὄψεται** | **PRIMARY** | ✅ **VERIFIED** | 2026-08-24 |
+| **S33** | ✅ **SBLGNT** *(same pattern)* | **2 Thessalonians 2:1–12 (full) · John 17:12** | every Greek claim in Stage 50: **παρουσίας + ἐπισυναγωγῆς · ἐνέστηκεν · ἀποστασία + πρῶτον · ἀνομίας · ὁ υἱὸς τῆς ἀπωλείας · τὸν ναὸν τοῦ θεοῦ + καθίσαι + ἀποδεικνύντα · τὸ κατέχον / ὁ κατέχων · ἤδη ἐνεργεῖται · ἐκ μέσου γένηται · ἀνελεῖ + καταργήσει · ἐπιφανείᾳ τῆς παρουσίας · ἡ παρουσία κατ' ἐνέργειαν τοῦ Σατανᾶ** | **PRIMARY** | ✅ **VERIFIED.** ⚠️ **CITATION-NUMBERING FAULT: the fetch labelled 2:1 as "Verse 2" — reported, not silently renumbered (Stage 43 precedent)** | 2026-08-24 |
+| **S34** | ❌❌ **THE ναός / ἱερόν / LXX / DANIEL AUDIT** | **every ναός in Paul · ἱερόν in Paul (if any) · LXX ναός and the Hebrew it renders · Daniel 8:11–13, 11:31, 11:36, 12:11 in Hebrew/Aramaic AND both Greek versions · Matthew 24:15's τὸ βδέλυγμα τῆς ἐρημώσεως vs Greek Daniel** | **THE CURRENT HINGE** — whether Paul's ναός refers to the standing sanctuary or the community | **PRIMARY** *(when obtained)* | ❌❌ **RETURNED NOTHING. 12+ sources failed** *(BibleHub, Blue Letter Bible, Katabiblon, Ellopos, Perseus, Archive.org rate-limited, Scripture4All PDF-only, Logos paywalled, two dead domains)*. ✅ **THE LANE REFUSED TO FABRICATE — *"I will not invent Greek text or claim to have retrieved what I could not access."* RECORDED AS THIS PROJECT'S FIRST EVAL-POSITIVE.** 🛑 **BUT THE FAILURE WAS *METHOD*, NOT SOURCE — the S33 pattern had worked FIVE times and was not used. RE-RUN WITH IT (q265)** | — |
+| **S35** | ❌ **Apparatus for 2 Thessalonians 2:3 (ἀνομίας / ἁμαρτίας)** | **2 Thess 2:3** | which witnesses read "lawlessness" and which read "sin" | **PRIMARY** *(when obtained)* | ❌ **REPORTED, NOT VERIFIED — SBLGNT reads ἀνομίας; no sigla, witnesses or critical apparatus obtained. Extends the S12/S30 apparatus debt** | — |
+| **S36** | ❌ **Apparatus for Matthew 25:1 (ἀπάντησις / ὑπάντησις)** | **Matt 25:1** | whether the two nouns are genuinely interchangeable in the tradition | **PRIMARY** *(when obtained)* | ❌ **REPORTED, NOT VERIFIED (q258)** | — |
+| **S37** | ⚠️ **Peterson (1930), *"Die Einholung des Kyrios"* — and the Hellenistic civic-reception argument for ἀπάντησις** | **papyri and inscriptions** | that ἀπάντησις is technical vocabulary for greeting a dignitary and escorting him into the city | **MODERN SCHOLARLY / PRIMARY papyrological** *(when obtained)* | ⚠️ **REPORTED, NOT VERIFIED — NO PRIMARY PAPYROLOGICAL SOURCE CONSULTED.** ❗ **MAY NOT BE CITED AS ESTABLISHED IN EITHER DIRECTION (q259).** 📌 The NT data alone already answers the question for this project's purposes (q255) | — |
+| **S38** | ❌ **Matthew 24:11–12 (ἀνομία)** | **Matt 24:12** | whether Matthew and 2 Thessalonians genuinely share the ἀνομία lemma | **PRIMARY** *(when obtained)* | ❌ **RETRIEVAL FAILED. The link is REPORTED, NOT VERIFIED and may not be used as a lexical bridge (q264)** | — |
+| **S39** | ❌ **Lexical authorities owed from these two stages** | **ἁρπάζω · συναρπάζω · ἀπάντησις · ὑπάντησις · ἀήρ · ἀποστασία · κατέχω · ἐκ μέσου** | the semantic-range claims underlying Stages 49–50 | **MODERN SCHOLARLY** *(when obtained)* | ❌ **NOT RETRIEVED.** ❗ **A MODEL'S GLOSS IS NOT A LEXICAL CITATION.** The occurrence inventories are legitimate concordance-type evidence for **WHERE** these words occur; they are **NOT** evidence for what they **MEAN** | — |
+| **S40** | ⚠️ **2 Corinthians 12:4 (ἡρπάγη)** | **2 Cor 12:4** | one occurrence of ἁρπάζω | **PRIMARY** | ⚠️ **NOT VERIFIED BY STAGE 49 — the retrieval quoted the WRONG CLAUSE (καὶ ἤκουσεν ἀρρήτους λόγους, which contains no form of the verb).** Almost certainly present; **recorded as a retrieval fault rather than filled in from expectation** | — |
+
+> ### ✅ **A METHOD REGISTRY, NOT JUST A PROVENANCE RECORD — the operational lesson of Stage 50:**
+>
+> ### **THE VERIFIED ENTRIES IN THIS LEDGER RECORD *WHICH RETRIEVAL PATTERNS ACTUALLY WORK*. S11, S18, S28, S32 and S33 all used the same Bible Gateway SBLGNT pattern. S34 failed after twelve attempts WITHOUT TRYING IT.**
+>
+> ### 🆕 **HENCE THE NEW METHODOLOGY RULE (v4.9): *A FAILED REQUEST IS NOT AN UNAVAILABLE SOURCE.* CONSULT THIS LEDGER FOR THE WORKING PATTERN BEFORE DECLARING A CLASS OF SOURCE UNREACHABLE.**
+>
+> ### ⚠️ **AND THE DISCIPLINE THAT MUST NOT BE WEAKENED BY IT: S34's REFUSAL TO FABRICATE REMAINS CORRECT EVEN THOUGH ITS METHOD WAS WRONG. "TRY HARDER" MAY NEVER BECOME "FILL THE GAP."**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**

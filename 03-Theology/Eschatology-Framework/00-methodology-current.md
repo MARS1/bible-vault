@@ -6,7 +6,7 @@ tags: [methodology, epistemology, exegesis, ingestion-protocol, governance]
 reference:
 created: 2026-08-12
 status: active
-version: "4.8 — 2026-08-23, current at Stage 48½ (established 1.0 at Stage 16, 2026-08-12)"
+version: "4.9 — 2026-08-24, current at Stage 50 (established 1.0 at Stage 16, 2026-08-12)"
 related: "[[00-index]], [[00a-narrative-spine]], [[00b-biblical-epistemology]]"
 ---
 
@@ -1320,6 +1320,55 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 📖 TEXT-CORPUS TERMINOLOGY — locked 2026-08-24, because it was being inverted
+
+> ### **THESE FOUR ARE ROUTINELY CONFUSED, AND THE CONFUSION CORRUPTS EVERY INTERTEXTUAL CLAIM THAT DEPENDS ON THEM.**
+
+| Term | What it is |
+|---|---|
+| **Tanakh** *(Hebrew Bible)* | the **Hebrew Scriptures** — Torah · Nevi'im · Ketuvim |
+| **LXX / Septuagint** | the ancient **GREEK TRANSLATION OF THE HEBREW SCRIPTURES**. ❗ **"LXX" is the Roman numeral 70, referring to the TRADITIONAL SEVENTY/SEVENTY-TWO TRANSLATORS — *NOT* A COUNT OF BOOKS.** ⚠️ **AND the contents of surviving Septuagint manuscript traditions VARY; the LXX may not be defined by a fixed book count.** |
+| **GNT** *(Greek New Testament)* | the **New Testament** in its Greek textual tradition |
+| **Koine Greek** | the **LANGUAGE** — the common Greek of the Hellenistic and Roman periods, in which the NT was written and which is also substantially represented in the LXX. **It is a language, not a collection.** |
+
+> ### ❗ **THEREFORE "CHECK THE LXX" NEVER MEANS THE NEW TESTAMENT.** It means: *how did the ancient Greek translation of the Tanakh use this Greek word, in the linguistic environment the NT authors inherited?*
+>
+> ### **THE BRIDGE THIS GIVES US, AND IT IS THE WHOLE POINT: HEBREW TANAKH → LXX GREEK VOCABULARY → GNT GREEK VOCABULARY.** *Worked repeatedly at Stage 48½ — Matthew's moon-clause is LXX Isaiah 13:10's with one noun changed; his "powers of the heavens" is LXX Isaiah 34:4's exact phrase.*
+
+**⚠️ AND A FURTHER DISTINCTION OWED BEFORE STAGE 51: *Tanakh* · *LXX manuscript/canonical traditions* · and *later Christian canonical collections* are THREE different things. 1–2 Maccabees sit inside some of the second and third but not the first, and are handled under the Extrabiblical Source Protocol — as a separate textual witness, never as biblical exegesis.**
+
+---
+
+## 🕊️ Faith Is Not an Interpretive Shield *(added v4.9 — ahead of the Faith Branch, which is marked and NOT opened)*
+
+> ### **"I ACCEPT SCRIPTURE BY FAITH" AND "MY INTERPRETATION OF SCRIPTURE MUST BE ACCEPTED BY FAITH" ARE TWO COMPLETELY DIFFERENT PROPOSITIONS.**
+>
+> ### **AN INTERPRETATION IS NOT SHIELDED FROM TEXTUAL EXAMINATION BY BEING HELD SINCERELY.**
+
+**Why the rule exists before the branch does:** the objection *"but these things are received by faith"* can arrive at any moment, and it is **reasonable** — it must be answered, not dismissed. **But it may not become an escape hatch whenever the evidence becomes uncomfortable.**
+
+> ### 📌 **AND IT INHERITS A PRECEDENT RATHER THAN STARTING BLANK: the *"Satan Deceives" Is Not Evidence* rule (v2.0) already blocks the identical shape — *I believe X → contrary evidence → the enemy lies → therefore the contradiction proves X.* **The sharpest form of the faith objection this project actually faces is not the generic one but: "you are treating an unfalsifiable claim as though evidence could settle it."** That rule is the foundation of the answer.**
+
+**⚠️ AND THE BRANCH ITSELF STAYS CLOSED, WITH ITS OWN BRAKE ALREADY WRITTEN: *do NOT assume the modern faith/evidence dichotomy is the distinction Scripture makes.* Three categories must be tested rather than merged — **faith WITHOUT PRESENT SIGHT · faith WITHOUT GROUNDS · faith CONTRARY TO EVIDENCE.** See the Faith Branch bookmark in [[04-open-questions]].**
+
+---
+
+## 🌐 A Failed Request Is Not an Unavailable Source *(added v4.9 — the mirror of a rule already held)*
+
+> **Verification Honesty already states: *a successful retrieval is not automatically a verification.* THIS IS ITS MIRROR IMAGE, AND THE PROJECT HAD NOT WRITTEN IT DOWN.**
+>
+> ### **A FAILED REQUEST IS EVIDENCE ABOUT THE REQUEST, NOT ABOUT THE SOURCE.**
+>
+> ### **BEFORE RECORDING A SOURCE AS UNAVAILABLE: TRY THE PATTERN THAT HAS ALREADY WORKED IN THIS PROJECT.**
+
+*Warrant — Stage 50, observed live: a retrieval lane tried 12+ sources for the ναός/ἱερόν/LXX/Daniel audit, returned NOTHING, and correctly refused to fabricate.* ✅ **That refusal was right and is recorded as this project's first eval-POSITIVE.** ❗ **But the Bible Gateway SBLGNT pattern had already succeeded FIVE times (ledger S11, S18, S28), NEITHER failing lane used it, and one fetched Bible Gateway, received English, and recorded the source as dry.** ✅ **2 Thessalonians 2:1–12 was then retrieved ON THE FIRST ATTEMPT with the known-good pattern.**
+
+> ### 📌 **OPERATIONAL CONSEQUENCE: the source ledger's VERIFIED entries are a WORKING-METHOD REGISTRY, not merely a provenance record. Consult it for the pattern before declaring a class of source unreachable.**
+>
+> ### ⚠️ **AND THE DISCIPLINE THAT MUST NOT BE WEAKENED BY THIS: THE REFUSAL TO FABRICATE REMAINS CORRECT EVEN WHEN THE METHOD WAS WRONG. "Try harder" may never become "fill the gap."**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -1345,6 +1394,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **4.9** | 2026-08-24 | **THE ARCHIVE CAUGHT UP TO THE INVESTIGATION.** Added **TEXT-CORPUS TERMINOLOGY** *(Tanakh · LXX/Septuagint · GNT · Koine — locked because LXX was being inverted into "the New Testament," and because "LXX" means SEVENTY TRANSLATORS, not seventy books)*, **FAITH IS NOT AN INTERPRETIVE SHIELD** *(ahead of the deliberately-unopened Faith Branch)*, and **A FAILED REQUEST IS NOT AN UNAVAILABLE SOURCE** *(the mirror of a rule already held)*. 🆕 **ADR-0011 ACCEPTED — the GROWING CHAIN + EVIDENCE LEDGER, with the ❗REFUSED/RULED-OUT column MANDATORY**, because a chain of only-positive links would have hidden this project's best work: *last≠seventh refused · παρουσία absent from the pericope · Hebrews 10:25 breaking the word-family bridge · δεῖ and ἄχρι refused as noise · ἁρπάζω destination-neutral · ἀπάντησις carrying no escort.* **STAGE 49: ✅ Acts 8:39 sends Philip to AZOTUS with the same verb as Revelation 12:5's throne — ἁρπάζω encodes NO destination; RAPTURE-SYSTEM BRAKE added; ✅ 1 Thess 4:17 states NO direction after the meeting; ✅ Revelation 1:7 CLOSED q245 — ἐξεκέντησαν is the HEBREW reading and BOTH Matthew and John use ὁράω against the LXX's ἐπιβλέπω.** **STAGE 50: ✅ the παρουσία + ἐπισυναγωγή pair EXISTS at 2 Thess 2:1 and STILL does not exist at Matthew 24:31 — both facts locked; ✅ NO VERB OF REMOVAL at 2:7 (γένηται, "come to be"); ✅ καταργέω shared with 1 Cor 15:26, PRESENT there and FUTURE here; ✅✅ παρουσία USED OF THE LAWLESS ONE at 2:9, retroactively vindicating the Coming-Language Control from an independent author; RESTRAINER RULE and FUTURE-SANCTUARY BRAKE added, the latter written BEFORE its data arrives.** ⚠️ **SECOND NO-OP IN THREE STAGES — "son of perdition ≠ Satan" was ALREADY held at Side Branch 34½; Stage 50's real contribution is the ESV→SBLGNT upgrade, recorded at that strength.** ✅ **AND THE FIRST EVAL-POSITIVE: a lane facing 12+ dead sources wrote "I will not invent Greek text." The failure was METHOD, not source.** ❌ **The ναός/ἱερόν/LXX/Daniel audit is recorded as DEBT (q265), not conclusion. Stages 50½ and 51 arrived and are DELIBERATELY NOT INGESTED.** |
 | **4.8** | 2026-08-23 | **THE DATE HELD; THE EVENT DID NOT FOLLOW.** Added the **COSMIC-LANGUAGE BRAKE** *(now verified in Greek)*, the **INTERTEXTUAL EXPANSION RULE** with its two leashes, **DEMONSTRATIVE-MARKED TERMS ARE THEIR OWN CATEGORY**, and an **UPGRADE to Delegated Retrieval** (Stage 48½). ✅ **THE LXX DEBT (q231) SUBSTANTIALLY DISCHARGED** — Isaiah 13/27/34, Zechariah 12, Deuteronomy 30, Daniel 7 (Old Greek) all verified in Greek. ⬆️ **PROMOTED: Matthew 24:29–31 inside Matthew's first-century horizon = HIGH — established WITHOUT importing Revelation, Paul, or preterism, and shipped WITH four falsification conditions.** 🔑 **Its strongest evidence is ✅ Matthew 23:36, which carries the SAME PHRASE-PAIR as 24:34 one chapter earlier over an undisputed contemporary referent.** ★ **AND THE HINGE SPLIT: Isaiah 27:13 supplies Matthew's TRUMPET verbally and NOT his GATHERING VERB — neither Isaiah 27 nor Deuteronomy 30 uses ἐπισυνάγω.** ⚠️ **Daniel 7:13's Old Greek DESTABILIZED q180; Theodotion NOT RETRIEVED and now load-bearing.** ❌❌ **AN EVAL CASE: a fabricated Greek parallel (ἥξουσιν into Matthew 24:31) caught before entry, plus two mislabels — the Delegated-Retrieval rule paid for itself one stage after being written.** ⚠️ **TWO CORRECTIONS RECORDED TOGETHER, ONE IN EACH DIRECTION: the tranche upgraded "parousia context" into "that lexical pair"; THIS PROJECT upgraded "identity not established" into "non-identity adopted." SAME ERROR CLASS, SAME TWELVE HOURS.** 🧮 Source-text divergence 2 → 3 *(LXX Zech 12:10 "mocked" vs MT "pierced")*; translation divergence 13 → 14. |
 | **4.7** | 2026-08-23 | **THE BRIDGE WEAKENED WHERE IT WAS NEEDED MOST.** Added the **REV 20 CHRONOLOGY LOCK**, **Defeat ≠ Abolition**, **Verify Against the Files Not the Report**, the **Lexical-Family Scope Test**, the **Pericope-Level Vocabulary Check**, and **Delegated Retrieval Is Retrieval Not Judgement** (Stage 48). ✅ **The Death/Hades chronology was VERIFIED IN GREEK and locked on LOGICAL DEPENDENCY — they still surrender the dead at 20:13, so they cannot have been abolished before the millennium.** ❗ **AND THE INCOMING CORRECTION THAT PROMPTED IT WAS A NO-OP: four independent files were already right, and accepting it on report would have corrupted them.** 🛑 **THREE FINDINGS AGAINST THIS PROJECT'S OWN CHAIN: Matthew 24:29–31 has NO resurrection vocabulary · παρουσία is ABSENT from the gathering pericope (four occurrences, none inside it) · and ✅ Hebrews 10:25 uses ἐπισυναγωγή for an ORDINARY MEETING.** 🔑 **A SELF-CORRECTION PAID: Stage 11's "same gathering verb" was FALSE (συλλέγω vs ἐπισυνάγω), and chasing the real verb found Matthew's only other ἐπισυνάγω at 23:37 — Yeshua's covenantal lament over JERUSALEM, which points AWAY from the reading this project prefers.** ⚠️ **THE UNTIL-REVERSAL CAUTION, written at Stage 26, bit this project's own reading of ἄχρι at 1 Cor 15:25.** ❌ **AND THE STAGE'S LOAD-BEARING DEBT IS DECLARED: THE LXX OF EVERY TANAKH INTERTEXT WAS NOT RETRIEVED (q231).** |
 | **4.6** | 2026-08-23 | **THE GATE REACHED.** Added the **Rev 6 Intermediate-State Control**, **Transformed Embodiment Control**, the **Supernatural-Possibility Brake**, and the **corrected order of chronological work** (Stage 47). ⚠️ **Recorded the author's correction (stop reopening Revelation 20's settled two-stage structure) AND the counter-correction against him (“morally higher” exceeds what Revelation says).** **First-resurrection actual-change pressure = VERY HIGH, on a Revelation-internal argument that cuts against this project's own convenience.** ❗ **The translation machinery caught its first artifact one stage after being built: ESV Hebrews 11:35 renders anastasis as “life.”** |
