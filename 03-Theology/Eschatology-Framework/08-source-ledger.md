@@ -211,6 +211,26 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Stage 50½ — the temple audit: q265 DISCHARGED
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S41** | ✅ **SBLGNT** *(Bible Gateway, proven pattern — 16 fetches, all returned Greek)* | **1 Cor 3:16–17, 6:19, 9:13 · 2 Cor 6:16 · Eph 2:21 · 2 Thess 2:4 · Matt 23:16–17, 24:1, 24:15, 27:5, 27:51 · Luke 1:9, 2:46 · John 2:19–20 · Acts 3:1, 21:28** | the Pauline ναός inventory and its plural/corporate grammar · **Paul's use of ἱερόν at 1 Cor 9:13** · the ναός/ἱερόν distinction across the GNT · **Matthew 24:15's τὸ βδέλυγμα τῆς ἐρημώσεως** | **PRIMARY** | ✅ **VERIFIED.** ⚠️ **NOT EXHAUSTIVE for Paul — Romans, Philippians, Galatians, Colossians, Pastorals, Philemon unsearched (q270)** | 2026-08-24 |
+| **S42** | ✅ **SEPTUAGINT — Swete** *(BibleHub /sepd/, the pattern that worked at Stage 48½)* | **3 Kingdoms 6 · Ezekiel 41:1, 41:4 · Psalm 5:7 · Psalm 137:2 · Habakkuk 2:20 · Joel 4:5 · Daniel 5:2–3 · Daniel 9:27, 11:31, 11:36, 12:11** | that LXX **ναός** denotes an actual sanctuary rendering **הֵיכָל**, stratified against **οἶκος** and **δαβείρ** · **the three DIFFERENT Danielic forms of "abomination of desolation"** · **Daniel 11:36's ὑψόω** · Daniel 8/11's **θυσία** for the removed **תָּמִיד** and 9:27's **σπονδή** · that Daniel 5:2–3 uses **οἶκος**, not ναός · that **ἱερόν occurs in LXX Daniel 9:27** | **PRIMARY** | ✅ **VERIFIED IN GREEK — Old Greek recension.** ⚠️ **Versification differences recorded (LXX Psalm 137:2 = MT 138:2; LXX Joel 4:5 = MT 3:5)** | 2026-08-24 |
+| **S43** | ❌❌ **THEODOTION DANIEL** | **Daniel 7:13–14 · 11:36 · 12:11** | which Greek Daniel Matthew tracks; **whether Theodotion 12:11 ALSO matches Matthew 24:15 verbatim**; **whether Theodotion 11:36 uses ὑπεραίρω where the Old Greek uses ὑψόω — which would REVERSE q275** | **PRIMARY** *(when obtained)* | ❌❌ **FAILED A SECOND TIME.** Not on BibleHub, Blue Letter Bible, archive.org or stepbible. ❗ **NOW BLOCKING TWO SEPARATE FINDINGS (q246, q273, q275). ESCALATE: a Rahlfs or Göttingen edition, or a print/PDF source, may be required** | — |
+| **S44** | ❌ **LXX ναός applied to a PEOPLE — exhaustive search** | **whole LXX** | whether Paul's community-as-ναός has a Tanakh-side precedent or is a **Pauline innovation** | **PRIMARY** *(when obtained)* | ❌ **NOT RETRIEVED — the lane stated plainly it would require an exhaustive LXX search it did not perform.** ❗❗ **THE SINGLE MOST DECISIVE OUTSTANDING ITEM IN THE STAGE. EITHER ANSWER MOVES THE VERDICT (q272)** | — |
+| **S45** | ⚠️ **Hebrew of Daniel 11:36** | **Dan 11:36** | the Hebrew behind the self-exaltation verbs | **PRIMARY** | ❌ **UNUSABLE — returned "reconstructed from Strong's refs," which is NOT a retrieval. QUOTED NOWHERE IN THE STAGE.** *(Third Hebrew-retrieval fault in this project: scrambled Isaiah at 48½, this, and the S29 fault. **Sefaria's HTML is JavaScript-gated; USE ITS API.**)* | — |
+| **S46** | ⚠️ **Commentary/grammar authority for 1 Corinthians 6:19** | **1 Cor 6:15–20** | whether **τὸ σῶμα ὑμῶν** is distributive-individual or corporate | **MODERN SCHOLARLY** *(when obtained)* | ⚠️ **DISPUTED, UNRESOLVED. A retrieval lane asserted "collective" from plural pronouns alone; OVERRULED as a non sequitur (q269)** | — |
+| **S47** | ⚠️ **LXX Leviticus 26:12 / Exodus 29:45** | behind **2 Cor 6:16** | whether Paul matches the LXX, the MT, or neither at this quotation | **PRIMARY** *(when obtained)* | ⚠️ **REPORTED BY ESV CROSS-REFERENCE, NOT LXX-VERIFIED.** ❗ *Quotation Behavior Is Per-Quotation* forbids generalizing from Paul's other quotations (q271) | — |
+
+> ### ✅ **q265 IS DISCHARGED — AND THE RULE THAT DISCHARGED IT WAS WRITTEN FROM THE FAILURE ITSELF.**
+>
+> ### **Stage 50's lane died after 12+ sources and correctly refused to fabricate. The rule that followed — *A FAILED REQUEST IS NOT AN UNAVAILABLE SOURCE* (v4.9) — was applied by NAMING THE PROVEN PATTERN EXPLICITLY IN THE NEXT BRIEF. THE SAME TASK THEN RETURNED 16 SBLGNT FETCHES AND A FULL LXX PASS.**
+>
+> ### ❗ **BUT S43 SHOWS THE RULE HAS A LIMIT: THEODOTION HAS NOW FAILED TWICE ACROSS DIFFERENT AGENTS AND DIFFERENT SOURCE SETS. THAT IS NO LONGER PLAUSIBLY A METHOD FAILURE — IT IS A GENUINE ACCESS GAP, AND IT NOW BLOCKS THREE SEPARATE FINDINGS.**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**

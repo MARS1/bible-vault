@@ -100,8 +100,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **48½** | **🔬🔑🔑 Matthew 24:29–34 Under the Greek and Tanakh Microscope — THE DATE HELD** | **[[02o-matthew-24-under-the-microscope]]** |
 | **49** | **🔑🔑 What Does "Caught Up to Meet the Lord" Actually Mean?** | **[[02p-caught-up-to-meet-the-lord]]** |
 | **50** | **🔑🔑 2 Thessalonians 2 — The *Parousia*, Our Gathering, and the Lawless One** | **[[02q-2-thessalonians-2-parousia-gathering-lawless-one]]** |
-| **50½** | *(queued, NOT ingested)* **🏛️ What Temple Did Paul Mean?** — blocked on q265 | — |
-| **51** | *(queued, NOT ingested)* **📜 Daniel → Antiochus → Yeshua → Paul: Does the Abomination Pattern Repeat?** | — |
+| **50½** | **🏛️🔑 What Temple Did Paul Mean? — THE VERDICT INVERTED** | **[[02r-what-temple-did-paul-mean]]** |
+| **51** | *(next)* **📜 Daniel → Antiochus → Yeshua → Paul: Does the Abomination Pattern Repeat?** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2075,6 +2075,40 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **📊 FIRST GROWING CHAIN AND EVIDENCE LEDGER RENDERED UNDER ADR-0011, with all six categories including ❗ REFUSED. Nothing displayed beyond the `?` — the millennium, little season and present era REMAIN BEYOND IT.**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"Every time I go to the Greek expecting to find the sentence I remember, I find a smaller and stranger one."***
+
+---
+
+## Stage 50½ — 🏛️🔑 What Temple Did Paul Mean? THE VERDICT INVERTED *(current)*
+
+**File:** [[02r-what-temple-did-paul-mean]] · **✅ THE q265 RETRIEVAL DEBT IS DISCHARGED.** 16 SBLGNT fetches + a full LXX pass, **after Stage 50's lane died on 12+ sources — re-run with the proven pattern NAMED EXPLICITLY. THE RULE WRITTEN FROM THAT FAILURE PAID ON ITS FIRST USE.**
+
+> ### ⚠️⚠️ **HEADLINE: THE PROPOSED VERDICT DID NOT SURVIVE THE RETRIEVAL. The tranche rated the physical-Jerusalem-sanctuary reading MODERATE-TO-STRONG. ❌ WITHDRAWN.**
+>
+> ### ❗❗ **BECAUSE THE STRONGEST SINGLE ARGUMENT RUNS THE OTHER WAY: ✅ IN PAUL'S LETTERS ναός IS FIVE-OF-SIX METAPHORICAL AND *NEVER ONCE* THE JERUSALEM BUILDING — AND WHERE HE MEANS ACTUAL TEMPLE SERVICE HE SWITCHES TO ἱερόν (✅ 1 Cor 9:13). AUTHOR'S-OWN-ATTESTED-USAGE IS THE STRONGEST EVIDENCE CLASS THIS PROJECT RECOGNIZES.**
+>
+> ### 🛑 **AND THIS CUTS AGAINST US. A physical first-century sanctuary would have tightened the chain considerably. IT DID NOT HOLD, AND THE DOWNGRADE IS RECORDED AS PROMINENTLY AS A PROMOTION WOULD HAVE BEEN.**
+
+**✅ PAUL'S ναός, EVERY OCCURRENCE: 1 Cor 3:16 · 3:17 · 6:19 · 2 Cor 6:16 · Eph 2:21 · 2 Thess 2:4. ✅ 3:16–17 IS UNAMBIGUOUSLY CORPORATE — οἴδατε · ἐστε · ἐν ὑμῖν · **οἵτινές ἐστε ὑμεῖς**, every marker plural.** ⚠️ **BUT A LANE'S CONCLUSION WAS OVERRULED: it declared 1 Cor 6:19 collective on plural pronouns alone. ❌ NON SEQUITUR — **τὸ σῶμα ὑμῶν** pairs a SINGULAR σῶμα with a PLURAL ὑμῶν *(distributive)*, and 6:15–20 is about one man and a prostitute. **RECORDED AS DISPUTED (q269) — and if 6:19 is individual, Paul has THREE ναός senses, not two.**** ⚠️ **List NOT exhaustive — Romans, Philippians, Galatians, Colossians, Pastorals, Philemon unsearched (q270).**
+
+> ### ❌ **AND TWO LEGS THE TRANCHE LEANED ON COLLAPSED:**
+>
+> ### **1. THE ναός/ἱερόν DISTINCTION IS REAL BUT *NEUTRAL*. ✅ ἱερόν = the FUNCTIONING COMPLEX (Matt 24:1 · Luke 2:46 · Acts 3:1 · Acts 21:28 · **1 Cor 9:13**); ✅ ναός = the SANCTUARY PROPER (Matt 23:16–17 · 27:5 · **27:51 the veil** · Luke 1:9 · John 2:19–20). **Paul uses BOTH, so ναός at 2:4 IS a deliberate choice — BUT IT SEPARATES SANCTUARY FROM PRECINCT, NOT JERUSALEM FROM COMMUNITY, BECAUSE BOTH CANDIDATES ARE SANCTUARIES.** Indeed Paul calls believers ναός *precisely because* ναός means the deity's dwelling.**
+>
+> ### **2. ✅ MATTHEW 24:15 AND 2 THESS 2:4 SHARE *ZERO* VOCABULARY — βδέλυγμα and ἐρημώσεως absent from Paul; ἀντικείμενος, ὑπεραιρόμενος, ναός, θεός absent from Matthew. **MATTHEW DOESN'T EVEN USE ναός — HE USES τόπος ἅγιος.** THE §10–11 "INTERTEXTUAL CONVERGENCE" IS THEMATIC, NOT LEXICAL (q274).**
+
+**❌ AND PAUL'S SELF-EXALTATION LANGUAGE IS NOT VERBALLY DANIELIC: ✅ LXX Daniel 11:36 uses **ΥΨΟΩ**; ✅ 2 Thess 2:4 uses **ΥΠΕΡΑΙΡΩ**. **ὑπεραίρω DOES NOT APPEAR IN LXX DANIEL 11:36.** §8's "Paul sounds Danielic" is true of THEME and false of WORDING (q275).** ⚠️ **AND THE HEBREW OF 11:36 IS UNUSABLE — the lane returned it "reconstructed from Strong's refs," which is NOT a retrieval. Quoted nowhere.**
+
+**✅ LXX ναός CONFIRMED AS AN ACTUAL SANCTUARY THROUGHOUT — 3 Kingdoms 6 · Ezekiel 41 · Psalm 5:7 · Habakkuk 2:20 · Joel 4:5. ★ AND 3 KINGDOMS 6 STRATIFIES THREE TERMS: **οἶκος** (the house) → **ναός** (the inner sanctuary, rendering **הֵיכָל**) → **δαβείρ** (the innermost, **דְּבִיר**). SO THE TRANCHE'S §6 IS CONFIRMED: PAUL DID NOT INVENT THE METAPHOR — IT WORKS *BECAUSE* THE WORD ALREADY MEANT SACRED DWELLING.**
+
+> ### ❌❌ **BUT THE ONE QUESTION THAT WOULD HAVE SETTLED IT WAS NOT RETRIEVED: **DOES THE LXX EVER USE ναός METAPHORICALLY FOR A *PEOPLE*?** THE SINGLE MOST DECISIVE OUTSTANDING ITEM IN THE STAGE — AND EITHER ANSWER MOVES THE VERDICT (q272).**
+
+**🔑🔑 THE STAGE'S BEST FINDING, AND IT AROSE FROM RETRIEVAL RATHER THAN THEORY: ✅ DANIEL'S OWN GREEK *VARIES* — **9:27 βδέλυγμα ΤΩΝ ΕΡΗΜΩΣΕΩΝ** (plural, no article) · **11:31 βδέλυγμα ἐρημώσεως** (singular, no article) · **12:11 ΤΟ βδέλυγμα ΤΗΣ ἐρημώσεως** (WITH article). ✅ **MATTHEW 24:15 MATCHES DANIEL 12:11 WORD FOR WORD, ARTICLE INCLUDED — AND MATCHES NEITHER 9:27 NOR 11:31.**** **❗ MATTHEW IS NOT GESTURING AT DANIEL. HE IS QUOTING ONE VERSE — and 12:11 is the verse pairing the abomination with the removal of the תָּמִיד and the 1,290 days (q273).** ⚠️ *This establishes WHICH text Matthew quotes; NOTHING about what he takes it to refer to.*
+
+**📐 REVISED VERDICT: **OPEN**. COMMUNITY reading favoured by INTRATEXTUAL evidence (Paul's own usage); PHYSICAL reading favoured by CONTEXTUAL evidence (the standing sanctuary, ✅ 2:5's audience-recognition, καθίσαι's spatial reading, the Danielic theme). **DIFFERENT AND NON-COMMENSURABLE EVIDENCE CLASSES — NOT SETTLED BY TALLY. NEITHER CLOSED (q276).**
+
+**🆕 FUTURE-SANCTUARY BRAKE STANDS UNCHANGED — written as q267 at Stage 50 BEFORE this data arrived, which is why it can be trusted. 🚫 AND THE PROCEDURAL LOCK HOLDS: NO HISTORICAL CANDIDATE NAMED. Not Caligula, not Nero, not Titus, not a high priest, not a Zealot.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"What undid it was not an argument. It was a list."***
 
 ---
 
