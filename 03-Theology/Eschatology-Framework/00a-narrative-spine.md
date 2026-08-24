@@ -101,7 +101,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **49** | **🔑🔑 What Does "Caught Up to Meet the Lord" Actually Mean?** | **[[02p-caught-up-to-meet-the-lord]]** |
 | **50** | **🔑🔑 2 Thessalonians 2 — The *Parousia*, Our Gathering, and the Lawless One** | **[[02q-2-thessalonians-2-parousia-gathering-lawless-one]]** |
 | **50½** | **🏛️🔑 What Temple Did Paul Mean? — THE VERDICT INVERTED** | **[[02r-what-temple-did-paul-mean]]** |
-| **51** | *(next)* **📜 Daniel → Antiochus → Yeshua → Paul: Does the Abomination Pattern Repeat?** | — |
+| **51** | **📜🔑🔑 Daniel → Antiochus → Yeshua → Paul — DANIEL NEVER SAID IT TWICE THE SAME WAY** | **[[02s-daniel-antiochus-yeshua-paul]]** |
+| **51½** | *(next)* **⚖️ Sequence Test — Matthew 24 vs 2 Thessalonians 2** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2109,6 +2110,48 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **🆕 FUTURE-SANCTUARY BRAKE STANDS UNCHANGED — written as q267 at Stage 50 BEFORE this data arrived, which is why it can be trusted. 🚫 AND THE PROCEDURAL LOCK HOLDS: NO HISTORICAL CANDIDATE NAMED. Not Caligula, not Nero, not Titus, not a high priest, not a Zealot.**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"What undid it was not an argument. It was a list."***
+
+---
+
+## Stage 51 — 📜🔑🔑 Daniel → Antiochus → Yeshua → Paul: DANIEL NEVER SAID IT TWICE THE SAME WAY *(current)*
+
+**File:** [[02s-daniel-antiochus-yeshua-paul]] · ✅ **THE HEBREW METHOD IS FIXED — the SEFARIA *API* returned fully pointed Hebrew on the first attempt, after THREE consecutive failures (scrambled Isaiah at 48½, empty at S29, "reconstructed from Strong's" at S45). ❗ THE CAUSE WAS IDENTICAL EVERY TIME: SEFARIA'S HTML IS JAVASCRIPT-GATED AND ITS API IS NOT. A FAILURE REPEATED THREE TIMES WAS ONE UNEXAMINED ASSUMPTION, NOT THREE BAD AGENTS.**
+
+> ### 🔑🔑 **THE HEADLINE FINDING: DANIEL DOES NOT USE ONE PHRASE. HE USES *FOUR FORMS* AND *TWO DIFFERENT NOUNS*.**
+>
+> ### ✅ **8:13 — וְהַפֶּ֣שַׁע שֹׁמֵ֔ם — *pesha*, TRANSGRESSION, NOT shiqquts** · ✅ **9:27 — שִׁקּוּצִים֙ מְשֹׁמֵ֔ם — PLURAL** · ✅ **11:31 — הַשִּׁקּ֥וּץ מְשֹׁמֵֽם — ARTICULAR singular** · ✅ **12:11 — שִׁקּ֣וּץ שֹׁמֵ֑ם — ANARTHROUS singular.**
+>
+> ### ✅ **AND 8:12 HAS בְּפָשַׁע TOO — so *pesha* runs through the whole 8:11–13 unit. THE DANIEL 8 PASSAGE IS LEXICALLY DISTINCT FROM THE OTHER THREE.**
+>
+> ### 📐 **THEREFORE "ALREADY WE HAVE A PATTERN" IS TRUE OF THE *STRUCTURE* AND FALSE OF THE *WORDING*. The recurring complex is real — sanctuary · תָּמִיד disrupted · a desolating something · trampling — but THERE IS NO FIXED PHRASE (q279).**
+
+**★ AND THE ARTICLE INVERTS BETWEEN HEBREW AND GREEK: ✅ 11:31 Hebrew HAS the article (הַשִּׁקּוּץ) while the Greek LACKS it; ✅ 12:11 Hebrew LACKS it while the Greek HAS it (τὸ βδέλυγμα τῆς ἐρημώσεως). ❗ SO MATTHEW 24:15's VERBATIM MATCH IS WITH THE *GREEK* OF 12:11 — AND AT THAT VERSE THE GREEK DOES NOT FOLLOW THE HEBREW. MATTHEW TRACKS THE GREEK TRADITION (q277).** ⚠️ *Observation only — Hebrew construct-chain definiteness needs a grammar authority.*
+
+**✅ AND THE AUTHOR'S DECOMPOSITION IS CONFIRMED BY THE HEBREW: *abomination* and *desolation* are NOT the same thing — the שׁמם root is a PARTICIPLE MODIFYING the noun in every case. ❗ THIS BLOCKS THREE SHORTCUTS AT ONCE: ❌ abomination = army · ❌ abomination = destruction · ❌ abomination = one particular human being. NONE IS SUPPLIED BY THE HEBREW.** **✅ Also verified: TWO different sanctuary words — מִקְדָּשׁ (8:11) vs קֹדֶשׁ (9:26), not interchangeable (q278).**
+
+**🏛️ THE ANTIOCHUS CONTROL CASE — substantial, and it failed at the one thing it was for. ✅ VERIFIED IN HEBREW: 11:30's צִיִּים כִּתִּים · 11:31's profanation + removal of the תָּמִיד · 11:32's וְעַם יֹדְעֵי אֱלֹהָיו יַחֲזִקוּ. ✅ AND 1 MACCABEES CONFIRMS THE EVENT-PROFILE (NRSVA English): ★ SWINE SACRIFICE EXPLICITLY NAMED at 1:47 — the author's memory VERIFIED · Torah scrolls burned · circumcision forbidden on pain of death · Sabbaths and festivals profaned · the sacrilege erected ON THE ALTAR OF BURNT-OFFERING (1:54) · ✅ 2 Macc 6:2 names OLYMPIAN ZEUS.**
+
+> ### ❌❌ **BUT THE GREEK OF 1 MACCABEES FAILED AFTER TWELVE SOURCES — SO THE DECISIVE QUESTION IS UNANSWERED: DOES 1 MACC 1:54 USE βδέλυγμα ἐρημώσεως, AND IN WHICH OF DANIEL'S THREE FORMS? THAT WAS THE WHOLE POINT OF THE CONTROL CASE (q283).**
+>
+> ### ★ **AND A SECOND THING IT DID NOT SUPPLY: **1 MACCABEES 1:54 DOES NOT SAY WHAT THE ABOMINATION *WAS*.** Not an idol, not an altar, not a statue — only that it was erected on the altar. **EVEN THE CLOSEST HISTORICAL WITNESS LEAVES THE OBJECT UNDERSPECIFIED, WHICH CUTS AGAINST ANY CONFIDENT MODERN ASSERTION ABOUT WHAT ONE MUST PHYSICALLY BE (q284).**
+
+**⬇️ AND PAUL IS AT *TWO REMOVES*, NOT ONE: ✅ Hebrew יִתְרוֹמֵם (רום) + יִתְגַּדֵּל (גדל) → ✅ Greek ὑψόω → ✅ Paul ὑπεραίρω. **HIS VERB MATCHES NEITHER.** So "Paul is reading Daniel 11" is CONCEPTUAL, not lexical — and the tranche's "considerably stronger than vague thematic resemblance" **OVERSTATES BY EXACTLY ONE EVIDENCE CLASS (q275 extended).** 🛑 AND DANIEL 11:36's TRANSITION QUESTION STAYS OPEN — no retrieval can settle it, and it must not be settled later on the ground that one answer helps the chronology (q281).**
+
+**🔑🔑 THE THREE-WAY SYNOPTIC ALIGNMENT: ✅ the FLIGHT COMPLEX is verbally shared across all three — ἴδητε · οἱ ἐν τῇ Ἰουδαίᾳ φευγέτωσαν · τὰ ὄρη · and the pregnant/nursing woe NEAR-VERBATIM. ❗ BUT THE *SIGN* DIFFERS: Matthew/Mark name τὸ βδέλυγμα τῆς ἐρημώσεως; ✅ LUKE NAMES ARMIES AND USES βδέλυγμα NOWHERE, AND NEVER MENTIONS DANIEL. ✅ ONLY MATTHEW CITES DANIEL. 📐 SO: VERY STRONG EVENT CORRESPONDENCE; ❌ "ABOMINATION = ROMAN ARMY" REMAINS **OPEN** (q282).**
+
+> ### ★★ **AND MARK'S GRAMMAR IS THE STAGE'S SHARPEST DATUM: ✅ Mark 13:14 — τὸ βδέλυγμα τῆς ἐρημώσεως **ΕΣΤΗΚΟΤΑ** ὅπου οὐ δεῖ. **ἑστηκότα IS MASCULINE; βδέλυγμα IS NEUTER. THEY DISAGREE.** A masculine participle on a neuter noun points toward *someone standing* rather than *something placed*. 🛑 **OBSERVATION ONLY — a Greek grammar authority is owed (q285).**
+
+**✅ LUKE'S PRECISION HOLDS, VERIFIED IN GREEK: 21:20 — ΗΓΓΙΚΕΝ ἡ ἐρήμωσις αὐτῆς. **THE ARMIES ARE THE SIGN THAT DESOLATION HAS DRAWN NEAR; LUKE DOES NOT SAY THEY ARE IT.** ✅ 21:22 — ΤΟΥ ΠΛΗΣΘΗΝΑΙ ΠΑΝΤΑ ΤΑ ΓΕΓΡΑΜΜΕΝΑ, "to fulfil ALL that is written" — a very large claim, FLAGGED NOT WORKED (q286). ⏳ ✅ 21:24 — ἄχρι οὗ πληρωθῶσιν καιροὶ ἐθνῶν — **THE UNTIL-REVERSAL CAUTION APPLIES DIRECTLY, same construction as 1 Cor 15:25 and Rev 20:3: it guarantees continuation THROUGH that point and establishes NOTHING about what follows** (q287).**
+
+**🆕 PROPHETIC RECURRENCE RULE, BOTH HALVES: *an earlier historical realization does not EXHAUST a prophecy when a later inspired writer explicitly REAPPLIES it — AND later reapplication does not ERASE the earlier referent.* **YESHUA HIMSELF CREATES THE PROBLEM: Antiochus dies in the second century BCE and Matthew 24:15 still tells disciples to watch for it.** 📌 AND THE STRUCTURAL POINT: this is *Expansion ≠ Erasure* transposed into a THIRD domain — covenant identity, textual expansion, now prophecy. **A RULE RECURRING INDEPENDENTLY ACROSS DOMAINS IS BETTER EVIDENCE FOR THE RULE THAN ANY SINGLE APPLICATION (q289).**
+
+**📇 MOTIF LEDGER OPENED — Nebuchadnezzar · Belshazzar · Antiochus · Herod Agrippa I · Paul's lawless one. 🛑 MOTIF ≠ IDENTITY, and the PARTIAL-PARALLEL BRAKE bites immediately: **NEBUCHADNEZZAR'S ARC RESOLVES IN REPENTANCE AND RESTORATION** — similarity at departure cannot survive contradiction at resolution (q290). ⚠️ FOUR OF THE FIVE ROWS ARE REPORTED, NOT RETRIEVED.**
+
+**⚠️ FIFTH CONSECUTIVE OVERRULE, AND TWO DIFFERENT SPECIES: a **TRUNCATION** that manufactured two false ABSENTs for Mark (its own ESV contradicted its Greek), and a **HALF-VERIFIED "VERIFIED"** — the Hanukkah word-link where ✅ John 10:22's τὰ ἐγκαίνια was retrieved and 1 Maccabees' Greek was supplied FROM MEMORY (q288). **THE SECOND IS MORE DANGEROUS: INVISIBLE UNLESS YOU CHECK WHICH HALF WAS ACTUALLY FETCHED.**
+
+**❌ THEODOTION DANIEL FAILED A THIRD TIME — third agent, third source set. **CONCLUSIVELY AN ACCESS GAP, NOT A METHOD GAP, AND IT NOW BLOCKS FOUR FINDINGS (q246).**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"I have been asking what the abomination is. I am starting to think Daniel is answering a different question: what it does."***
 
 ---
 

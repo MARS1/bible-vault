@@ -231,6 +231,30 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Stage 51 — Daniel, Antiochus, and the Synoptics
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S48** | ✅✅ **MASORETIC TEXT via the SEFARIA *API*** — `https://www.sefaria.org/api/texts/<Book>.<ch>.<v>?lang=he` | **Daniel 8:9–14, 8:11–12, 9:24–27, 9:26, 11:21–36, 11:30, 11:32, 11:36, 12:11** | the four abomination forms **הַפֶּשַׁע שֹׁמֵם · שִׁקּוּצִים מְשֹׁמֵם · הַשִּׁקּוּץ מְשֹׁמֵם · שִׁקּוּץ שֹׁמֵם** · the two sanctuary words **מִקְדָּשׁ / קֹדֶשׁ** · **הַתָּמִיד** · **צִיִּים כִּתִּים** · **יֹדְעֵי אֱלֹהָיו יַחֲזִקוּ** · **יִתְרוֹמֵם / יִתְגַּדֵּל** | **PRIMARY** | ✅✅ **VERIFIED — FULLY POINTED HEBREW, FIRST ATTEMPT.** ❗❗ **THIS ENTRY IS THE FIX FOR THREE PRIOR FAILURES (48½ scrambled · S29 empty · S45 reconstructed-from-Strong's). THE CAUSE WAS IDENTICAL EVERY TIME: SEFARIA'S HTML IS JAVASCRIPT-GATED; ITS API IS NOT. **THIS IS NOW THE STANDING HEBREW PATTERN.** | 2026-08-24 |
+| **S49** | ✅ **SBLGNT** *(Bible Gateway, proven pattern)* | **Matthew 24:15–22 · Mark 13:14–20 · Luke 21:20–24 · John 10:22** | the three-way Synoptic alignment · **Mark's ἑστηκότα ὅπου οὐ δεῖ** · **Luke's κυκλουμένην ὑπὸ στρατοπέδων / ἤγγικεν ἡ ἐρήμωσις / ἡμέραι ἐκδικήσεως / πατουμένη / ἄχρι οὗ** · **John's τὰ ἐγκαίνια** · and the two confirmed negatives: **Luke uses βδέλυγμα nowhere and never names Daniel; only Matthew cites Daniel** | **PRIMARY** | ✅ **VERIFIED.** ⚠️ **The lane's Greek quotation of Mark 13:14 was TRUNCATED at ὅπου οὐ δεῖ, producing TWO FALSE "ABSENT" ROWS (reader-aside, flight command) that its own ESV contradicted. CORRECTED** | 2026-08-24 |
+| **S50** | ⚠️ **1–2 MACCABEES — NRSVA (English only)** | **1 Macc 1:41–64 · 1 Macc 4:36–59 · 2 Macc 6:1–5** | the Antiochene event-profile: ✅ **swine sacrifice explicitly named (1:47)** · Torah scrolls burned · circumcision forbidden · Sabbaths/festivals profaned · the sacrilege **erected on the altar of burnt-offering (1:54)** · the eight-day annual rededication from Chislev 25 (4:59) · ✅ **Olympian Zeus (2 Macc 6:2)** | **EXTRABIBLICAL WITNESS** *(Enoch Protocol)* | ⚠️ **ENGLISH ONLY.** ❗ **EVERY CLAIM IS *"THE TEXT SAYS X"* — NOT "an event occurred," NOT "Scripture means X." NO CANONICAL QUESTION RESOLVED: 1–2 Maccabees sit in some Christian canons, are NOT in the Tanakh, and are Apocrypha in Protestant traditions** | 2026-08-24 |
+| **S51** | ❌❌ **GREEK OF 1 MACCABEES** | **1 Macc 1:54 · 4:59** | ★ **whether 1:54 uses βδέλυγμα ἐρημώσεως, and in WHICH of Daniel's three forms** · whether 4:59's dedication word is **ἐγκαίνια**, which would complete the John 10:22 link | **PRIMARY** *(when obtained)* | ❌❌ **FAILED AFTER TWELVE SOURCES** *(biblehub /sepd/ 404 · katabiblon · ellopos · archive.org · Perseus · scripture4all · OpenText · myriobiblos · two GitHub Rahlfs repos · lxx.bible)*. ❗ **THIS WAS THE ENTIRE POINT OF THE CONTROL CASE (q283) AND IT ALSO BLOCKS q288. Likely needs a print/PDF Rahlfs or Göttingen** | — |
+| **S52** | ❌ **GREEK OF DANIEL 8:13** | **Dan 8:13** | the Greek rendering of **הַפֶּשַׁע שֹׁמֵם** — the one form whose Greek the project lacks | **PRIMARY** *(when obtained)* | ❌ **NOT RETRIEVED.** *(S42 supplied 9:27, 11:31, 11:36 and 12:11; this stage's own Greek lane failed by using **Bash instead of WebFetch** — the same method error, opposite direction)* | — |
+| **S53** | ❌❌❌ **THEODOTION DANIEL** | **7:13–14 · 8:13 · 11:36 · 12:11** | which Greek Daniel Matthew and Paul track; **whether Theodotion 12:11 also matches Matthew verbatim**; **whether Theodotion 11:36 uses ὑπεραίρω where the Old Greek uses ὑψόω — which would REVERSE q275** | **PRIMARY** *(when obtained)* | ❌❌❌ **FAILED A THIRD TIME — third agent, third source set. CONCLUSIVELY AN ACCESS GAP, NOT A METHOD GAP. NOW BLOCKS FOUR FINDINGS (q246, q273, q275, q277)** | — |
+| **S54** | ❌ **Lexical authority for שִׁקּוּץ · פֶּשַׁע · שׁמם · βδέλυγμα** | **TBD** | the claim that **שִׁקּוּץ** carries specifically **idolatrous/cultic** pollution rather than generic horror | **MODERN SCHOLARLY** *(when obtained)* | ❌ **NOT RETRIEVED. The claim is REPORTED, NOT VERIFIED (q280) — neither established nor contradicted by anything retrieved** | — |
+| **S55** | ❌ **Greek grammar authority — Mark 13:14** | **Mark 13:14** | the **MASCULINE ἑστηκότα against NEUTER βδέλυγμα** gender disagreement | **MODERN SCHOLARLY** *(when obtained)* | ❌ **NOT RETRIEVED. RECORDED AS AN OBSERVATION ONLY — the project does not parse disputed syntax on its own authority (S14/S22 precedent, q285)** | — |
+| **S56** | ⚠️ **Daniel 4 · Daniel 5 · Acts 12:20–23** | the motif ledger's first four rows | Nebuchadnezzar's humiliation-and-**restoration** · Belshazzar's Temple-vessel profanation · Herod Agrippa's **σκωληκόβρωτος** | **PRIMARY** *(when obtained)* | ⚠️ **REPORTED, NOT RETRIEVED IN THIS STAGE. VERIFY BEFORE USE (q290)** | — |
+
+> ### ✅✅ **THE MOST IMPORTANT ENTRY IN THIS BLOCK IS S48, AND IT IS A METHOD ENTRY.**
+>
+> ### **HEBREW HAD FAILED THREE TIMES ACROSS THREE STAGES AND THREE AGENTS. THE CAUSE WAS ONE UNEXAMINED ASSUMPTION — THAT SEFARIA'S WEBSITE AND SEFARIA'S API ARE THE SAME SOURCE. NAMING THE API IN THE BRIEF PRODUCED FULLY POINTED HEBREW ON THE FIRST ATTEMPT.**
+>
+> ### 🆕 **AND THE COMPANION RULE THIS FORCES, TO SIT BESIDE *A FAILED REQUEST IS NOT AN UNAVAILABLE SOURCE*: **THE TOOL MATTERS AS MUCH AS THE URL.** The same stage that fixed Hebrew via the API then lost the Greek by using **Bash instead of WebFetch** against a URL pattern that had worked hours earlier.**
+>
+> ### ⚠️ **AND S53 MARKS THE LIMIT OF THAT RULE: THEODOTION HAS NOW FAILED THREE TIMES ACROSS DIFFERENT AGENTS, TOOLS AND SOURCE SETS. AT THAT POINT "TRY HARDER" IS NO LONGER THE ANSWER — IT IS A GENUINE ACCESS GAP AND MUST BE ESCALATED TO A PRINT OR PDF EDITION.**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**
