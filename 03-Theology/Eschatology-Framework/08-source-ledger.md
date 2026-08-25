@@ -292,6 +292,26 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Stage 53 — Paul vs John's first resurrection, and the q224 discharge
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S66** | ✅ **SBLGNT + ESV** *(Bible Gateway, WebFetch)* | **Revelation 20:4–6 · 20:11–15 · 2:11 · 21:8** | ✅ **ἔζησαν / οὐκ ἔζησαν** · ✅ **αὕτη ἡ ἀνάστασις ἡ πρώτη** · ✅ **ὁ δεύτερος θάνατος οὐκ ἔχει ἐξουσίαν** · ✅ **οἱ λοιποὶ τῶν νεκρῶν** · ✅ **the book of life at 20:12 and 20:15** · ✅ the second-death network *(20:14 and 21:8 both define it as the lake)* | **PRIMARY** | ✅ **VERIFIED — complete, truncation checked verse by verse** | 2026-08-25 |
+| **S67** | ✅✅ **SBLGNT + ESV — THE q224 DISCHARGE** | ★ **Revelation 6:9–11** *(previously v.9 only)* · ★ **Matthew 27:51–53** *(previously cut before v.52's clause)* | ✅ **Ἕως πότε** · ✅ **στολὴ λευκή** · ✅ **ἀναπαύσονται ἔτι ΧΡΟΝΟΝ ΜΙΚΡΟΝ** · ✅ **ἕως ΠΛΗΡΩΘΩΣΙΝ** *(q312)* · ✅ **πολλὰ ΣΩΜΑΤΑ … ΗΓΕΡΘΗΣΑΝ** · ✅ **ΜΕΤΑ ΤΗΝ ΕΓΕΡΣΙΝ ΑΥΤΟΥ** *(q316)* | **PRIMARY** | ✅✅ **VERIFIED COMPLETE — BOTH TRUNCATION DEBTS FROM STAGE 47 CLEARED, confirmed verse by verse.** 📌 **AND THE COMPLETED REV 6 TEXT STRENGTHENED THE CONTROL THAT HAD BEEN BUILT ON THE TRUNCATED VERSION — which is only possible because Stage 47 DECLARED the gap instead of filling it from expectation** | 2026-08-25 |
+| **S68** | ✅✅ **EXHAUSTIVE NEGATIVE SEARCH — Pauline vocabulary in Revelation 20:4–6** | **8 terms: ἀλλάσσω · ἀφθαρσία · ἀθανασία · ἁρπάζω · ἀπάντησις · παρουσία · σάλπιγξ · νεφέλη** | ★★ **ALL EIGHT ABSENT — ZERO shared vocabulary (q310)** | **PRIMARY** | ✅✅ **VERIFIED — search list named, each term reported individually, full passage retrieved.** ❗ **THE THIRD RUN OF THIS TEST IN THREE STAGES, AND THE THIRD DIFFERENT ANSWER *(2 links · partial · zero)* — which is what distinguishes a test from a ritual** | 2026-08-25 |
+| **S69** | ✅ **SBLGNT — Revelation 20:4 grammatical data** | **20:4** | ✅ **τὰς ψυχάς ACCUSATIVE · οἵτινες NOMINATIVE · NO repeated article · SEVEN finite verbs · ἐκάθισαν's subject UNSTATED** (q311) | **PRIMARY** | ✅ **VERIFIED AS DATA.** 🛑 **NO RULING TAKEN — q212 remains open, per the S14/S22 precedent that this project does not parse disputed syntax on its own authority** | 2026-08-25 |
+| **S70** | ❌ **A Greek grammar authority for the 20:4 case mismatch** | **TBD** *(Wallace, BDF, or a Revelation commentary's grammatical excursus)* | whether an accusative object followed by an anarthrous nominative relative clause marks one group or two | **MODERN SCHOLARLY** *(when obtained)* | ❌ **NOT RETRIEVED.** ❗❗ **THE SINGLE MOST CONSEQUENTIAL OUTSTANDING SOURCE IN THE PROJECT: the entire Paul/John population comparison — and therefore part of the Stage 53 verdict — hangs on it** | — |
+
+> ### 📇 **WHAT S67 PROVES ABOUT THE METHOD, AND IT IS THE LEDGER'S SECOND COMPOUNDING RETURN IN TWO STAGES:**
+>
+> ### **STAGE 47 DECLARED THREE TRUNCATED RETRIEVALS RATHER THAN ARGUING PAST THEM, AND BUILT ITS REVELATION 6 CONTROL ON v.9 ALONE *WITH THAT LIMITATION STATED IN THE FILE*.**
+>
+> ### ✅ **TWO OF THE THREE ARE NOW DISCHARGED — AND THE COMPLETED TEXT DID NOT OVERTURN THE CONTROL, IT STRENGTHENED IT.**
+>
+> ### ❗ **HAD STAGE 47 QUIETLY FILLED THE GAP FROM EXPECTATION, THE COMPLETED VERSE WOULD HAVE HAD NOTHING TO CONFIRM — AND q313's GAP IN THE STAGE 39 AUDIT WOULD NEVER HAVE SURFACED, BECAUSE NOBODY WOULD HAVE GONE BACK TO 6:11 AT ALL.**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**

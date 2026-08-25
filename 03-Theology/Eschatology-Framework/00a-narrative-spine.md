@@ -105,7 +105,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **51¾** | **🔓🔑🔑 The Theodotion Recovery — a three-time failure discharged, and a RECENSION FINGERPRINT** | **[[02t-the-theodotion-recovery]]** |
 | **51½** | **⚖️🔑🔑 Sequence Test — Matthew 24 vs 2 Thessalonians 2: THE TEST SURVIVED** | **[[02u-sequence-test-matthew-24-vs-2-thessalonians-2]]** |
 | **52** | **🔗🔑🔑 Paul's Internal Chain — THREE LETTERS, THREE VOCABULARIES** | **[[02v-pauls-internal-chain]]** |
-| **53** | *(next)* **⚔️ Paul's Resurrection vs John's First Resurrection — Same Event, Overlap, or Different?** | — |
+| **53** | **⚔️🔑🔑 Paul's Resurrection vs John's First Resurrection — NOT ONE WORD IN COMMON** | **[[02w-paul-vs-johns-first-resurrection]]** |
+| **54** | *(next)* **⛓️ What Starts the Thousand Years? — the binding markers, before any arithmetic** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2269,6 +2270,48 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **📌 AND THE BRIDGE TO REVELATION 20 WAS REACHED *WITHOUT* STARTING FROM REVELATION 20 AND WORKING BACKWARD — which is the entire reason the corrected order of chronological work was written at Stage 47.**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"The letter that ties this whole complex to a crisis with a date is the letter that never mentions resurrection. That is where somebody should hit this argument. I would rather say so now than find out later."***
+
+---
+
+## Stage 53 — ⚔️🔑🔑 Paul's Resurrection vs John's First Resurrection: NOT ONE WORD IN COMMON *(current)*
+
+**File:** [[02w-paul-vs-johns-first-resurrection]] · **Reached WITHOUT ever starting from Revelation 20 and working backward — the whole point of the corrected order of chronological work (Stage 47).**
+
+> ### ✅✅ **q224 DISCHARGED FIRST. Both Stage 47 truncations cleared: ✅ Revelation 6:10–11 IN FULL** *(the Ἕως πότε cry, the white robes, ἵνα ἀναπαύσονται ἔτι ΧΡΟΝΟΝ ΜΙΚΡΟΝ, ἕως ΠΛΗΡΩΘΩΣΙΝ)* **· ✅ Matthew 27:52–53 IN FULL** *(πολλὰ ΣΩΜΑΤΑ τῶν κεκοιμημένων ἁγίων ΗΓΕΡΘΗΣΑΝ … ΜΕΤΑ ΤΗΝ ΕΓΕΡΣΙΝ ΑΥΤΟΥ)*. **📌 STAGE 47's DISCIPLINE VINDICATED: it DECLARED the truncations instead of arguing past them, and the completed Revelation 6 text STRENGTHENED the control built on the truncated version.**
+
+> ### ★★ **THE HEADLINE IS A DOWNGRADE. An exhaustive search of Revelation 20:4–6 for Paul's vocabulary — EIGHT TERMS, ALL EIGHT ABSENT: ἀλλάσσω · ἀφθαρσία · ἀθανασία · ἁρπάζω · ἀπάντησις · παρουσία · σάλπιγξ · νεφέλη.**
+>
+> ### ❗❗ **ZERO. JOHN'S FIRST-RESURRECTION PASSAGE AND PAUL'S GATHERING PASSAGES SHARE NOT ONE WORD OF THE VOCABULARY THAT DEFINES EITHER. John writes ΕΖΗΣΑΝ and ΕΒΑΣΙΛΕΥΣΑΝ; neither appears anywhere in 1 Thess 4, 1 Cor 15 or 2 Thess 2.**
+>
+> ### 📐 **MEASURED AGAINST WHAT THE ARCHIVE ALREADY HOLDS: Matthew 24 ⟷ 2 Thess 2 has TWO lexical links (ἀνομία, σημεῖον/τέρας) · 1 Thess 4 ⟷ 1 Cor 15 has several · **PAUL ⟷ REVELATION 20 HAS NONE.** 🛑 **SO THE PAUL↔JOHN LINK IS WEAKER IN EVIDENCE CLASS THAN THE MATTHEW↔PAUL LINK — EVEN THOUGH ITS STRUCTURAL CORRESPONDENCE FEELS STRONGER (q310).**
+
+**✅ AND THE STRUCTURAL CORRESPONDENCE IS GENUINELY STRONG: both run **RESURRECTION OF MESSIAH'S PEOPLE → A REIGN → ENEMIES SUBDUED → DEATH DESTROYED LAST**. ✅ Paul: ἀπαρχὴ Χριστός → οἱ τοῦ Χριστοῦ ἐν τῇ παρουσίᾳ → δεῖ αὐτὸν βασιλεύειν ἄχρι οὗ → ἔσχατος ἐχθρὸς καταργεῖται ὁ θάνατος. ✅ John: ἔζησαν καὶ ἐβασίλευσαν → οἱ λοιποὶ οὐκ ἔζησαν ἄχρι τελεσθῇ → white throne → ὁ θάνατος καὶ ὁ ᾅδης ἐβλήθησαν εἰς τὴν λίμνην. **📌 AND IT CORROBORATES THE STAGE 48 CHRONOLOGY LOCK FROM A SECOND AUTHOR — NEITHER PLACES DEATH'S ABOLITION AT THE BEGINNING OF THE REIGN.** ⚠️ *Shared ἄχρι recorded as observation only; the same shape was refused at q263.*
+
+> ### ⚖️ **THE q212 SYNTAX DATA IS NOW IN HAND — AND THE RULING IS STILL REFUSED. ✅ τὰς ψυχάς is **ACCUSATIVE**; ✅ οἵτινες is **NOMINATIVE**; ✅ **NO REPEATED ARTICLE**, joined by καί alone; ✅ **SEVEN finite verbs** in 20:4. **THE CASE MISMATCH IS THE HEART OF THE DISPUTE AND IT IS NOW DOCUMENTED.** 🛑 **THIS PROJECT DOES NOT PARSE DISPUTED SYNTAX ON ITS OWN AUTHORITY (S14/S22). q212 STAYS OPEN.**
+>
+> ### ★ **AND THERE MAY BE *THREE* GROUPS, NOT TWO — WHICH THE TRANCHE DID NOT NOTE: ✅ καὶ ΕΚΑΘΙΣΑΝ ἐπ' αὐτούς, καὶ κρίμα ἐδόθη αὐτοῖς — **JOHN NEVER SAYS WHO SITS ON THE THRONES.** Throne-sitters, beheaded souls, beast-resisters: **whether these are one, two or three populations IS NOT STATED BY THE TEXT (q311).**
+
+**✅ ἔζησαν / ΟΥΚ ἔζησαν — the same verb affirmed then negated is what makes the two-stage structure a STRUCTURE rather than an inference. ⚠️ And translation-fragile, per q215: RVR1960 breaks it, RVA-2015 preserves it.**
+
+**❗ THE COMPLETED REVELATION 6 DOES NOT RESOLVE THE WAY THE TRANCHE HOPES. §11's literary-focus explanation is good — John owes a vindication of murdered witnesses and ch. 20 pays it. **BUT the martyrs are told to wait ἕως ΠΛΗΡΩΘΩΣΙΝ — for a NUMBER to be COMPLETED, not a category. IF THE POPULATION WERE SIMPLY "ALL WHO BELONG TO MESSIAH," A MARTYR *COUNT* WOULD NOT BE THE STATED CONDITION (q312).** 📌 And the completed text **STRENGTHENS** Stage 47's Intermediate-State Control: the martyrs cry, are clothed, are told to rest — **unambiguously conscious BEFORE ch. 20, so ἔζησαν marks a change of state BEYOND conscious survival. The spiritual-resurrection reading stays under very high pressure — against this project's convenience.**
+
+**★ A GAP IN A PRIOR AUDIT SURFACED BY ACCIDENT: ✅ Rev 6:11's **ἔτι ΧΡΟΝΟΝ ΜΙΚΡΟΝ** is the same two words as ✅ Rev 20:3's **ΜΙΚΡΟΝ ΧΡΟΝΟΝ**, reordered — and **STAGE 39 AUDITED 12:12's ὀλίγον καιρόν AGAINST 20:3 WITHOUT EVER CHECKING 6:11.** 🛑 Recorded as observation, NOT identity. **The verse only came into view because a truncation debt was finally paid — unpaid debts hide more than they cost (q313).**
+
+> ### ⚖️ **SEVEN POTENTIAL CONTRADICTIONS — the tranche tested four, three were added:**
+> ### **✅ ANSWERED: Paul's εἶτα τὸ τέλος vs John's thousand years** *(Paul's own δεῖ … βασιλεύειν ἄχρι οὗ supplies an interval)* · **"the rest of the dead" separation** *(compatible)*.
+> ### ★★ **5 — THE CRITERIA ARE DIFFERENT *KINDS*: Paul's population is RELATIONAL (οἱ τοῦ Χριστοῦ); John's is EVENT-INDEXED (did not worship the beast / take the mark). **A BELIEVER WHO DIED BEFORE THE BEAST EXISTED SATISFIES PAUL'S CRITERION AND CANNOT SATISFY JOHN'S.** Not "narrower vs broader" — a different kind of qualification, and the subset framing does not dissolve it (q314).**
+> ### ★★ **6 — JOHN'S ONE VERB HAS NO SLOT FOR HALF OF PAUL'S POPULATION: ✅ John has ΕΖΗΣΑΝ, a change of state for the DEAD; ✅ Paul has **οὐ πάντες κοιμηθησόμεθα** — believers who never die. **PEOPLE WHO NEVER DIED CANNOT "COME TO LIFE."** The tranche's §9 calls this omission; **IT IS SHARPER — IT IS NOT THAT JOHN DECLINES TO MENTION THEM, IT IS THAT HIS SENTENCE HAS NO ROOM FOR THEM (q315).**
+> ### ★ **7 — WHERE: Paul's εἰς ἀέρα against John's θρόνους. Location Humility (Stage 41) still unresolved, now with a second mismatch.**
+
+**✅ WHERE THE TRANCHE IS RIGHT WITHOUT RESERVATION: **§13–14 resolves "first" cleanly** — ✅ Acts 26:23's **πρῶτος** is a PERSON, ✅ Rev 20:5's **πρώτη** qualifies an ἀνάστασις. **DIFFERENT CLAIMS, NO CONTRADICTION — q307 resolved rather than parked.** And Matthew 27 is defused now that the text is complete: ✅ **ΜΕΤΑ ΤΗΝ ΕΓΕΡΣΙΝ ΑΥΤΟΥ preserves Messiah's precedence exactly as ἀπαρχή requires (q316).** · **§17 on οἱ λοιποὶ τῶν νεκρῶν** — ✅ 20:12/20:15 open the book of life; already the archive's position at q225, reached independently. · **§18** — the two stages preserved, and **Paul's own reign-then-Death-last structure now supplies a CONCEPTUAL REASON to keep John's staging.** · **§23's refusal to count 1,000 years is the most important paragraph in the tranche.**
+
+> ### 🧮 **CHAIN ARITHMETIC, STATED EXPLICITLY BECAUSE THE RESULT IS COUNTER-INTUITIVE: Matthew inside "this generation" **HIGH** · **Matthew 24 ⟷ 2 Thess 2 = PROBABLE (weakest joint)** · Paul's internal chain **HIGH** · Paul ⟷ Rev 20 **PROBABLE**.
+>
+> ### ❗❗ **A CHAIN IS GOVERNED BY ITS WEAKEST JOINT, NOT ITS AVERAGE. EVEN IF PAUL ⟷ REVELATION 20 WERE VERY HIGH, THE FIRST-CENTURY ANCHOR COULD NOT EXCEED *PROBABLE* — MATTHEW ⟷ 2 THESSALONIANS 2 CAPS IT.**
+
+**📐 VERDICT — LOWER THAN THE TRANCHE PROPOSED. Structural correspondence **VERY STRONG**; lexical correspondence **ZERO**; **EVENT IDENTITY = PROBABLE, NOT HIGH, NOT CLOSED.** Held below HIGH by: zero shared vocabulary · contradiction 5 · contradiction 6 · **q212 unresolved, which means the population of 20:4 is literally undetermined by the text as we can parse it** · and Burden-of-Distinction **clause 2** — much of the felt density is INHERITED from shared Danielic and resurrection-hope background, which counts ONCE. 📌 **HYPOTHESIS B STILL BEATS A. THE VERDICT IS "PROBABLE," NOT "DOUBTED."**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"Matthew and Paul had shared two words. Paul and John share none... I have been feeling a strength the words do not supply. I still think these are the same event. But I have to write down that I think it rather than that I have shown it."***
 
 ---
 
