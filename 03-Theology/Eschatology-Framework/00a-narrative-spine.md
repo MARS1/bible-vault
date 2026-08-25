@@ -110,7 +110,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **54¾** | **🚧🔑🔑 The Chronology Fork and the Quarantine — an ASSUMPTION WAS REMOVED FROM THE CHAIN** | **[[02y-the-chronology-fork-and-the-quarantine]]** |
 | **54½ + 54⅞** | **🕸️🔑🔑 The Deception Scope Completed + THE ALLEGIANCE CONTROL** | **[[02z-deception-scope-and-the-allegiance-control]]** |
 | **55A** | **👹🔑🔑 Build the Beast's Fingerprint Before Naming It — THE DEBT PAID OFF** | **[[03a-the-beasts-fingerprint]]** |
-| **55B** | *(next)* **⚖️ Put the First Candidate on Trial — as a DEFENDANT, with intent to destroy it** | — |
+| **55B** | **⚖️🔑🔑 The First Candidate on Trial — 666 IS NOT A UNIQUE IDENTIFIER** | **[[03b-the-first-candidate-on-trial]]** |
+| **55C** | *(next)* **🐑 Who Is the False Prophet? — same procedure: profile first, defendant second** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2473,6 +2474,46 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **📋 THE 22-POINT FINGERPRINT ADOPTED WITH AMENDMENTS: ✂️ **seven-mountains-as-candidate-evidence REMOVED** · ♻️ **the Danielic king/kingdom item CORRECTED** · ♻️ **the "one ruler presently existing" item CORRECTED to an unfixed vantage** · ➕ **THE LETHAL ARM ADDED** *(13:15's ΑΠΟΚΤΑΝΘΩΣΙΝ — death for refusing worship, not only economic exclusion)* · ➕ **THE DANIELIC WAR-PHRASE ADDED** *(ποιέω πόλεμον ΜΕΤΑ τῶν ἁγίων)*. **And 54⅞'s FOUR-PART TEST stands: political authority · worship claim · persecution · mark-name-number system. THREE OF FOUR IS A FAILURE.**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"A profile that already contains a candidate's supporting evidence is not a profile. It is a portrait with the sitter's name written under it... There is a reading available from inside the text that nobody had put on the table, because a familiar answer had already occupied the space where the question should have been."***
+
+---
+
+## Stage 55B — ⚖️🔑🔑 The First Candidate on Trial: 666 IS NOT A UNIQUE IDENTIFIER *(current)*
+
+**File:** [[03b-the-first-candidate-on-trial]] · **The candidate entered as a DEFENDANT and the goal was to destroy it. *A hypothesis that survives a genuine attempt at demolition has earned something; one that survives an attempt at confirmation has earned nothing.***
+
+**🆕 CC-01 ADOPTED — AND THE READER DERIVED IT. From a lay question — *"are we measuring with the same ruler?"* — comes: **ALTERNATIVE NUMERICAL READINGS MUST BE TESTED UNDER THE SAME LETTER-NUMBER SYSTEM. ATTESTED SPELLINGS MAY VARY; THE SYSTEM MAY NOT BE SWITCHED TO OBTAIN A DESIRED TOTAL.** ✅ **AND THE CALCULATION PASSES IT, COMPUTED IN-ARCHIVE RATHER THAN CITED: נרון קסר = 50+200+6+50+100+60+200 = **666** · נרו קסר = 50+200+6+100+60+200 = **616** · **difference exactly 50, the final nun (q355).**
+
+> ### ❗❗ **BUT THE HONEST VERSION IS SHARPER THAN THE CONCESSION. Revelation is Greek, and Greek has isopsephy. **COMPUTED: ΝΕΡΩΝ ΚΑΙΣΑΡ = 1337.** *(ΝΕΡΩΝ alone 1005; ΚΑΙΣΑΡ alone 332.)*
+>
+> ### **THE IDENTIFICATION DOES NOT MERELY *PREFER* THE HEBREW RULER — IT ***REQUIRES*** IT, AND MISSES IN GREEK BY 671. The owed evidence is not "why might a Semitic form be relevant" but **"why would a Greek-writing author addressing Asia Minor expect a calculation his own language cannot perform" (q356).**
+
+> ### ★★★ **AND THE EARLIEST INTERPRETER WE POSSESS USED THE GREEK RULER AND GOT A DIFFERENT NAME. ✅ Irenaeus (c. 180), claiming access to people who spoke with John *face to face*, says 666 comes from **"the Greek mode of calculation."** ✅ **HIS CANDIDATE IS ΤΕΙΤΑΝ — AND COMPUTED IN-ARCHIVE: Τ300+Ε5+Ι10+Τ300+Α1+Ν50 = 666.**
+>
+> ### ✅ **AND HE EXPLICITLY DECLINED: *"We will not, however, incur the risk of pronouncing positively as to the name of Antichrist"* — it is *"more certain, and less hazardous, to await the fulfilment of the prophecy, than to be making surmises."*
+>
+> ### 🛑 **NOT A REFUTATION — Irenaeus could be wrong and says so himself. **BUT IT DESTROYS THE CLAIM THAT THE NUMBER *OBVIOUSLY POINTS* SOMEWHERE, BECAUSE THE EARLIEST READER WE HAVE DID NOT SEE IT POINTING THERE AND WAS USING A DIFFERENT SYSTEM (q357).**
+
+> ### ★★★ **AND THE ARITHMETIC IS THE DEEPEST PROBLEM. COMPUTED: **ΤΕΙΤΑΝ = 666 · ΛΑΤΕΙΝΟΣ = 666 · ΕΥΑΝΘΑΣ = 666.** ❗❗ **THREE GREEK NAMES REACH IT — BEFORE ADDING THE HEBREW RULER, WHICH SUPPLIES MORE.**
+>
+> ### **A NUMBER MANY NAMES SATISFY IS A ***FILTER***, NOT A ***FINGERPRINT***. ANY ARGUMENT OF THE FORM "X = 666, THEREFORE X" IS INVALID ON ITS FACE — AND THIS APPLIES TO EVERY CANDIDATE, INCLUDING FUTURE ONES (q358).** ⚠️ *Only ΤΕΙΤΑΝ is verified as Irenaeus's; the other two were computed here to test uniqueness, and no claim is made about who proposed them.*
+
+**✅ SO WHAT SURVIVES IS NARROWER AND BETTER THAN CLAIMED: **THE EVIDENCE IS NOT 666. IT IS THE *PAIR*.** No other proposal explains BOTH numbers through two real forms of one name under one ruler with the gap being exactly the differing letter. **THAT IS DISTINCTIVE AND IT SURVIVED THE TRIAL.** ✅ And the variant's antiquity is verified: **P115 (Oxyrhynchus 4499), c. 225–275 CE, reads χιϛ** ⚠️ *(damaged; INTF notes ambiguity — recorded, not suppressed)* · ✅ **Codex Ephraemi reads 616** · ✅ **the majority read 666** · ✅ **Irenaeus knew 616 and rejected it**, which independently dates the variant before c. 180.
+
+**❌ BUT THE SPELLING THE WHOLE THING RESTS ON IS NOT VERIFIED. **נרון קסר — DOCUMENTARY ATTESTATION NOT RETRIEVED.** Five rungs tried and named: Wikipedia Murabba'at *(404)* → DSS manuscript list *(404)* → Bar Kokhba *(200, nothing relevant)* → Britannica *(403)* → academic search *(auth-gated)*. 🛑 **RECORDED AS *NOT RETRIEVED WITH RUNGS NAMED*, NOT AS "unattested" — the distinction between "does not exist" and "we did not reach it" is preserved (q359).**
+
+**★★ AND A GRAMMATICAL PROBLEM UNDER THE WHOLE ENTERPRISE: ✅ **13:18's ἀνθρώπου IS ANARTHROUS.** The construction permits *"a number of a man"* · *"a **human** number"* · *"a number of humanity."* ❗❗ **THE SECOND AND THIRD POINT TO NO PERSON AT ALL — AND THE NAME-CALCULATION ENTERPRISE PRESUPPOSES THE FIRST.** 🛑 Not decided here, per S14/S22 (q360). ✅ *Also: SBLGNT prints the number as WORDS (ἑξακόσιοι ἑξήκοντα ἕξ); P115 has the numeral χιϛ; C has words — **the tradition varies in FORM as well as VALUE.***
+
+> ### ❗❗ **THE KILLER OBJECTION, SHARPENED BY THIS ARCHIVE: 54⅞ established by exhaustive search that ✅ **THE BEAST AND FALSE PROPHET ARE NEVER RELEASED** — 20:10's ΟΠΟΥ clause finds them still in the lake *after* the thousand years (q338).
+>
+> ### **SO THE MODEL DOES NOT NEED THE BEAST TO HAVE *DECLINED* OR *LOST DOMINION*. IT NEEDS WHATEVER "THE BEAST" DENOTES TO BE ***PERMANENTLY AND IRREVERSIBLY GONE FROM THE MOMENT THE MILLENNIUM BEGINS, FOR ITS ENTIRE DURATION.*** The "loss of dominion" softening may be TESTED but not ASSUMED the moment history fails to fit (q361).**
+
+**⚠️ AND THE DATING PROBLEM IS NOT A FUTURE BRANCH — IT IS LOAD-BEARING NOW. ✅ **Irenaeus is the earliest witness that 616 existed** *(this stage's second-strongest evidence)* **AND the earliest external witness to Revelation's date.** ❗ **ONE MAY NOT CITE HIM FOR 616 AND SET HIM ASIDE ON THE DATE WITHOUT ARGUMENT — THAT IS SOURCE-SHOPPING.** ❌ **AND 5.30.3 WAS NOT RETRIEVED**: New Advent *(reachable, fair-use blocked)* → archive.org *(404)* → CCEL *(404)* → tertullian.org *(404)* → scholiast.org *(ENOTFOUND)*. 🛑 **THE STAGE REFUSES TO STATE WHAT IRENAEUS SAYS ABOUT THE DATE BECAUSE IT HAS NOT READ IT — a patristic date is exactly the claim memory would supply fluently and wrongly, and this project has been burned three times by that (q362).**
+
+**📊 THE 54⅞ FOUR-PART TEST, SCORED — *three of four is a failure*: ✅ **political authority SATISFIED** · 🔶 **worship claim PARTIAL** *(not retrieved here)* · 🔶 **persecution PLAUSIBLE** *(no source retrieved; and ★ 55A's LETHAL ARM must be satisfied specifically)* · ❌ **mark-name-number system NOT DEMONSTRATED** *(the tranche's own §16 says so)*. **AT BEST TWO CLEAR, TWO UNDEMONSTRATED — UNDER THE TEST AS WRITTEN, THE CANDIDATE HAS NOT PASSED.** ⚠️ And 55A's corrections bind: ✂️ seven-mountains was REMOVED from the profile (q349) so it may not be scored · ♻️ the "one is" vantage is unfixed (q351) so no king-list may be scored · ♻️ the king/kingdom basis dissolved in both Greek recensions (q347).
+
+**📐 VERDICT — NOT CONVICTED, NOT ACQUITTED. **THE HYPOTHESIS IS ALIVE, WOUNDED, AND CARRIES SPECIFIC NAMED DEBTS. IT WAS NOT RESCUED, AND IT WAS NOT EXECUTED ON EVIDENCE THAT HAS NOT BEEN READ.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"I ran his name through the same sum. It comes to six hundred and sixty-six exactly. So does another name. So does a third. A number that many names satisfy is a sieve, not a signature. It tells you which doors are locked. It does not tell you which one is yours."***
 
 ---
 

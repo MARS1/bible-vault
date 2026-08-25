@@ -6,7 +6,7 @@ tags: [methodology, epistemology, exegesis, ingestion-protocol, governance]
 reference:
 created: 2026-08-12
 status: active
-version: "5.3 — 2026-08-25, current at Stage 54½ + Side Branch 54⅞ (established 1.0 at Stage 16, 2026-08-12)"
+version: "5.4 — 2026-08-25, current at Stage 55B (established 1.0 at Stage 16, 2026-08-12)"
 related: "[[00-index]], [[00a-narrative-spine]], [[00b-biblical-epistemology]]"
 ---
 
@@ -1552,6 +1552,48 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 🔢 CC-01 — The Calculation Control *(added v5.4 — derived by the reader)*
+
+> **Alternative numerical readings must be tested under the SAME letter-number system. Historically attested spellings and transliterations may vary. The numerical system may NOT be switched to obtain a desired total.**
+
+*Origin: a lay question — "why compute one form in Hebrew and the other in Latin? Are we measuring with the same ruler?" The rule is now permanent and binds every future candidate.*
+
+**✅ Worked instance — the calculation PASSES:** נרון קסר = **666**, נרו קסר = **616**, one ruler, difference exactly **50**, the letter that differs.
+
+> ### ❗❗ **AND ITS COMPANION, WHICH IS ARITHMETIC RATHER THAN OPINION: **A NUMBER THAT MANY NAMES SATISFY IS A *FILTER*, NOT A *FINGERPRINT*.**
+>
+> ### **COMPUTED IN-ARCHIVE: ✅ ΤΕΙΤΑΝ = 666 · ✅ ΛΑΤΕΙΝΟΣ = 666 · ✅ ΕΥΑΝΘΑΣ = 666 — three Greek names, before the Hebrew ruler supplies more.**
+>
+> ### 🛑 **ANY ARGUMENT OF THE FORM "X = 666, THEREFORE X" IS INVALID ON ITS FACE. THIS APPLIES TO EVERY CANDIDATE, INCLUDING ONES NOT YET PROPOSED (q358).**
+
+---
+
+## 🧮 Compute, Do Not Repeat *(added v5.4)*
+
+> **Any numerical claim entering this archive is CALCULATED here, not cited from a source that calculated it.**
+
+*Warrant: recomputing rather than repeating is exactly how ✅ **ΤΕΙΤΑΝ = 666** surfaced — and with it the observation that 666 is not unique.* ❗ **That finding was unavailable to anyone quoting the standard argument, because the standard argument only ever computes ONE name.**
+
+---
+
+## ⚖️ No Source-Shopping *(added v5.4)*
+
+> **A source may not be cited for the claim it supports and set aside on the claim it undermines, without an argument for the asymmetry.**
+
+*Warrant: ✅ Irenaeus is simultaneously the earliest witness that the **616 variant existed** — the candidate's second-strongest evidence — **and** the earliest external witness to **Revelation's date**, which bears against the same candidate's chronology.*
+
+> ### ❗ **CITING HIM FOR ONE AND IGNORING HIM ON THE OTHER IS SOURCE-SHOPPING. IF THERE IS A REASON TO WEIGH HIS TESTIMONY DIFFERENTLY ON THE TWO POINTS, THAT REASON MUST BE STATED AND DEFENDED.**
+
+---
+
+## 📅 A Dating Question Is Load-Bearing the Moment a Claim Depends on It *(added v5.4)*
+
+> **A dating question may not be deferred to a later stage once an argument in the CURRENT stage requires a particular date to hold.**
+
+*Warrant: "one is = a specific ruler" requires the vision seated in a specific decade. That cannot be filed as future work while simultaneously being used.* ⚠️ **And 55A independently found the vantage point itself unfixed (q351) — so the dating question has TWO open ends, not one.**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -1577,6 +1619,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **5.4** | 2026-08-25 | **THE READER WROTE A METHODOLOGY RULE, AND THE ARITHMETIC BROKE THE ARGUMENT IT WAS MEANT TO TEST.** Added **CC-01 THE CALCULATION CONTROL** *(same letter-number system for alternative readings)*, **COMPUTE DO NOT REPEAT**, **NO SOURCE-SHOPPING**, and **A DATING QUESTION IS LOAD-BEARING THE MOMENT A CLAIM DEPENDS ON IT**. ✅ **CC-01 came from a lay question about measuring with the same ruler — and the calculation PASSES it: נרון קסר = 666, נרו קסר = 616, difference exactly 50 (q355).** ❗❗ **BUT COMPUTED IN GREEK, ΝΕΡΩΝ ΚΑΙΣΑΡ = 1337 — the identification does not PREFER the Hebrew ruler, it REQUIRES it, missing by 671 (q356).** ★★★ **AND THE EARLIEST INTERPRETER COMPUTED IN GREEK AND GOT A DIFFERENT NAME: Irenaeus proposes ΤΕΙΤΑΝ, which computes to exactly 666 — and he explicitly DECLINES to pronounce (q357).** ★★★ **666 IS NOT A UNIQUE IDENTIFIER: ΤΕΙΤΑΝ, ΛΑΤΕΙΝΟΣ and ΕΥΑΝΘΑΣ all reach it. A number many names satisfy is a FILTER, not a FINGERPRINT (q358).** ✅ **What survives is the PAIR, not the number — no other proposal explains both 666 and 616 under one ruler.** ❌ **But the spelling is NOT VERIFIED (five rungs named, q359), ἀνθρώπου is ANARTHROUS and may mean "a human number" (q360), the destruction requirement is PERMANENCE not decline (q361), and Irenaeus 5.30.3 on the date was NOT RETRIEVED and is the stage's most important debt (q362).** 🛑 **STILL NO ARITHMETIC ON THE THOUSAND YEARS.** |
 | **5.3** | 2026-08-25 | **THE BRAKE WENT ON AGAINST THE READER'S OWN CONCLUSION.** Added **THE BRAKE APPLIES SYMMETRICALLY**, **ANALYTICAL SUMMARY WORDS ARE NOT THE TEXT'S WORDS**, **ETYMOLOGY IS NOT USAGE — the diachronic form**, and a recorded **LIMIT OF THE SELF-CHECK RULE**. ★★★ **THE DECISIVE STRUCTURAL FINDING: ✅ 13:16's second beast administers the mark, ✅ 19:20 names him ὁ ψευδοπροφήτης and throws him in ΖΩΝΤΕΣ before 20:1, ✅ 20:10's ΟΠΟΥ clause places him already there when the devil arrives, and ✅ an exhaustive search of 20:1–15 for any release returns ABSENT. **SATAN IS RELEASED; HE IS NOT. SO UNDER H1, H2 AND H3 ALIKE THE MARK'S ADMINISTERING AGENT IS NOT OPERATING — AND IT REQUIRED NO IDENTIFICATION OF THE BEAST (q338).**** ★★ **WORSHIP IS PRESENT IN ALL SIX MARK PASSAGES, verified conjunction by conjunction — ✅ 14:9's THREE coordinated predicates, ✅ 20:4's THREE negatives — and ✅ 13:15's penalty for refusing worship is ΑΠΟΚΤΑΝΘΩΣΙΝ, DEATH, not economic exclusion (q339, q340).** ✅ **The citizenship control accepted WITH its limit — Paul's status pre-dates Revelation, so the principle rests on Matt 22:21 and Acts 5:29, not on Paul alone (q342).** ❗ **Revelation defines its faithful by ✅ ΤΗΡΟΥΝΤΕΣ ΤΑΣ ΕΝΤΟΛΑΣ + ΜΑΡΤΥΡΙΑ/ΠΙΣΤΙΣ ΙΗΣΟΥ — relationally, NOT by political non-participation (q343).** ✅ **ἵνα+subjunctive fixes purpose, not scope (q333).** 🏷️ **RC-01 created and fenced in the same paragraph — half-verified, may not be argued from (q335).** ✅ **Satan bound ≠ humans perfected — true under both H1 and H2, so it settles neither (q336).** ✅ **πορν- attested in both senses; dissolve neither (q345).** |
 | **5.2** | 2026-08-25 | **AN ASSUMPTION WAS REMOVED FROM THE CHAIN, AND A HYPOTHESIS WAS QUARANTINED RATHER THAN PARKED.** Added the **SELF-INVALIDATING HYPOTHESIS TEST**, **UNFALSIFIABLE BY CONSTRUCTION — REFUSED IN BOTH DIRECTIONS** *(with falsification tests named in advance)*, **YOU CANNOT COUNT FROM A START YOU HAVE NOT IDENTIFIED**, and **MODERN SIGNS ARE INADMISSIBLE FOR DATING**. ★★★ **A PHANTOM-MILLENNIUM CHRONOLOGY WAS PROPOSED. Its arithmetic was CHECKED AND IS CONSISTENT — but every early NT manuscript sits inside the window it calls fictional, and SBLGNT is reconstructed from them, so it would invalidate the method used to verify it (q324); and its disconfirming evidence is all reclassified as phantom, so nothing can refute it (q325).** ★★★ **THE REAL FINDING UNDERNEATH: THIS PROJECT HAD BEEN TESTING "ARE WE IN THE LITTLE SEASON?" WITHOUT EVER ESTABLISHING THAT THE THOUSAND YEARS ELAPSED. H1, H2 and H3 are all held open, and H2 does NOT require the phantom premise (q328).** ★★★ **AND A CORRECTION FROM REVELATION ITSELF: ✅ 5:10's ΒΑΣΙΛΕΥΟΥΣΙΝ ΕΠΙ ΤΗΣ ΓΗΣ and ✅ 20:9's surrounded ΠΑΡΕΜΒΟΛΗ on the earth's expanse POSITIVELY COUNTER the heaven-only reign, while ✅ 20:4 has no location marker at all — Location Humility survives with text on BOTH sides (q329).** ⚠️ **SECOND TRANSLATION-FRAGILITY CASE: SBLGNT prints the PRESENT βασιλεύουσιν at 5:10 where the ESV renders a future (q330).** ✅ **Isaiah 65:20 contains death and Rev 21:4 excludes it — no lifespan parameter (q331).** ❗❗ **AND THE BEAST/FALSE-PROPHET BRANCH IS NOW BLOCKING AND OUTRANKS 54½: their removal precedes the binding, so without them Marker A is untestable (q332).** 🛑 **STILL NO DATE, NO ARITHMETIC, NO HISTORICAL SOURCE OF ANY KIND.** |
 | **5.1** | 2026-08-25 | **THE STAGE THAT LOST ITS OWN TEST AND RECORDED IT IN THE HEADLINE.** Added **VERIFY A REPORT AGAINST ITSELF**, the **DECEPTION-SCOPE CONTEXT RULE** *(with the Confinement–Function leash attached)*, **A REVELATION NOUN MAY CARRY OPPOSITE VALENCES**, and **TWO SIMULTANEOUS MILLENNIUM-START MARKERS**. ★★★ **THE δέω MATCH: ✅ Matthew 12:29 and Mark 3:27 bind the strong man with δέω, and ✅ Revelation 20:2 binds the dragon with δέω — SO THE READING THIS PROJECT ARGUES AGAINST HAS ONE SHARED LEXEME WITH REVELATION 20, WHERE THE READING IT ARGUES FOR HAS ZERO (q310, q317). The tranche had rejected it without checking. Recorded at full strength; braked by δέω's very common class, the parable context, Revelation's four further verbs, and ✅ Luke 11:22's νικάω — the Synoptics splitting a THIRD time.** ⚠️ **THIRD LANE SELF-CONTRADICTION: the same report's table said δέω and its conclusion denied it — and in all three instances the drift ran toward the MORE INTERESTING claim (q318).** ★★ **PAUL TRACKS LXX ISAIAH 11:4 AND REVELATION DOES NOT: ✅ ΑΝΕΛΕΙ is identical in the LXX and 2 Thess 2:8, while ✅ ῥομφαία is in neither the Hebrew nor the LXX — so the Paul⟷Revelation mouth-weapon link is DOWNGRADED, not promoted (q319).** ✅ **EXHAUSTIVE πλανάω SWEEP, 22 chapters, 8 occurrences — and it CORRECTED the rule it was run to support (q322, q323).** ✅ **καταργέω at Hebrews 2:14 against 1 Cor 15:26 — same verb, opposite timing, so καταργέω fixes no timing (q320).** ★★★ **§14's CONCLUSION KEPT AND ITS PROOF DISCARDED: Revelation removes EVERY named national-scale deceiver before the interval — a CONTENT argument that survives Vision Sequence ≠ Event Sequence, where the tranche's sequence argument did not (q321).** ✅ **One shared thousand-year interval — VERY HIGH.** 🛑 **AND STILL NO DATE, NO ARITHMETIC, NO JOSEPHUS.** |

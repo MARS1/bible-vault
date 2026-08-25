@@ -394,6 +394,24 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Stage 55B — the candidate trial, and the first computed evidence in this archive
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S93** | ✅✅ **COMPUTED IN-ARCHIVE — Hebrew gematria and Greek isopsephy, standard letter values** | **נרון קסר · נרו קסר · ΝΕΡΩΝ ΚΑΙΣΑΡ · ΤΕΙΤΑΝ · ΛΑΤΕΙΝΟΣ · ΕΥΑΝΘΑΣ · χξϛ · χιϛ** | ✅ **666 / 616, difference exactly 50 (q355)** · ❗ ✅ **ΝΕΡΩΝ ΚΑΙΣΑΡ = 1337 (q356)** · ★★★ ✅ **ΤΕΙΤΑΝ = 666 (q357)** · ★★★ ✅ **ΛΑΤΕΙΝΟΣ = 666 and ΕΥΑΝΘΑΣ = 666 — so 666 is NOT unique (q358)** | **PRIMARY** *(arithmetic, reproducible)* | ✅✅ **VERIFIED BY COMPUTATION, NOT CITATION.** ❗ **THIS IS THE ARCHIVE'S FIRST *COMPUTED* SOURCE ENTRY — and recomputing rather than repeating is exactly what surfaced ΤΕΙΤΑΝ = 666, which the standard argument never calculates** | 2026-08-25 |
+| **S94** | ✅ **SBLGNT** *(Bible Gateway)* | **Revelation 13:18** | ✅ **ἀριθμὸς γὰρ ΑΝΘΡΩΠΟΥ ἐστίν — ANARTHROUS (q360)** · ✅ **the number printed as WORDS: ἑξακόσιοι ἑξήκοντα ἕξ** | **PRIMARY** | ✅ **VERIFIED.** ✅ *The lane reported the grammatical RANGE without choosing among the readings — correct under S14/S22* | 2026-08-25 |
+| **S95** | ✅ **Manuscript witnesses for Revelation 13:18** *(reference sources; NOT a critical apparatus)* | **P115 (Oxyrhynchus 4499) · Codex Ephraemi Rescriptus (C) · the majority text** | ✅ **P115, c. 225–275 CE, reads χιϛ = 616** · ✅ **C reads 616, written out** · ✅ **the majority read 666** | **SECONDARY** | ✅ **VERIFIED AT REFERENCE LEVEL.** ⚠️ **P115 IS DAMAGED and INTF notes the surviving space leaves some ambiguity — RECORDED, NOT SUPPRESSED.** ❌ **A REAL CRITICAL APPARATUS (NA/UBS, Metzger, INTF) WAS *NOT* RETRIEVED — the characterization rests on reference works** | 2026-08-25 |
+| **S96** | 🔶 **IRENAEUS, *Against Heresies* 5.30** *(New Advent, partial — fair-use excerpt only)* | **5.30.1 · 5.30.3** | ✅ **666 from "the Greek mode of calculation"** · ★ ✅ **the candidate ΤΕΙΤΑΝ** · ✅ **"We will not, however, incur the risk of pronouncing positively as to the name of Antichrist"** · ✅ **he knew and rejected 616** | **PRIMARY** *(patristic)* | 🔶 **PARTIALLY RETRIEVED.** ❌❌ **5.30.3 — THE DATING PASSAGE — NOT RETRIEVED. FIVE RUNGS NAMED: New Advent *(reachable, fair-use blocked)* → archive.org *(404)* → CCEL *(404)* → tertullian.org *(404)* → scholiast.org *(ENOTFOUND)*.** ❗❗ **THIS IS THE MOST IMPORTANT OUTSTANDING RETRIEVAL IN THE STAGE (q362)** | 2026-08-25 |
+| **S97** | ❌ **Documentary attestation of נרון קסר** | **Mur 18 or another dated Judean Desert document** | the spelling on which the ENTIRE calculation depends *(q359)* | **PRIMARY** *(when obtained)* | ❌ **NOT RETRIEVED — FIVE RUNGS NAMED: Wikipedia Murabba'at *(404)* → DSS manuscript list *(404)* → Bar Kokhba article *(HTTP 200, no relevant content — a real-but-wrong success)* → Britannica *(403)* → academic search *(auth-gated)*.** 🛑 **RECORDED AS *NOT REACHED*, NOT AS "UNATTESTED"** | — |
+
+> ### 📇 **TWO THINGS THIS BLOCK ESTABLISHES ABOUT THE METHOD:**
+>
+> ### ★★★ **FIRST — *COMPUTE, DO NOT REPEAT.* S93 IS THE ARCHIVE'S FIRST COMPUTED ENTRY, AND IT IMMEDIATELY PRODUCED THE STAGE'S DEEPEST FINDING: **ΤΕΙΤΑΝ = 666, ΛΑΤΕΙΝΟΣ = 666, ΕΥΑΝΘΑΣ = 666.** THE STANDARD ARGUMENT NEVER CALCULATES A SECOND NAME, SO IT CANNOT DISCOVER THAT THE NUMBER IS NOT UNIQUE.**
+>
+> ### ⚠️ **SECOND — S96 AND S97 ARE BOTH INCOMPLETE, AND *BOTH GAPS CUT AGAINST WHAT WOULD HAVE BEEN CONVENIENT TO SAY.* THE STAGE COULD HAVE STATED IRENAEUS'S DATE FROM MEMORY IN ONE FLUENT SENTENCE AND ASSERTED THE HEBREW SPELLING AS "well attested." **IT DID NEITHER, AND NAMED TEN FAILED RUNGS INSTEAD.**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**
