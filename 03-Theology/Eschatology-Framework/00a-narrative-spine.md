@@ -102,7 +102,9 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **50** | **🔑🔑 2 Thessalonians 2 — The *Parousia*, Our Gathering, and the Lawless One** | **[[02q-2-thessalonians-2-parousia-gathering-lawless-one]]** |
 | **50½** | **🏛️🔑 What Temple Did Paul Mean? — THE VERDICT INVERTED** | **[[02r-what-temple-did-paul-mean]]** |
 | **51** | **📜🔑🔑 Daniel → Antiochus → Yeshua → Paul — DANIEL NEVER SAID IT TWICE THE SAME WAY** | **[[02s-daniel-antiochus-yeshua-paul]]** |
-| **51½** | *(next)* **⚖️ Sequence Test — Matthew 24 vs 2 Thessalonians 2** | — |
+| **51¾** | **🔓🔑🔑 The Theodotion Recovery — a three-time failure discharged, and a RECENSION FINGERPRINT** | **[[02t-the-theodotion-recovery]]** |
+| **51½** | **⚖️🔑🔑 Sequence Test — Matthew 24 vs 2 Thessalonians 2: THE TEST SURVIVED** | **[[02u-sequence-test-matthew-24-vs-2-thessalonians-2]]** |
+| **52** | *(next)* **🔗 Paul's Internal Chain — 2 Thess 2 ⟷ 1 Thess 4 ⟷ 1 Cor 15** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2152,6 +2154,81 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **❌ THEODOTION DANIEL FAILED A THIRD TIME — third agent, third source set. **CONCLUSIVELY AN ACCESS GAP, NOT A METHOD GAP, AND IT NOW BLOCKS FOUR FINDINGS (q246).**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"I have been asking what the abomination is. I am starting to think Daniel is answering a different question: what it does."***
+
+---
+
+## Side Branch 51¾ — 🔓🔑🔑 The Theodotion Recovery *(current)*
+
+**File:** [[02t-the-theodotion-recovery]] · ✅✅ **A DEBT THAT FAILED THREE TIMES ACROSS THREE STAGES, THREE AGENTS AND THREE SOURCE SETS — DISCHARGED IN ONE ATTEMPT ONCE THE *KIND* OF SOURCE WAS RECONSIDERED.**
+
+> ### 🔧 **THE DIAGNOSIS MATTERS MORE THAN THE FIX. Every prior attempt searched for *a website that displays Greek Daniel*. ❌ TWO UNEXAMINED ASSUMPTIONS: that Theodotion would be served as a PAGE (it is an academic PLAIN-TEXT CORPUS — CCAT/UPenn), and that "LXX Daniel" is one text with Theodotion inside it (✅ **CCAT SHIPS THEM AS SEPARATE FILES: `61.DanielOG.mlxx` and `62.DanielTh.mlxx`**).**
+>
+> ### ❗❗ **AND THE CLUE WAS ALREADY IN THE ARCHIVE, UNREAD: Stage 48½ recorded that BibleHub's Daniel was OLD GREEK, identified from its own ὡς distinctive. **RAHLFS PRINTS THEODOTION AS ITS MAIN DANIEL TEXT.** Those two facts together imply a Rahlfs-tradition source yields Theodotion — **AND THREE SUBSEQUENT STAGES SEARCHED WITHOUT EVER COMBINING THEM.**
+>
+> ### 🆕 **THIRD RULE IN THE FAMILY: *a failed request is not an unavailable source* (v4.9) · *the tool matters as much as the URL* (S48) · and now **ASK WHAT *KIND* OF ARTIFACT THE TEXT IS. A text existing in two recensions may be shipped as two files under two names.**
+
+**✅✅ q180 CONFIRMED, AND STAGE 48½ VINDICATED. Daniel 7:13 across three witnesses: ✅ ARAMAIC **עִם** + "came TO the Ancient of Days, was PRESENTED" · ✅ **THEODOTION — ΜΕΤΑ τῶν νεφελῶν … ΕΩΣ ΤΟΥ ΠΑΛΑΙΟΥ ΤΩΝ ΗΜΕΡΩΝ ΕΦΘΑΣΕΝ … ἐνώπιον αὐτοῦ ΠΡΟΣΗΝΕΧΘΗ** · ⚠️ **OLD GREEK — ΕΠΙ, and the ambiguous ὡς παλαιὸς ἡμερῶν παρῆν.** **THEODOTION AGREES WITH THE ARAMAIC ON BOTH POINTS; THE OLD GREEK IS THE OUTLIER ON BOTH.** 📌 A retrieval agent had asserted the OG said "he approaches the throne"; **THE ARCHIVE REJECTED THE ASSERTION AND RECORDED THE DIVERGENCE UNRESOLVED. HAD IT ACCEPTED, THIS FINDING WOULD HAVE BEEN INVISIBLE.**
+
+> ### ★★ **THE FINDING NOBODY ANTICIPATED — MATTHEW AND JOHN FOLLOW *DIFFERENT* GREEK DANIELS:**
+>
+> ### ✅ **Matthew 24:30 — ἐρχόμενον ΕΠΙ τῶν νεφελῶν = OLD GREEK.** ✅ **Revelation 1:7 — ἔρχεται ΜΕΤΑ τῶν νεφελῶν = THEODOTION/ARAMAIC.**
+> ### ✅ **AND INDEPENDENTLY AT THE ABOMINATION PHRASE: Matthew 24:15's ΤΟ βδέλυγμα ΤΗΣ ἐρημώσεως (articular) = **OLD GREEK 12:11**; ❗ **THEODOTION 12:11 IS ANARTHROUS — MATTHEW DOES NOT MATCH IT.**
+>
+> ### **TWO INDEPENDENT DATA POINTS, SAME DIRECTION: MATTHEW TRACKS THE OLD GREEK. REVELATION GOES THE OTHER WAY ON THE PREPOSITION.**
+>
+> ### 📌 **AND THIS SOLVES STAGE 51's ARTICLE-INVERSION PUZZLE (q277): Matthew's article is not the Hebrew's (anarthrous) and not Theodotion's (anarthrous). **IT IS THE OLD GREEK'S. THE INVERSION IS A RECENSION FINGERPRINT, NOT A MYSTERY.**
+>
+> ### ⚠️ **BRAKE: THIS IS TEXTUAL AFFILIATION, NOT MEANING, DATING, AUTHORSHIP OR DEPENDENCE. *Quotation Behavior Is Per-Quotation* applies at full force — TWO quotations in Matthew, ONE in Revelation, and it may NOT be generalized across either book (q292).**
+
+**✅ q275 CONFIRMED AND MADE EXHAUSTIVE: ✅ Theodotion 11:36 reads **ΥΨΩΘΗΣΕΤΑΙ … ΜΕΓΑΛΥΝΘΗΣΕΤΑΙ** — the same ὑψόω as the Old Greek. **PAUL MATCHES NEITHER RECENSION.** The chain is now fully mapped: HEBREW יִתְרוֹמֵם/יִתְגַּדֵּל → OG ὑψόω → THEODOTION ὑψόω+μεγαλύνω → PAUL ὑπεραίρω. **"PAUL IS QUOTING DANIEL 11:36" IS REFUSED AGAINST *BOTH* GREEK RECENSIONS.**
+
+> ### ⚠️ **AND A NEAR-MISS REFUSED IN WRITING: ✅ Theodotion 11:36 has **ΥΠΕΡΟΓΚΑ**, four words from where Paul's ὑπεραίρω would sit. **THEY SHARE THE PREFIX ὑπερ- AND NOTHING ELSE** — ὑπέρογκος is from ὄγκος, ὑπεραίρω from αἴρω. **A SHARED PREFIX IS NOT A LEXICAL LINK, AND THIS IS EXACTLY THE KIND OF NEAR-MISS THAT BECOMES A "PARALLEL" THIRTY STAGES LATER (q293).**
+
+**★ THEODOTION VARIES TOO, AND PRESERVES THE HEBREW'S DISTINCTION: ✅ **8:13 — ἡ ΑΜΑΡΤΙΑ ἐρημώσεως**, rendering **פֶּשַׁע** as *SIN*, NOT βδέλυγμα · ✅ **11:31 — βδέλυγμα ΗΦΑΝΙΣΜΕΝΟΝ** (ἀφανίζω, not ἐρήμωσις) · ✅ **12:11 — βδέλυγμα ἐρημώσεως**. **SO BOTH GREEK RECENSIONS VARY, AND THEY VARY DIFFERENTLY FROM EACH OTHER AND FROM THE HEBREW.** 📐 **THERE IS NO FIXED PHRASE IN ANY OF THE THREE TRADITIONS — STAGE 51's HEADLINE IS NOW ESTABLISHED TRILINGUALLY (q279 strengthened).**
+
+**📌 THREE FURTHER THEODOTION DATA FOR LATER: ✅ **ἐνδελεχισμός** for the תָּמִיד (a third vocabulary, against the OG's θυσία) · ✅ **τὸ ἁγίασμα τῆς δυναστείας** at 11:31 — **a THIRD sanctuary word** beside ναός and ἱερόν (q278 extended) · ✅ 11:36's **μέχρις οὗ ΣΥΝΤΕΛΕΣΘΗ … εἰς γὰρ ΣΥΝΤΕΛΕΙΑΝ** — Matthew's own συντελ- family. ⚠️ **OBSERVATION ONLY; συντέλεια is common and this is one occurrence (q296).** ⚠️ And Theodotion uses **μέχρις οὗ**, not the ἄχρι οὗ this project tracks elsewhere.**
+
+> ### ⚠️ **AN EDITION MISMATCH DECLARED RATHER THAN HIDDEN: the Old Greek in every comparison above is BibleHub/Swete (S42); the Theodotion is CCAT/Rahlfs-tradition. **TWO DIFFERENT EDITIONS.** `61.DanielOG.mlxx` sits in the same directory and was NOT downloaded. **A SAME-CORPUS COMPARISON IS OWED (q294) — and "almost certainly robust" is not a verification, a phrasing this project has rejected from its own agents twice.**
+
+> ### ✍️ **RESEARCHER'S COMMENTARY: *"In both cases the fix was not persistence. It was asking a different question about the artifact."***
+
+---
+
+## Stage 51½ — ⚖️🔑🔑 Sequence Test: Matthew 24 vs 2 Thessalonians 2 — THE TEST SURVIVED *(current)*
+
+**File:** [[02u-sequence-test-matthew-24-vs-2-thessalonians-2]] · **THE STAGE EXISTED TO *FALSIFY*, NOT CONFIRM: *if these describe the same crisis, can their sequences coexist WITHOUT REARRANGING EITHER TEXT?*** · **No historical candidates. No Josephus. No Nero. No Titus. No restrainer named.**
+
+> ### ✅ **A DEBT PAID BEFORE THE ARGUMENT LEANED ON IT: q264 IS DISCHARGED. ✅ Matthew 24:12 — διὰ τὸ πληθυνθῆναι ΤΗΝ ΑΝΟΜΙΑΝ. It had been REPORTED-NOT-VERIFIED since Stage 50 after a failed fetch, AND IT IS THE LEXICAL SPINE OF THIS ENTIRE STAGE. Using it unverified would have put a load-bearing claim on a failed retrieval, sitting among a dozen verified ones where nobody would look again.**
+
+**❌ WHERE THE CORRESPONDENCE IS *NOT* LEXICAL — recorded FIRST, deliberately: ✅ Matthew 24:10's **ΣΚΑΝΔΑΛΙΣΘΗΣΟΝΤΑΙ** is NOT Paul's **ΑΠΟΣΤΑΣΙΑ** — and ✅ **A DIRECT FULL-CHAPTER SEARCH CONFIRMS ἀποστασία DOES NOT OCCUR ANYWHERE IN MATTHEW 24.** 📐 CONCEPTUAL: MODERATE. LEXICAL: NONE.** **AND the sanctuary link runs THROUGH DANIEL, not between the authors — ✅ Matthew has βδέλυγμα … ἐν τόπῳ ἁγίῳ, Paul has εἰς τὸν ναὸν τοῦ θεοῦ, and Stage 50½ established ZERO shared vocabulary between the two verses. **A DISTINCT AND WEAKER EVIDENCE CLASS, NAMED AS SUCH.**
+
+> ### ★★ **WHERE IT *IS* LEXICAL — TWO GENUINE LINKS, BOTH NOW VERIFIED:**
+>
+> ### **1. ἀνομία — ✅ Matt 24:12 ΤΗΝ ΑΝΟΜΙΑΝ ⟷ ✅ 2 Thess 2:7 ΤΗΣ ΑΝΟΜΙΑΣ, 2:8 Ο ΑΝΟΜΟΣ. Same family, and BOTH PLACE IT BEFORE the climactic intervention.**
+>
+> ### **2. σημεῖον / τέρας — ✅ Matt 24:24 ΣΗΜΕΙΑ ΜΕΓΑΛΑ ΚΑΙ ΤΕΡΑΤΑ ὥστε ΠΛΑΝΗΣΑΙ ⟷ ✅ 2 Thess 2:9 ΣΗΜΕΙΟΙΣ ΚΑΙ ΤΕΡΑΣΙΝ ΨΕΥΔΟΥΣ. **IDENTICAL LEXEMES, DIFFERENT CASES, AND IN BOTH THE FUNCTION IS DECEPTION IMMEDIATELY PRECEDING MESSIAH'S INTERVENTION. THE STRONGEST SINGLE CORRESPONDENCE THE TWO PASSAGES POSSESS (q298).**
+>
+> ### **3. And the ἐπισυναγ- family (Stage 50) — ⚠️ still held under q233: NOT inherently eschatological.**
+
+**⚠️ AND THE CORRECTION STAYS CORRECTED: ✅ MATTHEW 24:31 ITSELF CONTAINS NO παρουσία (24:3, 27, 37, 39 — the discourse, not the verse). ✅ 2 THESS 2:1 IS WHERE THE PAIR ACTUALLY STANDS. **THE PAIR IS PAUL'S, NOT MATTHEW'S.**
+
+> ### ✅ **THE FALSIFICATION TEST SURVIVED. BOTH SEQUENCES MOVE: LAWLESSNESS → CRISIS AND DECEPTION → MESSIAH'S CLIMACTIC INTERVENTION. We do NOT have Matthew going *coming → lawlessness* against Paul going *lawlessness → coming*. **NOTHING HAD TO MOVE.**
+>
+> ### 🛑 **BUT THE LIMIT IS RECORDED WITH THE RESULT: **COMPATIBLE ORDER IS *NECESSARY* FOR IDENTITY, NOT *SUFFICIENT*. TWO DIFFERENT CRISES BUILT ON THE SAME PAGE OF DANIEL WOULD ALSO COME OUT IN THE SAME ORDER.** A bare "the sequence survives" would read far stronger than it is.**
+>
+> ### 📌 **AND A STRUCTURAL POINT THAT PREVENTED A FALSE CONTRADICTION: ✅ PAUL LOOPS BACKWARD AT 2:6–8 to explain the mechanism behind 2:3–4. **2 THESSALONIANS 2 IS NOT A STRAIGHT TIMELINE — NARRATIVE ORDER AND EVENT ORDER MUST BE DISTINGUISHED, AND A TEST IGNORING THIS WOULD HAVE MANUFACTURED A CONTRADICTION THAT IS NOT THERE (q297).**
+
+**⚠️ THREE ASYMMETRIES, RECORDED AS PROMINENTLY AS THE MATCHES: ❌ Matthew's **θλῖψις μεγάλη** has no 2 Thess 2 equivalent · ❌ Matthew's cosmic-sign complex has none · ❗ **PAUL'S EXPLICIT DESTRUCTION OF THE LAWLESS ONE (ἀνελεῖ … καταργήσει) HAS NO INDIVIDUAL COUNTERPART IN MATTHEW 24.** The first two are OMISSIONS and omission is not contradiction. **THE THIRD IS SHARPER: PAUL KILLS SOMEBODY; MATTHEW DOES NOT.** 🛑 Candidates exist — judgment language, Jerusalem's destruction, the coming itself — **AND THE BLANK IS DELIBERATELY LEFT UNFILLED. FILLING IT NOW WOULD BE BUILDING THE BRIDGE OUT OF THE GAP IT IS SUPPOSED TO CROSS (q299).**
+
+**⏱️ BOTH CHRONOLOGICAL PRESSURES RUN THE SAME WAY — Matthew's ✅ εὐθέως · ὅταν ἴδητε · ἡ γενεὰ αὕτη against Paul's ✅ ἤδη · ἄρτι · readers **οἴδατε** the restrainer · and 2:5's prior ORAL teaching. **NEITHER PASSAGE READS AS DETACHED FROM ITS ORIGINAL AUDIENCE.** 🛑 BUT THIS IS CONVERGENT AUDIENCE-HORIZON, **NOT EQUIVALENT DATING** — and neither is a date.**
+
+> ### 🆕 **BURDEN-OF-DISTINCTION RULE ADOPTED — *at sufficiently dense independent correspondence, DIFFERENCE ALSO NEEDS EVIDENCE.* Without it, *"they could still be different"* is an unanswerable objection available at every step, and unanswerable objections are not evidence.**
+>
+> ### 🛑 **AND ITS FOUR-CLAUSE LEASH, BECAUSE THIS IS THE MOST DANGEROUS RULE THE PROJECT HAS ADOPTED: (1) it is NOT "similar = same" — it shifts a burden at a DENSITY THRESHOLD, it does not lower the standard · (2) **THE DENSITY MUST BE INDEPENDENT — correspondences inherited from a shared source are ONE datum, not five** · (3) it may NEVER retire an asymmetry · (4) it may NOT count correspondences this project has already downgraded (q300).**
+
+**📐 VERDICT: ⬆️ **MATTHEW 24 ⟷ 2 THESSALONIANS 2 — UPGRADED FROM VERY STRONG CORRESPONDENCE TO *PROBABLE EVENT-COMPLEX IDENTITY*, PROVISIONALLY. NOT ESTABLISHED. NOT CLOSED.** What prevents "established": the three asymmetries, the unidentified restrainer, the OPEN ναός referent, the unworked Day-of-the-Lord/παρουσία/gathering relations — **and the plain fact that a shared Danielic template could produce compatible order without identity.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"Paul kills somebody. Matthew does not. I do not know what to do with that yet, and I would rather write that sentence down than fill the hole with something convenient."***
 
 ---
 

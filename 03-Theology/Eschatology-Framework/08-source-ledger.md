@@ -255,6 +255,25 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Side Branch 51¾ + Stage 51½ — the Theodotion recovery and the sequence test
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S57** | ✅✅ **THEODOTION DANIEL — CCAT/UPenn morphologically-tagged LXX corpus, file `62.DanielTh.mlxx`** *(457,014 bytes; BETA CODE; `ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/`)* | **Daniel 7:13 · 8:13 · 11:31 · 11:36 · 12:11** | **ΜΕΤΑ τῶν νεφελῶν · ΕΩΣ ΤΟΥ ΠΑΛΑΙΟΥ ΤΩΝ ΗΜΕΡΩΝ ΕΦΘΑΣΕΝ · ΠΡΟΣΗΝΕΧΘΗ · ἡ ΑΜΑΡΤΙΑ ἐρημώσεως · βδέλυγμα ΗΦΑΝΙΣΜΕΝΟΝ · βδέλυγμα ἐρημώσεως *(anarthrous)* · ΥΨΩΘΗΣΕΤΑΙ + ΜΕΓΑΛΥΝΘΗΣΕΤΑΙ · ΥΠΕΡΟΓΚΑ · ΕΝΔΕΛΕΧΙΣΜΟΣ · τὸ ΑΓΙΑΣΜΑ τῆς δυναστείας · ΜΕΧΡΙΣ ΟΥ ΣΥΝΤΕΛΕΣΘΗ … εἰς ΣΥΝΤΕΛΕΙΑΝ** | **PRIMARY** *(critical corpus)* | ✅✅ **VERIFIED — DISCHARGES q246 AFTER THREE FAILURES.** ⚠️ **Beta code decoded by this project; the beta-code original is PRESERVED VERBATIM in [[02t-the-theodotion-recovery]] §2 so every decoding is auditable** | 2026-08-25 |
+| **S58** | ❌ **`61.DanielOG.mlxx`** *(same CCAT directory)* | Daniel, Old Greek | a **SAME-CORPUS** OG/Theodotion comparison | **PRIMARY** *(when obtained)* | ❌ **NOT DOWNLOADED.** ❗ **Every OG/Theodotion comparison in 51¾ therefore rests on TWO DIFFERENT EDITIONS — Swete via BibleHub (S42) against CCAT/Rahlfs-tradition (S57). The findings are ALMOST CERTAINLY robust, but "almost certainly" is not a verification and this project has rejected that phrasing from its own agents twice (q294)** | — |
+| **S59** | ✅ **SBLGNT** *(Bible Gateway, WebFetch — the pattern named explicitly in the brief)* | **Matthew 24:4–5, 24:10, 24:11, 24:12, 24:14, 24:23–28, 24:30 · Mark 13:26 · Luke 21:27 · 2 Thess 2:9–10** | ✅ **q264's ἀνομία at Matt 24:12** · ✅ **σκανδαλισθήσονται at 24:10** · ✅ **ἀποστασία ABSENT from Matthew 24** *(full-chapter search)* · ✅ **σημεῖα μεγάλα καὶ τέρατα** at 24:24 · ✅ **οἰκουμένη + τέλος** at 24:14 · ✅ **the four-way cloud-preposition split** | **PRIMARY** | ✅ **VERIFIED.** ⚠️ **One lane conclusion overruled: it reported Mark and Luke as aligning "with the Theodotion tradition or ἐν independently" — ❌ Theodotion has μετά, so only the second half survives (q292)** | 2026-08-25 |
+| **S60** | ❌ **Lexical authority for σημεῖον + τέρας AS A PAIR** | **TBD** | whether the pairing has a shared LXX background *(the Exodus signs are the obvious candidate)* | **MODERN SCHOLARLY** *(when obtained)* | ❌ **NOT RETRIEVED.** ❗ **MATERIAL: a shared background would reduce the pair's INDEPENDENCE as evidence under the Burden-of-Distinction leash, clause 2 (q298, q300)** | — |
+
+> ### ✅✅ **S57 IS THE MOST INSTRUCTIVE ENTRY IN THIS LEDGER, AND THE LESSON IS NOT "TRY HARDER."**
+>
+> ### **THEODOTION FAILED THREE TIMES BECAUSE EVERY ATTEMPT ASKED *WHICH WEBSITE HAS IT* RATHER THAN *WHAT KIND OF THING IS IT*. It is a plain-text academic corpus, and the two recensions are **TWO FILES UNDER TWO NAMES**.**
+>
+> ### ❗❗ **AND THE CLUE WAS IN THIS LEDGER ALREADY: S42's note that BibleHub's Daniel is OLD GREEK, set beside the fact that RAHLFS PRINTS THEODOTION AS ITS MAIN DANIEL TEXT, implies a Rahlfs-tradition source yields Theodotion. THREE STAGES SEARCHED WITHOUT COMBINING THEM.**
+>
+> ### 📇 **THEREFORE, RESTATED AS PRACTICE: THIS LEDGER IS A WORKING DOCUMENT, NOT AN ARCHIVE. ITS VERIFIED ENTRIES RECORD WHICH PATTERNS WORK; ITS FAILURES RECORD WHICH ASSUMPTIONS WERE NEVER TESTED. CONSULT IT BEFORE DECLARING ANYTHING UNREACHABLE.**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**
