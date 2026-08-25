@@ -6,7 +6,7 @@ tags: [methodology, epistemology, exegesis, ingestion-protocol, governance]
 reference:
 created: 2026-08-12
 status: active
-version: "5.0 — 2026-08-25, current at Stage 51½ (established 1.0 at Stage 16, 2026-08-12)"
+version: "5.1 — 2026-08-25, current at Stage 54 (established 1.0 at Stage 16, 2026-08-12)"
 related: "[[00-index]], [[00a-narrative-spine]], [[00b-biblical-epistemology]]"
 ---
 
@@ -1418,6 +1418,56 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 🔍 Verify a Report Against Itself *(added v5.1 — third instance of the same failure)*
+
+> **A delegated report's SUMMARY is its LEAST reliable part. The data table is usually right; the conclusion drifts toward what the agent expected. Check every conclusion against the report's own data before acting on it.**
+
+**The three instances:**
+1. **q247** — an agent placed **ἥξουσιν** into Matthew 24:31, where it does not occur, and graded it VERBAL inside a table of genuine rows.
+2. **Stage 51¾** — a lane concluded Mark and Luke *"align with the Theodotion tradition"* when ✅ **Theodotion reads μετά and they read ἐν**.
+3. **Stage 54** — a lane's table reported ✅ **δέω** at Matthew 12:29 and Mark 3:27, and its conclusion then stated they *"do NOT use the same binding verb as Revelation 20:2."* **False against its own retrieval twelve lines earlier.**
+
+> ### ❗❗ **AND THE ASYMMETRY THAT MAKES THIS DANGEROUS RATHER THAN MERELY SLOPPY: IN ALL THREE CASES THE DRIFT RAN TOWARD THE MORE INTERESTING CLAIM, NOT THE MORE BORING ONE.**
+>
+> ### **EXTENDS *VERIFY AGAINST THE FILES, NOT THE REPORT* (v4.7) TO: **VERIFY A REPORT AGAINST ITSELF.**
+
+---
+
+## 🕸️ The Deception-Scope Context Rule *(added v5.1)*
+
+> **Revelation 20:3 binds Satan so that he may not deceive τὰ ἔθνη ΕΤΙ; 20:8 defines his resumed deception by its immediate outcome. Interpret the binding's scope FIRST within Revelation's own deception vocabulary — which an exhaustive 22-chapter sweep shows is predominantly ORGANIZED NATIONAL ALLEGIANCE AND FALSE WORSHIP (2:20 idol food · 13:14 the image · 18:23 Babylon's entanglement · 19:20 image and mark), reaching its TERMINAL FORM in the war-gathering of 20:8 — before expanding it to every conceivable form of satanic influence.**
+
+**⚠️ Warrant, and note that the sweep CORRECTED the rule it was run to support: the original proposal read the scope as *hostile mobilization*. ❗ Military gathering appears at 20:8 ONLY. Four of the six result-bearing occurrences are idolatrous allegiance. **War is where it ends, not what it is.** *This would not have been found by sampling.*
+
+> ### 🛑 **THE LEASH IS PART OF THE RULE — Stage 45½'s CONFINEMENT–FUNCTION DISTINCTION, ATTACHED HERE SO IT CANNOT DRIFT:**
+> ### **NARROWING THE SCOPE MAY NOT BECOME "THE BINDING MEANS ALMOST NOTHING." ✅ REVELATION STACKS FIVE VERBS — ἐκράτησεν · ἔδησεν · ἔβαλεν · ἔκλεισεν · ἐσφράγισεν — AND ADDS A SEALED ABYSS. REAL CONFINEMENT *WITH* A SPECIFICALLY STATED FUNCTIONAL CONSEQUENCE. NEITHER EXTREME.**
+>
+> ### ⚠️ **AND ONE FURTHER LIMIT: THE RULE LICENSES READING 20:3 AND 20:8 TOGETHER. IT DOES *NOT* AUTOMATICALLY LICENSE READING 12:9 INTO THEM — ✅ 12:9's OBJECT IS τὴν ΟΙΚΟΥΜΕΝΗΝ ὅλην, NOT τὰ ἔθνη (q323).**
+
+---
+
+## 🎭 A Revelation Noun May Carry Opposite Valences *(added v5.1 — second confirmed instance)*
+
+> **Do not carry a noun's moral valence across occurrences in Revelation. The same word can be judged in one chapter and redeemed in another.**
+
+✅ **τὰ ἔθνη** — deceived at 20:3 and 20:8, trampling at 11:2, drunk on Babylon's wine at 14:8 and 18:3, struck at 19:15 — **and ✅ worshipping at 15:3–4, ✅ walking by the city's light at 21:24, ✅ bringing glory in at 21:26, ✅ HEALED by the tree's leaves at 22:2.**
+
+**📌 The first instance was the Stage 46½ sea audit. Two confirmed instances promote this from a curiosity to a characteristic of the book.** ⚠️ *Owed: a third test on another Revelation noun.*
+
+---
+
+## ⛓️ Two Simultaneous Millennium-Start Markers *(added v5.1 — a standard, not an interpretation)*
+
+> **The thousand years open with TWO condition-changes, and any historical candidate must satisfy BOTH:**
+> ### **MARKER A — the Satanic condition changes: deceiving τὰ ἔθνη → bound, shut, sealed, from deceiving them ΕΤΙ.**
+> ### **MARKER B — the faithful dead condition changes: dead and waiting → ΕΖΗΣΑΝ ΚΑΙ ΕΒΑΣΙΛΕΥΣΑΝ.**
+>
+> ### ❗❗ **"A PERIOD OF REDUCED WICKEDNESS" SATISFIES NEITHER. "CHRISTIANITY BECAME INFLUENTIAL SOMETIME" SATISFIES NEITHER. THIS IS THE STANDARD ANY HISTORICAL PROPOSAL WILL BE HELD TO, AND IT WAS FIXED *BEFORE* ANY HISTORICAL SOURCE WAS OPENED — WHICH IS THE ONLY TIME IT CAN BE FIXED HONESTLY.**
+
+**📌 And ✅ the ΕΤΙ at 20:3 is what makes Marker A testable: it modifies the *deceiving* — "so that he may not deceive them ANY LONGER" — so he WAS deceiving them. The binding marks a CHANGE, which is exactly what q213 demands.**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -1443,6 +1493,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **5.1** | 2026-08-25 | **THE STAGE THAT LOST ITS OWN TEST AND RECORDED IT IN THE HEADLINE.** Added **VERIFY A REPORT AGAINST ITSELF**, the **DECEPTION-SCOPE CONTEXT RULE** *(with the Confinement–Function leash attached)*, **A REVELATION NOUN MAY CARRY OPPOSITE VALENCES**, and **TWO SIMULTANEOUS MILLENNIUM-START MARKERS**. ★★★ **THE δέω MATCH: ✅ Matthew 12:29 and Mark 3:27 bind the strong man with δέω, and ✅ Revelation 20:2 binds the dragon with δέω — SO THE READING THIS PROJECT ARGUES AGAINST HAS ONE SHARED LEXEME WITH REVELATION 20, WHERE THE READING IT ARGUES FOR HAS ZERO (q310, q317). The tranche had rejected it without checking. Recorded at full strength; braked by δέω's very common class, the parable context, Revelation's four further verbs, and ✅ Luke 11:22's νικάω — the Synoptics splitting a THIRD time.** ⚠️ **THIRD LANE SELF-CONTRADICTION: the same report's table said δέω and its conclusion denied it — and in all three instances the drift ran toward the MORE INTERESTING claim (q318).** ★★ **PAUL TRACKS LXX ISAIAH 11:4 AND REVELATION DOES NOT: ✅ ΑΝΕΛΕΙ is identical in the LXX and 2 Thess 2:8, while ✅ ῥομφαία is in neither the Hebrew nor the LXX — so the Paul⟷Revelation mouth-weapon link is DOWNGRADED, not promoted (q319).** ✅ **EXHAUSTIVE πλανάω SWEEP, 22 chapters, 8 occurrences — and it CORRECTED the rule it was run to support (q322, q323).** ✅ **καταργέω at Hebrews 2:14 against 1 Cor 15:26 — same verb, opposite timing, so καταργέω fixes no timing (q320).** ★★★ **§14's CONCLUSION KEPT AND ITS PROOF DISCARDED: Revelation removes EVERY named national-scale deceiver before the interval — a CONTENT argument that survives Vision Sequence ≠ Event Sequence, where the tranche's sequence argument did not (q321).** ✅ **One shared thousand-year interval — VERY HIGH.** 🛑 **AND STILL NO DATE, NO ARITHMETIC, NO JOSEPHUS.** |
 | **5.0** | 2026-08-25 | **THE TEST SURVIVED, AND A THREE-TIME FAILURE WAS DIAGNOSED.** Added **ASK WHAT KIND OF ARTIFACT THE TEXT IS** *(fourth in the retrieval family)*, the **BURDEN-OF-DISTINCTION RULE** with its four-clause leash, and **NARRATIVE ORDER ≠ EVENT ORDER IN EPISTLES**. ✅✅ **q246 DISCHARGED — THEODOTION DANIEL retrieved from CCAT/UPenn after three failures; the cause was that it is a PLAIN-TEXT CORPUS shipping the two recensions as SEPARATE FILES, and the clue had been in the archive unread since 48½.** ★★ **RECENSION FINGERPRINT: Matthew tracks the OLD GREEK at two independent points (24:30's ἐπί; 24:15's articular form against Theodotion's anarthrous 12:11), Revelation 1:7 tracks THEODOTION — 🛑 but Mark's ἐν νεφέλαις and Luke's ἐν νεφέλῃ match NEITHER, which limits the claim sharply (q292, q295).** ✅ **q180 CONFIRMED — Theodotion agrees with the Aramaic; the Old Greek is the outlier, and Stage 48½'s refusal to accept an agent's assertion is what made this visible.** ✅ **q275 MADE EXHAUSTIVE — Paul's ὑπεραίρω matches NEITHER recension; ὑπέρογκα is a shared prefix and is refused in writing.** ✅ **q264 DISCHARGED — Matthew 24:12's ἀνομία VERIFIED before the argument leaned on it; and ✅ ἀποστασία is ABSENT from Matthew 24 entirely.** ⬆️ **Matthew 24 ⟷ 2 Thessalonians 2 UPGRADED to PROBABLE EVENT-COMPLEX IDENTITY after surviving a genuine sequence-falsification test — with the limit recorded beside the result: compatible order is NECESSARY, NOT SUFFICIENT.** ❗ **THREE ASYMMETRIES LEFT LIVE, the sharpest being that PAUL DESTROYS AN INDIVIDUAL AND MATTHEW DESTROYS NO ONE (q299) — candidates deliberately unwritten.** |
 | **4.9** | 2026-08-24 | **THE ARCHIVE CAUGHT UP TO THE INVESTIGATION.** Added **TEXT-CORPUS TERMINOLOGY** *(Tanakh · LXX/Septuagint · GNT · Koine — locked because LXX was being inverted into "the New Testament," and because "LXX" means SEVENTY TRANSLATORS, not seventy books)*, **FAITH IS NOT AN INTERPRETIVE SHIELD** *(ahead of the deliberately-unopened Faith Branch)*, and **A FAILED REQUEST IS NOT AN UNAVAILABLE SOURCE** *(the mirror of a rule already held)*. 🆕 **ADR-0011 ACCEPTED — the GROWING CHAIN + EVIDENCE LEDGER, with the ❗REFUSED/RULED-OUT column MANDATORY**, because a chain of only-positive links would have hidden this project's best work: *last≠seventh refused · παρουσία absent from the pericope · Hebrews 10:25 breaking the word-family bridge · δεῖ and ἄχρι refused as noise · ἁρπάζω destination-neutral · ἀπάντησις carrying no escort.* **STAGE 49: ✅ Acts 8:39 sends Philip to AZOTUS with the same verb as Revelation 12:5's throne — ἁρπάζω encodes NO destination; RAPTURE-SYSTEM BRAKE added; ✅ 1 Thess 4:17 states NO direction after the meeting; ✅ Revelation 1:7 CLOSED q245 — ἐξεκέντησαν is the HEBREW reading and BOTH Matthew and John use ὁράω against the LXX's ἐπιβλέπω.** **STAGE 50: ✅ the παρουσία + ἐπισυναγωγή pair EXISTS at 2 Thess 2:1 and STILL does not exist at Matthew 24:31 — both facts locked; ✅ NO VERB OF REMOVAL at 2:7 (γένηται, "come to be"); ✅ καταργέω shared with 1 Cor 15:26, PRESENT there and FUTURE here; ✅✅ παρουσία USED OF THE LAWLESS ONE at 2:9, retroactively vindicating the Coming-Language Control from an independent author; RESTRAINER RULE and FUTURE-SANCTUARY BRAKE added, the latter written BEFORE its data arrives.** ⚠️ **SECOND NO-OP IN THREE STAGES — "son of perdition ≠ Satan" was ALREADY held at Side Branch 34½; Stage 50's real contribution is the ESV→SBLGNT upgrade, recorded at that strength.** ✅ **AND THE FIRST EVAL-POSITIVE: a lane facing 12+ dead sources wrote "I will not invent Greek text." The failure was METHOD, not source.** ❌ **The ναός/ἱερόν/LXX/Daniel audit is recorded as DEBT (q265), not conclusion. Stages 50½ and 51 arrived and are DELIBERATELY NOT INGESTED.** |
 | **4.8** | 2026-08-23 | **THE DATE HELD; THE EVENT DID NOT FOLLOW.** Added the **COSMIC-LANGUAGE BRAKE** *(now verified in Greek)*, the **INTERTEXTUAL EXPANSION RULE** with its two leashes, **DEMONSTRATIVE-MARKED TERMS ARE THEIR OWN CATEGORY**, and an **UPGRADE to Delegated Retrieval** (Stage 48½). ✅ **THE LXX DEBT (q231) SUBSTANTIALLY DISCHARGED** — Isaiah 13/27/34, Zechariah 12, Deuteronomy 30, Daniel 7 (Old Greek) all verified in Greek. ⬆️ **PROMOTED: Matthew 24:29–31 inside Matthew's first-century horizon = HIGH — established WITHOUT importing Revelation, Paul, or preterism, and shipped WITH four falsification conditions.** 🔑 **Its strongest evidence is ✅ Matthew 23:36, which carries the SAME PHRASE-PAIR as 24:34 one chapter earlier over an undisputed contemporary referent.** ★ **AND THE HINGE SPLIT: Isaiah 27:13 supplies Matthew's TRUMPET verbally and NOT his GATHERING VERB — neither Isaiah 27 nor Deuteronomy 30 uses ἐπισυνάγω.** ⚠️ **Daniel 7:13's Old Greek DESTABILIZED q180; Theodotion NOT RETRIEVED and now load-bearing.** ❌❌ **AN EVAL CASE: a fabricated Greek parallel (ἥξουσιν into Matthew 24:31) caught before entry, plus two mislabels — the Delegated-Retrieval rule paid for itself one stage after being written.** ⚠️ **TWO CORRECTIONS RECORDED TOGETHER, ONE IN EACH DIRECTION: the tranche upgraded "parousia context" into "that lexical pair"; THIS PROJECT upgraded "identity not established" into "non-identity adopted." SAME ERROR CLASS, SAME TWELVE HOURS.** 🧮 Source-text divergence 2 → 3 *(LXX Zech 12:10 "mocked" vs MT "pierced")*; translation divergence 13 → 14. |

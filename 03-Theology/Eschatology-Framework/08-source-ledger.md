@@ -312,6 +312,26 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Stage 54 — the binding vocabulary and the πλανάω sweep
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S71** | ✅ **SBLGNT + ESV** *(Bible Gateway, WebFetch)* | **Matthew 12:29 · Mark 3:27 · Luke 11:21–22 · John 12:31 · John 16:11 · Luke 10:18 · Colossians 2:15 · Hebrews 2:14 · 1 John 3:8** | ★★ **ΔΗΣῌ (δέω) at Matthew and Mark, matching Revelation 20:2's ΕΔΗΣΕΝ** · ✅ **ΝΙΚΗΣῌ at Luke 11:22** · ✅ **ΕΚΒΛΗΘΗΣΕΤΑΙ · ΚΕΚΡΙΤΑΙ · ΠΕΣΟΝΤΑ · ΘΡΙΑΜΒΕΥΣΑΣ · ΚΑΤΑΡΓΗΣῌ · ΛΥΣῌ** — **six further verbs, none overlapping Revelation 20** | **PRIMARY** | ✅ **VERIFIED.** ⚠️⚠️ **BUT THIS REPORT'S CONCLUSION CONTRADICTED ITS OWN TABLE — it stated Matthew and Mark do NOT share δέω with Revelation 20:2, twelve lines after reporting that they do. THE TABLE IS CORRECT; THE CONCLUSION IS REJECTED (q318)** | 2026-08-25 |
+| **S72** | ✅ **Sefaria API** *(`sefaria.org/api/texts/Isaiah.11.4?lang=he`)* + ✅ **BibleHub LXX** *(`biblehub.com/sepd/isaiah/11.htm`)* | **Isaiah 11:4** | ✅ **שֵׁבֶט פִּיו · רוּחַ שְׂפָתָיו** · ✅ **τῷ ΛΟΓῼ τοῦ ΣΤΟΜΑΤΟΣ αὐτοῦ · ἐν ΠΝΕΥΜΑΤΙ διὰ χειλέων ΑΝΕΛΕΙ ἀσεβῆ** — the basis for q319 | **PRIMARY** | ✅ **VERIFIED.** 📌 **The Sefaria API pattern (S48) worked again on first attempt — fourth successful use** | 2026-08-25 |
+| **S73** | ✅✅ **EXHAUSTIVE 22-CHAPTER SWEEP — πλανάω and cognates across Revelation** | **2:20 · 12:9 · 13:14 · 18:23 · 19:20 · 20:3 · 20:8 · 20:10** *(eight occurrences; chapters 1, 3–11, 14–17, 21–22 swept and clear)* | ★★ **the deceivers are PLURAL** · ★ **the recurring RESULT is idolatrous allegiance, not war** · ✅ **ΕΤΙ confirmed in position at 20:3, between verb and object** · ✅ **12:9's object is ΟΙΚΟΥΜΕΝΗΝ, not ἔθνη** | **PRIMARY** | ✅✅ **VERIFIED EXHAUSTIVE — coverage stated chapter by chapter.** ❗ **AND THE SWEEP *CORRECTED* THE RULE IT WAS RUN TO SUPPORT: the proposal read 20:3's scope as military mobilization; four of six result-bearing occurrences are idolatrous allegiance and war appears ONCE. **THIS WOULD NOT HAVE BEEN FOUND BY SAMPLING** | 2026-08-25 |
+| **S74** | ✅ **SBLGNT + ESV** | **Revelation 19:15, 19:19–21 · 20:3, 20:7–10 · 13:13–17 · and 13 occurrences of τὰ ἔθνη** *(2:26 · 11:2 · 11:18 · 12:5 · 14:8 · 15:3–4 · 18:3 · 19:15 · 20:3 · 20:8 · 21:24 · 21:26 · 22:2)* | ✅ **ΖΩΝΤΕΣ ΕΒΛΗΘΗΣΑΝ at 19:20** · ✅ **ΡΟΜΦΑΙΑ ἐκ τοῦ στόματος** · ✅ **χίλια ἔτη at 20:2, 20:4, 20:6, 20:7** · ★★ **the nations POSITIVE at 15:3–4, 21:24, 21:26, 22:2** (q322) | **PRIMARY** | ✅ **VERIFIED** | 2026-08-25 |
+| **S75** | ❌ **Lexical authority for δέω · πλανάω · οἰκουμένη vs ἔθνη** | **TBD** | ★ **how much weight a shared COMMON verb can bear (q317)** · whether πλανάω carries organized/systemic force · whether οἰκουμένη and τὰ ἔθνη are interchangeable in Revelation | **MODERN SCHOLARLY** *(when obtained)* | ❌ **NOT RETRIEVED** *(extends S39, S65, S70)*. ❗❗ **q317 IS NOT ANSWERABLE BY MORE REASONING — it needs a lexicon. AND THE DECEPTION-SCOPE CONTEXT RULE RESTS ON AN UNAUDITED ASSUMPTION ABOUT πλανάω's RANGE** | — |
+
+> ### 📇 **WHAT S71 AND S73 PROVE, TOGETHER — AND THEY POINT IN OPPOSITE DIRECTIONS ABOUT DELEGATION:**
+>
+> ### ❗ **S71's CONCLUSION WAS WRONG AGAINST ITS OWN DATA — the third such instance, and in all three the drift ran toward the MORE INTERESTING claim.**
+>
+> ### ✅ **S73's EXHAUSTIVE SWEEP CORRECTED A RULE THIS PROJECT WAS ABOUT TO ADOPT ON AN UNVERIFIED PATTERN.**
+>
+> ### 📌 **THE LESSON IS NOT "TRUST AGENTS" OR "DISTRUST AGENTS." IT IS THAT A LANE'S *DATA* EARNS TRUST AND A LANE'S *CONCLUSION* DOES NOT — AND THAT AN EXHAUSTIVE SWEEP IS WORTH MORE THAN ANY AMOUNT OF REASONING ABOUT WHAT THE PATTERN PROBABLY IS.**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**

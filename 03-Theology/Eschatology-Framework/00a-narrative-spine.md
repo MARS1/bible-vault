@@ -106,7 +106,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **51½** | **⚖️🔑🔑 Sequence Test — Matthew 24 vs 2 Thessalonians 2: THE TEST SURVIVED** | **[[02u-sequence-test-matthew-24-vs-2-thessalonians-2]]** |
 | **52** | **🔗🔑🔑 Paul's Internal Chain — THREE LETTERS, THREE VOCABULARIES** | **[[02v-pauls-internal-chain]]** |
 | **53** | **⚔️🔑🔑 Paul's Resurrection vs John's First Resurrection — NOT ONE WORD IN COMMON** | **[[02w-paul-vs-johns-first-resurrection]]** |
-| **54** | *(next)* **⛓️ What Starts the Thousand Years? — the binding markers, before any arithmetic** | — |
+| **54** | **⛓️🔑🔑 What Starts the Thousand Years? — THE VERB WENT AGAINST US** | **[[02x-what-starts-the-thousand-years]]** |
+| **54½** | *(next)* **🕸️ What Does "Deceiving the Nations" Mean? — narrowed; the sweep was already run at 54** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2312,6 +2313,46 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **📐 VERDICT — LOWER THAN THE TRANCHE PROPOSED. Structural correspondence **VERY STRONG**; lexical correspondence **ZERO**; **EVENT IDENTITY = PROBABLE, NOT HIGH, NOT CLOSED.** Held below HIGH by: zero shared vocabulary · contradiction 5 · contradiction 6 · **q212 unresolved, which means the population of 20:4 is literally undetermined by the text as we can parse it** · and Burden-of-Distinction **clause 2** — much of the felt density is INHERITED from shared Danielic and resurrection-hope background, which counts ONCE. 📌 **HYPOTHESIS B STILL BEATS A. THE VERDICT IS "PROBABLE," NOT "DOUBTED."**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"Matthew and Paul had shared two words. Paul and John share none... I have been feeling a strength the words do not supply. I still think these are the same event. But I have to write down that I think it rather than that I have shown it."***
+
+---
+
+## Stage 54 — ⛓️🔑🔑 What Starts the Thousand Years: THE VERB WENT AGAINST US *(current)*
+
+**File:** [[02x-what-starts-the-thousand-years]] · **THE GATE BEFORE HISTORY. No Josephus, no Nero, no Titus, no date — not one, anywhere in the file.**
+
+> ### ★★★ **THE HEADLINE GOES AGAINST THIS PROJECT'S PREFERRED READING. The tranche's §7 rejected "Messiah's ministry already bound Satan" — **WITHOUT CHECKING THE VOCABULARY.** It was checked:**
+>
+> ### ✅ **Matthew 12:29 — ἐὰν μὴ πρῶτον ΔΗΣῌ τὸν ἰσχυρόν** · ✅ **Mark 3:27 — τὸν ἰσχυρὸν ΔΗΣῌ** · ✅ **Revelation 20:2 — ΕΔΗΣΕΝ αὐτὸν χίλια ἔτη.** **SAME VERB. δέω IN ALL THREE.**
+>
+> ### ❗❗ **THE READING THE PROJECT ARGUES *AGAINST* HAS ONE SHARED LEXEME WITH REVELATION 20 — ONE MORE THAN THE READING IT ARGUES *FOR*. STAGE 53 FOUND PAUL ⟷ REVELATION 20 AT ZERO.** **RECORDED IN THE HEADLINE POSITION BECAUSE IT IS INCONVENIENT: a project that only runs lexical tests when it expects to win them is not running lexical tests (q317).**
+
+**⚖️ BRAKES, EQUALLY HONEST: δέω is a very common verb *(sandals, prisoners, graveclothes)* — **weak lexical class** · Matthew's object is **τὸν ἰσχυρόν in a PARABLE**, not the named dragon · ✅ Revelation stacks **FIVE** verbs *(ἐκράτησεν · ἔδησεν · ἔβαλεν · ἔκλεισεν · ἐσφράγισεν)* plus **χίλια ἔτη** and an **ἄβυσσος**; Matthew has one verb, no duration, no place · ✅ **Luke 11:22 uses ΝΙΚΗΣῌ, not δέω — THE SYNOPTICS SPLIT AGAIN**, third time this week *(q295, q303, now)*. **📐 A GENUINE LEXICAL LINK OF A WEAK CLASS. NOT IDENTITY. BUT §7 MUST NOW STAND ON GROUNDS IT ACTUALLY TESTED.**
+
+**⚠️ AND A LANE CONTRADICTED ITS OWN DATA — THIRD INSTANCE. Its table reported δέω at Matthew and Mark; its conclusion then said they *"do NOT use the same binding verb as Revelation 20:2."* ❌ **FALSE AGAINST ITS OWN RETRIEVAL TWELVE LINES EARLIER.** *(q247's fabricated ἥξουσιν · 51¾'s "aligns with Theodotion" when Theodotion has μετά · now this.)* 🆕 **NEW RULE: A LANE'S DATA IS USUALLY RELIABLE; ITS CONCLUSION DRIFTS TOWARD EXPECTATION. CHECK THE SUMMARY AGAINST THE TABLE, EVERY TIME (q318).**
+
+> ### ★★ **PAUL TRACKS LXX ISAIAH 11:4. REVELATION DOES NOT. ✅ LXX — ἐν πνεύματι διὰ χειλέων **ΑΝΕΛΕΙ** ἀσεβῆ. ✅ 2 Thess 2:8 — **ΑΝΕΛΕΙ** τῷ **ΠΝΕΥΜΑΤΙ** τοῦ **ΣΤΟΜΑΤΟΣ** αὐτοῦ. **IDENTICAL WORD, IDENTICAL FORM**, plus πνεύματι, plus στόματος pulled from the LXX's first clause — **PAUL FUSES ISAIAH'S TWO CLAUSES INTO ONE.**
+>
+> ### ❗ **AND ῬΟΜΦΑΙΑ (Rev 19:15, 21) IS IN NEITHER THE HEBREW (שֵׁבֶט, a rod) NOR THE LXX (λόγῳ).** **SO §10's PROPOSED PROMOTION IS REFUSED: PAUL AND REVELATION SHARE ONLY στόμα — A BODY PART. §11's INSTINCT WAS RIGHT, BUT ONLY *ONE* OF THE TWO SHARES ISAIAH'S WORDS. THAT IS A DOWNGRADE (q319).**
+
+**★ TIMING TENSION KEPT: ✅ Hebrews 2:14 — διὰ τοῦ θανάτου **ΚΑΤΑΡΓΗΣῌ** τὸν τὸ κράτος ἔχοντα τοῦ θανάτου, against ✅ 1 Cor 15:26 — ἔσχατος ἐχθρὸς **ΚΑΤΑΡΓΕΙΤΑΙ** ὁ θάνατος. **SAME VERB; HEBREWS AT THE CROSS, PAUL LAST.** Confirms §8's decisive-victory-before-final-removal architecture lexically — **and means καταργέω BY ITSELF FIXES NO TIMING (q320).**
+
+> ### ★★ **THE πλανάω SWEEP — EXHAUSTIVE, 22 CHAPTERS, 8 OCCURRENCES — AND IT CORRECTS THE RULE IT WAS RUN TO SUPPORT. ✅ 2:20 Jezebel → idol food · ✅ 12:9 dragon → **τὴν ΟΙΚΟΥΜΕΝΗΝ ὅλην** *(no result stated)* · ✅ 13:14 **THE SECOND BEAST** → the image · ✅ 18:23 Babylon → all nations · ✅ 19:20 **THE FALSE PROPHET** → mark and image · ✅ 20:3 Satan PREVENTED · ✅ 20:8 Satan RELEASED → **war** · ✅ 20:10.
+>
+> ### ❗ **THE RECURRING RESULT IS IDOLATROUS ALLEGIANCE AND FALSE WORSHIP — FOUR OF THE SIX RESULT-BEARING OCCURRENCES. MILITARY GATHERING APPEARS AT 20:8 ONLY. WAR IS WHERE IT ENDS, NOT WHAT IT IS.**
+
+**✅ ΕΤΙ CONFIRMED IN POSITION at 20:3 — **ἵνα μὴ πλανήσῃ ΕΤΙ τὰ ἔθνη**, between verb and object. **IT MODIFIES THE DECEIVING: "so that he may not deceive them ANY LONGER" — THEREFORE HE WAS DECEIVING THEM. THE BINDING MARKS A CHANGE OF STATE, WHICH IS EXACTLY WHAT q213 DEMANDS OF ANY CANDIDATE MARKER.** ⚠️ *The lane's gloss ("a continuation of restraint") reverses the grammar and is rejected.*
+
+> ### ★★★ **§14 SURVIVES — ON A BETTER ARGUMENT THAN IT GAVE. ✅ 20:3 RESTRAINS *SATAN*; IT DOES NOT SAY DECEPTION CEASES, AND THE SWEEP SHOWS THE DECEIVERS ARE PLURAL. So "there is deception after the cross" proves nothing by itself — **THE TEXT RESTRAINS AN ACTOR, NOT A PHENOMENON.**
+>
+> ### **BUT REVELATION REMOVES *EVERY* NAMED NATIONAL-SCALE DECEIVER BEFORE THE INTERVAL: ✅ beast and false prophet **ΖΩΝΤΕΣ ΕΒΛΗΘΗΣΑΝ** at 19:20 · ✅ Babylon fallen at 18 · ✅ the dragon bound at 20:2–3. *(Jezebel is a local Thyatiran problem, not a national deceiver.)* **THAT IS A CONTENT ARGUMENT, SO IT SURVIVES VISION SEQUENCE ≠ EVENT SEQUENCE — WHICH §14's OWN VERSION DID NOT, SINCE §13 HAD JUST FORBIDDEN NARRATIVE-ORDER REASONING (q321).**
+
+**★★ τὰ ἔθνη IS NOT A FIXED MORAL CATEGORY: deceived and judged at ✅ 11:2, 14:8, 18:3, 19:15, 20:3, 20:8 — **but ✅ 15:3–4 πάντα τὰ ἔθνη ἥξουσιν καὶ ΠΡΟΣΚΥΝΗΣΟΥΣΙΝ · ✅ 21:24 ΠΕΡΙΠΑΤΗΣΟΥΣΙΝ τὰ ἔθνη διὰ τοῦ φωτὸς αὐτῆς · ✅ 22:2 εἰς ΘΕΡΑΠΕΙΑΝ τῶν ἐθνῶν.** **SAME NOUN, DECEIVED THEN HEALED AND WORSHIPPING. 📌 SECOND CONFIRMED INSTANCE OF THIS PATTERN AFTER THE 46½ SEA AUDIT — WHICH MAKES IT A CHARACTERISTIC OF THE BOOK, NOT A CURIOSITY (q322).**
+
+**✅ ESTABLISHED ABOUT THE START: **ONE SHARED INTERVAL — VERY HIGH** *(χίλια ἔτη at 20:2, 20:4, 20:6, 20:7, four adjacent verses, no signal for two)* · ★★ **TWO SIMULTANEOUS MARKERS — the Satanic condition changes AND the faithful dead condition changes. ANY HISTORICAL MODEL MUST SATISFY BOTH. "A period of reduced wickedness" satisfies NEITHER.** · ✅ **CAST DOWN ≠ BOUND, confirmed again.**
+
+**🆕 DECEPTION-SCOPE CONTEXT RULE — ADOPTED, CORRECTED, LEASHED. Read 20:3's scope through Revelation's own deception vocabulary — **predominantly ORGANIZED NATIONAL ALLEGIANCE AND FALSE WORSHIP**, reaching its terminal form in 20:8's war-gathering — before expanding it to every conceivable satanic influence. 🛑 **AND STAGE 45½'s CONFINEMENT–FUNCTION DISTINCTION IS ATTACHED SO IT CANNOT DRIFT: narrowing the scope MAY NOT become "the binding means almost nothing." Five verbs and a sealed abyss. Neither extreme.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"I reached that conclusion first and checked second, and the check went against me... What rescued the argument was not the verb. It was noticing that Revelation destroys every single one of its own great deceivers before the thousand years start. That is a real argument. The one I had been making was not."***
 
 ---
 
