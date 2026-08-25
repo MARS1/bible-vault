@@ -372,6 +372,28 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Stage 55A — the beast's fingerprint, and the q294 discharge
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S88** | ✅✅ **CCAT/UPenn OLD GREEK DANIEL — `61.DanielOG.mlxx`** *(471,246 bytes, beta code; label format `Dan c:v`, NOT `DanOG c:v`)* | **Daniel 7:8 · 7:17 · 7:21 · 7:23 · 7:25** | ✅ **τέσσαρες ΒΑΣΙΛΕΙΑΙ** *(7:17)* · ✅ **ΒΑΣΙΛΕΙΑ τετάρτη** *(7:23)* · ❗ ✅ **πόλεμον … ΠΡΟΣ ΤΟΥΣ ΑΓΙΟΥΣ** *(7:21, and again at 7:8)* · ✅ **ΚΑΤΑΤΡΙΨΕΙ** *(7:25)* | **PRIMARY** *(critical corpus)* | ✅✅ **VERIFIED — AND THIS DISCHARGES q294.** ❗ **The edition-mismatch debt was raised at Stage 51¾ and sat unpaid for THREE stages; the fix was ONE `curl`, plus noticing the label prefix differs from the Theodotion file's** | 2026-08-25 |
+| **S89** | ✅✅ **SAME-CORPUS OG ⟷ THEODOTION COMPARISON** *(S57 against S88)* | **Daniel 7:8 · 7:17 · 7:21 · 7:23 · 7:25** | ★★★ **Th 7:21 ΜΕΤΑ ΤΩΝ ΑΓΙΩΝ vs OG ΠΡΟΣ ΤΟΥΣ ΑΓΙΟΥΣ — the split that Revelation 13:7 resolves in Theodotion's favour (q346)** · ✅ **both recensions read ΒΑΣΙΛΕΙΑΙ at 7:17 (q347)** · ✅ **Th ΠΑΛΑΙΩΣΕΙ vs OG ΚΑΤΑΤΡΙΨΕΙ at 7:25** · ✅ **the OG carries an EXTRA war-clause at 7:8 that Theodotion lacks** | **PRIMARY** | ✅✅ **VERIFIED — the comparison q294 demanded, now performed on ONE corpus rather than across editions** | 2026-08-25 |
+| **S90** | ✅ **Sefaria API** *(Aramaic/Hebrew)* | **Daniel 7:8 · 7:17 · 7:21 · 7:25 · 2:35 · 2:45 · Jeremiah 51:25 · Deuteronomy 6:8 · 11:18** | ★★ **7:21's עִם־קַדִּישִׁין — the ARAMAIC preposition that closes q346's loop** · ✅ **7:17's אַרְבְּעָה מַלְכִין** · ✅ **7:25's עִדָּן וְעִדָּנִין וּפְלַג עִדָּן** · ★ ✅ **2:35's לְטוּר רַב** · ★ ✅ **Jer 51:25's הַר הַמַּשְׁחִית** · ✅ **Deut 6:8's עַל־יָדֶךָ … בֵּין עֵינֶיךָ** | **PRIMARY** | ✅ **VERIFIED.** ⚠️ ❌ **Daniel 7:23 ARAMAIC NOT RETRIEVED — the call returned 7:17's text and the lane DECLARED the gap rather than filling it (q348)** | 2026-08-25 |
+| **S91** | ✅ **SBLGNT — the beast profile and the ὄρος sweep** | **Rev 13:1–2 · 13:7 · 13:16 · 13:18 · 11:7 · 17:8 · 17:11 · 9:11 · 12:9 · 20:2 · 7:3 · 22:4; and ALL SEVEN ὄρος occurrences: 6:14 · 6:16 · 8:8 · 14:1 · 16:20 · 17:9 · 21:10** | ✅ **the dragon's FOUR names, twice** · ✅ **9:11's ΒΑΣΙΛΕΑ ΤΟΝ ΑΓΓΕΛΟΝ ΤΗΣ ΑΒΥΣΣΟΥ** · ✅ **ΣΦΡΑΓΙΣ / ΟΝΟΜΑ / ΧΑΡΑΓΜΑ against one shared ΜΕΤΩΠΟΝ** · ✅ **τῆς ΔΕΞΙΑΣ** · ★ ✅ **8:8's ΩΣ ὄρος μέγα — an explicit simile** | **PRIMARY** | ✅ **VERIFIED — ὄρος sweep exhaustive, coverage stated by chapter.** ⚠️ **ONE OVER-READ REJECTED: the lane labelled 17:9 "SYMBOLIC" in its own table despite an explicit instruction not to interpret that verse. Data accepted; label refused (q350)** | 2026-08-25 |
+| **S92** | ❌ **Lexical authority for ὄρος · χάραγμα · σφραγίς · טֹטָפֹת** | **TBD** | whether ὄρος carries a kingdom sense in Jewish Greek usage *(q350)* · the semantic range of χάραγμα *(q354)* | **MODERN SCHOLARLY** *(when obtained)* | ❌ **NOT RETRIEVED** *(extends S39, S65, S70, S75, S87)*. ❗ **q350 CANNOT BE SETTLED BY MORE READING OF REVELATION — it needs a lexicon** | — |
+
+> ### 📇 **WHAT S88 PROVES ABOUT THIS LEDGER, AND IT IS THE THIRD COMPOUNDING RETURN IN FOUR STAGES:**
+>
+> ### ❗ **q294 WAS RAISED AT STAGE 51¾ AS A DECLARED EDITION MISMATCH — Swete's OG against CCAT's Theodotion — AND IT SAT UNPAID THROUGH STAGES 52, 53 AND 54.**
+>
+> ### ✅ **PAYING IT COST ONE `curl` AND ONE OBSERVATION: THE OG FILE LABELS ITS VERSES `Dan 7:17`, NOT `DanOG 7:17`, WHICH IS WHY THE FIRST EXTRACTION RETURNED EMPTY.**
+>
+> ### ★★★ **AND IT IMMEDIATELY PRODUCED THE STAGE'S BEST FINDING — A FOUR-ELEMENT VERBAL MATCH BETWEEN REVELATION 13:7 AND THEODOTION DANIEL 7:21, STRONGER THAN ANYTHING IN THE ENTIRE PAUL ⟷ REVELATION COMPARISON.**
+>
+> ### 📌 **A DECLARED DEBT IS AN ASSET. AN UNDECLARED ONE IS A HOLE. THIS IS THE SECOND TIME IN FOUR STAGES THAT PAYING AN OLD DEBT OUTPERFORMED NEW WORK (see also S67's q224 discharge).**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**

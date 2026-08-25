@@ -109,7 +109,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **54** | **⛓️🔑🔑 What Starts the Thousand Years? — THE VERB WENT AGAINST US** | **[[02x-what-starts-the-thousand-years]]** |
 | **54¾** | **🚧🔑🔑 The Chronology Fork and the Quarantine — an ASSUMPTION WAS REMOVED FROM THE CHAIN** | **[[02y-the-chronology-fork-and-the-quarantine]]** |
 | **54½ + 54⅞** | **🕸️🔑🔑 The Deception Scope Completed + THE ALLEGIANCE CONTROL** | **[[02z-deception-scope-and-the-allegiance-control]]** |
-| **55** | *(next)* **👹 Build the Beast's Fingerprint Before Naming Him — ❗ STILL BLOCKING** | — |
+| **55A** | **👹🔑🔑 Build the Beast's Fingerprint Before Naming It — THE DEBT PAID OFF** | **[[03a-the-beasts-fingerprint]]** |
+| **55B** | *(next)* **⚖️ Put the First Candidate on Trial — as a DEFENDANT, with intent to destroy it** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2436,6 +2437,42 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **✅ πορν- IS USED BOTH WAYS: literal-ethical at ✅ 21:8, 22:15, 2:20–21 *(vice lists beside φονεῖς and εἰδωλολάτραι; repentance language)*; metaphorical-idolatrous at ✅ 17:1–2 *(**τῆς πόρνης τῆς μεγάλης**; **ἐπόρνευσαν οἱ βασιλεῖς**)*. 🛑 **NEITHER MAY BE DISSOLVED INTO THE OTHER. The morality study remains owed (q345).** ⚠️ **AND ONE LANE OVER-READ REJECTED: its parse of 13:16's ἵνα δῶσιν as "they give *themselves*" is disputable and not adopted — which shows the self-check rule catches CONTRADICTIONS, not OVER-READS. A real limit, recorded (q341).**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"So I went and counted the conjunctions... Revelation names the mark six times, and not once does it stand alone... That is not comfort I am offering. It is what counting the words produced. And I would have written it down the same way if it had come out the other direction, because I have written down four things this month that went against me."***
+
+---
+
+## Stage 55A — 👹🔑🔑 The Beast's Fingerprint: THE DEBT PAID OFF *(current)*
+
+**File:** [[03a-the-beasts-fingerprint]] · **NO CANDIDATE ADMITTED. The profile is built first, and the candidate must be made to fit it.**
+
+> ### ★★★ **THE STAGE'S BEST FINDING CAME FROM PAYING A THREE-STAGE-OLD DEBT. ✅✅ q294 DISCHARGED — the second CCAT file was downloaded and the SAME-CORPUS OG/Theodotion comparison finally run. One command.**
+>
+> ### ✅ **Aramaic Dan 7:21 — עָבְדָה קְרָב ΕΜ־קַדִּישִׁין** *(war **WITH** the holy ones)* · ★ ✅ **THEODOTION — ἐποίει ΠΟΛΕΜΟΝ ΜΕΤΑ ΤΩΝ ΑΓΙΩΝ** · ❗ ✅ **OLD GREEK — πόλεμον … ΠΡΟΣ ΤΟΥΣ ΑΓΙΟΥΣ** · ★★ ✅ **REVELATION 13:7 — ποιῆσαι ΠΟΛΕΜΟΝ ΜΕΤΑ ΤΩΝ ΑΓΙΩΝ.**
+>
+> ### ❗❗ **FOUR ELEMENTS MATCH THEODOTION — ποιέω + πόλεμος + ΜΕΤΑ + τῶν ἁγίων — AND THE OLD GREEK DIFFERS ON EXACTLY THE PREPOSITION AND CASE. THE ARAMAIC עִם CLOSES THE LOOP: THEODOTION TRACKS THE ARAMAIC, THE OG DOES NOT, AND REVELATION TRACKS THEODOTION.**
+>
+> ### 📌 **SECOND INSTANCE OF THIS EXACT SHAPE — Stage 51¾ found ✅ Rev 1:7's μετὰ τῶν νεφελῶν matching Theodotion where the OG has ἐπί, and there too the Aramaic had עִם. **TWO QUOTATIONS · TWO ARAMAIC עִם · TWO THEODOTION μετά · TWO REVELATION μετά · TWO OG OUTLIERS.** 🛑 **BUT *QUOTATION BEHAVIOR IS PER-QUOTATION* (v2.3) HOLDS: TWO IS TWO, NOT A RULE — and the NT picture is THREE-WAY, since Matthew tracks the OG and Mark/Luke match neither (q346).**
+>
+> ### 📌 **AND THIS IS A STRONGER VERBAL LINK THAN ANYTHING IN THE ENTIRE PAUL ⟷ REVELATION COMPARISON, WHICH STAGE 53 FOUND AT ZERO. THE DEBT REGISTER IS NOT BOOKKEEPING.**
+
+**★★ AND §1's FOUNDATION HAS A TEXTUAL PROBLEM. The "Beast Principle" rests on Daniel 7:17 saying KINGS and 7:23 saying KINGDOM. ✅ **Aramaic 7:17 — אַרְבְּעָה מַלְכִין (KINGS)** · ✅ **OLD GREEK 7:17 — τέσσαρες ΒΑΣΙΛΕΙΑΙ** · ✅ **THEODOTION 7:17 — τέσσαρες ΒΑΣΙΛΕΙΑΙ** · ✅ **both recensions at 7:23 — ΒΑΣΙΛΕΙΑ τετάρτη.** ❗❗ **BOTH GREEK RECENSIONS READ *KINGDOMS*. THE KING/KINGDOM TENSION IS ARAMAIC-ONLY — IN GREEK, EITHER RECENSION, BOTH VERSES SAY KINGDOM.** 📐 **The principle may survive from ✅ Daniel 2:38's "you are the head of gold" to Nebuchadnezzar personally — BUT THE SPECIFIC 7:17/7:23 EVIDENCE DISSOLVES THE MOMENT EITHER GREEK TEXT IS READ, AND §1 IS BUILT ON IT (q347).** ⚠️ **Daniel 7:23 in ARAMAIC still owed — the lane declared its own gap rather than filling it, which is the correct behaviour (q348).**
+
+> ### ⚠️⚠️ **A DISCIPLINE BREACH, RECORDED RATHER THAN SMOOTHED. The tranche's opening: *"we deliberately do not begin with Nero, ROME, Jerusalem…"* Its §5, twelve paragraphs later: *"this is one reason ROME immediately becomes historically interesting: ROME was famously associated with seven hills."*
+>
+> ### ❗ **A CANDIDATE WAS NAMED *AND GIVEN SUPPORTING EVIDENCE* INSIDE THE STAGE WHOSE ENTIRE PURPOSE IS TO BUILD THE PROFILE FIRST — AND THE TRANCHE'S OWN §19 NAMES THE FAILURE MODE IT COMMITTED IN §5.** **THE ITEM IS REMOVED FROM THE PROFILE: it records only that ✅ Revelation says ἑπτὰ ὄρη, not which places have seven of anything (q349).**
+
+**★★ THE ὄρος SWEEP — 7 occurrences: ✅ 6:14 · 6:16 · ★ **8:8 (ΩΣ ὄρος μέγα — an explicit SIMILE)** · 14:1 · 16:20 · **17:9** · 21:10. **AND THE READING NOBODY PUT ON THE TABLE, RETRIEVED: ✅ **Daniel 2:35 — הֲוָת לְטוּר רַב וּמְלָאת כָּל־אַרְעָא**, and 2:44 makes that stone a KINGDOM · ✅ **Jeremiah 51:25 — הַר הַמַּשְׁחִית**, Babylon as a DESTROYING MOUNTAIN. ❗ **MOUNTAIN-AS-KINGDOM IS ATTESTED PROPHETIC IMAGERY, SO A SYMBOLIC READING IS LIVE ON THE TEXT'S OWN TERMS AND MUST BE ON THE TABLE BEFORE ANY CITY IS.** 🛑 **THIS STAGE DOES NOT DECIDE 17:9 — Revelation immediately adds *καὶ βασιλεῖς ἑπτά εἰσιν*, so the text supplies its own second dimension and any reading must carry BOTH (q350).**
+
+**⚠️ "ONE IS" — WHOSE PRESENT? ✅ 17:10's **οἱ πέντε ἔπεσαν, ὁ εἷς ἔστιν, ὁ ἄλλος οὔπω ἦλθεν** is treated as locating JOHN'S moment. ❗ **BUT IT IS SPOKEN BY AN ANGEL INSIDE A VISION WHOSE SUBJECT IS ✅ ἦν καὶ οὐκ ἔστιν καὶ μέλλει ἀναβαίνειν — a beast that WAS, IS NOT, and IS ABOUT TO ASCEND. THE VISION'S FRAME IS EXPLICITLY NOT THE PRESENT MOMENT FOR ITS OWN SUBJECT.** 🛑 **SO THE VANTAGE POINT IS UNFIXED, AND A KING-LIST CANNOT BE TESTED AGAINST AN UNFIXED VANTAGE. *Vision Sequence ≠ Event Sequence* applies BEFORE anyone counts rulers (q351).**
+
+**✅ ABADDON ≠ SATAN — CONFIRMED BY EXHAUSTIVE CHECK, BOTH DIRECTIONS. ✅ 9:11 — **ΒΑΣΙΛΕΑ ΤΟΝ ΑΓΓΕΛΟΝ ΤΗΣ ΑΒΥΣΣΟΥ**, both titles · ✅ the dragon's FOUR names at 12:9 **and again at 20:2**: δράκων · ὄφις ὁ ἀρχαῖος · Διάβολος · Σατανᾶς. ❗ **REVELATION APPLIES NONE OF THEM TO ABADDON AND NEVER APPLIES ABADDON'S NAME TO THE DRAGON — ABSENT. AND JOHN DEMONSTRABLY HAD THE VOCABULARY: HE STACKS FOUR NAMES ON THE DRAGON TWICE, EIGHT CHAPTERS APART, AND USED NONE HERE (q352).** ★ **A puzzle recorded not solved: ✅ 11:7 and 17:8 have the BEAST ascending ἐκ τῆς ἀβύσσου · ✅ 9:11 has ABADDON as its angel/king · ✅ 20:1–3 has SATAN thrown INTO it. THREE FIGURES, ONE ABYSS, NO STATED RELATION (q353).**
+
+> ### ★★ **HAND AND FOREHEAD — THE PARALLEL IS *POSITIONAL*, NOT *LEXICAL*. ✅ MATCHES: hand and head-front in both, and ★ **all three Revelation passages use the SAME noun ΜΕΤΩΠΟΝ** for divine seal, divine name and beast's mark alike. ❌ **DOES NOT MATCH: ✅ ΣΦΡΑΓΙΣ (7:3) vs ✅ ΟΝΟΜΑ (22:4) vs ✅ ΧΑΡΑΓΜΑ (13:16) vs ✅ Deuteronomy's טֹטָפֹת/אוֹת — THREE DIFFERENT GREEK WORDS AND A HEBREW TERM THAT IS NEITHER.**
+>
+> ### 📐 **THE COUNTERFEIT IS BUILT ON WHERE THE MARK SITS, NOT ON WHAT IT IS CALLED. ★ And ✅ Revelation specifies the RIGHT hand (τῆς δεξιᾶς) where Deuteronomy specifies neither.** 📌 **The tranche's conclusion — *"whose name do you bear?"* — IS supported, but by ✅ 22:4's ὄνομα against ✅ 13:17's τὸ ὄνομα τοῦ θηρίου, NOT by a Deuteronomy lexical link. Right conclusion, different verse (q354).**
+
+**📋 THE 22-POINT FINGERPRINT ADOPTED WITH AMENDMENTS: ✂️ **seven-mountains-as-candidate-evidence REMOVED** · ♻️ **the Danielic king/kingdom item CORRECTED** · ♻️ **the "one ruler presently existing" item CORRECTED to an unfixed vantage** · ➕ **THE LETHAL ARM ADDED** *(13:15's ΑΠΟΚΤΑΝΘΩΣΙΝ — death for refusing worship, not only economic exclusion)* · ➕ **THE DANIELIC WAR-PHRASE ADDED** *(ποιέω πόλεμον ΜΕΤΑ τῶν ἁγίων)*. **And 54⅞'s FOUR-PART TEST stands: political authority · worship claim · persecution · mark-name-number system. THREE OF FOUR IS A FAILURE.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"A profile that already contains a candidate's supporting evidence is not a profile. It is a portrait with the sitter's name written under it... There is a reading available from inside the text that nobody had put on the table, because a familiar answer had already occupied the space where the question should have been."***
 
 ---
 
