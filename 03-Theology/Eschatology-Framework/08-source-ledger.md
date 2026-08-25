@@ -274,6 +274,24 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Stage 52 — Paul's internal chain
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S61** | ✅ **SBLGNT + ESV** *(Bible Gateway, WebFetch)* | **2 Thess 2:15, 3:17 · Romans 6:9 · Colossians 1:18 · Revelation 1:5 · Acts 26:23** | ✅ **δι' ἐπιστολῆς ἡμῶν** *(singular)* against ✅ **ἐν πάσῃ ἐπιστολῇ* · ✅ **οὐκέτι ἀποθνῄσκει … οὐκέτι κυριεύει** *(twice)* · ✅ **πρωτότοκος ΕΚ τῶν νεκρῶν** vs ✅ **ὁ πρωτότοκος τῶν νεκρῶν** *(NOT identical)* · ★ ✅ **πρῶτος ἐξ ἀναστάσεως νεκρῶν** | **PRIMARY** | ✅ **VERIFIED** | 2026-08-25 |
+| **S62** | ✅✅ **TWO EXHAUSTIVE NEGATIVE SEARCHES** *(SBLGNT, full passages retrieved and scanned term by term)* | **2 Thessalonians 2:1–12** *(7 resurrection terms)* · **1 Thessalonians 4:13–18** *(7 transformation terms)* | ✅ **ALL SEVEN RESURRECTION TERMS ABSENT FROM 2 THESS 2** · ✅ **ALL SEVEN TRANSFORMATION TERMS ABSENT FROM 1 THESS 4** — the vocabulary division of labour underlying q301 | **PRIMARY** | ✅✅ **VERIFIED — and the search method is recorded because the CLAIMS ARE NEGATIVE: full passages retrieved, no truncation, each term reported individually PRESENT/ABSENT.** ❗ **A LOAD-BEARING NEGATIVE REQUIRES ITS SEARCH LIST NAMED, OR IT IS AN IMPRESSION RATHER THAN A FINDING** *(the discipline established at Stage 48½ §7)* | 2026-08-25 |
+| **S63** | ✅ **SBLGNT — the three trumpet phrases side by side** | **Matthew 24:31 · 1 Thess 4:16 · 1 Cor 15:52** | that **NO TWO ARE LEXICALLY IDENTICAL** — μεγάλης / θεοῦ / ἐσχάτῃ (q303) | **PRIMARY** | ✅ **VERIFIED** | 2026-08-25 |
+| **S64** | ❌ **The pre-Messianic restoration accounts** | **1 Kings 17 · 2 Kings 4 · Mark 5 · John 11** | that persons were restored to MORTAL life before Messiah — the contrast underwriting *firstfruits ≠ first-ever-raised* | **PRIMARY** *(when obtained)* | ❌ **NOT RETRIEVED — REPORTED ONLY.** ✅ *The category difference itself IS verified at Romans 6:9; only its examples are unverified (q306)* | — |
+| **S65** | ❌ **Lexical authority for ἀπαρχή · πρωτότοκος · πρῶτος · παρουσία · τέλος** | **TBD** | the semantic-range claims underlying §§2, 6 and 9 | **MODERN SCHOLARLY** *(when obtained)* | ❌ **NOT RETRIEVED** *(extends S39)*. ❗ **MATERIAL FOR STAGE 53: whether ἀπαρχή, πρωτότοκος and πρῶτος are three ways of saying one thing or three distinct claims bears directly on q307's Paul-πρῶτος / John-πρώτη tension** | — |
+
+> ### 📇 **A NOTE ON WHAT THIS STAGE COST: STAGE 52 REQUIRED LESS RETRIEVAL THAN ANY STAGE IN A WEEK, BECAUSE MOST OF ITS TEXTS WERE ALREADY IN THIS LEDGER (S18, S32, S33).**
+>
+> ### **THE ONLY NEW WORK WAS FIVE SHORT VERSES AND TWO NEGATIVE SEARCHES — AND THE NEGATIVE SEARCHES PRODUCED THE STAGE'S HEADLINE.**
+>
+> ### 📌 **THAT IS THE COMPOUNDING RETURN A MAINTAINED LEDGER IS SUPPOSED TO PAY, AND IT IS THE FIRST STAGE WHERE IT VISIBLY DID.**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**
