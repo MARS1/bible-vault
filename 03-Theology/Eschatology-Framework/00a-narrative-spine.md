@@ -111,7 +111,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **54½ + 54⅞** | **🕸️🔑🔑 The Deception Scope Completed + THE ALLEGIANCE CONTROL** | **[[02z-deception-scope-and-the-allegiance-control]]** |
 | **55A** | **👹🔑🔑 Build the Beast's Fingerprint Before Naming It — THE DEBT PAID OFF** | **[[03a-the-beasts-fingerprint]]** |
 | **55B** | **⚖️🔑🔑 The First Candidate on Trial — 666 IS NOT A UNIQUE IDENTIFIER** | **[[03b-the-first-candidate-on-trial]]** |
-| **55C** | *(next)* **🐑 Who Is the False Prophet? — same procedure: profile first, defendant second** | — |
+| **55C** | **🐑🔑🔑 The Land Beast and the False Prophet — 35 OCCURRENCES, ZERO TERRITORIAL** | **[[03c-the-land-beast-and-the-false-prophet]]** |
+| **55D** | *(next)* **⚔️ Three Gatherings, or One? — 16:14 · 19:19 · 20:8, and the ὅπου tie** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2514,6 +2515,40 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **📐 VERDICT — NOT CONVICTED, NOT ACQUITTED. **THE HYPOTHESIS IS ALIVE, WOUNDED, AND CARRIES SPECIFIC NAMED DEBTS. IT WAS NOT RESCUED, AND IT WAS NOT EXECUTED ON EVIDENCE THAT HAS NOT BEEN READ.**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"I ran his name through the same sum. It comes to six hundred and sixty-six exactly. So does another name. So does a third. A number that many names satisfy is a sieve, not a signature. It tells you which doors are locked. It does not tell you which one is yours."***
+
+---
+
+## Stage 55C — 🐑🔑🔑 The Land Beast and the False Prophet: 35 OCCURRENCES, ZERO TERRITORIAL *(current)*
+
+**File:** [[03c-the-land-beast-and-the-false-prophet]] · **The first-beast hypothesis cannot stand alone — Revelation presents TWO cooperating beasts and destroys them TOGETHER.**
+
+**✅ SECOND BEAST = FALSE PROPHET, AND STRONGER THAN STATED. All three sign-passages share **σημεῖα + ποιέω** with **NO alternative vocabulary** — no τέρατα, no δυνάμεις: ✅ **13:13–14 ποιεῖ ΣΗΜΕΙΑ μεγάλα … ἃ ἐδόθη αὐτῷ ΠΟΙΗΣΑΙ** · ★ ✅ **16:13–14 ἐκ τοῦ στόματος τοῦ ΨΕΥΔΟΠΡΟΦΗΤΟΥ … ΠΟΙΟΥΝΤΑ ΣΗΜΕΙΑ** · ✅ **19:20 ὁ ΨΕΥΔΟΠΡΟΦΗΤΗΣ ὁ ΠΟΙΗΣΑΣ ΤΑ ΣΗΜΕΙΑ.** ❗❗ **REVELATION 16:13 ALREADY CALLS HIM ὁ ΨΕΥΔΟΠΡΟΦΗΤΗΣ — THREE CHAPTERS BEFORE THE DESTRUCTION SCENE. THE TITLE IS NOT INTRODUCED AT 19:20; IT IS ALREADY IN USE (q363).**
+
+> ### ★★★ **THE γῆ SWEEP — EXHAUSTIVE, 22 CHAPTERS, 35 OCCURRENCES — AND IT REMOVES A CANDIDATE'S FOUNDATION. ✅ **οἱ κατοικοῦντες ἐπὶ τῆς γῆς × 8** · ✅ **οἱ βασιλεῖς τῆς γῆς × 7** · ✅ **γῆ paired with θάλασσα × 5.** Scope markers consistently universal: ✅ 1:7 **πᾶσαι αἱ φυλαὶ τῆς γῆς** · ✅ 13:3 **ὅλη ἡ γῆ** · ✅ 20:8 **ταῖς τέσσαρσι γωνίαις τῆς γῆς** · ✅ 21:1 **γῆν καινήν**.
+>
+> ### ❗❗❗ **ZERO OCCURRENCES RESTRICT γῆ TO A NAMED TERRITORY. NOT ONE, ACROSS THIRTY-FIVE.**
+>
+> ### 🛑 **SO 13:11's ἐκ τῆς γῆς AS "the land of Israel" HAS NO SUPPORT IN REVELATION'S OWN USAGE — and the verse's own structure points the other way: ✅ **first beast ἐκ τῆς ΘΑΛΑΣΣΗΣ / second beast ἐκ τῆς ΓΗΣ**, the same cosmic dyad the book uses five other times. **THE TRANCHE FILED THIS AS "possible, in the candidate column." THE SWEEP MOVES IT FROM NEUTRAL TO BURDENED (q364).**
+
+> ### ★★★★ **DANIEL 3 IS LEXICAL, NOT THEMATIC — AND IT CONTAINS AN INVERSION. Extracted in-archive from CCAT, **BOTH RECENSIONS AGREEING**: ✅ **3:1 ἐποίησεν ΕΙΚΟΝΑ χρυσῆν … ἔστησεν** · ✅ **3:5 πεσόντες ΠΡΟΣΚΥΝΕΙΤΕ τῇ ΕΙΚΟΝΙ** · ✅ **3:6 ὃς ἂν μὴ πεσὼν ΠΡΟΣΚΥΝΗΣῌ … ΕΜΒΛΗΘΗΣΕΤΑΙ ΕΙΣ τὴν ΚΑΜΙΝΟΝ ΤΟΥ ΠΥΡΟΣ τὴν ΚΑΙΟΜΕΝΗΝ** · ✅ **3:18 ΟΥ ΠΡΟΣΚΥΝΟΥΜΕΝ.** ✅ **COUNTS IN CH. 3 ALONE: Theodotion 11 εἰκών + 9 προσκυν-; Old Greek 10 + 9.**
+>
+> ### ✅ **AND REVELATION 13 HAS εἰκών + προσκυνέω + DEATH FOR REFUSAL.**
+>
+> ### ❗❗ **THE FOURTH ELEMENT NEITHER TRANCHE SAW: ✅ **Dan 3:6 ἐμΒΛΗΘΗΣΕΤΑΙ ΕΙΣ … ΤΟΥ ΠΥΡΟΣ τὴν ΚΑΙΟΜΕΝΗΝ** against ✅ **Rev 19:20 ΕΒΛΗΘΗΣΑΝ ΕΙΣ … ΤΟΥ ΠΥΡΟΣ τῆς ΚΑΙΟΜΕΝΗΣ.** **βάλλω + εἰς + τοῦ πυρός + καιομέν-. FOUR ELEMENTS; ONLY THE VESSEL DIFFERS — κάμινος AGAINST λίμνη.**
+>
+> ### **IN DANIEL, THOSE WHO *REFUSE* THE IMAGE ARE THROWN INTO THE BURNING FIRE — AND WALK OUT. IN REVELATION, THOSE WHO *DEMAND* IT ARE THROWN IN — AND DO NOT (q365).** ⚠️ **LEASH: the individual words are common; the claim is the CLUSTER, argued as one datum, not four.**
+
+**✅✅ RC-01 DISCHARGED — AND IT GREW FROM TWO GATHERINGS TO THREE. ✅ **16:13–14 retrieved at last** *(owed since 54½, where RC-01 was fenced half-verified and forbidden from use, q335)*: **ΣΥΝΑΓΑΓΕΙΝ αὐτοὺς ΕΙΣ ΤΟΝ ΠΟΛΕΜΟΝ**, with **τῆς ΟΙΚΟΥΜΕΝΗΣ ΟΛΗΣ**. ❗❗ **AND THERE ARE THREE: ✅ 16:14 ΣΥΝΑΓΑΓΕΙΝ … ΕΙΣ ΤΟΝ ΠΟΛΕΜΟΝ · ✅ 19:19 ΣΥΝΗΓΜΕΝΑ ΠΟΙΗΣΑΙ ΤΟΝ ΠΟΛΕΜΟΝ · ✅ 20:8 ΣΥΝΑΓΑΓΕΙΝ … ΕΙΣ ΤΟΝ ΠΟΛΕΜΟΝ — **AND 16:14 AND 20:8 ARE VERBATIM IDENTICAL IN THE GATHERING CLAUSE (q366).** ★ **Partial answer to q323: 16:14's ΟΙΚΟΥΜΕΝΗΣ ΟΛΗΣ matches 12:9's, while 20:3/20:8 use τὰ ἔθνη — Revelation uses BOTH nouns for the deceived population.**
+
+**⚠️ THE ELIJAH FIRE IS A PARTIAL MATCH: ✅ shared **πῦρ · ἐκ τοῦ οὐρανοῦ · a descent verb** *(4 Kingdoms 1:10 ΚΑΤΕΒΗ ΠΥΡ ΕΚ ΤΟΥ ΟΥΡΑΝΟΥ; 3 Kingdoms 18:38 ΕΠΕΣΕΝ)* — ❗ **but Revelation has ΠΟΙῌ … ΚΑΤΑΒΑΙΝΕΙΝ, a CAUSATIVE: the figure MAKES it come down.** ⚠️⚠️ **AND A FOURTH CONSECUTIVE LANE OVER-READ REFUSED: the retrieval concluded the construction *"deliberately signals eschatological deception."* **INTERPRETATION, NOT DATA, AND THE BRIEF FORBADE IT.** 📌 **At one instance this was noise; at FOUR it is a predictable behaviour, and the fix is to constrain the brief, not to keep recording it (q367).**
+
+> ### ⚠️ **§17's PREMISE NEEDS CORRECTING — AND §17 IS THE TRANCHE'S BEST INSIGHT. It says we have assumed Rev 19 → 20 is chronological **from chapter order alone**. ❗ **BUT ✅ 20:10 READS — ἐβλήθη … ΟΠΟΥ ΚΑΙ ΤΟ ΘΗΡΙΟΝ ΚΑΙ Ο ΨΕΥΔΟΠΡΟΦΗΤΗΣ. JOHN HIMSELF TIES 20:10 BACK TO 19:20; THE DEVIL ARRIVES *WHERE THEY ALREADY ARE*. THAT IS AN EXPLICIT INTERNAL CROSS-REFERENCE, NOT AN INFERENCE FROM SEQUENCE.**
+>
+> ### ⚠️ **IT DOES NOT SETTLE IT — ὅπου could mark a shared DESTINATION, and the relative clause carries no verb. **BUT ANY RECAPITULATION READING MUST NOW ACCOUNT FOR THE TIE RATHER THAN MERELY NOTING THAT CHAPTERS RUN IN ORDER (q368).**
+
+**📊 NEITHER CANDIDATE FAMILY PASSES. **Candidate A** *(cultic machinery attached to imperial power)* fits Revelation 13's worship, setting and mechanism — ❌❌ **but FAILS the termination requirement, which 55B established is PERMANENCE, NOT DECLINE (q361).** **Candidate B** *(a religious establishment cooperating with imperial power)* fits a first-century terminus — ❌ **but is weak on σημεῖα, the image, the mark, and the Asia Minor audience, AND its γῆ foundation is now weighed against by 35 occurrences.** ❗❗ **AND THE TRANCHE'S OWN §15 SUPPLIES THE DECIDING RULE, SO IT IS ENFORCED: *CHRONOLOGICAL CONVENIENCE IS NOT EVIDENCE.* CANDIDATE B'S ONLY CLEAR ADVANTAGE IS THAT IT ENDS AT A USEFUL MOMENT — **PRECISELY THE GROUND ON WHICH A CANDIDATE MAY NOT BE SELECTED (q369).**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"I went to Daniel expecting a theme and found a sentence... the punishment in Daniel that the faithful survived is the punishment in Revelation that the persecutors do not. Thirty-five times John says earth, and not once does he mean one country. I did not decide that. I counted it."***
 
 ---
 

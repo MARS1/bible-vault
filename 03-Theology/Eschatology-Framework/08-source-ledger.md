@@ -412,6 +412,25 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Stage 55C — the γῆ sweep, Daniel 3, and the RC-01 discharge
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S98** | ✅✅ **EXHAUSTIVE γῆ SWEEP — all 22 chapters of Revelation** | **35 occurrences** | ★★★ ✅ **ZERO restricted to a named territory** · ✅ **κατοικοῦντες ἐπὶ τῆς γῆς × 8** · ✅ **βασιλεῖς τῆς γῆς × 7** · ✅ **γῆ/θάλασσα dyad × 5** *(5:13 · 7:3 · 12:12 · 20:8 · 21:1)* | **PRIMARY** | ✅✅ **VERIFIED EXHAUSTIVE — coverage stated chapter by chapter, counts given as counts rather than impressions (q364)** | 2026-08-25 |
+| **S99** | ✅✅ **CCAT Theodotion + Old Greek — DANIEL 3, extracted in-archive** | **Daniel 3:1 · 3:5 · 3:6 · 3:12 · 3:15 · 3:18, both recensions** | ★★★★ ✅ **εἰκών + προσκυνέω density (Th 11+9, OG 10+9)** · ✅ **3:6's ΕΜΒΛΗΘΗΣΕΤΑΙ ΕΙΣ … ΤΟΥ ΠΥΡΟΣ τὴν ΚΑΙΟΜΕΝΗΝ**, matching ✅ **Rev 19:20's ΕΒΛΗΘΗΣΑΝ ΕΙΣ … ΤΟΥ ΠΥΡΟΣ τῆς ΚΑΙΟΜΕΝΗΣ** (q365) | **PRIMARY** *(critical corpus)* | ✅✅ **VERIFIED — and BOTH RECENSIONS AGREE, which removes the recension question from this finding entirely.** 📌 *The CCAT files were downloaded two stages ago for an unrelated question (S57, S88)* | 2026-08-25 |
+| **S100** | ✅✅ **SBLGNT — Revelation 16:13–14** | **16:13–14** | ✅ **ἐκ τοῦ στόματος τοῦ ΨΕΥΔΟΠΡΟΦΗΤΟΥ** · ✅ **ΠΟΙΟΥΝΤΑ ΣΗΜΕΙΑ** · ✅ **τῆς ΟΙΚΟΥΜΕΝΗΣ ΟΛΗΣ** · ✅ **ΣΥΝΑΓΑΓΕΙΝ αὐτοὺς ΕΙΣ ΤΟΝ ΠΟΛΕΜΟΝ** | **PRIMARY** | ✅✅ **VERIFIED — THIS DISCHARGES q335 AND RC-01.** ❗ **The debt was declared at Stage 54½ and the candidate was FENCED AGAINST USE until it was paid. Paying it revealed a THIRD gathering (q366)** | 2026-08-25 |
+| **S101** | ✅ **SBLGNT + LXX + ESV** | **Revelation 13:13–15 · 19:19–20 · 20:8; LXX 3 Kingdoms 18:38 · 4 Kingdoms 1:10; John 19:15 · 11:48** | ✅ **σημεῖα + ποιέω across all three sign-passages, with NO alternative vocabulary** · ✅ **the three συνάγω/πόλεμος gatherings** · ✅ **πῦρ + ἐκ τοῦ οὐρανοῦ shared with the LXX, but Revelation's ΠΟΙῌ … ΚΑΤΑΒΑΙΝΕΙΝ is CAUSATIVE** · ✅ **Οὐκ ἔχομεν βασιλέα εἰ μὴ Καίσαρα** | **PRIMARY** | ✅ **DATA VERIFIED.** ⚠️⚠️ **FOURTH CONSECUTIVE LANE OVER-READ REFUSED: it concluded the construction *"deliberately signals eschatological deception"* — interpretation the brief forbade (q367)** | 2026-08-25 |
+
+> ### 📇 **THREE THINGS THIS BLOCK ESTABLISHES:**
+>
+> ### ✅ **FIRST — S100 IS THE THIRD DECLARED DEBT IN SIX STAGES WHOSE PAYMENT OUTPERFORMED NEW WORK** *(after S67's q224 and S88's q294)*. **AND IT DID MORE THAN PAY: IT TURNED A TWO-TERM CANDIDATE INTO A THREE-TERM QUESTION.**
+>
+> ### ★★★★ **SECOND — S99 COST ONE COMMAND, ON FILES ALREADY ON DISK FOR A DIFFERENT PURPOSE, AND PRODUCED THE STAGE'S BEST FINDING. A CORPUS RETRIEVED ONCE KEEPS PAYING.**
+>
+> ### ⚠️ **THIRD — S101 IS THE FOURTH CONSECUTIVE LANE TO PASS ITS SELF-CHECK AND OVER-READ ANYWAY. THAT IS NO LONGER A LIMIT TO NOTE; IT IS A BEHAVIOUR TO DESIGN AGAINST, AND v5.5 NOW SPECIFIES THREE MANDATORY BRIEF CLAUSES.**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**

@@ -6,7 +6,7 @@ tags: [methodology, epistemology, exegesis, ingestion-protocol, governance]
 reference:
 created: 2026-08-12
 status: active
-version: "5.4 — 2026-08-25, current at Stage 55B (established 1.0 at Stage 16, 2026-08-12)"
+version: "5.5 — 2026-08-25, current at Stage 55C (established 1.0 at Stage 16, 2026-08-12)"
 related: "[[00-index]], [[00a-narrative-spine]], [[00b-biblical-epistemology]]"
 ---
 
@@ -1594,6 +1594,48 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 🚧 Constrain the Brief, Don't Just Record the Over-Read *(added v5.5 — after the fourth instance)*
+
+**v5.3 recorded that the self-check rule catches CONTRADICTIONS but not OVER-READS. That has now happened four consecutive times, in lanes that all passed their self-checks:**
+
+| # | The over-read |
+|---|---|
+| **1** | parsed an ambiguous subject at 13:16 as settled and built an argument on it *(q341)* |
+| **2** | labelled 17:9 **"SYMBOLIC"** in its own table **after being told not to interpret that verse** *(q350)* |
+| **3** | characterized a manuscript split from reference works while its own state field said no apparatus was retrieved |
+| **4** | concluded a construction *"deliberately signals eschatological deception"* — pure interpretation *(q367)* |
+
+> ### ❗ **AT ONE INSTANCE THIS WAS NOISE. AT FOUR IT IS A ***PREDICTABLE BEHAVIOUR***, AND CONTINUING TO RECORD IT IS NOT A RESPONSE.**
+>
+> ### 🆕 **THE FIX IS IN THE BRIEF, NOT THE REVIEW. EVERY RETRIEVAL BRIEF MUST NOW:**
+> ### **1. NAME THE SPECIFIC VERSE OR FORM THE LANE MAY NOT INTERPRET, and say what "report only" means for it.**
+> ### **2. REQUIRE THE LANE TO WRITE `INTERPRETIVE — NOT MY CALL` beside any question it notices but must not answer.**
+> ### **3. STATE THAT A CONCLUSION SECTION MAY CONTAIN ONLY RESTATEMENTS OF THE TABLES — NO CHARACTERIZATIONS, NO "deliberately," NO "signals," NO "suggests."**
+>
+> ### 📌 **AND THE STANDING RULE HOLDS REGARDLESS: A DISPUTABLE PARSE INSIDE A DELEGATED REPORT IS REFUSED UNDER S14/S22, HOWEVER CONFIDENTLY IT IS STATED.**
+
+---
+
+## 🔗 Argue a Cluster as One Datum *(added v5.5)*
+
+> **When several individually common words co-occur across two passages, the evidence is the CO-OCCURRENCE — one datum. It may not be decomposed and counted as several.**
+
+*Worked instance:* ✅ **Daniel 3 and Revelation 13/19:20 share εἰκών + προσκυνέω + death-for-refusal + the βάλλω/εἰς/τοῦ πυρός/καιομέν- formula.** ❗ **βάλλω, πῦρ and καίω are individually common — the claim is that they occur TOGETHER, in one discourse, in both texts.**
+
+> ### 📌 **THIS IS THE SAME DISCIPLINE AS BURDEN-OF-DISTINCTION CLAUSE 2, APPLIED TO LEXICAL EVIDENCE RATHER THAN TO CORRESPONDENCE COUNTS: **INHERITED OR CO-OCCURRING MATERIAL COUNTS ONCE.**
+
+---
+
+## 📏 A Sweep Can Move a Reading From Neutral to Burdened *(added v5.5)*
+
+> **An exhaustive usage sweep does not only confirm or refuse a reading — it can shift where the burden sits. A reading with zero supporting occurrences across a complete sweep is no longer a free option.**
+
+*Worked instance:* ✅ **35 occurrences of γῆ in Revelation; ZERO restricted to a named territory.** *The territorial reading of 13:11 had been filed as "possible, in the candidate column."*
+
+> ### **IT IS NOT REFUTED — BUT IT NOW RUNS AGAINST EVERY OCCURRENCE IN THE BOOK, AND WHOEVER HOLDS IT CARRIES THE BURDEN RATHER THAN SHARING IT.**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -1619,6 +1661,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **5.5** | 2026-08-25 | **A SWEEP MOVED A READING FROM NEUTRAL TO BURDENED, AND THE LANE PROBLEM BECAME A BRIEF PROBLEM.** Added **CONSTRAIN THE BRIEF, DON'T JUST RECORD THE OVER-READ** *(with three mandatory brief clauses)*, **ARGUE A CLUSTER AS ONE DATUM**, and **A SWEEP CAN MOVE A READING FROM NEUTRAL TO BURDENED**. ★★★ **THE γῆ SWEEP: 35 occurrences across all 22 chapters, ZERO restricted to a named territory — so the territorial reading of 13:11 is no longer a free option (q364).** ★★★★ **DANIEL 3 IS LEXICAL, NOT THEMATIC, AND CONTAINS AN INVERSION: both recensions carry εἰκών/προσκυνέω at density (Th 11+9, OG 10+9), and ✅ Dan 3:6's ἐμβληθήσεται εἰς … τοῦ πυρὸς τὴν καιομένην matches ✅ Rev 19:20's ἐβλήθησαν εἰς … τοῦ πυρὸς τῆς καιομένης — four elements, only the vessel differing. Those who REFUSE the image in Daniel walk out; those who DEMAND it in Revelation do not (q365).** ✅✅ **RC-01 DISCHARGED and upgraded — 16:13–14 retrieved at last, and there are THREE gatherings for war, with 16:14 and 20:8 VERBATIM IDENTICAL (q366).** ✅ **16:13 names the false prophet three chapters before 19:20, with one sign-vocabulary throughout (q363).** ⚠️ **§17's premise corrected: 20:10's ὅπου clause is a TEXTUAL TIE to 19:20, not chapter order (q368).** 📊 **Neither candidate family passes — and the chronologically convenient one fails hardest, on its own tranche's rule (q369).** 🛑 **STILL NO ARITHMETIC, NO DATE, NO QUARANTINED BRANCH.** |
 | **5.4** | 2026-08-25 | **THE READER WROTE A METHODOLOGY RULE, AND THE ARITHMETIC BROKE THE ARGUMENT IT WAS MEANT TO TEST.** Added **CC-01 THE CALCULATION CONTROL** *(same letter-number system for alternative readings)*, **COMPUTE DO NOT REPEAT**, **NO SOURCE-SHOPPING**, and **A DATING QUESTION IS LOAD-BEARING THE MOMENT A CLAIM DEPENDS ON IT**. ✅ **CC-01 came from a lay question about measuring with the same ruler — and the calculation PASSES it: נרון קסר = 666, נרו קסר = 616, difference exactly 50 (q355).** ❗❗ **BUT COMPUTED IN GREEK, ΝΕΡΩΝ ΚΑΙΣΑΡ = 1337 — the identification does not PREFER the Hebrew ruler, it REQUIRES it, missing by 671 (q356).** ★★★ **AND THE EARLIEST INTERPRETER COMPUTED IN GREEK AND GOT A DIFFERENT NAME: Irenaeus proposes ΤΕΙΤΑΝ, which computes to exactly 666 — and he explicitly DECLINES to pronounce (q357).** ★★★ **666 IS NOT A UNIQUE IDENTIFIER: ΤΕΙΤΑΝ, ΛΑΤΕΙΝΟΣ and ΕΥΑΝΘΑΣ all reach it. A number many names satisfy is a FILTER, not a FINGERPRINT (q358).** ✅ **What survives is the PAIR, not the number — no other proposal explains both 666 and 616 under one ruler.** ❌ **But the spelling is NOT VERIFIED (five rungs named, q359), ἀνθρώπου is ANARTHROUS and may mean "a human number" (q360), the destruction requirement is PERMANENCE not decline (q361), and Irenaeus 5.30.3 on the date was NOT RETRIEVED and is the stage's most important debt (q362).** 🛑 **STILL NO ARITHMETIC ON THE THOUSAND YEARS.** |
 | **5.3** | 2026-08-25 | **THE BRAKE WENT ON AGAINST THE READER'S OWN CONCLUSION.** Added **THE BRAKE APPLIES SYMMETRICALLY**, **ANALYTICAL SUMMARY WORDS ARE NOT THE TEXT'S WORDS**, **ETYMOLOGY IS NOT USAGE — the diachronic form**, and a recorded **LIMIT OF THE SELF-CHECK RULE**. ★★★ **THE DECISIVE STRUCTURAL FINDING: ✅ 13:16's second beast administers the mark, ✅ 19:20 names him ὁ ψευδοπροφήτης and throws him in ΖΩΝΤΕΣ before 20:1, ✅ 20:10's ΟΠΟΥ clause places him already there when the devil arrives, and ✅ an exhaustive search of 20:1–15 for any release returns ABSENT. **SATAN IS RELEASED; HE IS NOT. SO UNDER H1, H2 AND H3 ALIKE THE MARK'S ADMINISTERING AGENT IS NOT OPERATING — AND IT REQUIRED NO IDENTIFICATION OF THE BEAST (q338).**** ★★ **WORSHIP IS PRESENT IN ALL SIX MARK PASSAGES, verified conjunction by conjunction — ✅ 14:9's THREE coordinated predicates, ✅ 20:4's THREE negatives — and ✅ 13:15's penalty for refusing worship is ΑΠΟΚΤΑΝΘΩΣΙΝ, DEATH, not economic exclusion (q339, q340).** ✅ **The citizenship control accepted WITH its limit — Paul's status pre-dates Revelation, so the principle rests on Matt 22:21 and Acts 5:29, not on Paul alone (q342).** ❗ **Revelation defines its faithful by ✅ ΤΗΡΟΥΝΤΕΣ ΤΑΣ ΕΝΤΟΛΑΣ + ΜΑΡΤΥΡΙΑ/ΠΙΣΤΙΣ ΙΗΣΟΥ — relationally, NOT by political non-participation (q343).** ✅ **ἵνα+subjunctive fixes purpose, not scope (q333).** 🏷️ **RC-01 created and fenced in the same paragraph — half-verified, may not be argued from (q335).** ✅ **Satan bound ≠ humans perfected — true under both H1 and H2, so it settles neither (q336).** ✅ **πορν- attested in both senses; dissolve neither (q345).** |
 | **5.2** | 2026-08-25 | **AN ASSUMPTION WAS REMOVED FROM THE CHAIN, AND A HYPOTHESIS WAS QUARANTINED RATHER THAN PARKED.** Added the **SELF-INVALIDATING HYPOTHESIS TEST**, **UNFALSIFIABLE BY CONSTRUCTION — REFUSED IN BOTH DIRECTIONS** *(with falsification tests named in advance)*, **YOU CANNOT COUNT FROM A START YOU HAVE NOT IDENTIFIED**, and **MODERN SIGNS ARE INADMISSIBLE FOR DATING**. ★★★ **A PHANTOM-MILLENNIUM CHRONOLOGY WAS PROPOSED. Its arithmetic was CHECKED AND IS CONSISTENT — but every early NT manuscript sits inside the window it calls fictional, and SBLGNT is reconstructed from them, so it would invalidate the method used to verify it (q324); and its disconfirming evidence is all reclassified as phantom, so nothing can refute it (q325).** ★★★ **THE REAL FINDING UNDERNEATH: THIS PROJECT HAD BEEN TESTING "ARE WE IN THE LITTLE SEASON?" WITHOUT EVER ESTABLISHING THAT THE THOUSAND YEARS ELAPSED. H1, H2 and H3 are all held open, and H2 does NOT require the phantom premise (q328).** ★★★ **AND A CORRECTION FROM REVELATION ITSELF: ✅ 5:10's ΒΑΣΙΛΕΥΟΥΣΙΝ ΕΠΙ ΤΗΣ ΓΗΣ and ✅ 20:9's surrounded ΠΑΡΕΜΒΟΛΗ on the earth's expanse POSITIVELY COUNTER the heaven-only reign, while ✅ 20:4 has no location marker at all — Location Humility survives with text on BOTH sides (q329).** ⚠️ **SECOND TRANSLATION-FRAGILITY CASE: SBLGNT prints the PRESENT βασιλεύουσιν at 5:10 where the ESV renders a future (q330).** ✅ **Isaiah 65:20 contains death and Rev 21:4 excludes it — no lifespan parameter (q331).** ❗❗ **AND THE BEAST/FALSE-PROPHET BRANCH IS NOW BLOCKING AND OUTRANKS 54½: their removal precedes the binding, so without them Marker A is untestable (q332).** 🛑 **STILL NO DATE, NO ARITHMETIC, NO HISTORICAL SOURCE OF ANY KIND.** |
