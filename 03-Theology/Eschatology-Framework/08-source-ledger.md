@@ -351,6 +351,27 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Stage 54½ + Side Branch 54⅞ — the mark, the worship, and the citizenship control
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S82** | ✅✅ **SBLGNT + ESV — the six mark passages, checked conjunction by conjunction** | **Revelation 13:11–18 · 14:9–12 · 16:2 · 19:20 · 20:4** | ★ **14:9's THREE coordinated predicates (προσκυνεῖ … ΚΑΙ … ΚΑΙ λαμβάνει)** · ★ **20:4's THREE negatives (ΟΥ … ΟΥΔΕ … ΚΑΙ ΟΥΚ)** · ★ **13:15's ΑΠΟΚΤΑΝΘΩΣΙΝ** · ✅ **13:16's ΠΟΙΕΙ construction** · ✅ **13:17's buying/selling clause** | **PRIMARY** | ✅✅ **VERIFIED — and the negative claim is exhaustive: NO passage presents the mark without worship (q339)** | 2026-08-25 |
+| **S83** | ✅✅ **EXHAUSTIVE SEARCH — Revelation 20:1–15 for any release, return or action of the beast or false prophet** | **Revelation 20:1–15, verse by verse** | ★★★ ❌ **ABSENT.** ✅ **20:10's ΟΠΟΥ ΚΑΙ ΤΟ ΘΗΡΙΟΝ ΚΑΙ Ο ΨΕΥΔΟΠΡΟΦΗΤΗΣ places them ALREADY THERE when the devil arrives.** ✅ **Satan alone is released (20:3, 20:7)** | **PRIMARY** | ✅✅ **VERIFIED EXHAUSTIVE — the search list and per-verse coverage were both stated.** ❗ **THIS IS THE STAGE'S DECISIVE DATUM (q338)** | 2026-08-25 |
+| **S84** | ✅ **SBLGNT + ESV — the citizenship control** | **Acts 22:25–29 · 25:10–12 · 5:29 · Matthew 22:15–22 · Philippians 3:20** | ✅ **ΕΓΩ ΔΕ ΚΑΙ ΓΕΓΕΝΝΗΜΑΙ** · ✅ **ΚΑΙΣΑΡΑ ΕΠΙΚΑΛΟΥΜΑΙ** · ✅ **ΑΠΟΔΟΤΕ … ΚΑΙ ΤΑ ΤΟΥ ΘΕΟΥ Τῼ ΘΕῼ** · ✅ **ΠΕΙΘΑΡΧΕΙΝ ΔΕΙ ΘΕῼ ΜΑΛΛΟΝ Η ΑΝΘΡΩΠΟΙΣ** · ✅ **ΠΟΛΙΤΕΥΜΑ ἐν οὐρανοῖς** | **PRIMARY** | ✅ **VERIFIED.** ⚠️ **LIMIT DECLARED: Paul's citizenship PRE-DATES Revelation, so it is not strictly a control for the beast period; the principle rests on the wider Matt 22:21 / Acts 5:29 base (q342)** | 2026-08-25 |
+| **S85** | ✅ **SBLGNT + ESV — Revelation's self-definition of its faithful, and πορν- in both senses** | **Revelation 12:17 · 14:12 · 13:7 · 13:10 · 17:1–2 · 21:8 · 22:15 · 2:20–22** | ✅ **ΤΗΡΟΥΝΤΕΣ ΤΑΣ ΕΝΤΟΛΑΣ ΤΟΥ ΘΕΟΥ + ΜΑΡΤΥΡΙΑ / ΠΙΣΤΙΣ ΙΗΣΟΥ** · ✅ **ἡ ΥΠΟΜΟΝΗ καὶ ἡ ΠΙΣΤΙΣ τῶν ἁγίων** · ✅ **πόρνοι in vice lists** against ✅ **ΕΠΟΡΝΕΥΣΑΝ οἱ βασιλεῖς** | **PRIMARY** | ✅ **VERIFIED — both πορν- senses attested, neither collapsed (q343, q345)** | 2026-08-25 |
+| **S86** | ❌ **Revelation 16:13–14 in Greek** | **TBD** | the first half of **RC-01** *(the Rev 16 ⟷ Rev 20 gathering candidate)* | **PRIMARY** *(when obtained)* | ❌ **NOT RETRIEVED — REPORTED FROM THE TRANCHE ONLY.** 🛑 **RC-01 THEREFORE RESTS ON ONE VERIFIED HALF AND ONE UNVERIFIED HALF AND MAY NOT BE ARGUED FROM (q335).** *Fenced on arrival, unlike q288's Hanukkah link which ran three stages first* | — |
+| **S87** | ❌ **Lexical authority for πλανάω · χάραγμα · πολίτευμα · φαρμακεία** | **TBD** | the scope claim at §2 · the φαρμακεία caution (q334) · the πολίτευμα reading | **MODERN SCHOLARLY** *(when obtained)* | ❌ **NOT RETRIEVED** *(extends S39, S65, S70, S75)*. ❗ **THE φαρμακεία CAUTION IS CORRECT IN DIRECTION AND IS NOT YET SOURCED** | — |
+
+> ### 📇 **THE SELF-CHECK RULE HELD A SECOND TIME — AND ITS LIMIT SHOWED IN THE SAME REPORT.**
+>
+> ### ✅ **v5.1's *VERIFY A REPORT AGAINST ITSELF* was written into this brief as an explicit instruction for the second consecutive lane, and the reconciliation held: every summary claim was checked against its own table and none contradicted.**
+>
+> ### ⚠️ **YET THE SAME LANE OVER-READ ✅ 13:16's ἵνα δῶσιν αὐτοῖς as "they give THEMSELVES the mark" and built an argument on it. THE SELF-CHECK DID NOT CATCH IT — BECAUSE THE SUMMARY DID NOT CONTRADICT THE DATA, IT OVER-INTERPRETED IT.**
+>
+> ### 📌 **SO THE RULE CATCHES CONTRADICTIONS, NOT OVER-READS. RECORDED AS A LIMIT RATHER THAN LET PASS — AND THE DISPUTABLE PARSE WAS REFUSED UNDER S14/S22 (q341).**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**

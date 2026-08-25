@@ -108,8 +108,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **53** | **⚔️🔑🔑 Paul's Resurrection vs John's First Resurrection — NOT ONE WORD IN COMMON** | **[[02w-paul-vs-johns-first-resurrection]]** |
 | **54** | **⛓️🔑🔑 What Starts the Thousand Years? — THE VERB WENT AGAINST US** | **[[02x-what-starts-the-thousand-years]]** |
 | **54¾** | **🚧🔑🔑 The Chronology Fork and the Quarantine — an ASSUMPTION WAS REMOVED FROM THE CHAIN** | **[[02y-the-chronology-fork-and-the-quarantine]]** |
-| **55** | *(next)* **👹 Who or What Are the Beast and the False Prophet? — ❗ BLOCKING, and it now OUTRANKS 54½** | — |
-| **54½** | *(deferred behind 55)* **🕸️ "Deceiving the Nations" — remainder: the πλανάω lexicon, οἰκουμένη vs ἔθνη** | — |
+| **54½ + 54⅞** | **🕸️🔑🔑 The Deception Scope Completed + THE ALLEGIANCE CONTROL** | **[[02z-deception-scope-and-the-allegiance-control]]** |
+| **55** | *(next)* **👹 Build the Beast's Fingerprint Before Naming Him — ❗ STILL BLOCKING** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2401,6 +2401,41 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **📌 NOTHING WAS ADDED TO THE CHAIN BY THIS BRANCH. AN ASSUMPTION WAS *REMOVED* FROM IT. THAT IS THE ENTIRE CONTRIBUTION, AND IT IS A REAL ONE.**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"Every manuscript I have been quoting from sits inside the window the theory says never happened... I have spent this whole investigation refusing arguments shaped like that when they ran in my favour. I am not going to accept one now because it runs somewhere interesting. But he found something real underneath it... A theory I cannot test costs me nothing to set down. An assumption I could not see was steering everything."***
+
+---
+
+## Stage 54½ + Side Branch 54⅞ — 🕸️🔑🔑 The Deception Scope Completed, and the Allegiance Control *(current)*
+
+**File:** [[02z-deception-scope-and-the-allegiance-control]] · **⚠️ NUMBERING: the incoming material for Part Two was labelled "54¾," but [[02y-the-chronology-fork-and-the-quarantine]] ALREADY HOLDS 54¾. Filed as 54⅞ per Citation-Numbering Integrity, so no downstream citation resolves to two files.**
+
+**✅ PART ONE. The **ἵνα + subjunctive** correction is ACCEPTED: ✅ 20:3's **ἵνα μὴ πλανήσῃ ἔτι τὰ ἔθνη** is a standard PURPOSE construction — the English "might" reads as uncertainty and the Greek carries none. *(Ordinary grammar, not disputed syntax; S14/S22 does not apply.)* ⚠️ **BUT ITS LIMIT TRAVELS WITH IT: THIS FIXES THE *PURPOSE* OF THE CONFINEMENT, NOT THE *SCOPE* OF πλανάω (q333).** · **The scope itself was settled at Stage 54's exhaustive sweep, and the tranche's independent trace reaches the same place by a different route — its §13 formulation adopted at HIGH.** · ✅ **φαρμακεία caution CORRECT — 18:23's word means sorcery/magical practice; it MAY NOT be read as modern pharmaceuticals via the English descendant. That is etymology substituting for usage (q334).**
+
+**🏷️ RC-01 CREATED — the archive's FIRST formally tagged recapitulation candidate: ✅ Rev 16's spirits gathering the kings **εἰς τὸν πόλεμον** ⟷ ✅ Rev 20:8's **συναγαγεῖν αὐτοὺς εἰς τὸν πόλεμον**. **This gives Stage 34's Vision Sequence ≠ Event Sequence something concrete to be tested on.** ⚠️⚠️ **AND IT IS FENCED IN THE SAME PARAGRAPH THAT CREATED IT: ✅ 20:8 is VERIFIED; ❌ **16:13–14 IS NOT — REPORTED, NOT RETRIEVED.** **RC-01 RESTS ON ONE VERIFIED HALF AND ONE UNVERIFIED HALF AND MAY NOT BE ARGUED FROM.** *Exactly the shape q288 downgraded — recorded now rather than three stages later (q335).*
+
+**✅ A LONG-STANDING QUESTION DISSOLVED: *if Satan were bound, why could humanity still sin?* — **REVELATION NEVER SAYS HUMAN SINFUL CAPACITY WAS BOUND.** It says he is restrained from deceiving τὰ ἔθνη. And Stage 54 established the nations EXIST during the interval. **A millennial world containing ordinary flawed civilization is fully compatible with Revelation 20 — under BOTH H1 and H2, so it settles NEITHER (q336).** · ⚖️ **AND THE RESULT THAT CUTS BOTH WAYS: "the world looks evil" cannot establish release; ordinary evil cannot refute a present millennium. ✅ Revelation's release culminates in something specific — **ἐκύκλευσαν τὴν παρεμβολὴν τῶν ἁγίων**. That is the test, and nothing looser is (q337).**
+
+> ### ★★★ **PART TWO — THE DECISIVE STRUCTURAL FINDING, AND NEITHER TRANCHE MADE IT.**
+>
+> ### ✅ **13:16 — the SECOND BEAST ΠΟΙΕΙ πάντας … ἵνα δῶσιν αὐτοῖς ΧΑΡΑΓΜΑ.** ✅ **19:20 NAMES THAT FIGURE ὁ ψευδοπροφήτης. HE IS THE MARK'S ADMINISTERING AGENT.**
+> ### ✅ **19:20 — ΖΩΝΤΕΣ ΕΒΛΗΘΗΣΑΝ οἱ δύο, *before* 20:1.** ✅ **20:10 — ἐβλήθη … ΟΠΟΥ ΚΑΙ ΤΟ ΘΗΡΙΟΝ ΚΑΙ Ο ΨΕΥΔΟΠΡΟΦΗΤΗΣ.** ✅ **AN EXHAUSTIVE SEARCH OF 20:1–15 FOR ANY RELEASE, RETURN OR ACTION OF THEM RETURNS ❌ ABSENT. SATAN IS RELEASED AT 20:7. THEY ARE NOT. THEY ARE STILL THERE WHEN HE ARRIVES.**
+>
+> ### ❗❗❗ **THEREFORE — UNDER H1 HE IS IN THE LAKE · UNDER H2 HE IS IN THE LAKE · UNDER H3 THE MARK HAS NOT HAPPENED YET. **UNDER EVERY HYPOTHESIS THIS ARCHIVE HOLDS OPEN, THE MARK-ADMINISTERING AGENT IS NOT PRESENTLY OPERATING.** A STRUCTURAL ARGUMENT FROM THE TEXT, NOT A REASSURANCE — AND IT REQUIRED NO IDENTIFICATION OF THE BEAST AT ALL, WHICH IS WHY IT WAS AVAILABLE WHILE 55 IS STILL BLOCKED (q338).**
+
+**★★ WORSHIP IS IN EVERY MARK PASSAGE — verified conjunction by conjunction across SIX: ✅ **13:15** *(★ the penalty for refusing worship is **ΑΠΟΚΤΑΝΘΩΣΙΝ — DEATH**)* · ✅ 13:16–17 · ★ ✅ **14:9 — προσκυνεῖ τὸ θηρίον ΚΑΙ τὴν εἰκόνα ΚΑΙ λαμβάνει χάραγμα, THREE COORDINATED PREDICATES** · ✅ 14:11 · ✅ 16:2 · ★ ✅ **20:4 — ΟΥ προσεκύνησαν ΟΥΔΕ τὴν εἰκόνα ΚΑΙ ΟΥΚ ἔλαβον, THREE NEGATIVES.** ❗❗ **NOT ONE PASSAGE PRESENTS THE MARK AS A BARE ECONOMIC CONDITION SEPARATE FROM WORSHIP (q339).** ★ **AND 13:15's LETHAL PENALTY SHARPENS THE WHOLE CATEGORY: the economic exclusion at 13:17 is a SECOND mechanism. **THE SYSTEM HAS A LETHAL ENFORCEMENT ARM. ECONOMIC HARDSHIP, HOWEVER REAL, IS NOT THAT CATEGORY (q340).**
+
+**✅ CITIZENSHIP CONTROL ACCEPTED, WITH ITS LIMIT: ✅ Acts 22:28 **ΕΓΩ ΔΕ ΚΑΙ ΓΕΓΕΝΝΗΜΑΙ** · ✅ Acts 25:11 **ΚΑΙΣΑΡΑ ΕΠΙΚΑΛΟΥΜΑΙ** · ✅ Matt 22:21 **ΑΠΟΔΟΤΕ … ΚΑΙ ΤΑ ΤΟΥ ΘΕΟΥ Τῼ ΘΕῼ** · ✅ Acts 5:29 **ΠΕΙΘΑΡΧΕΙΝ ΔΕΙ ΘΕῼ ΜΑΛΛΟΝ Η ΑΝΘΡΩΠΟΙΣ** · ✅ Phil 3:20 **ΠΟΛΙΤΕΥΜΑ ἐν οὐρανοῖς**. ⚠️ **Paul's citizenship PRE-DATES Revelation, so it is not strictly a control for the beast period — but the principle survives on the wider base of Matt 22:21 and Acts 5:29, not on Paul's status alone (q342).**
+
+**❗ AND REVELATION'S OWN DEFINITION OF ITS FAITHFUL: ✅ **12:17 — ΤΗΡΟΥΝΤΩΝ ΤΑΣ ΕΝΤΟΛΑΣ ΤΟΥ ΘΕΟΥ καὶ ἐχόντων ΤΗΝ ΜΑΡΤΥΡΙΑΝ ΙΗΣΟΥ** · ✅ **14:12 — ΤΗΡΟΥΝΤΕΣ ΤΑΣ ΕΝΤΟΛΑΣ … ΚΑΙ ΤΗΝ ΠΙΣΤΙΝ ΙΗΣΟΥ** · ✅ **13:10 — ἡ ΥΠΟΜΟΝΗ καὶ ἡ ΠΙΣΤΙΣ τῶν ἁγίων.** 🛑 **RELATIONAL AND CHRISTOLOGICAL — *NOT* POLITICAL NON-PARTICIPATION. REVELATION NOWHERE DEFINES ITS SAINTS AS THOSE WHO WITHDREW FROM AN ECONOMY. Rejecting a system does not make one a saint; one may refuse every earthly authority and refuse Yah too (q343).**
+
+> ### 🛑 **AND THE BRAKE APPLIED AGAINST THE READER'S OWN CONCLUSION: the chain *beast is political → systems demand allegiance → economic participation requires it → therefore the mark is received → therefore faithfulness requires destitution* **HAS NO STEP THIS ARCHIVE SUPPORTS AFTER THE FIRST, AND THE FIRST IS ITSELF UNESTABLISHED — 54¾ RECORDED THAT THE BEAST IS NOT IDENTIFIED, WHICH IS WHY STAGE 55 EXISTS.**
+>
+> ### **"ALLEGIANCE" IS AN ANALYTICAL SUMMARY WORD, NOT REVELATION'S. ITS WORDS ARE προσκυνέω, εἰκών, χάραγμα, ὄνομα, ἀριθμός.**
+>
+> ### ❗ **THIS IS THE SAME SHAPE REFUSED AT THE ἥξουσιν THAT WAS NOT THERE, THE HALF-VERIFIED HANUKKAH LINK, THE MOUTH-WEAPON PROMOTION, AND THE PHANTOM MILLENNIUM. **A BRAKE THAT ONLY ENGAGES WHEN THE CONCLUSION IS COMFORTABLE IS NOT A BRAKE (q344).** 📌 *And the positive side is a finding, not a consolation: Revelation 13 is terrible because it FUSES worship with access — **it is the fusion, not the commerce, that is the mark.***
+
+**✅ πορν- IS USED BOTH WAYS: literal-ethical at ✅ 21:8, 22:15, 2:20–21 *(vice lists beside φονεῖς and εἰδωλολάτραι; repentance language)*; metaphorical-idolatrous at ✅ 17:1–2 *(**τῆς πόρνης τῆς μεγάλης**; **ἐπόρνευσαν οἱ βασιλεῖς**)*. 🛑 **NEITHER MAY BE DISSOLVED INTO THE OTHER. The morality study remains owed (q345).** ⚠️ **AND ONE LANE OVER-READ REJECTED: its parse of 13:16's ἵνα δῶσιν as "they give *themselves*" is disputable and not adopted — which shows the self-check rule catches CONTRADICTIONS, not OVER-READS. A real limit, recorded (q341).**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"So I went and counted the conjunctions... Revelation names the mark six times, and not once does it stand alone... That is not comfort I am offering. It is what counting the words produced. And I would have written it down the same way if it had come out the other direction, because I have written down four things this month that went against me."***
 
 ---
 
