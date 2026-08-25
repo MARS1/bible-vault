@@ -332,6 +332,25 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Side Branch 54¾ — the quarantine, and the reign-location counter-data
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S76** | ✅ **SBLGNT + ESV** *(Bible Gateway, WebFetch)* | **Revelation 5:9–10 · 20:9 · 20:4 · 3:21 · 2:26–27 · 21:1–4 · 4:1–2 · 6:9 · 7:9–15** | ★★★ **ΒΑΣΙΛΕΥΟΥΣΙΝ ΕΠΙ ΤΗΣ ΓΗΣ** *(5:10)* · ★★★ **ἀνέβησαν ΕΠΙ ΤΟ ΠΛΑΤΟΣ ΤΗΣ ΓΗΣ, καὶ ΕΚΥΚΛΕΥΣΑΝ τὴν ΠΑΡΕΜΒΟΛΗΝ τῶν ἁγίων** *(20:9)* · ✅ **20:4 has NO location marker** · ✅ **3:21's ΚΑΘΙΣΑΙ ΜΕΤ' ΕΜΟΥ ΕΝ Τῼ ΘΡΟΝῼ ΜΟΥ** · ✅ **2:26–27's ἐξουσίαν ΕΠΙ ΤΩΝ ΕΘΝΩΝ** · ✅ **21:4's ὁ ΘΑΝΑΤΟΣ ΟΥΚ ΕΣΤΑΙ ΕΤΙ** | **PRIMARY** | ✅ **VERIFIED — complete, truncation checked.** ⚠️ **VARIANT DECLARED, NOT RESOLVED: SBLGNT prints the PRESENT βασιλεύουσιν at 5:10; the FUTURE βασιλεύσουσιν is attested; the ESV renders a future (q330)** | 2026-08-25 |
+| **S77** | ✅ **Sefaria API** + ✅ **BibleHub LXX** | **Isaiah 65:20** | ✅ **כִּי הַנַּעַר בֶּן־מֵאָה שָׁנָה יָמוּת** · ✅ **ὁ δὲ ΑΠΟΘΝΗΣΚΩΝ ἁμαρτωλὸς ἑκατὸν ἐτῶν** — **death PRESENT in both**, against Revelation 21:4 (q331) | **PRIMARY** | ✅ **VERIFIED.** 📌 *Fifth successful use of the Sefaria API pattern (S48)* | 2026-08-25 |
+| **S78** | ✅ **SBLGNT + ESV — beast/false-prophet DESCRIPTION ONLY** | **Revelation 13:1–8 · 13:11–12 · 13:18 · 17:9–11** | ✅ **δέκα κέρατα καὶ κεφαλὰς ἑπτά · παρδάλει/ἄρκου/λέοντος · ὡς ἐσφαγμένην εἰς θάνατον … ἐθεραπεύθη · μῆνας τεσσεράκοντα δύο · κέρατα δύο ὅμοια ἀρνίῳ · ἐλάλει ὡς δράκων** · ★ **17:10's οἱ ΠΕΝΤΕ ΕΠΕΣΑΝ, ὁ ΕΙΣ ΕΣΤΙΝ, ὁ ΑΛΛΟΣ ΟΥΠΩ ΗΛΘΕΝ** | **PRIMARY** | ✅ **VERIFIED — AND DELIBERATELY UNINTERPRETED.** ⚠️ **The retrieval brief FORBADE naming any candidate, and none was named.** ✅ **616 variant in P115 recorded** | 2026-08-25 |
+| **S79** | 🚧 **QUARANTINED BRANCH — CHRONOLOGY INTEGRITY** | **NOT OPENED** | *(would test: inserted-millennium claims · I/1 paleography · phantom centuries)* | **EXTERNAL HISTORICAL** | 🚧 **QUARANTINED, NOT MERELY DEFERRED (q324, q325).** 🧪 **ITS FALSIFICATION TESTS ARE NAMED IN ADVANCE, BEFORE ANY WAS RUN: ★★ ECLIPSE RETRO-COMPUTATION *(Chinese dynastic + Babylonian records, independent of European chronicles; quantitative)* · dendrochronology · Islamic AH calendar · Hebrew calendar · radiocarbon + stratigraphy.** 🛑 **AND REVELATION MAY NOT BE USED AS EVIDENCE FOR THE CHRONOLOGY BEING TESTED** | — |
+| **S80** | 📁 **MODERN-CLAIMS APPENDIX** | **NOT OPENED** | *(CERN · Masonic symbolism · Statue of Liberty imagery · contemporary events)* | ❗ **INADMISSIBLE FOR DATING** | 📁 **MAY BE RECORDED; MAY NEVER ENTER THE CHAIN OR DATE AN INTERVAL (q327)** | — |
+| **S81** | ❌ **Apparatus for Revelation 5:10** | **TBD** | which manuscripts read βασιλεύουσιν and which βασιλεύσουσιν, and how the editions divide | **PRIMARY / CRITICAL** *(when obtained)* | ❌ **NOT RETRIEVED** *(extends S30, S35)*. ❗ **MATERIAL: the variant bears on BOTH the location question (q329) AND the present-era fork (q328)** | — |
+
+> ### 📇 **THE LANE RAN THE SELF-CHECK THE NEW RULE DEMANDED — AND ITS SUMMARY MATCHED ITS TABLES.**
+>
+> ### **v5.1's *VERIFY A REPORT AGAINST ITSELF* WAS ADDED ONE STAGE EARLIER, AFTER THE THIRD SELF-CONTRADICTING LANE. IT WAS WRITTEN INTO THIS BRIEF AS AN EXPLICIT INSTRUCTION, AND THE REPORT CAME BACK WITH A SELF-CHECK SECTION THAT RECONCILED EVERY CLAIM AGAINST ITS OWN DATA.**
+>
+> ### ✅ **FIRST MEASURED IMPROVEMENT FROM A METHODOLOGY RULE IN THIS PROJECT — RECORDED BECAUSE THE FAILURES HAVE BEEN RECORDED.**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**

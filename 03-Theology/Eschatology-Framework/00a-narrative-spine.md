@@ -107,7 +107,9 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **52** | **🔗🔑🔑 Paul's Internal Chain — THREE LETTERS, THREE VOCABULARIES** | **[[02v-pauls-internal-chain]]** |
 | **53** | **⚔️🔑🔑 Paul's Resurrection vs John's First Resurrection — NOT ONE WORD IN COMMON** | **[[02w-paul-vs-johns-first-resurrection]]** |
 | **54** | **⛓️🔑🔑 What Starts the Thousand Years? — THE VERB WENT AGAINST US** | **[[02x-what-starts-the-thousand-years]]** |
-| **54½** | *(next)* **🕸️ What Does "Deceiving the Nations" Mean? — narrowed; the sweep was already run at 54** | — |
+| **54¾** | **🚧🔑🔑 The Chronology Fork and the Quarantine — an ASSUMPTION WAS REMOVED FROM THE CHAIN** | **[[02y-the-chronology-fork-and-the-quarantine]]** |
+| **55** | *(next)* **👹 Who or What Are the Beast and the False Prophet? — ❗ BLOCKING, and it now OUTRANKS 54½** | — |
+| **54½** | *(deferred behind 55)* **🕸️ "Deceiving the Nations" — remainder: the πλανάω lexicon, οἰκουμένη vs ἔθνη** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2353,6 +2355,52 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **🆕 DECEPTION-SCOPE CONTEXT RULE — ADOPTED, CORRECTED, LEASHED. Read 20:3's scope through Revelation's own deception vocabulary — **predominantly ORGANIZED NATIONAL ALLEGIANCE AND FALSE WORSHIP**, reaching its terminal form in 20:8's war-gathering — before expanding it to every conceivable satanic influence. 🛑 **AND STAGE 45½'s CONFINEMENT–FUNCTION DISTINCTION IS ATTACHED SO IT CANNOT DRIFT: narrowing the scope MAY NOT become "the binding means almost nothing." Five verbs and a sealed abyss. Neither extreme.**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"I reached that conclusion first and checked second, and the check went against me... What rescued the argument was not the verb. It was noticing that Revelation destroys every single one of its own great deceivers before the thousand years start. That is a real argument. The one I had been making was not."***
+
+---
+
+## Side Branch 54¾ — 🚧🔑🔑 The Chronology Fork and the Quarantine *(current)*
+
+**File:** [[02y-the-chronology-fork-and-the-quarantine]] · **A chronological hypothesis was proposed that would place us INSIDE the thousand years rather than after them. RECORDED HONESTLY, ITS COST STATED PLAINLY, AND IT DOES NOT TOUCH THE CHAIN.**
+
+**✅ CREDIT FIRST — THE ARITHMETIC IS INTERNALLY CONSISTENT. If ~1000 labelled years *(AD ~100–1100)* are phantom, then **labelled = real + 1000**: labelled 2026 = real 1026; a millennium from AD 70 ends at real 1070 = labelled 2070; **≈44 years remain.** **THAT IS COHERENT PROVIDED THE INSERTION SITS ENTIRELY AFTER AD 70. IT WAS CHECKED, NOT WAVED AT. THE HYPOTHESIS IS NOT INCOHERENT — IT IS UNEVIDENCED, WHICH IS A DIFFERENT AND MORE PRECISE OBJECTION.**
+
+> ### ★★★ **BUT THE PREMISE DELETES THE EVIDENCE BASE OF THIS ENTIRE INVESTIGATION. Inside labelled AD 100–1100 sit **EVERY EARLY NEW TESTAMENT MANUSCRIPT** — P52, the Chester Beatty papyri, Sinaiticus, Vaticanus, Alexandrinus — **AND THEREFORE THE ENTIRE BASIS OF THE CRITICAL TEXT THIS PROJECT READS. SBLGNT IS A MODERN EDITION RECONSTRUCTED FROM THOSE MANUSCRIPTS.**
+>
+> ### **THE δέω MATCH · THE ΑΝΕΛΕΙ IN LXX ISAIAH 11:4 · THE ACCUSATIVE/NOMINATIVE MISMATCH AT REV 20:4 · THE ΕΤΙ AT 20:3 — ALL OF IT RESTS ON MANUSCRIPTS DATED INSIDE THE PERIOD THE HYPOTHESIS CALLS FICTIONAL.**
+>
+> ### 🛑 **THE THEORY SAWS OFF THE BRANCH THE INVESTIGATION IS STANDING ON. THIS IS NOT AN ORDINARY "UNVERIFIED" TAG — AN UNVERIFIED CLAIM MIGHT LATER BE VERIFIED; **THIS ONE, IF VERIFIED, WOULD INVALIDATE THE METHOD USED TO VERIFY IT (q324).**
+
+> ### ★★★ **AND IT IS UNFALSIFIABLE BY CONSTRUCTION. Any evidence dated inside AD 100–1100 — manuscripts, coins, inscriptions, regnal lists, councils — **CAN BE DISMISSED *AS PHANTOM*. SO NO COUNTER-EVIDENCE FROM THAT WINDOW CAN EVER COUNT AGAINST IT.** 📌 **STAGE 51½ ADOPTED THE BURDEN-OF-DISTINCTION RULE BECAUSE "a method that permits an unanswerable objection at every step is not a method." THIS IS THAT SAME FAILURE POINTED THE OTHER DIRECTION, AND IT IS REFUSED FOR THE SAME REASON (q325).**
+
+**🧪 FALSIFICATION TESTS NAMED IN ADVANCE, BEFORE ANY WAS RUN — so the branch cannot later be graded on whichever is convenient: ★★ **ECLIPSE RETRO-COMPUTATION** *(computable to the minute; records survive in Chinese dynastic and Babylonian traditions that never coordinated with European chronicles — a 1000-year insertion would put EVERY recorded eclipse 1000 years off its computed date; **quantitative, not interpretive**)* · **dendrochronology** · **the Islamic AH calendar** · **the Hebrew calendar** · **radiocarbon + stratigraphy**. 🛑 **AND REVELATION MAY NOT BE USED AS EVIDENCE FOR THE CHRONOLOGY BEING TESTED.**
+
+**❌ THREE SUPPORTS THAT DO NOT SURVIVE: **Y2K POINTS THE OPPOSITE WAY** — systems stored TWO digits; **the century and millennium were NEVER RECORDED AT ALL, so the bug was caused by the thousands digit being OMITTED, not added** · **the "I" glyph** — early modern typography rendered 1 much like a capital I, so resemblance establishes nothing; **the falsifiable form of the question is recorded because it IS researchable (q326)** · **CERN, Masonic symbolism, the Statue of Liberty's shackle** — 📌 **if the biblical chronology really points somewhere, IT MUST SURVIVE WITHOUT ANY OF THEM (q327).**
+
+> ### ★★★ **NOW THE PART THAT SURVIVES, AND IT IS WORTH MORE THAN THE CHRONOLOGY: THIS PROJECT HAS BEEN TESTING *"ARE WE IN THE LITTLE SEASON?"* WITHOUT EVER ESTABLISHING THAT THE THOUSAND YEARS ELAPSED. THAT ASSUMPTION WAS CARRIED QUIETLY, STAGE AFTER STAGE, AND NEVER EXAMINED.**
+>
+> ### 🛑 **AND IT IS SHARPER THAN "UNSETTLED": **YOU CANNOT COUNT FROM A START YOU HAVE NOT IDENTIFIED.** THE FORK SITS DOWNSTREAM OF A GATE THIS PROJECT HAS NOT PASSED. **H1 AND H2 ARE NOT DISTINGUISHABLE BY ANY EVIDENCE IN THIS ARCHIVE, AND SAYING SO IS MORE HONEST THAN PICKING (q328).**
+
+**📌 THREE PRESENT-ERA HYPOTHESES, NONE ELIMINATED: **H1 millennium PAST / little season now** *(the project's quiet assumption, now exposed)* · **H2 millennium PRESENT / release still future** *(★ and H2 does NOT require the phantom-time premise)* · **H3 millennium ENTIRELY FUTURE** *(deliberately kept — if the Matthew ⟷ 2 Thess joint later breaks, H3 must still be available)*.
+
+> ### ★★★ **AND A CORRECTION FROM REVELATION ITSELF. The reasoning "Yeshua is at the right hand → the saints are with Him → therefore heaven" has real support — ✅ 6:9's ὑποκάτω τοῦ θυσιαστηρίου, ✅ 7:9's ἐνώπιον τοῦ θρόνου, ✅ 3:21's καθίσαι ΜΕΤ' ΕΜΟΥ ΕΝ Τῼ ΘΡΟΝῼ ΜΟΥ. **BUT THE COUNTER-DATA IS NOT WEAK:**
+>
+> ### ✅ **REVELATION 5:10 — καὶ ΒΑΣΙΛΕΥΟΥΣΙΝ ΕΠΙ ΤΗΣ ΓΗΣ. THE REDEEMED REIGN *ON THE EARTH*.**
+> ### ✅ **REVELATION 20:9 — ἀνέβησαν ΕΠΙ ΤΟ ΠΛΑΤΟΣ ΤΗΣ ΓΗΣ, καὶ ΕΚΥΚΛΕΥΣΑΝ τὴν ΠΑΡΕΜΒΟΛΗΝ τῶν ἁγίων. ❗❗ YOU CANNOT SURROUND A CAMP THAT IS IN HEAVEN.**
+> ### ✅ **AND 20:4 CONTAINS NO LOCATION MARKER AT ALL — confirmed by direct search.**
+>
+> ### 📐 **"SAINTS WITH MESSIAH" — ESTABLISHED. "THEREFORE EXCLUSIVELY IN HEAVEN" — NOT MERELY UNESTABLISHED, **POSITIVELY COUNTERED**. AND "EXCLUSIVELY ON EARTH" IS NOT ESTABLISHED EITHER. **LOCATION HUMILITY (Stage 41) SURVIVES — NOW WITH TEXT ON BOTH SIDES RATHER THAN AN ABSENCE OF DATA (q329).**
+
+**★★ AND A SECOND TRANSLATION-FRAGILITY CASE INSIDE THAT SAME VERSE: ✅ **SBLGNT PRINTS THE PRESENT — ΒΑΣΙΛΕΥΟΥΣΙΝ, "they reign"** — with the future βασιλεύσουσιν as VARIANT, **and the ESV renders it "they SHALL reign."** ❗ **AN ENGLISH READER GETS A FUTURE REIGN; THE PRINTED GREEK GIVES A PRESENT ONE — ON A VERSE BEARING DIRECTLY ON BOTH LOCATION AND TIMING. Second such case after q215's RVR1960 (q330).**
+
+**✅ ISAIAH 65 IS NOT REVELATION 20's MILLENNIUM: ✅ Isaiah 65:20 Hebrew **יָמוּת** and LXX **ΑΠΟΘΝΗΣΚΩΝ** contain death; ✅ Revelation 21:4 — **ὁ ΘΑΝΑΤΟΣ ΟΥΚ ΕΣΤΑΙ ΕΤΙ** — excludes it. 🛑 **SO THE "dying at a hundred is young" IMAGERY MAY NOT BE USED TO CALCULATE MILLENNIAL MORTALITY, LIFESPANS, OR ANYONE'S PERSONAL ODDS OF SEEING THE INTERVAL'S END (q331).**
+
+> ### ❗❗ **AND THE THROWAWAY FIRST QUESTION TURNED OUT TO BE THE BLOCKING ITEM. ✅ SECOND BEAST (13) = FALSE PROPHET (19), established by Revelation's own naming. ❌ **BEAST = ANY NAMED PERSON OR STATE — NOT ESTABLISHED, NOT ATTEMPTED.** ★ And the datum the branch will turn on, retrieved and left uninterpreted: ✅ **Revelation 17:10 — οἱ ΠΕΝΤΕ ΕΠΕΣΑΝ, ὁ ΕΙΣ ΕΣΤΙΝ, ὁ ΑΛΛΟΣ ΟΥΠΩ ΗΛΘΕΝ — a PRESENT-TENSE claim about the author's own moment, and the most date-bearing sentence in the book.**
+>
+> ### 🛑 **STAGE 54 ESTABLISHED THAT THE BEAST AND FALSE PROPHET ARE REMOVED *BEFORE* THE BINDING. IF WE CANNOT SAY WHAT THEIR DEFEAT WAS, WE CANNOT DATE THE BINDING — AND MARKER A IS UNTESTABLE. **THIS BRANCH NOW OUTRANKS 54½ (q332).**
+
+**📌 NOTHING WAS ADDED TO THE CHAIN BY THIS BRANCH. AN ASSUMPTION WAS *REMOVED* FROM IT. THAT IS THE ENTIRE CONTRIBUTION, AND IT IS A REAL ONE.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"Every manuscript I have been quoting from sits inside the window the theory says never happened... I have spent this whole investigation refusing arguments shaped like that when they ran in my favour. I am not going to accept one now because it runs somewhere interesting. But he found something real underneath it... A theory I cannot test costs me nothing to set down. An assumption I could not see was steering everything."***
 
 ---
 

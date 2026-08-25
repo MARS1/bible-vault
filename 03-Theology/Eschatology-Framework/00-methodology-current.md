@@ -6,7 +6,7 @@ tags: [methodology, epistemology, exegesis, ingestion-protocol, governance]
 reference:
 created: 2026-08-12
 status: active
-version: "5.1 — 2026-08-25, current at Stage 54 (established 1.0 at Stage 16, 2026-08-12)"
+version: "5.2 — 2026-08-25, current at Side Branch 54¾ (established 1.0 at Stage 16, 2026-08-12)"
 related: "[[00-index]], [[00a-narrative-spine]], [[00b-biblical-epistemology]]"
 ---
 
@@ -1468,6 +1468,48 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 🚧 The Self-Invalidating Hypothesis Test *(added v5.2)*
+
+> **Before recording an external hypothesis as merely "unverified," ask whether it would — IF TRUE — invalidate the method used to test it. If so, it is QUARANTINED, not parked. An unverified claim might later be verified; a self-invalidating one destroys the instrument that would do the verifying.**
+
+*Warrant: a proposed insertion of ~1000 phantom years into the calendar (roughly AD 100–1100).* ✅ **The arithmetic was checked and is internally consistent.** ❗ **But every early New Testament manuscript — P52, the Chester Beatty papyri, Sinaiticus, Vaticanus, Alexandrinus — falls inside that window, and SBLGNT is a modern edition reconstructed from them.**
+
+> ### 🛑 **THIS PROJECT'S ENTIRE EVIDENCE BASE SITS INSIDE THE PERIOD THE HYPOTHESIS DECLARES FICTIONAL. THE THEORY SAWS OFF THE BRANCH THE INVESTIGATION IS STANDING ON.**
+
+---
+
+## 🔒 Unfalsifiable by Construction — refused in BOTH directions *(added v5.2)*
+
+> **A hypothesis constructed so that its own disconfirming evidence is automatically reclassified is refused — regardless of which side of the argument it favours.**
+
+*The phantom-millennium premise dismisses any evidence dated inside its window **as phantom**. So the manuscripts, coins, inscriptions, regnal lists and councils that would refute it **all fall inside the fiction it posits**.*
+
+> ### 📌 **STAGE 51½'s BURDEN-OF-DISTINCTION RULE WAS ADOPTED BECAUSE *"a method that permits an unanswerable objection at every step is not a method."* THAT CUT AGAINST PERMANENT SKEPTICISM. **THIS IS THE SAME FAILURE POINTED THE OTHER WAY, AND IT IS REFUSED ON THE SAME GROUND.**
+>
+> ### 🧪 **AND WHEN A BRANCH IS QUARANTINED, ITS FALSIFICATION TESTS ARE NAMED *IN ADVANCE*, BEFORE ANY IS RUN — SO IT CANNOT LATER BE GRADED ON WHICHEVER TEST PROVES CONVENIENT.**
+
+---
+
+## 📏 You Cannot Count From a Start You Have Not Identified *(added v5.2)*
+
+> **No interval may be measured, and no present-era placement asserted, until the interval's START has been independently established. A fork that sits downstream of an unpassed gate is not "unsettled between two options" — it is unreachable.**
+
+*Warrant: this project spent multiple stages testing "are we in the little season?" **without ever establishing that the thousand years elapsed.** The assumption was inherited, carried stage after stage, and never said out loud until a reader's question exposed it.*
+
+> ### **THREE PRESENT-ERA HYPOTHESES ARE HELD OPEN, NONE ELIMINATED: **H1** millennium past / little season now · **H2** millennium present / release future · **H3** millennium entirely future.**
+>
+> ### ⚠️ **H3 IS KEPT DELIBERATELY. RETIRING IT BECAUSE THE CURRENT CHAIN LEANS EARLY WOULD BE EXACTLY THE PRE-COMMITMENT THIS PROJECT EXISTS TO AVOID.**
+
+---
+
+## 🌍 Modern Signs Are Inadmissible for Dating *(added v5.2)*
+
+> **Contemporary events, institutions, symbols and imagery may be RECORDED in a modern-claims appendix. They may NEVER function as evidence for dating a biblical interval, and they may not enter the chain.**
+
+> ### 📌 **THE PRINCIPLE IS THIS PROJECT'S OWN, NOT AN IMPORTED SKEPTICISM: IF THE BIBLICAL CHRONOLOGY REALLY POINTS SOMEWHERE, IT MUST SURVIVE WITHOUT ANY OF THEM. **A CHAIN THAT NEEDS A MODERN NEWS ITEM TO STAND UP WAS NEVER STANDING.**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -1493,6 +1535,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **5.2** | 2026-08-25 | **AN ASSUMPTION WAS REMOVED FROM THE CHAIN, AND A HYPOTHESIS WAS QUARANTINED RATHER THAN PARKED.** Added the **SELF-INVALIDATING HYPOTHESIS TEST**, **UNFALSIFIABLE BY CONSTRUCTION — REFUSED IN BOTH DIRECTIONS** *(with falsification tests named in advance)*, **YOU CANNOT COUNT FROM A START YOU HAVE NOT IDENTIFIED**, and **MODERN SIGNS ARE INADMISSIBLE FOR DATING**. ★★★ **A PHANTOM-MILLENNIUM CHRONOLOGY WAS PROPOSED. Its arithmetic was CHECKED AND IS CONSISTENT — but every early NT manuscript sits inside the window it calls fictional, and SBLGNT is reconstructed from them, so it would invalidate the method used to verify it (q324); and its disconfirming evidence is all reclassified as phantom, so nothing can refute it (q325).** ★★★ **THE REAL FINDING UNDERNEATH: THIS PROJECT HAD BEEN TESTING "ARE WE IN THE LITTLE SEASON?" WITHOUT EVER ESTABLISHING THAT THE THOUSAND YEARS ELAPSED. H1, H2 and H3 are all held open, and H2 does NOT require the phantom premise (q328).** ★★★ **AND A CORRECTION FROM REVELATION ITSELF: ✅ 5:10's ΒΑΣΙΛΕΥΟΥΣΙΝ ΕΠΙ ΤΗΣ ΓΗΣ and ✅ 20:9's surrounded ΠΑΡΕΜΒΟΛΗ on the earth's expanse POSITIVELY COUNTER the heaven-only reign, while ✅ 20:4 has no location marker at all — Location Humility survives with text on BOTH sides (q329).** ⚠️ **SECOND TRANSLATION-FRAGILITY CASE: SBLGNT prints the PRESENT βασιλεύουσιν at 5:10 where the ESV renders a future (q330).** ✅ **Isaiah 65:20 contains death and Rev 21:4 excludes it — no lifespan parameter (q331).** ❗❗ **AND THE BEAST/FALSE-PROPHET BRANCH IS NOW BLOCKING AND OUTRANKS 54½: their removal precedes the binding, so without them Marker A is untestable (q332).** 🛑 **STILL NO DATE, NO ARITHMETIC, NO HISTORICAL SOURCE OF ANY KIND.** |
 | **5.1** | 2026-08-25 | **THE STAGE THAT LOST ITS OWN TEST AND RECORDED IT IN THE HEADLINE.** Added **VERIFY A REPORT AGAINST ITSELF**, the **DECEPTION-SCOPE CONTEXT RULE** *(with the Confinement–Function leash attached)*, **A REVELATION NOUN MAY CARRY OPPOSITE VALENCES**, and **TWO SIMULTANEOUS MILLENNIUM-START MARKERS**. ★★★ **THE δέω MATCH: ✅ Matthew 12:29 and Mark 3:27 bind the strong man with δέω, and ✅ Revelation 20:2 binds the dragon with δέω — SO THE READING THIS PROJECT ARGUES AGAINST HAS ONE SHARED LEXEME WITH REVELATION 20, WHERE THE READING IT ARGUES FOR HAS ZERO (q310, q317). The tranche had rejected it without checking. Recorded at full strength; braked by δέω's very common class, the parable context, Revelation's four further verbs, and ✅ Luke 11:22's νικάω — the Synoptics splitting a THIRD time.** ⚠️ **THIRD LANE SELF-CONTRADICTION: the same report's table said δέω and its conclusion denied it — and in all three instances the drift ran toward the MORE INTERESTING claim (q318).** ★★ **PAUL TRACKS LXX ISAIAH 11:4 AND REVELATION DOES NOT: ✅ ΑΝΕΛΕΙ is identical in the LXX and 2 Thess 2:8, while ✅ ῥομφαία is in neither the Hebrew nor the LXX — so the Paul⟷Revelation mouth-weapon link is DOWNGRADED, not promoted (q319).** ✅ **EXHAUSTIVE πλανάω SWEEP, 22 chapters, 8 occurrences — and it CORRECTED the rule it was run to support (q322, q323).** ✅ **καταργέω at Hebrews 2:14 against 1 Cor 15:26 — same verb, opposite timing, so καταργέω fixes no timing (q320).** ★★★ **§14's CONCLUSION KEPT AND ITS PROOF DISCARDED: Revelation removes EVERY named national-scale deceiver before the interval — a CONTENT argument that survives Vision Sequence ≠ Event Sequence, where the tranche's sequence argument did not (q321).** ✅ **One shared thousand-year interval — VERY HIGH.** 🛑 **AND STILL NO DATE, NO ARITHMETIC, NO JOSEPHUS.** |
 | **5.0** | 2026-08-25 | **THE TEST SURVIVED, AND A THREE-TIME FAILURE WAS DIAGNOSED.** Added **ASK WHAT KIND OF ARTIFACT THE TEXT IS** *(fourth in the retrieval family)*, the **BURDEN-OF-DISTINCTION RULE** with its four-clause leash, and **NARRATIVE ORDER ≠ EVENT ORDER IN EPISTLES**. ✅✅ **q246 DISCHARGED — THEODOTION DANIEL retrieved from CCAT/UPenn after three failures; the cause was that it is a PLAIN-TEXT CORPUS shipping the two recensions as SEPARATE FILES, and the clue had been in the archive unread since 48½.** ★★ **RECENSION FINGERPRINT: Matthew tracks the OLD GREEK at two independent points (24:30's ἐπί; 24:15's articular form against Theodotion's anarthrous 12:11), Revelation 1:7 tracks THEODOTION — 🛑 but Mark's ἐν νεφέλαις and Luke's ἐν νεφέλῃ match NEITHER, which limits the claim sharply (q292, q295).** ✅ **q180 CONFIRMED — Theodotion agrees with the Aramaic; the Old Greek is the outlier, and Stage 48½'s refusal to accept an agent's assertion is what made this visible.** ✅ **q275 MADE EXHAUSTIVE — Paul's ὑπεραίρω matches NEITHER recension; ὑπέρογκα is a shared prefix and is refused in writing.** ✅ **q264 DISCHARGED — Matthew 24:12's ἀνομία VERIFIED before the argument leaned on it; and ✅ ἀποστασία is ABSENT from Matthew 24 entirely.** ⬆️ **Matthew 24 ⟷ 2 Thessalonians 2 UPGRADED to PROBABLE EVENT-COMPLEX IDENTITY after surviving a genuine sequence-falsification test — with the limit recorded beside the result: compatible order is NECESSARY, NOT SUFFICIENT.** ❗ **THREE ASYMMETRIES LEFT LIVE, the sharpest being that PAUL DESTROYS AN INDIVIDUAL AND MATTHEW DESTROYS NO ONE (q299) — candidates deliberately unwritten.** |
 | **4.9** | 2026-08-24 | **THE ARCHIVE CAUGHT UP TO THE INVESTIGATION.** Added **TEXT-CORPUS TERMINOLOGY** *(Tanakh · LXX/Septuagint · GNT · Koine — locked because LXX was being inverted into "the New Testament," and because "LXX" means SEVENTY TRANSLATORS, not seventy books)*, **FAITH IS NOT AN INTERPRETIVE SHIELD** *(ahead of the deliberately-unopened Faith Branch)*, and **A FAILED REQUEST IS NOT AN UNAVAILABLE SOURCE** *(the mirror of a rule already held)*. 🆕 **ADR-0011 ACCEPTED — the GROWING CHAIN + EVIDENCE LEDGER, with the ❗REFUSED/RULED-OUT column MANDATORY**, because a chain of only-positive links would have hidden this project's best work: *last≠seventh refused · παρουσία absent from the pericope · Hebrews 10:25 breaking the word-family bridge · δεῖ and ἄχρι refused as noise · ἁρπάζω destination-neutral · ἀπάντησις carrying no escort.* **STAGE 49: ✅ Acts 8:39 sends Philip to AZOTUS with the same verb as Revelation 12:5's throne — ἁρπάζω encodes NO destination; RAPTURE-SYSTEM BRAKE added; ✅ 1 Thess 4:17 states NO direction after the meeting; ✅ Revelation 1:7 CLOSED q245 — ἐξεκέντησαν is the HEBREW reading and BOTH Matthew and John use ὁράω against the LXX's ἐπιβλέπω.** **STAGE 50: ✅ the παρουσία + ἐπισυναγωγή pair EXISTS at 2 Thess 2:1 and STILL does not exist at Matthew 24:31 — both facts locked; ✅ NO VERB OF REMOVAL at 2:7 (γένηται, "come to be"); ✅ καταργέω shared with 1 Cor 15:26, PRESENT there and FUTURE here; ✅✅ παρουσία USED OF THE LAWLESS ONE at 2:9, retroactively vindicating the Coming-Language Control from an independent author; RESTRAINER RULE and FUTURE-SANCTUARY BRAKE added, the latter written BEFORE its data arrives.** ⚠️ **SECOND NO-OP IN THREE STAGES — "son of perdition ≠ Satan" was ALREADY held at Side Branch 34½; Stage 50's real contribution is the ESV→SBLGNT upgrade, recorded at that strength.** ✅ **AND THE FIRST EVAL-POSITIVE: a lane facing 12+ dead sources wrote "I will not invent Greek text." The failure was METHOD, not source.** ❌ **The ναός/ἱερόν/LXX/Daniel audit is recorded as DEBT (q265), not conclusion. Stages 50½ and 51 arrived and are DELIBERATELY NOT INGESTED.** |
