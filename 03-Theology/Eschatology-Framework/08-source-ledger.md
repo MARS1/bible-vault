@@ -451,6 +451,22 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Stage 60C — Ezekiel 38–39, and a prior finding re-tested blind
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S107** | ✅ **Sefaria API (Hebrew) + BibleHub (LXX)** | **Ezekiel 38:1–12 · 38:16b · 38:19–23 · 39:1–7 · 39:21–22** | ★ ✅ **לָבֶטַח rendered ΕΠ' ΕΙΡΗΝΗΣ at BOTH 38:8 and 38:11 (q400)** · ✅ **רַעַשׁ גָּדוֹל = ΣΕΙΣΜΟΣ ΜΕΓΑΣ (38:19)** · ✅ **ἐπ' ἐσχάτου ἐτῶν** · ✅ **ἐπὶ τὸν ΟΜΦΑΛΟΝ τῆς γῆς (38:12)** · ✅ **nine coalition names, with ΑΙΘΙΟΠΕΣ for כוש and ΛΙΒΥΕΣ for פוט (q401)** · ✅ **eight trembling items · six judgment elements · θάνατος against Hebrew דֶּבֶר** · ✅ **γνώσονται ×4 (q402)** | **PRIMARY** | ✅ **VERIFIED.** ✅ **SECOND CLEAN LANE IN A ROW under v5.5 — five explicit `INTERPRETIVE — NOT MY CALL` tags, no banned verbs, self-check reconciled** | 2026-08-26 |
+| **S108** | ✅✅ **BLIND RE-TEST of a prior finding — the fire comparison** | **LXX Ezekiel 38:22 · 39:6 · 4 Kingdoms 1:10 · SBLGNT Revelation 20:9** | ★★★★ ✅ **4 Kingdoms 1:10 shares 4/4 with Revelation 20:9 (κατέβη · πῦρ · ἐκ τοῦ οὐρανοῦ · κατέφαγεν); each Ezekiel verse shares 1/4** (q398) | **PRIMARY** | ✅✅ **VERIFIED — AND THIS IS THE ARCHIVE'S FIRST *BLIND RE-TEST* ENTRY.** ❗ **q373 was already on file and could have been cited. It was sent back out WITHOUT the expected answer instead, and came back 4-to-1** | 2026-08-26 |
+| **S109** | ❌ **σεισμὸς μέγας across Revelation** | **TBD — a full sweep of the book** | whether John *possessed* the phrase and withheld it at 20:7–10, or simply never used it *(q399)* | **PRIMARY** *(when obtained)* | ❌ **NOT RETRIEVED — AND THE CLAIM IS NOT ASSERTED WITHOUT IT.** ❗ **The finding's strength depends entirely on this sweep, and that is stated in the same paragraph that raises it** | — |
+
+> ### 📇 **S108 ESTABLISHES A PRACTICE THIS LEDGER DID NOT HAVE: THE ***BLIND RE-TEST***.**
+>
+> ### ❗ **q373 WAS ALREADY BANKED. CITING IT WOULD HAVE BEEN CORRECT AND CHEAP. INSTEAD THE QUESTION WENT BACK OUT WITHOUT THE EXPECTED ANSWER ATTACHED — AND CAME BACK 4-TO-1.**
+>
+> ### 📌 **AN ARCHIVE THAT ONLY EVER RE-CITES ITS OWN CONCLUSIONS IS A DIFFERENT FAILURE FROM ONE THAT RE-DERIVES THEM. THE REOPENING RULE (v5.7) FORBIDS RE-ARGUING A SETTLED FINDING; IT DOES NOT FORBID ***RE-MEASURING*** ONE, AND THE TWO SHOULD NOT BE CONFUSED.**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**

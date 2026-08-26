@@ -120,8 +120,9 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **58** | ⭐⭐ **The Standard of Proof, and PF-01 — PERMITS → SUPPORTS. THE TRANCHE CLOSES.** | **[[03h-the-standard-of-proof]]** |
 | **58½** | **🔍🔑 The Gap Audit — THE BLOCKER IS THE NUMBER, AND THE PLAN IS REORDERED** | **[[03i-the-gap-audit-what-actually-remains]]** |
 | **59** | **⏳🔑🔑 How Long Can the Little Season Be? — THE FOUR-WAY CONSTRAINT, and a verse read halfway** | **[[03j-how-long-is-the-little-season]]** |
-| **59½** | *(next)* **📌 Two Matthew debts — 24:6–9 in Greek, and ψυγήσεται examined at last** | — |
-| **60** | *(then, THE GATE)* **🔢 What Is χίλια ἔτη? — literal, symbolic, or undetermined** | — |
+| **60C** | **🗡️🔑🔑 Ezekiel 38–39 and the Gog Fingerprint — THE FIRE IS ELIJAH'S, 4 TO 1** | **[[03k-ezekiel-38-39-and-the-gog-fingerprint]]** |
+| **60½** | *(next)* **📌 Three short sweeps — σεισμὸς μέγας in Revelation · Matthew 24:6–9 · ψυγήσεται** | — |
+| **61** | *(then, THE GATE)* **🔢 What Is χίλια ἔτη? — literal, symbolic, or undetermined** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2710,6 +2711,44 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **📐 AND WHAT PF-01 DOES *NOT* LICENSE, SO IT CANNOT BE MISREAD: ❌ a specific commencement year · ❌ that the thousand years are literal calendar years · ❌ a historical terminus or the little season · ❌ anything from the quarantined chronology branch *(q324/q325 — quarantined because it would invalidate the manuscript base this argument reads from, not merely because it is unproven)*. **HOLDING PF-01 FIRMLY IS EXACTLY WHAT MAKES IT POSSIBLE TO SAY SO WITHOUT LOSING ANYTHING — the uncertainty downstream does not leak upstream.**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"Fifty stages later it is at 'supports.' That is the thing advancing a whole tier against a standard set before anyone knew which way it would go, which is the only kind of standard worth setting... This archive never required proof. Its ledgers say probable, and high, and very high, on almost every page. What it refuses is calling a probable thing established — and that refusal is not a wall in front of belief. It is what keeps a belief standing when somebody finally checks it."***
+
+---
+
+## Stage 60C — 🗡️🔑🔑 Ezekiel 38–39 and the Gog Fingerprint: THE FIRE IS ELIJAH'S *(current)*
+
+**File:** [[03k-ezekiel-38-39-and-the-gog-fingerprint]] · **What does John actually carry across from Ezekiel — and what does he leave behind?** ✅ **SECOND CLEAN LANE IN A ROW: five explicit `INTERPRETIVE — NOT MY CALL` tags, no banned verbs, self-check reconciled. v5.5 is holding.**
+
+> ### ★★★★ **§10 IS REFUTED BY A COUNT, NOT AN ARGUMENT — AND q373 WAS RE-TESTED BLIND RATHER THAN INHERITED.**
+>
+> | Source | κατέβη | πῦρ | ἐκ τοῦ οὐρανοῦ | κατέφαγεν | **shared** |
+> |---|---|---|---|---|---|
+> | ✅ **LXX Ezekiel 38:22** | ❌ | ✅ | ❌ | ❌ | **1 / 4** |
+> | ✅ **LXX Ezekiel 39:6** | ❌ | ✅ | ❌ | ❌ | **1 / 4** |
+> | ★ ✅ **LXX 4 Kingdoms 1:10** | ✅ | ✅ | ✅ | ✅ | ★ **4 / 4** |
+>
+> ### ❗❗❗ **REVELATION 20:9 SHARES *FOUR* WORDS WITH ELIJAH AND *ONE* WITH EZEKIEL — AND THE ONE IS πῦρ, THE SUBJECT OF THE SENTENCE IN ALL FOUR TEXTS.** *(Ezekiel's verbs are ΚΡΙΝΩ and ΑΠΟΣΤΕΛΩ/ΒΡΕΞΩ; Revelation's is ΚΑΤΕΦΑΓΕΝ.)*
+>
+> ### 📐 **SO §10's LEDGER LINE INVERTS: THE FIRE IS THE ONE ELEMENT WHOSE WORDING DOES **NOT** COME FROM EZEKIEL. JOHN TAKES THE **NAMES** FROM EZEKIEL AND THE **SENTENCE** FROM ELIJAH (q398).**
+
+> ### ★★★★★ **AND THE STRONGEST FINDING IS SOMETHING JOHN *DIDN'T* WRITE. ✅ **Ezekiel 38:19 — רַעַשׁ גָּדוֹל = LXX ΣΕΙΣΜΟΣ ΜΕΓΑΣ** — a fixed two-word phrase sitting in the exact passage John is quarrying Gog and Magog from. ✅ **AND REVELATION 20:7–10 USES NO SHAKING WORD AT ALL.**
+>
+> ### ⚠️⚠️ **BUT THIS ARCHIVE HAS NOT YET CONFIRMED WHETHER σεισμὸς μέγας OCCURS ELSEWHERE IN REVELATION. IF IT DOES, JOHN DEMONSTRABLY *HAD* THE PHRASE AND WITHHELD IT PRECISELY HERE. IF IT DOES NOT, THE FINDING IS ONLY THAT HE DID NOT IMPORT IT.**
+>
+> ### 🛑 **RECORDED AS OWED, NOT ASSERTED — IN THE SAME PARAGRAPH THAT RAISES IT. THIS IS EXACTLY THE SHAPE OF ARGUMENT-FROM-ABSENCE THAT NEEDS ITS OWN SWEEP FIRST (q399).**
+
+**★★★ THE TARGET'S CONDITION, AND THE LXX SHIFTS THE WORD: ✅ **38:8 and 38:11 Hebrew both read לָבֶטַח** *(security/safety)* — ❗ **but the LXX renders BOTH as ΕΠ' ΕΙΡΗΝΗΣ, "in PEACE."** Not ἀσφάλεια, not πεποίθησις. **A genuine translation shift, and if John reads Ezekiel in Greek his source says the target dwells IN PEACE when Gog comes (q400).** ✅ Also verified: **ἐπ' ἐσχάτου ἐτῶν** *(בְּאַחֲרִית הַשָּׁנִים)* · **no wall, no bars, no gates** · the doubled **προνομεῦσαι προνομὴν καὶ σκυλεῦσαι σκῦλα** · ★ **κατοικοῦντας ἐπὶ τὸν ΟΜΦΑΛΟΝ τῆς γῆς**. ⚠️ **AND §4's BRAKE IS ENFORCED: בֶּטַח/εἰρήνη describes the TARGET'S condition before the invasion — no millennial test may be built saying "if anyone suffered, it wasn't the millennium."**
+
+**✅ THE COALITION — NINE NAMES, AND A DATUM THE TRANCHE DID NOT HAVE: ✅ **the LXX does NOT transliterate two of them — it renders כוש as ΑΙΘΙΟΠΕΣ and פוט as ΛΙΒΥΕΣ**, substituting the translator's own contemporary equivalents. 📌 **SO RE-MAPPING GOG'S COALITION ONTO CURRENT GEOGRAPHY *BEGINS INSIDE THE SEPTUAGINT ITSELF* — which both licenses the impulse AND dates every result to whoever performed it (q401).** ❗ **AND JOHN GOES FURTHER: he reproduces NO LIST — ✅ τὰ ἔθνη τὰ ἐν ταῖς τέσσαρσι γωνίαις τῆς γῆς, ΤΟΝ ΓΩΓ ΚΑΙ ΜΑΓΩΓ, in apposition. 🛑 "Persia = X, therefore Revelation predicts Y" OUTRUNS BOTH JOHN *AND* THE LXX.**
+
+**✅ THE INVENTORIES: ✅ 38:20 — **EIGHT** things tremble or fall *(fish · birds · beasts · creeping things · all people · τὰ ὄρη · αἱ φάραγγες · πᾶν τεῖχος)* · ✅ 38:22 — **SIX** judgment elements *(θάνατος · αἷμα · ὑετὸς κατακλύζων · λίθοι χαλάζης · πῦρ · θεῖον)*, ⚠️ **with the LXX reading θάνατος where the Hebrew has דֶּבֶר — recorded, not smoothed** · ✅ **the γνώσονται purpose formula FOUR TIMES** *(38:16b, 38:23, 39:7, 39:21–22)*. 📌 **§13 is right: Ezekiel's Gog judgment is not "enemy eliminated" — its stated purpose, four times, is THAT THEY SHALL KNOW. That raises the bar against identifying any contemporary conflict with it (q402).**
+
+> ### ★★★ **AND §7 IS THE BEST THING IN THE TRANCHE, AND IT IS NEW: ✅ **REVELATION SAYS SATAN *DECEIVES* THEM. A DECEIVED ACTOR NEED NOT UNDERSTAND THE SOURCE OR PURPOSE OF WHAT HE IS DOING.** Participants' stated causes may be political, economic, territorial, moral, religious or security-related and still be what John describes.
+>
+> ### ⚠️ **AND THE CONSEQUENCE CUTS *AGAINST* EASY IDENTIFICATION: IF THE PARTICIPANTS' OWN ACCOUNT CANNOT CONFIRM THE DIAGNOSIS, IT ALSO CANNOT SUPPLY EVIDENCE FOR IT — WHICH MAKES THE FINGERPRINT HARDER TO SATISFY, NOT EASIER (q403).**
+
+**✅ ALSO ADOPTED FROM THE TRANCHE: §1's Ezekiel progression *(preparation → mustering → movement → invasion → encirclement → destruction)*, which matches q396's three-condition frame and shows the little season PERMITS development · §2's honesty that John gives no timestamps in either direction · §11's earthquake conclusion, which lands where q397 did.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"So the fire is the one thing John did not take from Ezekiel. He took the names and wrote the sentence from somewhere else... Ezekiel's Gog chapter contains an earthquake, and in Greek it is called a great shaking — two words, sitting in the exact passage John is quarrying. He does not use them. I have refused to say what that means until someone looks."***
 
 ---
 
