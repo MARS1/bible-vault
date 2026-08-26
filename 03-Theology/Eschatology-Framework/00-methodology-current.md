@@ -6,7 +6,7 @@ tags: [methodology, epistemology, exegesis, ingestion-protocol, governance]
 reference:
 created: 2026-08-12
 status: active
-version: "5.7 — 2026-08-26, current at Stage 58 (established 1.0 at Stage 16, 2026-08-12)"
+version: "5.8 — 2026-08-26, current at Stage 59 (established 1.0 at Stage 16, 2026-08-12)"
 related: "[[00-index]], [[00a-narrative-spine]], [[00b-biblical-epistemology]]"
 ---
 
@@ -1697,6 +1697,41 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 📖 Account for the Whole Clause *(added v5.8 — a fifth failure mode, and the subtlest yet)*
+
+> **When a verse is retrieved in full, account for the WHOLE clause — not only the portion that answers the question currently being asked.**
+
+**⚠️ Warrant:** ✅ **Matthew 24:12 was verified whole at Stage 51½ — καὶ διὰ τὸ πληθυνθῆναι ΤΗΝ ΑΝΟΜΙΑΝ ΨΥΓΗΣΕΤΑΙ Η ΑΓΑΠΗ ΤΩΝ ΠΟΛΛΩΝ.** **ἀνομία received a numbered question, a discharged debt, a lexical link and a table row. ❗ ΨΥΓΗΣΕΤΑΙ Η ΑΓΑΠΗ ΤΩΝ ΠΟΛΛΩΝ sat in the same quoted line and was never examined — in any file.**
+
+> ### 🆕 **THIS IS THE FIFTH DISTINCT FAILURE MODE AND IT IS THE SUBTLEST:**
+> ### **1. NOT RETRIEVED** *(q246, q362)* · **2. FABRICATED BY A LANE** *(q247)* · **3. HALF-VERIFIED AND USED ANYWAY** *(q288)* · **4. OVER-READ BY A LANE** *(q341, q350, q367)* · ### **5. 🆕 RETRIEVED AND READ HALFWAY** *(q392)*
+>
+> ### ❗❗ **AND NO EXISTING GUARD CATCHES IT. NOT THE LANE SELF-CHECK — THE LANE DELIVERED THE FULL VERSE. NOT THE ARCHIVE PRECHECK — THE VERSE IS PRESENT. NOT THE SOURCE LEDGER — IT CORRECTLY RECORDS THE VERSE AS **VERIFIED**.**
+>
+> ### 🛑 **THE ONLY GUARD IS THE READING ITSELF: A CLAUSE THAT WAS NOT NEEDED IS STILL A CLAUSE THAT WAS RETRIEVED.**
+
+---
+
+## 🌍 Terminology Lock — no cosmological import *(restated in methodology v5.8; standing since Stage 21½)*
+
+> **Never write "globe," "global," "globally," "globular," "planet," "planetary," or "worldwide" in this archive. Where the text says γῆ, handle its actual range — land · earth · ground · territory — without importing a cosmology the passage is not establishing.**
+
+**✅ This has been carried in every stage file's `localization` field since Stage 21½, and ✅ Stage 55C's exhaustive sweep is its enforcement: 35 occurrences of γῆ in Revelation, every one examined, none treated as a cosmological claim (q364).**
+
+> ### 📌 **RESTATED HERE BECAUSE THE RULE LIVED ONLY IN THE FILE HEADERS. A RULE THAT EXISTS ONLY IN METADATA IS ONE INGEST AWAY FROM BEING BREACHED BY SOMEONE WHO NEVER READ A HEADER.**
+
+---
+
+## 🔬 Phenomenon Occurring ≠ Prophecy Fulfilled *(added v5.8)*
+
+> **That a phenomenon is presently observable does not establish that a prophecy naming that phenomenon is presently being fulfilled. The referent must be argued, not assumed from the category.**
+
+*Worked instance: modern earthquakes prove that earthquakes occur. They do not establish that Matthew 24:7's referent is operating — and Matthew's signs may not be relocated into Revelation 20:7 without textual justification.*
+
+> ### 📌 **AND THE NARROWING THIS PRODUCES IS REAL: ✅ **REVELATION 20:7–10 LISTS NO PHYSICAL-UPHEAVAL MARKERS AT ALL.** Its diagnostics are **deception · the nations · gathering · war · the saints surrounded · fire.** **PHYSICAL UPHEAVAL CARRIES LITTLE DIAGNOSTIC WEIGHT FOR THAT PERIOD UNLESS ANOTHER TEXT INDEPENDENTLY SUPPLIES IT.**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -1722,6 +1757,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **5.8** | 2026-08-26 | **A FIFTH FAILURE MODE, AND A FOUR-WAY CONSTRAINT ON THE MODEL.** Added **ACCOUNT FOR THE WHOLE CLAUSE**, restated the **TERMINOLOGY LOCK** into methodology *(it had lived only in file headers)*, and added **PHENOMENON OCCURRING ≠ PROPHECY FULFILLED**. ★★ **THE READER PREDICTED TWO GAPS AND BOTH WERE REAL: ✅ Matthew 24:12 was retrieved WHOLE at Stage 51½ and READ HALFWAY — ἀνομία got a numbered question, a discharged debt, a lexical link and a table row, while ΨΥΓΗΣΕΤΑΙ Η ΑΓΑΠΗ ΤΩΝ ΠΟΛΛΩΝ sat in the same quoted line, unexamined in any file (q392) · ❌ and Matthew 24:6–8 has NEVER been retrieved, leaving an UNVERIFIED CELL inside Stage 51½'s load-bearing sequence table (q393).** ★★★★ **q395 — THE FOUR-WAY CONSTRAINT: PF-01 + a chronological χίλια ἔτη + μικρὸν χρόνον as SHORT + "we are presently in the little season" CANNOT ALL HOLD. A first-century start with a chronological millennium puts the terminus near the eleventh century, making the present roughly NINE HUNDRED YEARS into a "short time." The reader found this tension himself, and the exit he reached for (q324/q325) was quarantined at 54¾ BEFORE the tension was known.** 📐 **q396 — the three-condition distinction (late millennium / early little season / terminal) — "ramping up" may still be Condition A.** ⏸️ **Two Matthew debts recorded, NOT filled from memory.** |
 | **5.7** | 2026-08-26 | **⭐⭐ THE TRANCHE CLOSES: PERMITS → SUPPORTS.** Promoted **THE STANDARD OF PROOF** *(CONTRADICTS · PERMITS · SUPPORTS · REQUIRES — the scale itself dates to ADR-0005, 2026-08-08)* into methodology, added the **REOPENING RULE**, and added **A STAGE MUST PRODUCE A FINDING, NOT ONLY A NEXT STAGE**. ★★★★★ **THE PRECHECK'S THIRD APPLICATION FOUND THE ANSWER RATHER THAN THE NEXT QUESTION: the evidentiary scale was written EIGHTEEN DAYS AGO, before fifty stages of evidence existed, and logged the core hypothesis at PERMITS while admitting that week's work had not moved it.** ⭐ **PF-01 RECORDED IN [[03-hypotheses]]: the millennial-entrance hypothesis has advanced a FULL TIER to SUPPORTS — a standard set in advance and then met.** ✅ **AND THE COROLLARY THAT HAD NEVER BEEN WRITTEN DOWN: *SUPPORTS IS ENOUGH TO HOLD A CONVICTION.* This archive has always graded its convictions; what it refuses is UPGRADING THE LABEL (ADR-0010), which PROTECTS a conviction rather than blocking it (q386).** ⚠️ **AND THE DRIFT IS OWNED: SIX CONSECUTIVE STAGES ENDED BY DEFERRING TO THE NEXT ONE, and the redundancy audit — necessary in itself — FED the loop by generating corrections instead of verdicts (q387).** 🔁 **The Reopening Rule pairs with the Precheck: one stops us repeating WORK, the other stops us repeating ARGUMENTS (q388).** 🛑 **PF-01 LICENSES NO DATE, NO LITERAL DURATION, NO TERMINUS, NO LITTLE-SEASON CLAIM, AND NOTHING FROM THE QUARANTINED BRANCH.** |
 | **5.6** | 2026-08-25 | **THE READER CAUGHT THE ARCHIVE REPEATING ITSELF, AND THE FILES CONFIRMED IT.** Added **MANDATORY ARCHIVE PRECHECK** with a five-step procedure and a consequence rule. ❗❗❗ **STAGES 55A–55D CONTAIN ZERO CITATIONS OF THE ARCHIVE'S EARLIER REVELATION WORK — Stage 40 (Rev 13, the mark, 666, Nero-as-candidate, the 616 variant, Daniel 3, the Covenantal Mark Priority rule), Stage 40½ (Nero, the martyrs, and a THREE-HYPOTHESIS DATING FORK) and Stage 43 (Babylon: Rome, Jerusalem, or something more complex — with WOMAN ≠ BEAST, Ezekiel 16, 18:24 ⟷ Matthew 23, and a candidate matrix) were all re-derived (q376).** ⭐ **AND THE AUDIT INDICTED ITS AUTHOR: q349 is a re-derivation of q194, same objection, same "NOT sourced" flag, two stages earlier (q377).** ✅ **THE HONEST OTHER HALF: Stage 55 discharged Stage 40's own q168 debts (Daniel 3, Rev 17:9–11, Rev 7:3 and 14:1) and produced genuinely new findings — q346, q347, q364, q365, q366, q371–374, q355–358, q370.** ❌ **55E IS NOT WRITTEN. Stage 56 RESCOPED from "when was Revelation written" to "what would MOVE the fork Stage 40½ already built" (q378).** 🛑 **THIRD INSTANCE OF THE ARCHIVE-NOT-CONSULTED FAILURE, AFTER q246 AND q313 — THE INFORMATION WAS PRESENT AND CORRECT EVERY TIME.** |
 | **5.5** | 2026-08-25 | **A SWEEP MOVED A READING FROM NEUTRAL TO BURDENED, AND THE LANE PROBLEM BECAME A BRIEF PROBLEM.** Added **CONSTRAIN THE BRIEF, DON'T JUST RECORD THE OVER-READ** *(with three mandatory brief clauses)*, **ARGUE A CLUSTER AS ONE DATUM**, and **A SWEEP CAN MOVE A READING FROM NEUTRAL TO BURDENED**. ★★★ **THE γῆ SWEEP: 35 occurrences across all 22 chapters, ZERO restricted to a named territory — so the territorial reading of 13:11 is no longer a free option (q364).** ★★★★ **DANIEL 3 IS LEXICAL, NOT THEMATIC, AND CONTAINS AN INVERSION: both recensions carry εἰκών/προσκυνέω at density (Th 11+9, OG 10+9), and ✅ Dan 3:6's ἐμβληθήσεται εἰς … τοῦ πυρὸς τὴν καιομένην matches ✅ Rev 19:20's ἐβλήθησαν εἰς … τοῦ πυρὸς τῆς καιομένης — four elements, only the vessel differing. Those who REFUSE the image in Daniel walk out; those who DEMAND it in Revelation do not (q365).** ✅✅ **RC-01 DISCHARGED and upgraded — 16:13–14 retrieved at last, and there are THREE gatherings for war, with 16:14 and 20:8 VERBATIM IDENTICAL (q366).** ✅ **16:13 names the false prophet three chapters before 19:20, with one sign-vocabulary throughout (q363).** ⚠️ **§17's premise corrected: 20:10's ὅπου clause is a TEXTUAL TIE to 19:20, not chapter order (q368).** 📊 **Neither candidate family passes — and the chronologically convenient one fails hardest, on its own tranche's rule (q369).** 🛑 **STILL NO ARITHMETIC, NO DATE, NO QUARANTINED BRANCH.** |

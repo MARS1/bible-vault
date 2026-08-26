@@ -119,7 +119,9 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **57** | **🌍🔑🔑 Binding: Gospel Access or Something Narrower? — THE BINDING CANNOT DATE ANYTHING** | **[[03g-binding-access-or-something-narrower]]** |
 | **58** | ⭐⭐ **The Standard of Proof, and PF-01 — PERMITS → SUPPORTS. THE TRANCHE CLOSES.** | **[[03h-the-standard-of-proof]]** |
 | **58½** | **🔍🔑 The Gap Audit — THE BLOCKER IS THE NUMBER, AND THE PLAN IS REORDERED** | **[[03i-the-gap-audit-what-actually-remains]]** |
-| **59** | *(next)* **🔢 What Is χίλια ἔτη? — literal, symbolic, or undetermined. IT GATES EVERYTHING** | — |
+| **59** | **⏳🔑🔑 How Long Can the Little Season Be? — THE FOUR-WAY CONSTRAINT, and a verse read halfway** | **[[03j-how-long-is-the-little-season]]** |
+| **59½** | *(next)* **📌 Two Matthew debts — 24:6–9 in Greek, and ψυγήσεται examined at last** | — |
+| **60** | *(then, THE GATE)* **🔢 What Is χίλια ἔτη? — literal, symbolic, or undetermined** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
