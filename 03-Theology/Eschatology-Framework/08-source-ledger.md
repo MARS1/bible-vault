@@ -431,6 +431,26 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 ---
 
+## Stage 55D — the recapitulation test, and the first clean lane
+
+| # | Source | Locator | Supports | Tier | State | Accessed |
+|---|---|---|---|---|---|---|
+| **S102** | ✅✅ **SBLGNT — the three gathering clauses compared morphologically, plus an EXHAUSTIVE Ἁρμαγεδών check** | **Revelation 16:14 · 16:16 · 19:19 · 20:8** | ★★★★ ✅ **16:14 ≡ 20:8 word-for-word; 19:19 differs in verb form AND preposition** · ✅ **Ἁρμαγεδών occurs ONCE in the book, at 16:16 only** (q371, q372) | **PRIMARY** | ✅✅ **VERIFIED — forms reported as morphology, not as conclusions** | 2026-08-25 |
+| **S103** | ✅✅ **EXHAUSTIVE Ἑβραϊστί SWEEP of Revelation** | **9:11 · 16:16 · and confirmed absence at 13:18, 3:12, 11:8** | ✅ **two occurrences only** · ✅ **9:11 supplies a Greek equivalent; 16:16 does NOT** · ❗ ✅ **none at 13:18** (q374) | **PRIMARY** | ✅✅ **VERIFIED EXHAUSTIVE.** 📌 *Bears directly on 55B's unresolved Hebrew-ruler question (q356) — and advances it on BOTH sides* | 2026-08-25 |
+| **S104** | ✅ **BibleHub LXX — Ezekiel 38–39** | **Ezekiel 38:2 · 38:22 · 39:6** | ✅ **ΓΩΓ / ΜΑΓΩΓ forms** · ✅ **ΠΥΡ** · ❌ **verbs ΚΡΙΝΩ and ΑΠΟΣΤΕΛΩ, NOT κατέφαγεν** · ❗ ✅ **neither verse says "from heaven"** | **PRIMARY** | ✅ **VERIFIED — and the DIFFERENCES are what made q373 findable** | 2026-08-25 |
+| **S105** | ✅✅ **CROSS-STAGE COMPARISON — S101's LXX 4 Kingdoms 1:10 set beside Revelation 20:9** | **4 Kingdoms 1:10 ⟷ Revelation 20:9** | ★★★★ ✅ **FIVE-ELEMENT MATCH: κατέβη + πῦρ + ἐκ τοῦ οὐρανοῦ + κατέφαγεν + object** — the Elijah fire formula, not Ezekiel's (q373) | **PRIMARY** | ✅✅ **VERIFIED.** ❗❗ **S101 WAS RETRIEVED AT STAGE 55C FOR AN ENTIRELY DIFFERENT QUESTION — the second beast's signs. THE FUSION WAS ONLY VISIBLE WHEN TWO STAGES' RETRIEVALS WERE STACKED** | 2026-08-25 |
+| **S106** | ✅ **SBLGNT + ESV — Babylon's profile** | **Revelation 17:3 · 17:5 · 17:6 · 17:16 · 17:18 · 18:11–13** | ★★ ✅ **17:16's four future verbs ending ΚΑΤΑΚΑΥΣΟΥΣΙΝ ΕΝ ΠΥΡΙ** · ✅ **17:5's μυστήριον, ΒΑΒΥΛΩΝ ἡ μεγάλη on her ΜΕΤΩΠΟΝ** · ✅ **17:6's two genitives** · ✅ **17:18's ἡ ΠΟΛΙΣ ἡ μεγάλη** · ✅ **18:13's ΣΩΜΑΤΩΝ ΚΑΙ ΨΥΧΑΣ ΑΝΘΡΩΠΩΝ** (q375) | **PRIMARY** | ✅ **VERIFIED — and NO identification attempted, per the brief** | 2026-08-25 |
+
+> ### 📇 **TWO THINGS THIS BLOCK ESTABLISHES:**
+>
+> ### ✅ **FIRST — THE v5.5 BRIEF PRODUCED THE PROJECT'S FIRST CLEAN LANE IN FIVE. Six explicit `INTERPRETIVE — NOT MY CALL` tags, no interpretation of the forbidden verses, no banned characterization verbs in any conclusion — and tags on questions the brief had not anticipated.** 📌 **FOUR FAILURES WERE RECORDED IN THIS LEDGER; THE FIX IS RECORDED ON THE SAME TERMS (q370).**
+>
+> ### ★★★★ **SECOND — S105 IS THE ARCHIVE'S FIRST *CROSS-STAGE* ENTRY. Nothing new was retrieved for it. A verse fetched last stage for the second beast's signs was set beside a verse fetched this stage for Gog and Magog, and the five-element Elijah match appeared.**
+>
+> ### 📌 **THE LEDGER IS NOT A LOG OF WHAT WAS FETCHED. IT IS A WORKING SURFACE, AND ITS VALUE COMPOUNDS WHEN ENTRIES ARE READ ACROSS STAGES RATHER THAN WITHIN THEM.**
+
+---
+
 ## Rules for future entries
 
 > **1. Biblical claims preserve verse references AND the translation(s) consulted.**

@@ -112,7 +112,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **55A** | **👹🔑🔑 Build the Beast's Fingerprint Before Naming It — THE DEBT PAID OFF** | **[[03a-the-beasts-fingerprint]]** |
 | **55B** | **⚖️🔑🔑 The First Candidate on Trial — 666 IS NOT A UNIQUE IDENTIFIER** | **[[03b-the-first-candidate-on-trial]]** |
 | **55C** | **🐑🔑🔑 The Land Beast and the False Prophet — 35 OCCURRENCES, ZERO TERRITORIAL** | **[[03c-the-land-beast-and-the-false-prophet]]** |
-| **55D** | *(next)* **⚔️ Three Gatherings, or One? — 16:14 · 19:19 · 20:8, and the ὅπου tie** | — |
+| **55D** | **⚔️🔑🔑 Three Gatherings, or One? — THE EVIDENCE CLASSES SPLIT** | **[[03d-three-gatherings-or-one]]** |
+| **55E** | *(next)* **👑 Why Does the Beast Destroy the Woman? — Babylon's fingerprint, no candidate** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2549,6 +2550,44 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **📊 NEITHER CANDIDATE FAMILY PASSES. **Candidate A** *(cultic machinery attached to imperial power)* fits Revelation 13's worship, setting and mechanism — ❌❌ **but FAILS the termination requirement, which 55B established is PERMANENCE, NOT DECLINE (q361).** **Candidate B** *(a religious establishment cooperating with imperial power)* fits a first-century terminus — ❌ **but is weak on σημεῖα, the image, the mark, and the Asia Minor audience, AND its γῆ foundation is now weighed against by 35 occurrences.** ❗❗ **AND THE TRANCHE'S OWN §15 SUPPLIES THE DECIDING RULE, SO IT IS ENFORCED: *CHRONOLOGICAL CONVENIENCE IS NOT EVIDENCE.* CANDIDATE B'S ONLY CLEAR ADVANTAGE IS THAT IT ENDS AT A USEFUL MOMENT — **PRECISELY THE GROUND ON WHICH A CANDIDATE MAY NOT BE SELECTED (q369).**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"I went to Daniel expecting a theme and found a sentence... the punishment in Daniel that the faithful survived is the punishment in Revelation that the persecutors do not. Thirty-five times John says earth, and not once does he mean one country. I did not decide that. I counted it."***
+
+---
+
+## Stage 55D — ⚔️🔑🔑 Three Gatherings, or One: THE EVIDENCE CLASSES SPLIT *(current)*
+
+**File:** [[03d-three-gatherings-or-one]] · **The test was run against our own assumption, and it went against the CONVENIENT answer.**
+
+> ### ★★★ **THE v5.5 BRIEF WORKED — MEASURED, BECAUSE THE FAILURES WERE MEASURED. Four consecutive lanes had passed their own self-check and over-read anyway. v5.5 moved the fix into the BRIEF with three mandatory clauses. ✅ **THIS LANE RETURNED SIX EXPLICIT `INTERPRETIVE — NOT MY CALL` TAGS, DECLINED EVERY VERSE IT WAS TOLD NOT TO INTERPRET, AND USED NO BANNED CHARACTERIZATION VERBS.** ★ **It even tagged things the brief did not anticipate. FIRST CLEAN LANE IN FIVE — the fix was in the instruction, not the reviewer (q370).**
+
+**★★★★ THE GATHERINGS SPLIT THREE WAYS, NOT TWO: ✅ **16:14 συναγαγεῖν … ΕΙΣ τὸν πόλεμον** · ✅ **19:19 ΣΥΝΗΓΜΕΝΑ ποιῆσαι τὸν πόλεμον** *(perfect passive participle, direct object, NO εἰς)* · ✅ **20:8 συναγαγεῖν … ΕΙΣ τὸν πόλεμον.** ✅ **AND Ἁρμαγεδών OCCURS ONCE IN THE BOOK — 16:16 ONLY, ABSENT FROM 19 AND 20.** ❗❗ **SO: 16 HAS THE UNIQUE PLACE-NAME *AND* THE FORMULA SHARED WITH 20 · 19 HAS NEITHER · 20 HAS THE FORMULA BUT NOT THE NAME. **CHAPTER 16 PAIRS CLEANLY WITH NEITHER — IT SITS BETWEEN THEM (q371).**
+
+> ### ⚖️ **AND THE EVIDENCE CLASSES POINT OPPOSITE WAYS — THIS IS THE STAGE'S HONEST RESULT.**
+> ### ★ **LEXICALLY: 16:14 ≡ 20:8 word-for-word; 19:19 differs in BOTH verb form and preposition → PAIRS 16 WITH 20.**
+> ### ★ **NARRATIVELY: ✅ 16:13 has dragon + beast + false prophet ALL ACTIVE; ✅ 20:10 has two already in the lake → PAIRS 16 WITH 19.**
+>
+> ### ❗❗ **THE TRANCHE'S §2 GRADES 16 ⟷ 19 "VERY STRONG." THE WORDS DO NOT SUPPORT THAT — THEY TIE 16 TO 20, THE VERY PAIR §3 ARGUES MUST BE DISTINCT.** 🛑 **NOT A FLAW — A GENUINE SPLIT BETWEEN EVIDENCE CLASSES, NAMED RATHER THAN RESOLVED BY PREFERENCE. §2 DOWNGRADED TO *STRONG ON NARRATIVE GROUNDS, UNSUPPORTED ON LEXICAL ONES* (q372).**
+
+**★ §5 MAY HOLD THE RESOLUTION, WHICH IS WHY IT SURVIVES — *"recurring warfare architecture, but distinct battles."* 📌 **A SHARED *FORMULA* CAN MARK A SHARED **TYPE** RATHER THAN A SHARED **INSTANCE**.** ✅ **AND THAT IS TESTABLE: does Revelation reuse other fixed formulas across events it clearly distinguishes? OWED FOR 55E.**
+
+**✅ §3's ACTOR ARGUMENT HOLDS AND IS THE STAGE'S STRONGEST DATUM: one cannot have the false prophet emitting spirits in one scene and permanently disposed of in the other, if they are the same scene. **COMBINED WITH 55C's ὅπου TIE (q368), SEQUENCE AT THE 19 → 20 HINGE SURVIVES THE TEST.** ❗ **AND THE COST IS WORTH STATING: RECAPITULATION WOULD HAVE DISSOLVED THE BEAST-DESTRUCTION PROBLEM ENTIRELY. THE TRANCHE TESTED IT, IT FAILED, AND IT KEPT THE HARDER RESULT.**
+
+> ### ★★★★ **REVELATION 20:9 FUSES TWO SOURCES — EZEKIEL'S NAMES, ELIJAH'S FIRE. ✅ **SHARED WITH EZEKIEL: Γωγ/Μαγωγ letters, and the word ΠΥΡ.** ❌ **DIFFERING: Ezekiel's verbs are ΚΡΙΝΩ (38:22) and ΑΠΟΣΤΕΛΩ (39:6); Revelation's is ΚΑΤΕΦΑΓΕΝ — and ✅ NEITHER EZEKIEL VERSE SAYS "FROM HEAVEN."**
+>
+> ### ❗❗❗ **BUT 55C RETRIEVED THE SOURCE OF THAT ADDITION LAST STAGE FOR AN UNRELATED QUESTION: ✅ **LXX 4 KINGDOMS 1:10 — ΚΑΤΕΒΗ ΠΥΡ ΕΚ ΤΟΥ ΟΥΡΑΝΟΥ ΚΑΙ ΚΑΤΕΦΑΓΕΝ αὐτόν** against ✅ **REVELATION 20:9 — ΚΑΤΕΒΗ ΠΥΡ ΕΚ ΤΟΥ ΟΥΡΑΝΟΥ ΚΑΙ ΚΑΤΕΦΑΓΕΝ αὐτούς.** **FIVE ELEMENTS, VERB AND ALL.**
+>
+> ### 📐 **NAMES FROM EZEKIEL, FIRE FORMULA FROM ELIJAH — TWO SOURCES FUSED IN TWO VERSES (q373).** ★ **SECOND FUSION THIS ARCHIVE HAS CAUGHT, AFTER q319's PAUL/ISAIAH 11:4 — AND BOTH WERE INVISIBLE UNTIL THE SOURCES WERE RETRIEVED SEPARATELY AND COMPARED WORD BY WORD.** ⚠️ *No claim about authorial intent — q367's refusal applies here too.*
+
+**★★★ Ἑβραϊστί SWEPT — TWO OCCURRENCES: ✅ **9:11 ΕΒΡΑΪΣΤΙ Ἀβαδδών** *(with a Greek equivalent: Ἀπολλύων)* · ✅ **16:16 τὸν τόπον τὸν καλούμενον ΕΒΡΑΪΣΤΙ Ἁρμαγεδών** *(❗ NO Greek equivalent)* · ❗ **AND NONE AT 13:18, WHERE THE 666 CALCULATION REQUIRES A HEBREW RULER (q356).** ⚠️ **BUT THE PRECISE VERSION IS WEAKER THAN IT LOOKS: BOTH FLAGGED CASES ARE JOHN *INTRODUCING A NAME*; 13:18 INTRODUCES NO NAME — IT REQUESTS A CALCULATION. DIFFERENT ACTS, SO THE ABSENCE IS SUGGESTIVE, NOT DECISIVE.** 📌 **AND 16:16 CUTS BOTH WAYS: JOHN GIVES A HEBREW NAME WITH NO GREEK EQUIVALENT, SO HE DOES EXPECT READERS TO HANDLE AN UNTRANSLATED SEMITIC FORM. ADVANCED, NOT CLOSED (q374).**
+
+> ### ★★★ **AND THE 55E DATUM IS IN HAND: ✅ **17:16 — οὗτοι ΜΙΣΗΣΟΥΣΙ τὴν πόρνην, καὶ ἠρημωμένην ΠΟΙΗΣΟΥΣΙΝ αὐτὴν καὶ γυμνήν, καὶ τὰς σάρκας αὐτῆς ΦΑΓΟΝΤΑΙ, καὶ αὐτὴν ΚΑΤΑΚΑΥΣΟΥΣΙΝ ΕΝ ΠΥΡΙ.**
+>
+> ### ❗❗ **FOUR FUTURE VERBS, THE HORNS AND THE BEAST AS SUBJECT. **THE BEAST BURNS THE WOMAN. THEY CANNOT BE ONE ENTITY IN ANY SIMPLE SENSE (q375).**
+
+**✅ HER PROFILE, HALF-BUILT: ✅ **17:3 she rides the ΘΗΡΙΟΝ ΚΟΚΚΙΝΟΝ** · ✅ **17:5 μυστήριον, ΒΑΒΥΛΩΝ ἡ μεγάλη — on her ΜΕΤΩΠΟΝ, ★ the same word the seal and mark occupy (q354)** · ✅ **17:6 drunk with the blood of ΑΓΙΩΝ and ΜΑΡΤΥΡΩΝ ΙΗΣΟΥ** · ✅ **17:18 she IS ἡ ΠΟΛΙΣ ἡ μεγάλη ruling over the kings of the earth** · ★ ✅ **18:13's cargo list ends ΣΩΜΑΤΩΝ ΚΑΙ ΨΥΧΑΣ ΑΝΘΡΩΠΩΝ.**
+
+**📌 THE BLOCKAGE IS NOW VERY PRECISE — **WHAT WERE THE BEAST, THE FALSE PROPHET, AND BABYLON, AND WHAT CONSTITUTED THEIR REMOVAL?** *A far better question than "did the millennium happen."*
+
+> ### ✍️ **MANUSCRIPT VOICE: *"The words tie sixteen to twenty, which is exactly the pair the actors say must be apart. I do not have a way to make those agree, and I am not going to pick the one I prefer... The one clean thing today was fire. Ezekiel gave John the names. But the fire that comes down and devours is not Ezekiel's sentence — it is Elijah's, five words of it, verb and all."***
 
 ---
 
