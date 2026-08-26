@@ -26,6 +26,8 @@ Ideas explored, not established facts. Held loosely, deliberately kept out of [[
 | | 2026-08-08 | 2026-08-26 |
 |---|---|---|
 | **The millennial-entrance hypothesis** | **PERMITS** | ⭐ **SUPPORTS** |
+| ⭐ **χίλια ἔτη as substantially chronological** *(added Stage 60D)* | *(unadjudicated for 58 stages)* | ⭐ **SUPPORTS** |
+| ❗ **"we are presently in the little season"** *(added Stage 60D)* | *(assumed, never graded)* | ❗ **UNDER PRESSURE — see q411** |
 
 **WHAT MOVED IT — every item below is verified in this archive and carries its own recorded grade:**
 - ✅ **Matthew 24 sits inside a first-century generation horizon** — **HIGH**
@@ -45,6 +47,9 @@ Ideas explored, not established facts. Held loosely, deliberately kept out of [[
 > ### 📐 **PF-01 IS HELD AT *SUPPORTS*: THE ACCUMULATED TEXTUAL EVIDENCE FAVOURS A FIRST-CENTURY ESCHATOLOGICAL TRANSITION INTO REVELATION 20's REIGN, AND EXPLAINS MORE OF THE DATA MORE NATURALLY THAN THE ALTERNATIVES EXAMINED.**
 >
 > ### 🛑 **WHAT PF-01 DOES *NOT* INCLUDE, AND MAY NOT BE READ AS INCLUDING: a specific commencement year · that the thousand years are literal calendar years · a historical terminus · that we are presently in the little season · and NOTHING from the quarantined chronology branch (q324, q325).**
+
+
+> ### ❗❗❗ **AND THE STAGE 60D CONSEQUENCE, RECORDED WHERE IT COSTS SOMETHING: THE TWO FINDINGS AT *SUPPORTS* NOW SQUEEZE THE THIRD. PF-01 + A CHRONOLOGICAL χίλια ἔτη PUTS THE TERMINUS NEAR THE ELEVENTH CENTURY — LEAVING ~950 YEARS TO BE CALLED **μικρὸν χρόνον** IMMEDIATELY AFTER A PERIOD CALLED **χίλια ἔτη**. THAT IS NOT "long versus short"; IT IS "a thousand versus nine hundred and fifty." **OPTION (c) — WE ARE NOT PRESENTLY IN THE LITTLE SEASON — IS NOW UNDER LEAST PRESSURE, AND NO OPTION IS SELECTED (q395, q411).**
 
 ### 🔁 THE REOPENING RULE *(adopted with PF-01)*
 

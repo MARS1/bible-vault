@@ -121,8 +121,9 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **58½** | **🔍🔑 The Gap Audit — THE BLOCKER IS THE NUMBER, AND THE PLAN IS REORDERED** | **[[03i-the-gap-audit-what-actually-remains]]** |
 | **59** | **⏳🔑🔑 How Long Can the Little Season Be? — THE FOUR-WAY CONSTRAINT, and a verse read halfway** | **[[03j-how-long-is-the-little-season]]** |
 | **60C** | **🗡️🔑🔑 Ezekiel 38–39 and the Gog Fingerprint — THE FIRE IS ELIJAH'S, 4 TO 1** | **[[03k-ezekiel-38-39-and-the-gog-fingerprint]]** |
-| **60½** | *(next)* **📌 Three short sweeps — σεισμὸς μέγας in Revelation · Matthew 24:6–9 · ψυγήσεται** | — |
-| **61** | *(then, THE GATE)* **🔢 What Is χίλια ἔτη? — literal, symbolic, or undetermined** | — |
+| **60D** | ⭐⭐⭐ **χίλια ἔτη — THE GATE OPENS, AND THE BILL COMES DUE** | **[[03l-chilia-ete-the-gate]]** |
+| **60½** | *(next)* **📌 Three owed sweeps — σεισμὸς μέγας · Matthew 24:6–9 · ψυγήσεται · Rev 6:11** | — |
+| **61** | *(then — THE HISTORICAL TEST, at last)* **🏛️ What Happened Around the Expected Terminus? — ~900–1150, ordinary chronology, starting from [[07-deferred-historical-register]]** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2749,6 +2750,44 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **✅ ALSO ADOPTED FROM THE TRANCHE: §1's Ezekiel progression *(preparation → mustering → movement → invasion → encirclement → destruction)*, which matches q396's three-condition frame and shows the little season PERMITS development · §2's honesty that John gives no timestamps in either direction · §11's earthquake conclusion, which lands where q397 did.**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"So the fire is the one thing John did not take from Ezekiel. He took the names and wrote the sentence from somewhere else... Ezekiel's Gog chapter contains an earthquake, and in Greek it is called a great shaking — two words, sitting in the exact passage John is quarrying. He does not use them. I have refused to say what that means until someone looks."***
+
+---
+
+## Stage 60D — ⭐⭐⭐ χίλια ἔτη: THE GATE OPENS, AND THE BILL COMES DUE *(current)*
+
+**File:** [[03l-chilia-ete-the-gate]] · **The test was fixed at q390 BEFORE the answer was known. ❗ The incoming tranche argued well and never ran it. IT WAS RUN.**
+
+> ### ★★★★★ **q390 ANSWERED — A CLEAN NEGATIVE. An exhaustive sweep of all 22 chapters: **DOES REVELATION EVER ATTACH A NUMBER TO SOMETHING THAT CANNOT BE COUNTED OR MEASURED?** ### ❌ **ABSENT. NOT ONCE.** Days, months, years, hours, stadia, cubits, angels, seals, elders, gates, horns — **every number in Revelation is fastened to something countable or measurable, even when the number carries obvious symbolic weight (q404).** ✅ **Nine distinct durations catalogued.**
+
+> ### ★★★★★ **AND THE DECISIVE DATUM WAS ONE NOBODY HAD. ✅ **Revelation 21:17 — ἑκατὸν τεσσεράκοντα τεσσάρων πηχῶν, ΜΕΤΡΟΝ ΑΝΘΡΩΠΟΥ, Ο ΕΣΤΙΝ ΑΓΓΕΛΟΥ** — *"144 cubits, a HUMAN measurement, which is an angel's."*
+>
+> ### ❗❗❗ **JOHN INTERRUPTS HIS OWN VISION TO SPECIFY THAT THE NUMBER IS IN ORDINARY HUMAN UNITS — in a chapter where a city descends out of heaven and an ANGEL measures it with a GOLDEN ROD. **A WRITER USING NUMBERS AS PURE SYMBOL HAS NO REASON TO CLARIFY HIS UNITS (q405).**
+>
+> ### ★★ **AND IT IS NOT ISOLATED: ✅ 13:18's **ἀριθμὸς γὰρ ΑΝΘΡΩΠΟΥ ἐστίν** is the same idiom. **TWO PLACES WHERE JOHN ATTACHES ἀνθρώπου TO A NUMBER OR MEASURE.** 📌 That does not settle q360 — but it shows the *"human reckoning"* reading is demonstrably available in John's own vocabulary (q406).**
+
+**★★★★ THE ARTICLE PATTERN, AND IT IS PERFECTLY ALTERNATING: **ANARTHROUS** when the duration is INTRODUCED — ✅ 20:2 *ἔδησεν αὐτὸν χίλια ἔτη* · ✅ 20:4 · ✅ 20:6. **ARTICULAR** every time it is REFERRED BACK TO AS A COMPLETED WHOLE — ✅ 20:3 · ✅ 20:5 · ✅ 20:7, **and all three articular occurrences ARE the completion clauses**, all using ✅ **ΤΕΛΕΣΘῌ**, identical aorist passive subjunctive. *(⚠️ One difference recorded: 20:3 and 20:5 use ἄχρι; 20:7 uses ὅταν.)* **📐 THAT IS HOW A WRITER HANDLES A DEFINITE BOUNDED PERIOD — name it, then refer back to *THE* period. Not how one handles an indefinite "long while" (q407).**
+
+**⚠️ AND THE BRAKE APPLIED AGAINST OUR OWN BEST MATERIAL: ✅ 11:2 and 13:5 give **forty-two months**; ✅ 11:3 and 12:6 give **1,260 days**. **42 × 30 = 1,260 — the arithmetic is real.** ❗ **BUT REVELATION NEVER EQUATES THEM. Not in one verse, not anywhere. THE CONVERSION IS AN INFERENCE WE PERFORM.** 🛑 **Recorded as SUGGESTIVE, NOT DEMONSTRATIVE — it would have been easy to bank "Revelation converts between units" as proof. It does not convert. It uses both (q408).**
+
+**✅ AND THREE OF THE TRANCHE'S ARGUMENTS SURVIVE INDEPENDENTLY: ★ **§8 is the strongest and it is new** — the millennium is NUMBERED six times, the release is NOT numbered at all *(μικρὸν χρόνον)*; if both were indefinite, why quantify one and merely characterize the other? · ✅ **§6's control is logically valid** — twelve carries enormous symbolic weight AND there were twelve apostles, so **symbolic significance does not yield non-literal quantity** · ✅ **§7's counter-control is adopted** — six repetitions do NOT establish 365,242 days; **no calendar system, inclusive/exclusive convention or rounding rule is supplied.**
+
+> ### ★★★ **PSALM 90:4 — THE READER'S QUESTION, AND IT SETTLES ITSELF. ✅ ZERO PRIOR COVERAGE IN THIS ARCHIVE.** ✅ **LXX — ὅτι χίλια ἔτη ἐν ὀφθαλμοῖς σου ΩΣ Η ΗΜΕΡΑ Η ΕΧΘΕΣ ἥτις διῆλθεν, ΚΑΙ ΦΥΛΑΚΗ ΕΝ ΝΥΚΤΙ.**
+>
+> ### ❗❗ **THE THOUSAND YEARS IS COMPARED TO ***TWO DIFFERENT THINGS IN ONE VERSE*** — *"yesterday when it has passed"* AND *"a watch in the night."* **A NIGHT WATCH IS A FEW HOURS; YESTERDAY IS A DAY. A "CONVERSION FORMULA" READ OUT OF THIS VERSE WOULD YIELD TWO DIFFERENT EXCHANGE RATES INSIDE ONE SENTENCE.**
+>
+> ### 📐 **THAT IS NOT A FORMULA FAILING — IT IS A TEXT THAT WAS NEVER DOING ARITHMETIC. And the psalm's own request confirms it: *"teach us to number our days"* (q409).**
+
+**✅ AND 2 PETER CONFIRMS IT FROM THE OTHER SIDE: ✅ **μία ἡμέρα παρὰ κυρίῳ ΩΣ χίλια ἔτη καὶ χίλια ἔτη ΩΣ ἡμέρα μία** — **ΩΣ IN BOTH HALVES, VERIFIED.** ❗ **As a conversion formula it runs BOTH DIRECTIONS and is immediately self-cancelling.** ✅ And Peter's argument is patience, not measurement: **οὐ ΒΡΑΔΥΝΕΙ … ἀλλὰ ΜΑΚΡΟΘΥΜΕΙ … εἰς ΜΕΤΑΝΟΙΑΝ.** ★ **AND A DATUM THE TRANCHE MISSED: ✅ 3:4's mockers ask *Ποῦ ἐστιν ἡ ἐπαγγελία τῆς ΠΑΡΟΥΣΙΑΣ αὐτοῦ;* — THEY USE παρουσία, the word carrying Paul's entire chain (q410).** ⚠️ *And the reader's extension is filed honestly: 3:9 ties the patience to repentance; it does NOT say "waiting for people not yet born." That is his, not Peter's.*
+
+> ### ⭐⭐⭐ **THE VERDICT: χίλια ἔτη CARRIES SUBSTANTIAL CHRONOLOGICAL FORCE — RECORDED AT *SUPPORTS*.** ❌ **NOT ESTABLISHED: exactly 1,000 solar years · that any particular year is Year 1 · that John equates 42 months with 1,260 days.**
+>
+> ### ❗❗❗ **AND NOW q395's BILL COMES DUE — AND THE GATE OPENING IS *BAD* NEWS FOR THE MODEL, NOT GOOD. PF-01 at SUPPORTS **plus** χίλια ἔτη at SUPPORTS PUTS THE TERMINUS IN THE ELEVENTH-CENTURY NEIGHBOURHOOD — LEAVING ROUGHLY **NINE HUNDRED AND FIFTY YEARS** TO BE CALLED **μικρὸν χρόνον**, IMMEDIATELY AFTER A PERIOD THE TEXT CALLS **χίλια ἔτη**.**
+>
+> ### **THAT IS NOT "long versus short." IT IS "a thousand years versus nine hundred and fifty." **THE VERY ASYMMETRY §8 USED TO ARGUE FOR THE CHRONOMETRIC READING IS DESTROYED BY THAT ARITHMETIC.**
+>
+> ### 🛑 **SO OPTION (c) — *WE ARE NOT PRESENTLY IN THE LITTLE SEASON* — IS NOW THE OPTION UNDER LEAST PRESSURE, AND IT IS NOT THE ONE ANYONE WAS HOPING FOR. **NO OPTION IS SELECTED (q411).**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"An angel measures the city with a golden rod, and John gives the wall as a hundred and forty-four cubits — and then stops, mid-vision, to say that this is a human measurement... A man using numbers purely as symbols does not stop to explain his units. So the gate opens. And that is the worst possible outcome for what we were hoping to find... The argument I was leaning on to make the number matter is the argument that now says we cannot be standing where I thought we were standing."***
 
 ---
 
