@@ -118,7 +118,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **56** | **🚪🔑🔑 The Millennium Entrance Gate — THE PRECHECK WORKED ON FIRST USE** | **[[03f-the-millennium-entrance-gate]]** |
 | **57** | **🌍🔑🔑 Binding: Gospel Access or Something Narrower? — THE BINDING CANNOT DATE ANYTHING** | **[[03g-binding-access-or-something-narrower]]** |
 | **58** | ⭐⭐ **The Standard of Proof, and PF-01 — PERMITS → SUPPORTS. THE TRANCHE CLOSES.** | **[[03h-the-standard-of-proof]]** |
-| **59** | *(next)* **🏛️ What Does Revelation Say the Thousand Years Are Like? — FORWARD from PF-01, citing [[01h-who-is-alive-during-and-after-the-thousand-years]]** | — |
+| **58½** | **🔍🔑 The Gap Audit — THE BLOCKER IS THE NUMBER, AND THE PLAN IS REORDERED** | **[[03i-the-gap-audit-what-actually-remains]]** |
+| **59** | *(next)* **🔢 What Is χίλια ἔτη? — literal, symbolic, or undetermined. IT GATES EVERYTHING** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
