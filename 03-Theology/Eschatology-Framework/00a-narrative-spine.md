@@ -113,7 +113,9 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **55B** | **⚖️🔑🔑 The First Candidate on Trial — 666 IS NOT A UNIQUE IDENTIFIER** | **[[03b-the-first-candidate-on-trial]]** |
 | **55C** | **🐑🔑🔑 The Land Beast and the False Prophet — 35 OCCURRENCES, ZERO TERRITORIAL** | **[[03c-the-land-beast-and-the-false-prophet]]** |
 | **55D** | **⚔️🔑🔑 Three Gatherings, or One? — THE EVIDENCE CLASSES SPLIT** | **[[03d-three-gatherings-or-one]]** |
-| **55E** | *(next)* **👑 Why Does the Beast Destroy the Woman? — Babylon's fingerprint, no candidate** | — |
+| **55E** | ❌ **NOT WRITTEN — RECAP / CROSS-REFERENCE ONLY.** Its ground was already covered at **Stage 43** | **[[02f-revelation-17-18-babylon-the-great-rome-jerusalem-or-something-more-complex]]** |
+| **55F** | **🔍🔑🔑 The Redundancy Audit — ZERO CITATIONS, and the archive indicts itself** | **[[03e-the-redundancy-audit]]** |
+| **56** | *(next, RESCOPED)* **📅 What Would MOVE the Dating Fork? — not "when was Revelation written"; Stage 40½ built that fork already** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2588,6 +2590,34 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **📌 THE BLOCKAGE IS NOW VERY PRECISE — **WHAT WERE THE BEAST, THE FALSE PROPHET, AND BABYLON, AND WHAT CONSTITUTED THEIR REMOVAL?** *A far better question than "did the millennium happen."*
 
 > ### ✍️ **MANUSCRIPT VOICE: *"The words tie sixteen to twenty, which is exactly the pair the actors say must be apart. I do not have a way to make those agree, and I am not going to pick the one I prefer... The one clean thing today was fire. Ezekiel gave John the names. But the fire that comes down and devours is not Ezekiel's sentence — it is Elijah's, five words of it, verb and all."***
+
+---
+
+## Side Branch 55F — 🔍🔑🔑 The Redundancy Audit: ZERO CITATIONS *(current)*
+
+**File:** [[03e-the-redundancy-audit]] · **The reader asked *"didn't we already do this — which chapters, and why again?"* ❗ **THE ANSWER WAS NOT TAKEN FROM ANYONE'S MEMORY. THE FILES WERE READ.** *(No agent dispatched. No verse fetched. `ls` and `grep` only.)*
+
+> ### ❗❗❗ **THE FINDING: STAGES 55A, 55B, 55C AND 55D CONTAIN ***ZERO*** CITATIONS OF THE ARCHIVE'S EARLIER REVELATION WORK — not one reference to 02b, 02c, 02e, 02f or 02g across four consecutive stages.**
+
+**📁 WHAT THE ARCHIVE ALREADY HELD, WRITTEN BEFORE STAGE 55 BEGAN: ✅ **STAGE 40** *(407 lines)* — Revelation 13, the mark, and 666, **including "Nero becomes a serious candidate — and ONLY a candidate," "Why the variant is methodologically beautiful," "The image — Daniel 3 joins Daniel 7," "The mark — and Deuteronomy comes before microchips," and a 🆕 Covenantal Mark Priority rule.** · ✅ **STAGE 40½** *(231 lines)* — Nero, the apostles, the martyrs, **with "the 42 months is where arguments become suspiciously tidy," "Evidentiary tiers — DO NOT FLATTEN," and a THREE-HYPOTHESIS FORK on Revelation's date.** · ✅ **STAGE 43** *(365 lines)* — **"Babylon the Great: Rome, Jerusalem, or Something More Complex,"** with **🔑🔑 "WOMAN ≠ BEAST," Ezekiel 16 tabulated beside Revelation 17, 18:24 landing on Matthew 23, a BABYLON CANDIDATE MATRIX, a Composite-Symbol rule, and ✅ 17:9, 17:16, 17:18, 18:24, Ezek 16:37–39, Isa 47:7–9, Matt 23:35 and Rev 11:8 ALL VERIFIED.**
+
+**🛑 THE ACCOUNTING: 55B's Nero framing ≈ Stage 40 §15–17 + 40½ · 55B's 616 point ≈ Stage 40 · 55C's Daniel 3 ≈ Stage 40 §10 · 55A's hand/forehead (q354) ≈ Stage 40's Covenantal Mark Priority · 55D's 17:16 ≈ **Stage 43 §4, already marked 🔑🔑 as THE structural datum** · **55E's ENTIRE Babylon contest ≈ Stage 43 in full.**
+
+> ### ❗❗ **AND THE SHARPEST INSTANCE IS MY OWN. AT q349 I FLAGGED, AS A NEW BREACH, THAT A CANDIDATE HAD BEEN NAMED WITH SEVEN-HILLS EVIDENCE INSIDE A PROFILE STAGE. ✅ **STAGE 43 §3 HAD ALREADY FLAGGED IT — ⚠️ *"historical claim — NOT sourced; requires ledger entry"* — AND NUMBERED IT q194.**
+>
+> ### 🛑 **SO q349 IS A RE-DERIVATION OF q194. THE AUDIT INDICTS THE AUDITOR, AND SAYS SO (q377).**
+
+**✅ THE HONEST OTHER HALF — WHAT STAGE 55 GENUINELY ADDED. ★★ **DEBTS PAID: Stage 40's own q168 listed Daniel 3, Rev 17:9–11, and Rev 7:3/14:1 as OPEN — 55A and 55C retrieved all of them.** ★★★ **AND THESE ARE NEW, NONE APPEARING IN 40, 40½ OR 43: q346** *(Rev 13:7 tracks Theodotion against the OG, with the Aramaic עִם closing the loop)* **· q347** *(both recensions read βασιλεῖαι at Dan 7:17)* **· q364** *(the γῆ sweep — 35, zero territorial)* **· q365** *(the four-element βάλλω/πυρός/καιομέν- formula, inverted)* **· q366** *(RC-01 discharged; THREE gatherings; 16:14 ≡ 20:8)* **· q371–372** *(the three-way split and the evidence-class conflict)* **· q373** *(Rev 20:9 fusing Ezekiel's names with Elijah's fire)* **· q374** *(the Ἑβραϊστί sweep)* **· q355–358** *(CC-01, and ΤΕΙΤΑΝ/ΛΑΤΕΙΝΟΣ/ΕΥΑΝΘΑΣ all = 666)* **· q370** *(the v5.5 fix, measured)*. **📐 SO 55A, 55C AND 55D WERE ROUGHLY HALF NEW; 55B's FRAMING WAS REDUNDANT BUT ITS ARITHMETIC WAS NOT; **55E WAS ALMOST ENTIRELY REDUNDANT AND IS NOT WRITTEN.**
+
+> ### ❗❗❗ **ROOT CAUSE — AND IT IS THE THIRD INSTANCE OF ONE FAILURE: **q246** *(the Theodotion clue sat in the ledger unread for three stages)* · **q313** *(Stage 39 audited 12:12 against 20:3 without checking 6:11)* · **NOW THIS** *(Stages 40, 40½ and 43 re-derived across five stages, zero citations)*.
+>
+> ### **THE PATTERN IS NOT "AGENTS FAIL." IT IS THAT ***THE ARCHIVE IS NOT CONSULTED BEFORE NEW WORK BEGINS.*** THE INFORMATION WAS PRESENT AND CORRECT EVERY TIME — 110+ FILES, 375 NUMBERED QUESTIONS, AND A STAGE INDEX NOBODY OPENED.**
+
+**🆕 THE FIX — MANDATORY ARCHIVE PRECHECK, STATED IN EVERY STAGE'S LOCALIZATION FIELD: **(1)** read the Stage Index · **(2)** grep the file listing for the subject · **(3)** grep the 375 open questions · **(4)** if a prior stage exists, READ ITS HEADINGS AND VERDICTS FIRST · **(5)** state the result whether or not anything was found. 🛑 **AND THE CONSEQUENCE RULE: IF A PRIOR STAGE COVERED THE GROUND, THE NEW STAGE MUST CITE IT AND STATE WHAT IS NEW — OR IT MUST NOT BE WRITTEN.** 📌 *This is v4.7's* verify against the files, not the report, *turned inward. The rule existed for agents' claims. It did not exist for our own (q376).*
+
+**↩️ COURSE CORRECTION: ❌ **55E is not written.** ⚠️ **AND STAGE 56 IS RESCOPED BEFORE IT OPENS** — the proposal was a full early-vs-late dating study, but **Stage 40½ already built the A/B/C fork and Stage 43 already tightened the hinge twice.** **THE REMAINING QUESTION IS NARROWER: *what would MOVE that fork?* — and the archive already names the items: ❗ **q362** *(Irenaeus 5.30.3, unread, five rungs failed)* · ⚠️ **q351** *(the vantage is unfixed)* · ⚠️ **q194/q377** *(seven hills STILL unsourced)* · 🛑 **Stage 43's own number-fitting trap** (q378).
+
+> ### ✍️ **MANUSCRIPT VOICE: *"I spent five stages walking back to it and calling each step a discovery... Two stages ago I criticised a piece of reasoning for naming a candidate inside a profile-building stage. That same objection is in the older file, made first, numbered q194. So I did not catch a lapse. I repeated one, and then congratulated myself for noticing."***
 
 ---
 

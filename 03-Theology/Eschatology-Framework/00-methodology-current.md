@@ -6,7 +6,7 @@ tags: [methodology, epistemology, exegesis, ingestion-protocol, governance]
 reference:
 created: 2026-08-12
 status: active
-version: "5.5 — 2026-08-25, current at Stage 55C (established 1.0 at Stage 16, 2026-08-12)"
+version: "5.6 — 2026-08-25, current at Side Branch 55F (established 1.0 at Stage 16, 2026-08-12)"
 related: "[[00-index]], [[00a-narrative-spine]], [[00b-biblical-epistemology]]"
 ---
 
@@ -1636,6 +1636,35 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 🔍 MANDATORY ARCHIVE PRECHECK *(added v5.6 — after the THIRD instance of one failure)*
+
+> **Before any new stage is written, and before any retrieval is dispatched, the archive must be searched for prior treatment of the stage's subject — and the result must be stated in the stage file, whether it finds anything or not.**
+
+**THE PRECHECK, in order:**
+1. ✅ **Read the Stage Index in [[00a-narrative-spine]]** — every stage and its file.
+2. ✅ **Grep the file listing for the subject's chapter or keyword.**
+3. ✅ **Grep [[04-open-questions]]** — hundreds of numbered items, many carrying declared debts.
+4. ✅ **If a prior stage exists, READ ITS HEADINGS AND VERDICT LINES before writing anything.**
+5. ✅ **State the precheck result in the new stage's `localization` field.**
+
+> ### 🛑 **CONSEQUENCE RULE: IF A PRIOR STAGE COVERED THE GROUND, THE NEW STAGE MUST BE REFRAMED AS AN ADVANCE ON IT — CITING IT AND STATING WHAT IS NEW — OR IT MUST NOT BE WRITTEN.**
+
+**⚠️ WARRANT — THREE INSTANCES OF THE SAME FAILURE, NOT ONE:**
+
+| # | Instance | Cost |
+|---|---|---|
+| **1** | **q246** — the clue that would have located Theodotion sat **in the ledger, unread, for three stages** | three failed retrievals |
+| **2** | **q313** — an audit compared two short-period phrases **and never checked the third** | a gap found by accident |
+| **3** | **q376** — **Stages 40, 40½ and 43 re-derived across five stages, with ZERO citations** | **most of five stages** |
+
+> ### ❗❗ **THE PATTERN IS NOT "AGENTS FAIL" OR "MEMORY DRIFTS." THE INFORMATION WAS PRESENT AND CORRECT EVERY TIME. ***THE ARCHIVE IS NOT CONSULTED BEFORE NEW WORK BEGINS.***
+>
+> ### 📌 **THIS IS *VERIFY AGAINST THE FILES, NOT THE REPORT* (v4.7) TURNED INWARD. THAT RULE ALREADY GOVERNED AGENTS' CLAIMS. IT DID NOT GOVERN OUR OWN.**
+>
+> ### ★ **AND THE AUDIT INDICTED ITS AUTHOR: q349 was written as a fresh catch and is a re-derivation of q194, made two stages earlier with the same objection and the same "NOT sourced" flag. An audit that exempts its author is a press release.**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -1661,6 +1690,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **5.6** | 2026-08-25 | **THE READER CAUGHT THE ARCHIVE REPEATING ITSELF, AND THE FILES CONFIRMED IT.** Added **MANDATORY ARCHIVE PRECHECK** with a five-step procedure and a consequence rule. ❗❗❗ **STAGES 55A–55D CONTAIN ZERO CITATIONS OF THE ARCHIVE'S EARLIER REVELATION WORK — Stage 40 (Rev 13, the mark, 666, Nero-as-candidate, the 616 variant, Daniel 3, the Covenantal Mark Priority rule), Stage 40½ (Nero, the martyrs, and a THREE-HYPOTHESIS DATING FORK) and Stage 43 (Babylon: Rome, Jerusalem, or something more complex — with WOMAN ≠ BEAST, Ezekiel 16, 18:24 ⟷ Matthew 23, and a candidate matrix) were all re-derived (q376).** ⭐ **AND THE AUDIT INDICTED ITS AUTHOR: q349 is a re-derivation of q194, same objection, same "NOT sourced" flag, two stages earlier (q377).** ✅ **THE HONEST OTHER HALF: Stage 55 discharged Stage 40's own q168 debts (Daniel 3, Rev 17:9–11, Rev 7:3 and 14:1) and produced genuinely new findings — q346, q347, q364, q365, q366, q371–374, q355–358, q370.** ❌ **55E IS NOT WRITTEN. Stage 56 RESCOPED from "when was Revelation written" to "what would MOVE the fork Stage 40½ already built" (q378).** 🛑 **THIRD INSTANCE OF THE ARCHIVE-NOT-CONSULTED FAILURE, AFTER q246 AND q313 — THE INFORMATION WAS PRESENT AND CORRECT EVERY TIME.** |
 | **5.5** | 2026-08-25 | **A SWEEP MOVED A READING FROM NEUTRAL TO BURDENED, AND THE LANE PROBLEM BECAME A BRIEF PROBLEM.** Added **CONSTRAIN THE BRIEF, DON'T JUST RECORD THE OVER-READ** *(with three mandatory brief clauses)*, **ARGUE A CLUSTER AS ONE DATUM**, and **A SWEEP CAN MOVE A READING FROM NEUTRAL TO BURDENED**. ★★★ **THE γῆ SWEEP: 35 occurrences across all 22 chapters, ZERO restricted to a named territory — so the territorial reading of 13:11 is no longer a free option (q364).** ★★★★ **DANIEL 3 IS LEXICAL, NOT THEMATIC, AND CONTAINS AN INVERSION: both recensions carry εἰκών/προσκυνέω at density (Th 11+9, OG 10+9), and ✅ Dan 3:6's ἐμβληθήσεται εἰς … τοῦ πυρὸς τὴν καιομένην matches ✅ Rev 19:20's ἐβλήθησαν εἰς … τοῦ πυρὸς τῆς καιομένης — four elements, only the vessel differing. Those who REFUSE the image in Daniel walk out; those who DEMAND it in Revelation do not (q365).** ✅✅ **RC-01 DISCHARGED and upgraded — 16:13–14 retrieved at last, and there are THREE gatherings for war, with 16:14 and 20:8 VERBATIM IDENTICAL (q366).** ✅ **16:13 names the false prophet three chapters before 19:20, with one sign-vocabulary throughout (q363).** ⚠️ **§17's premise corrected: 20:10's ὅπου clause is a TEXTUAL TIE to 19:20, not chapter order (q368).** 📊 **Neither candidate family passes — and the chronologically convenient one fails hardest, on its own tranche's rule (q369).** 🛑 **STILL NO ARITHMETIC, NO DATE, NO QUARANTINED BRANCH.** |
 | **5.4** | 2026-08-25 | **THE READER WROTE A METHODOLOGY RULE, AND THE ARITHMETIC BROKE THE ARGUMENT IT WAS MEANT TO TEST.** Added **CC-01 THE CALCULATION CONTROL** *(same letter-number system for alternative readings)*, **COMPUTE DO NOT REPEAT**, **NO SOURCE-SHOPPING**, and **A DATING QUESTION IS LOAD-BEARING THE MOMENT A CLAIM DEPENDS ON IT**. ✅ **CC-01 came from a lay question about measuring with the same ruler — and the calculation PASSES it: נרון קסר = 666, נרו קסר = 616, difference exactly 50 (q355).** ❗❗ **BUT COMPUTED IN GREEK, ΝΕΡΩΝ ΚΑΙΣΑΡ = 1337 — the identification does not PREFER the Hebrew ruler, it REQUIRES it, missing by 671 (q356).** ★★★ **AND THE EARLIEST INTERPRETER COMPUTED IN GREEK AND GOT A DIFFERENT NAME: Irenaeus proposes ΤΕΙΤΑΝ, which computes to exactly 666 — and he explicitly DECLINES to pronounce (q357).** ★★★ **666 IS NOT A UNIQUE IDENTIFIER: ΤΕΙΤΑΝ, ΛΑΤΕΙΝΟΣ and ΕΥΑΝΘΑΣ all reach it. A number many names satisfy is a FILTER, not a FINGERPRINT (q358).** ✅ **What survives is the PAIR, not the number — no other proposal explains both 666 and 616 under one ruler.** ❌ **But the spelling is NOT VERIFIED (five rungs named, q359), ἀνθρώπου is ANARTHROUS and may mean "a human number" (q360), the destruction requirement is PERMANENCE not decline (q361), and Irenaeus 5.30.3 on the date was NOT RETRIEVED and is the stage's most important debt (q362).** 🛑 **STILL NO ARITHMETIC ON THE THOUSAND YEARS.** |
 | **5.3** | 2026-08-25 | **THE BRAKE WENT ON AGAINST THE READER'S OWN CONCLUSION.** Added **THE BRAKE APPLIES SYMMETRICALLY**, **ANALYTICAL SUMMARY WORDS ARE NOT THE TEXT'S WORDS**, **ETYMOLOGY IS NOT USAGE — the diachronic form**, and a recorded **LIMIT OF THE SELF-CHECK RULE**. ★★★ **THE DECISIVE STRUCTURAL FINDING: ✅ 13:16's second beast administers the mark, ✅ 19:20 names him ὁ ψευδοπροφήτης and throws him in ΖΩΝΤΕΣ before 20:1, ✅ 20:10's ΟΠΟΥ clause places him already there when the devil arrives, and ✅ an exhaustive search of 20:1–15 for any release returns ABSENT. **SATAN IS RELEASED; HE IS NOT. SO UNDER H1, H2 AND H3 ALIKE THE MARK'S ADMINISTERING AGENT IS NOT OPERATING — AND IT REQUIRED NO IDENTIFICATION OF THE BEAST (q338).**** ★★ **WORSHIP IS PRESENT IN ALL SIX MARK PASSAGES, verified conjunction by conjunction — ✅ 14:9's THREE coordinated predicates, ✅ 20:4's THREE negatives — and ✅ 13:15's penalty for refusing worship is ΑΠΟΚΤΑΝΘΩΣΙΝ, DEATH, not economic exclusion (q339, q340).** ✅ **The citizenship control accepted WITH its limit — Paul's status pre-dates Revelation, so the principle rests on Matt 22:21 and Acts 5:29, not on Paul alone (q342).** ❗ **Revelation defines its faithful by ✅ ΤΗΡΟΥΝΤΕΣ ΤΑΣ ΕΝΤΟΛΑΣ + ΜΑΡΤΥΡΙΑ/ΠΙΣΤΙΣ ΙΗΣΟΥ — relationally, NOT by political non-participation (q343).** ✅ **ἵνα+subjunctive fixes purpose, not scope (q333).** 🏷️ **RC-01 created and fenced in the same paragraph — half-verified, may not be argued from (q335).** ✅ **Satan bound ≠ humans perfected — true under both H1 and H2, so it settles neither (q336).** ✅ **πορν- attested in both senses; dissolve neither (q345).** |
