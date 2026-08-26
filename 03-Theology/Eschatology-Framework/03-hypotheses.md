@@ -15,6 +15,45 @@ Ideas explored, not established facts. Held loosely, deliberately kept out of [[
 
 **Evidentiary strength labeling (added 2026-08-08, see [[00b-biblical-epistemology]] Model B "Test" step and ADR-0005):** for each item, the honest question isn't "can I make this fit" but whether the evidence gathered so far **contradicts**, merely **permits**, actively **supports**, or actually **requires** the hypothesis. Item 1 below (the millennial-reign/architecture connection, the core hypothesis this whole framework circles) is currently at **permits** — nothing gathered contradicts it, but nothing requires it either; the sourcing work on items 2–4 and 7 mostly documents who else believes adjacent things and why mainstream sources disagree, which doesn't move item 1 past "permits" on its own.
 
+---
+
+## ⭐ PF-01 — THE FIRST-CENTURY MILLENNIAL ENTRANCE *(recorded 2026-08-26, Stage 58)*
+
+> ### **THE CORE ESCHATOLOGICAL HYPOTHESIS HAS MOVED ONE FULL TIER ON THIS FILE'S OWN PRE-EXISTING SCALE.**
+
+**THE SCALE WAS FIXED ON 2026-08-08 — see the paragraph above — BEFORE THE INVESTIGATION KNEW WHERE IT WOULD GO: does the evidence **CONTRADICT · PERMIT · SUPPORT · REQUIRE**?**
+
+| | 2026-08-08 | 2026-08-26 |
+|---|---|---|
+| **The millennial-entrance hypothesis** | **PERMITS** | ⭐ **SUPPORTS** |
+
+**WHAT MOVED IT — every item below is verified in this archive and carries its own recorded grade:**
+- ✅ **Matthew 24 sits inside a first-century generation horizon** — **HIGH**
+- ✅ **Matthew 24 ⟷ 2 Thessalonians 2 as one event complex** — **PROBABLE** *(survived a genuine sequence-falsification test; two lexical links, ἀνομία and σημεῖον/τέρας)*
+- ✅ **One Pauline παρουσία–resurrection–gathering complex** — **HIGH** *(1 Thess 4 ⟷ 1 Cor 15 at VERY HIGH; 2 Thess 2's joint weaker, and said so)*
+- ✅ **The Pauline complex ⟷ Revelation 20's first resurrection** — **PROBABLE** *(structural correspondence VERY STRONG; lexical overlap ZERO, and recorded as zero)*
+- ✅ **Satan's binding interval = the saints' reigning interval** — **VERY HIGH**
+- ✅ **The martyr trajectory from 6:11's πληρωθῶσιν to 20:4's ἔζησαν** — **STRONG**
+- ✅ **Jerusalem's destruction as an unmistakable first-century judgment marker** — **DEMONSTRABLE HISTORICAL FACT** *(its millennial relationship: still NOT established, per [[07-deferred-historical-register]])*
+
+**WHAT KEEPS IT BELOW *REQUIRES*, STATED PLAINLY:**
+- ❗ **q384 — Satan's binding cannot carry the dating burden;** its signature is satisfied by nearly any pre-Gog century
+- ❗ **The first resurrection therefore carries the entire dating weight alone,** and it is the component leaving the fewest traces
+- ❌ **The beast and false prophet remain unidentified (q332)**
+- ❌ **q362 — Irenaeus 5.30.3 still unread** · ❌ **q194/q377 — the seven-hills claim still unsourced**
+
+> ### 📐 **PF-01 IS HELD AT *SUPPORTS*: THE ACCUMULATED TEXTUAL EVIDENCE FAVOURS A FIRST-CENTURY ESCHATOLOGICAL TRANSITION INTO REVELATION 20's REIGN, AND EXPLAINS MORE OF THE DATA MORE NATURALLY THAN THE ALTERNATIVES EXAMINED.**
+>
+> ### 🛑 **WHAT PF-01 DOES *NOT* INCLUDE, AND MAY NOT BE READ AS INCLUDING: a specific commencement year · that the thousand years are literal calendar years · a historical terminus · that we are presently in the little season · and NOTHING from the quarantined chronology branch (q324, q325).**
+
+### 🔁 THE REOPENING RULE *(adopted with PF-01)*
+
+> **The first-century foundation is not relitigated unless later evidence MATERIALLY CONTRADICTS it. New work advances from PF-01 as a premise, citing it. Restating its case again is not advancement.**
+
+**⚠️ Warrant: five consecutive stages re-derived Stages 40, 40½ and 43 with zero citations (q376). Without this rule the same loop returns — and the archive has now demonstrated it will.**
+
+---
+
 1. Some monumental architecture (see [[02-historical-observations]]) may have originated during or around the millennial reign described in Revelation 20.
 2. Advanced technology may have existed in earlier civilizations and later been lost or deliberately suppressed (the "Tartaria" theory — includes claims of buildings functioning as free-energy/wireless-power towers, evidenced by period photographs predating any plausible photo-doctoring capability).
    **Sourced (researched 2026-08-08):** Traced to Anatoly Fomenko (Russian mathematician, Moscow State University), whose "New Chronology" theory from the 1970s proposed a "Great Tartaria" empire spanning the earth erased from history. Popularized in esoteric circles by Nikolai Levashov (1961–2012) through the 70s–80s. Exploded as an internet phenomenon from 2016 onward — r/Tartaria (45,000+ members), r/tartarianarchitecture, a 129,000+ member Facebook group, and dedicated YouTube/TikTok content (2.5M+ views). Mainstream historians treat "Tartary" as a vague 18th–19th-century European cartographic label for Central Asian/Siberian regions, not a unified advanced civilization — the Russian Geographical Society has explicitly called the modern theory an "extremist fantasy." Sources: Wikipedia "Anatoly Fomenko," "New Chronology (Fomenko)," "Nikolai Levashov"; All That's Interesting; Factually.co fact-checks.

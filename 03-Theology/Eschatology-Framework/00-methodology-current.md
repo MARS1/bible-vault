@@ -6,7 +6,7 @@ tags: [methodology, epistemology, exegesis, ingestion-protocol, governance]
 reference:
 created: 2026-08-12
 status: active
-version: "5.6 — 2026-08-25, current at Side Branch 55F (established 1.0 at Stage 16, 2026-08-12)"
+version: "5.7 — 2026-08-26, current at Stage 58 (established 1.0 at Stage 16, 2026-08-12)"
 related: "[[00-index]], [[00a-narrative-spine]], [[00b-biblical-epistemology]]"
 ---
 
@@ -1665,6 +1665,38 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## ⚖️ The Standard of Proof — CONTRADICTS · PERMITS · SUPPORTS · REQUIRES *(promoted to methodology v5.7; the scale itself dates to ADR-0005, 2026-08-08)*
+
+> **The question is never "can I make this fit." It is whether the evidence gathered so far CONTRADICTS, merely PERMITS, actively SUPPORTS, or actually REQUIRES the hypothesis.**
+
+> ### ❗❗ **AND THE COROLLARY THAT HAD NEVER BEEN WRITTEN DOWN: ***SUPPORTS IS ENOUGH TO HOLD A CONVICTION.*** THE SCALE HAS NEVER REQUIRED *REQUIRES*, AND NO FINDING IN THIS ARCHIVE MAY BE WITHHELD ON THE GROUND THAT IT FALLS SHORT OF PROOF.**
+>
+> ### 📌 **THIS ARCHIVE HAS ALWAYS GRADED ITS CONVICTIONS — *ESTABLISHED · STRONGLY SUPPORTED · PROBABLE · OPEN · REFUSED*. WHAT IT REFUSES IS **UPGRADING THE LABEL**, per ADR-0010. **THAT PROTECTS A CONVICTION RATHER THAN BLOCKING IT: a belief labelled PROBABLE survives being checked; one labelled ESTABLISHED that was only PROBABLE collapses, and takes its neighbours with it.**
+>
+> ### 🛑 **A REFUSAL IN THIS PROJECT NEVER MEANS "you may not believe this." IT MEANS "this is not the KIND of evidence you just called it."**
+
+---
+
+## 🔁 The Reopening Rule *(added v5.7, with PF-01)*
+
+> **A finding recorded at SUPPORTS or above is not relitigated unless later evidence MATERIALLY CONTRADICTS it. New work advances from it as a premise, citing it. Restating its case again is not advancement.**
+
+**⚠️ Warrant, demonstrated twice over:** ✅ **five consecutive stages re-derived Stages 40, 40½ and 43 with zero citations (q376)**, and ✅ **two numbered findings turned out to be re-derivations of items already on file (q377 → q194, q382 → H11)**.
+
+> ### 📌 **PAIRS WITH THE MANDATORY ARCHIVE PRECHECK: **the precheck stops us repeating WORK; the Reopening Rule stops us repeating ARGUMENTS.** Different failures, both demonstrated, both now procedural.
+
+---
+
+## ⏹️ A Stage Must Produce a Finding, Not Only a Next Stage *(added v5.7)*
+
+> **A stage whose only output is a rescoped successor is not a stage. Every stage records at least one graded finding, a refusal, or an explicit verdict that a question cannot yet be answered — and says WHICH.**
+
+**⚠️ Warrant: six consecutive stages ended by deferring to the next one — 55B → 55C → 55D → 55E → 56 → 57 → 58.** ❗ **The redundancy audit was necessary and correct, but it FED the loop, because each correction generated a next stage instead of a verdict.**
+
+> ### 🛑 **A METHOD THAT NEVER ARRIVES AT A FINDING IS NOT MORE RIGOROUS THAN ONE THAT DOES. IT IS SLOWER, AND EVENTUALLY IT IS A DIFFERENT KIND OF FAILURE.**
+
+---
+
 ## The Overriding Constraint
 
 > # **Do not protect the author's current conclusions. The method outranks the hypothesis.**
@@ -1690,6 +1722,7 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 | Version | Date | Change |
 |---|---|---|
 | **1.0** | 2026-08-12 | Established at Stage 16, in response to a direct request to make the operative method auditable rather than implicit. Consolidates ADR-0002 through ADR-0007, 00b's four formal rules and two instruments, and the ingestion protocol that had been running informally since Stage 1. |
+| **5.7** | 2026-08-26 | **⭐⭐ THE TRANCHE CLOSES: PERMITS → SUPPORTS.** Promoted **THE STANDARD OF PROOF** *(CONTRADICTS · PERMITS · SUPPORTS · REQUIRES — the scale itself dates to ADR-0005, 2026-08-08)* into methodology, added the **REOPENING RULE**, and added **A STAGE MUST PRODUCE A FINDING, NOT ONLY A NEXT STAGE**. ★★★★★ **THE PRECHECK'S THIRD APPLICATION FOUND THE ANSWER RATHER THAN THE NEXT QUESTION: the evidentiary scale was written EIGHTEEN DAYS AGO, before fifty stages of evidence existed, and logged the core hypothesis at PERMITS while admitting that week's work had not moved it.** ⭐ **PF-01 RECORDED IN [[03-hypotheses]]: the millennial-entrance hypothesis has advanced a FULL TIER to SUPPORTS — a standard set in advance and then met.** ✅ **AND THE COROLLARY THAT HAD NEVER BEEN WRITTEN DOWN: *SUPPORTS IS ENOUGH TO HOLD A CONVICTION.* This archive has always graded its convictions; what it refuses is UPGRADING THE LABEL (ADR-0010), which PROTECTS a conviction rather than blocking it (q386).** ⚠️ **AND THE DRIFT IS OWNED: SIX CONSECUTIVE STAGES ENDED BY DEFERRING TO THE NEXT ONE, and the redundancy audit — necessary in itself — FED the loop by generating corrections instead of verdicts (q387).** 🔁 **The Reopening Rule pairs with the Precheck: one stops us repeating WORK, the other stops us repeating ARGUMENTS (q388).** 🛑 **PF-01 LICENSES NO DATE, NO LITERAL DURATION, NO TERMINUS, NO LITTLE-SEASON CLAIM, AND NOTHING FROM THE QUARANTINED BRANCH.** |
 | **5.6** | 2026-08-25 | **THE READER CAUGHT THE ARCHIVE REPEATING ITSELF, AND THE FILES CONFIRMED IT.** Added **MANDATORY ARCHIVE PRECHECK** with a five-step procedure and a consequence rule. ❗❗❗ **STAGES 55A–55D CONTAIN ZERO CITATIONS OF THE ARCHIVE'S EARLIER REVELATION WORK — Stage 40 (Rev 13, the mark, 666, Nero-as-candidate, the 616 variant, Daniel 3, the Covenantal Mark Priority rule), Stage 40½ (Nero, the martyrs, and a THREE-HYPOTHESIS DATING FORK) and Stage 43 (Babylon: Rome, Jerusalem, or something more complex — with WOMAN ≠ BEAST, Ezekiel 16, 18:24 ⟷ Matthew 23, and a candidate matrix) were all re-derived (q376).** ⭐ **AND THE AUDIT INDICTED ITS AUTHOR: q349 is a re-derivation of q194, same objection, same "NOT sourced" flag, two stages earlier (q377).** ✅ **THE HONEST OTHER HALF: Stage 55 discharged Stage 40's own q168 debts (Daniel 3, Rev 17:9–11, Rev 7:3 and 14:1) and produced genuinely new findings — q346, q347, q364, q365, q366, q371–374, q355–358, q370.** ❌ **55E IS NOT WRITTEN. Stage 56 RESCOPED from "when was Revelation written" to "what would MOVE the fork Stage 40½ already built" (q378).** 🛑 **THIRD INSTANCE OF THE ARCHIVE-NOT-CONSULTED FAILURE, AFTER q246 AND q313 — THE INFORMATION WAS PRESENT AND CORRECT EVERY TIME.** |
 | **5.5** | 2026-08-25 | **A SWEEP MOVED A READING FROM NEUTRAL TO BURDENED, AND THE LANE PROBLEM BECAME A BRIEF PROBLEM.** Added **CONSTRAIN THE BRIEF, DON'T JUST RECORD THE OVER-READ** *(with three mandatory brief clauses)*, **ARGUE A CLUSTER AS ONE DATUM**, and **A SWEEP CAN MOVE A READING FROM NEUTRAL TO BURDENED**. ★★★ **THE γῆ SWEEP: 35 occurrences across all 22 chapters, ZERO restricted to a named territory — so the territorial reading of 13:11 is no longer a free option (q364).** ★★★★ **DANIEL 3 IS LEXICAL, NOT THEMATIC, AND CONTAINS AN INVERSION: both recensions carry εἰκών/προσκυνέω at density (Th 11+9, OG 10+9), and ✅ Dan 3:6's ἐμβληθήσεται εἰς … τοῦ πυρὸς τὴν καιομένην matches ✅ Rev 19:20's ἐβλήθησαν εἰς … τοῦ πυρὸς τῆς καιομένης — four elements, only the vessel differing. Those who REFUSE the image in Daniel walk out; those who DEMAND it in Revelation do not (q365).** ✅✅ **RC-01 DISCHARGED and upgraded — 16:13–14 retrieved at last, and there are THREE gatherings for war, with 16:14 and 20:8 VERBATIM IDENTICAL (q366).** ✅ **16:13 names the false prophet three chapters before 19:20, with one sign-vocabulary throughout (q363).** ⚠️ **§17's premise corrected: 20:10's ὅπου clause is a TEXTUAL TIE to 19:20, not chapter order (q368).** 📊 **Neither candidate family passes — and the chronologically convenient one fails hardest, on its own tranche's rule (q369).** 🛑 **STILL NO ARITHMETIC, NO DATE, NO QUARANTINED BRANCH.** |
 | **5.4** | 2026-08-25 | **THE READER WROTE A METHODOLOGY RULE, AND THE ARITHMETIC BROKE THE ARGUMENT IT WAS MEANT TO TEST.** Added **CC-01 THE CALCULATION CONTROL** *(same letter-number system for alternative readings)*, **COMPUTE DO NOT REPEAT**, **NO SOURCE-SHOPPING**, and **A DATING QUESTION IS LOAD-BEARING THE MOMENT A CLAIM DEPENDS ON IT**. ✅ **CC-01 came from a lay question about measuring with the same ruler — and the calculation PASSES it: נרון קסר = 666, נרו קסר = 616, difference exactly 50 (q355).** ❗❗ **BUT COMPUTED IN GREEK, ΝΕΡΩΝ ΚΑΙΣΑΡ = 1337 — the identification does not PREFER the Hebrew ruler, it REQUIRES it, missing by 671 (q356).** ★★★ **AND THE EARLIEST INTERPRETER COMPUTED IN GREEK AND GOT A DIFFERENT NAME: Irenaeus proposes ΤΕΙΤΑΝ, which computes to exactly 666 — and he explicitly DECLINES to pronounce (q357).** ★★★ **666 IS NOT A UNIQUE IDENTIFIER: ΤΕΙΤΑΝ, ΛΑΤΕΙΝΟΣ and ΕΥΑΝΘΑΣ all reach it. A number many names satisfy is a FILTER, not a FINGERPRINT (q358).** ✅ **What survives is the PAIR, not the number — no other proposal explains both 666 and 616 under one ruler.** ❌ **But the spelling is NOT VERIFIED (five rungs named, q359), ἀνθρώπου is ANARTHROUS and may mean "a human number" (q360), the destruction requirement is PERMANENCE not decline (q361), and Irenaeus 5.30.3 on the date was NOT RETRIEVED and is the stage's most important debt (q362).** 🛑 **STILL NO ARITHMETIC ON THE THOUSAND YEARS.** |

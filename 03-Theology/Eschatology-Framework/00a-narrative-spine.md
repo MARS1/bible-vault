@@ -117,7 +117,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **55F** | **🔍🔑🔑 The Redundancy Audit — ZERO CITATIONS, and the archive indicts itself** | **[[03e-the-redundancy-audit]]** |
 | **56** | **🚪🔑🔑 The Millennium Entrance Gate — THE PRECHECK WORKED ON FIRST USE** | **[[03f-the-millennium-entrance-gate]]** |
 | **57** | **🌍🔑🔑 Binding: Gospel Access or Something Narrower? — THE BINDING CANNOT DATE ANYTHING** | **[[03g-binding-access-or-something-narrower]]** |
-| **58** | *(next)* **🏛️ The First-Century Entrance Test — ❗ START FROM [[07-deferred-historical-register]]: it is H14, and it is blocked on q105** | — |
+| **58** | ⭐⭐ **The Standard of Proof, and PF-01 — PERMITS → SUPPORTS. THE TRANCHE CLOSES.** | **[[03h-the-standard-of-proof]]** |
+| **59** | *(next)* **🏛️ What Does Revelation Say the Thousand Years Are Like? — FORWARD from PF-01, citing [[01h-who-is-alive-during-and-after-the-thousand-years]]** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2678,6 +2679,34 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **📊 THE THREE-STAGE SATAN CHRONOLOGY — components all prior work, but the ORDERED FRAME is new and worth keeping: **A** challenged during the ministry *(q317's δέω, with brakes)* · **B** cast down, **ὀλίγον καιρόν**, intensifying *(Stage 39; q213's ἔτι shows deception continued)* · **C** bound at Revelation 20 *(Stage 54's sweep + the Deception-Scope Rule)*. **THE CLEANEST STATEMENT THIS ARCHIVE HAS OF WHY *CAST DOWN ≠ BOUND* WITHOUT COLLAPSING OR SEVERING THEM (q385).**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"The next stage I was about to write is in it. Item fourteen... And the business about the letter I on old inscriptions is in there as item eleven — which I wrote up three stages ago as a fresh observation and gave a number to. That is twice now I have discovered something I had already recorded. What I did learn today cost the argument something. The binding cannot tell us when."***
+
+---
+
+## Stage 58 — ⭐⭐ The Standard of Proof, and PF-01: PERMITS → SUPPORTS *(current)*
+
+**File:** [[03h-the-standard-of-proof]] · **The reader asked when he is allowed to believe something. ❗ THE ARCHIVE ANSWERED THAT ON 2026-08-08, BEFORE IT KNEW WHERE THE INVESTIGATION WOULD GO.** *No retrieval. No agent. A verdict on evidence already gathered.*
+
+> ### ★★★★★ **THE PRECHECK'S THIRD APPLICATION FOUND THE ANSWER, NOT THE NEXT QUESTION. ✅ **[[03-hypotheses]], written 2026-08-08 under ADR-0005:** *"the honest question isn't 'can I make this fit' but whether the evidence gathered so far **CONTRADICTS**, merely **PERMITS**, actively **SUPPORTS**, or actually **REQUIRES** the hypothesis."*
+>
+> ### **AND IT LOGGED THE CORE HYPOTHESIS AT **PERMITS**, adding — against its own interest — that that week's work *"doesn't move item 1 past permits on its own."***
+>
+> ### ❗❗ **SO THE STANDARD WAS FIXED EIGHTEEN DAYS AGO, BEFORE FIFTY STAGES OF EVIDENCE EXISTED. IT IS NOT A BAR RAISED AFTER THE FACT — AND IT IS A BETTER SCALE THAN "how sure do we feel," BECAUSE IT ASKS WHAT THE EVIDENCE *DOES*.**
+
+> ### ⭐⭐ **THE VERDICT: **PERMITS → SUPPORTS.** THE HYPOTHESIS HAS ADVANCED A FULL TIER IN FIFTY STAGES, ON ITS OWN PRE-EXISTING SCALE. **RECORDED AS PF-01 IN [[03-hypotheses]].**
+>
+> ### ✅ **AND THE READER'S CENTRAL POINT IS ADOPTED: *SUPPORTS IS ENOUGH TO HOLD A CONVICTION.* THE SCALE NEVER REQUIRED *REQUIRES*, AND NOTHING IN THIS ARCHIVE EVER SAID IT DID.**
+
+**❗ THE MISUNDERSTANDING, NAMED PRECISELY: the charge is that this investigation demands proof before permitting belief. ✅ **IT DOES NOT, AND THE FILES SHOW IT.** Every ledger here grades its findings — **ESTABLISHED · STRONGLY SUPPORTED · PROBABLE · OPEN · REFUSED.** The archive says **PROBABLE** about Matthew ⟷ 2 Thessalonians, **HIGH** about Paul's internal chain, **VERY HIGH** about the shared thousand-year interval. **THOSE ARE BELIEFS WITH LABELS ON THEM.** ❗ **WHAT IT REFUSES IS UPGRADING THE LABEL — ADR-0010's *contextually favored must never become lexically established.*** 📌 **AND THAT PROTECTS THE CONVICTION RATHER THAN BLOCKING IT: a belief labelled PROBABLE survives someone checking it; one labelled ESTABLISHED that was only ever PROBABLE collapses the moment anyone checks, and takes everything shelved beside it down too. THE REFUSALS HAVE NEVER BEEN "you may not believe this" — THEY HAVE BEEN "this is not the KIND of evidence you just called it" (q386).**
+
+> ### ⚠️ **BUT THE DRIFT WAS REAL AND IT IS OWNED. SIX CONSECUTIVE STAGES ENDED BY DEFERRING TO THE NEXT ONE — 55B→55C→55D→55E→56→57→58. ❗❗ **THE REDUNDANCY AUDIT WAS NECESSARY, BUT IT ALSO *FED* THE LOOP, BECAUSE EACH CORRECTION GENERATED A NEXT STAGE INSTEAD OF A VERDICT.**
+>
+> ### 🛑 **A METHOD THAT NEVER PRODUCES A FINDING IS NOT MORE RIGOROUS THAN ONE THAT DOES. IT IS JUST SLOWER, AND EVENTUALLY IT IS A DIFFERENT KIND OF FAILURE (q387).**
+
+**🔁 THE REOPENING RULE — ADOPTED: **the first-century foundation is NOT relitigated unless later evidence MATERIALLY CONTRADICTS it. New work advances from PF-01 as a premise, citing it. Restating its case again is not advancement.** ⚠️ *Warrant: five stages re-derived Stages 40/40½/43 with zero citations (q376), and two of my own numbered findings were re-derivations of items already on file (q377, q382).* 📌 **PAIRS WITH THE MANDATORY PRECHECK: the precheck stops us repeating WORK; the Reopening Rule stops us repeating ARGUMENTS. Different failures, both demonstrated, both now procedural (q388).**
+
+**📐 AND WHAT PF-01 DOES *NOT* LICENSE, SO IT CANNOT BE MISREAD: ❌ a specific commencement year · ❌ that the thousand years are literal calendar years · ❌ a historical terminus or the little season · ❌ anything from the quarantined chronology branch *(q324/q325 — quarantined because it would invalidate the manuscript base this argument reads from, not merely because it is unproven)*. **HOLDING PF-01 FIRMLY IS EXACTLY WHAT MAKES IT POSSIBLE TO SAY SO WITHOUT LOSING ANYTHING — the uncertainty downstream does not leak upstream.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"Fifty stages later it is at 'supports.' That is the thing advancing a whole tier against a standard set before anyone knew which way it would go, which is the only kind of standard worth setting... This archive never required proof. Its ledgers say probable, and high, and very high, on almost every page. What it refuses is calling a probable thing established — and that refusal is not a wall in front of belief. It is what keeps a belief standing when somebody finally checks it."***
 
 ---
 
