@@ -123,7 +123,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **60C** | **🗡️🔑🔑 Ezekiel 38–39 and the Gog Fingerprint — THE FIRE IS ELIJAH'S, 4 TO 1** | **[[03k-ezekiel-38-39-and-the-gog-fingerprint]]** |
 | **60D** | ⭐⭐⭐ **χίλια ἔτη — THE GATE OPENS, AND THE BILL COMES DUE** | **[[03l-chilia-ete-the-gate]]** |
 | **60½** | *(next)* **📌 Three owed sweeps — σεισμὸς μέγας · Matthew 24:6–9 · ψυγήσεται · Rev 6:11** | — |
-| **61** | *(then — THE HISTORICAL TEST, at last)* **🏛️ What Happened Around the Expected Terminus? — ~900–1150, ordinary chronology, starting from [[07-deferred-historical-register]]** | — |
+| **61** | **🏛️⭐⭐ The Historical Test — NEUTRAL, AND STAGE 30 PREDICTED IT** | **[[03m-the-historical-test-and-the-neutral-result]]** |
+| **62** | *(next, NARROWED)* **📜 Does q411 Reopen a Claim Already Sourced on 2026-08-08? — plus H11, and a deliberate pass at option (e)** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2788,6 +2789,43 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 > ### 🛑 **SO OPTION (c) — *WE ARE NOT PRESENTLY IN THE LITTLE SEASON* — IS NOW THE OPTION UNDER LEAST PRESSURE, AND IT IS NOT THE ONE ANYONE WAS HOPING FOR. **NO OPTION IS SELECTED (q411).**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"An angel measures the city with a golden rod, and John gives the wall as a hundred and forty-four cubits — and then stops, mid-vision, to say that this is a human measurement... A man using numbers purely as symbols does not stop to explain his units. So the gate opens. And that is the worst possible outcome for what we were hoping to find... The argument I was leaning on to make the number matter is the argument that now says we cannot be standing where I thought we were standing."***
+
+---
+
+## Stage 61 — 🏛️⭐⭐ The Historical Test: NEUTRAL, AND STAGE 30 PREDICTED IT *(current)*
+
+**File:** [[03m-the-historical-test-and-the-neutral-result]] · **The prediction was frozen at 60D. The historical question is finally legitimate.** ⚠️ **No historical source was retrieved this stage — every particular below is REPORTED, NOT VERIFIED.**
+
+> ### ★★★★★ **THE PRECHECK OPENED [[07-deferred-historical-register]] AS q391 REQUIRED, AND IT GOVERNS EVERYTHING — ITS DESIGN WAS FIXED AT STAGE 30, BEFORE ANY BIBLICAL MODEL EXISTED TO TEST.**
+>
+> ### **① THE REQUIRED ORDER OF OPERATIONS — *Bible → textual model → THEN historical evidence.* **NEVER: interesting historical theory → search Scripture for verses that resemble it.** ✅ SATISFIED.**
+> ### **② THE GOVERNING RULE — the Compatibility–Evidence Distinction: ***COULD FIT ≠ DOES FIT ≠ PROVES.***
+> ### **③ THE RESEARCH DESIGN, SIDE BRANCH 30½ §9 — a FIVE-CATEGORY verdict: **what FITS · what DOESN'T · what is SILENT · what CONTRADICTS · what requires SPECIAL PLEADING** — because *"this prevents browsing history until something looks millennial."*
+> ### **④ AND THE OUTCOME IT NAMED IN ADVANCE: ### *"Does external history CORROBORATE, CONTRADICT, or remain NEUTRAL? ALL THREE ARE REAL ANSWERS. **NEUTRAL IS THE MOST LIKELY AND IS NOT A DISAPPOINTMENT.**"***
+>
+> ### ⚠️ **THE TRANCHE NEVER OPENED THE REGISTER AND USED AN AD-HOC SCHEME. ITS CONCLUSIONS ARE LARGELY SOUND BUT WERE RE-SCORED UNDER THE DESIGN FIXED IN ADVANCE (q412).**
+
+**📊 RE-SCORED: ✅ **FITS** — the window holds real transformation, and a demonstrated capacity for transregional ideological mobilization *(an ENABLING CONDITION for the "gathering" step, not the step itself)* · ❌ **DOESN'T** — ❗❗ **the fingerprint demands hostility CONVERGING ON YAH'S SAINTS, and the reported period runs the OTHER WAY: more overt institutional Christianization, expanding monasticism, rulers claiming Christian legitimacy. THE TRANCHE NAMED THIS ITSELF (§6)** · 🔇 **SILENT** — ★★ **nothing speaks to the ONE marker q384 left carrying the whole dating weight: a change in the condition of the faithful dead. History is the wrong evidentiary category here** · ⚡ **CONTRADICTS** — ❗❗❗ **q411's arithmetic, which is TEXTUAL not historical, and which WE generated** · 🚩 **SPECIAL PLEADING** — ★★★ **redefining "the saints" to fit; the tranche refuses it itself: *"otherwise the model becomes infinitely adjustable"*** ✅ **ADOPTED.**
+
+> ### 📐 **VERDICT: ### NEUTRAL, WITH ONE CONTRADICTION THAT IS TEXTUAL RATHER THAN HISTORICAL.**
+>
+> ### ✅ **AND STAGE 30 PREDICTED EXACTLY THIS, THIRTY-ONE STAGES AGO (q413).**
+
+**⚠️ THE COINCIDENCES ARE RECORDED AT THE RIGHT TIER — WHICH IS LOW. Reported: the Great Schism (1054) and First Crusade (1096–1099) sit near a ~1060–1070 terminus. ❗ **BUT COULD FIT ≠ DOES FIT ≠ PROVES, AND CHRONOLOGICAL PROXIMITY IS THE WEAKEST OF THE THREE.** ❗❗ **AND THE TRANCHE'S OWN OBJECTION IS DECISIVE AND ADOPTED: the crusading armies understood themselves as Christian warfare — that does not map onto *nations deceived into surrounding Yah's saints*; if anything it claims the opposite role.** *(And q403 makes it harder: a deceived actor's self-understanding can neither confirm nor supply evidence, in either direction.)* ✅ **The register's H13 ANACHRONISM WARNING already forbade the "was period X the millennium?" form — the correct form is what the five-category table above asks.**
+
+> ### ❗❗❗ **AND THE STAGE 62 PROPOSAL NEEDS TWO CORRECTIONS.**
+>
+> ### ✅ **ITS CORE ARGUMENT IS ACCEPTED: the q411 tension was generated by TWO INDEPENDENTLY GRADED FINDINGS — PF-01 and χίλια ἔτη — neither from any chronology theory. **THE QUARANTINE'S OWN CONDITION IS SATISFIED: Revelation was not used as evidence for the chronology being tested.**
+>
+> ### ⚠️ **CORRECTION ONE — q324 IS NOT ADDRESSED, AND IT IS THE HARDER GROUND. The quarantine rested on TWO: ✅ **q325, unfalsifiable by construction — NOW ANSWERABLE**, since the falsification tests were named in advance at 54¾ · ❗❗❗ **q324 — THE THEORY WOULD DELETE THE MANUSCRIPT BASE THIS ARGUMENT READS FROM.** THE TRANCHE DOES NOT MENTION IT. 🛑 **SO: THE BRANCH MAY BE *TESTED*. IT MAY NOT BE *ADOPTED* — AND NO TEST RESULT CAN RESOLVE q324, BECAUSE THE PROBLEM IS STRUCTURAL RATHER THAN EVIDENTIAL. TESTING AND ADOPTING ARE DIFFERENT ACTS (q414).**
+>
+> ### ⚠️ **CORRECTION TWO — THE BRANCH IS NOT UNRESEARCHED. ✅ [[03-hypotheses]] ITEMS 2–4 CARRY *"Sourced (researched 2026-08-08)"* WITH ORIGINATORS TRACED, POPULARIZATION DATED, AND MAINSTREAM ASSESSMENT RECORDED — AND THE REGISTER LISTS IT UNDER *"What Is Already Established"*, NOT AMONG THE DEFERRED ITEMS. **STAGE 62 IS A RE-EXAMINATION AGAINST A NEW TENSION, NOT A FIRST LOOK (q415).**
+
+**✅ WHAT *IS* GENUINELY UNRESEARCHED IS SMALLER AND SHARPER: **H11 — the numeral-convention question in its falsifiable form**, still open, still the honest version of the I/1 observation *(q326/q382)*. ✅ **AND STANDING INSTRUCTION 4 CAPS THE WHOLE EXERCISE IN ADVANCE: *"Moving an item out of the register STILL DOES NOT MAKE IT BIBLICAL EVIDENCE."* Even a favourable Stage 62 would only remove ONE objection from ONE of q395's five options.**
+
+**📐 THE FIVE OPTIONS AFTER THE TEST: **(a)** start not first-century — LIVE, but PF-01 is at SUPPORTS and the Reopening Rule protects it · **(b)** the number is not chronological — ❗ **now at SUPPORTS AGAINST** · **(c)** we are not in the little season — ★ **still under LEAST pressure, and Stage 61 did not relieve its rivals** · **(d)** chronology does not correspond — ⚠️ **testable now, adoptable never** · **(e)** an unidentified premise is wrong — ◻️ **LIVE AND UNDER-EXAMINED.** ★ **q416: (e) is the ONLY option with no natural advocate — (a) threatens PF-01, (b) was just graded against, (c) is uncomfortable, (d) is exciting. **(e) is merely humbling, and therefore gets no attention — which is exactly why it needs a deliberate pass.**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"It says: fix the biblical model first, then ask what fits, what doesn't, what is silent, what contradicts, and what requires special pleading. Five columns, written before anybody knew what would go in them... Neutral is what came back... And the one thing that actually contradicts us is not in the history at all. It is the sum. We produced that ourselves, out of two findings we were pleased with. I would rather have that than a coincidence I could dress up."***
 
 ---
 
