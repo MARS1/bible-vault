@@ -28,6 +28,7 @@ Ideas explored, not established facts. Held loosely, deliberately kept out of [[
 | **The millennial-entrance hypothesis** | **PERMITS** | ⭐ **SUPPORTS** |
 | ⭐ **χίλια ἔτη as substantially chronological** *(added Stage 60D)* | *(unadjudicated for 58 stages)* | ⭐ **SUPPORTS** |
 | ❗ **"we are presently in the little season"** *(added Stage 60D)* | *(assumed, never graded)* | ❗ **UNDER PRESSURE — see q411** |
+| ❌ **An inserted ~1,000 years of chronology** *(graded Stage 62)* | *(quarantined at 54¾)* | ### ❌ **CONTRADICTS** |
 
 **WHAT MOVED IT — every item below is verified in this archive and carries its own recorded grade:**
 - ✅ **Matthew 24 sits inside a first-century generation horizon** — **HIGH**
@@ -50,6 +51,11 @@ Ideas explored, not established facts. Held loosely, deliberately kept out of [[
 
 
 > ### ❗❗❗ **AND THE STAGE 60D CONSEQUENCE, RECORDED WHERE IT COSTS SOMETHING: THE TWO FINDINGS AT *SUPPORTS* NOW SQUEEZE THE THIRD. PF-01 + A CHRONOLOGICAL χίλια ἔτη PUTS THE TERMINUS NEAR THE ELEVENTH CENTURY — LEAVING ~950 YEARS TO BE CALLED **μικρὸν χρόνον** IMMEDIATELY AFTER A PERIOD CALLED **χίλια ἔτη**. THAT IS NOT "long versus short"; IT IS "a thousand versus nine hundred and fifty." **OPTION (c) — WE ARE NOT PRESENTLY IN THE LITTLE SEASON — IS NOW UNDER LEAST PRESSURE, AND NO OPTION IS SELECTED (q395, q411).**
+
+
+> ### ❌ **STAGE 62 — FIRST EXTERNAL REJECTION, AND THE FIRST USE OF THE *CONTRADICTS* TIER. ✅ The Hijri count implies **1,447.1 AH** against a reported **~1448** — **0.9 years off across fourteen centuries** — while the inserted-millennium premise would require **~1,032 Hijri years unaccounted for**. ✅ A second independent count (Hebrew Anno Mundi) agrees. ✅ And the published Phantom Time proposal is **297 years, not 1,000** — **no established theory even proposes the required magnitude (q418, q419).**
+>
+> ### ⚠️ **ITEMS 2–4 BELOW ARE THEREFORE SUPERSEDED IN PART: their 2026-08-08 sourcing stands, and Stage 62 adds an independent arithmetic test that item 4's chronology claim does not survive.** ❗ **AND A REJECTION IS NOT BIBLICAL EVIDENCE EITHER — it removes option (d) from q395's five and confirms none of the other four.**
 
 ### 🔁 THE REOPENING RULE *(adopted with PF-01)*
 

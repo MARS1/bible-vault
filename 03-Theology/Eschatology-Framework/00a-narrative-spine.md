@@ -124,7 +124,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **60D** | ⭐⭐⭐ **χίλια ἔτη — THE GATE OPENS, AND THE BILL COMES DUE** | **[[03l-chilia-ete-the-gate]]** |
 | **60½** | *(next)* **📌 Three owed sweeps — σεισμὸς μέγας · Matthew 24:6–9 · ψυγήσεται · Rev 6:11** | — |
 | **61** | **🏛️⭐⭐ The Historical Test — NEUTRAL, AND STAGE 30 PREDICTED IT** | **[[03m-the-historical-test-and-the-neutral-result]]** |
-| **62** | *(next, NARROWED)* **📜 Does q411 Reopen a Claim Already Sourced on 2026-08-08? — plus H11, and a deliberate pass at option (e)** | — |
+| **62** | **📜⭐⭐⭐ Is the Chronology Secure? — ❌ CONTRADICTS. THE FIRST EXTERNAL REJECTION** | **[[03n-is-the-chronology-secure]]** |
+| **63** | *(next, FAILURE CONDITION FIXED FIRST)* **⏱️ What Clock Are We Measuring? — option (e), and it must be able to fail** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2826,6 +2827,46 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 **📐 THE FIVE OPTIONS AFTER THE TEST: **(a)** start not first-century — LIVE, but PF-01 is at SUPPORTS and the Reopening Rule protects it · **(b)** the number is not chronological — ❗ **now at SUPPORTS AGAINST** · **(c)** we are not in the little season — ★ **still under LEAST pressure, and Stage 61 did not relieve its rivals** · **(d)** chronology does not correspond — ⚠️ **testable now, adoptable never** · **(e)** an unidentified premise is wrong — ◻️ **LIVE AND UNDER-EXAMINED.** ★ **q416: (e) is the ONLY option with no natural advocate — (a) threatens PF-01, (b) was just graded against, (c) is uncomfortable, (d) is exciting. **(e) is merely humbling, and therefore gets no attention — which is exactly why it needs a deliberate pass.**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"It says: fix the biblical model first, then ask what fits, what doesn't, what is silent, what contradicts, and what requires special pleading. Five columns, written before anybody knew what would go in them... Neutral is what came back... And the one thing that actually contradicts us is not in the history at all. It is the sum. We produced that ourselves, out of two findings we were pleased with. I would rather have that than a coincidence I could dress up."***
+
+---
+
+## Stage 62 — 📜⭐⭐⭐ Is the Chronology Secure? THE FIRST EXTERNAL REJECTION *(current)*
+
+**File:** [[03n-is-the-chronology-secure]] · **The incoming tranche supplied real citations — a genuine advance. ❗ THEY WERE TREATED AS REPORTED-NOT-VERIFIED AND SENT FOR CHECKING, at the same standard this archive applies to Irenaeus (q362).**
+
+> ### ⚠️ **AND TWO OF THE THREE LOAD-BEARING CLAIMS DID NOT HOLD AS STATED. ❌ **the Nature 7,272-year chronology — NOT VERIFIED**, paywalled, **SIX ladder rungs named and all failed** · 🟡 **the asserted 160 BCE–1129 CE span — PARTIALLY VERIFIED**; ❗ **the asserted figures were NOT located.** Found instead: **Pierik et al. (2021) at 12 BCE–1050 CE** and a 2016 Rhine-Meuse study at **AD 300–1000** — real sequences covering most of the window, **but not the numbers given.**
+>
+> ### ❗❗ **FIRST TIME THIS ARCHIVE HAS VERIFIED AN OUTSIDE PARTY'S CITATIONS AND FOUND SOME WANTING. The asymmetry was flagged BEFORE the check — five failed rungs on a patristic passage against web dendrochronology accepted on sight — **AND IT RESOLVED IN THE RIGHT DIRECTION: THE SAME STANDARD WAS APPLIED AND IT BIT (q417).**
+
+> ### ★★★★★ **AND THE VERDICT SURVIVED — ON EVIDENCE NEEDING NO JOURNAL AT ALL. THE DECISIVE TEST WAS COMPUTED IN-ARCHIVE:**
+>
+> ### **The Hijri calendar is a continuous count from a 622 CE epoch, formally numbered from ~638, presently at **~1448 AH**.**
+> ### **1,404 solar years ÷ 354.367-day lunar years = ★ **1,447.1 AH implied.** ### ✅ **DISCREPANCY: 0.9 YEARS OVER FOURTEEN CENTURIES.**
+> ### ❗❗❗ **AND THE PREMISE WOULD REQUIRE ~416 AH — A GAP OF ~1,032 HIJRI YEARS UNACCOUNTED FOR.**
+>
+> ### 📐 **A SEPARATE CIVILIZATION, A SEPARATE CALENDAR, A SEPARATE UNIT — LANDING WITHIN ONE YEAR OF CONVENTIONAL CHRONOLOGY. **NO PAYWALL, NO SPECIALIST, NO INSTITUTIONAL TRUST REQUIRED: two published epoch dates and a division (q418).** ★ And the Hebrew Anno Mundi count supplies a second independent agreement on a third reckoning.**
+
+**★★★★ THE STAGE'S BEST FINDING REFRAMES THE READER'S ORIGINAL IDEA RATHER THAN REFUTING IT: ✅ **VERIFIED EXACTLY — the Phantom Time Hypothesis proposes 297 YEARS (AD 614–911), NOT ONE THOUSAND.** ❗❗ **SO THE THEORY REACHED FOR AT 54¾ IS NOT THE THEORY THAT EXISTS IN THE LITERATURE — the published proposal is less than a THIRD of the required magnitude.** ✅ **And Illig is genuinely new to this archive: the 2026-08-08 sourcing covered Fomenko and Levashov, not him (q419).**
+
+**⚠️ AND A DISCREPANCY RECORDED RATHER THAN SMOOTHED: ✅ the Gregorian reform's **Nicaea (325) reference point is VERIFIED**, and 10 days is exactly the drift from 325 to 1582 — ❗ **but the "13 days" the argument contrasts it with appears to be the MODERN Julian–Gregorian offset, not a pre-reform drift.** **The refutation stands in substance; its arithmetic as presented conflates two quantities (q420).**
+
+**✅✅ ALL FIVE FALSIFICATION TESTS NAMED AT 54¾ HAVE NOW BEEN RUN — a list fixed in advance so the branch could not be graded on whichever test proved convenient: 🟡 **astronomical** *(6 of 8 Halley dates; 530 not located, 989 weak)* · 🟡 **dendrochronology** *(real sequences, wrong figures)* · ✅ **Islamic AH** *(decisive)* · ✅ **Hebrew** · ⚠️ **radiocarbon — REPORTED ONLY, not sent for checking.** **THREE VERIFIED, TWO PARTIAL, ONE UNCHECKED — AND THE WEAKEST RESULTS ARE THE ONES THE TRANCHE LEANED ON HARDEST.**
+
+> ### ### ❌ **VERDICT: AN INSERTED ~1,000 YEARS *CONTRADICTS* — THE STRONGEST TIER ON THE ADR-0005 SCALE, AND THE FIRST TIME THIS ARCHIVE HAS USED IT.**
+>
+> ### ★★★ **AND q324 WAS NEVER INVOKED. q414 HELD THE BRANCH COULD BE *TESTED* BUT NEVER *ADOPTED*, BECAUSE THE SELF-INVALIDATION IS STRUCTURAL. **THE THEORY DIED ON EVIDENCE FIRST — ON TREE RINGS, COMETS AND A LUNAR CALENDAR, NONE OF WHICH TOUCH MANUSCRIPTS.** 📌 **A QUARANTINE THAT NEVER HAS TO BE ENFORCED IS THE BEST OUTCOME A QUARANTINE CAN HAVE (q421).**
+
+**✅ AND STANDING INSTRUCTION 4 CUTS BOTH WAYS: a rejection is not biblical evidence either. **IT REMOVES OPTION (d). IT CONFIRMS NONE OF THE OTHER FOUR.** ✅ **§10 also closes properly and by the tranche's own hand — third time in three stages it has shut its own door: if the little season already ran, Satan's final destruction AND the Great White Throne sit immediately downstream, and neither is established as past (q422).**
+
+**📊 q395's OPTIONS: **(a)** LIVE · **(b)** ❗ SUPPORTS AGAINST · **(c)** ★ **under least pressure, and now more so** · **(d)** ### ❌ **ELIMINATED** · **(e)** ◻️ LIVE, STILL UNEXAMINED. ❗❗ **AND THE ONE JUST ELIMINATED WAS THE ONLY ONE THAT DISSOLVED THE TENSION CLEANLY — SO q411's PRESSURE IS NOW *HIGHER*, NOT LOWER.**
+
+> ### ⚠️ **AND STAGE 63 NEEDS ITS FAILURE CONDITION FIXED BEFORE IT OPENS. The proposal — *does the millennium's clock map onto ordinary chronology at all?* — is option (e), and q416 predicted (e) was the one nobody would propose. **CREDIT FOR PROPOSING IT.**
+>
+> ### ❗❗ **BUT *"maybe the clock is different"* CAN ABSORB ANY ARITHMETIC PROBLEM. UNCONSTRAINED IT IS UNFALSIFIABLE BY CONSTRUCTION — **WHICH IS EXACTLY WHAT q325 JUST KILLED THE PHANTOM MILLENNIUM FOR.**
+>
+> ### 🛑 **SO: ITS FAILURE CONDITION IS STATED NOW. **THE PROPOSAL FAILS IF 60D's THREE FINDINGS STAND — 21:17's μέτρον ἀνθρώπου · the article pattern across 20:2–7 · the numbered/unnumbered asymmetry.** IF THOSE MAY NOT COUNT AGAINST IT, IT IS NOT A TEST AND MUST NOT BE WRITTEN (q423).**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"Two of the three tree-ring claims did not survive... If the rejection had been resting on those, it would be resting on nothing. It wasn't, as it turned out. The thing that actually settles it is a calendar... It is off by ten months across a millennium and a half. No journal subscription. No specialist. Two published dates and a division. And the theory he reached for asks for a thousand years. The published version asks for two hundred and ninety-seven."***
 
 ---
 
