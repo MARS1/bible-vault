@@ -43,6 +43,44 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[02j-translation
 
 > ### 🛑 **THIS IS A ~70-FILE RETROACTIVE LIFT AND IT CANNOT BE DISCOVERED DURING MANUSCRIPT ASSEMBLY. IT IS REPORTED NOW BECAUSE THAT IS WHAT §12 ASKED FOR (q432).**
 
+### ❗❗❗ CORRECTION — THE FILE-LEVEL COUNT OVERSTATED THE PATTERN, AND THE REAL SHAPE IS BETTER
+
+> ### ⚠️ **THE "boundary at `01d`" FIGURE ABOVE WAS DERIVED FROM ***BINARY FILE PRESENCE***, WHICH COUNTS A FILE HOLDING TWO CITATIONS THE SAME AS ONE HOLDING TWENTY-FOUR. **IT WAS TESTED AGAINST THE INDEX AND IT DOES NOT HOLD AS STATED.**
+
+| | stage file | its index section |
+|---|---|---|
+| **Romans 11** | **2 citations** | ❗ **0** |
+| **Acts 15 — `00t`, 303 lines** | ### ❗❗ **0** | **0** |
+| **The Millennium & Little Season** | — | ✅ **12** |
+
+> ### ❗❗ **SO THE ESCHATOLOGY ARC IS ***NOT*** UNIFORMLY BARE — the index's Millennium section carries twelve. **AND `00t` — the file recommended below as the best consolidation source — HAS NO SPANISH WITNESS ANYWHERE IN ITS 303 LINES.**
+>
+> ### 📐 **THE HONEST STATEMENT: COVERAGE IS ***PATCHY IN BOTH ARTIFACTS, INDEPENDENTLY***. A VERSE MAY CARRY RVR60 IN ITS STAGE FILE AND LACK IT IN THE INDEX, OR THE REVERSE. **THE TWO NEED RECONCILING, NOT MERELY FILLING (q436).**
+
+### ★★★★★ AND THE TARGET IS NOW COUNTABLE
+
+| | |
+|---|---|
+| **Indexed scripture entries in `05-scripture-index.md`** | **599** |
+| ✅ **Carrying an RVR60 witness** | **275** |
+| ❗ **Lacking one** | ### **324** |
+
+**★ AND THE HEAVIEST SECTIONS ARE NOT WHERE THE FILE-COUNT PREDICTED:**
+
+| Missing / total | Section |
+|---|---|
+| **49 / 51** | **Clean and Unclean — Noah to Messiah** *(`00s`)* |
+| **29 / 29** | **Stage 48 — The Gathering Identity Audit** *(`02n`)* |
+| **23 / 35** | **Circumcision — Covenant Sign and Heart** *(`00q`)* |
+| **18 / 18** | **Acts 15 — the Council, the Four Requirements, the *Ger*** *(`00t`)* |
+| **17 / 17** | **Romans 10 — Proclamation, Sending, the *Oikoumenē*** *(`01b`)* |
+| **15 / 15** | **Romans 11 — Remnant, Grafting, "All Israel"** *(`01c`)* |
+| **14 / 14** | **The People of God — Covenant Formula, Grafting** *(`00y`)* |
+| **13 / 13** | **Romans 9 — Promise, Election, Remnant** *(`01a`)* |
+| **11 / 11** | **Hebrews 3–4 — Katapausis, Sabbatismos, "Today"** *(`00x`)* |
+
+> ### ❗ **THE COVENANT-IDENTITY MATERIAL — THE PART CARRYING THE BOOK'S ***PRACTICAL*** CONCLUSION ABOUT WHERE BELIEVERS STAND — IS THE THINNEST. **THAT IS THE OPPOSITE OF WHAT THE FILE-LEVEL COUNT SUGGESTED, AND IT IS MORE CONSEQUENTIAL (q437).**
+
 ### ⚠️ AND THE REPAIR MUST NOT BE SCOPED AS "ADD RVR60 TO 70 FILES"
 
 **Most of those files quote a verse in passing. ✅ **THE RULE THE INSTRUCTION ITSELF GIVES IS NARROWER AND CORRECT: *"For every biblical passage MATERIALLY USED IN AN ARGUMENT."***
@@ -73,6 +111,31 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[02j-translation
 > ### 📐 **SO THE READER'S QUESTION IS ALREADY ANSWERED, BETTER THAN THE ANSWER HE WAS GIVEN. **WHAT IS NEEDED IS NOT A NEW STAGE — IT IS A *READER-FACING CONSOLIDATION CHAPTER* DRAWN FROM SEVEN EXISTING FILES.** THAT IS A MANUSCRIPT TASK, NOT AN INVESTIGATION TASK (q434).**
 
 **⚠️ ONE GENUINE GAP INSIDE IT: the **Decalogue itself** *(Exodus 20 / Deuteronomy 5)* and **Matthew 22:37–40's two great commandments** and **Matthew 5:17's καταλῦσαι / πληρῶσαι** may not be retrieved anywhere as primary text. **That is a SHORT retrieval, not a stage.**
+
+---
+
+## 2b. ✅ DECISION RECORDED — 64½ IS RECLASSIFIED AS CONSOLIDATION *(approved 2026-08-29)*
+
+> ### **64½ IS ***NOT*** A NUMBERED INVESTIGATIVE STAGE. IT NEVER WAS ONE — IT WAS A NECESSARY CONSOLIDATION OF COVENANT FAITHFULNESS, AND IT IS FILED AS SUCH.**
+>
+> ### ✅ **THE STAGE SEQUENCE THEREFORE STAYS CLEAN: **1–64 → 65 SYNTHESIS → 66 CONCLUSION.** NO 64½ NUMBER IS ISSUED.**
+
+**📚 CONSOLIDATION SOURCE SET — eight existing files, nothing discarded:**
+
+| Source | Supplies |
+|---|---|
+| **`00t`** *(Stage 18.7, 303 lines)* | ★ **Acts 15, the four requirements, Leviticus 17–18 as their source, the *ger* category, the reductio, the textual asymmetry** |
+| **`00n`** | Torah fulfilled — and what changed |
+| **`00q`** | circumcision as covenant sign and heart |
+| **`00s`** | clean and unclean, Noah → Messiah |
+| **`00u`** | Acts 21 — Paul, Torah, and the two groups |
+| **`00v`** | Colossians 2 — shadow and body |
+| **`00w`** | Sabbath — creation, covenant sign, shadow, rest |
+| **`00x`** | Hebrews 3–4 — katapausis, sabbatismos, "Today" |
+
+**⚠️ THE ONE GENUINE RETRIEVAL GAP INSIDE IT — small, and not a stage: ❌ **the Decalogue itself** *(Exodus 20:1–17 / Deuteronomy 5:6–21)* · ❌ **Matthew 22:37–40's two great commandments** *(Deut 6:5 + Lev 19:18, and κρέμαται)* · ❌ **Matthew 5:17's καταλῦσαι / πληρῶσαι.** **These may not exist as primary retrieved text anywhere in the archive and should be filled before manuscript assembly.**
+
+> ### 📌 **AND THE SHARPEST SINGLE FACT IN THIS AUDIT: **`00t` — THE FILE THAT BEST ANSWERS THE READER'S OWN ACTS 15 QUESTION — CARRIES ZERO RVR60 ACROSS 303 LINES**, AND ITS EIGHTEEN INDEX ENTRIES CARRY ZERO TOO. **IT IS SIMULTANEOUSLY THE BEST-ARGUED AND THE LEAST SPANISH-WITNESSED FILE IN THE ARCHIVE (q438).**
 
 ---
 
@@ -154,6 +217,20 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[02j-translation
 ## Open Questions Added
 
 **q432** — ❗❗ **the RVR60 gap: 33 of 103 files, stopping at `01d`, covering the entire eschatology arc** · **q433** — **`02j` already found RVR1960 breaking an argument; there may be more in the 70** · **q434** — **Stage 64½ already exists as `00t` plus six sibling files; what is needed is a consolidation chapter, not a stage** · **q435** — **the bilingual principle belongs in `02j`, not a new file.**
+
+---
+
+## 11. ✅ EXECUTION ORDER — APPROVED 2026-08-29, RUNNING AS ② → ③ → ①
+
+| | Task | Status |
+|---|---|---|
+| **②** | **Close q399, q393, q392** — the three cheap debts | ▶️ **RUNNING** |
+| **③** | **Reclassify 64½ as consolidation, preserve all substance** | ✅ **DONE — §2b above** |
+| **①** | **RVR60 retrospective, LOAD-BEARING ONLY, driven by `05-scripture-index.md`** | ⏳ **SCOPED — 324 of 599 entries, prioritized in §1** |
+
+> ### 🛑 **AND THE STANDING CONSTRAINT, RECORDED SO IT CANNOT DRIFT: **THE RVR60 PASS IS A ***VAULT*** OPERATION, NOT A SPANISH WRITING EXERCISE.** ITS ONLY JOB IS TO PUT THE SPANISH BIBLICAL WITNESSES INTO THE EVIDENCE VAULT. **INDEPENDENT SPANISH READER-CONTEXT AND PROSE COME AFTERWARD, FROM `02j`'s ARCHITECTURE.**
+>
+> ### 🛑 **AND: NO MANUSCRIPT PROSE UNTIL 65 AND 66 EXIST.** Architecture, indexes, metadata, tags, placeholders and design infrastructure may be prepared in the meantime. **Converting research stages into final prose may not begin — because 65 and 66 are the synthesis and destination, and they will change how earlier material is framed, emphasized, condensed and foreshadowed.**
 
 ---
 
