@@ -125,7 +125,8 @@ related: "[[00-index]], [[00b-biblical-epistemology]]"
 | **60½** | *(next)* **📌 Three owed sweeps — σεισμὸς μέγας · Matthew 24:6–9 · ψυγήσεται · Rev 6:11** | — |
 | **61** | **🏛️⭐⭐ The Historical Test — NEUTRAL, AND STAGE 30 PREDICTED IT** | **[[03m-the-historical-test-and-the-neutral-result]]** |
 | **62** | **📜⭐⭐⭐ Is the Chronology Secure? — ❌ CONTRADICTS. THE FIRST EXTERNAL REJECTION** | **[[03n-is-the-chronology-secure]]** |
-| **63** | *(next, FAILURE CONDITION FIXED FIRST)* **⏱️ What Clock Are We Measuring? — option (e), and it must be able to fail** | — |
+| **63** | **⏱️⭐⭐ What Clock Are We Measuring? — q313 DISCHARGED, and the two little times** | **[[03o-what-clock-and-the-two-little-times]]** |
+| **64** | *(next, PRECHECK MANDATORY)* **👥 Who Does Revelation Call οἱ ἅγιοι? — a sweep, not an argument** | — |
 
 > ### ⚙️ **Stage 21½ is the project's ORIENTATION STAGE. Its function is load-bearing:**
 > **it freezes the project's destination · keeps preterism and the Little Season DOWNSTREAM of the evidence · records the largest falsifiable chain · and prevents later branches from obscuring the original evangelistic question.**
@@ -2867,6 +2868,38 @@ Deliberately built *before* the contested material, so the method couldn't be sh
 > ### 🛑 **SO: ITS FAILURE CONDITION IS STATED NOW. **THE PROPOSAL FAILS IF 60D's THREE FINDINGS STAND — 21:17's μέτρον ἀνθρώπου · the article pattern across 20:2–7 · the numbered/unnumbered asymmetry.** IF THOSE MAY NOT COUNT AGAINST IT, IT IS NOT A TEST AND MUST NOT BE WRITTEN (q423).**
 
 > ### ✍️ **MANUSCRIPT VOICE: *"Two of the three tree-ring claims did not survive... If the rejection had been resting on those, it would be resting on nothing. It wasn't, as it turned out. The thing that actually settles it is a calendar... It is off by ten months across a millennium and a half. No journal subscription. No specialist. Two published dates and a division. And the theory he reached for asks for a thousand years. The published version asks for two hundred and ninety-seven."***
+
+---
+
+## Stage 63 — ⏱️⭐⭐ What Clock, and the Two Little Times *(current)*
+
+**File:** [[03o-what-clock-and-the-two-little-times]] · **q423 fixed the failure condition BEFORE this stage opened. ✅ IT MET THE CONDITION BY REFUSING ITS OWN RESCUE — §8: *"Stage 63 does NOT rescue us with time dilation"*; §10: *"the pressure remains real… we don't soften it."* Fourth consecutive self-closed door.**
+
+> ### ★★★★ **AND §9 IS THE REAL FINDING: **SATAN IS BOUND FROM DECEIVING ΤΑ ΕΘΝΗ — AND THE NATIONS ARE ORDINARY HISTORICAL ACTORS.** SO THE BINDING RUNS THROUGH ORDINARY HISTORY FOR THAT INTERVAL, ***REGARDLESS OF WHERE THE SAINTS REIGN***.
+>
+> ### ### **LOCATION ≠ DURATION.** ✅ **The reader's heavenly-reign reconstruction survives intact and buys NO relief on the arithmetic (q424).** ✅ *And §3 stays honest: 1 Thess 4:17's σὺν κυρίῳ ἐσόμεθα gives permanent companionship, NOT a destination — Stage 41's Location Humility stands.*
+
+> ### ★★★★★ **q313 DISCHARGED AFTER STANDING OPEN SINCE STAGE 45½ — AND IT INVERTS THE GROUPING THE TRANCHE ASSERTED.**
+>
+> ### ✅ **6:11 — ἔτι ΧΡΟΝΟΝ ΜΙΚΡΟΝ** *(martyrs under the altar)* · ✅ **20:3 — ΜΙΚΡΟΝ ΧΡΟΝΟΝ** *(Satan, after the thousand years)* · ❗ **12:12 — ΟΛΙΓΟΝ ΚΑΙΡΟΝ** *(the accuser, cast down)*.
+>
+> ### ❗❗❗ **6:11 AND 20:3 SHARE ***BOTH*** NOUN AND ADJECTIVE — the same two words, order reversed. **AND 12:12, WHICH THE TRANCHE GROUPED WITH 6:11 AS A "pre-millennial motif," IS THE ODD ONE OUT ON BOTH ELEMENTS.**
+> ### ✅ **THE SWEEP SETTLES THE SET: μικρός USED OF A DURATION OCCURS ***EXACTLY TWICE*** IN REVELATION. THE PAIR IS THE WHOLE SET (q425).**
+
+**⚠️ AND WHAT IT DOES, STATED CAREFULLY BECAUSE IT CUTS OUR WAY: ❗ **PF-01 already runs 6:11's πληρωθῶσιν → 20:4's ἔζησαν — so the archive has 6:11 near the millennium's OPENING and 20:3 at its CLOSE, and Revelation uses THE SAME PHRASE for both.** 📐 **SO THE OBJECTION *"950 years cannot be μικρὸν χρόνον"* IS ***WEAKER THAN STATED*** — Revelation uses that exact phrase of a second interval, **and we have never measured that one either.** 🛑 **BUT NEITHER VERSE SUPPLIES A LENGTH. ONE UNMEASURED INTERVAL CANNOT FIX ANOTHER'S SCALE. RECORDED AS *WEAKENED, NOT ANSWERED* (q426).** ⚠️ **And a brake on over-reading the match: the completion machinery DIFFERS — ✅ 6:11 ἕως + ΠΛΗΡΩΘΩΣΙΝ · ✅ 20:3/20:5 ἄχρι + ΤΕΛΕΣΘῌ · ✅ 20:7 ὅταν + ΤΕΛΕΣΘῌ. Three conjunctions, two verbs (q427).**
+
+> ### ⚠️ **AND THE PRECHECK CAUGHT A FLATTENING — SECOND TIME IN THREE STAGES. The reader asked whether we had done the two-battle question. ✅ **WE HAD — [[03d-three-gatherings-or-one]] — AND ITS RESULT WAS A SPLIT: ✅ 16:14 and 20:8 WORD-FOR-WORD IDENTICAL *(points to 20)* · ✅ 19:19 differs in verb form AND preposition · ✅ 16:13 has all three adversaries ACTIVE while 20:10 has two disposed *(points to 19)*.**
+> ### ❗❗ **55D LEFT IT OPEN IN WRITING: *"whether 16 belongs with 19 or with 20 or with NEITHER."* THE TRANCHE PRESENTS IT AS SETTLED ARCHITECTURE. **THAT IS *contextually favored* BECOMING *established* (q428).**
+
+**✅ WHAT ***IS*** ESTABLISHED, CONFIRMING THE READER'S MEMORY: ✅ **the birds are 19:17–21, and a sweep returns bird vocabulary ABSENT from Revelation 20** · ✅ **Ἁρμαγεδών occurs ONCE, at 16:16 — absent from 19 and 20** · ✅ **55D broke the tie on narrative grounds: you cannot have a figure both operating and permanently disposed of in one scene.**
+
+**★★★ AND ἬΔΗ IS ABSENT. The tranche wrote *"John actually says Satan is thrown where the beast and false prophet [already] are."* ✅ **VERIFIED: 20:10 reads ὅπου ΚΑΙ ΤΟ ΘΗΡΙΟΝ ΚΑΙ Ο ΨΕΥΔΟΠΡΟΦΗΤΗΣ — ἤδη ABSENT, AND THE CLAUSE HAS NO FINITE VERB AT ALL.** ❗ **The bracketed "[already]" is an insertion twice over: not the word, and not even a tense to carry it. The inference may be sound; the statement is not there (q429).** ✅ *And 19:20 keeps a detail worth having: **ζῶντες ἐβλήθησαν** — thrown in ALIVE.*
+
+**★★★★ THE HORSE QUESTION, ANSWERED BY A COMPLETE INVENTORY — 14 ἵππος OCCURRENCES: ❗❗❗ **HORSES ARE ON BOTH SIDES OF THE SAME SCENE** — ✅ 19:11 **ἰδοὺ ἵππος λευκός** · ✅ 19:14 the armies of heaven **ἐφ' ἵπποις λευκοῖς** · ✅ 19:19, 19:21 — while 19:18's flesh-list includes **σάρκας ΙΠΠΩΝ**. 📐 **SO IF HORSE-FLESH DATES THE BATTLE TO A CAVALRY ERA, THE SAME LOGIC PUTS MESSIAH AND THE ARMIES OF HEAVEN ON LITERAL HORSES AND MAKES THE SWORD FROM HIS MOUTH LITERAL EQUIPMENT. THE IMAGERY CANNOT DATE THE FULFILMENT (q430).** ★ *And a datum nobody asked for: horses appear through 19:21 and are ABSENT from 20:11 onward.*
+
+**❗ AND §11/§16 QUIETLY RE-OPEN WHAT 60D CLOSED. ✅ §12 states the rule correctly — *"we must not simply redefine 1,000 because 1,000 causes problems. That would be hypothesis rescue."* ❗❗ **AND THEN §11 AND §16 DO IT, WITH NO NEW EVIDENCE, ONLY NEW INCONVENIENCE.** 🛑 **60D graded that at SUPPORTS-AGAINST on three findings — μέτρον ἀνθρώπου, the article pattern, the numbered/unnumbered asymmetry — and NONE was addressed. A grade does not reverse because the alternative became uncomfortable (q431).** ✅ **But §13 IS the legitimate competitor and is adopted: the Matthew⟷Paul link is PROBABLE, the chain's weakest joint, and breaking it moves the millennium later with NO altered chronology — §14 prices its cost honestly. THAT IS OPTION (a).**
+
+> ### ✍️ **MANUSCRIPT VOICE: *"There are two places in the whole book where a stretch of time is called little in those exact words... Same noun. Same adjective. Nothing else in the book uses them that way. And the objection I have been leaning on all week is that nine hundred and fifty years cannot possibly be a little while. Maybe not. But John used those two words for something else as well, and I have never once asked how long that was either. That does not make nine hundred and fifty years short. It means I was measuring one unmeasured thing against another and calling the result impossible."***
 
 ---
 
