@@ -94,3 +94,30 @@ Running log of working sessions. Append after every session — never overwrite.
 **Commits:** `8933bef` `db9ea5b` `5302f71` `81a8736` `35171d8` `411b108` `3d8ba8b` `d7384b0` `3bd3bb1` `26338b7` `a8e60cd` `632df3c` `834ad85` `4530379` `2b2fae6` `628784d` `042b963` `cdeb6d6` `df3907a` `b298eea` (+ `3feaec9` stale-marker fix)
 
 ---
+
+## 2026-09-04 — Eschatology Framework: Stages 65 + 66 drafted (NOT yet filed)
+
+**What we did:**
+- User asked "where were we with Stage 65" — Claude Code's own cross-session memory had no record; recovered context by re-reading `09-manuscript-integrity-audit.md` directly
+- Confirmed via full-vault grep: no file anywhere in `Eschatology-Framework/` contains "Stage 65" or "Stage 64" (bare). Last numbered stage on the narrative spine is **63**. `09-manuscript-integrity-audit.md` (dated 2026-08-29) formally gates Stage 65/66 from being written until 3 decisions settle: ① RVR60 scope decision, ② three cheap debts (q399/q393/q392) closed, ③ 64½ reclassified as consolidation (not a new stage)
+- Found ② and ③ already done (`03p-the-three-debts-discharged.md`; §2b approval in the audit file). ① (RVR60 scope = load-bearing only) was only ever "recommended," never formally approved — that's the one open item blocking formal gate closure
+- User then pasted the full text of **Stage 65** ("What We Know, What We Believe, and What We Still Don't Know" — Evidence Ledger + Growing Chain, PF-01/PF-02) and **Stage 66** ("The Position We Can Actually Defend / Who Am I Now?" — final eschatological position: First-Century Fulfillment with an Open Millennial Horizon; personal identity: Messianic Israelite in the covenantal/grafted sense, not ethnic) directly into chat
+- **Both stashed verbatim to session scratchpad only** — deliberately NOT filed into the vault's numbered file structure yet, per this vault's own rule ("NEVER create files unless explicitly asked") and because file naming (proposed `03q-...`) was never confirmed before the user had to step away
+
+**Key decisions:**
+- Reconciliation plan proposed, not yet executed: (a) formally approve decision ① and record gate closure in `09-manuscript-integrity-audit.md` (same pattern as its own §2b), (b) merge q432–q435 into `04-open-questions.md`'s master list — currently only sit in 09's own footer, (c) file Stage 65 as a new vault doc, (d) update `00a-narrative-spine.md`'s `*(current)*` marker off Stage 63, (e) only then clear to file Stage 66
+- RVR60 full retrospective (load-bearing pass, 324/599 scripture-index entries) reconciled as a **parallel background lane** — it blocks final bilingual manuscript PROSE assembly, it does NOT block writing Stage 65/66 as vault research documents. This distinction wasn't explicit in the audit file and had to be derived from re-reading it closely
+- `BIBLE-2tj`'s description was 2026-08-06-era and severely stale (still described the original 4-box system; project has since grown to 65-stage numbering, 11 ADRs, a manuscript-integrity-audit layer) — updated this session so `bd show BIBLE-2tj` reflects current reality instead of the project's original shape
+
+**Not done — explicitly pending user return:**
+- Gate closure decision ① not formally recorded (needs user sign-off, matching §2b's pattern)
+- Stage 65 not filed as a vault doc (filename `03q-...` proposed, unconfirmed)
+- Stage 66 not filed (blocked behind Stage 65 filing)
+- `00a-narrative-spine.md` and `00-index.md` not updated to reflect Stage 65/66
+- q432–q435 not yet merged into `04-open-questions.md`
+
+**Tests:** n/a (vault, no code)
+
+**Commits:** (this entry's own commit)
+
+---
