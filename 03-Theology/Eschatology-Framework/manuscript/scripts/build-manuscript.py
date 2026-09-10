@@ -14,6 +14,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 EN, BUILD = ROOT / "en", ROOT / "_build"
 
+# Human-readable drop. Derived artifacts only. The vault stays the source of
+# truth; nothing here is ever edited in place or read back into the manuscript.
+READER_DIR = Path("/Users/MARS/Desktop/7-MARS/Bible Study")
+
 PARTS = {
     1: ("Part I: The Question That Would Not Stay Small",
         ["00a-foreword", "00b-a-note-to-the-reader", "ch01-", "ch02-", "ch03-", "ch04-", "ch05-", "ch06-"]),
@@ -63,6 +67,7 @@ def main():
     ap.add_argument("--part", type=int)
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--no-pdf", action="store_true")
+    ap.add_argument("--no-drop", action="store_true", help="skip copying to the reader directory")
     a = ap.parse_args()
     parts = sorted(PARTS) if a.all else ([a.part] if a.part in PARTS else sys.exit("use --part N or --all"))
     BUILD.mkdir(exist_ok=True)
@@ -75,6 +80,10 @@ def main():
         clean = BUILD / f"part-{p:02d}-clean.md"
         clean.write_text(f"# {title}\n\n*Draft 1. {words:,} words.*\n\n" + "\n\n---\n\n".join(chunks) + "\n")
         print(f"MD   {clean.relative_to(ROOT)}  ({words:,} words, {len(files)} files)")
+
+        if not a.no_drop and READER_DIR.is_dir():
+            (READER_DIR / clean.name).write_bytes(clean.read_bytes())
+            print(f"     -> {READER_DIR / clean.name}")
 
         if a.no_pdf:
             continue
@@ -95,6 +104,13 @@ def main():
                   + ("OK" if bad == 0 else "<-- BROKEN"))
         except FileNotFoundError:
             print("     verify: SKIPPED, pdftotext not installed")
+
+        if not a.no_drop:
+            if READER_DIR.is_dir():
+                (READER_DIR / pdf.name).write_bytes(pdf.read_bytes())
+                print(f"     -> {READER_DIR / pdf.name}")
+            else:
+                print(f"     drop SKIPPED, no such directory: {READER_DIR}")
 
 if __name__ == "__main__":
     main()
