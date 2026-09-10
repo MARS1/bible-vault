@@ -5,72 +5,72 @@ category: theology
 language: es
 source_part: en-part-01
 source_baseline_commit: bf7b587
-translation_status: draft-1
-tags: [draft-1, front-matter, prologo, edicion-espanola]
+translation_status: draft-1-calibrated
+tags: [draft-1, front-matter, prologo, edicion-espanola, tuteo]
 created: 2026-09-10
 status: draft
-localization: "BORRADOR 1 en español. Edición hermana, NO traducción del inglés: redactada desde la línea base inglesa revisada (commit bf7b587) más el archivo de evidencia. Las citas bíblicas provienen directamente de RVR1960, nunca de una traducción al español del texto inglés. REGISTRO: español latinoamericano internacional, culto pero accesible; NO rioplatense. TRATAMIENTO AL LECTOR: usted (decisión de calibración pendiente de aprobación). TERMINOLOGÍA: no globo/global/globalmente/planeta/planetario/mundial en sentido cosmológico moderno."
-related: "[[10-manuscript-architecture]], [[00a-narrative-spine]]"
+localization: "BORRADOR 1 CALIBRADO. Edición hermana, NO traducción: redactada desde la línea base inglesa revisada más el archivo de evidencia. Citas bíblicas tomadas directamente de RVR1960. REGISTRO: español latinoamericano internacional, culto pero accesible. TRATAMIENTO: tuteo contenido, con el pronombre casi siempre implícito; NO rioplatense, sin voseo ni modismos regionales. REGLA RECTORA DE LA CALIBRACIÓN: se conserva la función retórica, no la sintaxis inglesa. TERMINOLOGÍA: no globo/global/globalmente/planeta/planetario/mundial en sentido cosmológico moderno."
+related: "[[10-manuscript-architecture]], [[00a-narrative-spine]], [[SYNC-LEDGER]]"
 ---
 
 # Prólogo: por qué empezó esto
 
 No me propuse escribir sobre el fin del mundo.
 
-Me propuse contestar una pregunta sobre el evangelismo, y descubrí que no podía contestarla.
+Me propuse contestar una pregunta sobre el evangelismo, y resultó que no podía contestarla.
 
-La pregunta salió de una conversación con otro creyente y tenía dos mitades. ¿Carga todo seguidor de Yeshúa la misma obligación de ir a hablarle a la gente de Él? ¿Y cómo llega alguien a leer la profecía como yo había empezado a leerla, más como algo cumplido que como algo pendiente?
+La pregunta salió de una conversación con otro creyente, y traía dos mitades. ¿Tiene todo seguidor de Yeshúa la misma obligación de salir a hablarle a la gente de Él? ¿Y cómo termina alguien leyendo la profecía como yo había empezado a leerla, más como algo ya cumplido que como algo todavía pendiente?
 
-Pude haber contestado en el momento. Eso es lo que vale la pena admitir. Yo tenía versículos listos. Él también. Mateo 28 y Marcos 16 de un lado, los dones espirituales y la conciencia del otro, y el que se quedara sin versículos primero habría perdido.
+Pude haber contestado ahí mismo. Eso es lo que hay que admitir. Yo tenía versículos listos. Él también. Mateo 28 y Marcos 16 de un lado; los dones espirituales y la conciencia del otro. El primero que se quedara sin versículos perdía.
 
-No se habría resuelto nada, porque nada se estaba poniendo a prueba. Habríamos estado intercambiando citas y llamándolo conversación.
+No se habría resuelto nada, porque nada se estaba poniendo a prueba. Habríamos estado intercambiando citas y llamándole conversación.
 
-Así que no contesté. Me fui a buscar una manera de contestar que no dependiera de quién había memorizado más.
+Así que no contesté. Salí a buscar una manera de contestar que no dependiera de quién se hubiera aprendido más versículos.
 
 ***
 
 Ese es el comienzo honesto. No es el comienzo completo.
 
-La primera vez que alguien me puso el Apocalipsis enfrente yo estaba en Washington, DC, alrededor del 2001. Alguien de una de mis clases me preguntó si lo había leído. No lo había leído. Ni siquiera estoy seguro de que hubiera podido decirle qué era.
+La primera vez que alguien me puso el Apocalipsis enfrente yo estaba en Washington, DC, cerca del 2001. Un compañero de clase me preguntó si lo había leído. No lo había leído. Creo que ni siquiera habría sabido explicar qué era.
 
 Entonces lo leí.
 
-No puedo precisar el año mejor que eso. He dejado la incertidumbre adentro en lugar de redondearla hacia una fecha que en realidad no tengo.
+No puedo precisar más el año, y prefiero dejar la imprecisión ahí antes que redondearla hacia una fecha que en realidad no tengo.
 
-Lo que siguió no fueron veinticinco años de estudio académico. Fueron preguntas, después la vida, después la fe, después más atención y menos atención, después cosas aprendidas y olvidadas y vueltas a aprender. Convicciones cuestionadas. La Escritura retomada. Frío y caliente, leche mucho antes que carne, pero siempre volviendo.
+Lo que vino después no fueron veinticinco años de estudio serio. Fueron preguntas, y luego la vida, y luego la fe, y luego más atención y menos atención, y cosas que aprendí y olvidé y volví a aprender. Convicciones puestas en duda. La Escritura retomada. Frío y caliente, leche mucho antes que carne, pero siempre volviendo.
 
-Las herramientas que tuve en el último tramo cambiaron lo que era prácticamente posible, y fingir lo contrario sería deshonesto. Podía tener un texto griego en pantalla en segundos cuando antes habría necesitado una biblioteca y una semana para verlo siquiera. No voy a pretender que hice esto como lo habría hecho alguien en 1890.
+Las herramientas que tuve en el último tramo cambiaron lo que era posible en la práctica, y fingir lo contrario sería deshonesto. Podía tener un texto griego en pantalla en segundos cuando antes habría necesitado una biblioteca y una semana entera para verlo siquiera. No voy a pretender que hice esto como se hacía en 1890.
 
-La otra mitad es igual de cierta. Las herramientas aceleraron la investigación. No fabricaron los veintitantos años de preguntas que la produjeron. Una máquina le puede entregar a uno el griego. No le puede entregar la razón por la que uno quiso mirar.
+La otra mitad es igual de cierta. Las herramientas aceleraron la investigación; no inventaron los veintitantos años de preguntas que la produjeron. Una máquina te puede poner el griego enfrente. Lo que no te puede dar es la razón por la que quisiste mirar.
 
-Dejar fuera cualquiera de las dos mitades sería mentir en una dirección distinta, así que aquí están las dos.
+Dejar afuera cualquiera de las dos mitades sería mentir en una dirección distinta, así que aquí están las dos.
 
 ***
 
-Temprano, el método que yo mismo había construido produjo un resultado que no quería.
+Muy pronto, el método que yo mismo había armado me dio un resultado que no quería.
 
 Yo había dicho, en voz alta y más de una vez, que predicar no es lo mío. Hay gente hecha para eso. Yo no. Eso estaba resuelto, era cómodo, y era mío.
 
-Después seguí Hechos en orden. Hechos 8 dice que cuando los creyentes fueron esparcidos iban por todas partes anunciando el evangelio. No los apóstoles. Los apóstoles son los que se quedaron. Fueron los creyentes comunes y esparcidos los que hablaron.
+Después seguí Hechos en orden. Hechos 8 dice que cuando los creyentes fueron esparcidos iban por todas partes anunciando el evangelio. No los apóstoles: los apóstoles son los que se quedaron. Fueron los creyentes comunes, los que salieron huyendo, los que hablaron.
 
-Eso no encajaba con lo que yo había dicho de mí mismo.
+Eso no encajaba con lo que yo venía diciendo de mí mismo.
 
-Quiero tener cuidado aquí, porque es el primer lugar donde este libro le pide al lector que confíe en él. El hallazgo no resultó ser una obligación plana de que todos hagan lo mismo. Trabajo posterior lo volvió bastante más cuidadoso que eso, y el capítulo 5 muestra por qué. Pero me costó la versión fácil de mi propia posición en la segunda semana, usando un método que yo había construido precisamente para que no se pudiera torcer a mi favor.
+Quiero medir bien esta parte, porque es el primer lugar donde el libro te pide que confíes en él. El hallazgo no terminó siendo una obligación pareja de que todos hagan lo mismo; el trabajo posterior lo volvió bastante más cuidadoso, y el capítulo 6 explica por qué. Pero me costó la versión fácil de mi propia posición en la segunda semana, y me la costó un método que yo había armado precisamente para que no se dejara torcer a mi favor.
 
-Si un método nunca le cuesta nada a su dueño, no es un método. Es una defensa.
+Si un método nunca le cuesta nada a quien lo construyó, no es un método. Es una defensa.
 
 ***
 
-Así que eso es el libro. Una investigación, corrida en orden, con los fracasos adentro.
+Y eso es este libro: una investigación llevada adelante en orden, sin borrar los fracasos.
 
-Usted me va a ver equivocarme con un verbo griego y corregirlo, y después va a ver que la corrección me entregó una pieza de evidencia mejor que el error, una que apuntaba en contra de la lectura que yo prefería. Va a ver una teoría que me habría encantado que fuera cierta investigada durante tres etapas y rechazada, porque la evidencia a su favor era débil, y porque no tengo derecho a descartar la evidencia débil cuando es de otro y quedármela cuando es mía.
+Me vas a ver equivocarme con un verbo griego y corregirlo, y vas a ver que la corrección terminó dándome mejor evidencia que el error, evidencia que además apuntaba en contra de la lectura que yo prefería. Vas a ver una teoría que me habría encantado que fuera cierta investigada durante tres etapas y descartada, porque la evidencia a su favor era débil, y porque no puedo exigir evidencia fuerte cuando la idea es ajena y conformarme con poco cuando es mía.
 
-También me va a ver llegar al final sin la respuesta que la gente más quiere.
+También me vas a ver llegar al final sin la respuesta que la gente más quiere.
 
-Puedo decirle con verdadera confianza que buena parte de lo que me entregaron como futuro fue dicho a una audiencia del primer siglo sobre acontecimientos del primer siglo. Puedo mostrarle por qué. Puedo mostrarle qué tendría que ser cierto para que yo estuviera equivocado en eso.
+Puedo decirte con verdadera confianza que buena parte de lo que me entregaron como futuro se dijo a una audiencia del primer siglo sobre acontecimientos del primer siglo. Puedo mostrarte por qué, y puedo mostrarte qué tendría que ser cierto para que yo estuviera equivocado.
 
-No puedo decirle dónde estamos parados ahora. No con la confianza que necesitaría para ponerlo por escrito. El último capítulo pone una marca sobre una cadena de acontecimientos y la marca es un signo de interrogación. Lo dejé ahí a propósito. Inventar certeza a última hora desharía aquello para lo que sirvieron las cuatrocientas páginas anteriores.
+Lo que no puedo decirte es dónde estamos parados hoy. No con la seguridad que haría falta para dejarlo por escrito. El último capítulo pone una marca sobre una cadena de acontecimientos, y esa marca es un signo de interrogación. La dejé ahí a propósito. Inventar certeza a última hora echaría a perder todo lo que vino antes.
 
-No le estoy pidiendo que crea nada de esto porque yo lo escribí.
+No te estoy pidiendo que creas nada de esto porque lo escribí yo.
 
-Le estoy pidiendo que lo verifique.
+Te estoy pidiendo que lo verifiques.

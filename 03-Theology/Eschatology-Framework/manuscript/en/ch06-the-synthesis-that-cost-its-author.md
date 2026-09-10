@@ -88,7 +88,7 @@ The method I built in Chapter 2 was built to be neutral. That is easy to claim. 
 
 It did not correct a hypothetical opponent. There is no opponent in this chapter. It corrected me.
 
-I am asking you, across the next four hundred pages, to accept some conclusions that a lot of people would find unusual. The only reason you have to take those seriously is if the thing producing them can be shown to bite the hand that built it.
+I am asking you, across the rest of this book, to accept some conclusions that a lot of people would find unusual. The only reason you have to take those seriously is if the thing producing them can be shown to bite the hand that built it.
 
 This is the receipt. There will be others.
 

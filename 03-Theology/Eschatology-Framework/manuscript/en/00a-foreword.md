@@ -51,7 +51,7 @@ Then I followed Acts through in order. Acts 8 says that when the believers were 
 
 That did not fit what I had said about myself.
 
-I want to be careful here, because it is the first place this book asks you to trust it. The finding did not turn out to be a flat obligation on everyone to do the same thing. Later work made it considerably more careful than that, and Chapter 5 shows why. But it cost me the easy version of my own position in about the second week, using a method I had built so that it could not be bent to protect me.
+I want to be careful here, because it is the first place this book asks you to trust it. The finding did not turn out to be a flat obligation on everyone to do the same thing. Later work made it considerably more careful than that, and Chapter 6 shows why. But it cost me the easy version of my own position in about the second week, using a method I had built so that it could not be bent to protect me.
 
 If a method never costs its owner anything, it is not a method. It is a defense.
 
@@ -65,7 +65,7 @@ You will also watch me reach the end without the answer people most want.
 
 I can tell you with real confidence that a great deal of what I was handed as future was spoken to a first-century audience about first-century events. I can show you why. I can show you what would have to be true for me to be wrong about it.
 
-I cannot tell you where we are standing now. Not with the confidence I would need to put it in print. The last chapter puts a marker on a chain of events and the marker is a question mark. I left it there on purpose. Inventing certainty at the last minute would undo what the previous four hundred pages were for.
+I cannot tell you where we are standing now. Not with the confidence I would need to put it in print. The last chapter puts a marker on a chain of events and the marker is a question mark. I left it there on purpose. Inventing certainty at the last minute would undo what everything before it was for.
 
 I am not asking you to believe any of this because I wrote it.
 

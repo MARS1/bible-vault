@@ -58,7 +58,7 @@ What interested me was not that they exist. It was the shape of what they are to
 
 Reclining at table with Abraham, Isaac, and Jacob. The picture is not that the Gentile receives a different arrangement, running in parallel. It is that he arrives at the table where Israel's fathers are already seated.
 
-That image is going to come back. Nine hundred pages of argument later, when Paul reaches for a picture of what has happened to Gentiles like me, he uses a tree that was already growing.
+That image is going to come back. Much later in this investigation, when Paul reaches for a picture of what has happened to Gentiles like me, he uses a tree that was already growing.
 
 ## One thing I could not resolve, left unresolved
 

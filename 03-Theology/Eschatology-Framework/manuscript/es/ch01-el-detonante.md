@@ -5,12 +5,12 @@ category: theology
 language: es
 source_part: en-part-01
 source_baseline_commit: bf7b587
-translation_status: draft-1
-tags: [draft-1, parte-i, capitulo-01, etapa-1, el-detonante, prooftexting]
+translation_status: draft-1-calibrated
+tags: [draft-1, parte-i, capitulo-01, etapa-1, el-detonante, citas-apiladas, tuteo]
 reference: "Mateo 28:19-20; Marcos 16:15; 1 Corintios 12:29; Efesios 4:11; 1 Pedro 3:15"
 created: 2026-09-10
 status: draft
-localization: "BORRADOR 1 en español. Edición hermana desde la línea base inglesa revisada (commit bf7b587) más el archivo de evidencia; NO es traducción del inglés. Todas las citas bíblicas se tomaron directamente de RVR1960. NIVELES DE EVIDENCIA MANTENIDOS: no se afirma nada más allá de que la pregunta no podía resolverse con el método que se estaba usando. REGLA DE PRIVACIDAD APLICADA. TERMINOLOGÍA: no globo/global/globalmente/planeta/planetario/mundial en sentido cosmológico moderno."
+localization: "BORRADOR 1 CALIBRADO. Edición hermana, no traducción. Citas bíblicas tomadas directamente de RVR1960. Tuteo contenido, pronombre casi siempre implícito; no rioplatense. Regla rectora: se conserva la función retórica, no la sintaxis inglesa. NIVELES DE EVIDENCIA MANTENIDOS: no se afirma nada más allá de que la pregunta no se podía resolver con el método que se estaba usando. REGLA DE PRIVACIDAD APLICADA. TERMINOLOGÍA: no globo/global/globalmente/planeta/planetario/mundial en sentido cosmológico moderno."
 related: "[[10-manuscript-architecture]], [[00a-narrative-spine]]"
 ---
 
@@ -18,9 +18,9 @@ related: "[[10-manuscript-architecture]], [[00a-narrative-spine]]"
 
 La conversación era sobre el evangelismo.
 
-Otro creyente y yo estábamos hablando, y debajo de la conversación había dos preguntas que no se dejaban separar. ¿Carga todo seguidor de Yeshúa la misma obligación de ir a hablarle a la gente de Él? Y, entrando de lado, casi como comentario al margen: ¿cómo termina una persona leyendo la profecía como yo había empezado a leerla, más como algo cumplido que como algo pendiente?
+Estábamos hablando otro creyente y yo, y debajo de la conversación había dos preguntas que no se dejaban separar. ¿Tiene todo seguidor de Yeshúa la misma obligación de salir a hablarle a la gente de Él? Y, entrando de costado, casi como comentario al margen: ¿cómo termina alguien leyendo la profecía como yo había empezado a leerla, más como algo cumplido que como algo pendiente?
 
-No voy a reproducir la conversación ni voy a identificar a la persona. Él no es el tema de este libro y el argumento no lo necesita. Lo que importa es lo que noté a mitad de la conversación, que fue que estaba a punto de ganar.
+No voy a reproducir la conversación ni voy a decir quién era. Él no es el tema de este libro y el argumento no lo necesita. Lo que importa es lo que noté a mitad de camino, que fue que estaba a punto de ganar.
 
 Yo tenía los versículos.
 
@@ -28,9 +28,9 @@ Yo tenía los versículos.
 
 > Id por todo el mundo y predicad el evangelio a toda criatura (Marcos 16:15)
 
-Esa es una mano fuerte. Es la mano que juega casi todo el mundo, y suele jugarse como si el asunto se cerrara ahí.
+Es una mano fuerte. Es la mano que juega casi todo el mundo, y se juega como si con eso el asunto quedara cerrado.
 
-El otro lado también tiene mano, y no es débil.
+El otro lado también tiene mano, y no es mala.
 
 > ¿Son todos apóstoles?, ¿son todos profetas?, ¿todos maestros? (1 Corintios 12:29)
 
@@ -38,48 +38,48 @@ El otro lado también tiene mano, y no es débil.
 
 > estad siempre preparados para presentar defensa con mansedumbre y reverencia ante todo el que os demande razón de la esperanza que hay en vosotros (1 Pedro 3:15)
 
-Lea ese segundo grupo por su cuenta y se forma otra imagen. Los dones se reparten de manera despareja. Evangelista es un cargo con nombre propio, lo cual sugiere que no todos lo ocupan. Y la instrucción de Pedro no es salga a buscar gente y póngase a hablar. Es esté listo cuando alguien pregunte.
+Lee ese segundo grupo por separado y se arma otra imagen. Los dones no se reparten por igual. La Escritura menciona al evangelista como una función específica, lo que sugiere que no todos la ocupan. Y lo que manda Pedro no es salir a buscar gente para hablarle: es estar listo cuando alguien pregunta.
 
 Dos montones de versículos. Los dos reales. Los dos en el mismo libro.
 
-## Lo que en realidad estaba haciendo
+## Lo que estaba haciendo en realidad
 
-Yo no estaba a punto de convencer a nadie. Estaba a punto de ganarle por cantidad de citas.
+No estaba a punto de convencer a nadie. Estaba a punto de ganarle por cantidad de citas.
 
-Si él hubiera vuelto con tres versículos más, yo me habría ido a buscar cuatro. La conversación tenía una forma, y la forma era que el primero que se queda sin municiones concede, y al que concede se le da por equivocado.
+Si él volvía con tres versículos más, yo salía a buscar cuatro. La conversación tenía una forma, y la forma era esta: el primero que se queda sin municiones cede, y al que cede se le da por equivocado.
 
 Eso no es un argumento. Es un concurso de inventario.
 
-El problema no es que los versículos sean falsos. Cada versículo de los dos montones está realmente ahí. El problema es que apilarlos no dice nada, porque no hay ningún paso del procedimiento en el que la evidencia decida algo. Solo hay un paso en el que alguien se cansa.
+El problema no está en los versículos: cada uno de los dos montones existe de verdad. El problema es que apilarlos no resuelve nada, porque en todo el procedimiento no hay un solo paso en el que decida la evidencia. Solo hay un paso en el que alguien se cansa.
 
-Llevaba mucho tiempo llamándole a eso estudio bíblico.
+Llevaba años llamándole a eso estudiar la Biblia.
 
-## Tres cosas que no podía contestar
+## Tres preguntas que no supe contestar
 
-Cuando dejé de tratar de ganar, salieron a la superficie unas preguntas que en realidad nunca me había hecho.
+Cuando dejé de intentar ganar, salieron a flote unas preguntas que en realidad nunca me había hecho.
 
-La primera era sobre la audiencia. Mateo 28 se le dice a alguien. No a nadie, y no, en primera instancia, a mí. Hay gente en la habitación. Yo lo había estado citando como si fuera un memorando dirigido a todo creyente de todo siglo, y nunca había verificado si el texto dice eso o si yo lo había supuesto.
+La primera era de audiencia. Mateo 28 se le dice a alguien. No al aire, y no, en primera instancia, a mí: hay gente en la habitación. Yo lo venía citando como si fuera una circular dirigida a todo creyente de todos los siglos, y jamás había revisado si el texto dice eso o si lo estaba dando por hecho.
 
-La segunda era sobre el significado. Todas las naciones. Todo el mundo. Yo sabía lo que esas frases significaban para mí, parado en el siglo veintiuno con un mapa de toda la tierra en la cabeza. No tenía idea de lo que significaban para un pescador galileo en la cuarta década del primer siglo. Nunca lo había preguntado. Sencillamente le había prestado mi mapa.
+La segunda era de significado. Todas las naciones. Todo el mundo. Yo sabía qué significaban esas frases para mí, parado en el siglo veintiuno con un mapa de toda la tierra en la cabeza. No tenía la menor idea de qué significaban para un pescador galileo en la cuarta década del primer siglo. Nunca lo pregunté: simplemente le presté mi mapa.
 
-La tercera era sobre categorías. ¿Qué clase de cosa es una comisión? ¿Es un cargo dado a personas determinadas para una tarea determinada, como un rey comisiona a un enviado? ¿Es una orden permanente para toda una comunidad para siempre? Son cosas distintas, la diferencia decide el argumento entero, y yo nunca las había separado.
+La tercera era de categorías. ¿Qué clase de cosa es una comisión? ¿Es un encargo dado a personas concretas para una tarea concreta, como un rey que comisiona a un enviado? ¿O es una orden permanente para toda una comunidad y para siempre? Son cosas distintas, la diferencia decide el argumento entero, y yo nunca las había separado.
 
-Ninguna de esas es una pregunta sobre el fin del mundo. Eso viene después, y viene sin que nadie lo invite. Todas son preguntas sobre cómo se lee.
+Ninguna de las tres es una pregunta sobre el fin del mundo. Eso llega después, y llega sin que nadie lo invite. Las tres son preguntas sobre cómo se lee.
 
 ## Por qué no contesté
 
 Dije que lo iba a pensar.
 
-Suena más pequeño de lo que se sintió. Lo que quería decir era que había notado que mi método estaba roto, y que contestar con un método roto me iba a dar una respuesta en la que no podría confiar aunque resultara correcta.
+Suena a menos de lo que fue. Lo que quise decir es que acababa de darme cuenta de que mi método estaba roto, y que contestar con un método roto me iba a dejar con una respuesta en la que no podría confiar aunque saliera correcta.
 
-Esa es la trampa del prooftexting, del argumento por acumulación de citas. Puede llegar a una conclusión verdadera. Lo que no puede es decirle a uno si llegó, porque el procedimiento no tiene manera de distinguir entre "esto es correcto" y "encontré más versículos".
+Esa es la trampa de apilar citas. Puede llegar a una conclusión verdadera; lo que no puede es avisarte si llegó, porque el procedimiento no distingue entre "esto es correcto" y "encontré más versículos".
 
-Así que había dos opciones. Contestar la pregunta y esperar que saliera bien. O irme a construir una manera de resolver preguntas como esta antes de tocar esta en particular, para que lo que construyera no se pudiera torcer en silencio hacia la respuesta que ya me gustaba.
+Tenía dos opciones. Contestar y cruzar los dedos. O irme a construir una manera de resolver preguntas como esta antes de tocar esta en particular, para que lo que armara no se pudiera inclinar en silencio hacia la respuesta que ya me gustaba.
 
-Escogí la segunda. Tomó mucho más de lo que esperaba, y es el capítulo siguiente.
+Elegí lo segundo. Tomó mucho más de lo que esperaba, y es el capítulo que sigue.
 
 ---
 
-**Dónde estamos.** La pregunta era si todo creyente carga la misma obligación de evangelizar. No pude contestarla, porque el único método que tenía era apilar citas, y apilar citas no puede arbitrar entre dos montones de versículos reales. Lo que eso ganó fue la pregunta siguiente: ¿qué método permitiría resolver esto con evidencia y no con quién cita de último?
+**Dónde estamos.** La pregunta era si todo creyente tiene la misma obligación de evangelizar. No supe contestarla, porque lo único que tenía era apilar citas, y apilar citas no puede arbitrar entre dos montones de versículos reales. Lo que se ganó ahí fue la pregunta siguiente: ¿qué método permitiría resolver esto con evidencia y no con quién cita de último?
 
-**Pregunta abierta, planteada aquí y no contestada hasta dentro de veintitrés capítulos.** He citado "todas las naciones" y "todo el mundo" en este capítulo sin examinar ninguna de las dos. Es deliberado. Así es como yo las estaba usando en ese momento. Si esas frases significaban para sus primeros oyentes lo que significan para un lector moderno resulta ser una de las preguntas más grandes de este libro, y no se resuelve hasta el capítulo 23.
+**Pregunta abierta, planteada aquí y sin contestar hasta dentro de veintitrés capítulos.** He citado "todas las naciones" y "todo el mundo" sin examinar ninguna de las dos. Es deliberado: así las estaba usando yo en ese momento. Si esas frases significaban para sus primeros oyentes lo que significan para un lector de hoy resulta ser una de las preguntas más grandes del libro, y no queda resuelta hasta el capítulo 23.

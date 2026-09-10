@@ -1,0 +1,11 @@
+Edition:        Español (es)
+Part:           1  Parte I: La pregunta que no se quedó pequeña
+Milestone:      d1-initial
+Source commit:  f25258f7fba5deb9e13d34952b7a01067d14f336
+Commit date:    2026-09-10
+Tree state:     source committed at this commit
+Built:          2026-09-10
+Extent:         9,448 words, 46 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit f25258f
