@@ -38,22 +38,22 @@ blockquote p { text-align: left; margin-bottom: 0.4em; }
 
 /* ---------- shared callout frame ---------- */
 div.person, div.whereweare, div.earned, div.openquestion, div.textualnote,
-div.finding, div.wordstudy, div.historical, div.evidence, div.chain {
+div.finding, div.wordstudy, div.historical, div.evidence, div.claimtypes, div.chain {
   margin: 1.5em 0; padding: 0.85em 1em 0.9em; page-break-inside: avoid;
   font-size: 10.5pt; line-height: 1.5;
 }
 div.person p, div.whereweare p, div.earned p, div.openquestion p, div.textualnote p,
-div.finding p, div.wordstudy p, div.historical p, div.evidence p, div.chain p {
+div.finding p, div.wordstudy p, div.historical p, div.evidence p, div.claimtypes p, div.chain p {
   text-align: left; margin: 0 0 0.5em;
 }
 div.person p:last-child, div.whereweare p:last-child, div.earned p:last-child,
 div.openquestion p:last-child, div.textualnote p:last-child, div.finding p:last-child,
-div.wordstudy p:last-child, div.historical p:last-child, div.evidence p:last-child,
+div.wordstudy p:last-child, div.historical p:last-child, div.evidence p:last-child, div.claimtypes p:last-child,
 div.chain p:last-child { margin-bottom: 0; }
 div.person strong:first-child, div.whereweare strong:first-child, div.earned strong:first-child,
 div.openquestion strong:first-child, div.textualnote strong:first-child,
 div.finding strong:first-child, div.wordstudy strong:first-child,
-div.historical strong:first-child, div.evidence strong:first-child, div.chain strong:first-child {
+div.historical strong:first-child, div.evidence strong:first-child, div.claimtypes strong:first-child, div.chain strong:first-child {
   font-family: "Helvetica Neue", Arial, sans-serif; font-weight: 600; font-size: 8.5pt;
   letter-spacing: 0.1em; text-transform: uppercase;
 }
@@ -82,6 +82,12 @@ div.historical  { background: none; border-left: 3px solid #c9cdd1; }
 div.evidence ol { margin: 0.3em 0 0; padding-left: 1.2em; }
 div.evidence li { margin-bottom: 0.25em; }
 div.evidence    { background: #f4f5f6; border-left: 3px solid #4a5157; }
+/* the six kinds of claim: a set, so it is bracketed, not laddered */
+div.claimtypes  { background: none; border: 1px solid #4a5157; }
+div.claimtypes ul { margin: 0.4em 0 0; padding-left: 1.1em; list-style: none; }
+div.claimtypes li { margin-bottom: 0.3em; text-indent: -1.1em; padding-left: 1.1em; }
+div.claimtypes li::before { content: "\2014\00a0"; color: #6c7378; }
+
 /* the growing chain */
 div.chain       { background: none; border: 1px solid #c9cdd1; text-align: center; }
 div.chain p     { text-align: center; margin-bottom: 0.3em; }

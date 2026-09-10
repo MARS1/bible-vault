@@ -40,18 +40,30 @@ Second Temple Judaism is the name for Jewish religious life between the rebuildi
 
 Most of this book is prose. But when the thing being described *is* a structure, the reader should see the structure rather than excavate it.
 
-::: evidence
-**Evidence levels**
+::: claimtypes
+**How claims are labeled**
 
-1. What the text says **explicitly**
-2. What follows by **strong cumulative inference**
-3. What I hold as a **probable reconstruction**
-4. What is **historical observation**
-5. What remains a **hypothesis**
-6. What is an **open question**
+- **EXPLICIT TEXT** — the passage says it
+- **STRONG CUMULATIVE INFERENCE** — many independent lines converge
+- **PROBABLE RECONSTRUCTION** — my best account of how the pieces fit
+- **HISTORICAL OBSERVATION** — something about the world, checkable
+- **HYPOTHESIS** — under test, not established
+- **OPEN QUESTION** — deliberately not claimed
 :::
 
-That is the one ladder the whole book runs on, and it earns a break-out. A list of four adjectives does not.
+Those are six **kinds** of claim, not six rungs of one ladder. A historical observation is not weaker than a probable reconstruction; Jerusalem was destroyed in the year 70 is about as firm as anything in this book. And an open question is a status, not a faint conclusion.
+
+The genuine scale is separate, and it measures something else entirely: how hard a given piece of evidence bears on whatever claim is in front of it.
+
+::: evidence
+**How strongly evidence bears**
+
+**CONTRADICTS** → **PERMITS** → **SUPPORTS** → **REQUIRES**
+
+Most of what gets called proof lives at *permits*, which only means the claim can survive next to the evidence. Where something only permits, this book says so, including where I would rather it required.
+:::
+
+Two tools, two questions. *What kind of claim is this?* and *how hard does this evidence press on it?* Collapsing them is the single easiest way to launder a guess into a finding, which is why they do not share a component.
 
 ::: wordstudy
 **Original language**

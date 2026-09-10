@@ -429,6 +429,39 @@ related: "[[00-index]], [[00a-narrative-spine]], [[09-manuscript-integrity-audit
 >
 > **🛠️ ENFORCED IN THE TOOL, NOT ONLY IN THIS DOCUMENT: `build-manuscript.py --snapshot <milestone>` REFUSES to overwrite an existing milestone and exits.** **A new reviewed state gets a new milestone name; it never silently replaces the previous one.**
 
+### ⑲ Person callouts — **A RULE WITH A THRESHOLD, NOT A HABIT** *(2026-09-10)*
+
+> ### ✅ **`BIBLICAL PERSON` / `HISTORICAL PERSON` on the FIRST SUBSTANTIVE APPEARANCE of a person whose identity or role MATERIALLY HELPS A GENERAL READER FOLLOW THE ARGUMENT.** One to three sentences: who they are · where they sit in the story · any distinction needed to avoid confusion with someone of the same name.
+>
+> ### 🛑 **NOT MECHANICALLY FOR EVERY NAME.** A person mentioned in passing for half a sentence does not get a box. ❗ **WITHOUT THE THRESHOLD, REVELATION BECOMES BOX CITY.**
+>
+> ### ✅ **NEVER REPEATED** on later appearances. **The People appendix remains the permanent lookup; these solve a different problem — the reader should not have to flip to the back to understand the paragraph in front of them.**
+>
+> **First instance shipped: John the Baptist, explicitly distinguished from John the apostle. Spanish independently as `Juan el Bautista`.** ⚠️ **And when Revelation arrives, the traditional identification of John the apostle with John of Revelation is EXPLAINED, not assumed — this project's own method forbids treating it as textually settled if the evidence has not settled it.**
+
+### ⑳ Claim TYPE and evidence STRENGTH are two different tools *(2026-09-10)*
+
+> ### ❗❗ **THEY MUST NEVER SHARE A COMPONENT, A HEADING, OR A VISUAL TREATMENT.** The design proof's first version collapsed them and had to be corrected.
+>
+> ### **`claimtypes` — WHAT KIND OF CLAIM IS THIS?** explicit text · strong cumulative inference · probable reconstruction · historical observation · hypothesis · open question. 🛑 **A SET, NOT A LADDER. Historical observation is NOT weaker than probable reconstruction — *Jerusalem was destroyed in the year 70* is about as firm as anything in the book. And an open question is a STATUS, not a faint conclusion.** Rendered bracketed, never numbered.
+>
+> ### **`evidence` — HOW HARD DOES THIS EVIDENCE BEAR?** **CONTRADICTS → PERMITS → SUPPORTS → REQUIRES.** ✅ **A genuine scale, and the only one.**
+>
+> ### 📐 **WHY THIS IS LOAD-BEARING RATHER THAN COSMETIC: collapsing the two is the single easiest way to launder a guess into a finding, which is the exact failure ADR-0010 exists to prevent. The methodology of the book is this distinction in miniature.**
+
+### ㉑ Part I review round three — **CLOSED FOR DRAFT 1** *(2026-09-10)*
+
+| | Correction | Why |
+|---|---|---|
+| **1** | **Ch. 6 stops strengthening the relative's position into one he never held** | He argued a broad obligation to carry the message outward. ❗ **HE DID NOT CLAIM EVERY BELIEVER HOLDS THE OFFICE OF EVANGELIST, and Ephesians 4:11 only defeats the claim he did not make.** The chapter now says so outright: *"I was defeating a claim he had not made, and losing the one he had."* |
+| **2** | **The outcome is no longer symmetrical** | 🛑 **"BOTH POSITIONS FAIL" IS RETIRED.** *Mine failed; his needed qualification.* The chapter names the temptation as it declines it: *"The clean version of this chapter has both of us equally wrong, meeting in a tidy middle. That is not what happened."* |
+| **3** | **Acts 8 is held to exactly what it carries** | ❗❗ **AN INTERNAL CONTRADICTION WAS SHIPPING: Ch. 6 said the announcers were the people Luke does not identify by office, and four pages later cited Acts 21:8 calling Philip THE EVANGELIST — and Philip is IN Acts 8.** Replaced with an `evidence` box: **REQUIRES** proclamation was not restricted to the apostles · **SUPPORTS** it extended past a narrow apostolic office · **DOES NOT ESTABLISH** that those scattered held no calling. ✅ **The chapter narrates its own error rather than deleting it.** |
+| **4** | **Design proof: claim types split from the evidence scale** | See ⑳. |
+
+> ### 🛑🛑 **PART I IS CLOSED FOR DRAFT 1. DO NOT KEEP POLISHING IT** unless a later cross-Part dependency exposes an actual factual, theological, provenance or structural problem. **At some point continued improvement becomes avoidance of writing the rest of the book.**
+>
+> ### ✅ **PART II IS AUTHORIZED. Chapters 7 through 12, the Olivet Discourse.**
+
 ### ⑨ Gate precondition — ✅ **CONFIRMED CLEAN BEFORE THIS APPROVAL TOOK EFFECT**
 
 | Requirement | Status |

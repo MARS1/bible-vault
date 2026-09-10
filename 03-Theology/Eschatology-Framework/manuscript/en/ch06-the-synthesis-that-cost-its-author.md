@@ -20,13 +20,17 @@ Here is what the method produced.
 
 He was arguing that Yeshua commanded proclamation and that a believer who knows something ought to be carrying it outward. I was arguing that Scripture hands out gifts and callings unevenly and that mine was not evangelism.
 
-The tidy versions of both are dead, and they are killed by different verses. Mine dies first, so I will take it first.
+One of those does not survive and the other needs qualifying, and I want to be exact about which is which. Mine is the one that does not survive, so I will take it first.
 
 What dies on my side is the use I was making of differentiated ministry: that because I am not an evangelist, proclamation has nothing to do with me. Acts 8:4 kills that, as I walked through two chapters ago. The apostles stayed. The scattered ordinary believers announced. Whatever else is true, that sentence exists, and the man who quoted it at me was not wrong to quote it.
 
 Note what it does not settle. It does not tell me that apostolic commission and ordinary witness are the same thing, and Part VII of this book spends a long time on the difference.
 
-What dies on his side is the claim that every believer holds an identical evangelistic ministry or office, and Paul kills that three ways.
+What is qualified on his side is narrower than I would like it to be, and I want to be careful here, because it would be easy to hand myself a cleaner victory than the evidence gives me.
+
+He was not claiming that every believer holds the office of evangelist. He was claiming that a believer who knows something ought to be carrying it outward, and that Yeshua commanded proclamation. Ephesians 4:11 does not touch that claim. It touches a stronger one, which he never made.
+
+So what Paul actually rules out, three ways, is the collapse of ordinary witness into one identical evangelistic office for everybody.
 
 Ephesians 4:11 lists evangelists as one gift among several. A list of distinct gifts in which evangelist is one item cannot mean everyone is that item.
 
@@ -34,7 +38,11 @@ Ephesians 4:11 lists evangelists as one gift among several. A list of distinct g
 
 And Acts 21:8 mentions Philip the evangelist, using it as an identifying description, the way you would say Luke the physician. It is a designation that distinguishes him. If it applied to everyone it would identify no one.
 
-So the tidy version of each position fails on explicit text. I could not have arrived here by counting verses, because both of us had verses. I arrived by asking what each set was actually claiming, and finding that the two sets are not answering the same question. He was answering *is proclamation for everyone.* I was answering *is the office of evangelist for everyone.* Those are different questions, and neither of us had noticed.
+That matters, and it is worth resisting the shape my instinct wants to give it. The clean version of this chapter has both of us equally wrong, meeting in a tidy middle. That is not what happened.
+
+What happened is that my position failed and his position needed qualifying. Those are not the same outcome, and pretending they are would be the most flattering sentence in the book.
+
+I could not have arrived here by counting verses, because both of us had verses. I arrived by asking what each set was actually claiming, and finding that the two sets are not answering the same question. He was answering *is proclamation for everyone.* I was answering *is the office of evangelist for everyone.* Those are different questions, and neither of us had noticed. I was defeating a claim he had not made, and losing the one he had.
 
 ## What replaces them is a distinction, not a rule
 
@@ -42,9 +50,21 @@ The finding is not a third position that splits the difference. It is a separati
 
 There is the question of ministry, meaning a particular calling, gifting, and role. Scripture distributes those unevenly, on purpose, and says so repeatedly. Nobody is required to be an evangelist.
 
-Then there is the question of witness, meaning whether a believer who has been given something true is free to be silent about it as a matter of settled policy. That is a different question, and Acts 8:4 makes it hard to answer yes. Luke gives those scattered believers no evangelistic office or title in that passage. They had been run out of town, and they talked.
+Then there is the question of witness, meaning whether a believer who has been given something true is free to be silent about it as a matter of settled policy. That is a different question, and Acts 8:4 makes it hard to answer yes. They had been run out of town, and they talked.
 
-I want to be careful about what that does and does not show, because there is an argument available here that I am not going to make. Luke's silence about what commission those people understood themselves to be under is silence. It is not evidence that they had none. What the passage establishes is narrower: proclamation is happening, and the people doing it are not the ones Acts identifies by office.
+This is a good place to slow down and say exactly what that verse carries, because I have watched myself ask it to carry more.
+
+::: evidence
+**What Acts 8 bears**
+
+**REQUIRES** — proclamation was not restricted to the apostles. Acts 8:1 puts the apostles outside the scattering; Acts 8:4 has the scattered announcing the word. That is explicit and it is not negotiable.
+
+**SUPPORTS** — proclamation extended beyond a narrowly defined apostolic office, which is the point I actually needed and did not have.
+
+**DOES NOT ESTABLISH** — that none of those scattered believers held any particular calling. Luke's silence about what commission they understood themselves to be under is silence, not evidence of absence. And the chapter itself argues against the stronger reading: Philip is right there in Acts 8, going down to Samaria and proclaiming, and thirteen chapters later Luke calls him *Philip the evangelist*.
+:::
+
+I had that last point backwards in an earlier draft. I wrote that the people announcing in Acts 8 were the ones Luke does not identify by office, and then, four pages later, cited Acts 21:8 calling Philip the evangelist. Both sentences were in the same chapter. One of them had to go, and it was not the one with a verse attached.
 
 I had been using the first question to answer the second. That was the actual error, it was mine, and it had been comfortable for years.
 
@@ -56,7 +76,7 @@ I said in the foreword that I had told myself preaching was not my thing. The ve
 
 Taken one way, that sentence is defensible and Scripture supports it. It can mean this is not my particular ministry, I am not the evangelist in this body, that gift went elsewhere. Ephesians 4 and 1 Corinthians 12 permit that. More than permit it, they describe it.
 
-Taken the other way, it means I have no responsibility to bear witness to what I have been shown. And I cannot get that past Acts 8:4, where the people Luke identifies by neither evangelistic office nor title are the ones announcing.
+Taken the other way, it means I have no responsibility to bear witness to what I have been shown. And I cannot get that past Acts 8:4, where believers the apostles had left behind are the ones announcing.
 
 Same five words. Two meanings. One survives and one does not, and I had been leaning on the ambiguity without noticing, because the defensible meaning was always available if anyone pressed, while the meaning I was actually operating on was the other one.
 
@@ -92,7 +112,7 @@ I want to be plain about why this small chapter matters more than its subject do
 
 The method I built in Chapter 2 was built to be neutral. That is easy to claim. The only way to demonstrate it is for the method to produce a result its owner did not want, and here it did, in the second or third week, on a position I had held comfortably for years and had defended to a member of my own family.
 
-There is an opponent in this chapter, and the method did not simply hand him the win either. His tidy version died too. But mine died first, and it died on the verse he had already put in front of me and I had walked around.
+There is an opponent in this chapter, and the method did not hand him a clean win either. His claim needed qualifying. But qualifying is not the same as dying, and mine died, on the verse he had already put in front of me and I had walked around.
 
 I am asking you, across the rest of this book, to accept some conclusions that a lot of people would find unusual. The only reason you have to take those seriously is if the thing producing them can be shown to bite the hand that built it.
 
@@ -113,7 +133,7 @@ I expected to confirm what I already thought.
 ---
 
 ::: whereweare
-**Where we are.** Both original positions fail on explicit text. What replaces them is a distinction rather than a rule: ministry is distributed unevenly and nobody is required to be an evangelist, while witness is a different question that Acts 8:4 makes hard to answer with a settled silence. Two arguments that would have helped me were set down, one over a manuscript problem in a verse that was not mine, and one for assuming its own conclusion. The method cost its author something before it cost anyone else anything, which is the only real evidence that it was a method.
+**Where we are.** The two positions in that conversation did not fare equally. Mine failed on explicit text; his needed qualification rather than refutation, and saying otherwise would be the most flattering sentence available to me. What replaces them is a distinction rather than a rule: ministry is distributed unevenly and nobody is required to be an evangelist, while witness is a different question that Acts 8:4 makes hard to answer with a settled silence. Acts 8 is held to exactly what it carries: it requires that proclamation was not restricted to the apostles, and it does not establish that the people doing it held no calling, since Philip is standing in that same chapter. Two arguments that would have helped me were set down, one over a manuscript problem in a verse that was not mine, and one for assuming its own conclusion. The method cost its author something before it cost anyone else anything, which is the only real evidence that it was a method.
 :::
 
 ::: earned

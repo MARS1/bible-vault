@@ -1,0 +1,11 @@
+Edition:        English (en)
+Part:           1  Part I: The Question That Would Not Stay Small
+Milestone:      d1-provenance
+Source commit:  cf416e1d057f8ac9401c9a2d58cfaa463ad67e48
+Commit date:    2026-09-10
+Tree state:     source committed at this commit
+Built:          2026-09-10
+Extent:         10,387 words, 55 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit cf416e1
