@@ -335,6 +335,44 @@ related: "[[00-index]], [[00a-narrative-spine]], [[09-manuscript-integrity-audit
 >
 > ### ⚠️ **AND THE FAILURE MODE TO WATCH FOR IS QUIET AND FEELS LIKE TIDYING: by the time a weak claim has been restated three times as a strong one, the original qualifier is unrecoverable. If a compressed sentence cannot carry its qualifier, LENGTHEN THE SENTENCE.**
 
+### ⑩ Privacy — **A MANUSCRIPT-WIDE EDITORIAL RULE, NOT A ONE-OFF DECISION** *(2026-09-10)*
+
+> ### 🛑 **PRIVATE INDIVIDUALS ARE NOT NAMED AND ARE NOT MADE IDENTIFIABLE. ANYWHERE IN THE BOOK.**
+>
+> ### **Describe a person only to the minimum extent needed to explain why a question arose: *a classmate · a relative · someone I was speaking with*. ❗ IF EVEN THE RELATIONSHIP IS UNNECESSARY, GENERALIZE FURTHER.** **No identifying anecdotes for colour.**
+>
+> ### ✅ **DOES NOT APPLY TO: biblical figures · historical figures · published scholars and authors · other public figures, where identity is materially relevant to the evidence.**
+>
+> ### 📐 **THE REASON, STATED SO IT IS NOT MISTAKEN FOR SQUEAMISHNESS: the book is about the question and what Scripture did to the question. It is not about the people whose conversations happened to prompt it.** **The vault keeps the provenance; the manuscript does not need it.**
+
+### ⑪ Voice — **LOCKED PROVISIONALLY AS THE DRAFT 1 BASELINE** *(2026-09-10)*
+
+> ### ✅ **PLAIN · DIRECT · FIRST PERSON · CURIOUS · SELF-CRITICAL WHERE THE RECORD ACTUALLY WARRANTS IT.** **Calibrated against the 31 captured `✍️ MANUSCRIPT VOICE` lines in [[00a-narrative-spine]] — that is the sample, not a generic register.**
+>
+> ### ❗ **DO NOT MAKE THE NARRATIVE VOICE MORE ACADEMIC AS THE SUBJECT GETS TECHNICAL. The technical depth comes from the EVIDENCE — Scripture, Hebrew/Aramaic/Greek, history, textual criticism — never from complicating the narration.**
+>
+> ### ⚠️ **THE STANDING CAUTION, AND IT IS THE EASIEST RULE HERE TO BREAK: DO NOT OVERPRODUCE APHORISMS.** Lines like *"I was not about to persuade anybody. I was about to out-cite somebody"* and *"If a method never costs its owner anything, it is not a method. It is a defense"* work **because ordinary explanatory prose surrounds them.** **Five quotable declarations per page and the voice stops sounding lived and starts sounding written.** **Let strong lines arrive where the record earns them.**
+>
+> ### ✅ **AND PRESERVE THE NARRATOR'S ACTUAL STATE AT EACH POINT: uncertainty, mistakes, changes of mind, and the occasional flat inability to answer.** 🛑 **DO NOT MAKE THE NARRATOR WISER AT THE BEGINNING THAN HE WAS. The method develops while the investigation develops — that is a central narrative feature, not an accident to be edited out.**
+>
+> **📎 TOOLING: the `humanizer` skill runs over every drafted chapter, with the vault's voice lines as the sample.** *(Author instruction, 2026-09-10.)* **Its audit checks em dashes, curly quotes, emoji in prose, AI vocabulary, signposting, negative parallelism and boldface density.**
+
+### ⑫ Review cadence — **BY PART, NOT BY CHAPTER** *(2026-09-10)*
+
+> ### ✅ **WRITE A COMPLETE PART, THEN STOP FOR REVIEW. FIRST BATCH: PART I, CHAPTERS 1-6.**
+>
+> ### ❗ **WHY NOT CHAPTER BY CHAPTER: it starts line-editing before anyone can see whether the narrative works, and it risks "perfecting" a claim before the surrounding chapters deliberately complicate it.** 📐 **THE UNIT BEING EVALUATED IS NOT THE CHAPTER. IT IS THE MOVEMENT OF THOUGHT — which is exactly what the nine Parts are.**
+>
+> ### ❗ **WHY NOT ALL 44 FIRST: a voice or structural problem would propagate through the whole manuscript before anyone caught it.**
+>
+> **WHAT THE PART I REVIEW EVALUATES:** whether the voice holds across six chapters · whether the chapters form a narrative rather than six research summaries · whether Scripture and evidence carry the conclusions · whether technical material arrives when needed without burying a general reader · whether uncertainty and evidence levels stay visible · whether each transition makes the next question feel **earned rather than predetermined** · whether the journey is preserved rather than retrofitted to look inevitable.
+>
+> ### 🛑 **DO NOT STOP AFTER EVERY CHAPTER FOR APPROVAL — only for an actual integrity problem, or a decision that materially changes the architecture.** **Batch size may grow once a couple of Parts run smoothly.**
+
+### ⑬ Draft philosophy — **THIS IS DRAFT 1** *(2026-09-10)*
+
+> ### ✅ **PRIORITY IS GETTING THE ARGUMENT, THE JOURNEY, THE EVIDENCE AND THE VOICE ONTO THE PAGE CORRECTLY.** 🛑 **DO NOT OPTIMIZE EVERY SENTENCE YET. Structural and prose-editing passes come later, and sentence-level perfectionism now is the main thing that would stop a first complete manuscript from existing.**
+
 ### ⑨ Gate precondition — ✅ **CONFIRMED CLEAN BEFORE THIS APPROVAL TOOK EFFECT**
 
 | Requirement | Status |
