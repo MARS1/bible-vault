@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 """Build reader-facing and review-facing outputs for the manuscript.
 
+Governed by ADR-0011 (manuscript production architecture) in docs/adr/.
+The three non-obvious behaviors below are decisions recorded there, not
+implementation details: snapshots refuse to overwrite, Spanish is a sibling
+edition rather than a translation, and appearance lives in the stylesheet
+rather than in the prose.
+
 Canonical source is manuscript/<lang>/, one file per chapter. This script never
 edits it. Everything it writes is derived.
 

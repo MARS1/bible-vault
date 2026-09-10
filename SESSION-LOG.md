@@ -121,3 +121,27 @@ Running log of working sessions. Append after every session — never overwrite.
 **Commits:** (this entry's own commit)
 
 ---
+
+## 2026-09-09/10 — The investigation closed, and the book started
+
+**What we did:**
+- Recovered the session from a cold restart. The OBSIDIAN drive was unmounted, so the first real action was reporting a blocker rather than improvising around it.
+- Filed **Stage 64, 65 and 66** as canonical author text. Stage 65 had to be re-supplied — a prior session log claimed both 65 and 66 had been pasted, and only 66 had. Stage 64 was recovered byte-exact from a pre-restart transcript AND re-supplied by the author; the two copies were diffed before filing (14,186 chars each, zero differing lines). That is the strongest provenance in the archive and it was cheap to get.
+- **Closed the manuscript-integrity gate.** Decision ① recorded with a written definition of "load-bearing" so it cannot drift. The RVR60 pass then ran rather than being deferred: 87 of 87 load-bearing scripture-index entries covered, zero gaps, 63 witnesses retrieved from Bible Gateway, none composed.
+- That pass produced real findings rather than cosmetics, which is the argument for the Spanish lane existing at all. **q439**: RVR1960 supplies a finite verb at Rev 20:10 (*estaban*) where the Greek has none — it cuts against this archive. **q440**: RVR1960 independently preserves the ἐπισυνάγω/συλλέγω split that Stage 48 had to correct us on. **SYNC-002**: RVR1960 reads *el pacto* singular at Rom 9:4 where English reads plural, behind a known Greek variant, not adjudicated because the argument does not need it.
+- Proposed and got approval for a **manuscript architecture**: 9 Parts, 44 chapters, 66 stages treated as an evidence quarry rather than a chapter list. Now 22 numbered rulings in `10-manuscript-architecture.md`.
+- Drafted **EN Part I** (6 chapters), calibrated the voice against the 31 captured MANUSCRIPT VOICE lines rather than a generic register, ran the humanizer, and closed it for Draft 1 after three review rounds.
+- Built **ES Part I** as a sibling edition — RVR1960 quoted directly, never rendered from English. Then calibrated it twice: *usted* → restrained tuteo, and an anti-translationese pass under the rule *preserve rhetorical function, not English syntax*.
+- Drafted **EN Part II**, the Olivet Discourse, 8,400 words.
+
+**Key decisions:**
+- **The opening provenance was wrong and had to be rebuilt.** The manuscript had the author arriving with Matthew 28 and Mark 16 to argue that every believer must evangelize. He was on the other side; those texts were being pressed at him. Caught only when the original exchange surfaced. The vault had said so plainly all along at `00f-witness-synthesis` §10, and project memory recorded the true origin — both unread, because the session-start memory check was skipped. Extracted to KodeArk as `neutral-source-line-read-as-taking-a-side`.
+- **Chapter 6 was also strawmanning the relative**, and that is a separate error from the reversal. He argued a broad obligation to carry the message outward; he never claimed everyone holds the office of evangelist, which is the only claim Ephesians 4:11 defeats. "Both positions fail" is retired. Mine failed; his needed qualification. The asymmetry is truer and makes a better chapter.
+- **Acts 8 was shipping an internal contradiction.** Ch. 6 said the announcers were the people Luke does not identify by office, and four pages later cited Acts 21:8 calling Philip *the evangelist* — and Philip is in Acts 8. Replaced with REQUIRES / SUPPORTS / DOES NOT ESTABLISH, and the chapter narrates its own error rather than deleting it.
+- **Claim type and evidence strength are now permanently separate components.** The first design proof labeled six things "evidence levels" and called them one ladder. Historical observation is not a confidence rung and an open question is not a faint conclusion. Collapsing them is the easiest way to launder a guess into a finding.
+- **Standards go in tooling, not instructions.** The Spanish register list is `ES-REGISTER.md` and the build script enforces it on every Spanish build; snapshots refuse to overwrite rather than relying on discipline; every build reads its own PDF back because a clean exit code is not evidence.
+- **ADR-0011** written for the production architecture. `10-manuscript-architecture.md` records *what*; the ADR records *why*.
+
+**Tests:** n/a (vault). Render gate run fresh at close: 3 builds, 0 mojibake, 0 sections missing, ES register 0/0.
+
+**Commits:** `a6ac4d4` `2384fad` `6a85f94` `4307b29` `442f557` `bd1b6c3` `e74244e` `bf7b587` `f25258f` `d330195` `cf416e1` `6cc1618` `28db03f` `4b0696f` (+ this entry's own commit) · KodeArk `4582420`
