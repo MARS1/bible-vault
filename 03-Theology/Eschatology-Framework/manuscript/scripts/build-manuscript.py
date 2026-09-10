@@ -9,6 +9,10 @@ This script never edits it. It only produces derived artifacts in manuscript/_bu
   python3 build-manuscript.py --part 1 --no-pdf
 """
 import argparse, re, subprocess, sys
+try:
+    import pypdf
+except ImportError:
+    pypdf = None
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -87,21 +91,36 @@ def main():
 
         if a.no_pdf:
             continue
+        # Deliberately NOT --standalone. Pandoc's default template injects its own
+        # boilerplate CSS, which this script overwrites anyway, and which WeasyPrint
+        # then emits half a dozen warnings about. Take the body fragment and wrap it.
         html = BUILD / f"part-{p:02d}.html"
-        subprocess.run(["pandoc", str(clean), "-f", "markdown", "-t", "html5",
-                        "--standalone", "--metadata", f"title={title}",
-                        "-o", str(html)], check=True)
-        html.write_text(html.read_text().replace("</head>", f"<style>{CSS}</style></head>"))
+        frag = subprocess.run(["pandoc", str(clean), "-f", "markdown", "-t", "html5"],
+                              capture_output=True, text=True, check=True).stdout
+        html.write_text(f"<!doctype html>\n<html lang=\"en\"><head><meta charset=\"utf-8\">"
+                        f"<title>{title}</title><style>{CSS}</style></head><body>\n{frag}\n</body></html>\n")
         pdf = BUILD / f"part-{p:02d}.pdf"
         subprocess.run(["weasyprint", "-e", "utf-8", str(html), str(pdf)], check=True)
         print(f"PDF  {pdf.relative_to(ROOT)}  ({pdf.stat().st_size//1024} KB)")
 
-        # verification: a clean exit code is not proof the render is correct
+        # Verification. A clean exit code from WeasyPrint is not proof the render is
+        # correct, so read the finished PDF back and check it against the source.
         try:
-            txt = subprocess.run(["pdftotext", str(pdf), "-"], capture_output=True, text=True).stdout
-            bad = sum(txt.count(m) for m in ("â€", "�", "Ã"))
-            print(f"     verify: {len(txt.split()):,} words extracted, {bad} mojibake markers "
-                  + ("OK" if bad == 0 else "<-- BROKEN"))
+            raw = subprocess.run(["pdftotext", str(pdf), "-"], capture_output=True, text=True).stdout
+            txt = re.sub(r"^\s*\d+\s*$", "", raw, flags=re.M)      # drop page numbers
+            flat = re.sub(r"\s+", " ", txt)                        # headings wrap; normalize
+            got = len(txt.split())
+            bad = sum(raw.count(m) for m in ("â€", "\ufffd", "Ã"))
+            missing = [f.stem for f in files
+                       if re.sub(r"\s+", " ", declutter(strip_frontmatter(f.read_text()))
+                                 .strip().split("\n", 1)[0].lstrip("# ")) not in flat]
+            pages = len(pypdf.PdfReader(str(pdf)).pages) if pypdf else "?"
+            ok = bad == 0 and not missing and abs(got - words) < words * 0.02
+            print(f"     verify: {pages} pages, {got:,}/{words:,} words recovered, "
+                  f"{bad} mojibake, {len(missing)} sections missing  "
+                  + ("OK" if ok else "<-- CHECK"))
+            for m in missing:
+                print(f"       MISSING SECTION: {m}")
         except FileNotFoundError:
             print("     verify: SKIPPED, pdftotext not installed")
 
