@@ -1,0 +1,11 @@
+Edition:        English (en)
+Part:           1  Part I: The Question That Would Not Stay Small
+Milestone:      d1-reviewed
+Source commit:  bf7b587544e8ff7768fba510c3d9a19df1f7d48d
+Commit date:    2026-09-10
+Tree state:     source committed at this commit
+Built:          2026-09-10
+Extent:         9,188 words, 44 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit bf7b587
