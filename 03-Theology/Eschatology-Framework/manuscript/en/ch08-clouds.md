@@ -6,7 +6,7 @@ tags: [draft-1, part-ii, chapter-08, stage-8, daniel-7, cloud-coming, isaiah-19,
 reference: "Daniel 7:13-14; Matthew 24:30; Matthew 26:64; Mark 14:62; Isaiah 19:1; Psalm 18:9-12; Nahum 1:3; Exodus 13:21; Revelation 1:7"
 created: 2026-09-10
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part II. Source: Stage 8 and [[00h-coming-on-the-clouds]], with Stage 9's side branch held for the next chapter. LOAD-BEARING DIRECTIONAL CLAIM: in Daniel 7:13-14 the Son of Man comes TO the Ancient of Days. That movement is not silently converted into a descent to earth. 'You will see' is explicitly NOT settled by redefinition. EVIDENCE DISCIPLINE: claim TYPE and evidence STRENGTH are kept separate throughout. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1. Approved architecture v1.0, Part II. Source: Stage 8 and [[00h-coming-on-the-clouds]], with Stage 9's side branch held for the next chapter. LOAD-BEARING DIRECTIONAL CLAIM: in Daniel 7:13-14 the Son of Man comes TO the Ancient of Days. That movement is not silently converted into a descent to earth. 'You will see' is explicitly NOT settled by redefinition. EVIDENCE DISCIPLINE: claim TYPE and evidence STRENGTH are kept separate throughout. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide. D1-REVIEWED 2026-09-10: the Matthew 26:64 treatment conflated two questions and then morally loaded one answer — it called a recognition/vindication sense of 'see' a convenient redefinition while the chapter had just established that cloud-coming language can describe divine action within history. Now split: the second-person address is EXPLICIT and settled; what KIND of seeing the saying requires is untested here and stays OPEN, per the chapter's own OPEN QUESTION. ESV 'from now on' vs CJB 'one day' recorded — the translations diverge exactly at the timing phrase. DO NOT re-close the seeing-verb without testing it."
 related: "[[10-manuscript-architecture]], [[00a-narrative-spine]], [[00h-coming-on-the-clouds]], [[00i-stars-the-dragon-and-the-cross]]"
 ---
 
@@ -70,9 +70,21 @@ That is a second-person address to a specific set of people standing in a specif
 
 Here is where I had to stop myself, and I want it visible, because it is the exact error this book keeps accusing other systems of.
 
-The convenient move is to say that *you will see* does not really mean those men would see anything, or that *see* means something like understand or come to recognize. That move is available. It would make my life easier. And it is precisely the kind of redefinition-under-pressure that I have refused to accept from a futurist reading when the pressure ran the other way.
+Two questions are easy to run together here, and I ran them together at first.
 
-So I did not take it. **The verse is a problem for anyone, including me,** and this chapter records it as one.
+The address is settled. **You** is second-person plural, spoken to identifiable men standing in a specific room. Nothing in this chapter softens that, and I am not going to let it be softened later on if it becomes inconvenient.
+
+What *kind* of seeing the saying requires is a separate question, and I had no business closing it here. Reaching for a recognition sense *because* the plain one is awkward would be redefinition-under-pressure, and that is exactly the move I refuse to accept from a futurist reading when the pressure runs the other way. But treating ordinary eyesight as established — on the grounds that it is the first sense an English reader reaches for — is the same error wearing different clothes, and it is the one I nearly made. The verb has not been tested in these pages. Until it is, neither sense is settled.
+
+The translations will not let me pretend otherwise. They diverge exactly where the timing lives:
+
+> **from now on** you will see the Son of Man seated at the right hand of Power (Matthew 26:64, ESV)
+
+> **one day** you will see the Son of Man... (Matthew 26:64, CJB)
+
+*From now on* and *one day* are not the same claim. The RVR1960 goes with the first, *desde ahora veréis*. I am not going to resolve that here either.
+
+**So the verse stays open, and it is a difficulty for anyone,** including me. What it establishes is that specific men — His own judges — were told they would see something. What it does not establish is what seeing it would have required of them.
 
 ::: claimtypes
 **How claims are labeled**

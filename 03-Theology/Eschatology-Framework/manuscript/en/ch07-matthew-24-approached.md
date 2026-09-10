@@ -6,7 +6,7 @@ tags: [draft-1, part-ii, chapter-07, stage-7, olivet, oikoumene, aion, this-gene
 reference: "Matthew 24:1-3, 24:14; Matthew 23:36; Luke 2:1; Acts 11:28; Romans 15:19, 15:23; Revelation 20:7-8"
 created: 2026-09-10
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part II. Source: Stage 7 and [[00g-matthew-24-and-the-oikoumene]]. THE NARRATOR ENTERS EXPECTING CONFIRMATION AND SAYS SO. Three hypotheses are opened and none is adopted. One correction is logged against the author's own imported premise. EVIDENCE DISCIPLINE: claim TYPE and evidence STRENGTH are kept separate throughout. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1. Approved architecture v1.0, Part II. Source: Stage 7 and [[00g-matthew-24-and-the-oikoumene]]. THE NARRATOR ENTERS EXPECTING CONFIRMATION AND SAYS SO. Three hypotheses are opened and none is adopted. One correction is logged against the author's own imported premise. EVIDENCE DISCIPLINE: claim TYPE and evidence STRENGTH are kept separate throughout. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide. D1-REVIEWED 2026-09-10: Romans 15:19 was quoted as 'fulfilled the ministry of the good news' and the English word 'Fulfilled' was made to carry lexical weight. The ESV supplies 'the ministry of'; the Greek object of πεπληρωκέναι is τὸ εὐαγγέλιον. Now quoted verbatim with the translator's addition named, a wordstudy block added, and an evidence block stating that 15:19/23 SUPPORT regional mission-completion without exhaustive individual evangelisation and DO NOT ESTABLISH anything about oikoumenē at 24:14. DO NOT re-collapse this into a one-word argument."
 related: "[[10-manuscript-architecture]], [[00a-narrative-spine]], [[00g-matthew-24-and-the-oikoumene]]"
 ---
 
@@ -87,15 +87,37 @@ I want that brake to stay on, because this is exactly where I could have manufac
 
 The thing that genuinely surprised me was not lexical. It was Paul.
 
-> from Jerusalem and all the way around to Illyricum I have fulfilled the ministry of the good news (Romans 15:19)
+> from Jerusalem and all the way around to Illyricum I have fulfilled the ministry of the gospel of Christ (Romans 15:19, ESV)
 
-> But now, since I no longer have any room for work in these regions (Romans 15:23)
+> But now, since I no longer have any room for work in these regions (Romans 15:23, ESV)
 
-Fulfilled. No room for work. Written by a man in a territory containing enormous numbers of people who had never heard him speak.
+I have to slow down on the first of those, because I nearly used it carelessly.
+
+"Fulfilled the ministry of" is several English words standing in for one Greek one, and the noun among them is supplied by the translator. What Paul fills up is the good news itself. The ESV adds "the ministry of" to make the English read naturally; the CJB goes the other way and renders the same clause "I have fully proclaimed the Good News of the Messiah"; the RVR1960 keeps the filling image and says *todo lo he llenado del evangelio de Cristo*. All three are defensible. None of them licenses me to build an argument on the English word *fulfilled* as though Paul had reached for a technical term.
+
+::: wordstudy
+**Original language**
+
+<span class="gr">πεπληρωκέναι τὸ εὐαγγέλιον τοῦ Χριστοῦ</span> · *peplērōkenai to euangelion tou Christou*
+
+<span class="gr">πεπληρωκέναι</span> is a perfect infinitive of <span class="gr">πληρόω</span> *(plēroō)*, to fill up or bring to completion. Its object is <span class="gr">τὸ εὐαγγέλιον</span> — the good news — not a ministry of it.
+
+What it establishes: Paul regards something as standing completed. What it does **not** establish: which sense of completion he means. That is settled by what he says next, not by the verb.
+:::
+
+And what he says next is much plainer than any word study, which is the part that actually moved me. Paul describes his assignment across an enormous territory as brought to completion, and in the following breath says he has no room left to work there. Written by a man in a region containing enormous numbers of people who had never heard him speak.
 
 That was the moment my confidence in my own instincts about scope weakened, and it weakened in a direction I did not expect. It did not tell me what *oikoumenē* means in Matthew 24:14. It told me that a first-century apostle could describe a mission as completed in a region using a standard I do not share and would not have guessed.
 
 Which means my sense of what "all" must mean is not a neutral instrument.
+
+::: evidence
+**How strongly evidence bears**
+
+Romans 15:19 and 23 **SUPPORT** the conclusion that a first-century apostle could regard a mission territory as complete without every individual in it having heard him preach.
+
+They do **NOT ESTABLISH** anything about the scope of *oikoumenē* at Matthew 24:14. And Paul is describing his own pioneering assignment, not the fulfillment of a prophecy. Those are different questions, and this book does not get to slide between them.
+:::
 
 ## This generation, tested where it should be tested
 

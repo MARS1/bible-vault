@@ -6,7 +6,7 @@ tags: [draft-1, part-ii, chapter-12, stage-13, stage-14, audience-continuity, th
 reference: "Matthew 24:32-35; Matthew 23:36; Luke 21:29-32; Matthew 5:17-18; Deuteronomy 30:19; Deuteronomy 31:28; Isaiah 51:15-16; Isaiah 65:20; Jeremiah 31:31-33; Hebrews 8:13; Matthew 5:19"
 created: 2026-09-10
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part II. Source: Stages 13 and 14, and [[00m-fig-tree-generation-heaven-and-earth]] with [[00n-torah-fulfilled-and-what-changed]]. CONTRARY EVIDENCE RECORDED AT FULL STRENGTH: the CJB renders Matthew 24:34 'this people', a major translation adopting the race reading against the direction this framework was moving. THE COST IS RECORDED, NOT HIDDEN: if all is accomplished landed in the first century, Matthew 5:19 must mean something afterward, and the easy exit is refused. TWO RULES BORN HERE: the Anti-Replacement Principle and the Category Collapse Test. EVIDENCE DISCIPLINE: claim TYPE and evidence STRENGTH kept separate. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1. Approved architecture v1.0, Part II. Source: Stages 13 and 14, and [[00m-fig-tree-generation-heaven-and-earth]] with [[00n-torah-fulfilled-and-what-changed]]. CONTRARY EVIDENCE RECORDED AT FULL STRENGTH: the CJB renders Matthew 24:34 'this people', a major translation adopting the race reading against the direction this framework was moving. THE COST IS RECORDED, NOT HIDDEN: if all is accomplished landed in the first century, Matthew 5:19 must mean something afterward, and the easy exit is refused. TWO RULES BORN HERE: the Anti-Replacement Principle and the Category Collapse Test. EVIDENCE DISCIPLINE: claim TYPE and evidence STRENGTH kept separate. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide. D1-REVIEWED 2026-09-10: two evidence-strength corrections. (1) 'The address never shifts' was an absolute syntactic claim one counterexample could collapse — narrowed to the defensible and stronger form: the discourse returns to the second person repeatedly, including at its largest claims, so a referential shift requires textual argument. (2) Luke 21:29's 'and all the trees' was labelled CONTRADICTS against every fig-tree-as-Israel reading; the object of CONTRADICTS is now the EXCLUSIVE decoder, with STRONGLY COUNTS AGAINST used for softer versions. The book trains readers to tell contradiction from 'makes it harder' and must not blur the two in its own labels."
 related: "[[10-manuscript-architecture]], [[00a-narrative-spine]], [[00m-fig-tree-generation-heaven-and-earth]], [[00n-torah-fulfilled-and-what-changed]]"
 ---
 
@@ -20,12 +20,12 @@ Before any of it, something embarrassingly simple that I had never looked at.
 
 Matthew 24 is addressed to somebody, continuously, in the second person. *Take heed that no one leads* **you** *astray.* **You** *will hear of wars.* *They will deliver* **you** *up.* *When* **you** *see the abomination.* *Pray that* **your** *flight may not be in winter.* *If anyone says to* **you**. *So also, when* **you** *see all these things.*
 
-Verses 4, 6, 9, 15, 20, 23, 33. The address never shifts.
+Verses 4, 6, 9, 15, 20, 23, 33. The discourse changes mode as it goes — it turns proverbial, it tells parables — but it keeps returning to the second person, including at the points where it makes its largest claims.
 
 ::: finding
 **Finding — Audience Continuity**
 
-Matthew 24 sustains a second-person address to the disciples throughout. If "you" is taken to shift to a far-future audience partway through, that shift requires textual evidence. A system that needs the shift is not evidence for the shift.
+Matthew 24 addresses the disciples in the second person repeatedly and persistently, including around its major prophetic statements. So if "you" is taken to shift to an entirely different, far-future audience partway through, that shift requires textual argument. A system that needs the shift is not evidence for the shift.
 :::
 
 That is not an argument that everything in the discourse happened in the first century. It is a rule about where the burden sits, and it cuts against readings I like as often as against readings I do not.
@@ -45,7 +45,9 @@ If the fig tree were a coded reference to one nation, adding all the trees destr
 ::: evidence
 **How strongly evidence bears**
 
-Luke 21:29's *and all the trees* **CONTRADICTS** the fig-tree-as-Israel decoder reading. It does not merely permit an alternative; it makes the coded reading considerably harder to hold.
+Luke 21:29's *and all the trees* **CONTRADICTS** the *exclusive* decoder reading — the one in which the fig tree uniquely encodes a single nation, so that its budding is the sign. Adding all the trees removes the uniqueness that code depends on.
+
+Against the weaker claim, that the fig tree carries some representative significance while Luke broadens the illustration, it **STRONGLY COUNTS AGAINST** without contradicting. I want that distinction kept. This book is asking readers to tell a contradiction apart from evidence that merely makes a position harder to hold, and I do not get an exemption from my own scale.
 :::
 
 ## This generation
@@ -187,7 +189,7 @@ If the first-century reading of "all is accomplished" is correct, Matthew 5:19 r
 :::
 
 ::: whereweare
-**Where we are.** Matthew 24 sustains a second-person address throughout, so a shift to a far-future audience needs evidence rather than a system. Luke's *and all the trees* contradicts the fig-tree decoder. Matthew 23:36's identical construction, one chapter earlier, strongly supports the contemporaries reading of 24:34, while the CJB's "this people" stands against it at full strength. The imagery work of the previous chapters did not prove a first-century reading; it removed objections, and much of the impossibility turned out to be mine. Verse 35 then reopened everything: heaven and earth are covenant witnesses elsewhere, which permits an old-covenant reading and establishes nothing, and Isaiah 65:20 has death inside the new creation. Two rules were born here, Anti-Replacement and the Category Collapse Test, and one cost was logged against my own position at Matthew 5:19.
+**Where we are.** Matthew 24 returns to a second-person address repeatedly, including at its largest claims, so a shift to a far-future audience needs textual argument rather than a system. Luke's *and all the trees* contradicts the *exclusive* fig-tree decoder and strongly counts against softer versions of it. Matthew 23:36's identical construction, one chapter earlier, strongly supports the contemporaries reading of 24:34, while the CJB's "this people" stands against it at full strength. The imagery work of the previous chapters did not prove a first-century reading; it removed objections, and much of the impossibility turned out to be mine. Verse 35 then reopened everything: heaven and earth are covenant witnesses elsewhere, which permits an old-covenant reading and establishes nothing, and Isaiah 65:20 has death inside the new creation. Two rules were born here, Anti-Replacement and the Category Collapse Test, and one cost was logged against my own position at Matthew 5:19.
 :::
 
 ::: earned
