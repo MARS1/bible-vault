@@ -20,11 +20,13 @@ Here is what the method produced.
 
 The two positions in the original conversation were, roughly: everyone is obligated to evangelize, and: no, that was the apostles' job and gifts differ.
 
-Both are dead, and they are killed by different verses.
+The tidy versions of both are dead, and they are killed by different verses.
 
-The claim that proclamation belonged to the apostles is killed by Acts 8:4, which I walked through two chapters ago. The apostles stayed. The scattered ordinary believers announced. Whatever else is true, that sentence exists.
+What dies on the one side is the claim that proclamation was exclusively apostolic, and Acts 8:4 kills it, as I walked through two chapters ago. The apostles stayed. The scattered ordinary believers announced. Whatever else is true, that sentence exists.
 
-The claim that every believer holds an identical evangelistic ministry is killed by Paul, three ways.
+Note what that does not settle. It does not tell me that apostolic commission and ordinary witness are the same thing, and Part VII of this book spends a long time on the difference.
+
+What dies on the other side is the claim that every believer holds an identical evangelistic ministry or office, and Paul kills that three ways.
 
 Ephesians 4:11 lists evangelists as one gift among several. A list of distinct gifts in which evangelist is one item cannot mean everyone is that item.
 
@@ -40,7 +42,9 @@ The finding is not a third position that splits the difference. It is a separati
 
 There is the question of ministry, meaning a particular calling, gifting, and role. Scripture distributes those unevenly, on purpose, and says so repeatedly. Nobody is required to be an evangelist.
 
-Then there is the question of witness, meaning whether a believer who has been given something true is free to be silent about it as a matter of settled policy. That is a different question, and Acts 8:4 makes it hard to answer yes, because the people doing the announcing there had no office, no title, and no commission recorded anywhere. They had been run out of town and they talked.
+Then there is the question of witness, meaning whether a believer who has been given something true is free to be silent about it as a matter of settled policy. That is a different question, and Acts 8:4 makes it hard to answer yes. Luke gives those scattered believers no evangelistic office or title in that passage. They had been run out of town, and they talked.
+
+I want to be careful about what that does and does not show, because there is an argument available here that I am not going to make. Luke's silence about what commission those people understood themselves to be under is silence. It is not evidence that they had none. What the passage establishes is narrower: proclamation is happening, and the people doing it are not the ones Acts identifies by office.
 
 I had been using the first question to answer the second. That was the actual error, and it had been comfortable for years.
 
@@ -50,7 +54,7 @@ I said in the foreword that I had told myself preaching was not my thing. The ve
 
 Taken one way, that sentence is defensible and Scripture supports it. It can mean this is not my particular ministry, I am not the evangelist in this body, that gift went elsewhere. Ephesians 4 and 1 Corinthians 12 permit that. More than permit it, they describe it.
 
-Taken the other way, it means I have no responsibility to bear witness to what I have been shown. And I cannot get that past Acts 8:4, where the people with no ministry, no title, and no plan are the ones announcing.
+Taken the other way, it means I have no responsibility to bear witness to what I have been shown. And I cannot get that past Acts 8:4, where the people Luke identifies by neither evangelistic office nor title are the ones announcing.
 
 Same five words. Two meanings. One survives and one does not, and I had been leaning on the ambiguity without noticing, because the defensible meaning was always available if anyone pressed, while the meaning I was actually operating on was the other one.
 
@@ -62,7 +66,9 @@ While assembling this, I turned down two arguments that would have helped me, an
 
 Mark 16:15, go into all the world and proclaim the good news, is one of the two verses I had ready in the very first conversation. It sits in the passage Mark 16:9-20.
 
-That passage has a manuscript problem, and it is not a small or a contested one. The two oldest and most important complete Greek manuscripts, Sinaiticus and Vaticanus, end the Gospel at 16:8. The material after it is present in most later manuscripts and in the tradition, but its absence from those witnesses is a fact about the evidence.
+That passage has a manuscript problem, and it is not a small or a contested one. Two of the earliest surviving complete Greek manuscripts, Codex Sinaiticus and Codex Vaticanus, end the Gospel at 16:8. The longer ending is present in many later manuscripts and became deeply established in the textual and church tradition. Its absence from those two early witnesses is a fact about the evidence.
+
+I am deliberately not ranking those manuscripts against the later tradition here. That is a real argument in textual criticism, people hold serious positions on both sides of it, and my conclusion does not need me to win it.
 
 I am not going to adjudicate that here. What matters for this chapter is what I did with it, which is to stop citing Mark 16:15 as load-bearing. Not because I have concluded it is spurious. Because a claim that depends on a text with that kind of question over it is resting on something I would not accept if somebody else were resting on it.
 

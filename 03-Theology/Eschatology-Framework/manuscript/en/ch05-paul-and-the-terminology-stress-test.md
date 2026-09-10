@@ -20,9 +20,9 @@ That is worth sitting with before reading a word of it. This is not a detached t
 
 I came to Romans 9 with a vague inherited picture in which Israel had its turn, did not take it, and was replaced. I could not have told you where I got that. Nobody taught it to me in those words. It was ambient.
 
-Romans 9 lists what belongs to Israel in the present tense. The adoption, the glory, the covenants, the giving of the law, the worship, the promises, the patriarchs, and from them, according to the flesh, the Messiah.
+Romans 9 identifies the Israelites and then lists what is theirs. The adoption, the glory, the covenants, the giving of the law, the worship, the promises, the patriarchs, and from them, according to the flesh, the Messiah.
 
-None of that is phrased as forfeited.
+None of that is phrased as forfeited. I am not going to lean on the grammar harder than it will bear, because the list is built from noun phrases rather than from a verb doing the work, and I have seen people load more onto that construction than it can carry. The observation stands on what is listed and on what Paul does next.
 
 Then Romans 11:1, and Paul asks the question directly, as if he knows exactly what his reader is thinking:
 
@@ -90,6 +90,6 @@ I would like to do it in that order.
 
 ---
 
-**Where we are.** Paul rules out the replacement reading explicitly in Romans 11:1, keeps Israel's covenants in the present tense in Romans 9, and attaches a warning to the olive tree that is longer than the promise. Gentile incorporation is real and substantial. The label I had been using for it is mine rather than Scripture's, which I established by testing my own vocabulary the way I had been testing everyone else's, and the same test applies to the word preterist.
+**Where we are.** Paul rules out the replacement reading explicitly in Romans 11:1, lists the covenants and the promises among the things that are Israel's in Romans 9, and attaches a warning to the olive tree that is longer than the promise. Gentile incorporation is real and substantial. The label I had been using for it is mine rather than Scripture's, which I established by testing my own vocabulary the way I had been testing everyone else's, and the same test applies to the word preterist.
 
 **What it earned.** The foundation is now built. So, finally: what does the commission actually require of a believer today?

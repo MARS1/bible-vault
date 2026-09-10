@@ -373,6 +373,62 @@ related: "[[00-index]], [[00a-narrative-spine]], [[09-manuscript-integrity-audit
 
 > ### ✅ **PRIORITY IS GETTING THE ARGUMENT, THE JOURNEY, THE EVIDENCE AND THE VOICE ONTO THE PAGE CORRECTLY.** 🛑 **DO NOT OPTIMIZE EVERY SENTENCE YET. Structural and prose-editing passes come later, and sentence-level perfectionism now is the main thing that would stop a first complete manuscript from existing.**
 
+### ⑭ Part I review outcome — **APPROVED, FOUR SURGICAL CORRECTIONS, NO REWRITE** *(2026-09-10)*
+
+| | Correction | Why |
+|---|---|---|
+| **1** | **Ch. 6 — remove the arguments from narrative silence** | *"no commission recorded anywhere"* and *"no plan"* went past what Acts 8 establishes. ❗ **LUKE'S SILENCE ABOUT WHAT COMMISSION THOSE BELIEVERS UNDERSTOOD THEMSELVES TO BE UNDER IS SILENCE. IT IS NOT EVIDENCE THAT THEY HAD NONE.** Rewritten to rest on what Luke records, and the chapter now says out loud that it is declining an available argument. |
+| **2** | **Ch. 6 — qualify *"both positions are dead"*** | What dies is **(a) proclamation as *exclusively* apostolic** and **(b) every believer holding an *identical* evangelistic ministry or office.** Not the later, more careful question of ordinary-believer witness. Now reads *"the tidy versions of both,"* each side's proposition named, and a line forward-referencing Part VII. |
+| **3** | **Ch. 5 — drop *"keeps Israel's covenants in the present tense"*** | ⚠️ **THE PHRASING IMPLIED A FINITE PRESENT-TENSE GREEK VERB DOING WORK THE CONSTRUCTION DOES NOT REQUIRE.** Romans 9:4 builds from noun phrases. The chapter now states what is listed, declines to load the grammar, and lets **Romans 11:1's μὴ γένοιτο** carry the explicit weight. |
+| **4** | **Ch. 6 — drop *"most important"* of Sinaiticus and Vaticanus** | An evaluative text-critical judgment that **picks an unnecessary fight with Byzantine/Majority/TR readers.** Now *"two of the earliest surviving complete Greek manuscripts,"* the longer ending's place in the later tradition is stated, and the chapter says plainly it is **not ranking them, because the conclusion does not need it.** |
+
+> ### ✅ **KEPT ON REVIEW: `predicar no es lo mío` STAYS IN SPANISH.** *"It is not decorative Spanish. The ambiguity of that actual phrase becomes part of the argument."*
+>
+> ### ✅ **PART I IS NOT SHORTENED.** 8,960 words for front matter plus six chapters is lean for a complete methodological foundation.
+
+### ⑮ The Where-we-are boxes — **KEEP, BUT STOP BEING EXHAUSTIVE FROM PART II** *(2026-09-10)*
+
+> ### ❗ **SIX CHAPTERS ESTABLISHED THE CONVENTION. FROM PART II THEY MUST NOT BECOME MINI EXECUTIVE SUMMARIES — as the arguments get denser, a box that restates the whole chapter is pure repetition.**
+>
+> ### 📐 **THEY ANSWER TWO QUESTIONS AND NOTHING ELSE: **where has the evidence actually brought us**, and **why does that force the next question?** Sometimes three sentences. Sometimes one.**
+>
+> **✅ THE MODEL IS CHAPTER 3:** Gentile inclusion was always in view → the earthly ministry nevertheless ran Israel-first → **therefore something moved** → *how, and when?*
+
+### ⑯ Orientation front matter — **A PROMISE THE MANUSCRIPT MUST NOT FORGET** ⏳ **OPEN TODO**
+
+> ### 🛑 **[[00b-a-note-to-the-reader]] TELLS THE READER THAT *"the short orientation pages ahead"* EXIST. **THEY ARE NOT WRITTEN YET.** IF THE MANUSCRIPT SHIPS WITHOUT THEM, THE BOOK OPENS BY BREAKING A PROMISE ON ITS SECOND PAGE.**
+>
+> **STILL OWED, per section 1 of this architecture:** **The Biblical Story in One Map** *(one page, one diagram)* · **What Is the Bible?** *(Torah · Tanakh · LXX · Apostolic Writings)* · **How This Investigation Works** *(the six evidence levels, formally)* · **How to Read Apocalyptic Literature** · ❗ **plus a names and terminology page — Yah / YHWH · Yeshua / YahuShua HaMashiach · Ruach HaKodesh — and how original languages and translations are being used.**
+>
+> ### ✅ **DELIBERATELY NOT DRAFTED YET. They are written once the manuscript exists and it is clear what a reader actually needs.** 🛑 **THIS TODO STAYS OPEN UNTIL THEY ARE WRITTEN.**
+
+### ⑰ Bilingual workflow — **STAGGERED TANDEM, NOT LOCKSTEP, NOT AFTERWARDS** *(2026-09-10)*
+
+> ### 📐 **THE PIPELINE PER PART: draft EN → build → review → apply corrections → commit as **EN Part N D1 REVIEWED BASELINE** → snapshot → draft ES *from that baseline plus the Master Evidence Vault* → review → **ES Part N D1 REVIEWED BASELINE** → next Part.**
+>
+> ### ❗ **WHY NOT SIMULTANEOUS: two moving targets. Spanish would inherit English formulations that are still changing.**
+> ### ❗ **WHY NOT ALL-ENGLISH-FIRST: a Spanish edition begun after nine Parts reads as a translation bolted on, which is precisely what ADR-0008 and section ④ forbid.**
+>
+> ### ✅ **REVIEWED BASELINE DOES NOT MEAN FINAL. It means stable enough to spawn its Spanish sibling.**
+>
+> **🛑 SPANISH IS NOT `English sentence → Spanish sentence`. The questions are: what is this paragraph arguing · what evidence supports it · how would that argument naturally be written in *español latinoamericano internacional, culto pero accesible* · what does RVR1960 actually say · does the Hebrew/Greek create a Spanish-specific textual issue?**
+>
+> ### ⚠️ **SPANISH DRAFTING MAY NEVER ALTER EVIDENCE STRENGTH FOR SMOOTHER PROSE.** If Spanish work exposes an evidentiary problem affecting both editions, it goes in the **bilingual synchronization ledger** and both canonical editions are corrected. **The Master Evidence Vault, not either language edition, is the evidentiary authority.**
+>
+> **📌 AFTER ES PART I CALIBRATES, THE MARCH BECOMES A PIPELINE:** EN Part II → review → ES Part II, and **EN Part III may begin while ES Part II is under review.** **For Part I only, English production stops until Spanish is calibrated** — the same decision already made about English voice: get the first substantial sample right once, then propagate.
+>
+> ### 🛑 **PORTUGUESE COMES ONLY AFTER EN AND ES ARE SUBSTANTIALLY MATURE. RIOPLATENSE, IF EVER, IS LOCALIZATION OF THE SPANISH EDITION, NOT ANOTHER RESEARCH MANUSCRIPT.**
+
+### ⑱ Versioning — **GIT IS THE HISTORY. SNAPSHOTS ARE THE MILESTONES.** *(2026-09-10)*
+
+> ### 🛑 **NO `part-01-v2.md`, `-final`, `-final2` INSIDE THE CANONICAL SOURCE. EVER.** **Canonical chapter files are revised in place; git preserves every prior state byte for byte.**
+>
+> ### ✅ **BUT EVERY STATE ACTUALLY SUBMITTED FOR SUBSTANTIVE REVIEW GETS A PERMANENT, IMMUTABLE SNAPSHOT — at minimum `d1-initial` and `d1-reviewed`, per language, per Part.**
+>
+> ### ❗ **AND EVERY SNAPSHOT RECORDS THE EXACT GIT COMMIT IT WAS GENERATED FROM**, in a MANIFEST beside it. **So the question *"what exactly was the English Part I that the Spanish Part I was built from?"* has an exact answer, months later, without checking out a commit.**
+>
+> **🛠️ ENFORCED IN THE TOOL, NOT ONLY IN THIS DOCUMENT: `build-manuscript.py --snapshot <milestone>` REFUSES to overwrite an existing milestone and exits.** **A new reviewed state gets a new milestone name; it never silently replaces the previous one.**
+
 ### ⑨ Gate precondition — ✅ **CONFIRMED CLEAN BEFORE THIS APPROVAL TOOK EFFECT**
 
 | Requirement | Status |
