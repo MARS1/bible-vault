@@ -126,7 +126,7 @@ En Hechos 11, y otra vez en Hechos 15, la comunidad se topa con algo nuevo. Algu
 
 Encuentro, testimonio, deliberación, Escritura, discernimiento, revisión.
 
-Es casi el ciclo que yo había armado en el capítulo anterior, antes de llegar acá, y no lo saqué de Hechos. No voy a presentar eso como prueba de nada: es la clase de coincidencia que bien podría ser mi propio afán de encontrar patrones y no la estructura del texto, y así lo anoté.
+Es casi el ciclo que yo había armado en el capítulo anterior, antes de llegar aquí, y no lo saqué de Hechos. No voy a presentar eso como prueba de nada: es la clase de coincidencia que bien podría ser mi propio afán de encontrar patrones y no la estructura del texto, y así lo anoté.
 
 Pero sí me dejó más dispuesto a confiar en el método, e hizo que el concilio de Jerusalén en Hechos 15 se leyera de otra manera. Esos hombres no están aplicando una regla ya establecida: están resolviendo algo, en público, y dejando anotado qué concluyen y por qué.
 

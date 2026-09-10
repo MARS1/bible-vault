@@ -462,6 +462,22 @@ related: "[[00-index]], [[00a-narrative-spine]], [[09-manuscript-integrity-audit
 >
 > ### ✅ **PART II IS AUTHORIZED. Chapters 7 through 12, the Olivet Discourse.**
 
+### ㉒ The Spanish register standard is a FILE and a CHECKER, not an instruction to repeat *(2026-09-10)*
+
+> ### 🛑 **THE RULE BEHIND THE RULE: an instruction that has to be given again every Part is not a standard, it is a chore. THE FIX IS ALWAYS THE SAME — write it down, then enforce it in the tool.**
+>
+> ### **[[ES-REGISTER]] IS THE DOCUMENT. `build-manuscript.py --lang es` IS THE ENFORCEMENT** — it scans every Spanish build against the list and prints what it finds, and it skips every line beginning with `>` because **RVR1960 WORDING IS NEVER TOUCHED.**
+>
+> ### ✅ **THE LIST GROWS. Every regionalism a human catches in review is added to `ES-REGISTER.md` THE SAME DAY, so the next Part catches it automatically instead of a person finding it twice.**
+
+**📐 WHAT THE PASS REMOVES AND WHAT IT MUST NOT:** removes distinctly Rioplatense or regional vocabulary, constructions that read awkwardly outside one country, and English syntax still audible underneath. ❗ **DOES NOT REMOVE ordinary conversational Spanish — *o sea*, first-person narration, restrained tuteo, conversational rhythm all stay.** 🛑 **FLATTENING THE PROSE INTO NEUTRAL SCHOLARLY SPANISH WOULD COST MORE THAN THE REGIONALISMS DO.**
+
+**🔁 AND THE PER-PART BILINGUAL INTEGRITY CHECK IS NOW STANDING WORK, RUN BEFORE EVERY SPANISH MILESTONE:** provenance survives · evidence strength survives *(EXIGE/APOYA/NO ESTABLECE against REQUIRES/SUPPORTS/DOES NOT ESTABLISH)* · asymmetries survive · Scripture is RVR1960 · Spanish-only notes present for every open SYNC entry · register clean · `vosotros` only inside quotations · components match.
+
+> ### ⚖️ **THE ASYMMETRY THAT GOVERNS ALL OF IT: a theological or evidentiary divergence is a ***DEFECT*** and gets corrected in both editions. A prose divergence is ***EXPECTED*** — identical sentences would mean the Spanish had been translated rather than written.**
+
+**✅ FIRST FULL PASS, ES PART I, 2026-09-10: no theological or argumentative divergence found. 22 regional constructions normalized, one awkward construction rewritten, nothing else touched.**
+
 ### ⑨ Gate precondition — ✅ **CONFIRMED CLEAN BEFORE THIS APPROVAL TOOK EFFECT**
 
 | Requirement | Status |

@@ -36,7 +36,7 @@ Isaías 42:6 llama al siervo luz de las naciones. E Isaías 49:6 lo dice de una 
 
 > Poco es para mí que tú seas mi siervo para levantar las tribus de Jacob, y para que restaures el remanente de Israel; también te di por luz de las naciones, para que seas mi salvación hasta lo postrero de la tierra
 
-Poco es para mí. Restaurar a Israel, por sí solo, se describe como un encargo demasiado chico.
+Poco es para mí. Restaurar a Israel, por sí solo, se describe como un encargo demasiado pequeño.
 
 O sea que las naciones nunca fueron una ocurrencia tardía ni un plan de repuesto. Estaban en el encargo desde Génesis. Lo que está en secuencia es el orden de la misión, no el alcance de la intención. Mantener esas dos cosas separadas terminó importando muchísimo más adelante, cuando la pregunta pasó a ser si la inclusión de los gentiles reemplazó a Israel o si siempre fue el punto de Israel.
 
@@ -90,7 +90,7 @@ Hay maneras respetables de conciliar las dos cosas. Puede que Juan el Bautista e
 
 Pero no lo sé, y este libro tiene una regla al respecto desde el capítulo anterior. Así que los cuatro textos quedan uno al lado del otro en mis notas, sin armonizar, en la caja de las preguntas abiertas.
 
-Lo menciono acá en vez de enterrarlo porque es la primera vez en la investigación que me topo con algo que no puedo resolver, y lo que hice al respecto tiene la misma forma que lo que voy a seguir haciendo el resto del libro.
+Lo menciono aquí en vez de enterrarlo porque es la primera vez en la investigación que me topo con algo que no puedo resolver, y lo que hice al respecto tiene la misma forma que lo que voy a seguir haciendo el resto del libro.
 
 ---
 

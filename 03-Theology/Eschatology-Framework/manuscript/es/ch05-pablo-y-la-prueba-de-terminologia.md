@@ -35,14 +35,14 @@ No voy a apoyarme en la gramática más de lo que aguanta: la lista está hecha 
 ::: textualnote
 **Nota textual**
 
-Acá la edición en español tiene un asunto que la inglesa no tiene. RVR1960 lee **"el pacto"**, en singular. Varias ediciones en inglés leen el plural, "los pactos", y detrás hay una variante conocida en el griego entre **αἱ διαθῆκαι** y **ἡ διαθήκη**. No la resuelvo acá y no me hace falta para nada de lo que sigue. La señalo porque un lector que compare ediciones va a notar la diferencia, y prefiero que la note conmigo apuntándola. *De paso: la misma RVR1960 lee plural en Efesios 2:12, "ajenos a los pactos de la promesa".*
+Aquí la edición en español tiene un asunto que la inglesa no tiene. RVR1960 lee **"el pacto"**, en singular. Varias ediciones en inglés leen el plural, "los pactos", y detrás hay una variante conocida en el griego entre **αἱ διαθῆκαι** y **ἡ διαθήκη**. No la resuelvo aquí y no me hace falta para nada de lo que sigue. La señalo porque un lector que compare ediciones va a notar la diferencia, y prefiero que la note conmigo apuntándola. *De paso: la misma RVR1960 lee plural en Efesios 2:12, "ajenos a los pactos de la promesa".*
 :::
 
 Después llega Romanos 11:1, y Pablo hace la pregunta de frente, como si supiera exactamente qué está pensando su lector:
 
 > Digo, pues: ¿Ha desechado Dios a su pueblo? En ninguna manera
 
-Es lo más cerca que llega el Nuevo Testamento a cerrar una puerta por adelantado. Sean cuales sean las cosas complicadas que Pablo está por decir, y dice varias, descartó la lectura simple del reemplazo antes de empezar, con sus propias palabras.
+Es lo más cerca que llega el Nuevo Testamento a cerrar una puerta por adelantado. Sean cuales sean las cosas complicadas que Pablo está a punto de decir, y dice varias, descartó la lectura simple del reemplazo antes de empezar, con sus propias palabras.
 
 ## El árbol, con la parte que casi nunca se cita
 
@@ -50,7 +50,7 @@ Después viene el olivo, en Romanos 11:17-21, que yo había escuchado muchas vec
 
 Unas ramas son desgajadas. Un olivo silvestre queda injertado entre las demás y participa de la raíz. Ese soy yo. Esa es toda la base por la que alguien como yo tiene algún lugar en esta historia, y es una imagen generosa.
 
-Lo que nunca escuché citar es lo que Pablo hace inmediatamente después, que es darse vuelta y advertirle al injerto:
+Lo que nunca escuché citar es lo que Pablo hace inmediatamente después, que es volverse y advertirle al injerto:
 
 > no te jactes contra las ramas; y si te jactas, sabe que no sustentas tú a la raíz, sino la raíz a ti
 
@@ -60,7 +60,7 @@ Y unas líneas más adelante:
 
 Teme. El injerto es motivo de temor y no de superioridad. Pablo se toma el trabajo de señalar que el injertado es el que va contra naturaleza, que si Dios no perdonó a las ramas naturales tampoco perdonará a esta, y que las ramas naturales pueden volver a injertarse con más facilidad de la que costó poner al silvestre.
 
-Todo el énfasis del pasaje corre en contra de la lectura en la que los gentiles llegaron y se quedaron con el lugar. Yo había recibido la imagen sin la advertencia que trae pegada, y la advertencia es más de la mitad del pasaje.
+Todo el énfasis del pasaje corre en contra de la lectura en la que los gentiles llegaron y se apoderaron del lugar. Yo había recibido la imagen sin la advertencia que trae pegada, y la advertencia es más de la mitad del pasaje.
 
 ## Una contención que rindió
 

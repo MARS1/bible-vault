@@ -42,6 +42,48 @@ PARTS = {
 
 CSS = (Path(__file__).resolve().parent / "design-system-v1.css").read_text()
 
+# Spanish register standard. Kept in step with ES-REGISTER.md, which is the
+# document; this is the enforcement. Add a row there, add a pattern here.
+ES_REGISTER = [
+    (r"\bac[áa]\b", "aquí"),
+    (r"demasiado chic[oa]", "demasiado pequeño"),
+    (r"despareja", "desigual  /  no ... por igual"),
+    (r"\bdarse vuelta\b", "volverse"),
+    (r"est[áa] por [a-z]+r\b", "está a punto de ..."),
+    (r"apretaba", "presionaba"),
+    (r"quedaron con el lugar", "se apoderaron del lugar"),
+    (r"le queda libre", "rewrite the construction"),
+    (r"\b(pibe|laburo|che)\b", "never"),
+    (r"\bvos\b(?! )", "no voseo"),
+]
+
+
+def check_es_register(files):
+    """Regionalism scan. Skips quotation lines: RVR1960 wording is never touched."""
+    hits = []
+    for f in files:
+        for i, ln in enumerate(f.read_text().split("\n"), 1):
+            if ln.lstrip().startswith(">") or ln.lstrip().startswith("---"):
+                continue
+            for pat, suggest in ES_REGISTER:
+                for m in re.finditer(pat, ln, re.I):
+                    hits.append((f.name, i, m.group(0), suggest))
+    return hits
+
+
+def check_prose_vosotros(files):
+    """vosotros belongs to RVR1960 quotations only, never to the narration."""
+    hits = []
+    for f in files:
+        for i, ln in enumerate(f.read_text().split("\n"), 1):
+            if ln.lstrip().startswith(">"):
+                continue
+            m = re.search(r"\b(vosotros|habéis|estáis|sois|vuestro)\b", ln)
+            if m:
+                hits.append((f.name, i, m.group(0)))
+    return hits
+
+
 def prose_only(text):
     """Body prose with component labels and word-study lines removed.
     The design system uses an em dash as its label separator, so a raw em-dash
@@ -160,6 +202,17 @@ def main():
             stem = f"part-{p:02d}-{lang}"
             out = BUILD / lang
             print(f"BUILD {lang} part {p}")
+
+        if lang == "es":
+            _, files = collect(lang, p)
+            reg = check_es_register(files)
+            vos = check_prose_vosotros(files)
+            print(f"     register: {len(reg)} regional, {len(vos)} prose-vosotros  "
+                  + ("OK" if not reg and not vos else "<-- see ES-REGISTER.md"))
+            for n, i, hit, sug in reg[:12]:
+                print(f"       {n}:{i}  {hit!r} -> {sug}")
+            for n, i, hit in vos[:6]:
+                print(f"       {n}:{i}  prose {hit!r} outside a quotation")
 
         md, pdf, title, words, pages = render(lang, p, out, stem)
 

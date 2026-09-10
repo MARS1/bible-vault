@@ -86,7 +86,7 @@ Eso no es un argumento. Es un concurso de inventario.
 
 El problema no está en los versículos: cada uno de los dos montones existe de verdad. El problema es que apilarlos no resuelve nada, porque en todo el procedimiento no hay un solo paso en el que decida la evidencia. Solo hay un paso en el que alguien se cansa.
 
-Y yo tenía a mano una segunda jugada, peor, aunque en ese momento no lo pareciera. Cuando un texto me apretaba, podía echar mano del marco en vez del texto: *eso se cumplió en el primer siglo*. Cosa que hasta puede ser cierta, y este libro le dedica mucho espacio a averiguarlo. Pero usado como yo lo estaba usando, no era una respuesta. Era una manera de no tener que dar ninguna.
+Y yo tenía a mano una segunda jugada, peor, aunque en ese momento no lo pareciera. Cuando un texto me presionaba, podía echar mano del marco en vez del texto: *eso se cumplió en el primer siglo*. Cosa que hasta puede ser cierta, y este libro le dedica mucho espacio a averiguarlo. Pero usado como yo lo estaba usando, no era una respuesta. Era una manera de no tener que dar ninguna.
 
 Llevaba años llamándole a todo esto estudiar la Biblia.
 
