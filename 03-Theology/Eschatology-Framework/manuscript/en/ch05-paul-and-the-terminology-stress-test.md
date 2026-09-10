@@ -90,6 +90,10 @@ I would like to do it in that order.
 
 ---
 
+::: whereweare
 **Where we are.** Paul rules out the replacement reading explicitly in Romans 11:1, lists the covenants and the promises among the things that are Israel's in Romans 9, and attaches a warning to the olive tree that is longer than the promise. Gentile incorporation is real and substantial. The label I had been using for it is mine rather than Scripture's, which I established by testing my own vocabulary the way I had been testing everyone else's, and the same test applies to the word preterist.
+:::
 
+::: earned
 **What it earned.** The foundation is now built. So, finally: what does the commission actually require of a believer today?
+:::

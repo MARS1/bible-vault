@@ -134,6 +134,10 @@ Hechos 15 va a importar enormemente más adelante, por razones que no tienen nad
 
 ---
 
+::: whereweare
 **Dónde estamos.** Hechos recorre la ruta hacia afuera que él mismo anuncia. La lista de naciones de Hechos 2 es geografía y no identidad de pacto, y Pedro le habla a Israel. Hechos 8:4 eliminó la afirmación de que solo los apóstoles proclamaban, y después Hechos 11:19 estrechó mi afirmación de reemplazo al mostrar que esos mismos esparcidos hablaron solo a judíos. Hechos 10 me dio el caso más claro que tengo de una imagen superficial que significa otra cosa, con la interpretación entregada por el personaje mismo. Y de la diferencia en la secuencia del Espíritu salió una regla: describir no es prescribir.
+:::
 
+::: earned
 **Qué se ganó.** Lucas me cuenta qué pasó. No me dice qué significa para el pacto. Entonces, ¿qué dice Pablo que significa?
+:::

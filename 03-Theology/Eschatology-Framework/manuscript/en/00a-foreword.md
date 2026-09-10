@@ -15,13 +15,15 @@ I did not set out to write about the end of the world.
 
 I set out to answer a question about evangelism, and I could not answer it.
 
-The question came out of a conversation with another believer, and it had two halves. Does every follower of Yeshua carry the same obligation to go and tell people about Him? And how does somebody end up reading prophecy the way I had started reading it, as mostly behind us rather than mostly ahead?
+The question came from a relative, over several days, and it had two halves. Does every follower of Yeshua carry the same obligation to go and tell people about Him? And how does somebody end up reading prophecy the way I had started reading it, as mostly behind us rather than mostly ahead?
 
-I could have answered on the spot. That is the part worth admitting. I had verses ready. So did he. Matthew 28 and Mark 16 on one side, spiritual gifts and conscience on the other, and whoever ran out of verses last would have lost.
+I answered both. That is the part worth admitting. I answered at length, with verses, more than once. He pressed Mark 16 and Matthew 28 at me; I came back with differentiated gifts and with a conviction that the commission had already been carried out in the first century. Neither of us moved.
 
-Nothing would have been settled, because nothing was being tested. We would have been trading citations and calling it a conversation.
+Nothing was settled, because nothing was being tested. We were trading citations and calling it a conversation.
 
-So I did not answer. I went looking for a way to answer that did not depend on who had memorized more.
+Then he asked me how I had arrived at my reading of prophecy, and I could not tell him. Not because there was no answer, but because there was no short one, and because I had never once laid it out in order.
+
+So I stopped defending it and went looking for a way to settle questions like that which did not depend on who had memorized more.
 
 ***
 
@@ -49,7 +51,7 @@ I had said, out loud and more than once, that preaching was not my thing. Some p
 
 Then I followed Acts through in order. Acts 8 says that when the believers were scattered they went everywhere announcing the word. Not the apostles. The apostles are the ones who stayed. It was the ordinary scattered believers who talked.
 
-That did not fit what I had said about myself.
+That did not fit what I had said about myself. And it was worse than that, because it was his verse. He had quoted Acts 8:4 at me weeks earlier and I had talked my way around it. Meeting it again in its own context, in sequence, with nobody arguing with me, was not the same experience at all.
 
 I want to be careful here, because it is the first place this book asks you to trust it. The finding did not turn out to be a flat obligation on everyone to do the same thing. Later work made it considerably more careful than that, and Chapter 6 shows why. But it cost me the easy version of my own position in about the second week, using a method I had built so that it could not be bent to protect me.
 

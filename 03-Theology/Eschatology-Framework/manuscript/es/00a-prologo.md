@@ -19,13 +19,15 @@ No me propuse escribir sobre el fin del mundo.
 
 Me propuse contestar una pregunta sobre el evangelismo, y resultó que no podía contestarla.
 
-La pregunta salió de una conversación con otro creyente, y traía dos mitades. ¿Tiene todo seguidor de Yeshúa la misma obligación de salir a hablarle a la gente de Él? ¿Y cómo termina alguien leyendo la profecía como yo había empezado a leerla, más como algo ya cumplido que como algo todavía pendiente?
+La pregunta vino de un familiar, a lo largo de varios días, y traía dos mitades. ¿Tiene todo seguidor de Yeshúa la misma obligación de salir a hablarle a la gente de Él? ¿Y cómo termina alguien leyendo la profecía como yo había empezado a leerla, más como algo ya cumplido que como algo todavía pendiente?
 
-Pude haber contestado ahí mismo. Eso es lo que hay que admitir. Yo tenía versículos listos. Él también. Mateo 28 y Marcos 16 de un lado; los dones espirituales y la conciencia del otro. El primero que se quedara sin versículos perdía.
+Contesté las dos. Eso es lo que hay que admitir. Contesté largo, con versículos, más de una vez. Él me presionaba con Marcos 16 y Mateo 28; yo volvía con los dones repartidos de manera distinta y con la convicción de que la comisión ya se había llevado a cabo en el primer siglo. Ninguno se movió.
 
-No se habría resuelto nada, porque nada se estaba poniendo a prueba. Habríamos estado intercambiando citas y llamándole conversación.
+No se resolvió nada, porque nada se estaba poniendo a prueba. Estábamos intercambiando citas y llamándole conversación.
 
-Así que no contesté. Salí a buscar una manera de contestar que no dependiera de quién se hubiera aprendido más versículos.
+Después me preguntó cómo había llegado a mi lectura de la profecía, y no supe decírselo. No porque no hubiera respuesta, sino porque no había una corta, y porque nunca la había puesto en orden.
+
+Así que dejé de defenderla y salí a buscar una manera de resolver preguntas así que no dependiera de quién se hubiera aprendido más versículos.
 
 ***
 
@@ -53,7 +55,7 @@ Yo había dicho, en voz alta y más de una vez, que predicar no es lo mío. Hay 
 
 Después seguí Hechos en orden. Hechos 8 dice que cuando los creyentes fueron esparcidos iban por todas partes anunciando el evangelio. No los apóstoles: los apóstoles son los que se quedaron. Fueron los creyentes comunes, los que salieron huyendo, los que hablaron.
 
-Eso no encajaba con lo que yo venía diciendo de mí mismo.
+Eso no encajaba con lo que yo venía diciendo de mí mismo. Y era peor todavía, porque era su versículo. Él me había citado Hechos 8:4 semanas antes y yo le había pasado por al lado hablando. Volver a encontrármelo en su propio contexto, en secuencia, sin nadie discutiéndome, no fue en absoluto la misma experiencia.
 
 Quiero medir bien esta parte, porque es el primer lugar donde el libro te pide que confíes en él. El hallazgo no terminó siendo una obligación pareja de que todos hagan lo mismo; el trabajo posterior lo volvió bastante más cuidadoso, y el capítulo 6 explica por qué. Pero me costó la versión fácil de mi propia posición en la segunda semana, y me la costó un método que yo había armado precisamente para que no se dejara torcer a mi favor.
 

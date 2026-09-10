@@ -38,18 +38,7 @@ PARTS = {
                ["00a-", "00b-", "ch01-", "ch02-", "ch03-", "ch04-", "ch05-", "ch06-"])},
 }
 
-CSS = """
-@page { size: 6in 9in; margin: 0.75in 0.7in 0.85in 0.7in;
-        @bottom-center { content: counter(page); font-family: Georgia, serif; font-size: 9pt; color: #555; } }
-body { font-family: Georgia, 'Times New Roman', serif; font-size: 11pt; line-height: 1.55; color: #1a1a1a; hyphens: auto; }
-h1 { font-size: 17pt; margin: 0 0 1.1em; line-height: 1.25; page-break-before: always; }
-h1:first-of-type { page-break-before: avoid; }
-h2 { font-size: 12.5pt; margin: 2em 0 0.6em; font-weight: normal; font-style: italic; }
-p { margin: 0 0 0.75em; text-align: justify; }
-blockquote { margin: 1.1em 1.4em; padding-left: 0.9em; border-left: 2px solid #bbb; font-style: italic; color: #333; }
-blockquote p { text-align: left; }
-hr { border: none; border-top: 1px solid #ccc; margin: 1.8em 4em; }
-"""
+CSS = (Path(__file__).resolve().parent / "design-system-v1.css").read_text()
 
 def strip_frontmatter(t):
     if t.startswith("---"):
@@ -85,7 +74,7 @@ def render(lang, part, outdir, stem):
     md = outdir / f"{stem}-clean.md"
     md.write_text(f"# {title}\n\n*Draft 1. {words:,} words.*\n\n" + "\n\n---\n\n".join(chunks) + "\n")
 
-    frag = subprocess.run(["pandoc", str(md), "-f", "markdown", "-t", "html5"],
+    frag = subprocess.run(["pandoc", str(md), "-f", "markdown+fenced_divs", "-t", "html5"],
                           capture_output=True, text=True, check=True).stdout
     html = outdir / f"{stem}.html"
     html.write_text(f'<!doctype html>\n<html lang="{lang}"><head><meta charset="utf-8">'
@@ -121,8 +110,25 @@ def main():
     ap.add_argument("--snapshot", metavar="MILESTONE",
                     help="permanent milestone, e.g. d1-initial or d1-reviewed")
     ap.add_argument("--no-drop", action="store_true")
+    ap.add_argument("--proof", action="store_true", help="render the design-system proof instead of a Part")
     a = ap.parse_args()
     lang = a.lang
+    if a.proof:
+        BUILD.mkdir(parents=True, exist_ok=True)
+        src = ROOT / "design" / "design-proof-v1.md"
+        html = BUILD / "design-proof-v1.html"
+        frag = subprocess.run(["pandoc", str(src), "-f", "markdown+fenced_divs", "-t", "html5"],
+                              capture_output=True, text=True, check=True).stdout
+        html.write_text(f'<!doctype html>\n<html lang="en"><head><meta charset="utf-8">'
+                        f"<title>Design System v1</title><style>{CSS}</style></head><body>\n{frag}\n</body></html>\n")
+        pdf = BUILD / "design-proof-v1.pdf"
+        subprocess.run(["weasyprint", "-e", "utf-8", str(html), str(pdf)], check=True)
+        html.unlink()
+        pages = len(pypdf.PdfReader(str(pdf)).pages) if pypdf else "?"
+        print(f"PROOF {pdf.relative_to(ROOT)}  ({pages} pages)")
+        if not a.no_drop and READER.is_dir():
+            shutil.copy2(pdf, READER / pdf.name); print(f"     -> {READER / pdf.name}")
+        return
     parts = sorted(PARTS[lang]) if a.all else ([a.part] if a.part in PARTS[lang] else sys.exit("use --part N or --all"))
 
     for p in parts:

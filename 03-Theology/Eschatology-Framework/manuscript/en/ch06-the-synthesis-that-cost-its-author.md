@@ -12,21 +12,21 @@ related: "[[10-manuscript-architecture]], [[00a-narrative-spine]], [[00f-witness
 
 # Chapter 6: the synthesis that cost its own author
 
-Five chapters to get back to a question I could have answered in thirty seconds at the start. That is not efficiency. It is the only way I know to get an answer worth having.
+Five chapters to get back to a question I had already answered, at length, in the space of an afternoon. That is not efficiency. It is the only way I know to get an answer worth having.
 
 Here is what the method produced.
 
-## Both of the available positions are wrong
+## Both of the positions in that conversation are wrong
 
-The two positions in the original conversation were, roughly: everyone is obligated to evangelize, and: no, that was the apostles' job and gifts differ.
+He was arguing that Yeshua commanded proclamation and that a believer who knows something ought to be carrying it outward. I was arguing that Scripture hands out gifts and callings unevenly and that mine was not evangelism.
 
-The tidy versions of both are dead, and they are killed by different verses.
+The tidy versions of both are dead, and they are killed by different verses. Mine dies first, so I will take it first.
 
-What dies on the one side is the claim that proclamation was exclusively apostolic, and Acts 8:4 kills it, as I walked through two chapters ago. The apostles stayed. The scattered ordinary believers announced. Whatever else is true, that sentence exists.
+What dies on my side is the use I was making of differentiated ministry: that because I am not an evangelist, proclamation has nothing to do with me. Acts 8:4 kills that, as I walked through two chapters ago. The apostles stayed. The scattered ordinary believers announced. Whatever else is true, that sentence exists, and the man who quoted it at me was not wrong to quote it.
 
-Note what that does not settle. It does not tell me that apostolic commission and ordinary witness are the same thing, and Part VII of this book spends a long time on the difference.
+Note what it does not settle. It does not tell me that apostolic commission and ordinary witness are the same thing, and Part VII of this book spends a long time on the difference.
 
-What dies on the other side is the claim that every believer holds an identical evangelistic ministry or office, and Paul kills that three ways.
+What dies on his side is the claim that every believer holds an identical evangelistic ministry or office, and Paul kills that three ways.
 
 Ephesians 4:11 lists evangelists as one gift among several. A list of distinct gifts in which evangelist is one item cannot mean everyone is that item.
 
@@ -34,7 +34,7 @@ Ephesians 4:11 lists evangelists as one gift among several. A list of distinct g
 
 And Acts 21:8 mentions Philip the evangelist, using it as an identifying description, the way you would say Luke the physician. It is a designation that distinguishes him. If it applied to everyone it would identify no one.
 
-So the tidy version of each position fails on explicit text. I could not have arrived here by counting verses, because both sides had verses. I arrived here by asking what each set of verses was actually claiming and finding that the two sets are not answering the same question.
+So the tidy version of each position fails on explicit text. I could not have arrived here by counting verses, because both of us had verses. I arrived by asking what each set was actually claiming, and finding that the two sets are not answering the same question. He was answering *is proclamation for everyone.* I was answering *is the office of evangelist for everyone.* Those are different questions, and neither of us had noticed.
 
 ## What replaces them is a distinction, not a rule
 
@@ -46,7 +46,9 @@ Then there is the question of witness, meaning whether a believer who has been g
 
 I want to be careful about what that does and does not show, because there is an argument available here that I am not going to make. Luke's silence about what commission those people understood themselves to be under is silence. It is not evidence that they had none. What the passage establishes is narrower: proclamation is happening, and the people doing it are not the ones Acts identifies by office.
 
-I had been using the first question to answer the second. That was the actual error, and it had been comfortable for years.
+I had been using the first question to answer the second. That was the actual error, it was mine, and it had been comfortable for years.
+
+There is a second error underneath it that belongs here too. Whenever a text got uncomfortable in that exchange, I could reach for the framework instead of the text and say the commission had already been carried out in the first century. Whether that is true is the subject of most of this book. But used the way I was using it, it was not an answer to Mark 16. It was a way of not needing one.
 
 ## The sentence I had to take apart
 
@@ -64,7 +66,7 @@ That is the whole finding. It cost me a position I liked and did not replace it 
 
 While assembling this, I turned down two arguments that would have helped me, and I want them in the record because they show what the rules are for.
 
-Mark 16:15, go into all the world and proclaim the good news, is one of the two verses I had ready in the very first conversation. It sits in the passage Mark 16:9-20.
+Mark 16:15, go into all the world and proclaim the good news, is the verse he opened with. It sits in the passage Mark 16:9-20.
 
 That passage has a manuscript problem, and it is not a small or a contested one. Two of the earliest surviving complete Greek manuscripts, Codex Sinaiticus and Codex Vaticanus, end the Gospel at 16:8. The longer ending is present in many later manuscripts and became deeply established in the textual and church tradition. Its absence from those two early witnesses is a fact about the evidence.
 
@@ -72,21 +74,25 @@ I am deliberately not ranking those manuscripts against the later tradition here
 
 I am not going to adjudicate that here. What matters for this chapter is what I did with it, which is to stop citing Mark 16:15 as load-bearing. Not because I have concluded it is spurious. Because a claim that depends on a text with that kind of question over it is resting on something I would not accept if somebody else were resting on it.
 
-And here is the part that made it easy: nothing in my conclusion needs it. The Gentile mission is established by Acts, by Paul's letters, by Ephesians 2, by the Jerusalem council. Mark 16:15 is not carrying the mission. It was carrying my rhetoric.
+And here is what kept me honest about it. Setting Mark 16:15 aside is convenient for me, because it was his verse and not mine. A man who finds a manuscript problem in the text his opponent is holding, and announces it, has not necessarily done anything admirable.
+
+What makes it defensible is that it changes nothing. The Gentile mission is established by Acts, by Paul's letters, by Ephesians 2, by the Jerusalem council. Mark 16:15 was never carrying the mission, and the case against me does not weaken by an ounce when that verse is set down. If it did, I would have had to be much more suspicious of how quickly I reached for the manuscript evidence.
 
 The second one is James 4:17. Whoever knows the right thing to do and fails to do it, for him it is sin.
 
-That verse is true. It is also, I noticed, doing no work here, because it never mentions evangelism. It applies to whatever the right thing to do turns out to be, which is the exact question I was trying to settle. Using it as evidence assumes the answer and then dresses the assumption in a verse.
+He put that one to me directly, right after I said preaching was not my thing, which is probably why I remember exactly where it landed.
 
-It is a good verse. It is a bad argument. I have used it as a bad argument before.
+The verse is true. It is also doing no work in this argument, because it never mentions evangelism. It applies to whatever the right thing to do turns out to be, which is the exact question we were trying to settle. Used as evidence, it assumes the answer and then puts a verse on top of the assumption.
+
+Good verse. Bad argument. And I have made that same bad argument at other people, which is how I recognized it.
 
 ## Why this chapter is here
 
 I want to be plain about why this small chapter matters more than its subject does.
 
-The method I built in Chapter 2 was built to be neutral. That is easy to claim. The only way to demonstrate it is for the method to produce a result its owner did not want, and here it did, in the second or third week, on a position I had held comfortably for years and had stated out loud to other people.
+The method I built in Chapter 2 was built to be neutral. That is easy to claim. The only way to demonstrate it is for the method to produce a result its owner did not want, and here it did, in the second or third week, on a position I had held comfortably for years and had defended to a member of my own family.
 
-It did not correct a hypothetical opponent. There is no opponent in this chapter. It corrected me.
+There is an opponent in this chapter, and the method did not simply hand him the win either. His tidy version died too. But mine died first, and it died on the verse he had already put in front of me and I had walked around.
 
 I am asking you, across the rest of this book, to accept some conclusions that a lot of people would find unusual. The only reason you have to take those seriously is if the thing producing them can be shown to bite the hand that built it.
 
@@ -106,6 +112,10 @@ I expected to confirm what I already thought.
 
 ---
 
-**Where we are.** Both original positions fail on explicit text. What replaces them is a distinction rather than a rule: ministry is distributed unevenly and nobody is required to be an evangelist, while witness is a different question that Acts 8:4 makes hard to answer with a settled silence. Two arguments that would have helped me were set down, one for a manuscript problem and one for assuming its own conclusion. The method corrected its author rather than an opponent, which is the only real evidence that it was a method.
+::: whereweare
+**Where we are.** Both original positions fail on explicit text. What replaces them is a distinction rather than a rule: ministry is distributed unevenly and nobody is required to be an evangelist, while witness is a different question that Acts 8:4 makes hard to answer with a settled silence. Two arguments that would have helped me were set down, one over a manuscript problem in a verse that was not mine, and one for assuming its own conclusion. The method cost its author something before it cost anyone else anything, which is the only real evidence that it was a method.
+:::
 
+::: earned
 **What it earned.** The foundation is built and the second half of the original question is still sitting there. Matthew 24, read as a whole, with the audience in view.
+:::

@@ -44,7 +44,13 @@ O sea que las naciones nunca fueron una ocurrencia tardía ni un plan de repuest
 
 Ahora la parte que me sorprendió: lo estrecho que fue realmente el ministerio terrenal.
 
-El ministerio de Juan transcurre dentro de Israel y lo dice. Está preparando a un pueblo que ya tiene un pacto, no reclutando uno nuevo.
+::: person
+**Juan el Bautista**
+
+Profeta judío del primer siglo que llamó a Israel al arrepentimiento y preparó el camino de Yeshúa. No es la misma persona que Juan el apóstol, a quien la tradición asocia con el Evangelio de Juan y con el Apocalipsis; los dos aparecen en este libro por razones distintas y los voy a mantener separados por nombre.
+:::
+
+El ministerio de Juan el Bautista transcurre dentro de Israel y lo dice. Está preparando a un pueblo que ya tiene un pacto, no reclutando uno nuevo.
 
 Y lo que el propio Yeshúa dice sobre su alcance no tiene nada de ambiguo:
 
@@ -72,15 +78,15 @@ Esa imagen va a volver. Mucho más adelante en esta investigación, cuando Pablo
 
 En esta etapa me topé con una contradicción que sigo sin resolver, y lo honesto es mostrar dónde está en vez de elegir un bando y seguir de largo.
 
-Cuando le preguntan directamente si es Elías, Juan dice que no:
+Cuando le preguntan directamente si es Elías, Juan el Bautista dice que no:
 
 > ¿Eres tú Elías? Dijo: No soy (Juan 1:21)
 
-Hablando de Juan, Yeshúa dice:
+Hablando de Juan el Bautista, Yeshúa dice:
 
 > Y si queréis recibirlo, él es aquel Elías que había de venir (Mateo 11:14)
 
-Hay maneras respetables de conciliar las dos cosas. Puede que Juan esté negando una expectativa concreta, la de un Elías literalmente regresado, y afirmando a la vez un papel funcional. El "si queréis recibirlo" de Yeshúa puede estar señalando algo distinto de una identificación lisa y llana. Algunas de esas salidas me parecen más plausibles que otras.
+Hay maneras respetables de conciliar las dos cosas. Puede que Juan el Bautista esté negando una expectativa concreta, la de un Elías literalmente regresado, y afirmando a la vez un papel funcional. El "si queréis recibirlo" de Yeshúa puede estar señalando algo distinto de una identificación lisa y llana. Algunas de esas salidas me parecen más plausibles que otras.
 
 Pero no lo sé, y este libro tiene una regla al respecto desde el capítulo anterior. Así que los cuatro textos quedan uno al lado del otro en mis notas, sin armonizar, en la caja de las preguntas abiertas.
 
@@ -88,6 +94,10 @@ Lo menciono acá en vez de enterrarlo porque es la primera vez en la investigaci
 
 ---
 
+::: whereweare
 **Dónde estamos.** Las naciones estaban en la promesa desde Génesis 12, e Isaías 49:6 llama demasiado poco a restaurar solamente a Israel; así que la inclusión de los gentiles no es una sustitución posterior de un plan fallido. Aun así, el ministerio terrenal tuvo un alcance declarado, y ese alcance era Israel, en palabras que no voy a suavizar. Los gentiles que sí reciben en los Evangelios aparecen llegando a una mesa que ya estaba puesta.
+:::
 
+::: earned
 **Qué se ganó.** Si la misión empezó así de estrecha y la intención siempre fue así de amplia, entonces algo se movió. ¿Cómo se movió, cuándo, y quién lo hizo?
+:::

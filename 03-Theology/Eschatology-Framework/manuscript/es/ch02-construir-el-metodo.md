@@ -94,6 +94,10 @@ Ese es todo el método. No es complicado. Es sobre todo un conjunto de maneras d
 
 ---
 
+::: whereweare
 **Dónde estamos.** No podía resolver la pregunta del evangelismo apilando citas, así que armé primero un método: cuatro cajas para que las categorías no se filtren, una secuencia para trabajar un pasaje que termina en una prueba, una regla contra confundir texto, interpretación, correlación histórica e hipótesis, una escala de cuatro palabras para la evidencia, y una pregunta de diagnóstico sobre si estoy leyendo o reconociendo. Una cosa se rompió enseguida: el modelo lineal daba a entender que toda investigación debe empezar en la Escritura, lo cual era falso, y se rehízo como ciclo con la puerta abierta.
+:::
 
+::: earned
 **Qué se ganó.** Ahora la pregunta se puede hacer bien. ¿Qué dice realmente la comisión, y quién estaba en la habitación?
+:::

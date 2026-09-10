@@ -90,6 +90,10 @@ That is the whole method. It is not complicated. It is mostly a set of ways to s
 
 ---
 
+::: whereweare
 **Where we are.** I could not settle the evangelism question by proof-texting, so I built a method first: four boxes to stop categories leaking, a sequence for working a passage that ends in a test, a rule against collapsing text and interpretation and historical correlation and hypothesis, a four-word scale for evidence, and a diagnostic question about whether I am reading or recognizing. One thing broke immediately. The linear model implied every investigation must begin at Scripture, which was false, and it was rebuilt as a cycle with the doorway left open.
+:::
 
+::: earned
 **What it earned.** Now the question can be asked properly. What does the commission actually say, and who was in the room?
+:::

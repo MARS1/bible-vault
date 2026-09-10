@@ -118,6 +118,10 @@ Acts 15 is going to matter enormously later, for reasons that have nothing to do
 
 ---
 
+::: whereweare
 **Where we are.** Acts follows its own stated route outward. Acts 2's list of nations is geography, not covenant identity, and Peter is addressing Israel. Acts 8:4 eliminated the claim that only the apostles proclaimed, and then Acts 11:19 narrowed my replacement claim by showing those same scattered believers spoke only to Jews. Acts 10 gave me the clearest case I have of a surface image meaning something other than it appears, with the interpretation supplied by the character himself. And a rule fell out of the Spirit-sequence difference: description is not procedure.
+:::
 
+::: earned
 **What it earned.** Luke tells me what happened. He does not tell me what it means for the covenant. So what does Paul say it means?
+:::
