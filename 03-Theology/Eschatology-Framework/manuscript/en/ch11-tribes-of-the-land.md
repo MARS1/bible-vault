@@ -22,7 +22,7 @@ Then I looked at the Greek and found a word I had already met.
 
 The word behind "earth" is **γῆ** *(gē)*. It is the ordinary word for land, ground, soil, territory, country. It can mean the whole earth. It can also mean *this land*, in the way a person in a country says "the land" and everyone knows which one.
 
-The word behind "tribes" is **φυλαί** *(phylai)*, and in Israel's Scriptures that word has a home. Overwhelmingly it is at work in the vocabulary of Israel's own tribes, and that resonance matters here, especially once the source passage turns out to be Zechariah 12. But the word is not restricted to Israel. It carries a wider ethnic sense as well, and Revelation itself stacks it into expansive formulas alongside tongues and peoples and nations. So *phylai* leans in a direction. It cannot establish the referent on its own.
+The word behind "tribes" is **φυλαί** *(phylai)*, and in Israel's Scriptures that word has a home. Overwhelmingly it is at work in the vocabulary of Israel's own tribes, and that resonance matters here, especially once the source passage turns out to be Zechariah 12. But the word is not restricted to Israel. It carries a wider ethnic sense as well, and Revelation itself stacks it into expansive formulas alongside tongues and peoples and nations — *every tribe and tongue and people and nation* at 5:9, and the same four again at 7:9. So *phylai* leans in a direction. It cannot establish the referent on its own.
 
 Two words, side by side, both carrying covenantal-land resonance. That is not proof of anything. It is a reason to look further.
 
