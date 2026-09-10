@@ -1102,6 +1102,7 @@ CJB: "neither the citizen nor the foreigner living with you."
 ESV: "For the assembly, there shall be one statute for you and for the stranger who sojourns with you, a statute forever throughout your generations. One law and one rule shall be for you and for the stranger who sojourns with you."
 CJB: "there will be the same law for you as for the foreigner living with you... The same Torah and standard of judgment will apply to both you and the foreigner living with you."
 Hebrew: **גֵּר** *gēr* — sojourner / resident alien. **🚧 Do NOT flatten into "Gentile Christian."**
+RVR1960: "Un mismo estatuto tendréis vosotros de la congregación y el extranjero que con vosotros mora; será estatuto perpetuo por vuestras generaciones; como vosotros, así será el extranjero delante de Jehová. Una misma ley y un mismo decreto tendréis, vosotros y el extranjero que con vosotros mora."
 
 ### Numbers 6 — the Nazirite vow (Numbers 6 defines Numbers 6 BEFORE Acts/Hebrews)
 
@@ -1109,6 +1110,7 @@ Hebrew: **גֵּר** *gēr* — sojourner / resident alien. **🚧 Do NOT flatte
 ESV: "When either a man or a woman makes a special vow, the vow of a Nazirite, to separate himself to the Lord"
 CJB: "When either a man or a woman makes a special kind of vow, the vow of a nazir, consecrating himself to Adonai"
 Hebrew: **נָזִיר** *nāzîr* — "one separated / consecrated."
+RVR1960: "Habla a los hijos de Israel y diles: El hombre o la mujer que se apartare haciendo voto de nazareo, para dedicarse a Jehová,"
 
 **Numbers 6:3–6** — the three restrictions
 ESV (3): "he shall separate himself from wine and strong drink... shall not drink any juice of grapes or eat grapes, fresh or dried."
@@ -1175,6 +1177,7 @@ CJB (4): "Only flesh with its life, which is its blood, you are not to eat."
 ESV: "if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine; and you shall be to me a kingdom of priests and a holy nation."
 CJB: "you will be my own treasure from among all the peoples... and you will be a kingdom of cohanim for me, a nation set apart."
 Hebrew: **קָדוֹשׁ** *qadosh* — holy / set apart. **CJB renders it "set apart" outright.**
+RVR1960: "Ahora, pues, si diereis oído a mi voz, y guardareis mi pacto, vosotros seréis mi especial tesoro sobre todos los pueblos; porque mía es toda la tierra. Y vosotros me seréis un reino de sacerdotes, y gente santa. Estas son las palabras que dirás a los hijos de Israel."
 
 **Leviticus 11:3**
 ESV: "Whatever parts the hoof and is cloven-footed and chews the cud, among the animals, you may eat."
@@ -1289,6 +1292,7 @@ CJB: "But Dani'el resolved that he would not defile himself with the king's food
 ESV: "Test your servants for ten days; let us be given vegetables to eat and water to drink."
 CJB: "Please! Try an experiment on your servants — for ten days have them give us only vegetables to eat and water to drink."
 Hebrew: **זֵרֹעִים** *zērōʿîm* — "things sown / grown from seed," broader than English "vegetables."
+RVR1960: "Te ruego que hagas la prueba con tus siervos por diez días, y nos den legumbres a comer, y agua a beber."
 
 **Daniel 1:15** — note what it does NOT say
 ESV: "At the end of ten days it was seen that they were better in appearance and fatter in flesh than all the youths who ate the king's food."
@@ -1308,6 +1312,7 @@ CJB (17): "To these four boys God had given knowledge and skill in every aspect 
 ESV: "One person believes he may eat anything, while the weak person eats only vegetables."
 CJB: "One person has the trust that will allow him to eat anything, while another whose trust is weak eats only vegetables."
 Greek: **λάχανα** *lachana* — vegetables/plants/herbs. **Torah never required Jews to eat only vegetables.**
+RVR1960: "Porque uno cree que se ha de comer de todo; otro, que es débil, come legumbres."
 
 **Romans 14:3** — note the symmetry; neither party told to change
 ESV: "Let not the one who eats despise the one who abstains, and let not the one who abstains pass judgment on the one who eats, for God has welcomed him."
@@ -1344,6 +1349,7 @@ CJB: "The doubter comes under condemnation if he eats, because his action is not
 ESV: "Now concerning food offered to idols: we know that 'all of us possess knowledge.' This 'knowledge' puffs up, but love builds up."
 CJB: "'knowledge' puffs a person up with pride; whereas love builds up."
 Greek: **εἰδωλόθυτα** *eidōlothyta* — food/meat sacrificed to idols.
+RVR1960: "En cuanto a lo sacrificado a los ídolos, sabemos que todos tenemos conocimiento. El conocimiento envanece, pero el amor edifica."
 
 **1 Corinthians 8:4, 8**
 ESV (4): "'an idol has no real existence,' and that 'there is no God but one.'"
@@ -1379,6 +1385,7 @@ ESV (14): "by canceling the record of debt that stood against us with its legal 
 CJB (14): "He wiped away the bill of charges against us. Because of the regulations, it stood as a testimony against us; but he removed it by nailing it to the execution-stake."
 Greek: **χειρόγραφον** *cheirographon* — a handwritten document, commonly a certificate of indebtedness.
 **"The Torah was nailed to the cross" REPLACES PAUL'S NOUN. He does not write νόμος.**
+RVR1960: "Y a vosotros, estando muertos en pecados y en la incircuncisión de vuestra carne, os dio vida juntamente con él, perdonándoos todos los pecados, anulando el acta de los decretos que había contra nosotros, que nos era contraria, quitándola de en medio y clavándola en la cruz,"
 
 **Colossians 2:15**
 ESV: "He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him."
@@ -1425,6 +1432,7 @@ CJB (11): "For in six days, Adonai made heaven and earth, the sea and everything
 ESV: "The Sabbath was made for man, not man for the Sabbath. So the Son of Man is lord even of the Sabbath."
 CJB: "Shabbat was made for mankind, not mankind for Shabbat; so the Son of Man is Lord even of Shabbat."
 Greek: **ἄνθρωπος** *anthrōpos* — human / humankind.
+RVR1960: "También les dijo: El día de reposo fue hecho por causa del hombre, y no el hombre por causa del día de reposo. Por tanto, el Hijo del Hombre es Señor aun del día de reposo."
 
 **Romans 14:6** — observance unto Yahweh
 ESV: "The one who observes the day, observes it in honor of the Lord. The one who eats, eats in honor of the Lord, since he gives thanks to God, while the one who abstains, abstains in honor of the Lord and gives thanks to God."
@@ -1452,6 +1460,7 @@ CJB (4): "the people of Isra'el! They were made God's children, the Sh'khinah ha
 ESV: "But it is not as though the word of God has failed. For not all who are descended from Israel belong to Israel,"
 CJB: "But the present condition of Isra'el does not mean that the Word of God has failed. For not everyone from Isra'el is truly part of Isra'el;"
 **An ANSWER TO THE APPARENT FAILURE OF YAHWEH'S PROMISE — not an answer to "who is the Church?"**
+RVR1960: "No que la palabra de Dios haya fallado; porque no todos los que descienden de Israel son israelitas,"
 
 **Romans 9:7–8** — the first example is Ishmael/Isaac, NOT Gentiles
 ESV (7): "and not all are children of Abraham because they are his offspring, but 'Through Isaac shall your offspring be named.'"
@@ -1492,6 +1501,8 @@ ESV (23): "vessels of mercy, which he has prepared beforehand for glory"
 CJB (22): "patiently put up with people who deserved punishment and were RIPE FOR destruction?"
 CJB (23): "those who are the objects of his mercy, whom he prepared in advance for glory"
 **✅ VERIFIED: 9:22 κατηρτισμένα = perfect participle, MIDDLE OR PASSIVE, NO stated agent. 9:23 προητοίμασεν = aorist indicative ACTIVE, God as subject. NOT parallel constructions. What that MEANS is not established. See [[04-open-questions]] item 59.**
+RVR1960: "Mas antes, oh hombre, ¿quién eres tú, para que alterques con Dios? ¿Dirá el vaso de barro al que lo formó: Por qué me has hecho así? ¿O no tiene potestad el alfarero sobre el barro, para hacer de la misma masa un vaso para honra y otro para deshonra? ¿Y qué, si Dios, queriendo mostrar su ira y hacer notorio su poder, soportó con mucha paciencia los vasos de ira preparados para destrucción, y para hacer notorias las riquezas de su gloria, las mostró para con los vasos de misericordia que él preparó de antemano para gloria,"
+> ### ✅ **AND RVR1960 INDEPENDENTLY PRESERVES THE ASYMMETRY: ❗ **"los vasos de ira PREPARADOS para destrucción"** — a participle with **NO STATED AGENT**, matching κατηρτισμένα · ✅ **"los vasos de misericordia que ÉL PREPARÓ DE ANTEMANO"** — **ACTIVE, GOD AS EXPLICIT SUBJECT**, matching προητοίμασεν. **A THIRD WITNESS TO A FINDING PREVIOUSLY CARRIED BY THE GREEK ALONE (q433 lane).**
 
 **Jeremiah 18:6** — where potter/clay comes from
 ESV: "Like the clay in the potter's hand, so are you in my hand, O house of Israel."
@@ -1526,6 +1537,7 @@ ESV: "For Christ is **the end of the law** for righteousness to everyone who bel
 CJB: "For **the goal at which the *Torah* aims** is the Messiah, who offers righteousness to everyone who trusts."
 Greek: *τέλος γὰρ νόμου Χριστὸς* — **τέλος, Strong's 5056, nom. neut. sing.** Carries **end · goal · culmination · outcome · completion · purpose.**
 **❗ CANNOT be settled from the English word "end." Open question q63.**
+RVR1960: "porque el fin de la ley es Cristo, para justicia a todo aquel que cree."
 
 **Romans 10:6–8** — Paul argues faith-righteousness FROM Moses
 ESV (6–7): "Do not say in your heart, 'Who will ascend into heaven?' (that is, to bring Christ down) or 'Who will descend into the abyss?' (that is, to bring Christ up from the dead)."
@@ -1568,6 +1580,7 @@ ESV: "But I ask, **have they not heard? Indeed they have**, for 'Their voice has
 CJB: "'But, I say, isn't it rather that they didn't hear?' No, they did hear — 'Their voice has gone out throughout the whole **world** and their words to the ends of the **earth**.'"
 Greek — VERIFIED BY INTERLINEAR: *πᾶσαν τὴν* **γῆν** *(gē, 1093)* … *τὰ πέρατα τῆς* **οἰκουμένης** *(oikoumenē, 3625)*
 > ### ❗❗ **CJB INVERTS THE TWO ENGLISH TERMS RELATIVE TO THE GREEK.** Greek order is **gē** then **oikoumenē**; CJB renders "world" then "earth." **Anyone building the Matthew 24:14 bridge from CJB English attaches *oikoumenē* to the WRONG HALF OF THE VERSE.** Strongest practical vindication of ADR-0008 to date.
+RVR1960: "Pero digo: ¿No han oído? Antes bien, Por toda la tierra ha salido la voz de ellos, Y hasta los fines de la tierra sus palabras."
 
 **Psalm 19:4 (English) = MT 19:5 = LXX 18:5** — 🛑 **THE BRAKE**
 Hebrew (Sefaria, VERIFIED): בְּכׇל־הָאָ֨רֶץ יָ֘צָ֤א **קַוָּ֗ם** וּבִקְצֵ֣ה **תֵ֭בֵל** מִלֵּיהֶ֑ם — Revised JPS: "Their voice carries throughout the earth, their words to the end of the world."
@@ -1576,6 +1589,7 @@ LXX (Elpenor, VERIFIED on rung 5 of the source ladder): *εἰς πᾶσαν τ�
 **And MT *qav* ("their LINE") ≠ LXX *phthongos* ("their VOICE") — Paul follows the LXX against the Hebrew, and his whole "indeed they have heard" argument depends on it. Open question q65.**
 **Note *tevel* stands where the LXX puts *oikoumenē* — the scope question predates the Greek.**
 *(Confirms the documented Psalms superscription offset again: Sefaria's Hebrew 19:4 is a different verse — "There is no utterance, there are no words, whose sound goes unheard.")*
+RVR1960: "Por toda la tierra salió su voz, Y hasta el extremo del mundo sus palabras."
 
 **Romans 10:19–21** — Gentile inclusion + Israel's disobedience
 ESV (19): "I will make you **jealous** of those who are not a nation; with a foolish nation I will make you angry." *(**Deuteronomy 32:21** — the jealousy motif that detonates in Romans 11)*
@@ -1585,16 +1599,19 @@ ESV (21): "All day long I have held out my hands to a **disobedient and contrary
 **Matthew 24:14** — the other end of the bridge, VERIFIED BY INTERLINEAR
 *καὶ* **κηρυχθήσεται** *(kēryssō, 2784) τοῦτο τὸ εὐαγγέλιον τῆς βασιλείας ἐν ὅλῃ τῇ* **οἰκουμένῃ** *(3625) … καὶ τότε ἥξει τὸ* **τέλος** *(5056)*
 **Three lemmas shared with Romans 10 — but see the brake above: on inspection they collapse to roughly one (*kēryssō*, Paul's own verb). Open question q68.**
+RVR1960: "Y será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin."
 
 **Colossians 1:23** — VERIFIED BY INTERLINEAR
 *ἐν πάσῃ* **κτίσει** *(ktisis, 2937) τῇ ὑπὸ τὸν οὐρανόν* — "in all creation under heaven"
 **❗ Uses *ktisis*, NOT *oikoumenē*.** But the verb is **κηρυχθέντος** — **same lemma as Matthew 24:14's κηρυχθήσεται**, aorist passive (completed) against Matthew's future passive.
 **Verb matches; scope noun does not. Do not collapse the two.**
+RVR1960: "si en verdad permanecéis fundados y firmes en la fe, y sin moveros de la esperanza del evangelio que habéis oído, el cual se predica en toda la creación que está debajo del cielo; del cual yo Pablo fui hecho ministro."
 
 **Role/act distinction — supporting texts** *(⚠️ Eph 4:11 and 1 Cor 12:29 NOT YET RETRIEVAL-VERIFIED — open question q66)*
 **Ephesians 4:11** — apostles, prophets, **εὐαγγελιστής *euangelistēs*** (evangelist), shepherds, teachers — evangelist is a **distinct listed gift**
 **1 Corinthians 12:29** — "Are all apostles? Are all prophets? Are all teachers?" — rhetorical, implied **no**
 **1 Peter 3:15** — the counterweight: believers **ready to give an answer** for the hope in them
+RVR1960 (Ef 4:11): "Y él mismo constituyó a unos, apóstoles; a otros, profetas; a otros, evangelistas; a otros, pastores y maestros,"
 
 ---
 
@@ -1625,12 +1642,14 @@ Greek 24:40 — VERIFIED: **παραλαμβάνεται** *paralambanetai* (**3
 > ### ❗ **IN THE IMMEDIATELY PRECEDING ANALOGY THE ONES REMOVED ARE THE WICKED.** **Yeshua says TAKEN and LEFT — not "disappears."**
 > ### ❗❗ **THIRD VERIFIED OCCURRENCE OF UNDETERMINED VOICE: Romans 9:22 · Acts 13:48 · here. No camp can claim the grammar in any of them. q104.**
 **⚠️ Matthew 24:39's verb for "swept them all away" NOT retrieved — the datum that would show whether Matthew uses a different verb there (q107).**
+RVR1960: "Mas como en los días de Noé, así será la venida del Hijo del Hombre. Porque como en los días antes del diluvio estaban comiendo y bebiendo, casándose y dando en casamiento, hasta el día en que Noé entró en el arca, y no entendieron hasta que vino el diluvio y se los llevó a todos, así será también la venida del Hijo del Hombre. Entonces estarán dos en el campo; el uno será tomado, y el otro será dejado. Dos mujeres estarán moliendo en un molino; la una será tomada, y la otra será dejada."
 
 **Luke 17:26–37** — 🔑 **"WHERE, LORD?"** — ESV, VERIFIED
 "the flood came and **destroyed them all**"… Lot — "fire and sulfur rained from heaven and **destroyed them all**"… "two in one bed. **One will be taken and the other left.**"
 17:37: "**And they said to him, 'Where, Lord?' He said to them, 'Where the corpse is, there the vultures will gather.'**"
 > ### ❗❗ **THE DISCIPLES ASK WHERE THE TAKEN ONES GO, AND THE ANSWER INVOKES A CORPSE AND GATHERING VULTURES. That sounds like JUDGMENT, not transportation of saints to a protected kingdom.** **Makes "one taken = believer gathered" far less automatic than it appears. q105.**
 **Note: two women grinding — ἀλήθω *alēthō*, ordinary domestic grinding (hand mill/rotary quern). NOT two people pushing one giant stone. And HISTORICALLY SITUATED IMAGERY DOES NOT ESTABLISH HISTORICALLY LIMITED FULFILMENT.**
+RVR1960: "Como fue en los días de Noé, así también será en los días del Hijo del Hombre. Comían, bebían, se casaban y se daban en casamiento, hasta el día en que entró Noé en el arca, y vino el diluvio y los destruyó a todos. Asimismo como sucedió en los días de Lot; comían, bebían, compraban, vendían, plantaban, edificaban; mas el día en que Lot salió de Sodoma, llovió del cielo fuego y azufre, y los destruyó a todos. Así será el día en que el Hijo del Hombre se manifieste. En aquel día, el que esté en la azotea, y sus bienes en casa, no descienda a tomarlos; y el que en el campo, asimismo no vuelva atrás. Acordaos de la mujer de Lot. Todo el que procure salvar su vida, la perderá; y todo el que la pierda, la salvará. Os digo que en aquella noche estarán dos en una cama; el uno será tomado, y el otro será dejado. Dos mujeres estarán moliendo juntas; la una será tomada, y la otra dejada. Dos estarán en el campo; el uno será tomado, y el otro dejado. Y respondiendo, le dijeron: ¿Dónde, Señor? Él les dijo: Donde estuviere el cuerpo, allí se juntarán también las águilas."
 
 ---
 
@@ -1645,10 +1664,12 @@ ESV (25): "an hour is coming, **and is now here**, when the dead will hear the v
 ESV (28–29): "an hour is coming" — **NO 'and is now here'** — "when **all who are in the tombs** will hear his voice **and come out**, those who have done good to the **resurrection of life**, and those who have done evil to the **resurrection of judgment**." → **CATEGORY A / E**
 Greek — VERIFIED: **μνημείοις** *mnēmeiois*, **Strong's 3419**, dative neuter plural — **tombs / memorial monuments.**
 > ### ❗❗ **JOHN ADDS "AND IS NOW HERE" TO v25 AND OMITS IT FROM v28. THE AUTHOR MARKS THE DIFFERENCE HIMSELF.** **Spiritual-resurrection language may NOT be used to erase bodily-resurrection language — both exist in one chapter, distinguished by that author.** **Close parallel to Daniel 12: dead → raised → life/judgment.**
+RVR1960: "De cierto, de cierto os digo: El que oye mi palabra, y cree al que me envió, tiene vida eterna; y no vendrá a condenación, mas ha pasado de muerte a vida. De cierto, de cierto os digo: Viene la hora, y ahora es, cuando los muertos oirán la voz del Hijo de Dios; y los que la oyeren vivirán. Porque como el Padre tiene vida en sí mismo, así también ha dado al Hijo el tener vida en sí mismo; y también le dio autoridad de hacer juicio, por cuanto es el Hijo del Hombre. No os maravilléis de esto; porque vendrá hora cuando todos los que están en los sepulcros oirán su voz; y los que hicieron lo bueno, saldrán a resurrección de vida; mas los que hicieron lo malo, a resurrección de condenación."
 
 **1 Corinthians 15:42–44** — the transformation contrast — ESV, VERIFIED
 "What is sown is **perishable**; what is raised is **imperishable**… sown in **dishonor**, raised in **glory**… sown in **weakness**, raised in **power**… sown a **natural body**; it is raised a **spiritual body**." → **CATEGORY A**
 > ### **σῶμα πνευματικόν — Paul still says *sōma*. "Spiritual" describes the body's MODE, SOURCE, or ORDER — not immateriality. The phrase does not mean "non-body."**
+RVR1960: "Así también es la resurrección de los muertos. Se siembra en corrupción, resucitará en incorrupción. Se siembra en deshonra, resucitará en gloria; se siembra en debilidad, resucitará en poder. Se siembra cuerpo animal, resucitará cuerpo espiritual. Hay cuerpo animal, y hay cuerpo espiritual."
 
 **1 Corinthians 15:50–54** — ⚖️ **THE OBJECTION, ANSWERED BY PAUL'S NEXT SENTENCES** — ESV, VERIFIED
 15:50: "**flesh and blood cannot inherit the kingdom of God**, nor does the perishable inherit the imperishable."
@@ -1661,6 +1682,7 @@ Greek — VERIFIED: **μνημείοις** *mnēmeiois*, **Strong's 3419**, dati
 "**the dead in Christ will rise first**"… living believers "**caught up together with them** to meet the Lord." → **CATEGORY A**
 Greek — VERIFIED: **ἀπάντησιν** *apantēsin*, **Strong's 529** — "a meeting" (from *apantaō*).
 **🔖 BOOKMARKED, NOT SETTLED (q99): some argue the term evokes citizens going out to meet an arriving dignitary AND ESCORTING HIM BACK. Others caution against a rigid rule from few usages. The resurrection itself remains explicit either way.**
+RVR1960: "Porque el Señor mismo con voz de mando, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero. Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor."
 
 **Daniel 12:2** *(verified Stage 27)* → **CATEGORY A / E** — sleep in dust · awake · two destinies · **Hebrew רַבִּים *rabbim*, "many," not "all"**
 **Matthew 13:43** *(verified Stage 27)* — "the righteous will **shine like the sun**" — **echoes Daniel 12:3; Matthew's harvest may draw on Danielic resurrection/judgment language, so Matthew 13 may not be read as merely institutional covenant transfer**
@@ -1668,6 +1690,7 @@ Greek — VERIFIED: **ἀπάντησιν** *apantēsin*, **Strong's 529** — "
 **1 Corinthians 15:20–26** *(verified Stage 28)* — firstfruits → at his coming those who belong → **then the end** → "**the last enemy to be destroyed is death**"
 **Revelation 20:4–6** *(verified Side Branch 27½)* → ⏳ **DELIBERATELY UNCLASSIFIED — that is what reading Revelation sequentially is for**
 **Ezekiel 37** — ⚠️ NOT RETRIEVED (q101) — the corporate-resurrection control needed to classify **category C** properly
+RVR1960 (Dn 12:2): "Y muchos de los que duermen en el polvo de la tierra serán despertados, unos para vida eterna, y otros para vergüenza y confusión perpetua."
 
 > ### 🚧 **RESONANCE IS NOT EQUIVALENCE: Luke 20:36's "cannot die anymore" and Revelation 20:6's "the second death has no power" resonate — Luke speaks of INABILITY TO DIE, Revelation specifically of THE SECOND DEATH. Preserved as distinct.**
 
@@ -1682,6 +1705,7 @@ Greek — VERIFIED: **ἀπάντησιν** *apantēsin*, **Strong's 529** — "
 **Matthew 12:32** — the framework, from Yeshua — *(verified Stage 27)*
 "either **in this age** [ἐν τούτῳ τῷ αἰῶνι] or **in the age to come** [ἐν τῷ μέλλοντι]."
 **The second is not merely "the future" — it is THE COMING AGE.**
+RVR1960: "A cualquiera que dijere alguna palabra contra el Hijo del Hombre, le será perdonado; pero al que hable contra el Espíritu Santo, no le será perdonado, ni en este siglo ni en el venidero."
 
 **Mark 10:29–30** — ESV, VERIFIED
 "…will not fail to receive a hundredfold **now in this time**… and **in the age to come eternal life**."
@@ -1701,6 +1725,7 @@ Greek — VERIFIED: **ἀπάντησιν** *apantēsin*, **Strong's 529** — "
 Greek — VERIFIED BY INTERLINEAR: **τὰ τέλη τῶν αἰώνων** — **τέλη (5056, PLURAL of *telos*)** + **αἰώνων (165, PLURAL of *aiōn*)**. Main verb **κατήντηκεν** *katēntēken* (**2658**) — **PERFECT INDICATIVE ACTIVE**, "have arrived."
 > ### ❗ **PERFECT TENSE — completed action with continuing relevance. AND THE PRONOUN IS *US*.** **Establishes that Paul considered his own generation eschatologically transitional. NOT proof of AD 70.**
 **⚠️ *telē* is the plural of τέλος (5056) — same lexeme as Matthew 24:14's "the end" and Romans 10:4's "end of the law" (q63). THIRD load-bearing appearance. Shared lemma ≠ shared meaning — RECORDED, NOT ARGUED FROM.**
+RVR1960: "Y estas cosas les acontecieron como ejemplo, y están escritas para amonestarnos a nosotros, a quienes han alcanzado los fines de los siglos."
 
 **Hebrews 9:26** — independent convergence — ESV, VERIFIED
 "he has appeared **once for all at the end of the ages** to put away sin by the sacrifice of himself."
@@ -1714,6 +1739,7 @@ Greek — VERIFIED BY INTERLINEAR: **τὰ τέλη τῶν αἰώνων** — 
 Greek — VERIFIED BY INTERLINEAR: **οἰκουμένην τὴν μέλλουσαν** — **οἰκουμένη, Strong's 3625.** NOT *kosmos*, NOT *aiōn*.
 > ### ❗❗ **THE SAME WORD AS MATTHEW 24:14, ATTACHED TO A *COMING* ORDER.** Stage 25 showed *oikoumenē* need not mean every geographical location on the earth (Luke 2:1, Acts 11:28); **Hebrews shows it can denote a FUTURE order.** **Neither cancels the other — the referent must be determined PER OCCURRENCE. q96, and it feeds q68's scope study.**
 **Connected by Hebrews to Psalm 8 — ⚠️ Psalm 8 / Hebrews 2:6–9 not retrieved, q97.**
+RVR1960: "Porque no sujetó a los ángeles el mundo venidero, acerca del cual estamos hablando;"
 
 **Hebrews 8:13** — 🚧 suggestive, and the brake — *(verified Stage 27)*
 "what is **becoming obsolete and growing old is ready to vanish away**."
@@ -1722,6 +1748,7 @@ Greek — VERIFIED BY INTERLINEAR: **οἰκουμένην τὴν μέλλου�
 **1 Corinthians 15:20–26** — ⚖️ **THE HARD TEST FOR ANY CHRONOLOGY** — ESV, VERIFIED
 "Christ has been raised from the dead, **the firstfruits** of those who have fallen asleep… **each in his own order: Christ the firstfruits, then at his coming those who belong to Christ. Then comes the end**, when he delivers the kingdom to God the Father after destroying every rule and every authority and power. For he must reign until he has put all his enemies under his feet. **The last enemy to be destroyed is death.**"
 > ### ❗❗ **RESURRECTION · COMING · KINGDOM · "THE END" IN ONE STATED ORDER, WITH A STATED FINAL ITEM. Whatever chronology this project builds MUST SURVIVE THIS — possibly a harder test than Daniel 12.**
+RVR1960: "Mas ahora Cristo ha resucitado de los muertos; primicias de los que durmieron es hecho. Porque por cuanto la muerte entró por un hombre, también por un hombre la resurrección de los muertos. Porque así como en Adán todos mueren, también en Cristo todos serán vivificados. Pero cada uno en su debido orden: Cristo, las primicias; luego los que son de Cristo, en su venida. Luego el fin, cuando entregue el reino al Dios y Padre, cuando haya suprimido todo dominio, toda autoridad y potencia. Porque preciso es que él reine hasta que haya puesto a todos sus enemigos debajo de sus pies. Y el postrer enemigo que será destruido es la muerte."
 
 ---
 
@@ -1750,6 +1777,7 @@ Greek — VERIFIED BY INTERLINEAR: **οἰκουμένην τὴν μέλλου�
 **Matthew 12:32** — 🔑 Matthew recognizes TWO AGES — ESV, VERIFIED
 "whoever speaks against the Holy Spirit will not be forgiven, **either in this age or in the age to come**."
 **Textual, not inferred. Grounds the overlapping-ages hypothesis — q90.**
+RVR1960: "A cualquiera que dijere alguna palabra contra el Hijo del Hombre, le será perdonado; pero al que hable contra el Espíritu Santo, no le será perdonado, ni en este siglo ni en el venidero."
 
 **Hebrews 8:13** — process language — ESV, VERIFIED
 "In speaking of a new covenant, he makes the first one obsolete. And what is **becoming obsolete and growing old is ready to vanish away**."
@@ -1761,6 +1789,7 @@ Greek — VERIFIED BY INTERLINEAR: **οἰκουμένην τὴν μέλλου�
 12:3: "those who are wise shall **shine like the brightness of the sky above**; and those who turn many to righteousness, like the stars forever and ever."
 12:4: "shut up the words and **seal the book, until the time of the end**." · 12:13: "you shall rest and shall stand in your allotted place **at the end of the days**."
 > ### 🔑 **HEBREW VERIFIED (Sefaria): 12:2 reads וְרַבִּ֕ים — *rabbim*, "MANY." NOT "all."** **Directly relevant to Revelation 20:5's "the rest of the dead" — RETRIEVED AND DELIBERATELY SET DOWN. Building on it now would be premature synchronization. q89, Stage 30.**
+RVR1960: "12:1–4 — En aquel tiempo se levantará Miguel, el gran príncipe que está de parte de los hijos de tu pueblo; y será tiempo de angustia, cual nunca fue desde que hubo gente hasta entonces; pero en aquel tiempo será libertado tu pueblo, todos los que se hallen escritos en el libro. Y muchos de los que duermen en el polvo de la tierra serán despertados, unos para vida eterna, y otros para vergüenza y confusión perpetua. Los entendidos resplandecerán como el resplandor del firmamento; y los que enseñan la justicia a la multitud, como las estrellas a perpetua eternidad. Pero tú, Daniel, cierra las palabras y sella el libro hasta el tiempo del fin. Muchos correrán de aquí para allá, y la ciencia se aumentará. · 12:13 — Y tú irás hasta el fin, y reposarás, y te levantarás para recibir tu heredad al fin de los días."
 
 ---
 
@@ -1783,6 +1812,7 @@ Greek — VERIFIED BY INTERLINEAR: **οἰκουμένην τὴν μέλλου�
 
 **Revelation 20:11–15** — the later judgment — ESV, VERIFIED
 "books were opened… another book… the book of life… **the dead were judged by what was written**… Death and Hades were thrown into the lake of fire. **This is the second death.**"
+RVR1960: "Y vi un gran trono blanco y al que estaba sentado en él, de delante del cual huyeron la tierra y el cielo, y ningún lugar se encontró para ellos. Y vi a los muertos, grandes y pequeños, de pie ante Dios; y los libros fueron abiertos, y otro libro fue abierto, el cual es el libro de la vida; y fueron juzgados los muertos por las cosas que estaban escritas en los libros, según sus obras. Y el mar entregó los muertos que había en él; y la muerte y el Hades entregaron los muertos que había en ellos; y fueron juzgados cada uno según sus obras. Y la muerte y el Hades fueron lanzados al lago de fuego. Esta es la muerte segunda. Y el que no se halló inscrito en el libro de la vida fue lanzado al lago de fuego."
 
 > ### 🛑 **NO SYNCHRONIZATION CLAIMED. "The millennium began in AD 70" would be the most satisfying sentence available here and REVELATION HAS NOT EARNED IT. Candidate chronologies listed at [[01h-who-is-alive-during-and-after-the-thousand-years]] §5, NONE selected. And Revelation's literary structure — chronological, recapitulation, or both — must be settled first (q94).**
 
@@ -1808,6 +1838,7 @@ ESV: "**Go therefore and make disciples of all nations**, baptizing them in the 
 | **βαπτίζοντες** | 907 | participle — *baptizing* |
 | **διδάσκοντες** | 1321 | participle — *teaching* |
 **❗ The commission's centre is FORMATION, not travel: proclamation → baptism → teaching → obedience. This is BROADER than "the command to evangelize" and HARDER to universalize as a personal travel mandate.**
+RVR1960: "Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo;"
 
 **Matthew 10:5–6** — the earlier, restricted mission *(⚠️ not retrieved this pass — q88)*
 "**Go nowhere among the Gentiles** and enter no town of the Samaritans, but **go rather to the lost sheep of the house of Israel**."
@@ -1817,6 +1848,7 @@ ESV: "**Go therefore and make disciples of all nations**, baptizing them in the 
 ESV: "**teaching them to observe all that I have commanded you**."
 Greek — VERIFIED: **τηρεῖν** *tērein*, **5083**, present infinitive active — *keep / observe / guard*.
 **Intratextual control on Matthew as a whole: 5:17 opens with *not abolish but fulfil*; 28:20 closes with *observe everything I commanded*. Matthew does not present grace as "no commands."**
+RVR1960: "enseñándoles que guarden todas las cosas que os he mandado;"
 
 ### 🔑🔑 Matthew 28:20b — and the four-occurrence συντέλεια survey, ALL VERIFIED
 
@@ -1871,18 +1903,22 @@ Greek — VERIFIED: **πεπληρωκέναι** *peplērōkenai*, lemma **πλ�
 **🔑 SAME LEMMA AS MATTHEW 5:17'S "FULFIL" (Stage 14).**
 **→ Apostolic mission completion ≠ exhaustive individual evangelisation. Open question q76.**
 **⚠️ Shared lemma ≠ shared meaning — reported as a lexical link only.**
+RVR1960: "15:19 — con potencia de señales y prodigios, en el poder del Espíritu de Dios; de manera que desde Jerusalén, y por los alrededores hasta Ilírico, todo lo he llenado del evangelio de Cristo. · 15:23 — Pero ahora, no teniendo más campo en estas regiones, y deseando desde hace muchos años ir a vosotros,"
 
 **Colossians 1:6** — VERIFIED
 Greek: **ἐν παντὶ τῷ κόσμῳ** — ***kosmos*, 2889. NOT *oikoumenē*.**
+RVR1960: "que ha llegado hasta vosotros, así como a todo el mundo, y lleva fruto y crece también en vosotros, desde el día que oísteis y conocisteis la gracia de Dios en verdad,"
 
 **Colossians 1:23** — VERIFIED
 Greek: **ἐν πάσῃ κτίσει τῇ ὑπὸ τὸν οὐρανόν** — ***ktisis*, 2937.** Verb: **κηρυχθέντος**, aorist passive participle of *kēryssō* (2784).
 **🔑 SAME VERB LEMMA AS MATTHEW 24:14's κηρυχθήσεται (future passive). Aorist against future — the strongest single datum for a first-century fulfilment reading. AND STILL NOT A FULFILMENT CLAIM: Paul never writes that Matthew 24:14 is fulfilled.**
+RVR1960: "si en verdad permanecéis fundados y firmes en la fe, y sin moveros de la esperanza del evangelio que habéis oído, el cual se predica en toda la creación que está debajo del cielo; del cual yo Pablo fui hecho ministro."
 
 **Matthew 24:3** — the age, not the earth
 Greek: **συντέλεια τοῦ αἰῶνος** *synteleia tou aiōnos* — **consummation of the AGE.** *(CJB: "that the *olam hazeh* is ending.")*
 **αἰών (165) ≠ κόσμος (2889) ≠ οἰκουμένη (3625).**
 **❗ Older "end of the world" renderings import a cosmology the Greek does not carry. WHICH age is the actual question — q77.**
+RVR1960: "Y estando él sentado en el monte de los Olivos, los discípulos se le acercaron aparte, diciendo: Dinos, ¿cuándo serán estas cosas, y qué señal habrá de tu venida, y del fin del siglo?"
 
 **Acts 1:8** — the geographic program
 ESV: "you will be my witnesses in **Jerusalem** and in all **Judea** and **Samaria**, and to **the end of the earth**."
@@ -1894,6 +1930,7 @@ ESV: "you will be my witnesses in **Jerusalem** and in all **Judea** and **Samar
 **Matthew 28:18–20** — the next stage's text
 ESV: "**Go therefore and make disciples of all nations**… and behold, I am with you always, **to the end of the age**."
 **🔑 Is that *synteleia tou aiōnos* the SAME phrase as Matthew 24:3? VERIFY, DO NOT ASSUME — q85.**
+RVR1960: "Y Jesús se acercó y les habló diciendo: Toda potestad me es dada en el cielo y en la tierra. Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo; enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén."
 
 ---
 
@@ -1917,6 +1954,7 @@ ESV: "**Go therefore and make disciples of all nations**… and behold, I am wit
 "as many as were **appointed** to eternal life believed."
 Greek — VERIFIED: **τεταγμένοι**, lemma **τάσσω (5021)**, **PERFECT PARTICIPLE — MIDDLE *OR* PASSIVE** — nom. masc. plural (V-RPM/P-NMP).
 > ### ❗❗ **VOICE GRAMMATICALLY UNDETERMINED. SAME SITUATION AS ROMANS 9:22's κατηρτισμένα (Stage 22).** The two most-contested election texts in the canon both rest on a perfect participle whose voice the grammar does not settle. **Neither side of the historic debate can claim the grammar. Open question q83.**
+RVR1960: "Los gentiles, oyendo esto, se regocijaban y glorificaban la palabra del Señor, y creyeron todos los que estaban ordenados para vida eterna."
 
 **Acts 8:26–39** — backward-reference, not reopened
 **Third reason this episode has mattered: providential mission geography.** An angel sends Philip to a road; the Ruach identifies a chariot; the man is reading **Isaiah 53**. **Philip received no demographic briefing.**
@@ -1989,10 +2027,12 @@ ESV: "**Lest you be wise in your own sight**, I do not want you to be unaware of
 Greek — VERIFIED BY INTERLINEAR: **ἀπὸ μέρους** *apo merous* (575+3313) = **PARTIAL, not total** · **ἄχρι οὗ** *achri hou* (891+3739) = **UNTIL, a stated terminus** · **τὸ πλήρωμα τῶν ἐθνῶν** (4138+1484)
 **🚧 BRAKE: *achri hou* marks a terminus; it does NOT by itself specify what follows it. "Until X" ≠ "and then not-Y."**
 **Note the mystery is introduced as an ANTIDOTE TO GENTILE ARROGANCE, not as a prophecy chart. *Plērōma* = open question q73.**
+RVR1960: "Porque no quiero, hermanos, que ignoréis este misterio, para que no seáis arrogantes en cuanto a vosotros mismos: que ha acontecido a Israel endurecimiento en parte, hasta que haya entrado la plenitud de los gentiles;"
 
 **Romans 11:26–27** — 🛑 **THREE-WAY SOURCE-TEXT DIVERGENCE**
 ESV: "**And in this way all Israel will be saved**, as it is written, '**The Deliverer will come from Zion**, he will banish ungodliness from **Jacob**'; 'and this will be my covenant with them when I take away their sins.'"
 Greek — VERIFIED: *καὶ* **οὕτως** *πᾶς Ἰσραὴλ σωθήσεται* — **οὕτως, Strong's 3779, ADVERB: "in this MANNER," not "and THEN." Chronology may not be imported from the English "so."**
+RVR1960: "y luego todo Israel será salvo, como está escrito: Vendrá de Sion el Libertador, Que apartará de Jacob la impiedad. Y este será mi pacto con ellos, Cuando yo quite sus pecados."
 
 | Witness | Text | Preposition | Direction |
 |---|---|---|---|
@@ -2010,6 +2050,7 @@ ESV (28): "**As regards the gospel, they are enemies for your sake. But as regar
 ESV (29): "For **the gifts and the calling of God are irrevocable**."
 Greek — VERIFIED: **ἀμεταμέλητα** *ametamelēta*, **Strong's 278**, adjective nom. neut. plural, **sentence-initial for emphasis** — "not to be repented of." *ἀμεταμέλητα γὰρ τὰ χαρίσματα καὶ ἡ κλῆσις τοῦ Θεοῦ.*
 **❗ Paul holds BOTH simultaneously, of the SAME PEOPLE, in adjacent clauses.**
+RVR1960: "Así que en cuanto al evangelio, son enemigos por causa de vosotros; pero en cuanto a la elección, son amados por causa de los padres. Porque irrevocables son los dones y el llamamiento de Dios."
 
 **Romans 11:30–32** — mercy is the terminus
 ESV (32): "For **God has consigned all to disobedience, that he may have mercy on all**."
@@ -2066,6 +2107,7 @@ CJB: "living the way the pagans want you to live... forbidden idol-worship."
 **Romans 9:6** — the governing question for the NEXT stage
 ESV: "But it is not as though the word of God has failed. For not all who are descended from Israel belong to Israel,"
 CJB: "For not everyone from Isra'el is truly part of Isra'el;"
+RVR1960: "No que la palabra de Dios haya fallado; porque no todos los que descienden de Israel son israelitas,"
 
 **Romans 9:24–26** — Hosea deployed in a Jew+Gentile argument
 ESV (24): "even us whom he has called, not from the Jews only but also from the Gentiles?"
@@ -3016,36 +3058,43 @@ RVR1960: "los tendréis como naturales entre los hijos de Israel; echarán suert
 SBLGNT: "…**ζῶντες ἐβλήθησαν οἱ δύο εἰς τὴν λίμνην τοῦ πυρὸς** τῆς καιομένης ἐν θείῳ."
 ESV: "These two were thrown **alive** into the lake of fire that burns with sulfur."
 ❗ *Satan is not mentioned. The dragon's absence from ch.19's disposal is a recorded datum (Stage 44).*
+RVR1960: "Y la bestia fue apresada, y con ella el falso profeta que había hecho delante de ella las señales con las cuales había engañado a los que recibieron la marca de la bestia, y habían adorado su imagen. Estos dos fueron lanzados vivos dentro de un lago de fuego que arde con azufre."
 
 **Revelation 20:10** — Satan, AFTER the millennium and the revolt
 SBLGNT: "καὶ ὁ διάβολος ὁ πλανῶν αὐτοὺς ἐβλήθη εἰς τὴν λίμνην τοῦ πυρὸς καὶ θείου, **ὅπου καὶ τὸ θηρίον καὶ ὁ ψευδοπροφήτης**…"
 ESV: "and the devil who had deceived them was thrown into the lake of fire and sulfur **where the beast and the false prophet were**…"
 ❗ **Death and Hades are NOT named as already present.**
+RVR1960: "Y el diablo que los engañaba fue lanzado en el lago de fuego y azufre, donde estaban la bestia y el falso profeta; y serán atormentados día y noche por los siglos de los siglos."
 
 **Revelation 20:12**
 SBLGNT: "καὶ εἶδον τοὺς νεκρούς, **τοὺς μεγάλους καὶ τοὺς μικρούς**, ἑστῶτας ἐνώπιον τοῦ θρόνου…"
 ESV: "And I saw the dead, **great and small**, standing before the throne, and books were opened."
+RVR1960: "Y vi a los muertos, grandes y pequeños, de pie ante Dios; y los libros fueron abiertos, y otro libro fue abierto, el cual es el libro de la vida; y fueron juzgados los muertos por las cosas que estaban escritas en los libros, según sus obras."
 
 **Revelation 20:13** — ❗ THE DECISIVE VERSE
 SBLGNT: "καὶ ἔδωκεν ἡ **θάλασσα** τοὺς νεκροὺς τοὺς ἐν αὐτῇ, καὶ **ὁ θάνατος καὶ ὁ ᾅδης ἔδωκαν** τοὺς νεκροὺς τοὺς ἐν αὐτοῖς…"
 ESV: "And the sea gave up the dead who were in it, **Death and Hades gave up the dead who were in them**…"
 CJB: "The sea gave up the dead in it; and Death and **Sh'ol** gave up the dead in them."
 ❗ **They are still HOLDING and SURRENDERING the dead here — therefore they cannot have been abolished before the thousand years.**
+RVR1960: "Y el mar entregó los muertos que había en él; y la muerte y el Hades entregaron los muertos que había en ellos; y fueron juzgados cada uno según sus obras."
 
 **Revelation 20:14**
 SBLGNT: "καὶ **ὁ θάνατος καὶ ὁ ᾅδης ἐβλήθησαν εἰς τὴν λίμνην τοῦ πυρός**. **οὗτος ὁ θάνατος ὁ δεύτερός ἐστιν.**"
 ESV: "Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire."
 ❗ *Hades is thrown INTO the lake — so **ᾅδης ≠ λίμνη τοῦ πυρός**. And "the second death," introduced at Rev 2:11, is finally interpreted here.*
+RVR1960: "Y la muerte y el Hades fueron lanzados al lago de fuego. Esta es la muerte segunda."
 
 **Revelation 21:4**
 SBLGNT: "…καὶ **ὁ θάνατος οὐκ ἔσται ἔτι**· οὔτε πένθος οὔτε κραυγὴ οὔτε πόνος οὐκ ἔσται ἔτι. τὰ πρῶτα ἀπῆλθαν."
 ESV: "and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore."
 ❗ *Same **ἔτι** as Rev 20:3's ἵνα μὴ πλανήσῃ **ἔτι** τὰ ἔθνη.*
+RVR1960: "Enjugará Dios toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron."
 
 **Revelation 1:18** — authority, not abolition
 SBLGNT: "…καὶ **ἔχω τὰς κλεῖς τοῦ θανάτου καὶ τοῦ ᾅδου**."
 ESV: "and I have the keys of Death and Hades."
 CJB: "And I hold the keys to Death and **Sh'ol**."
+RVR1960: "y el que vivo, y estuve muerto; mas he aquí que vivo por los siglos de los siglos, amén. Y tengo las llaves de la muerte y del Hades."
 
 **Revelation 11:15, 11:18** — the seventh trumpet
 SBLGNT 11:15: "Καὶ **ὁ ἕβδομος ἄγγελος ἐσάλπισεν**· καὶ ἐγένοντο φωναὶ μεγάλαι ἐν τῷ οὐρανῷ…"
@@ -3053,6 +3102,7 @@ SBLGNT 11:18: "…καὶ ἦλθεν ἡ ὀργή σου καὶ **ὁ και�
 ESV 11:18: "the time for the dead to be judged, and for rewarding your servants… **both small and great**."
 ❗ **Shares BOTH the judging-of-the-dead AND the small-and-great merism with 20:12 — so the seventh trumpet's own vocabulary points at the great white throne (q232).**
 ⚠️ CJB renders **κόσμου** at 11:15 as "of the **universe**" — flagged; *kosmos* is not "the universe."
+RVR1960: "11:15 — El séptimo ángel tocó la trompeta, y hubo grandes voces en el cielo, que decían: Los reinos del mundo han venido a ser de nuestro Señor y de su Cristo; y él reinará por los siglos de los siglos. · 11:18 — Y se airaron las naciones, y tu ira ha venido, y el tiempo de juzgar a los muertos, y de dar el galardón a tus siervos los profetas, a los santos, y a los que temen tu nombre, a los pequeños y a los grandes, y de destruir a los que destruyen la tierra."
 
 ### 1 Thessalonians 4–5 — the resurrection and gathering
 
@@ -3063,18 +3113,21 @@ SBLGNT 4:17: "**ἔπειτα** ἡμεῖς οἱ ζῶντες οἱ περι�
 ESV 4:16: "the Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God. And **the dead in Christ will rise first**."
 CJB 4:16: "with a rousing cry, with **a call from one of the ruling angels**, and with God's **shofar**; those who died **united with** the Messiah will be the first to rise."
 ❗ *Population EXPLICITLY RESTRICTED — **ἐν Χριστῷ** — against Rev 20:12's unrestricted "great and small." And the noun **ἀνάστασις** does not appear; Paul uses the verb.*
+RVR1960: "Por lo cual os decimos esto en palabra del Señor: que nosotros que vivimos, que habremos quedado hasta la venida del Señor, no precederemos a los que durmieron. Porque el Señor mismo con voz de mando, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero. Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor."
 
 **1 Thessalonians 5:1–3** — the discourse continues across the chapter break
 SBLGNT 5:1: "**Περὶ δὲ** τῶν χρόνων καὶ τῶν καιρῶν, ἀδελφοί…" *(δέ — a connective; the chapter break is editorial)*
 SBLGNT 5:2: "…**ἡμέρα κυρίου ὡς κλέπτης ἐν νυκτὶ** οὕτως ἔρχεται."
 SBLGNT 5:3: "ὅταν λέγωσιν· **Εἰρήνη καὶ ἀσφάλεια**, τότε **αἰφνίδιος** αὐτοῖς ἐφίσταται **ὄλεθρος**…"
 ESV 5:3: "While people are saying, 'There is peace and security,' then sudden destruction will come upon them."
+RVR1960: "Pero acerca de los tiempos y de las ocasiones, no tenéis necesidad, hermanos, de que yo os escriba. Porque vosotros sabéis perfectamente que el día del Señor vendrá así como ladrón en la noche; que cuando digan: Paz y seguridad, entonces vendrá sobre ellos destrucción repentina, como los dolores a la mujer encinta, y no escaparán."
 
 **1 Thessalonians 5:6, 5:10** — ❗ the two sleep-verbs English collapses (q234)
 SBLGNT 5:6: "ἄρα οὖν μὴ **καθεύδωμεν** ὥσπερ καὶ οἱ λοιποί, ἀλλὰ γρηγορῶμεν καὶ νήφωμεν."
 SBLGNT 5:10: "…ἵνα εἴτε γρηγορῶμεν εἴτε **καθεύδωμεν** ἅμα σὺν αὐτῷ ζήσωμεν."
 ESV 5:6 "sleep" *(moral vigilance)* / ESV 5:10 "asleep" — **ESV prints "asleep" for καθεύδω here AND for κοιμάομαι at 4:13–15, hiding that Paul switched verbs.**
 CJB 5:10: "whether we are alive or **dead**" — **CJB splits them; ESV does not.**
+RVR1960: "5:6 — Por tanto, no durmamos como los demás, sino velemos y seamos sobrios. · 5:10 — quien murió por nosotros para que ya sea que velemos, o que durmamos, vivamos juntamente con él."
 
 ### 1 Corinthians 15 — the staged sequence
 
@@ -3086,16 +3139,19 @@ SBLGNT 15:26: "**ἔσχατος ἐχθρὸς καταργεῖται ὁ θά
 ESV 15:25–26: "For he must reign until he has put all his enemies under his feet. The last enemy to be destroyed **is** death."
 CJB 15:26: "The last enemy to be done away with **will be** death" — ⚠️ **CJB shifts the PRESENT καταργεῖται to a FUTURE.**
 ❗ **TWO sequence words — ἔπειτα (23) and εἶτα (24). καταργεῖται is PRESENT PASSIVE, not future (recorded as an observation; grammar authority owed, S22).**
+RVR1960: "Pero cada uno en su debido orden: Cristo, las primicias; luego los que son de Cristo, en su venida. Luego el fin, cuando entregue el reino al Dios y Padre, cuando haya suprimido todo dominio, toda autoridad y potencia. Porque preciso es que él reine hasta que haya puesto a todos sus enemigos debajo de sus pies. Y el postrer enemigo que será destruido es la muerte."
 
 **1 Corinthians 15:51–52**
 SBLGNT: "…πάντες οὐ κοιμηθησόμεθα πάντες δὲ ἀλλαγησόμεθα, **ἐν ἀτόμῳ, ἐν ῥιπῇ ὀφθαλμοῦ, ἐν τῇ ἐσχάτῃ σάλπιγγι**· σαλπίσει γάρ, καὶ οἱ νεκροὶ ἐγερθήσονται ἄφθαρτοι, καὶ ἡμεῖς ἀλλαγησόμεθα."
 ESV: "in a moment, in the twinkling of an eye, **at the last trumpet**."
 ❗ **ἐσχάτῃ, not ἑβδόμῃ. "Last" ≠ "seventh" (q232).**
+RVR1960: "He aquí, os digo un misterio: No todos dormiremos; pero todos seremos transformados, en un momento, en un abrir y cerrar de ojos, a la final trompeta; porque se tocará la trompeta, y los muertos serán resucitados incorruptibles, y nosotros seremos transformados."
 
 **1 Corinthians 15:54–55** — ⚠️ quotation sources NOT VERIFIED at LXX level (S20)
 SBLGNT: "…**Κατεπόθη ὁ θάνατος εἰς νῖκος. ποῦ σου, θάνατε, τὸ νῖκος; ποῦ σου, θάνατε, τὸ κέντρον;**"
 ESV: "Death is swallowed up in victory. O death, where is your victory? O death, where is your sting?"
 ❗ *Reported sources: Isaiah 25:8 and Hosea 13:14. **Whether Paul matches LXX, MT or neither is UNVERIFIED — the LXX was never retrieved.***
+RVR1960: "Y cuando esto corruptible se haya vestido de incorrupción, y esto mortal se haya vestido de inmortalidad, entonces se cumplirá la palabra que está escrita: Sorbida es la muerte en victoria. ¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria?"
 
 ### Matthew 24 — and what is NOT in it
 
@@ -3106,11 +3162,13 @@ SBLGNT 24:31: "καὶ **ἀποστελεῖ τοὺς ἀγγέλους αὐ�
 ESV 24:31: "he will send out his angels with a **loud trumpet call**…"
 ❗ **THE GREEK READS SIMPLY μετὰ σάλπιγγος μεγάλης — "with a great trumpet." THERE IS NO WORD FOR "CALL." ESV adds it (q238).**
 ❗ **NO RESURRECTION VOCABULARY ANYWHERE IN 24:29–31. Searched and ABSENT: ἀνάστασις · ἐγείρω · ἀνίστημι · νεκροί · μνημεῖα · ἐξανάστασις · θάνατος.**
+RVR1960: "E inmediatamente después de la tribulación de aquellos días, el sol se oscurecerá, y la luna no dará su resplandor, y las estrellas caerán del cielo, y las potencias de los cielos serán conmovidas. Entonces aparecerá la señal del Hijo del Hombre en el cielo; y entonces lamentarán todas las tribus de la tierra, y verán al Hijo del Hombre viniendo sobre las nubes del cielo, con poder y gran gloria. Y enviará sus ángeles con gran voz de trompeta, y juntarán a sus escogidos, de los cuatro vientos, desde un extremo del cielo hasta el otro."
 
 **Matthew 24:34–35**
 SBLGNT 24:34: "ἀμὴν λέγω ὑμῖν ὅτι οὐ μὴ παρέλθῃ **ἡ γενεὰ αὕτη** ἕως ἂν **πάντα ταῦτα** γένηται."
 ESV: "this generation will not pass away until all these things take place."
 CJB: "**this people** will certainly not pass away before all these things happen." *(divergence already on record, ADR-0003)*
+RVR1960: "De cierto os digo, que no pasará esta generación hasta que todo esto acontezca. El cielo y la tierra pasarán, pero mis palabras no pasarán."
 
 **παρουσία in Matthew 24 — all four occurrences, and NONE inside 24:29–36**
 SBLGNT 24:3: "τί τὸ σημεῖον τῆς σῆς **παρουσίας** καὶ συντελείας τοῦ αἰῶνος;"
@@ -3125,24 +3183,31 @@ SBLGNT 24:39: "οὕτως ἔσται καὶ ἡ **παρουσία** τοῦ 
 SBLGNT: "Ἰερουσαλὴμ Ἰερουσαλήμ… **ποσάκις ἠθέλησα ἐπισυναγαγεῖν τὰ τέκνα σου**, ὃν τρόπον **ὄρνις ἐπισυνάγει** τὰ νοσσία αὐτῆς ὑπὸ τὰς πτέρυγας, **καὶ οὐκ ἠθελήσατε**."
 ESV: "How often would I have gathered your children together as a hen gathers her brood under her wings, and you were not willing!"
 ❗ **COVENANTAL, PROTECTIVE, JERUSALEM-DIRECTED (q236).**
+RVR1960: "¡Jerusalén, Jerusalén, que matas a los profetas, y apedreas a los que te son enviados! ¡Cuántas veces quise juntar a tus hijos, como la gallina junta sus polluelos debajo de las alas, y no quisiste!"
 
 **Matthew 13:41** — ❗ a DIFFERENT verb; corrects this project's own Stage 11 claim
 SBLGNT: "**ἀποστελεῖ ὁ υἱὸς τοῦ ἀνθρώπου τοὺς ἀγγέλους αὐτοῦ**, καὶ **συλλέξουσιν** ἐκ τῆς βασιλείας αὐτοῦ πάντα τὰ σκάνδαλα…"
 ❗ **συλλέξουσιν (συλλέγω), NOT ἐπισυνάγω. The SENDING clause is near-verbatim with 24:31; the GATHERING verb is not.**
+RVR1960: "Enviará el Hijo del Hombre a sus ángeles, y recogerán de su reino a todos los que sirven de tropiezo, y a los que hacen iniquidad,"
 
 **Mark 13:27** — SBLGNT: "…καὶ **ἐπισυνάξει** τοὺς ἐκλεκτοὺς αὐτοῦ ἐκ τῶν τεσσάρων ἀνέμων…" *(eschatological)*
 **Luke 13:34** — SBLGNT: "…ποσάκις ἠθέλησα **ἐπισυνάξαι** τὰ τέκνα σου…" *(Jerusalem — covenantal)*
 **Luke 17:37** — SBLGNT: "…ἐκεῖ καὶ οἱ ἀετοὶ **ἐπισυναχθήσονται**." *(vultures)*
+RVR1960 (Mr 13:27): "Y entonces enviará sus ángeles, y juntará a sus escogidos de los cuatro vientos, desde el extremo de la tierra hasta el extremo del cielo."
+RVR1960 (Lc 13:34): "¡Jerusalén, Jerusalén, que matas a los profetas, y apedreas a los que te son enviados! ¡Cuántas veces quise juntar a tus hijos, como la gallina a sus polluelos debajo de sus alas, y no quisiste!"
+RVR1960 (Lc 17:37): "Y respondiendo, le dijeron: ¿Dónde, Señor? Él les dijo: Donde estuviere el cuerpo, allí se juntarán también las águilas."
 
 **2 Thessalonians 2:1**
 SBLGNT: "Ἐρωτῶμεν δὲ ὑμᾶς, ἀδελφοί, ὑπὲρ τῆς **παρουσίας** τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ ἡμῶν **ἐπισυναγωγῆς** ἐπ' αὐτόν"
 ESV: "concerning the coming of our Lord Jesus Christ and our being gathered together to him"
 *Two genitives joined by καί under one ὑπέρ.*
+RVR1960: "Pero con respecto a la venida de nuestro Señor Jesucristo, y nuestra reunión con él, os rogamos, hermanos,"
 
 **Hebrews 10:25** — ❗❗ THE FINDING THAT WEAKENED THE BRIDGE
 SBLGNT: "μὴ ἐγκαταλείποντες τὴν **ἐπισυναγωγὴν** ἑαυτῶν…"
 ESV: "not neglecting to meet together, as is the habit of some."
 ❗ **THE NOUN USED FOR AN ORDINARY ASSEMBLY MEETING. The word-family is NOT inherently eschatological (q233).**
+RVR1960: "no dejando de congregarnos, como algunos tienen por costumbre, sino exhortándonos; y tanto más, cuanto veis que aquel día se acerca."
 
 ### John's "the last day" — all six occurrences, all singular
 
@@ -3153,6 +3218,12 @@ ESV: "not neglecting to meet together, as is the habit of some."
 **John 11:24** — ❗ SBLGNT: "λέγει αὐτῷ ἡ **Μάρθα**· Οἶδα ὅτι ἀναστήσεται ἐν τῇ ἀναστάσει **ἐν τῇ ἐσχάτῃ ἡμέρᾳ**." — **MARTHA, NOT YESHUA. A reported first-century Jewish expectation, a different evidence type. The dominical occurrences are FIVE, not six.**
 **John 12:48** — ❗ SBLGNT: "…ὁ λόγος ὃν ἐλάλησα ἐκεῖνος **κρινεῖ** αὐτὸν **ἐν τῇ ἐσχάτῃ ἡμέρᾳ**." — **JUDGMENT, not resurrection.**
 ❗ **All six are feminine dative SINGULAR. John NEVER defines the phrase. It carries BOTH the raising of believers and the judging of rejecters (q235).**
+RVR1960 (Jn 6:39): "Y esta es la voluntad del Padre, el que me envió: Que de todo lo que me diere, no pierda yo nada, sino que lo resucite en el día postrero."
+RVR1960 (Jn 6:40): "Y esta es la voluntad del que me ha enviado: Que todo aquel que ve al Hijo, y cree en él, tenga vida eterna; y yo le resucitaré en el día postrero."
+RVR1960 (Jn 6:44): "Ninguno puede venir a mí, si el Padre que me envió no le trajere; y yo le resucitaré en el día postrero."
+RVR1960 (Jn 6:54): "El que come mi carne y bebe mi sangre, tiene vida eterna; y yo le resucitaré en el día postrero."
+RVR1960 (Jn 11:24): "Marta le dijo: Yo sé que resucitará en la resurrección, en el día postrero."
+RVR1960 (Jn 12:48): "El que me rechaza, y no recibe mis palabras, tiene quien le juzgue; la palabra que he hablado, ella le juzgará en el día postrero."
 
 ## Not Yet Sourced (proposed categories, no verse confirmed in a tranche yet)
 These theme headings were proposed as future appendix sections but don't yet have a verse actually discussed and cited in this framework — don't backfill them with guessed references. Add real citations here only once an actual tranche produces them: Isaiah 55:8–9, Ephesians 2 (beyond 2:11-22, already sourced above), Exodus 12, Isaiah 56, James 1, Romans 14.

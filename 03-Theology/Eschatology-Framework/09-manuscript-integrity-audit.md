@@ -243,3 +243,126 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[02j-translation
 > ### **③ 64½ AS A CONSOLIDATION CHAPTER RATHER THAN A STAGE? ✅ **RECOMMENDED: yes — drawn from `00t`, `00n`, `00q`, `00s`, `00u`, `00v`, `00w`, `00x`, with the Decalogue and Matthew 5:17 retrieved to fill the one real gap.**
 
 **🛑 AND STAGE 65 STAYS UNWRITTEN UNTIL THOSE ARE SETTLED. THAT IS §12's OWN INSTRUCTION AND IT IS THE RIGHT ORDER.**
+
+---
+
+## 12. ✅ DECISION RECORDED — ① RVR60 SCOPE IS LOAD-BEARING ONLY *(approved 2026-09-09)*
+
+> ### **① IS SETTLED. **RVR60 RETROSPECTIVE COVERAGE IS ***LOAD-BEARING VERSES ONLY***, DRIVEN BY `05-scripture-index.md`.**
+>
+> ### 🛑 **THE 324 CURRENTLY UNWITNESSED INDEX ENTRIES ARE ***NOT*** A COMPLETION TARGET. **FILLING THEM FOR NUMERICAL COMPLETENESS IS EXPLICITLY OUT OF SCOPE** — an incidental biblical reference does not earn a Spanish witness merely by appearing in the index.**
+>
+> ### ✅ **AND THE STANDING CONSTRAINT FROM §11 SURVIVES UNCHANGED: THE RVR60 PASS IS A ***VAULT*** OPERATION, NOT A SPANISH WRITING EXERCISE. Independent Spanish reader-context and prose come afterward, from `02j`'s architecture.**
+
+**📐 WHAT "LOAD-BEARING" MEANS HERE, WRITTEN DOWN SO IT CANNOT DRIFT:** a verse is load-bearing when an **argument in the investigation turns on its wording** — a word study, a translation-divergence finding, a sequence claim, a covenant-identity claim, a PF-01/PF-02 support, or a verse the Evidence Ledger cites as **Explicit**. A verse mentioned in passing, listed for cross-reference, or cited only as narrative background is **not** load-bearing.
+
+---
+
+## 13. ✅ THE THREE DECISIONS ARE NOW ALL SETTLED
+
+| | Task | Status |
+|---|---|---|
+| **②** | **Close q399, q393, q392** — the three cheap debts | ✅ **DONE** — `03p-the-three-debts-discharged.md` |
+| **③** | **Reclassify 64½ as consolidation, preserve all substance** | ✅ **DONE** — §2b, approved 2026-08-29 |
+| **①** | **RVR60 retrospective, LOAD-BEARING ONLY, driven by `05-scripture-index.md`** | ✅ **SCOPE APPROVED 2026-09-09 — §12 above.** Pass itself ⏳ **PENDING** |
+
+---
+
+## 14. ✅ STAGE 65 AND STAGE 66 ARE FILED *(2026-09-09)*
+
+> ### ✅ **BOTH STAGES ARE AUTHOR-SUPPLIED CANONICAL TEXT, FILED VERBATIM — NOT CLAUDE-DRAFTED, NOT RECONSTRUCTED FROM A SKELETON.**
+
+| Stage | File | Contents |
+|---|---|---|
+| **65** | **[[03r-what-we-know-what-we-believe-and-what-we-still-dont-know]]** | §65.1–65.35 · Evidence Ledger · **PF-01** · **PF-02** · the three Revelation 20 possibilities · rejected hypotheses · disconfirming evidence · final Growing Chain · **Sufficiency Boundary** |
+| **66** | **[[03s-the-position-we-can-actually-defend]]** | §66.1–66.23 · covenant identity · eschatological identity · methodological identity · **the investigation closes** |
+
+**📐 PROVENANCE, RECORDED BECAUSE IT WAS NEARLY LOST:** Stage 66 was pasted 2026-09-04 and survived in the session transcript. **Stage 65 was authored outside this system and was NOT in any Claude transcript** — a prior session log claimed both had been pasted, which was **incorrect**, and only Stage 66 had been. **Stage 65 was re-supplied by the author 2026-09-09.** Both were extracted byte-exact from transcript rather than retyped. **A skeleton-based reconstruction was explicitly refused and did not occur.**
+
+---
+
+## 15. ✅ ONE GAP FOUND WHILE FILING — FLAGGED, NOT SILENTLY FIXED — AND CLOSED THE SAME DAY
+
+> ### ❗❗ **STAGE 64 — *WHO ARE "THE SAINTS" IN REVELATION?* — IS ***NOT FILED ANYWHERE IN THE VAULT***, AND IS NOT ON `00a-narrative-spine.md`.**
+
+**§2b of this file states the sequence as `1–64 → 65 SYNTHESIS → 66 CONCLUSION`. **64 IS THEREFORE A NUMBERED STAGE, AND IT IS MISSING FROM THE ARCHIVE.** Measured by grep, not recalled: no file in `Eschatology-Framework/` contains "Stage 64", and the spine's last numbered entry is **Stage 63**.
+
+**⚠️ ITS SUBSTANCE IS NOT LOST — Stage 65 §65.11 carries the finding** *(Revelation 12:17 + 14:12; saints = Yah's covenant-faithful people identified with Yeshua, characterized by faith, obedience and endurance; martyrdom prominent but not exhaustive)*. **But the stage's own evidence and Evidence Ledger are not in the vault.**
+
+**🛑 ALSO UNFILED: Stage 64¾ — *Additional Open-Horizon Questions*** *(the third Revelation 20 possibility, Revelation 9's creatures, Isaiah's flying fiery serpents, Damascus)*. **Its conclusions ARE carried by Stage 65 §65.25 Possibility C and §65.28.**
+
+> ### ✅ **RESOLVED 2026-09-09 — AUTHOR DECISION: PRESERVE STAGE 64 AS A GENUINE NUMBERED INVESTIGATIVE STAGE.** Not reclassified, not replaced by the §65.11 synthesis.
+>
+> ### ✅ **AND THE INTEGRITY PROCEDURE PAID: the recovered transcript copy was DIFFED against the author's re-supplied copy before anything was filed — ***14,186 CHARACTERS EACH, BYTE-IDENTICAL, ZERO DIFFERING LINES***.** **THIS IS THE STRONGEST PROVENANCE IN THE ARCHIVE: two independent copies agreeing exactly, rather than one copy trusted alone.**
+>
+> ### 🛑 **FILED WITHOUT RECONCILIATION-TO-65. The text was NOT edited to agree with the later synthesis** — comparison was for integrity checking only, per the standing rule against smoothing or upgrading evidence after the fact.
+>
+> ### **FILE: [[03q-who-are-the-saints-in-revelation]].** **The 65/66 files were re-lettered to keep stage order intact: 65 → `03r`, 66 → `03s`.**
+
+**📌 STAGE 64¾ WAS *NOT* CREATED. Per the same decision, no stage is manufactured merely to fill a numbering sequence — its exploratory material continues to feed PF-02 and the open-question register** *(§65.25 Possibility C, §65.28)* **unless recovery later shows unique load-bearing evidence requiring separate preservation. Stage 64½ remains consolidation, not a numbered stage (§2b).**
+
+---
+
+## 16. ✅ GATE STATUS — **CLOSED 2026-09-09**
+
+> ## ✅✅✅ **THE GATE IS CLOSED — 2026-09-09.**
+>
+> ### ✅ **(a) THE RVR60 LOAD-BEARING PASS — DONE (§17). 87 of 87 load-bearing references covered, ZERO gaps. AND IT PRODUCED FOUR FINDINGS, ONE OF WHICH CUTS AGAINST THIS ARCHIVE (§18, q439).**
+>
+> ### ✅ **(b) STAGE 64 — FILED (§15). Byte-identical dual-copy provenance. q438 CLOSED.**
+>
+> ### ✅ **AND THE THREE DECISIONS BEFORE THEM: ② the three cheap debts DISCHARGED · ③ 64½ RECLASSIFIED · ① RVR60 SCOPE APPROVED (§13).**
+>
+> ### 📐 **THE STAGE SEQUENCE IS NOW CONTINUOUS AND COMPLETE IN THE VAULT: `1 … 63 → 64 → 65 SYNTHESIS → 66 CONCLUSION`. **THERE IS NO STAGE 67. THE PRIMARY INVESTIGATION IS CLOSED.**
+>
+> ### ✅ **WHAT THE GATE ALREADY PERMITS, UNCHANGED FROM §11: architecture, indexes, metadata, tags, placeholders and design infrastructure.** **MANUSCRIPT ARCHITECTURE IS THEREFORE IN SCOPE NOW.**
+>
+> ### ⏭️ **WHAT IS NOW UNBLOCKED: MANUSCRIPT ARCHITECTURE — Parts, chapters, stage-to-chapter mapping, Growing Chain checkpoint placement, word-study/context boxes, compression and appendix decisions, and the placement of Stages 65 and 66 in the final narrative.**
+>
+> ### 🛑 **AND THE ONE REMAINING BRAKE, WHICH IS NOT A GATE ITEM: DRAFT 1 PROSE STILL WAITS ON AUTHOR APPROVAL OF THAT ARCHITECTURE.** **66 research stages do NOT equal 66 chapters, and the quarry may not be published as the building.**
+
+---
+
+## Open Questions Added *(2026-09-09)*
+
+**q437** — Stage 65 §65.1 contains **"global"** inside a slogan the text is *rejecting*; the vault's terminology rule bans the term. **Left verbatim — author decides whether to amend the canonical text or grant a quoted-slogan exception.** · **q438** — **Stage 64 and Stage 64¾ are unfiled**; their substance survives inside Stage 65, but their own evidence does not. Author decides: supply the originals, accept the §65 summary as sufficient, or formally reclassify them the way 64½ was reclassified in §2b.
+
+---
+
+## 17. ✅ THE RVR60 LOAD-BEARING PASS IS COMPLETE *(2026-09-09)* — AND IT DID NOT COME BACK EMPTY-HANDED
+
+> ### ✅ **MEASURED, NOT ESTIMATED, BY BLOCK-LEVEL AUDIT OF `05-scripture-index.md`:**
+
+| | |
+|---|---|
+| **Scripture references in the index** | **600** |
+| **Load-bearing** *(the reference's own block carries Greek or Hebrew — the project's own established marker for "the argument turns on the wording")* | **87** |
+| ✅ **Load-bearing references now carrying an RVR1960 witness** | ### **87** |
+| ❗ **Load-bearing gaps remaining** | ### **0** |
+
+**📐 RETRIEVAL METHOD — THE PATTERN THE SOURCE LEDGER ALREADY RECORDS AS WORKING:** Bible Gateway RVR1960 via WebFetch, one passage per call, verbatim, **the same pattern as S11 · S18 · S28 · S32 · S33.** **NO SPANISH TEXT WAS COMPOSED, PARAPHRASED OR TRANSLATED FROM ENGLISH — every witness was retrieved.** **63 new RVR1960 lines added across 3,158 → 3,228 lines.**
+
+**⚠️ ONE MEASUREMENT DEFECT CAUGHT AND CORRECTED MID-PASS, RECORDED RATHER THAN QUIETLY FIXED:** the first pass inserted into only the **first** occurrence of a repeated reference, and a header-based scanner mis-reported coverage because a **bolded line inside a block** *(e.g. `**Greek (SBLGNT):** …`)* truncated the block it was measuring. **A block-based audit replaced it. Four multi-verse blocks were then found carrying ONE unlabeled RVR1960 line — ambiguous as to which verse it rendered — and were relabeled per verse** *(Ephesians 4:11 · Daniel 12:2 · the Mark 13:27 / Luke 13:34 / Luke 17:37 ἐπισυνάγω block · the six-verse John ἐσχάτῃ ἡμέρᾳ block)*.
+
+**🛑 ONE REFERENCE DELIBERATELY NOT FILLED: `Ezekiel 37` — it carries NO English witness either and is already recorded as `⚠️ NOT RETRIEVED (q101)`.** **It is a standing retrieval debt, not an RVR60 gap, and adding a Spanish witness to a passage this project has never retrieved would have manufactured the appearance of coverage.**
+
+---
+
+## 18. ❗ q433 WAS RIGHT — THE SPANISH PASS PRODUCED FOUR REAL FINDINGS
+
+> ### **q433 PREDICTED THE RETROSPECTIVE PASS WOULD BE *A TEST THAT CAN STILL COST US SOMETHING*, NOT A COSMETIC BACKFILL. **IT WAS.** THREE WITNESSES CONFIRM EXISTING FINDINGS; ✅ **ONE CUTS AGAINST THIS ARCHIVE.**
+
+| | Passage | What RVR1960 shows |
+|---|---|---|
+| ❗ **AGAINST US** | **Revelation 20:10** | **RVR1960 reads *"donde **ESTABAN** la bestia y el falso profeta"* — ❗❗ **A FINITE VERB IN THE IMPERFECT, WHERE q429 ESTABLISHED THE GREEK HAS *NO FINITE VERB AT ALL* AND NO ἤδη.** **A Spanish reader is handed exactly the "[already] are" reading q429 refused to grant the English tranche.** **RECORDED AT FULL STRENGTH (q439).** |
+| ✅ **CONFIRMS** | **Matthew 23:37 · 24:31 · Mark 13:27 · Luke 13:34 · Luke 17:37 vs. Matthew 13:41** | RVR1960 uses **juntar/juntará/juntarán** for every ἐπισυνάγω and ❗ **recogerán** for 13:41's συλλέξουσιν — **INDEPENDENTLY PRESERVING THE VERY DISTINCTION STAGE 48 HAD TO CORRECT THIS PROJECT ON.** **A third witness to a correction previously carried by the Greek alone (q440).** |
+| ✅ **CONFIRMS** | **Romans 9:20–23** | **"los vasos de ira PREPARADOS para destrucción"** *(participle, no stated agent — κατηρτισμένα)* vs. **"que ÉL PREPARÓ DE ANTEMANO"** *(active, God explicit — προητοίμασεν)*. **THE ASYMMETRY SURVIVES TRANSLATION.** Recorded inline in the index. |
+| ✅ **CONFIRMS** | **Colossians 2:14** | **"anulando el ACTA DE LOS DECRETOS"** — ❗ **RVR1960 does NOT write *la ley*.** **The "the Torah was nailed to the cross" substitution fails in Spanish exactly as it fails in Greek (*cheirographon*, not *nomos*).** |
+
+**⚠️ AND ONE DIVERGENCE WORTH THE MANUSCRIPT'S ATTENTION: **Romans 10:4** — RVR1960 reads **"el FIN de la ley"**, siding with ESV's *"end"* against CJB's *"the goal at which the Torah aims."* **q63 IS THEREFORE A TWO-AGAINST-ONE SPLIT, NOT AN ENGLISH-ONLY DISPUTE (q441).**
+
+---
+
+## Open Questions Added *(2026-09-09, second batch)*
+
+**q439** — ❗❗ **Revelation 20:10: RVR1960's *estaban* supplies a finite verb the Greek does not have.** Directly touches q429. **Does the Spanish edition need a TEXTUAL NOTE here, and does the English manuscript need to say that its own "[already]" objection does not transfer across translations?** · **q440** — ✅ **RVR1960 independently preserves the ἐπισυνάγω / συλλέγω distinction** *(juntar vs. recoger)*. **A third witness to the Stage 48 correction — worth using in the manuscript, since it shows the correction was not an artifact of one language.** · **q441** — **Romans 10:4's τέλος is now a 2-1 translation split** *(ESV + RVR1960 "end" vs. CJB "goal")*. **Recorded as a change in the evidentiary shape of q63, NOT as a settlement of it — τέλος still cannot be decided by counting translations.**
