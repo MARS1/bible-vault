@@ -33,12 +33,29 @@ LANGS = {
 
 PARTS = {
     "en": {1: ("Part I: The Question That Would Not Stay Small",
-               ["00a-", "00b-", "ch01-", "ch02-", "ch03-", "ch04-", "ch05-", "ch06-"])},
+               ["00a-", "00b-", "ch01-", "ch02-", "ch03-", "ch04-", "ch05-", "ch06-"]),
+           2: ("Part II: The Olivet Discourse, Read in Its Own Century",
+               ["ch07-", "ch08-", "ch09-", "ch10-", "ch11-", "ch12-"])},
     "es": {1: ("Parte I: La pregunta que no se quedó pequeña",
                ["00a-", "00b-", "ch01-", "ch02-", "ch03-", "ch04-", "ch05-", "ch06-"])},
 }
 
 CSS = (Path(__file__).resolve().parent / "design-system-v1.css").read_text()
+
+def prose_only(text):
+    """Body prose with component labels and word-study lines removed.
+    The design system uses an em dash as its label separator, so a raw em-dash
+    count is not a measure of em-dash overuse in the writing."""
+    keep = []
+    for ln in text.split("\n"):
+        s = ln.strip()
+        if s.startswith("- **") or s.startswith("**Finding") or s.startswith("**Open question"):
+            continue
+        if " · " in s or s.startswith(":::") or s.startswith("#"):
+            continue
+        keep.append(ln)
+    return "\n".join(keep)
+
 
 def strip_frontmatter(t):
     if t.startswith("---"):
