@@ -134,6 +134,47 @@ related: "[[10-manuscript-architecture]], [[09-manuscript-integrity-audit]], [[0
 
 ---
 
+## SYNC-010 — RVR1960 makes *berit olam* visible where the English witnesses hide it
+
+| | |
+|---|---|
+| **Status** | ✅ **RESOLVED AND USED. Printed as a TEXTUAL NOTE in ES Chapter 13.** |
+| **The finding it serves** | Rainbow, circumcision and Sabbath all carry <span class="he">בְּרִית עוֹלָם</span>, and are treated three different ways — so the phrase cannot settle any of them. |
+| **RVR1960** | **`pacto perpetuo`** at Genesis 17:13 **and** `pacto perpetuo` at Exodus 31:16 — *the same two words*. |
+| **English witnesses** | ESV splits: *everlasting covenant* at Genesis, *covenant forever* at Exodus. CJB alternates *everlasting* / *perpetual*. |
+| **Why it matters** | 📐 **A Spanish reader can see it is the same phrase without knowing Hebrew. An English reader cannot.** The manuscript records that the author took a long time to notice precisely because he worked from translations that disguised it. |
+| **Direction of benefit** | Second case (after SYNC-009) where the Spanish edition **demonstrates** what the English edition must assert. ⚠️ Still a translation witness: it makes the Hebrew finding visible, it does not establish it. |
+
+---
+
+## SYNC-011 — Zechariah 6:13: RVR1960 removes the ambiguity the English argument depends on
+
+| | |
+|---|---|
+| **Status** | ❗ **OPEN. Noted inside ES Chapter 14's evidence block.** |
+| **ESV** | "a priest **on** his throne" — plausibly the same figure |
+| **CJB** | "a *cohen* **before** his throne" — a separate figure |
+| **RVR1960** | **"habrá sacerdote A SU LADO"** — *at his side.* **Unambiguously a separate figure.** |
+| **Effect** | The English chapter argues that two of three witnesses read a separate figure, so Zechariah is weaker support than it looks. **For the Spanish reader there is no "looks like" at all** — *a su lado* does not admit the other reading. |
+| **Affects the argument?** | **No, and in the same direction.** Both editions record Zechariah 6:13 as **SUGGESTIVE, NOT LOAD-BEARING**, resting the priest-king case on Psalm 110:4 and Hebrews 7. The Spanish edition simply reaches that conclusion with less work. |
+| **Rule applied** | ① — RVR60's *a su lado* is evidence about RVR60. |
+
+---
+
+## SYNC-012 — Matthew 26:28: the contested word is IN the Spanish reader's Bible
+
+| | |
+|---|---|
+| **Status** | ❗ **OPEN. Spanish TEXTUAL NOTE written into ES Chapter 15. The English note says the opposite thing and both are correct.** |
+| **Greek** | <span class="gr">καινῆς</span> *(kainēs)*, "new," is **text-critically contested** at Matthew 26:28 — present in the Byzantine/majority tradition, absent from the critical text. |
+| **RVR1960** | **"mi sangre del NUEVO pacto"** — follows the majority tradition. **The word is there.** |
+| **ESV** | "my blood of the covenant" — follows the critical text. The word is absent. |
+| **The asymmetry** | 📐 **The English chapter tells its reader that a word is missing from their Bible and contested. The Spanish chapter must tell its reader that a word IS in their Bible and contested.** Same fact, opposite reader experience, and neither note would make sense in the other edition. |
+| **What both editions do** | Rest the claim *"Yeshua Himself called it the new covenant"* on **Luke 22:20 and 1 Corinthians 11:25**, where the word is secure in every tradition. Matthew's covenantal framing is secure; the adjective is not. |
+| **Rule applied** | ①, and ④ — the Spanish reader's Bible having the word may **not** be used to upgrade the claim. Flagged as a manuscript question, not resolved; full apparatus work is beyond this project (ADR-0003). |
+
+---
+
 > ### 🛑 **STANDING RULES**
 >
 > ### **① A translation witness is evidence about ***that translation***. It is never evidence about the Greek or the Hebrew.**

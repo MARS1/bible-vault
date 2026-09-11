@@ -47,7 +47,9 @@ PARTS = {
     "es": {1: ("Parte I: La pregunta que no se quedó pequeña",
                ["00a-", "00b-", "ch01-", "ch02-", "ch03-", "ch04-", "ch05-", "ch06-"]),
            2: ("Parte II: El discurso del Monte de los Olivos, leído en su propio siglo",
-               ["ch07-", "ch08-", "ch09-", "ch10-", "ch11-", "ch12-"])},
+               ["ch07-", "ch08-", "ch09-", "ch10-", "ch11-", "ch12-"]),
+           3: ("Parte III: Lo que el nuevo pacto cambió realmente",
+               ["ch13-", "ch14-", "ch15-", "ch16-", "ch17-", "ch18-", "ch19-"])},
 }
 
 CSS = (Path(__file__).resolve().parent / "design-system-v1.css").read_text()
