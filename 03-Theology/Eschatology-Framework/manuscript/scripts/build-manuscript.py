@@ -79,6 +79,35 @@ def check_es_register(files):
     return hits
 
 
+# Cosmological terminology. Declared in every chapter's frontmatter since Part I
+# ("no globe/global/globally/globular/planet/planetary/worldwide") and enforced only
+# by memory until 2026-09-11, when an ES Part II review found three violations in
+# Spanish AND one in the already-cleared English baseline. A rule that lives in a
+# frontmatter string is not enforced. Applies to BOTH languages.
+TERMINOLOGY = [
+    (r"\bplanet(a|ary|arios?|as?)?\b", "the earth / la tierra — not a modern cosmological model"),
+    (r"\bglobal(ly|mente)?\b", "avoid; say what is actually meant"),
+    (r"\bglobular\b", "avoid"),
+    (r"\bworldwide\b", "avoid"),
+    (r"\bmundial(es)?\b", "avoid; 'todo el mundo' in RVR1960 quotations is fine"),
+]
+
+
+def check_terminology(files):
+    """Modern cosmological vocabulary must not be imported into biblical lexical
+    explanation. Skips quotation lines and the frontmatter that states the rule."""
+    hits = []
+    for f in files:
+        for i, ln in enumerate(f.read_text().split("\n"), 1):
+            s = ln.lstrip()
+            if s.startswith(">") or s.startswith("localization:") or "TERMINOLOG" in ln:
+                continue
+            for pat, suggest in TERMINOLOGY:
+                for m in re.finditer(pat, ln, re.I):
+                    hits.append((f.name, i, m.group(0), suggest))
+    return hits
+
+
 def check_prose_vosotros(files):
     """vosotros belongs to RVR1960 quotations only, never to the narration."""
     hits = []
@@ -211,8 +240,14 @@ def main():
             out = BUILD / lang
             print(f"BUILD {lang} part {p}")
 
+        _, files = collect(lang, p)
+        term = check_terminology(files)
+        print(f"     terminology: {len(term)} cosmological  "
+              + ("OK" if not term else "<-- no planet/global/worldwide in either edition"))
+        for n, i, hit, sug in term[:12]:
+            print(f"       {n}:{i}  {hit!r} -> {sug}")
+
         if lang == "es":
-            _, files = collect(lang, p)
             reg = check_es_register(files)
             vos = check_prose_vosotros(files)
             print(f"     register: {len(reg)} regional, {len(vos)} prose-vosotros  "

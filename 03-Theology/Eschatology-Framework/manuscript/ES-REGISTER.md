@@ -56,6 +56,28 @@ use, and teaching it to would open a loophole for the real thing. **Rephrase ins
 
 ---
 
+## 2b. Cosmological terminology *(both editions, not just Spanish)*
+
+> ### 🛑 **NO `planeta` · `planetario` · `global` · `globalmente` · `mundial` — and no `planet` · `global` · `worldwide` · `globular` in English.**
+
+`gē` is land / earth / ground / territory / country. It is **not** "the entire planet," and
+describing it that way imports a modern cosmological model into a lexical explanation.
+**`todo el mundo` inside an RVR1960 quotation is untouched** — the checker skips quotation lines.
+
+| ❌ | ✅ | Added |
+|---|---|---|
+| `Puede significar el planeta entero` | **`Puede tener un alcance muy amplio`** | 2026-09-11 |
+| `todas las naciones del planeta` | **`todas las naciones de la tierra`** | 2026-09-11 |
+| `every nation on the planet` *(EN)* | **`every nation on earth`** | 2026-09-11 |
+
+> ### ❗ **WHY THIS IS A SECTION AND NOT A FOOTNOTE.** This rule has been printed in every
+> chapter's `localization` frontmatter since Part I and was enforced **only by memory**. An ES
+> Part II review found three violations in Spanish — *and one in the English baseline that had
+> already been cleared*. **A rule that lives in a frontmatter string is not enforced.** It is now
+> in `build-manuscript.py` as `check_terminology()` and runs on **both** languages, every build.
+
+---
+
 ## 3. The per-Part bilingual integrity check
 
 > ### **RUN AT THE END OF EVERY SPANISH PART, BEFORE ITS MILESTONE SNAPSHOT.**

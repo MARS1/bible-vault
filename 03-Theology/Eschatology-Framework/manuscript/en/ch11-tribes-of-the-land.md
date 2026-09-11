@@ -38,7 +38,7 @@ Then Zechariah keeps going, and what he does next is the detail that changed the
 
 Named families. Specific households in a specific place, mourning one by one.
 
-That is not a picture of every nation on the planet reacting simultaneously. It is a picture of a particular community in mourning, listed by name.
+That is not a picture of every nation on earth reacting simultaneously. It is a picture of a particular community in mourning, listed by name.
 
 ## And Revelation fuses the two on purpose
 

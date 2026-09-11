@@ -20,7 +20,7 @@ Después miré el griego y encontré una palabra que ya había conocido.
 
 ## Dos palabras, las dos con historia
 
-La palabra detrás de "tierra" es **γῆ** *(gē)*. Es la palabra corriente para tierra, suelo, terreno, territorio, país. Puede significar el planeta entero. También puede significar *esta tierra*, del modo en que alguien dentro de un país dice "la tierra" y todos saben cuál.
+La palabra detrás de "tierra" es **γῆ** *(gē)*. Es la palabra corriente para tierra, suelo, terreno, territorio, país. Puede tener un alcance muy amplio. También puede significar *esta tierra*, del modo en que alguien dentro de un país dice "la tierra" y todos saben cuál.
 
 La palabra detrás de "tribus" es **φυλαί** *(phylai)*, y en las Escrituras de Israel esa palabra tiene casa. De manera abrumadora está instalada en el vocabulario de las tribus del propio Israel, y esa resonancia importa aquí, sobre todo cuando el pasaje de origen resulta ser Zacarías 12. Pero la palabra no está restringida a Israel. Carga también un sentido étnico más amplio, y el propio Apocalipsis la apila en fórmulas expansivas junto a lenguas y pueblos y naciones: *toda tribu y lengua y pueblo y nación* en 5:9, y las mismas cuatro otra vez en 7:9. Así que *phylai* se inclina en una dirección. No puede establecer el referente por sí sola.
 
@@ -40,7 +40,7 @@ Después Zacarías sigue, y lo que hace a continuación es el detalle que me cam
 El texto de la RVR1960 para Zacarías 12:12 no está verificado todavía en la documentación de este proyecto, así que el versículo se describe en vez de citarse. La regla de esta edición prohíbe traducir al español una cita tomada de una Biblia inglesa, y describir lo que el pasaje hace es preferible a fabricar una cita castellana. Queda pendiente y registrado.
 :::
 
-Eso no es un cuadro de todas las naciones del planeta reaccionando a la vez. Es un cuadro de una comunidad concreta de luto, enumerada por nombre.
+Eso no es un cuadro de todas las naciones de la tierra reaccionando a la vez. Es un cuadro de una comunidad concreta de luto, enumerada por nombre.
 
 ## Y Apocalipsis funde las dos cosas a propósito
 

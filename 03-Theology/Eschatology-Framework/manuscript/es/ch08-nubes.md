@@ -125,7 +125,7 @@ Un símbolo puede describir un hecho enteramente real. Tratar *simbólico* y *ef
 
 La CJB traduce **γῆ** *(gē)* como *la Tierra* —con mayúscula, es decir, la tierra de Israel— tanto en Mateo 24:30 como en Apocalipsis 1:7, donde otras traducciones ponen *la tierra* en sentido amplio. La RVR1960 dice *la tierra*, sin resolver la ambigüedad.
 
-No lo cito como prueba. La decisión de un traductor es el juicio de un traductor. Lo cito porque la diferencia entre *todas las tribus del planeta* y *todas las familias de la Tierra de Israel* es enorme, y un lector con una sola Biblia sobre la mesa nunca se entera de que hubo una decisión.
+No lo cito como prueba. La decisión de un traductor es el juicio de un traductor. Lo cito porque la diferencia entre *todas las tribus de la tierra* en sentido amplio y *todas las familias de la Tierra de Israel* es enorme, y un lector con una sola Biblia sobre la mesa nunca se entera de que hubo una decisión.
 
 ::: whereweare
 **Dónde estamos.** La imagen de Mateo 24:30 viene de Daniel 7, y en Daniel la figura va **hacia** el Anciano de días: es una presentación ante un trono, no un descenso al suelo. Eso exige que la imagen de origen sea esa, y no establece que Mateo quede encerrado en ella. El vocabulario de nubes del Tanaj describe con regularidad acción divina dentro de la historia, e Isaías 19 da el precedente más claro. Mateo 26:64 sigue siendo el dato más incómodo: el trato de segunda persona es explícito y no se toca, mientras que qué clase de ver exige queda sin probar y abierto. Y símbolo no es lo contrario de real.
