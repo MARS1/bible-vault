@@ -1,0 +1,11 @@
+Edition:        English (en)
+Part:           3  Part III: What the New Covenant Actually Changed
+Milestone:      d1-reviewed
+Source commit:  4bc264de6f93909b1959e5e20b68477dd2d837a2
+Commit date:    2026-09-11
+Tree state:     source committed at this commit
+Built:          2026-09-11
+Extent:         13,355 words, 74 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 4bc264d
