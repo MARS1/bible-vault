@@ -1,0 +1,11 @@
+Edition:        Español (es)
+Part:           3  Parte III: Lo que el nuevo pacto cambió realmente
+Milestone:      d1
+Source commit:  5cfa240ef5ae9c7c4190418fef2e04186f18c4a8
+Commit date:    2026-09-11
+Tree state:     source committed at this commit
+Built:          2026-09-11
+Extent:         14,342 words, 76 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit 5cfa240
