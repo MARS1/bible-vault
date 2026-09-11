@@ -88,6 +88,12 @@ div.claimtypes ul { margin: 0.4em 0 0; padding-left: 1.1em; list-style: none; }
 div.claimtypes li { margin-bottom: 0.3em; text-indent: -1.1em; padding-left: 1.1em; }
 div.claimtypes li::before { content: "\2014\00a0"; color: #6c7378; }
 
+/* the researcher talking about the research rather than the text:
+   quieter than a finding, and never mistakable for one */
+div.commentary  { background: none; border-left: 3px solid #6c7378;
+                  border-top: 1px dotted #c9cdd1; border-bottom: 1px dotted #c9cdd1;
+                  font-size: 0.95em; }
+
 /* the growing chain */
 div.chain       { background: none; border: 1px solid #c9cdd1; text-align: center; }
 div.chain p     { text-align: center; margin-bottom: 0.3em; }

@@ -41,7 +41,9 @@ PARTS = {
     "en": {1: ("Part I: The Question That Would Not Stay Small",
                ["00a-", "00b-", "ch01-", "ch02-", "ch03-", "ch04-", "ch05-", "ch06-"]),
            2: ("Part II: The Olivet Discourse, Read in Its Own Century",
-               ["ch07-", "ch08-", "ch09-", "ch10-", "ch11-", "ch12-"])},
+               ["ch07-", "ch08-", "ch09-", "ch10-", "ch11-", "ch12-"]),
+           3: ("Part III: What the New Covenant Actually Changed",
+               ["ch13-", "ch14-", "ch15-", "ch16-", "ch17-", "ch18-", "ch19-"])},
     "es": {1: ("Parte I: La pregunta que no se quedó pequeña",
                ["00a-", "00b-", "ch01-", "ch02-", "ch03-", "ch04-", "ch05-", "ch06-"]),
            2: ("Parte II: El discurso del Monte de los Olivos, leído en su propio siglo",
@@ -136,6 +138,18 @@ def prose_only(text):
     return "\n".join(keep)
 
 
+# Typographic normalization for the render read-back check. Pandoc turns straight
+# quotes into curly ones and can reshape dashes, so comparing a source heading to
+# pdftotext output byte-for-byte reports a false MISSING SECTION for any title
+# containing a quote or dash. Caught 2026-09-11 by Part III ch19, whose approved
+# title is: Who Are "the People of God"? -- the checker was wrong, not the chapter.
+def _norm(s):
+    for a, b in (("\u201c", '"'), ("\u201d", '"'), ("\u2018", "'"), ("\u2019", "'"),
+                 ("\u2014", "-"), ("\u2013", "-"), ("\u2026", "...")):
+        s = s.replace(a, b)
+    return s
+
+
 def strip_frontmatter(t):
     if t.startswith("---"):
         e = t.find("\n---", 3)
@@ -186,8 +200,8 @@ def render(lang, part, outdir, stem):
     got = len(txt.split())
     bad = sum(raw.count(m) for m in ("â€", "�", "Ã"))
     missing = [f.stem for f in files
-               if re.sub(r"\s+", " ", declutter(strip_frontmatter(f.read_text()))
-                         .strip().split("\n", 1)[0].lstrip("# ")) not in flat]
+               if _norm(re.sub(r"\s+", " ", declutter(strip_frontmatter(f.read_text()))
+                         .strip().split("\n", 1)[0].lstrip("# "))) not in _norm(flat)]
     pages = len(pypdf.PdfReader(str(pdf)).pages) if pypdf else "?"
     ok = bad == 0 and not missing and abs(got - words) < words * 0.02
     print(f"     {pages} pages, {got:,}/{words:,} words recovered, {bad} mojibake, "
