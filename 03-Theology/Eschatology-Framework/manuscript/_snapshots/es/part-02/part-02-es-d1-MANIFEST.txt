@@ -1,0 +1,11 @@
+Edition:        Español (es)
+Part:           2  Parte II: El discurso del Monte de los Olivos, leído en su propio siglo
+Milestone:      d1
+Source commit:  6fa552cd5109765e7dba5dbcbe765086fba64993
+Commit date:    2026-09-11
+Tree state:     source committed at this commit
+Built:          2026-09-11
+Extent:         10,380 words, 57 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit 6fa552c
