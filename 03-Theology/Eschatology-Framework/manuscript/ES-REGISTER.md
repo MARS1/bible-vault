@@ -42,6 +42,13 @@ related: "[[10-manuscript-architecture]], [[SYNC-LEDGER]], [[02j-translation-arc
 | `se quedaron con el lugar` | **`se apoderaron del lugar`** | 2026-09-10 |
 | `plata` *(money)* · `pibe` · `laburo` · `che` · voseo | ❗ **never** | 2026-09-10 |
 
+**⚠️ MENTIONING the pronoun still trips the checker, and that is correct.** ES Part II hit one
+prose-*vosotros* flag on a legitimate *mention* — `ese *vosotros* se desplaza`, referring to the
+pronoun in the RVR1960 text rather than narrating in it. The checker cannot tell a mention from a
+use, and teaching it to would open a loophole for the real thing. **Rephrase instead**
+(`esa segunda persona del plural`), which costs nothing. Do not relax the checker.
+
+
 **⚠️ AWKWARD CONSTRUCTIONS ARE REWRITTEN, NOT WORD-SWAPPED.** Recorded so the pattern is recognizable, not so the phrase is banned:
 
 > ❌ *"si a un creyente que recibió algo verdadero **le queda libre callarlo como política permanente**"*

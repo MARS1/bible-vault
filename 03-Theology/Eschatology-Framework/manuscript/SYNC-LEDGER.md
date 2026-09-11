@@ -54,6 +54,86 @@ related: "[[10-manuscript-architecture]], [[09-manuscript-integrity-audit]], [[0
 
 ---
 
+## SYNC-004 — Matthew 24:3, RVR1960 *fin del siglo*
+
+| | |
+|---|---|
+| **Status** | ✅ **RESOLVED BY DESIGN. The Spanish reader is better served than the English one, and ES Chapter 7 says so instead of importing an English-only complaint.** |
+| **Greek** | **συντέλεια τοῦ αἰῶνος** — *aiōn*, an age, not *kosmos* |
+| **RVR1960** | **"y del fin DEL SIGLO"** — correct, and never offers "fin del mundo" |
+| **English witnesses** | Many render **"the end of the world"**, handing the reader a conclusion before the discourse begins |
+| **Why it matters** | 📐 **EN Chapter 7 spends a paragraph rescuing its reader from a mistranslation the Spanish reader never receives. Reproducing that paragraph in Spanish would be describing a problem that does not exist for that reader — a prose divergence that is REQUIRED, not tolerated.** |
+| **Affects the argument?** | **No. The brake still applies in both editions: *aiōn* at 24:3 is explicit text; what ends when an age ends is not.** |
+| **Found by** | **Drafting ES Part II.** |
+
+---
+
+## SYNC-005 — οἰκουμένη rendered two ways by RVR1960
+
+| | |
+|---|---|
+| **Status** | ❗ **OPEN. Spanish TEXTUAL NOTE written into ES Chapter 7. English needs no equivalent.** |
+| **RVR1960** | **"todo el mundo"** at Luke 2:1 and Matthew 24:14 · **"toda la tierra habitada"** at Acts 11:28 |
+| **Effect on the Spanish reader** | **Double-edged.** The Caesar-census parallel to Matthew 24:14 is visible in *identical wording*, which English does not give. But the inhabited-world sense that carries the argument only surfaces at Acts 11:28. |
+| **English counterpart** | The CJB's **"throughout the Empire"** at both Luke 2:1 and Acts 11:28 makes the point the Spanish reader must assemble from two verses. |
+| **Affects the argument?** | **No.** *Oikoumenē* **SUPPORTS** a bounded sense and does not **REQUIRE** it, in both editions. |
+| **Rule applied** | ① — RVR60's split is evidence about RVR60, not about the Greek. |
+
+---
+
+## SYNC-006 — RVR1960 verbatim not yet verified for several Part II passages
+
+| | |
+|---|---|
+| **Status** | ❗ **OPEN — RETRIEVAL DEBT, declared in the prose rather than hidden.** |
+| **Passages** | **Daniel 7:13-14 · Zechariah 12:12 · Deuteronomy 30:19, 31:28, 32:1 · Isaiah 65:20 · Matthew 5:17, 5:19** |
+| **What the ES edition did** | 🛑 **DESCRIBED them instead of quoting them, and said so in a TEXTUAL NOTE at each site.** |
+| **What it refused to do** | ❗ **Render the English quotation into Spanish.** That would manufacture a Spanish Bible text from an English one and pass it off as RVR1960 — the exact failure the translation-architecture ADR exists to prevent. |
+| **Cost** | **Real.** ES Chapters 8, 11 and 12 carry described passages where EN carries quotations. This is a prose divergence caused by a source gap, not by editorial choice. |
+| **To close** | Verify each against RVR1960, add to [[05-scripture-index]], then convert the descriptions to quotations. |
+
+---
+
+## SYNC-007 — Matthew 26:64, RVR1960 sides with the ESV against the CJB
+
+| | |
+|---|---|
+| **Status** | ❗ **OPEN. Spanish TEXTUAL NOTE written into ES Chapter 8.** |
+| **RVR1960** | **"DESDE AHORA veréis"** — the strong temporal claim |
+| **ESV** | **"from now on you will see"** — same |
+| **CJB** | **"one day you will see"** — a materially different reading |
+| **Why it matters** | **The translations diverge exactly where the timing question lives.** The Spanish reader receives the more committed of the two readings by default and should be told the other exists. |
+| **Affects the argument?** | **No — and this is the point.** ⚠️ **The second-person address stays EXPLICIT; what KIND of seeing the saying requires stays OPEN in both editions.** A translation that leans toward "from now on" may NOT be used to close the seeing-verb question. |
+| **Rule applied** | ①, and ④ — no upgrade in either direction. |
+
+---
+
+## SYNC-008 — φυλαί: RVR1960 says *tribus* in one place and *linajes* in another
+
+| | |
+|---|---|
+| **Status** | ❗ **OPEN. Spanish TEXTUAL NOTE written into ES Chapter 11.** |
+| **Greek** | **φυλαί** at both Matthew 24:30 and Revelation 1:7 |
+| **RVR1960** | **"todas las TRIBUS de la tierra"** (Mt 24:30) · **"todos los LINAJES de la tierra"** (Rev 1:7) |
+| **Effect on the Spanish reader** | 📐 **The ambiguity the chapter is trying to expose is already distributed across two Spanish verses.** *Linaje* pushes toward family and descent; *tribu* toward a larger ethnic unit. A reader comparing the two passages notices the decision without knowing Greek. |
+| **Affects the argument?** | **No.** The corrected EN claim holds in both editions: *phylai* has strong Israel-tribal resonance but is **NOT restricted to Israel** — Revelation 5:9 and 7:9 stack it with tongues, peoples and nations. |
+| **Rule applied** | ① — RVR60's two words are evidence about RVR60. |
+
+---
+
+## SYNC-009 — RVR1960 independently preserves the ἐπισυνάγω / συλλέγω distinction
+
+| | |
+|---|---|
+| **Status** | ✅ **RESOLVED AND USED. Printed in ES Chapter 10 as a TEXTUAL NOTE, on the archive's own instruction (q440).** |
+| **The correction** | **Stage 48 had to correct this project's own false claim that Matthew 13:41 and 24:31 share a gathering verb.** 13:41 is **συλλέξουσιν**; 24:31 is **ἐπισυνάξουσιν**. |
+| **RVR1960, independently** | **juntar / juntará / juntarán** at Matthew 23:37 · 24:31 · Mark 13:27 · Luke 13:34 · Luke 17:37 — every ἐπισυνάγω — and ❗ **recogerán** at Matthew 13:41. |
+| **Why it matters** | ★ **The Spanish reader can SEE the correction in their own Bible without knowing Greek. A third witness, independent of this investigation, to an error the project had to correct in itself.** |
+| **Direction of benefit** | 📐 **First entry where the Spanish edition can demonstrate something the English edition can only assert.** ⚠️ **It remains a translation witness: it CONFIRMS the Greek finding, it does not establish it.** |
+| **Where** | q440 · [[09-manuscript-integrity-audit]] §18 · ES Chapter 10 |
+
+---
+
 > ### 🛑 **STANDING RULES**
 >
 > ### **① A translation witness is evidence about ***that translation***. It is never evidence about the Greek or the Hebrew.**
