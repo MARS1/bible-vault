@@ -6,7 +6,7 @@ tags: [draft-1, part-iii, chapter-13, stage-16-5, berit, diatheke, olam, covenan
 reference: "Genesis 9:12-16; Genesis 15:18; Genesis 17:11-13; Exodus 24:8; Exodus 31:16-17; 2 Samuel 7:12-16; Jeremiah 31:31-33; Galatians 3:17-18"
 created: 2026-09-11
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part III, Chapter 13. Source: Stage 16.5 and [[00r-what-is-a-covenant]]. ★★★ THE ARCHITECTURE'S FIRST DELIBERATE DEPARTURE FROM RESEARCH ORDER, AND IT IS DISCLOSED IN THE CHAPTER RATHER THAN HIDDEN — this sidebar was written AFTER the circumcision stage and belongs BEFORE it. Silently reordering would erase the journey. ★ THE OLAM FINDING IS THE CHAPTER'S REAL PAYLOAD: berit olam attaches to three institutions treated three different ways, which narrows what the word can deliver without making it mean 'temporary'. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1. Approved architecture v1.0, Part III, Chapter 13. Source: Stage 16.5 and [[00r-what-is-a-covenant]]. ★★★ THE ARCHITECTURE'S FIRST DELIBERATE DEPARTURE FROM RESEARCH ORDER, AND IT IS DISCLOSED IN THE CHAPTER RATHER THAN HIDDEN — this sidebar was written AFTER the circumcision stage and belongs BEFORE it. Silently reordering would erase the journey. ★ THE OLAM FINDING IS THE CHAPTER'S REAL PAYLOAD: berit olam attaches to three institutions treated three different ways, which narrows what the word can deliver without making it mean 'temporary'. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide. D1-REVIEWED 2026-09-11: TWO corrections. (1) The berit olam evidence block claimed the three institutions' differing treatment REQUIRES that the phrase cannot settle any case — that mixed explicit text with a later theological conclusion. Narrowed to what it actually establishes: olam by itself cannot determine how each institution functions under LATER COVENANTAL DEVELOPMENTS. Acts 15 rejects imposing circumcision on Gentiles as a salvation requirement; that is NOT Scripture announcing the Abrahamic berit olam ended, and the chapter now says so explicitly. DO NOT re-collapse these. (2) 'The Torah is the same Torah' went beyond Jeremiah 31:33. Yahweh calls it torati, 'my Torah' — explicit; the passage does NOT enumerate how each command functions afterward. Now consistent with the Part's own anti-Category-Collapse brake."
 related: "[[10-manuscript-architecture]], [[00r-what-is-a-covenant]], [[00b-biblical-epistemology]], [[04-open-questions]]"
 ---
 
@@ -97,7 +97,9 @@ Nobody argues the rainbow ended. The apostles did not require circumcision of Ge
 
 That *berit olam* attaches to all three is **EXPLICIT TEXT**.
 
-It **REQUIRES** the conclusion that the phrase alone cannot settle any of the three cases, since the identical phrase sits on institutions that are not treated identically.
+It **REQUIRES** the conclusion that *olam*, by itself, cannot determine how any one of these institutions functions under later covenantal developments. The phrase is identical; the questions each institution raises are not, and the phrase does not distinguish between them.
+
+I have to be careful about how I state the second half, because it is easy to overreach here and I nearly did. What Acts 15 rejects is imposing circumcision on Gentiles as a requirement for salvation and covenant inclusion. That is **not** the same as Scripture announcing that the Abrahamic *berit olam* has ended, and I do not get to slide from the first to the second because it would tidy the argument.
 
 It **DOES NOT ESTABLISH** that *olam* means "temporary." That would be the opposite error, and it is the one I would have made a year earlier. What it establishes is narrower and more useful: *olam* is not the load-bearing word that arguments on both sides assume it is.
 :::
@@ -138,7 +140,9 @@ That is not accumulation. A covenant has genuinely been broken, and the text say
 
 But notice what Yahweh does not say. There is no sentence anywhere in the passage announcing that everything previously promised is canceled. What the passage actually says next is that the Torah goes inside: *I will put my Torah within them, and I will write it on their hearts.*
 
-So both things stand at once. The parties are the same — Yahweh, Israel, Judah. The Torah is the same Torah. The relationship formula is the same: *I will be their God, and they shall be my people.* And against that, it is genuinely new, genuinely unlike the Exodus covenant, and it deals with a covenant that was genuinely broken.
+So both things stand at once. The parties are the same — Yahweh, Israel, Judah. Yahweh still calls what He writes within them **my Torah**, <span class="he">תּוֹרָתִי</span> *(torati)*, which is explicit. The relationship formula is the same: *I will be their God, and they shall be my people.* And against that, it is genuinely new, genuinely unlike the Exodus covenant, and it deals with a covenant that was genuinely broken.
+
+What the passage does **not** do is enumerate how each command functions under the new covenant. It names the Torah as His and relocates it; it does not tell me that every element of the Mosaic legislation continues in precisely the same covenantal form. Saying it did would be the Category Collapse I am about to spend five chapters refusing.
 
 ::: finding
 **Finding — neither half may swallow the other**

@@ -6,7 +6,7 @@ tags: [draft-1, part-iii, chapter-15, stage-16, leviticus-16, azazel, isaiah-53,
 reference: "Leviticus 16:8-22; Isaiah 53:10; Matthew 26:28; Luke 22:20; 1 Corinthians 11:25; Hebrews 8:5, 9:23-24, 10:1-14; Psalm 110:4"
 created: 2026-09-11
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part III, Chapter 15. Source: Stage 16 and [[00p-sacrifice-priesthood-and-fulfillment]]. ★ THE DEFINITION OF FULFILMENT THIS BOOK USES IS FORMULATED HERE: pattern reaching its goal, NOT falsehood replaced by truth. ★ THREE PIECES OF CONTRARY EVIDENCE PRINTED RATHER THAN BURIED: Isaiah 53:10's asham is conditional in the CJB; 'new' at Matthew 26:28 is text-critically contested and the claim is moved to Luke 22:20 / 1 Corinthians 11:25; and all three witnesses decline the 'scapegoat' gloss at Azazel. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1. Approved architecture v1.0, Part III, Chapter 15. Source: Stage 16 and [[00p-sacrifice-priesthood-and-fulfillment]]. ★ THE DEFINITION OF FULFILMENT THIS BOOK USES IS FORMULATED HERE: pattern reaching its goal, NOT falsehood replaced by truth. ★ THREE PIECES OF CONTRARY EVIDENCE PRINTED RATHER THAN BURIED: Isaiah 53:10's asham is conditional in the CJB; 'new' at Matthew 26:28 is text-critically contested and the claim is moved to Luke 22:20 / 1 Corinthians 11:25; and all three witnesses decline the 'scapegoat' gloss at Azazel. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide. D1-REVIEWED 2026-09-11: removed 'there are no chairs in the tabernacle's service' — a popular sermonic inference, not Hebrews' argument. Hebrews 10:11-12 makes the contrast itself: every priest STANDS DAILY offering repeatedly; Messiah offered once and SAT DOWN. Let Hebrews carry it."
 related: "[[10-manuscript-architecture]], [[00p-sacrifice-priesthood-and-fulfillment]], [[00r-what-is-a-covenant]]"
 ---
 
@@ -102,9 +102,9 @@ This is the most useful thing this stage produced, and it is useful precisely be
 
 Hebrews' argument about repetition is sharper than the summary version I had been carrying. The point is not that repeated sacrifice was ineffective. It is that repetition demonstrates something about completion — a thing finished does not need doing again.
 
-And then the detail I had read past many times: the Levitical priest stands. There are no chairs in the tabernacle's service, because the work is never done. Hebrews says that Yeshua, having offered once, **sat down**.
+And then the detail I had read past many times, which Hebrews makes itself and does not need my help with. Every priest **stands daily** at his service, offering repeatedly the same sacrifices. Messiah, having offered one sacrifice for sins, **sat down**.
 
-That is an argument made out of furniture, and it is better than most arguments made out of adjectives.
+That is an argument made out of posture, and it is better than most arguments made out of adjectives.
 
 ## The priesthood changes for the same reason
 
