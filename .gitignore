@@ -31,3 +31,7 @@ Thumbs.db
 # MemPalace per-project files (issue #185)
 mempalace.yaml
 entities.json
+
+# Python bytecode from scripts/test-build-checks.py importing the build module
+__pycache__/
+*.pyc

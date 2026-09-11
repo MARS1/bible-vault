@@ -6,7 +6,7 @@ tags: [draft-1, parte-iii, capitulo-17, stage-18, marcos-7, hechos-10, daniel-1,
 reference: "Génesis 7:2, 9:3; Levítico 11; Deuteronomio 14; Marcos 7:1-23; Hechos 10:9-35; Hechos 11; Hechos 15:20; Hechos 21:20-26; Números 6:9-21; Romanos 14; Daniel 1:5-17"
 created: 2026-09-11
 status: draft
-localization: "BORRADOR 1 ES. Edición hermana del Part III EN D1-reviewed. ★★★ LLEVA LOS TRES COMENTARIOS DEL INVESTIGADOR: la mesa de Daniel, Hechos 21, y el intento fallido que mató Números 6:14 — este último conservado por ADR-0010 porque el fracaso expuso que el proyecto había aplanado 'sacrificio' en una sola categoría. ★ CORRECCIÓN EN CONSERVADA EN MARCOS 7:19: la ausencia de sujeto explícito NO establece por sí sola la ambigüedad; los participios griegos admiten referente sintáctico sobreentendido, y adjudicar exige análisis sintáctico y discursivo. ★ VENTAJA ES: la RVR1960 conserva el participio ('haciendo limpios'), así que el lector hispano ve la forma sin resolver. ★ NO SE ALCANZA VEREDICTO Y ESE ES EL INFORME HONESTO. TERMINOLOGÍA: no globo/global/planeta/planetario/mundial."
+localization: "BORRADOR 1 ES. Edición hermana del Part III EN D1-reviewed. ★★★ LLEVA LOS TRES COMENTARIOS DEL INVESTIGADOR: la mesa de Daniel, Hechos 21, y el intento fallido que mató Números 6:14 — este último conservado por ADR-0010 porque el fracaso expuso que el proyecto había aplanado 'sacrificio' en una sola categoría. ★ CORRECCIÓN EN CONSERVADA EN MARCOS 7:19: la ausencia de sujeto explícito NO establece por sí sola la ambigüedad; los participios griegos admiten referente sintáctico sobreentendido, y adjudicar exige análisis sintáctico y discursivo. ★ VENTAJA ES, ACOTADA: la RVR1960 conserva la construcción participial ('haciendo limpios') en vez del declarativo, pero NO es neutra — 'Esto decía' explicita una relación y el castellano admite sujeto tácito, así que preserva mejor la forma sin resolver la sintaxis. ★ NO SE ALCANZA VEREDICTO Y ESE ES EL INFORME HONESTO. TERMINOLOGÍA: no globo/global/planeta/planetario/mundial. D1-REVISADO 2026-09-11: se corrigió 'No suministra sujeto' sobre la RVR1960. El castellano es de sujeto tácito y la RVR1960 además suministra 'Esto decía'. Conserva mejor la forma participial; NO resuelve la cuestión sintáctica. La misma corrección se aplicó al inglés bajo la regla de sincronización bilingüe."
 related: "[[10-manuscript-architecture]], [[SYNC-LEDGER]], [[00s-clean-and-unclean-from-noah-to-messiah]], [[00u-acts-21-paul-torah-and-the-two-groups]]"
 ---
 
@@ -60,7 +60,7 @@ El griego es <span class="gr">καθαρίζων πάντα τὰ βρώματα
 - **ESV:** "(Thus **he declared** all foods clean.)" — suministra sujeto y verbo declarativo
 - **NIV:** "(In saying this, **Jesus declared** all foods clean.)" — suministra el sujeto por nombre
 - **CJB:** "(Thus he declared all foods **ritually** clean.)" — suministra sujeto *y* estrecha el alcance con un adverbio añadido
-- **RVR1960:** **"Esto decía, haciendo limpios todos los alimentos."** — **conserva el participio.** No suministra sujeto.
+- **RVR1960:** **"Esto decía, haciendo limpios todos los alimentos."** — **conserva la construcción participial** en *haciendo limpios*, en vez de convertirla en el declarativo *declaró limpios*. Aun así, tampoco es una reproducción gramaticalmente neutra del griego: *Esto decía* explicita una relación interpretativa, y el castellano admite sujeto tácito sin pronombre expreso, de modo que no hace falta un *él* para que la oración tenga sujeto entendido.
 
 Son dos maniobras interpretativas distintas, y cada una añade algo al griego. La primera es suministrar *él declaró*, que no está en la frase.
 
@@ -70,7 +70,7 @@ La segunda maniobra es el *ritually* de la CJB, que estrecha bastante la afirmac
 
 Y el interés corre en las dos direcciones, cosa que conviene decir. La CJB es una traducción mesiánica judía con un interés en la lectura estrecha. La ESV y la NIV son traducciones cristianas tradicionales con un interés en la amplia. Ninguna de las dos observaciones resuelve la gramática. Lo que significa es que el paréntesis, en las Biblias que lo traen, es un acto interpretativo, y al lector generalmente no se le dice.
 
-**Al lector hispano la RVR1960 le entrega la forma sin resolver.** Eso es una ventaja real: puede ver el participio, no una conclusión.
+**Así que la RVR1960 preserva mejor la forma participial, pero no resuelve por sí sola la cuestión sintáctica.** Es una ventaja real y acotada: el lector hispano ve un participio donde otros ven una conclusión, y eso no es lo mismo que ver el griego sin intermediarios.
 :::
 
 Y una segunda pregunta sobrevive aunque la lectura declarativa sea la correcta: ¿qué quiere decir Marcos con *alimentos*, <span class="gr">βρώματα</span> *(brōmata)*? ¿Toda criatura biológica es ahora alimento, o todo lo ya clasificado como alimento no puede contaminar moralmente a alguien por contacto ritual de las manos? No son la misma afirmación, y resolver la gramática no resolvería el referente.
@@ -190,7 +190,7 @@ Tengo una distinción anterior a Israel y con función sacrificial antes que ali
 No es un resultado ordenado. Es uno honesto, y la alternativa que tenía a mano era quedarme con los dos versículos con los que empecé y llamarlo resuelto — que es exactamente lo que venía haciendo durante años.
 
 ::: whereweare
-**Dónde estamos.** La distinción limpio/inmundo es anterior a Israel y empieza siendo sacrificial. El paréntesis decisivo de Marcos 7 suministra un sujeto que el griego no tiene, y la RVR1960 conserva el participio; pero esa ausencia no establece por sí sola la lectura alternativa, que exige análisis sintáctico. Pedro interpreta su propia visión como referida a personas, sin que por eso la imaginería alimentaria quede vacía. Hechos 15 reconecta con Noé sin liberar a nadie de nada que no se le haya preguntado. Y un intento fallido sobre Hechos 21 expuso que yo trataba siete clases de ofrenda como una sola palabra.
+**Dónde estamos.** La distinción limpio/inmundo es anterior a Israel y empieza siendo sacrificial. El paréntesis decisivo de Marcos 7 suministra un declarativo que el griego no tiene, y la RVR1960 conserva la construcción participial sin por eso resolver la sintaxis; la ausencia de un sujeto repetido no establece por sí sola la lectura alternativa, que exige análisis sintáctico y discursivo. Pedro interpreta su propia visión como referida a personas, sin que por eso la imaginería alimentaria quede vacía. Hechos 15 reconecta con Noé sin liberar a nadie de nada que no se le haya preguntado. Y un intento fallido sobre Hechos 21 expuso que yo trataba siete clases de ofrenda como una sola palabra.
 :::
 
 ::: earned

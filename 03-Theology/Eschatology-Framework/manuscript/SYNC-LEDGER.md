@@ -175,6 +175,33 @@ related: "[[10-manuscript-architecture]], [[09-manuscript-integrity-audit]], [[0
 
 ---
 
+## SYNC-013 — Mark 7:19: the Spanish edition caught an English overstatement about Spanish
+
+| | |
+|---|---|
+| **Status** | ✅ **RESOLVED IN BOTH EDITIONS 2026-09-11, under standing rule ②.** |
+| **What English said** | RVR1960 "**keeps the participle. No subject supplied.**" |
+| **Why the second half was wrong** | **Spanish is pro-drop.** A clause carries an understood subject with no overt pronoun, so "no *él* is present" is not the observation it looks like. And RVR1960 additionally supplies **`Esto decía`**, which makes an interpretive relation explicit that the Greek phrase under discussion does not carry. |
+| **What survives, and it is still worth having** | RVR1960 keeps the **participial construction** `haciendo limpios` instead of converting it to the declarative `declaró limpios`. It is **less interpretively resolved** than ESV / NIV / CJB. |
+| **What does NOT survive** | That RVR1960 is a grammatically neutral reproduction, or that it settles the syntax. It does neither. This now agrees with the English Part III correction already made: adjudicating the alternatives requires syntax and discourse analysis. |
+| **Why it is logged rather than quietly fixed** | 📐 **This is the second time drafting the Spanish sibling has exposed a defect in an already-cleared English Part.** The first was *"every nation on the planet"* surviving two English reviews. Both were found by writing the other edition, not by re-reading the same one. That is the argument for sibling editions stated as evidence rather than as a preference. |
+| **Rule applied** | ② — a problem exposed by one edition is corrected in **both**. |
+
+---
+
+## SYNC-014 — Colossians 2:17 is not a "tense" observation, in either language
+
+| | |
+|---|---|
+| **Status** | ✅ **RESOLVED IN BOTH EDITIONS 2026-09-11.** |
+| **What both editions said** | English: the verse "has **a tense** in it." Spanish: contiene "**un tiempo verbal**." |
+| **Why that is imprecise** | The expression is <span class="gr">τῶν μελλόντων</span>, from <span class="gr">μέλλω</span> *(mellō)* — a participle carrying **prospective reference**. Calling it a tense misdescribes the grammar even though the reading it supports is sound. |
+| **Now** | English: "a **future-facing expression**." Spanish: "una **expresión orientada hacia lo venidero**." |
+| **Deliberately NOT expanded** | No new lexical argument was built on this. The modest conclusion is unchanged: the expression is forward-facing, so Colossians 2:16-17 is **not obviously** saying the shadow has simply finished. Hebrews 10:1 uses the same shadow vocabulary the same forward-leaning way. |
+| **Rule applied** | ②, and ④ — the correction sharpens the description without upgrading the claim. |
+
+---
+
 > ### 🛑 **STANDING RULES**
 >
 > ### **① A translation witness is evidence about ***that translation***. It is never evidence about the Greek or the Hebrew.**
