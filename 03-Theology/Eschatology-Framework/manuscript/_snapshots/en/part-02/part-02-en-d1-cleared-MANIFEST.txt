@@ -1,0 +1,11 @@
+Edition:        English (en)
+Part:           2  Part II: The Olivet Discourse, Read in Its Own Century
+Milestone:      d1-cleared
+Source commit:  7b320f8d89234a9daf482a365a5fe4627d5da242
+Commit date:    2026-09-11
+Tree state:     source committed at this commit
+Built:          2026-09-11
+Extent:         9,130 words, 51 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 7b320f8
