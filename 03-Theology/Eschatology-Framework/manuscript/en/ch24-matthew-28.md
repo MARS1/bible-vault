@@ -6,7 +6,7 @@ tags: [draft-1, part-iv, chapter-24, stage-26, matthew-28, matheteuo, poreuthent
 reference: "Matthew 28:16-20; Matthew 10:5-6; Matthew 15:24; Daniel 7:13-14; Ephesians 4:11-13; 1 Corinthians 12:29-30"
 created: 2026-09-12
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part IV, Chapter 24 — closes Part IV. Source: Stage 26 and [[01f-matthew-28-the-great-commission-in-context]]. ★★★ SECOND INTEGRITY EXHIBIT: the strongest remaining counter-text, approached like Romans 10 — directly, outcome unprotected. ★ 'GO' IS NOT THE MAIN VERB, VERIFIED: πορευθέντες is an aorist participle; μαθητεύσατε is the imperative. ★ THE RECURSIVE-COMMISSION ARGUMENT IS GIVEN ITS STRONGEST FORM AND EXPLICITLY NOT DISMISSED. ★ MATTHEW 28 GENUINELY ESTABLISHES A NATIONS MISSION — the chapter says so plainly against any reading that denies it. ★ RESOLUTION: corporate mission, individual vocation — and the body metaphor is PAUL'S OWN, not imported to rescue a conclusion. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1. Approved architecture v1.0, Part IV, Chapter 24 — closes Part IV. Source: Stage 26 and [[01f-matthew-28-the-great-commission-in-context]]. ★★★ SECOND INTEGRITY EXHIBIT: the strongest remaining counter-text, approached like Romans 10 — directly, outcome unprotected. ★ 'GO' IS NOT THE MAIN VERB, VERIFIED: πορευθέντες is an aorist participle; μαθητεύσατε is the imperative. ★ THE RECURSIVE-COMMISSION ARGUMENT IS GIVEN ITS STRONGEST FORM AND EXPLICITLY NOT DISMISSED. ★ MATTHEW 28 GENUINELY ESTABLISHES A NATIONS MISSION — the chapter says so plainly against any reading that denies it. ★ RESOLUTION: corporate mission, individual vocation — and the body metaphor is PAUL'S OWN, not imported to rescue a conclusion. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide. D1-REVIEWED 2026-09-12: TWO corrections. (1) poreuthentes was glossed 'as you go', which uses morphology to make the going incidental. An aorist participle with an imperative can function as ATTENDANT CIRCUMSTANCE and share the imperative's force. Now: morphologically not the finite imperative, functionally attendant circumstance, and the grammar may NOT be used to make going optional. mathēteusate is the finite imperative and syntactic centre. The larger conclusion — disciple-making, not one-time proclamation, is the commission's content — is unchanged. (2) The Acts 15 / ger box said the Council answered no to entry under 'the full Mosaic obligation'. Narrowed to what Acts 15:1 and 15:5 actually dispute — circumcision and keeping Moses as an imposed condition of belonging — plus the four requirements, with Acts 15:21 named as the reason not to pretend the Council settled the Gentiles' whole subsequent relationship to Torah."
 related: "[[10-manuscript-architecture]], [[01f-matthew-28-the-great-commission-in-context]], [[00f-witness-synthesis]]"
 ---
 
@@ -32,7 +32,7 @@ The commission does not begin with a task. It begins with a claim to authority, 
 
 This is a **royal** commission, issued on the basis of an enthronement. It is not general encouragement that evangelism is a worthwhile activity. Whatever else follows, it follows from a throne.
 
-## "Go" is not the main verb
+## The finite verb is "make disciples"
 
 Here is the first thing that surprised me, and it is verifiable in any interlinear.
 
@@ -41,16 +41,16 @@ Here is the first thing that surprised me, and it is verifiable in any interline
 
 <span class="gr">πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες … διδάσκοντες</span>
 
-<span class="gr">πορευθέντες</span> *(poreuthentes)* — **aorist participle**, "having gone" / "as you go." Not the imperative.
+<span class="gr">πορευθέντες</span> *(poreuthentes)* — **aorist participle**, literally "having gone." Morphologically it is not the finite imperative. But in this construction it can function as an **attendant-circumstance** participle, taking imperatival force from the verb it depends on — so the grammar must not be used to make the going optional or incidental, and I am not going to gloss it as a casual "as you go."
 
-<span class="gr">μαθητεύσατε</span> *(mathēteusate)* — **the imperative.** *Make disciples.* This is the main verb and the only one.
+<span class="gr">μαθητεύσατε</span> *(mathēteusate)* — **the finite imperative**, and the syntactic centre of the sentence. *Make disciples.*
 
 <span class="gr">βαπτίζοντες</span>, <span class="gr">διδάσκοντες</span> — present participles: baptizing, teaching. These explain **how**.
 
-**The centre of the commission is not travel. It is making disciples.** Going is attendant circumstance; baptizing and teaching are the method.
+**The syntactic centre of the commission is *make disciples*.** Going is attendant circumstance and carries the force of the imperative with it; baptizing and teaching describe how the disciple-making is done.
 :::
 
-I want to be careful not to over-collect on that. It does not mean *nobody goes anywhere* — the book of Acts is the counter-evidence, and the participle assumes movement rather than forbidding it. What it means is that the command's content is discipleship, which is a longer and different thing than announcing a message once.
+I want to be careful not to over-collect on that, because this is a place where a grammatical observation can be turned into a theological argument it cannot carry. The morphology does not make the going incidental, and it certainly does not mean *nobody goes anywhere* — Acts is the counter-evidence, and an attendant-circumstance participle shares the imperative's force rather than demoting it. What the syntax does establish is that the command's **content** is discipleship, which is a longer and different thing than announcing a message once.
 
 And that distinction matters for the original argument, because **evangelism and discipleship are not the same activity**, and my relative and I had been using them interchangeably. So had I, when it suited me.
 
@@ -71,7 +71,9 @@ Within roughly two decades, the question Matthew 28 opens had to be settled in p
 
 Israel already had a category for the outsider who attached himself to the covenant community — the <span class="he">גֵּר</span> *(ger)*, the sojourner or resident alien. Torah legislates for him repeatedly: he keeps the Sabbath, he may eat the Passover if circumcised, he is to be loved as oneself, and one law is to apply to the native-born and to the *ger* alike. The category is not an afterthought; it is built in.
 
-What the Jerusalem Council of Acts 15 decided was **not** that the nations could come in — Torah already knew that. It was whether they must enter through circumcision and the full Mosaic obligation in order to be saved, and the answer was no.
+What the Jerusalem Council of Acts 15 decided was **not** that the nations could come in — Torah already knew that. The immediate dispute was whether Gentile believers had to be circumcised and required to keep the law of Moses as a condition of belonging. The Council refused to impose that entry requirement, and issued four requirements in its letter instead.
+
+What Acts 15 implies about the Gentiles' **subsequent** relationship to the rest of Torah is a further question, and verse 21 — *Moses has been read every Sabbath in the synagogues* — is one reason not to pretend the Council answered more than it did.
 
 So the council is doing something narrower and more interesting than inventing Gentile inclusion. It is deciding which of the existing categories the incoming nations occupy, in a situation the earlier categories had not been written for.
 :::
@@ -163,7 +165,7 @@ That is a real answer and it is not a complete one. What a differentiated partic
 :::
 
 ::: whereweare
-**Where we are.** Matthew 28 is a royal commission flowing from enthronement, given to the eleven, whose main verb is *make disciples* rather than *go*. Matthew's own development runs Israel-centred first and nations later, with the resurrection between, and neither commission needs to be suppressed to hold the other. The text genuinely establishes a mission to the nations, and no reading of mine is permitted to shrink it. The recursive argument for an ongoing commission is strong and is not refuted here. What does not follow is that every command distributes to every believer identically — Paul denies that outright. Corporate mission, individual vocation, on Paul's own metaphor.
+**Where we are.** Matthew 28 is a royal commission flowing from enthronement, given to the eleven, whose finite imperative is *make disciples* — with *go* an attendant participle that carries the imperative's force rather than being optional. Matthew's own development runs Israel-centred first and nations later, with the resurrection between, and neither commission needs to be suppressed to hold the other. The text genuinely establishes a mission to the nations, and no reading of mine is permitted to shrink it. The recursive argument for an ongoing commission is strong and is not refuted here. What does not follow is that every command distributes to every believer identically — Paul denies that outright. Corporate mission, individual vocation, on Paul's own metaphor.
 :::
 
 ::: earned
