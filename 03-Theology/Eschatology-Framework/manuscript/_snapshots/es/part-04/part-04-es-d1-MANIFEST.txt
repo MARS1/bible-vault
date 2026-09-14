@@ -1,0 +1,11 @@
+Edition:        Español (es)
+Part:           4  Parte IV: Israel, las naciones y la comisión
+Milestone:      d1
+Source commit:  8f0646e5511cd85e0faa4c6f99b4bba4fb4492d8
+Commit date:    2026-09-13
+Tree state:     source committed at this commit
+Built:          2026-09-13
+Extent:         11,373 words, 66 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit 8f0646e
