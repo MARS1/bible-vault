@@ -135,7 +135,7 @@ La teología del cuerpo de Pablo apoya: **los miembros participan de manera dist
 
 **No se contradicen.** Un cuerpo puede poseer una misión colectivamente sin que cada célula ejecute la misma función — y la metáfora del cuerpo es **de Pablo**, no una analogía importada para rescatar una conclusión. Esa distinción me importa, porque rescatar conclusiones con analogías prestadas es exactamente lo que llevo cuatro Partes tratando de no hacer.
 
-Es más compatible con **ambos** —Mateo 28 y Pablo— que *todo creyente debe volverse personalmente un evangelista itinerante*, y más compatible con ambos que *predicar no es mi llamado, así que la pregunta no me alcanza*, que es lo que yo dije de verdad.
+Es más compatible con **ambos** —Mateo 28 y Pablo— que *todo creyente debe volverse personalmente un evangelista itinerante*. Y es también lo que yo buscaba decir, con poca precisión, cuando sostenía que predicar no era mi llamado y que no se me debía exigir la misma vocación de proclamación hacia afuera que a un evangelista.
 :::
 
 ## Un contexto histórico que conviene no sobrepasar
@@ -160,9 +160,11 @@ Pongo las dos posiciones de aquella primera conversación una al lado de la otra
 
 Mi familiar sostenía que los creyentes están obligados a proclamar hacia afuera, desde Marcos 16, Mateo 28, Santiago 4:17 y Hechos 8:4. **No** sostenía que todo creyente tenga un oficio evangelístico idéntico; eso es un espantapájaros y no lo voy a construir aquí para derribarlo.
 
-Yo sostenía que los dones se reparten de manera desigual, que evangelista es una función nombrada y específica, y que 1 Pedro 3:15 pide estar preparado para responder y no iniciativa para proclamar. Debajo de eso, sin decirlo, yo trataba la comisión como ya descargada en el primer siglo.
+Yo sostenía que los dones se reparten de manera desigual, que evangelista es una función nombrada y específica, y que 1 Pedro 3:15 pide estar preparado para responder y no iniciativa para proclamar. No estaba sosteniendo que los creyentes puedan callar acerca del Mesías, ni que la pregunta no me alcanzara. A lo que me oponía era a la afirmación de que todo creyente deba proclamar hacia afuera de esa misma manera proactiva o si no esté pecando. Debajo de eso, sin decirlo, yo trataba además la comisión como ya descargada en el primer siglo.
 
-Cuatro Partes después: su preocupación sobrevive, la mía sobrevive en forma estrechada, y lo que estaba debajo de la mía quedó debilitado en vez de confirmado. La misión es real, continua y corporativa. La participación en ella es diferenciada. Ninguna de esas dos era la posición que ninguno de los dos defendía, y la segunda me cuesta más a mí que a él.
+Cuatro Partes después: su preocupación sobrevive, y también sobrevive la distinción central que yo trazaba. Lo que cambió no es que haya descubierto que los creyentes nunca deben callar sobre el Mesías — nunca sostuve lo contrario. Lo que cambió es que **ya no puedo usar una proclamación supuestamente completada en el primer siglo como manera barata de deshacerme de la pregunta por la misión continua.** Eso era lo portante debajo de mi respuesta, y el capítulo 23 lo desarmó.
+
+Así que: la misión permanece. El cuerpo participa de ella. La pregunta es cómo difiere esa participación según llamado, don, circunstancia y ocasión — que está más cerca de lo que yo intentaba decir entonces que de lo que ninguno de los dos logró decir.
 
 ::: openquestion
 **Pregunta abierta — qué le exige la misión corporativa a un miembro que no es evangelista**

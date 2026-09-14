@@ -141,7 +141,7 @@ Paul's body theology supports: **members participate differently according to ca
 
 **These do not contradict.** A body can possess a mission collectively without every cell performing the same function — and the body metaphor is **Paul's own**, not an analogy imported to rescue a conclusion. That distinction matters to me, because rescuing conclusions with borrowed analogies is precisely what I have spent four Parts trying not to do.
 
-This is more compatible with **both** Matthew 28 and Paul than *every believer must personally become a travelling evangelist* — and more compatible with both than *preaching is not my calling, therefore the question does not reach me*, which is what I actually said.
+This is more compatible with **both** Matthew 28 and Paul than *every believer must personally become a travelling evangelist* — and it is also what I was reaching for, imprecisely, when I said that preaching was not my calling and that I should not be held to the same outward proclaiming vocation as an evangelist.
 :::
 
 ## What this does to the original argument
@@ -150,9 +150,11 @@ So let me put the two positions from that first conversation side by side, accur
 
 My relative argued that believers are obligated to proclaim outwardly, from Mark 16, Matthew 28, James 4:17 and Acts 8:4. He did **not** argue that every believer holds an identical evangelistic office; that is a strawman and I am not going to build it here in order to knock it down.
 
-I argued that gifts are distributed unevenly, that evangelist is a named and specific function, and that 1 Peter 3:15 asks readiness to answer rather than initiative to proclaim. Underneath that, unstated, I was treating the commission as already discharged in the first century.
+I argued that gifts are distributed unevenly, that evangelist is a named and specific function, and that 1 Peter 3:15 asks readiness to answer rather than initiative to proclaim. I was not arguing that believers may stay silent about Messiah, and I was not arguing that the question did not reach me. What I objected to was the claim that every believer must proclaim outwardly in that same proactive manner or else be in sin. Underneath that, unstated, I was also treating the commission as already discharged in the first century.
 
-Four Parts later: his concern survives, and mine survives in a narrowed form, and the thing underneath mine has been weakened rather than confirmed. The mission is real, ongoing, and corporate. Participation in it is differentiated. Neither of those was the position either of us was defending, and the second one costs me more than it costs him.
+Four Parts later: his concern survives, and so does the central distinction I was drawing. What changed is not that I discovered believers should never be silent about Messiah — I had never held otherwise. What changed is that **I can no longer use a supposedly completed first-century proclamation as a cheap way of disposing of the continuing-mission question.** That was the load-bearing thing underneath my answer, and Chapter 23 took it apart.
+
+So: the mission remains. The body participates in it. The question is how that participation differs according to calling, gift, circumstance and opportunity — which is closer to what I was trying to say at the time than to what either of us managed to say.
 
 ::: openquestion
 **Open question — what the corporate mission requires of a member who is not an evangelist**

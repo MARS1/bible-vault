@@ -14,7 +14,13 @@ related: "[[10-manuscript-architecture]], [[SYNC-LEDGER]], [[01b-romans-10-how-w
 
 Dije al comienzo de esta investigación que iría hacia los textos con más probabilidad de destruir mi posición en vez de rodearlos. Aquí es donde esa promesa se pone a prueba, y quiero dejar el encuadre por escrito antes que la evidencia, para que nadie tenga que creerme después que entré sin protección.
 
-Esta era mi posición original, enunciada tal como la sostenía. Cuando mi familiar me presionó con Marcos 16, Mateo 28, Santiago 4:17 y Hechos 8:4, contesté que predicar no era mi llamado — que los dones se reparten de manera desigual, que Efesios 4:11 nombra al evangelista como una función específica y no universal, y que 1 Pedro 3:15 pide estar preparado para responder y no iniciativa para proclamar.
+Esta era mi posición original, enunciada tal como la sostenía, porque un resumen descuidado de ella es fácil de producir y yo ya produje uno.
+
+Cuando mi familiar me presionó con Marcos 16, Mateo 28, Santiago 4:17 y Hechos 8:4, contesté que predicar no era mi llamado — que los dones se reparten de manera desigual, que Efesios 4:11 nombra al evangelista como una función específica y no universal, y que 1 Pedro 3:15 pide estar preparado para responder y no iniciativa para proclamar.
+
+Lo que **no** estaba diciendo, y quiero dejarlo asentado antes de que el capítulo avance: no estaba defendiendo el silencio. Llevaba años hablando de Yah y del Mesías en el curso ordinario de mi vida, y sostenía entonces, como sostengo ahora, que quien cree de verdad debería tener algo que decir al respecto y estar listo para dar razón de ello. También había aprendido temprano en mi camino a no imponérselo a nadie, que es otra lección distinta y que sigo creyendo que era correcta.
+
+Lo que yo rechazaba era más estrecho: que la Escritura haga evangelista a todo creyente, que por lo tanto todo creyente esté obligado a proclamar hacia afuera de esa misma manera proactiva — y sobre todo que no hacerlo sea pecado. En esa última cláusula es donde vivía de verdad la discusión.
 
 Y Romanos 10 contiene la cadena del versículo 14: cómo invocarán a aquel en el cual no han creído, cómo creerán en aquel de quien no han oído, y cómo oirán sin haber quien les predique.
 
@@ -172,7 +178,9 @@ La cadena queda en pie, sin ablandar: la fe viene ordinariamente por proclamaci�
 
 **No todos son evangelistas — y eso no libera a los creyentes de la responsabilidad de hablar con verdad acerca del Mesías cuando la fidelidad, la ocasión o una pregunta directa lo pidan.**
 
-El cuerpo del Mesías contiene llamados diferenciados, y la Escritura no presenta a cada miembro ocupando cada oficio. Eso es real. Tampoco es un permiso para el silencio, y mi posición original se parecía a un permiso más de lo que yo habría admitido entonces.
+El cuerpo del Mesías contiene llamados diferenciados, y la Escritura no presenta a cada miembro ocupando cada oficio. Eso es real.
+
+Y la segunda mitad de esa formulación no es una corrección dirigida a mí, porque de mi lado nunca estuvo en disputa. Lo que Romanos 10 corrigió no fue un compromiso con el silencio. Me hizo tomar mucho más en serio el lugar indispensable de la proclamación **en el cuerpo como un todo** — y dejó en pie la pregunta por la que empezó la discusión, que no es si alguien habla, sino **quién es enviado a hacer qué**.
 :::
 
 Esa formulación no es un punto medio entre los dos lados de la discusión original. Es lo que queda cuando a ambos lados se los obliga a decir solo lo que sus textos sostienen — y le concede a la preocupación de mi familiar más de lo que le concedía mi primera respuesta.

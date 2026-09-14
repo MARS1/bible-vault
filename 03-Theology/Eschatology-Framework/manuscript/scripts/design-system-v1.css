@@ -56,6 +56,9 @@ div.finding strong:first-child, div.wordstudy strong:first-child,
 div.historical strong:first-child, div.evidence strong:first-child, div.claimtypes strong:first-child, div.chain strong:first-child {
   font-family: "Helvetica Neue", Arial, sans-serif; font-weight: 600; font-size: 8.5pt;
   letter-spacing: 0.1em; text-transform: uppercase;
+  /* An uppercase, letter-spaced label must never hyphenate: Part IV rendered
+     "THREE PREPOSI-TIONS" across a line break. */
+  hyphens: none;
 }
 
 /* ---------- per component: each readable in grayscale ---------- */
@@ -97,6 +100,55 @@ div.commentary  { background: none; border-left: 3px solid #6c7378;
 /* the growing chain */
 div.chain       { background: none; border: 1px solid #c9cdd1; text-align: center; }
 div.chain p     { text-align: center; margin-bottom: 0.3em; }
+
+/* ---------- tables ----------
+   Tables here are REFERENCE material, not narrative, and are optimized for
+   scanning across a row rather than for matching body typography. A 6x9 page
+   has no horizontal room for four technical columns at body size; forcing it
+   hyphenates proper names and fragments the phrases the comparison depends on.
+
+   Added 2026-09-13 after the Romans 11:26 three-witness table rendered
+   unreadably in Part IV: "RO-MANS" split across lines, "henek-en" hyphenated,
+   and "FOR THE SAKE OF Zion" broken into pieces. Root cause was that NO table
+   rules existed at all — tables inherited browser defaults plus the body's
+   `hyphens: auto`. Fixed as a system rule, not per page. */
+table { width: 100%; border-collapse: collapse; margin: 0.9em 0;
+        font-size: 10pt; line-height: 1.4; hyphens: none; }
+th, td { text-align: left; vertical-align: top;
+         padding: 0.32em 0.9em 0.32em 0;
+         border-bottom: 1px solid #dcdfe2;
+         overflow-wrap: normal; word-break: normal; hyphens: none; }
+th { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 8.5pt;
+     font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;
+     color: #3d4247; border-bottom: 1px solid #9aa0a6;
+     padding-bottom: 0.42em; }
+tr:last-child td { border-bottom: none; }
+td:last-child, th:last-child { padding-right: 0; }
+
+/* Inside a technical aside the table already sits in a framed box, so it goes
+   smaller still. 8.8pt against an 11.5pt body is roughly 77% — a reduction,
+   not fine print. */
+div.textualnote table, div.wordstudy table, div.historical table,
+div.evidence table, div.claimtypes table, div.finding table,
+div.openquestion table, div.commentary table {
+  font-size: 8.8pt; line-height: 1.36;
+  /* Reclaim the callout's own side padding. A four-column technical table
+     needs the width more than the box needs the inset. */
+  margin-left: -0.8em; margin-right: -0.8em; width: calc(100% + 1.6em);
+}
+div.textualnote th, div.wordstudy th, div.historical th,
+div.evidence th, div.claimtypes th, div.finding th,
+div.openquestion th, div.commentary th { font-size: 7.8pt; }
+
+/* Column proportions are NOT set here. Pandoc emits its own
+   <colgroup><col style="width: N%"> from the pipe table's separator row, and an
+   inline style beats a stylesheet rule -- a 60% width set here rendered as 25%.
+   So proportions belong in the markdown separator row (dash counts), per table,
+   which also lets each table take the shape its own content needs. */
+
+/* Original scripts stay comfortably readable even when the English metadata
+   around them shrinks. This is the whole point of the aside. */
+table .gr, table .he { font-size: 1.1em; line-height: 1.5; }
 
 /* ---------- original languages ---------- */
 .gr, .he { font-family: "SBL Greek", "New Athena Unicode", "Times New Roman", serif; }

@@ -14,7 +14,13 @@ related: "[[10-manuscript-architecture]], [[01b-romans-10-how-will-they-hear]], 
 
 I said at the beginning of this investigation that I would run at the texts most likely to destroy my position rather than around them. This is where that promise gets tested, and I want the framing on the record before the evidence, so nobody has to take my word afterward that I went in unprotected.
 
-Here is my original position, stated as I actually held it. When my relative pressed me with Mark 16 and Matthew 28 and James 4:17 and Acts 8:4, I answered that preaching was not my calling — that gifts are distributed unevenly, that Ephesians 4:11 names evangelist as a specific function rather than a universal one, and that 1 Peter 3:15 asks readiness to answer rather than initiative to proclaim.
+Here is my original position, stated as I actually held it, because a careless summary of it is easy to produce and I have produced one.
+
+When my relative pressed me with Mark 16 and Matthew 28 and James 4:17 and Acts 8:4, I answered that preaching was not my calling — that gifts are distributed unevenly, that Ephesians 4:11 names evangelist as a specific function rather than a universal one, and that 1 Peter 3:15 asks readiness to answer rather than initiative to proclaim.
+
+What I was **not** saying, and want on the record before the chapter goes any further: I was not defending silence. I had been speaking about Yah and about Messiah in the ordinary course of my life for years, and I held then, as I hold now, that anyone who genuinely believes should have something to say about it and be ready to give an answer for it. I had also learned early in my walk not to force it on people, which is a different lesson and one I still think was right.
+
+What I rejected was narrower: that Scripture makes every believer an evangelist, that every believer is therefore obliged to proclaim outwardly in that same proactive manner — and above all that failing to do so is sin. That last clause is where the argument actually lived.
 
 And Romans 10 contains this:
 
@@ -169,7 +175,9 @@ The chain stands, unsoftened: faith ordinarily comes through proclamation, and p
 
 **Not everyone is an evangelist — and that does not relieve believers of responsibility to speak truthfully about Messiah when faithfulness, opportunity, or direct questioning calls for it.**
 
-The body of Messiah contains differentiated callings, and Scripture does not portray every member as occupying every office. That is real. It is also not a permission slip for silence, and my original position was closer to a permission slip than I would have admitted at the time.
+The body of Messiah contains differentiated callings, and Scripture does not portray every member as occupying every office. That is real.
+
+And the second half of that formulation is not a correction to me, because it was never in dispute on my side. What Romans 10 corrected was not a commitment to silence. It made me take the indispensable place of proclamation **in the body as a whole** far more seriously than I had — and it left standing the question the argument started over, which is not whether anyone speaks but **who is sent to do what**.
 :::
 
 That formulation is not a compromise between the two sides of the original argument. It is what is left when both sides are made to say only what their texts support — and it concedes more to my relative's concern than my opening answer did.
