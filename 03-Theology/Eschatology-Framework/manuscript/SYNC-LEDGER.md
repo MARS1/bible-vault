@@ -202,6 +202,32 @@ related: "[[10-manuscript-architecture]], [[09-manuscript-integrity-audit]], [[0
 
 ---
 
+## SYNC-015 — RVR1960 rebuilds the *oikoumenē* bridge that English Part IV destroyed
+
+| | |
+|---|---|
+| **Status** | ❗ **OPEN, AND THE MOST DANGEROUS ENTRY IN THIS LEDGER SO FAR. Spanish Chapter 23 dismantles it explicitly and at length.** |
+| **What English Part IV established** | **Paul never chooses <span class="gr">οἰκουμένη</span> in a proclamation text.** The one occurrence is a verbatim LXX quotation; in his own words he writes <span class="gr">κόσμος</span> (Col 1:6) and <span class="gr">κτίσις</span> (Col 1:23). The popular bridge to Matthew 24:14 relied on **English** supplying one word, *world*, for three Greek terms. |
+| **What RVR1960 does** | Worse, twice over. **(1)** Romans 10:18 renders <span class="gr">γῆ</span> **and** <span class="gr">οἰκουμένη</span> with the *same* Spanish word — *por toda **la tierra** … hasta los fines de **la tierra***. **(2)** It reads **"todo el mundo"** at Matthew 24:14 (*oikoumenē*) **and** at Colossians 1:6 and Mark 16:15 (*kosmos*). |
+| **The consequence** | 🛑 **A Spanish reader meets the identical phrase *todo el mundo* in verses that share no Greek term.** The bridge the English edition had to abandon **reassembles itself in Spanish**, for reasons having nothing to do with what Matthew or Paul wrote. |
+| **What the ES edition does** | Prints the six-row term table with the Spanish renderings beside the Greek, states the collapse outright, and says: *el puente está roto en los dos idiomas, y en castellano hay que romperlo dos veces.* |
+| **Rule applied** | ①, and ④ most of all — **a translation coincidence may not restore an argument the source languages removed.** This is the first entry where the Spanish edition had to work *harder* than the English to reach the same honest position. |
+
+---
+
+## SYNC-016 — Matthew 28:19: RVR1960 gives the Spanish reader what the English edition had to argue for
+
+| | |
+|---|---|
+| **Status** | ✅ **RESOLVED BY DESIGN, with the brake attached. Noted in ES Chapter 24.** |
+| **The English correction** | EN Part IV originally glossed <span class="gr">πορευθέντες</span> as "as you go", which used morphology to make the going incidental. Corrected: it is an aorist participle that can function as **attendant circumstance**, sharing the imperative's force, and the grammar may not be used to make going optional. |
+| **RVR1960** | **"Por tanto, id, y haced discípulos a todas las naciones"** — **two coordinated imperatives.** Not *yendo*, not *mientras vais*. |
+| **Effect** | 📐 The Spanish reader receives the imperatival force **directly** that the English chapter had to establish by argument, because several English translations soften it toward *as you go*. |
+| **The brake, which runs even when the translation favours the project** | ⚠️ **This is a translation witness, not a grammatical demonstration.** RVR1960 made a defensible syntactic decision; that does not establish the analysis. It **confirms** the attendant-circumstance reading; it does not prove it. The ES chapter says so in as many words: if the English *as you go* was not accepted as proof against, the Spanish *id* is not accepted as proof for. |
+| **Rule applied** | ①, ④ — symmetry of evidence handling regardless of which direction a witness points. |
+
+---
+
 > ### 🛑 **STANDING RULES**
 >
 > ### **① A translation witness is evidence about ***that translation***. It is never evidence about the Greek or the Hebrew.**
