@@ -6,7 +6,7 @@ tags: [draft-1, part-v, chapter-28, stage-30, side-branch-30h, hebrews-9, luke-4
 reference: "Hebrews 9:24-28, 2:5, 6:5; 1 Corinthians 15:23-26; Matthew 13:40-43, 24:37-41; Luke 4:16-21, 17:26-37; Isaiah 61:1-2; Zechariah 14:16-19; Revelation 6:9-11"
 created: 2026-09-16
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part V, Chapter 28. Source: Stage 30 and [[01k-can-an-age-end-while-resurrection-remains-ahead]], with Side Branch 30½ compressed to a sidebar from [[01l-one-taken-and-one-left]]. ★★★ HEBREWS 9:26 AND 9:28 SIT TWO VERSES APART — one author places Messiah's appearing at 'the end of the ages' AND speaks of a second appearing still awaited. Consummation language need not exhaust every eschatological event. Author-internal, not a synthesis across writers. ★★★ LUKE 4: Yeshua read the first half of Isaiah 61:2, rolled up the scroll, declared fulfilment — BOTH CLAUSES ARE IN THE SAME VERSE. Partial fulfilment established at a finer grain than the tranche claimed. ★ LABEL CORRECTION: the position is NOT full preterism and NOT standard partial preterism — standard partial preterism does not place anyone in the little season. Working label: POST-MILLENNIAL LITTLE-SEASON HYPOTHESIS, burden itemized. ★ ZECHARIAH 14 preserved as control text; the objection's missing step is the Zech 14 → Rev 20 identity. ★ SIDE BRANCH 30½: 'taken' may be taken IN JUDGMENT; both verbs middle-or-passive, third occurrence of undetermined voice. ★ JOSEPHUS admitted and fenced by the Report-Event Distinction. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1. Approved architecture v1.0, Part V, Chapter 28. Source: Stage 30 and [[01k-can-an-age-end-while-resurrection-remains-ahead]], with Side Branch 30½ compressed to a sidebar from [[01l-one-taken-and-one-left]]. ★★★ HEBREWS 9:26 AND 9:28 SIT TWO VERSES APART — one author places Messiah's appearing at 'the end of the ages' AND speaks of a second appearing still awaited. ESTABLISHES: consummation language does not entail eschatological exhaustion. DOES NOT ESTABLISH, and D1-REVIEWED 2026-09-16 corrected this: epi synteleia tōn aiōnōn places the appearing AT/UPON the culmination — it does NOT say an age had already completely ended and lay behind the author. The chapter's answer is therefore NOT 'yes' but 'Scripture permits the distinction the hypothesis needs; it has not established its application to Matthew's age.' ★★★ LUKE 4: Yeshua read as far as the proclamation of Yah's favour, rolled up the scroll, declared fulfilment — stopping partway through the sentence our modern versification numbers as Isaiah 61:2. Verse numbers did not exist in the scroll; the corrected wording says so. Partial fulfilment established as a CATEGORY, not applied to Matthew 13. ★ LABEL CORRECTION: the position is NOT full preterism and NOT standard partial preterism — standard partial preterism does not place anyone in the little season. Working label: POST-MILLENNIAL LITTLE-SEASON HYPOTHESIS, burden itemized. ★ ZECHARIAH 14 preserved as control text; the objection's missing step is the Zech 14 → Rev 20 identity. ★ SIDE BRANCH 30½: 'taken' may be taken IN JUDGMENT; both verbs middle-or-passive, third occurrence of undetermined voice. ★ JOSEPHUS admitted and fenced by the Report-Event Distinction. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
 related: "[[10-manuscript-architecture]], [[01k-can-an-age-end-while-resurrection-remains-ahead]], [[01l-one-taken-and-one-left]], [[01j-resurrection-before-revelation]]"
 ---
 
@@ -28,16 +28,16 @@ Those are different expressions. They may point at the same ultimate horizon. Bu
 
 I am not permitted to merge them because English translates both with the word *end*. That is the rule I adopted after Chapter 17, and it applies here whether or not I like the result.
 
-## And then Hebrews answers the question, two verses apart
+## And then Hebrews gives me part of what I wanted, two verses apart
 
-This is the finding of the chapter, and what makes it strong is that it is not a synthesis I assembled across authors. It is one writer, in one paragraph.
+This is the finding of the chapter, and what makes it strong is that it is not a synthesis I assembled across authors. It is one writer, in one paragraph. What makes it *less* than I first claimed is something I only saw on a second pass, and it is in the preposition.
 
 > But as it is, he has appeared once for all at the end of the ages to put away sin by the sacrifice of himself. (Hebrews 9:26)
 >
 > so Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him. (Hebrews 9:28)
 
 ::: finding
-**Finding — consummation language does not have to exhaust every eschatological event**
+**Finding — consummation language does not entail eschatological exhaustion**
 
 | | Hebrews 9 |
 |-------------------|------------------------------------------------|
@@ -46,9 +46,13 @@ This is the finding of the chapter, and what makes it strong is that it is not a
 
 The same author, in the same paragraph, places Messiah's appearance at the consummation of the ages **and** speaks of a second appearing still awaited.
 
-This does not prove anything about AD 70. What it establishes is the category: *consummation of the ages* language need not mean that every eschatological reality has already arrived.
+**What that establishes:** consummation language need not mean that every eschatological reality has already arrived. The category is real and I did not have to invent it.
 
-Which is precisely the distinction this chapter set out to test, and I did not have to invent it.
+**What it does not establish, and I had this wrong at first.** The Greek is <span class="gr">ἐπὶ συντελείᾳ τῶν αἰώνων</span> — *at* or *upon* the consummation of the ages. That places Messiah's appearing **at** the culmination. It does not say that an age had already finished and lay behind the author.
+
+So Hebrews does not, by itself, establish the stronger proposition I wanted from it: that an age can be **completely ended** while resurrection remains future. It establishes the weaker and still useful one: that consummation language and outstanding expectation can coexist.
+
+I am recording the distance between those two, because the first is what my model needs and the second is what the text gives.
 :::
 
 And Hebrews layers further. The same document says believers have already tasted *the powers of the age to come* (6:5), and speaks of *the inhabited world to come* (2:5). Consummation of the ages, powers already tasted, and a world still ahead — in one book.
@@ -94,7 +98,7 @@ I am writing this down in the same paragraph that introduces the tool, because I
 My own hypothesis benefits from compression. That is precisely when a rule is worth having.
 :::
 
-## Luke 4, where Yeshua stopped mid-verse
+## Luke 4, where Yeshua stopped partway through the sentence
 
 The category of partial fulfilment is not something I invented for this problem. It is demonstrated, and by Yeshua.
 
@@ -106,9 +110,9 @@ Now read what He was reading from:
 
 > to proclaim the year of the Lord's favor, **and the day of vengeance of our God**; to comfort all who mourn. (Isaiah 61:2)
 
-Both clauses are in the same verse. He read the first, stopped, rolled up the scroll, and declared the Scripture fulfilled.
+Both clauses sit inside what modern versification numbers as Isaiah 61:2 — a single sentence in the scroll Yeshua was holding, which had no verse numbers in it. He read as far as the proclamation of Yah's favour, stopped, rolled up the scroll, and declared the Scripture fulfilled.
 
-I had understood this as *He stopped before the next passage*. Retrieval made it sharper than that. He stopped **mid-verse**. A prophetic passage can contain multiple elements, and fulfilment of one portion can be declared without exhausting the wider prophecy — here, without exhausting the rest of the same sentence.
+I had understood this as *He stopped before the next passage*. Retrieval made it sharper than that. He stopped **within a single sentence**, before its second clause — the division our Bibles number as one verse. A prophetic passage can contain multiple elements, and fulfilment of one portion can be declared without exhausting the wider prophecy; here, without exhausting even the sentence he had begun.
 
 That establishes the category. It does not establish the application to Matthew 13, and I am keeping those apart.
 
@@ -232,16 +236,24 @@ That protects both sides. I do not have to dismiss every unexpected connection a
 
 So from here on, where an impression drove an inquiry, I will say so plainly — and then it gets tested exactly like everything else.
 
-## The provisional answer
+## The provisional answer, which is narrower than the question
 
-**Yes.** Scripture allows age-consummation language to coexist with eschatological realities that remain outstanding, and Hebrews 9 is the clear case: Messiah appeared at the end of the ages while another appearing remained expected, two verses apart. A first-century consummation of *an* age does not by itself require final bodily resurrection at the same moment.
+I asked whether an age can end while resurrection remains ahead. I wanted a yes. What the texts actually give me is this:
 
-Two constraints travel with that answer and neither is optional. Matthew 13's harvest and its Danielic imagery forbid reducing that consummation to administrative change; if the first century is the right horizon, the event must still account for genuine divine judgment. And bodily resurrection remains strongly future relative to several apostolic texts, unless Revelation later supplies a demonstrable staged chronology.
+**Scripture permits the distinction my hypothesis needs. It has not established its application to Matthew's age.**
+
+That is the honest form of the result. Hebrews shows that consummation language can coexist with eschatological realities still outstanding — so the category exists, and a first-century consummation of *an* age does not by itself require final bodily resurrection at the same moment. What Hebrews does not show is that the age in question had already completely ended, and Matthew's age is not the age Hebrews is talking about anyway.
+
+So I have a permission and not a demonstration. The question in this chapter's title does not get a yes; it gets *not ruled out, and not yet earned.*
+
+I would rather record that than round it up. Rounding it up is how a model stops being tested.
+
+Two constraints travel with even that narrower answer, and neither is optional. Matthew 13's harvest and its Danielic imagery forbid reducing that consummation to administrative change; if the first century is the right horizon, the event must still account for genuine divine judgment. And bodily resurrection remains strongly future relative to several apostolic texts, unless Revelation later supplies a demonstrable staged chronology.
 
 ::: whereweare
-**Where we are.** The distinction the model needed turns out to exist in Scripture rather than in my convenience: Hebrews places Messiah's appearing at the end of the ages and still awaits a second appearing, and Yeshua declared Isaiah 61 fulfilled while stopping in the middle of the verse. So an age may reach its consummation with eschatological realities still outstanding. What that does not license is a shrunken first-century event, a compression invoked whenever chronology is inconvenient, or any claim that bodily resurrection is behind us. The position now has a correct name and an itemized burden, and Zechariah 14 stands as a control text whose bridge to Revelation 20 nobody has yet built.
+**Where we are.** The distinction the model needed exists in Scripture rather than only in my convenience: Hebrews places Messiah's appearing *at* the consummation of the ages while still awaiting a second appearing, and Yeshua declared Isaiah 61 fulfilled while stopping partway through the sentence our Bibles number as verse 2. So consummation language can coexist with eschatological realities still outstanding. What that does **not** establish is that the age in view had already completely ended — Hebrews places the appearing at the culmination, not after it — nor that Matthew's age is the age being consummated. The chapter therefore ends with a permission rather than a demonstration. What it also does not license is a shrunken first-century event, a compression invoked whenever chronology is inconvenient, or any claim that bodily resurrection is behind us. The position now has a correct name and an itemized burden, and Zechariah 14 stands as a control text whose bridge to Revelation 20 nobody has yet built.
 :::
 
 ::: earned
-**What it earned.** The hypothesis survived the hardest pressure so far and came out smaller, better labelled, and carrying five specific debts. What remains is the last great Tanakh text standing between me and Revelation — the one that has been waiting since Matthew's harvest first echoed it.
+**What it earned.** A permission, not a verdict. The hypothesis survived the hardest pressure so far and came out smaller, better labelled, and carrying five specific debts — and carrying one more piece of honesty than it had at the start of the chapter, since the answer I wanted was a yes and the answer I am entitled to is narrower than that. What remains is the last great Tanakh text standing between me and Revelation — the one that has been waiting since Matthew's harvest first echoed it.
 :::

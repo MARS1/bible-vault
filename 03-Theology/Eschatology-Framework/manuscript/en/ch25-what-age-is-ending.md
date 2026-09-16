@@ -6,7 +6,7 @@ tags: [draft-1, part-v, chapter-25, stage-27, aion, synteleia, kosmos, matthew-1
 reference: "Matthew 13:24-30, 13:36-43, 13:47-52, 13:51-52; Matthew 12:32; Matthew 23:36; Matthew 24:3; Matthew 28:20; Daniel 12:1-4, 12:13"
 created: 2026-09-16
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part V, Chapter 25. Source: Stage 27 and [[01g-what-age-is-ending-in-matthew]]. ★★★ THE FINDING CAME FROM TWO ADJACENT CLAUSES: Matthew 13:38-39 uses KOSMOS for the field and AIŌN for the harvest's timing, inside one interpretation given by Yeshua Himself. Author-internal warrant for refusing to collapse the scope words. ★ THE EQUIVALENT-SCOPE BURDEN REVERSES DIRECTION HERE — at Stage 25 it destroyed a bridge this project wanted; here it supports one. A rule that only ever helped would be a bias with a rule's name on it. ★ MATTHEW 13's JUDGMENT CONTENT IS KEPT AT FULL STRENGTH AS EVIDENCE AGAINST THE DEVELOPING HYPOTHESIS. ★ רַבִּים at Daniel 12:2 is retrieved and SET DOWN — recorded, not used. ★ 13:52 'new and old' deliberately NOT made load-bearing. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1. Approved architecture v1.0, Part V, Chapter 25. Source: Stage 27 and [[01g-what-age-is-ending-in-matthew]]. ★★★ THE FINDING CAME FROM TWO ADJACENT CLAUSES: Matthew 13:38-39 uses KOSMOS for the field and AIŌN for the harvest's timing, inside one interpretation given by Yeshua Himself. Author-internal warrant for refusing to collapse the scope words. ★ THE EQUIVALENT-SCOPE BURDEN REVERSES DIRECTION HERE — at Stage 25 it destroyed a bridge this project wanted; here it supports one. A rule that only ever helped would be a bias with a rule's name on it. ★ MATTHEW 13's JUDGMENT CONTENT IS KEPT AT FULL STRENGTH AS EVIDENCE AGAINST THE DEVELOPING HYPOTHESIS. ★ רַבִּים at Daniel 12:2 is retrieved and SET DOWN — recorded, not used. ★ 13:52 'new and old' deliberately NOT made load-bearing. ★ D1-REVIEWED 2026-09-16: the occurrence count was wrong in the draft AND in the Stage 27 source doc. There are FIVE occurrences of synteleia tou aiōnos in Matthew — 13:39, 13:40, 13:49, 24:3, 28:20 — THREE of them inside chapter 13. Corrected; the argument strengthens, since Matthew loads the phrase with harvest and judgment three times in one chapter before ever reaching Olivet. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
 related: "[[10-manuscript-architecture]], [[01g-what-age-is-ending-in-matthew]], [[00g-matthew-24-and-the-oikoumene]], [[01f-matthew-28-the-great-commission-in-context]]"
 ---
 
@@ -78,9 +78,9 @@ This is recorded at full strength, in the chapter that found it, because a model
 
 I am not going to resolve that here. I am going to carry it.
 
-## The dragnet says it a second time
+## The dragnet says it a third time
 
-The pattern is not a single occurrence I might be over-reading.
+The pattern is not a single occurrence I might be over-reading. And I should be exact about the count, because I got it wrong on a first pass and the correction runs in my favour. The expression occurs **three times in Matthew 13 alone** — at 13:39 in the interpretation, again at 13:40 in the application of it, and a third time here in the dragnet.
 
 > …a net "gathered fish of every kind… So it will be at the end of the age. The angels will come out and separate the evil from the righteous and throw them into the fiery furnace." (Matthew 13:47–50)
 
@@ -91,7 +91,7 @@ The pattern is not a single occurrence I might be over-reading.
 | result | separation | separation |
 | outcome | fiery judgment | fiery judgment |
 
-Matthew's consummation of the age is not merely a way of saying *later*. It carries judicial and separative content, twice, in the same chapter.
+Matthew's consummation of the age is not merely a way of saying *later*. It carries judicial and separative content three times over, in a single chapter.
 
 ## A verse I am deliberately not going to use
 
@@ -103,7 +103,7 @@ Not *the old discarded and the new substituted*. A treasure containing both.
 
 That is the most quotable verse in the chapter for the covenant argument I spent Part III building, and it is exactly the kind of verse that gets over-used because it is satisfying. So I am recording it as resonance with the continuity pattern this book has already found, and I am not making it carry anything. If the covenant argument needs this verse, the covenant argument was weaker than I thought.
 
-## The third occurrence, and where Matthew has placed it
+## The fourth occurrence, and where Matthew has placed it
 
 Matthew 23 pronounces judgment on *this generation*. Then the Temple: not one stone left upon another. Then, privately, on the Mount of Olives:
 
@@ -176,11 +176,11 @@ Which is exactly why I am not building on it now. Reaching forward to a passage 
 
 If Matthew's age-ending harvest echoes Daniel 12, then Daniel's resurrection language becomes a question I cannot dodge — and where Daniel locates that resurrection becomes a test this model has to pass rather than a detail it can route around. That may turn out to be the hardest test in the whole investigation.
 
-## The fourth occurrence
+## The fifth occurrence
 
 > I am with you all the days, until the consummation of the age. (Matthew 28:20)
 
-Matthew has now attached this phrase to harvest, judgment, angels and separation in chapter 13; to the Temple judgment, the coming, the gathering and *this generation* in chapter 24; and now to the **duration of the commission given to the eleven.**
+That is the fifth and last. Matthew has now attached this phrase to harvest, judgment, angels and separation three separate times in chapter 13; to the Temple judgment, the coming, the gathering and *this generation* in chapter 24; and now to the **duration of the commission given to the eleven.**
 
 ## What I actually have, stated as a model and not as a conclusion
 
@@ -213,7 +213,7 @@ I am stating them in the chapter that built the model, for the same reason I sta
 :::
 
 ::: whereweare
-**Where we are.** *The consummation of the age* is not, in its own words, the destruction of the earth, and Matthew proves the distinction himself by using *kosmos* for the field and *aiōn* for the harvest in adjacent clauses. The phrase occurs four times in Matthew, surrounded each time by related imagery, which shifts the burden onto anyone claiming the occurrences are unrelated. A coherent first-century sequence is now visible in Matthew's own ordering. What is not established is that the sequence is the right reading: chapter 13's judgment content, Daniel 12's resurrection language, and the long reception of Matthew 28 all stand against it and are kept at full strength. Daniel 12:2 says *many*, not *all* — retrieved, recorded, and not yet used.
+**Where we are.** *The consummation of the age* is not, in its own words, the destruction of the earth, and Matthew proves the distinction himself by using *kosmos* for the field and *aiōn* for the harvest in adjacent clauses. The expression occurs five times in Matthew — three of them inside chapter 13 — surrounded each time by related imagery, which shifts the burden onto anyone claiming the occurrences are unrelated. A coherent first-century sequence is now visible in Matthew's own ordering. What is not established is that the sequence is the right reading: chapter 13's judgment content, Daniel 12's resurrection language, and the long reception of Matthew 28 all stand against it and are kept at full strength. Daniel 12:2 says *many*, not *all* — retrieved, recorded, and not yet used.
 :::
 
 ::: earned

@@ -6,7 +6,7 @@ tags: [draft-1, part-v, chapter-29, stage-31, stage-34h, daniel-12, rabbim, seal
 reference: "Daniel 12:1-13; Daniel 7:25; Matthew 13:43, 24:15, 24:21; Luke 21:20-24, 21:32; Revelation 1:1-3, 22:10"
 created: 2026-09-16
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part V, Chapter 29. Source: Stages 31-34½ and [[01m-daniel-12-resurrection-sealing-and-the-time-of-the-end]]. ★★★ THE SEAL-NEARNESS CONTRAST IS VERBAL, NOT THEMATIC: Daniel told to SEAL because the time of the end is not yet (12:4 AND 12:9); Revelation told DO NOT SEAL because the time is near (22:10, 1:1, 1:3). Opposite commands, opposite stated reasons. This is the door into Part VI. ★★★ THE רַבִּים DATUM IS FINALLY ADJUDICATED — AND AGAINST THE HYPOTHESIS: biblical 'many' can function as a broad collective, so it does NOT establish 'not all'. The inference that would have helped is formally blocked. ★ ANACHRONISM TEST: 12:4 'run to and fro' is NOT cars/airplanes/internet — yeshoteṭu 'range far and wide', ha-daʿat with the definite article, sitting between the sealing command and Daniel's own incomprehension. ★ THE COMPLETION MARKER IS AN EVENT, NOT A DATE: the shattering of the power of the holy people. ★ NO NUMEROLOGY FISHING on 1,290/1,335. ★ Daniel 12:8 'I heard, but I did not understand' — epistemological control. ★ GROWING CHAIN CHECKPOINT 3. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1. Approved architecture v1.0, Part V, Chapter 29. Source: Stages 31-34½ and [[01m-daniel-12-resurrection-sealing-and-the-time-of-the-end]]. ★★★ THE SEAL-NEARNESS CONTRAST IS VERBAL, NOT THEMATIC: Daniel told to SEAL, with a TERMINUS attached — 'until the time of the end' (12:4 AND 12:9); Revelation told DO NOT SEAL, with a REASON attached — 'for the time is near' (22:10, 1:1, 1:3). D1-REVIEWED 2026-09-16: the asymmetry is preserved deliberately. Daniel supplies a terminus, not a stated reason; that the end was not yet upon him is a fair INFERENCE from the terminus and is marked as one. Opposite commands with contrasting temporal expressions. This is the door into Part VI. ★★★ THE רַבִּים DATUM IS FINALLY ADJUDICATED — AND AGAINST THE HYPOTHESIS: biblical 'many' can function as a broad collective, so it does NOT establish 'not all'. The inference that would have helped is formally blocked. ★ ANACHRONISM TEST: 12:4 'run to and fro' is NOT cars/airplanes/internet — yeshoteṭu 'range far and wide', ha-daʿat with the definite article, sitting between the sealing command and Daniel's own incomprehension. ★ THE COMPLETION MARKER IS AN EVENT, NOT A DATE: the shattering of the power of the holy people. ★ NO NUMEROLOGY FISHING on 1,290/1,335. ★ Daniel 12:8 'I heard, but I did not understand' — epistemological control. ★ GROWING CHAIN CHECKPOINT 3. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
 related: "[[10-manuscript-architecture]], [[01m-daniel-12-resurrection-sealing-and-the-time-of-the-end]], [[01k-can-an-age-end-while-resurrection-remains-ahead]], [[00b-biblical-epistemology]]"
 ---
 
@@ -211,11 +211,11 @@ Either way, Revelation has to do the work. I may not predefine *first resurrecti
 
 Here is the contrast that ends this Part, and it is the reason the next one exists.
 
-| Text | Command | Stated reason |
+| Text | Command | What the text attaches to it |
 |--------------------|-------------------|---------------------------|
-| Daniel 12:4 | **seal** the book | *until the time of the end* |
-| Daniel 12:9 | the words are **sealed** | *until the time of the end* |
-| Revelation 22:10 | **do not seal** | *for the time is near* |
+| Daniel 12:4 | **seal** the book | a terminus — *until the time of the end* |
+| Daniel 12:9 | the words are **sealed** | a terminus — *until the time of the end* |
+| Revelation 22:10 | **do not seal** | a reason — *for the time is near* |
 
 And Revelation opens the same way it closes:
 
@@ -226,9 +226,11 @@ And Revelation opens the same way it closes:
 ::: finding
 **Finding — this is verbal opposition, not thematic resemblance**
 
-Daniel is commanded to seal **because** the time of the end is not yet. John is commanded not to seal **because** the time is near. Same command, opposite direction, with the timing reason stated explicitly on both sides.
+Daniel is told to seal the words **until the time of the end**. John is told not to seal **because the time is near**. The commands move in opposite directions, and the temporal expressions attached to them create a deliberate contrast.
 
-After thirty stages of refusing to build on resemblance, it is worth saying what makes this different. I am not noticing that two passages feel similar. I am reading one book told to do a thing for a reason, and another book told not to do that thing for the opposite reason.
+I want to keep the asymmetry visible rather than tidy it into a matching pair, because the two texts are not doing the same grammatical thing. Daniel is given a **terminus**: seal, and the sealing runs until a point named as the time of the end. Revelation is given a **reason**: do not seal, *for* the time is near. That Daniel's sealing implies the end was not yet upon him is a fair inference from the terminus — but it is an inference, and Revelation's *for* is explicit wording. I am not going to write the inference as though it were the quotation.
+
+After thirty stages of refusing to build on resemblance, it is worth saying what makes this different anyway. I am not noticing that two passages feel similar. I am reading one book instructed to seal until a horizon, and another book instructed not to seal because that horizon is close.
 
 **At minimum: Revelation presents itself as standing much closer to its fulfilment horizon than Daniel did.**
 
@@ -244,7 +246,7 @@ That is where I stop building controls. I have enough. What I do not have is Rev
 :::
 
 ::: whereweare
-**Where we are.** Daniel 12 anchors its prophecy to Israel, the Temple, the removal of the regular offering and an event-marker rather than a date, and Yeshua reactivates that language for his own generation while Luke translates it into armies around Jerusalem. The first-century horizon is genuine. But the same chapter opens with sleepers awakening from dust and closes with Daniel promised that he will rest and stand, and *rabbim* has now been adjudicated in a way that removes rather than supplies a convenient reading. So resurrection cannot be deleted from the horizon to preserve the judgment. And Daniel is told to seal because the end is not yet, while Revelation is told not to seal because the time is near — the first piece of temporal evidence that has come from the books' own instructions about themselves.
+**Where we are.** Daniel 12 anchors its prophecy to Israel, the Temple, the removal of the regular offering and an event-marker rather than a date, and Yeshua reactivates that language for his own generation while Luke translates it into armies around Jerusalem. The first-century horizon is genuine. But the same chapter opens with sleepers awakening from dust and closes with Daniel promised that he will rest and stand, and *rabbim* has now been adjudicated in a way that removes rather than supplies a convenient reading. So resurrection cannot be deleted from the horizon to preserve the judgment. And Daniel is told to seal until the time of the end, while Revelation is told not to seal because the time is near — opposite commands with contrasting temporal expressions, and the first piece of temporal evidence that has come from the books' own instructions about themselves.
 :::
 
 ::: earned
