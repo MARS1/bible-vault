@@ -1,0 +1,11 @@
+Edition:        English (en)
+Part:           5  Part V: Ages, Resurrection, and the Door into Revelation
+Milestone:      d1-reviewed
+Source commit:  9795fd8721e50b739b9647f479eab49176346bbc
+Commit date:    2026-09-16
+Tree state:     source committed at this commit
+Built:          2026-09-16
+Extent:         14,260 words, 76 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 9795fd8
