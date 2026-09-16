@@ -38,7 +38,7 @@ Whatever covenantal change Messiah brought, Paul has **not** reassigned the word
 Any reading of verse 6 that requires *Israel* to have been transferred away from them has to get past verse 4 first, and verse 4 is in the same breath. I had never noticed that, because I had always arrived at Romans 9 already looking for verse 6.
 :::
 
-And a detail in the inventory that arrived as independent confirmation of something this book reached seven stages earlier from a different direction: Paul writes **the covenants**, plural — <span class="gr">διαθῆκαι</span> *(diathēkai)*. Abrahamic, Sinaitic, Davidic, and the new one promised through Jeremiah. That is the one-covenantal-story-containing-multiple-covenants refinement from Chapter 13, in Paul's own grammar, and I did not go looking for it here.
+And a detail in the inventory that put back in front of me a question this book had already met. A well-attested Greek reading has **the covenants**, plural — <span class="gr">διαθῆκαι</span> *(diathēkai)* — while another textual tradition has the singular, <span class="gr">ἡ διαθήκη</span>. RVR1960 follows the singular with *el pacto*. The Spanish edition of this book flags the same variant at its Chapter 5, and I do not adjudicate it in either edition. Under the plural reading the inventory would name the Abrahamic, the Sinaitic, the Davidic and the new one promised through Jeremiah — the refinement from Chapter 13, a single covenantal story containing multiple covenants, in Paul's own grammar. But that refinement cannot rest on this verse while the variant is open, and it never did: Chapter 13 does not cite Romans 9:4 anywhere.
 
 ## Only now does the problem appear
 

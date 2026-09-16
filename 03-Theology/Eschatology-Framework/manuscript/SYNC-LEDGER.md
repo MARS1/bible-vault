@@ -33,11 +33,14 @@ related: "[[10-manuscript-architecture]], [[09-manuscript-integrity-audit]], [[0
 
 | | |
 |---|---|
-| **Status** | ❗ **OPEN. Spanish TEXTUAL NOTE written into ES Chapter 5. English needs no equivalent note.** |
+| **Status** | ❗ **OPEN, AND ESCALATED 2026-09-15. Spanish TEXTUAL NOTE written into ES Chapter 5. English needed no equivalent note AT CHAPTER 5 — that is no longer true; see the escalation row.** |
 | **RVR1960** | **"de los cuales son la adopción, la gloria, EL PACTO, la promulgación de la ley"** — ***singular*** |
 | **English witnesses** | **plural, "the covenants"** |
 | **Behind it** | ⚠️ **A known Greek variant, αἱ διαθῆκαι against ἡ διαθήκη. NOT ADJUDICATED HERE and NOT NEEDED — flagged for verification, not resolved.** |
 | **Affects the argument?** | **No. Chapter 5's point rests on what is listed as Israel's and on Romans 11:1's μὴ γένοιτο, not on the number of the noun.** |
+| **Escalated by** | ⚠️ **Part IV Chapter 20 (BOTH editions) originally read the plural as settled and offered it as *independent confirmation* of Chapter 13's several-covenants refinement. That silently adjudicated a variant Part I had deliberately left open. Corrected 2026-09-15: both editions now state that one well-attested reading has αἱ διαθῆκαι and another tradition has ἡ διαθήκη, that RVR1960 follows the singular, and that the project does not adjudicate it here. Romans 9:4 may NOT be used as independent confirmation of the several-covenants formulation unless the variant is later adjudicated.** |
+| **Also present in EN Part I** | ⚠️ **EN Chapter 5's Where-we-are says Paul "lists the covenants and the promises" — plural — in its summary. Part I is CLOSED and was NOT reopened for this (structural-debt rule). It is a summary of what Romans 9 lists rather than evidential support for the several-covenants refinement, so it does not carry the load Part IV was carrying. Revisit at whole-manuscript assembly if the variant is adjudicated then.** |
+| **Does Chapter 13 depend on it?** | ✅ **No — verified 2026-09-15. Chapter 13 does not cite Romans 9:4 anywhere, in either edition. The refinement stands on its own material; it simply may not claim this verse as support.** |
 | **Noted in passing** | ✅ **RVR1960 itself reads PLURAL at Ephesians 2:12, "ajenos a los pactos de la promesa." The Spanish edition is not internally uniform, and the note says so.** |
 | **Found by** | **Drafting ES Part I. Nobody was looking for it.** |
 

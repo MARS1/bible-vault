@@ -38,7 +38,7 @@ Sea cual sea el cambio pactual que trajo el Mesías, Pablo **no** ha reasignado 
 Cualquier lectura del versículo 6 que necesite que *Israel* haya sido transferido lejos de ellos tiene que pasar primero por el versículo 4, y el versículo 4 está en el mismo aliento. Yo nunca lo había notado, porque siempre llegaba a Romanos 9 buscando ya el versículo 6.
 :::
 
-Y un detalle del inventario que llegó como confirmación independiente de algo a lo que este libro había llegado siete etapas antes por otro camino: Pablo escribe **los pactos**, en plural — <span class="gr">διαθῆκαι</span> *(diathēkai)*. Abrahámico, sinaítico, davídico, y el nuevo prometido por Jeremías. Es la precisión del capítulo 13 —una sola historia pactual que contiene varios pactos— en la gramática de Pablo, y yo no vine aquí a buscarla.
+Y un detalle del inventario que volvió a poner delante una cuestión que este libro ya había encontrado. Una lectura griega bien atestiguada tiene **los pactos**, en plural — <span class="gr">διαθῆκαι</span> *(diathēkai)*—, mientras otra tradición textual tiene el singular, <span class="gr">ἡ διαθήκη</span>. La RVR1960 sigue esta última con *el pacto*. La variante ya quedó registrada en la Parte I, capítulo 5, y no la resuelvo aquí. Bajo la lectura plural el inventario nombraría el abrahámico, el sinaítico, el davídico y el nuevo prometido por Jeremías — la precisión del capítulo 13, una sola historia pactual que contiene varios pactos, en la gramática de Pablo. Pero esa precisión no puede descansar en este versículo mientras la variante siga abierta, y nunca descansó en él: el capítulo 13 no cita Romanos 9:4 en ninguna parte.
 
 ::: textualnote
 **Nota textual — deuda declarada**
