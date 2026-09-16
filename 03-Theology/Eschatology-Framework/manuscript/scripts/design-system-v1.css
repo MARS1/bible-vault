@@ -140,11 +140,44 @@ div.textualnote th, div.wordstudy th, div.historical th,
 div.evidence th, div.claimtypes th, div.finding th,
 div.openquestion th, div.commentary th { font-size: 7.8pt; }
 
-/* Column proportions are NOT set here. Pandoc emits its own
-   <colgroup><col style="width: N%"> from the pipe table's separator row, and an
-   inline style beats a stylesheet rule -- a 60% width set here rendered as 25%.
-   So proportions belong in the markdown separator row (dash counts), per table,
-   which also lets each table take the shape its own content needs. */
+/* The box-heading rule above (uppercase, 0.1em tracking) was written for a
+   callout's single opening label and leaks into every table cell, because a
+   cell's bold run is also a strong:first-child. Display tracking on dense
+   tabular data costs real width -- 0.1em across "FOR THE SAKE OF" is ~13pt at
+   8.8pt, which was enough to push OF onto its own line and split a preposition
+   phrase the row comparison depends on. Row labels keep the uppercase look;
+   they give up the display tracking. */
+div.textualnote td strong:first-child,
+div.wordstudy td strong:first-child,
+div.historical td strong:first-child,
+div.evidence td strong:first-child,
+div.claimtypes td strong:first-child,
+div.finding td strong:first-child,
+div.openquestion td strong:first-child,
+div.commentary td strong:first-child {
+  letter-spacing: 0.04em;
+}
+
+/* Column proportions are NOT settable here, and the reason is worth recording.
+   Pandoc emits its own <colgroup><col style="width: N%"> derived from the pipe
+   table's separator row, and an inline style beats a stylesheet rule -- a 60%
+   width set in CSS rendered as 25%. Proportions therefore live in the markdown
+   separator row (dash counts), per table.
+
+   THE CONVENTION EVERY TECHNICAL COMPARISON TABLE FOLLOWS, since the mechanism
+   cannot be centralised even though the rule should be:
+
+     1. The original-language column takes the LARGEST share. It carries the
+        evidence and it cannot be abbreviated.
+     2. The verdict/rendering column takes the SECOND largest, sized so its
+        emphasized phrase survives on one line -- "FOR THE SAKE OF" breaking
+        after SAKE destroys the row comparison the aside exists to make.
+     3. Label and short-term columns take what is left. A row label wrapping to
+        three lines is acceptable; a fragmented verdict phrase is not.
+
+   Romans 11:26 three-witness table, both editions: 18/34/16/32.
+   Equal-width columns are always wrong here -- they starve the evidence column
+   to feed labels that could have wrapped harmlessly. */
 
 /* Original scripts stay comfortably readable even when the English metadata
    around them shrinks. This is the whole point of the aside. */

@@ -108,7 +108,7 @@ The second is larger, and it is the strongest thing in this chapter.
 **Textual note — three witnesses, three prepositions, and Paul matches neither source**
 
 | Witness | Text | Preposition | Direction |
-|-----------------------------|-------------------------|-----------------------|-----------------------|
+|------------------|----------------------------------|----------------|--------------------------------|
 | **MT Hebrew** | <span class="he">וּבָא לְצִיּוֹן גּוֹאֵל</span> | <span class="he">לְ</span> *(l')* | **TO** Zion |
 | **LXX** | <span class="gr">καὶ ἥξει ἕνεκεν Σιὼν ὁ ῥυόμενος</span> | <span class="gr">ἕνεκεν</span> *(heneken)* | **FOR THE SAKE OF** Zion |
 | **Paul, Romans 11:26** | <span class="gr">Ἥξει ἐκ Σιὼν ὁ Ῥυόμενος</span> | <span class="gr">ἐκ</span> *(ek)* | **OUT OF / FROM** Zion |

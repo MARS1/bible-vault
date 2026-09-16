@@ -102,7 +102,7 @@ La segunda es mayor, y es lo más fuerte de este capítulo.
 **Nota textual — tres testigos, tres preposiciones, y Pablo no coincide con ninguna fuente**
 
 | Testigo | Texto | Preposición | Dirección |
-|--------------------------------|--------------------------|---------------------|---------------------|
+|------------------|----------------------------------|----------------|--------------------------------|
 | **TM hebreo** | <span class="he">וּבָא לְצִיּוֹן גּוֹאֵל</span> | <span class="he">לְ</span> *(l')* | **A** Sion |
 | **LXX** | <span class="gr">καὶ ἥξει ἕνεκεν Σιὼν ὁ ῥυόμενος</span> | <span class="gr">ἕνεκεν</span> *(heneken)* | **POR CAUSA DE** Sion |
 | **Pablo, Romanos 11:26** | <span class="gr">Ἥξει ἐκ Σιὼν ὁ Ῥυόμενος</span> | <span class="gr">ἐκ</span> *(ek)* | **DE / DESDE** Sion |
