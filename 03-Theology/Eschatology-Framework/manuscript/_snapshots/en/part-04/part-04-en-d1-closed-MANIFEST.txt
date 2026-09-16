@@ -1,0 +1,11 @@
+Edition:        English (en)
+Part:           4  Part IV: Israel, the Nations, and the Commission
+Milestone:      d1-closed
+Source commit:  b63cb6858a428951468a810ade45cf82cbb9d6b3
+Commit date:    2026-09-15
+Tree state:     source committed at this commit
+Built:          2026-09-16
+Extent:         10,686 words, 60 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit b63cb68
