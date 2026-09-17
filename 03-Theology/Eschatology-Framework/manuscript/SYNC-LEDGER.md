@@ -267,6 +267,21 @@ related: "[[10-manuscript-architecture]], [[09-manuscript-integrity-audit]], [[0
 
 ---
 
+## SYNC-019 — Part V's RVR1960 debt, and the one item that may not reach publication undone
+
+| | |
+|---|---|
+| **Status** | ❗ **OPEN — RETRIEVAL DEBT, declared in the prose of every ES Part V chapter rather than hidden.** |
+| **Quoted because verified** | **Mateo 24:3 · Mateo 28:18-20 · Daniel 12:1-4 · Daniel 12:13 · Hebreos 9:26 · 1 Corintios 10:11** |
+| **Described, not quoted** | **Mateo 13:36-52 · Mateo 12:32 · Mateo 24:15, 24:21 · Marcos 10:29-30 · Lucas 4:16-21 · Lucas 17:26-37 · Lucas 20:27, 20:34-36 · Lucas 21:20-24, 21:32 · Juan 5:24-29 · Efesios 1:20-21 · 1 Corintios 15:12, 15:20-26, 15:42-57 · Hebreos 2:5, 6:4-5, 8:13, 9:28 · 1 Tesalonicenses 4:16-17 · Isaías 61:1-2 · Zacarías 14:16-19 · Ezequiel 37 · Apocalipsis 1:1-3, 6:9-11, 22:10** |
+| **What it refused to do** | ❗ **Render an English quotation into Spanish and present it as RVR1960.** Same refusal as SYNC-006. |
+| 🛑 **THE ONE THAT MAY NOT SHIP DESCRIBED** | ❗❗ **JUAN 5:24-29.** The Part V review named it specifically. Chapter 27's central finding is that John marks the two resurrection categories himself, and the whole distinction hangs on one clause — ***"y ahora es"*** at v25 against its absence at v28. **A described paraphrase can state that distinction; it cannot let the Spanish reader SEE it.** In a finished edition that is a real loss, not a stylistic one. |
+| **Priority order to close** | **① Juan 5:24-29 ② Mateo 13:36-52 (three of the five *synteleia* occurrences) ③ Lucas 20:34-36 and 1 Corintios 15:42-57 ④ the remainder** |
+| **To close** | Verify each against RVR1960, add to [[05-scripture-index]], convert the descriptions to quotations, rebuild and take a new ES milestone. |
+| **Not a Draft 1 blocker** | ✅ **Part V was cleared in both editions with this debt open and declared. This entry exists so it is closed deliberately before publication rather than discovered at typesetting.** |
+
+---
+
 > ### **① A translation witness is evidence about ***that translation***. It is never evidence about the Greek or the Hebrew.**
 > ### **② If Spanish work exposes an evidentiary problem affecting BOTH editions, BOTH canonical editions get corrected. "English is already done" is not an answer.**
 > ### **③ A purely Spanish rendering issue gets a Spanish TEXTUAL NOTE and does NOT change English prose.**

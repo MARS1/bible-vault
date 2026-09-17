@@ -41,6 +41,7 @@ related: "[[10-manuscript-architecture]], [[SYNC-LEDGER]], [[02j-translation-arc
 | `me apretaba` | **`me presionaba`** | 2026-09-10 |
 | `se quedaron con el lugar` | **`se apoderaron del lugar`** | 2026-09-10 |
 | `plata` *(money)* · `pibe` · `laburo` · `che` · voseo | ❗ **never** | 2026-09-10 |
+| direct reader address in *usted* (`el capítulo que usted está leyendo`) | **restrained international *tuteo*, or rephrase without addressing the reader** | 2026-09-17 |
 
 **⚠️ MENTIONING the pronoun still trips the checker, and that is correct.** ES Part II hit one
 prose-*vosotros* flag on a legitimate *mention* — `ese *vosotros* se desplaza`, referring to the
@@ -55,6 +56,15 @@ use, and teaching it to would open a loophole for the real thing. **Rephrase ins
 > ✅ *"si un creyente que ha recibido algo verdadero **puede decidir, como postura permanente, guardar silencio al respecto**"*
 
 ---
+
+**⚠️ READER ADDRESS IS NOT COVERED BY THE AUTOMATED CHECK, AND THE PART V REVIEW FOUND IT.** ES Part V Chapter 25
+addresses the reader as *usted* in two places while the rest of the edition uses restrained international *tuteo*
+or simply does not address the reader at all. The register checker passed the chapter clean, because the checker
+looks for regionalisms and prose-*vosotros*, not for second-person consistency. **Recorded as a copyedit item, NOT
+as grounds to reopen a cleared Part** — the reviewer explicitly declined to treat it as a Draft 1 blocker. Sweep it
+in the later Spanish copyedit pass, across all Parts at once, so the edition ends up consistent rather than
+patched chapter by chapter.
+
 
 ## 2b. Cosmological terminology *(both editions, not just Spanish)*
 
