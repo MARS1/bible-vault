@@ -185,6 +185,23 @@ table .gr, table .he { font-size: 1.1em; line-height: 1.5; }
 
 /* ---------- original languages ---------- */
 .gr, .he { font-family: "SBL Greek", "New Athena Unicode", "Times New Roman", serif; }
+
+/* Original-language spans opt OUT of every label treatment above, wherever they
+   sit. On polytonic Greek, text-transform is not a style choice -- it is
+   corruption. Lowercase Greek carries its breathings and accents inline, and
+   mechanical uppercasing strips or detaches them: in the Revelation 20 aside
+   of Part VI, an aside whose entire argument is that one verb governs two
+   adjacent verses, the box-label rule rendered the evidence as
+   "Α῎ΥΤΗ Ἡ ἈΝΆΣΤΑΣΙΣ Ἡ ΠΡΏΤΗ". Letter-spacing separates a diacritic from its
+   letter for the same reason. Inheritance is the mechanism here, so these
+   declarations win on the span regardless of the specificity of the strong or
+   th rule wrapping it -- the span only has to declare them itself.
+
+   Caught by rendering the page to an image. pdftotext had reported the
+   uppercased forms back as though they were the source text, which is the
+   third time in this manuscript that text extraction has confirmed something
+   the page does not actually say. */
+.gr, .he { text-transform: none; letter-spacing: normal; font-variant: normal; }
 .he { direction: rtl; unicode-bidi: embed; font-size: 1.1em; }
 
 /* ---------- lists: used sparingly, when structure IS the point ---------- */
