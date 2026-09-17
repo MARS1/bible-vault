@@ -1850,7 +1850,9 @@ Greek — VERIFIED: **τηρεῖν** *tērein*, **5083**, present infinitive ac
 **Intratextual control on Matthew as a whole: 5:17 opens with *not abolish but fulfil*; 28:20 closes with *observe everything I commanded*. Matthew does not present grace as "no commands."**
 RVR1960: "enseñándoles que guarden todas las cosas que os he mandado;"
 
-### 🔑🔑 Matthew 28:20b — and the four-occurrence συντέλεια survey, ALL VERIFIED
+### 🔑🔑 Matthew 28:20b — and the five-occurrence συντέλεια survey, ALL VERIFIED
+
+> ⚠️ **CORRECTED 2026-09-17 — originally indexed as four; Matthew 13:40 was omitted. Five: 13:39 · 13:40 · 13:49 · 24:3 · 28:20. See [[01f-matthew-28-the-great-commission-in-context]] §11a.**
 
 ESV: "**And behold, I am with you always, to the end of the age.**"
 Greek — VERIFIED: **ἕως τῆς συντελείας τοῦ αἰῶνος** — *heōs* (2193) + **συντελείας (4930)** + **αἰῶνος (165)**.

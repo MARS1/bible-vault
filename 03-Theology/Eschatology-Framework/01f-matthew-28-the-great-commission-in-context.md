@@ -162,7 +162,9 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[01d-had-the-gos
 
 ---
 
-## 11. 🔑🔑 THE INTRATEXTUAL SURVEY — All Four Occurrences Verified
+## 11. 🔑🔑 THE INTRATEXTUAL SURVEY — All Five Occurrences Verified
+
+> ### ⚠️ **CORRECTED 2026-09-17. THIS SURVEY ORIGINALLY LISTED FOUR OCCURRENCES AND MISSED MATTHEW 13:40. That omission is the ROOT of the four-count that propagated to Stage 27, Stage 29 and Stage 43. See §11a.**
 
 **Matthew 28:20's closing clause is where the eschatological question reopens.**
 
@@ -176,17 +178,36 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[01d-had-the-gos
 | Reference | Greek | Strong's | Context |
 |---|---|---|---|
 | **Matthew 13:39** | συντέλεια αἰῶνός | **4930 + 165** | **parable of the weeds — harvest, angels as reapers** |
+| **Matthew 13:40** ⚠️ | ἐν τῇ συντελείᾳ τοῦ αἰῶνος | **4930 + 165** | **the weeds APPLIED — *so will it be at the end of the age*; fiery furnace, righteous shining** ***(ADDED 2026-09-17 — omitted from the original survey; verified at Stage 27 within the 13:36–43 block)*** |
 | **Matthew 13:49** | τῇ συντελείᾳ τοῦ αἰῶνος | **4930 + 165** | **parable of the net — angels separate evil from righteous** |
 | **Matthew 24:3** | συντέλεια τοῦ αἰῶνος | **4930 + 165** | **the disciples' Olivet question** |
 | **Matthew 28:20** | ἕως τῆς συντελείας τοῦ αἰῶνος | **4930 + 165** | **the Commission's duration clause** |
 
-> ### ❗❗ **ALL FOUR ARE THE SAME PHRASE — συντέλεια + αἰών — VERIFIED INDEPENDENTLY BY RETRIEVAL. This is a MATTHEW-DISTINCTIVE expression, and the Great Commission's own duration clause uses it.**
+> ### ❗❗ **ALL FIVE ARE THE SAME PHRASE — συντέλεια + αἰών — VERIFIED INDEPENDENTLY BY RETRIEVAL. This is a MATTHEW-DISTINCTIVE expression, and the Great Commission's own duration clause uses it.**
+
+### ⚠️ §11a. CORRECTION — the survey missed Matthew 13:40
+
+**Recorded 2026-09-17, during English Part V review.**
+
+**The original survey listed 13:39, 13:49, 24:3 and 28:20 — four occurrences. It omitted Matthew 13:40, where the weeds parable's interpretation is applied: *"so will it be at the end of the age"* — <span class="gr">ἐν τῇ συντελείᾳ τοῦ αἰῶνος</span>.**
+
+> ### ❗ **THE CORRECT COUNT IS FIVE: 13:39 · 13:40 · 13:49 · 24:3 · 28:20 — with THREE inside Matthew 13.**
+
+**Where the error travelled.** Stage 26 is the origin. **Stage 27** inherited it and built its enumeration on it (§5/§7/§11 there, corrected the same day). **Stage 29** and **Stage 43** each refer back to "Stage 26's four *synteleia* occurrences" and are corrected to five.
+
+**How it was caught.** Drafting English Part V Chapter 25 from Stage 27. The chapter quoted 13:39–40 and 13:47–50 as separate scripture blocks, which placed all three chapter-13 instances on the page beneath an enumeration claiming two. **ChatGPT's Part V review identified the discrepancy. The manuscript was corrected first; the Vault second.**
+
+> ### ✅ **THE ARGUMENT IS STRENGTHENED, NOT WEAKENED. Matthew attaches this expression to harvest, angels, separation and fiery judgment THREE TIMES within one chapter before Olivet. The Commission's duration clause therefore joins a denser intratextual pattern than this stage originally reported.**
+
+> ### 🛑 **NOT A RETROSPECTIVE REWRITE. The original survey did miss a verse, it was caught downstream in manuscript review rather than here, and both facts stay on the record. The table above is corrected so that no sibling edition inherits the wrong count from the evidentiary authority; this note explains why the numbering differs from what a reader may remember.**
+
+---
 
 ### What this establishes — and what it does not
 
 **✅ ESTABLISHED:** Matthew 28:20's duration clause is **lexically identical** to the phrase in the Olivet question and in two parabolic judgment scenes. **The Commission's "until" is expressed in Matthew's own age-consummation vocabulary, not in generic language.**
 
-**❌ NOT ESTABLISHED:** that all four denote the **same event**.
+**❌ NOT ESTABLISHED:** that all five denote the **same event**.
 
 > ### 🚧 **THE BRAKE, AND IT IS THE SAME ONE THAT KILLED THE STAGE 23 BRIDGE: IDENTICAL PHRASING DOES NOT PROVE IDENTICAL REFERENT — any more than three shared lemmas proved independent corroboration, or a shared *plēroō* proved two fulfilments were the same kind of event.**
 >
@@ -324,9 +345,9 @@ If the Commission were tied to a first-century age-ending horizon, an objection 
 
 **The grammatical detail did more work than expected.** *"Go"* being a participle rather than the imperative is the kind of fact that sounds like trivia and then reorganizes the passage: **the commission's centre is formation, not travel** — which simultaneously makes it **broader** than the popular reading (baptism, teaching, obedience) and **harder to universalize** as a personal travel mandate.
 
-**The four-occurrence survey was run because the methodology required it, not because a result was anticipated.** Intratextual Priority says: *how does this author use this expression elsewhere?* **Matthew uses συντέλεια τοῦ αἰῶνος four times, and the Commission's duration clause is one of them.** That was not obvious from English, where 13:39's "end of the world" (older renderings), 24:3's "end of the age," and 28:20's "end of the age" do not visibly align.
+**The intratextual survey was run because the methodology required it, not because a result was anticipated.** *(It was originally reported as a four-occurrence survey; it is five — see §11a.)* Intratextual Priority says: *how does this author use this expression elsewhere?* **Matthew uses συντέλεια τοῦ αἰῶνος five times, and the Commission's duration clause is one of them.** That was not obvious from English, where 13:39's "end of the world" (older renderings), 24:3's "end of the age," and 28:20's "end of the age" do not visibly align.
 
-**And the brake had to be applied against a result the project wanted.** Four identical phrases in one Gospel is *strong* — and Stage 23 already demonstrated exactly how a lexical-identity argument fails. **The lexical half of q85 closed; the referential half was left open, and left open deliberately in the stage where closing it would have been most satisfying.**
+**And the brake had to be applied against a result the project wanted.** Five identical phrases in one Gospel is *strong* — and Stage 23 already demonstrated exactly how a lexical-identity argument fails. **The lexical half of q85 closed; the referential half was left open, and left open deliberately in the stage where closing it would have been most satisfying.**
 
 **On the terminology pass:** the second sweep corrected phrases *introduced by the first sweep* the same day — "global scope" had become "world-wide scope," which the extended rule also forbids. **A correction that itself required correcting is worth recording, not tidying away.** It also caught the project's **own destination statement**, which had carried "worldwide" since Stage 21½.
 

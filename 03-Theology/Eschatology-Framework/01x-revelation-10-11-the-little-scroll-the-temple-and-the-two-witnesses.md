@@ -99,7 +99,7 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[01t-revelation-
 
 > ### **THAT TAKES US STRAIGHT BACK TO DANIEL. Revelation's chronology is using DANIELIC TIME ARCHITECTURE, and Daniel 7, 9 and 12 will have to be compared with Revelation's 42 months / 1,260 days / three-and-a-half times.**
 >
-> ### 🚧 **CAREFULLY: SAME DURATION DOES NOT AUTOMATICALLY MEAN SAME EVENT.** *(The standing brake — same as the trumpets, q100, and the four *synteleia* occurrences, Stage 26.)* **Open question q156.**
+> ### 🚧 **CAREFULLY: SAME DURATION DOES NOT AUTOMATICALLY MEAN SAME EVENT.** *(The standing brake — same as the trumpets, q100, and the five *synteleia* occurrences, Stage 26 *(corrected 2026-09-17; originally reported as four)*.)* **Open question q156.**
 
 ---
 

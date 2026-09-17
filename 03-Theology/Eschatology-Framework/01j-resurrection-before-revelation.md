@@ -159,7 +159,7 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[01i-this-age-an
 
 > ### 🚧 **THEY MAY NOT BE EQUATED AUTOMATICALLY. The same symbol may or may not mean the same event. SIMILARITY → QUESTION, NOT IDENTITY.**
 
-**This is the same brake that killed the Stage 23 shared-lemma bridge and bounded Stage 26's four *synteleia* occurrences.** *(The trumpet comparison is already a standing bookmark in [[04-open-questions]].)*
+**This is the same brake that killed the Stage 23 shared-lemma bridge and bounded Stage 26's five *synteleia* occurrences *(corrected 2026-09-17 — originally reported as four; see [[01f-matthew-28-the-great-commission-in-context]] §11a)*.** *(The trumpet comparison is already a standing bookmark in [[04-open-questions]].)*
 
 ---
 

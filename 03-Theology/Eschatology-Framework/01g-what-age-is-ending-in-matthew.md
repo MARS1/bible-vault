@@ -6,7 +6,7 @@ tags: [eschatology, synteleia, aion, kosmos, matthew-13, matthew-24, matthew-28,
 reference: Matthew 13:24-30, 13:36-43, 13:47-52; Matthew 12:32; Matthew 23:36; Matthew 24:3, 24:14, 24:34; Matthew 28:20; Daniel 12:1-4, 12:13; Hebrews 8:13; Ephesians 2:20
 created: 2026-08-16
 status: active
-localization: "English research witnesses: ESV verified by retrieval. Original-language basis: Greek (synteleia, aiōn, kosmos) + Hebrew (rabbim, Daniel 12:2). Matthew 13:36-43, 13:47-52, 12:32, Daniel 12:1-4, 12:13, Hebrews 8:13 ALL VERIFIED THIS PASS — closes most of q88. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "English research witnesses: ESV verified by retrieval. Original-language basis: Greek (synteleia, aiōn, kosmos) + Hebrew (rabbim, Daniel 12:2). Matthew 13:36-43, 13:47-52, 12:32, Daniel 12:1-4, 12:13, Hebrews 8:13 ALL VERIFIED THIS PASS — closes most of q88. ⚠️ CORRECTED 2026-09-17 (see §5a): this stage originally enumerated FOUR occurrences of synteleia tou aiōnos in Matthew. The correct count is FIVE — 13:39, 13:40, 13:49, 24:3, 28:20 — with THREE inside chapter 13. Caught during English Part V review. Headings §5, §7, §11 and §21 corrected; the original error is recorded rather than erased. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
 related: "[[00-methodology-current]], [[00a-narrative-spine]], [[01f-matthew-28-the-great-commission-in-context]], [[00g-matthew-24-and-the-oikoumene]], [[01h-who-is-alive-during-and-after-the-thousand-years]]"
 ---
 
@@ -71,7 +71,9 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[01f-matthew-28-
 
 ---
 
-## 5. The Second Occurrence Confirms the Pattern
+## 5. The Third Occurrence Confirms the Pattern
+
+*(Enumeration corrected — see §5a. This dragnet instance is the THIRD in Matthew, not the second: 13:39 and 13:40 both precede it.)*
 
 > **Matthew 13:47–50** — ESV, **VERIFIED**: a net "gathered fish of every kind… **So it will be at the end of the age. The angels will come out and separate the evil from the righteous** and throw them into the fiery furnace."
 
@@ -88,6 +90,30 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[01f-matthew-28-
 
 ---
 
+## 5a. ⚠️ CORRECTION — the Enumeration in This Stage Was Wrong
+
+**Recorded 2026-09-17, during English Part V review. The original Stage 27 enumeration counted FOUR occurrences of <span class="gr">συντέλεια τοῦ αἰῶνος</span> in Matthew. That was an error, and this stage propagated it into headings §5, §7, §11 and into §21's "four uses."**
+
+### The correct count is FIVE
+
+| # | Reference | Where |
+|---|---|---|
+| **1** | **Matthew 13:39** | the interpretation — *the harvest is the end of the age* |
+| **2** | **Matthew 13:40** | the application — *so will it be at the end of the age* |
+| **3** | **Matthew 13:49** | the dragnet — *so it will be at the end of the age* |
+| **4** | **Matthew 24:3** | the disciples' question on the Mount of Olives |
+| **5** | **Matthew 28:20** | *until the consummation of the age* |
+
+> ### ❗ **THE ORIGINAL ERROR: chapter 13 was treated as containing TWO occurrences. It contains THREE. 13:39 and 13:40 are separate instances — the interpretation states the equation, and the application restates it — and the dragnet at 13:49 is the third.**
+
+**How it was caught:** drafting English Part V Chapter 25 from this stage. The chapter quoted 13:39–40 and 13:47–50 as separate blocks, which put all three instances on the page under an enumeration that said there were two. **ChatGPT's Part V review identified the discrepancy; the manuscript was corrected first and this stage second.**
+
+> ### ✅ **THE ARGUMENT STRENGTHENS RATHER THAN WEAKENS. Matthew loads the expression with harvest, angels, gathering, separation and fiery judgment THREE SEPARATE TIMES inside one chapter before the Olivet discourse is ever reached. The intratextual correspondence in §8 rests on more instances than this stage originally claimed, not fewer.**
+
+> ### 🛑 **PROVENANCE PRESERVED DELIBERATELY. This section is NOT a retrospective rewrite. The original investigation did contain the counting mistake, the mistake was caught downstream in manuscript review rather than here, and that sequence is part of the record. The headings above are corrected so no sibling edition inherits the wrong count from the evidentiary authority; this note is why they no longer match the numbering a reader may remember.**
+
+---
+
 ## 6. And Immediately After — "New and Old"
 
 > **Matthew 13:51–52** — ESV, **VERIFIED**: "'Have you understood all these things?' They said to him, 'Yes.' And he said to them, '**Therefore every scribe who has been trained for the kingdom of heaven is like a master of a house, who brings out of his treasure what is new and what is old.**'"
@@ -98,7 +124,7 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[01f-matthew-28-
 
 ---
 
-## 7. Matthew 24 — the Third Occurrence, and Its Setting
+## 7. Matthew 24 — the Fourth Occurrence, and Its Setting
 
 **Matthew 23 pronounces judgment on "this generation." Then the Temple: "there will not be left here one stone upon another." Then, privately:**
 
@@ -162,11 +188,11 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[01f-matthew-28-
 
 ---
 
-## 11. The Fourth Occurrence — and the Sharpened Question
+## 11. The Fifth Occurrence — and the Sharpened Question
 
 > **Matthew 28:20** — "I am with you all the days, **until the consummation of the age**."
 
-**Matthew has now attached this phrase to:** harvest · judgment · angels · separation *(ch. 13)* · Temple judgment · coming · gathering · "this generation" *(ch. 24)* — **and now to the DURATION of the apostolic disciple-making commission.**
+**This is the fifth and final occurrence. Matthew has now attached this phrase to:** harvest · judgment · angels · separation *(ch. 13, THREE times — 13:39, 13:40, 13:49)* · Temple judgment · coming · gathering · "this generation" *(ch. 24)* — **and now to the DURATION of the apostolic disciple-making commission.**
 
 > ### **That cannot be ignored, and Stage 26 established it lexically. This stage asks what follows.**
 
@@ -300,7 +326,7 @@ related: "[[00-methodology-current]], [[00a-narrative-spine]], [[01f-matthew-28-
 
 **The strongest finding of this stage came from two adjacent clauses.** *"The field is the **kosmos**… the harvest is the **synteleia tou aiōnos**"* — **Matthew distinguishes the two words inside one interpretation.** Every argument this project has made about not collapsing *kosmos*, *oikoumenē*, *gē*, and *aiōn* now has an author-internal warrant, and it was found by retrieving a passage rather than by reasoning about one.
 
-**The Equivalent-Scope Burden reversed direction here.** At Stage 25 it **destroyed** a preterist bridge (Paul never chooses *oikoumenē*). At Stage 27 it **supports** one (Matthew surrounds his four uses with the same imagery). **A rule that only ever helped would be a bias with a rule's name on it.**
+**The Equivalent-Scope Burden reversed direction here.** At Stage 25 it **destroyed** a preterist bridge (Paul never chooses *oikoumenē*). At Stage 27 it **supports** one (Matthew surrounds his five uses with the same imagery — three of them inside chapter 13). **A rule that only ever helped would be a bias with a rule's name on it.**
 
 **Matthew 13:52's "new and old" was deliberately not used.** It is the most quotable verse in the chapter for this project's covenant argument and the most tempting to over-read. Recorded as resonance.
 
