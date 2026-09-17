@@ -61,9 +61,9 @@ related: "[[10-manuscript-architecture]], [[09-manuscript-integrity-audit]], [[0
 
 | | |
 |---|---|
-| **Status** | ✅ **RESOLVED BY DESIGN. The Spanish reader is better served than the English one, and ES Chapter 7 says so instead of importing an English-only complaint.** |
+| **Status** | ⚠️ **PARTIALLY RESOLVED — NARROWED 2026-09-17. At 24:3 the Spanish reader IS better served, and ES Chapter 7 correctly says so. The entry's broader claim about RVR1960 as a whole does not hold; see SYNC-017. ES Chapter 7 sits in a CLOSED Part and is NOT reopened — its statement is true of 24:3, which is the verse it discusses.** |
 | **Greek** | **συντέλεια τοῦ αἰῶνος** — *aiōn*, an age, not *kosmos* |
-| **RVR1960** | **"y del fin DEL SIGLO"** — correct, and never offers "fin del mundo" |
+| **RVR1960** | **"y del fin DEL SIGLO"** — correct **at 24:3**. ⚠️ **CORRECTED 2026-09-17: the original claim "never offers *fin del mundo*" was too broad and is FALSE. At Matthew 28:20 RVR1960 reads "hasta el fin DEL MUNDO." See SYNC-017.** |
 | **English witnesses** | Many render **"the end of the world"**, handing the reader a conclusion before the discourse begins |
 | **Why it matters** | 📐 **EN Chapter 7 spends a paragraph rescuing its reader from a mistranslation the Spanish reader never receives. Reproducing that paragraph in Spanish would be describing a problem that does not exist for that reader — a prose divergence that is REQUIRED, not tolerated.** |
 | **Affects the argument?** | **No. The brake still applies in both editions: *aiōn* at 24:3 is explicit text; what ends when an age ends is not.** |
@@ -233,6 +233,40 @@ related: "[[10-manuscript-architecture]], [[09-manuscript-integrity-audit]], [[0
 
 > ### 🛑 **STANDING RULES**
 >
+## SYNC-017 — RVR1960 renders the SAME Greek expression two different ways in one Gospel
+
+| | |
+|---|---|
+| **Status** | ❗ **OPEN — a genuine Spanish-edition datum, surfaced while drafting ES Part V Chapter 25.** |
+| **Greek** | <span class="gr">συντέλεια τοῦ αἰῶνος</span> at **both** Matthew 24:3 and Matthew 28:20 |
+| **RVR1960 at 24:3** | **"y del fin DEL SIGLO"** — *siglo*, an age. Correct. |
+| **RVR1960 at 28:20** | **"hasta el fin DEL MUNDO"** — ***mundo***, the word that answers to <span class="gr">κόσμος</span> — **and κόσμος is not in the verse** |
+| **Why it matters** | ❗❗ **ES Chapter 25's entire argument is that *aiōn* and *kosmos* must not be collapsed, and that Matthew himself proves it by using both in adjacent clauses at 13:38–39. At 28:20 the Spanish reader's own Bible performs exactly the collapse the chapter is dismantling — and it does so at the fifth and final occurrence.** |
+| **What ES Part V did** | Quoted **both** verses (both verified) and carried a TEXTUAL NOTE laying the two renderings side by side. The Spanish chapter is **stronger** here than the English one, which has no equivalent internal inconsistency to point at. |
+| **Affects the argument?** | **No, and the direction matters.** The Greek is unchanged; this is a translation witness. It does not strengthen or weaken the *aiōn*/*kosmos* distinction — it changes what the Spanish reader has to be walked through. |
+| **Corrects** | **SYNC-004**, whose claim that RVR1960 "never offers *fin del mundo*" was too broad. Narrowed rather than deleted: at 24:3 the observation stands. |
+| **Closed Parts** | 🛑 **ES Chapter 7 (Part II, CLOSED) says the Spanish reader is better served. That is TRUE OF 24:3, the verse it discusses. Part II is NOT reopened.** Revisit at assembly only if the statement is ever generalized beyond 24:3. |
+| **Found by** | **Drafting ES Part V from the verified scripture index. Nobody was looking for it.** |
+| **Rule applied** | ③ — a purely Spanish rendering issue gets a Spanish textual note and does not change English prose. |
+
+---
+
+## SYNC-018 — Daniel 12:4, RVR1960 *la ciencia se aumentará*
+
+| | |
+|---|---|
+| **Status** | ❗ **OPEN — Spanish-specific anachronism pressure, surfaced in ES Part V Chapter 29.** |
+| **Hebrew** | <span class="he">הַדָּעַת</span> *(ha-daʿat)* — **the** knowledge, with the definite article |
+| **RVR1960** | **"Muchos correrán de aquí para allá, y LA CIENCIA se aumentará"** |
+| **The issue** | ⚠️ **In 1960 Spanish, *ciencia* naturally meant *knowledge, learning*. In contemporary Spanish it is heard first as *natural science*.** The drift is in the Spanish word's own history, not in the Hebrew. |
+| **Why it matters** | ❗ **The anachronistic reading — aeroplanes, cars, the internet — is MORE tempting for the Spanish reader than for the English one, whose versions read *knowledge*. The Spanish edition therefore has to work harder at exactly the point where EN Chapter 29 simply declines the modern reading.** |
+| **What ES Part V did** | Kept the RVR1960 wording verbatim, and added a WORD STUDY box naming the semantic drift explicitly, with the two contextual controls (the clause sits immediately after the sealing command and immediately before Daniel says he does not understand). |
+| **Affects the argument?** | **No.** The contextual reading is presented as a live competitor in both editions, and neither edition asserts it. The Spanish note describes a translation-reception problem, not a lexical finding about Hebrew. |
+| **Found by** | **Drafting ES Part V Chapter 29 against the verified RVR1960 text of Daniel 12:1–4.** |
+| **Rule applied** | ①, ③ — a translation witness is evidence about that translation; the Spanish issue gets a Spanish note. |
+
+---
+
 > ### **① A translation witness is evidence about ***that translation***. It is never evidence about the Greek or the Hebrew.**
 > ### **② If Spanish work exposes an evidentiary problem affecting BOTH editions, BOTH canonical editions get corrected. "English is already done" is not an answer.**
 > ### **③ A purely Spanish rendering issue gets a Spanish TEXTUAL NOTE and does NOT change English prose.**

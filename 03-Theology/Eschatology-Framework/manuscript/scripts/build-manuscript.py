@@ -55,7 +55,9 @@ PARTS = {
            3: ("Parte III: Lo que el nuevo pacto cambió realmente",
                ["ch13-", "ch14-", "ch15-", "ch16-", "ch17-", "ch18-", "ch19-"]),
            4: ("Parte IV: Israel, las naciones y la comisión",
-               ["ch20-", "ch21-", "ch22-", "ch23-", "ch24-"])},
+               ["ch20-", "ch21-", "ch22-", "ch23-", "ch24-"]),
+           5: ("Parte V: Las edades, la resurrección y la puerta a Apocalipsis",
+               ["ch25-", "ch26-", "ch27-", "ch28-", "ch29-"])},
 }
 
 CSS = (Path(__file__).resolve().parent / "design-system-v1.css").read_text()
