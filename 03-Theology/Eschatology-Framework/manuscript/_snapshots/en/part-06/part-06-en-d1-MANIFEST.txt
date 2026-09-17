@@ -1,0 +1,11 @@
+Edition:        English (en)
+Part:           6  Part VI: Revelation, Read Through Earlier Scripture
+Milestone:      d1
+Source commit:  bc101623bfe8a737acd19f2429b0d2205d7240bb
+Commit date:    2026-09-17
+Tree state:     source committed at this commit
+Built:          2026-09-17
+Extent:         42,472 words, 234 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit bc10162
