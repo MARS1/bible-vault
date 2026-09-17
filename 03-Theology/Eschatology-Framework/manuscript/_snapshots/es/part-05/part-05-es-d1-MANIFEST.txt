@@ -1,0 +1,11 @@
+Edition:        Español (es)
+Part:           5  Parte V: Las edades, la resurrección y la puerta a Apocalipsis
+Milestone:      d1
+Source commit:  a6c5e9859e752acfad61225a00131102f01367c1
+Commit date:    2026-09-17
+Tree state:     source committed at this commit
+Built:          2026-09-17
+Extent:         15,878 words, 83 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit a6c5e98
