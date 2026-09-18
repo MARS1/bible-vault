@@ -60,7 +60,10 @@ PARTS = {
            4: ("Parte IV: Israel, las naciones y la comisión",
                ["ch20-", "ch21-", "ch22-", "ch23-", "ch24-"]),
            5: ("Parte V: Las edades, la resurrección y la puerta a Apocalipsis",
-               ["ch25-", "ch26-", "ch27-", "ch28-", "ch29-"])},
+               ["ch25-", "ch26-", "ch27-", "ch28-", "ch29-"]),
+           6: ("Parte VI: Apocalipsis, leído a través de la Escritura anterior",
+               ["ch30-", "ch31-", "ch32-", "ch33-", "ch34-",
+                "ch35-", "ch36-", "ch37-", "ch38-", "ch39-"])},
 }
 
 CSS = (Path(__file__).resolve().parent / "design-system-v1.css").read_text()

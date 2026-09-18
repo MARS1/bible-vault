@@ -280,6 +280,47 @@ related: "[[10-manuscript-architecture]], [[09-manuscript-integrity-audit]], [[0
 | **To close** | Verify each against RVR1960, add to [[05-scripture-index]], convert the descriptions to quotations, rebuild and take a new ES milestone. |
 | **Not a Draft 1 blocker** | ✅ **Part V was cleared in both editions with this debt open and declared. This entry exists so it is closed deliberately before publication rather than discovered at typesetting.** |
 
+## SYNC-020 — Part VI's RVR1960 debt, and it is the heaviest in the manuscript
+
+| | |
+|---|---|
+| **Status** | ❗ **OPEN — RETRIEVAL DEBT, declared in the prose of every ES Part VI chapter rather than hidden.** |
+| **Quoted because verified** | **Apocalipsis 20:3 (full) · the verified phrases of 20:4 (*vivieron*; *recibieron facultad de juzgar*), 20:5 (*los otros muertos no volvieron a vivir*) and 20:6 (*no tiene potestad*)** — source ledger **S15** |
+| **Described, not quoted** | ❗ **Everything else in Revelation: chapters 1-19, 21 and 22 in full**, plus Ezequiel 9, 14:21, 16:37-39 and 39:17-20 · Isaías 1:21, 13, 34, 44:27-45:1, 47:7-9, 49:10, 63:1-6, 65-66 · Jeremías 51:36 · Oseas 10:8 · Zacarías 3 and 4 · Daniel 3 and 7 · Deuteronomio 6, 11, 13 · Éxodo 8, 13, 15 · Mateo 23:34-38 · Lucas 23:28-31 · Juan 12:31-32 · 1 Corintios 15:20-26 |
+| **Why it is the heaviest** | ❗❗ **This is the Part that walks an entire book of Scripture. An edition that describes rather than quotes almost all of Revelation loses more than one that describes scattered proof-texts.** The cost concentrates at 11:8 (three designations, two flagged symbolic and one not), 14:15 (the datum that weakens the project's own preferred reading), 16:19 (three items in one sentence), and the 18:24 / Mateo 23:35 near-verbatim parallel that carries the Jerusalem column. |
+| **What it refused to do** | ❗ **Render an English quotation into Spanish and present it as RVR1960.** Same refusal as SYNC-006 and SYNC-019. |
+| **Stacked second debt, inherited by BOTH editions** | ⚠️ **ES Chapter 33 carries the Stage 37 retrieval debt as well** — that stage was composed from a delivered tranche with nothing retrieved verbatim, so its citations are reported in English too. Declared in the prose of both editions, not only the Spanish. |
+
+---
+
+## SYNC-021 — 🛑🛑 RVR1960 BREAKS the verb parallel that carries the entire first-resurrection argument
+
+| | |
+|---|---|
+| **Status** | ❗❗ **OPEN — SPANISH-SPECIFIC, STRUCTURAL, AND LOAD-BEARING. The strongest textual pressure this project has documented is PARTIALLY INVISIBLE in the most widely used Spanish Bible.** |
+| **Greek** ✅ | **20:4 καὶ ἔζησαν · 20:5 οὐκ ἔζησαν — THE SAME VERB, adjacent verses** |
+| **RVR1960** ✅ | **20:4 *y vivieron* · 20:5 *los otros muertos no volvieron a vivir* — ❌ PARALLEL BROKEN** |
+| **RVA-2015** ✅ | *volvieron a vivir* / *no volvieron a vivir* — ✅ **preserved** |
+| **ESV (EN edition)** | "came to life" / "did not come to life" — ✅ preserved |
+| ⚠️ **What this is NOT** | **Not an error by RVR1960.** *Volver a vivir* is natural Spanish and varying it is a defensible translator's choice. **The problem is that an argument built on VERBAL IDENTITY cannot survive a translation that varies its wording for style.** |
+| **How ES Chapter 39 handles it** | The divergence is printed **in the chapter, at the verse**, with the Greek, the RVR1960 and the RVA-2015 side by side — and the closing section says plainly that the wall is the same height in both languages but **worse signposted in one of them.** |
+| 🛑 **General rule extracted** | **Any argument that depends on one word appearing twice is translation-fragile, and must be flagged as such wherever it appears, in every edition.** |
+
+---
+
+## SYNC-022 — The English modal artefact does NOT exist in Spanish, and the advantage switches inside one passage
+
+| | |
+|---|---|
+| **Status** | ✅ **RESOLVED BY COMPOSITION — the note was written separately per edition rather than translated across.** |
+| **Forbidden, and not done** | ❌ **Translating the English "might" / legal-dictionary discussion into Spanish.** It would analyse a word that is not in the Reina-Valera and would read as nonsense to a reader holding one. |
+| **Written instead** ✅ | **RVR1960 *para que no engañase más a las naciones* is purpose conjunction + SUBJUNCTIVE — exactly what ἵνα μὴ + aorist subjunctive does.** At this verse **Spanish is structurally closer to the Greek than English is**, because Spanish kept a productive subjunctive. The pattern holds across the verse: *hasta que fuesen cumplidos* for ἄχρι τελεσθῇ · *más* for ἔτι · *debe ser desatado* for δεῖ. ⚠️ Verified detail: RVR1960 reads *engañase* (imperfect subjunctive), not *engañe*. |
+| **And the advantage switches** ✅ | **20:6 ἐξουσία → RVR1960 *potestad* (accurate: authority, jurisdiction); ESV "power" and RVA-2015 *poder* both lose it.** Also 20:4's *recibieron facultad de juzgar* carries κρίμα ἐδόθη αὐτοῖς well. |
+| 📌 **The finding that follows** | **NO single translation in EITHER language is reliable across this passage** — RVA-2015 preserves the resurrection parallel RVR1960 breaks; RVR1960 preserves the authority sense RVA-2015 and the ESV lose. **That is the argument for anchoring both editions to the Greek rather than to any translation.** |
+| ⚠️ **Retrieval uncertainty, recorded not smoothed** | The RVA-2015 fetch of 20:3 ended without the *debe ser desatado* clause. **ALMOST CERTAINLY TRUNCATION, NOT AN OMISSION BY THAT EDITION.** Asserting otherwise would repeat the exact error ES Chapter 38 records about verse numbering. **Re-retrieve before any use.** |
+| **Base translation, now named in the edition itself** | **RVR1960, with RVA-2015 as a second Spanish witness at translation-sensitive verses.** Declared in ES Chapter 30's opening textual note and again in Chapter 39, because a divergence note is only valid against a named base. |
+
+
 ---
 
 > ### **① A translation witness is evidence about ***that translation***. It is never evidence about the Greek or the Hebrew.**
