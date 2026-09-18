@@ -1,0 +1,11 @@
+Edition:        English (en)
+Part:           7  Part VII: Testing the Case Against Itself
+Milestone:      d1-closed
+Source commit:  e3075fcbf379d658979118290a15bf2a2bf2dc1a
+Commit date:    2026-09-18
+Tree state:     source committed at this commit
+Built:          2026-09-18
+Extent:         36,090 words, 212 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit e3075fc
