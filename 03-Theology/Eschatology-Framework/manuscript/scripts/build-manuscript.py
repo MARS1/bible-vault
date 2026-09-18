@@ -291,6 +291,13 @@ def main():
     ap.add_argument("--lang", default="en", choices=list(LANGS))
     ap.add_argument("--snapshot", metavar="MILESTONE",
                     help="permanent milestone, e.g. d1-initial or d1-reviewed")
+    # A milestone taken AFTER a Part is closed has to say why it exists, or the
+    # snapshot directory becomes a pile of names nobody can tell apart later.
+    # Presentation-only repairs (whitespace, encoding, broken layout) are the
+    # case this was added for: closed forbids discretionary rewriting, it does
+    # not freeze a deterministic rendering defect forever.
+    ap.add_argument("--note", metavar="TEXT",
+                    help="free text recorded in the milestone manifest under NOTE")
     ap.add_argument("--no-drop", action="store_true")
     ap.add_argument("--proof", action="store_true", help="render the design-system proof instead of a Part")
     a = ap.parse_args()
@@ -361,7 +368,8 @@ def main():
                 f"Tree state:     {dirty}\n"
                 f"Built:          {date.today()}\n"
                 f"Extent:         {words:,} words, {pages} pages\n"
-                f"\nThis snapshot is immutable. The build script refuses to overwrite it.\n"
+                + (f"\nNOTE\n{a.note}\n" if a.note else "")
+                + f"\nThis snapshot is immutable. The build script refuses to overwrite it.\n"
                 f"Canonical source: manuscript/{LANGS[lang]['dir']}/ at commit {commit[:7]}\n")
             print(f"     manifest written, source commit {commit[:7]} ({dirty})")
 

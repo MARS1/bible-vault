@@ -320,7 +320,9 @@ So it was verified before being used. It is now confirmed in Greek.
 <span class="gr">ἀνομία</span> is *lawlessness* — literally the condition of being without <span class="gr">νόμος</span>. Not merely crime; **the absence or repudiation of the law's rule.**
 
 **Matthew 24:12** — *because **lawlessness** will be increased, the love of many will grow cold.*
+
 **2 Thessalonians 2:7** — *the mystery of **lawlessness** is already at work.*
+
 **2 Thessalonians 2:8** — *and then **the lawless one** will be revealed.*
 
 **Same word family, and — this is the part that matters — the same position in both sequences.** Both place it **before** the climactic intervention, not after.
@@ -363,7 +365,9 @@ A falsification test that passes tells you less than one that fails. I am record
 ## Three asymmetries, and the third is the honest one
 
 **One.** Matthew's *great tribulation* has no explicit counterpart in Paul.
+
 **Two.** Matthew's cosmic-sign complex has none either.
+
 **Three.** ❗ **Paul's explicit destruction of the lawless one has no individual counterpart in Matthew at all.**
 
 The first two are **omissions**, and a shorter account need not contain every feature of a longer one. **Omission is not contradiction.**
@@ -386,8 +390,11 @@ The first two are **omissions**, and a shorter account need not contain every fe
 🛑 **And its leash is part of the rule, because this is one inversion away from *similar therefore same*:**
 
 **1.** It shifts a burden **at a density threshold**. It does not lower the standard of proof.
+
 **2.** **The density must be independent.** Correspondences inherited from a shared source — both drawing on Daniel — are **one datum, not five**. And the sanctuary link above is exactly that kind.
+
 **3.** **It may never retire an asymmetry.** The three gaps are positive grounds for distinction and remain live.
+
 **4.** It does not apply to correspondences I have already downgraded. Paul's Danielic link is conceptual, not lexical, and **may not be counted at full weight here.**
 :::
 

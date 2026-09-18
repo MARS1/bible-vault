@@ -284,8 +284,11 @@ One last thing, and it is procedural rather than exegetical, which is why it is 
 🛑 **The historical investigation may not begin with *find a thousand years somewhere*.**
 
 **First:** determine the first-resurrection and gathering event.
+
 **Second:** determine Satan's binding marker — constrained by what Revelation actually said the binding does, which is that it should be identifiable as a **change in the deception of the nations**.
+
 **Third:** only then ask whether those two align historically.
+
 **Fourth:** if they do, measure the interval.
 
 Reverse that order and the procedure becomes: find an attractive millennium in history, then retrofit a resurrection and a binding around it. That is not research. That is decoration with citations, and it would be indistinguishable from the thing I have spent nine Parts trying not to do.

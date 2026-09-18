@@ -60,7 +60,9 @@ And the pairwise overlaps are not equal:
 <span class="gr">παρουσία</span> is *presence* or *arrival* — an ordinary noun, used in the wider Greek world of a dignitary's official visit. **Context supplies whose arrival, and what kind.**
 
 **2 Thessalonians 2:1** — *concerning the <span class="gr">παρουσία</span> of our Lord Jesus Messiah and our being gathered to Him.*
+
 **1 Thessalonians 4:15** — *we who are alive, who are left until the <span class="gr">παρουσία</span> of the Lord.*
+
 **1 Corinthians 15:23** — *those who belong to Messiah at His <span class="gr">παρουσία</span>.*
 
 ❗ **And eight verses later, in the same chapter as the first of those:**
@@ -136,6 +138,7 @@ A single grade across the whole chain would have read more cleanly and been defe
 **Finding — where the uncertainty actually lives, and this is the most useful result in the chapter**
 
 **The weakest link is no longer *does Paul describe resurrection?* — obviously yes.**
+
 **Nor *are Paul's three passages one event?* — probably yes, at HIGH.**
 
 ❗ **The hinge is: does Matthew's first-century boundary genuinely attach to Paul's resurrection *through* 2 Thessalonians 2?**
@@ -259,6 +262,7 @@ With the sixth-seal material finally complete, the arc reads: souls under the al
 **Contradiction 5 — event-indexed against relational**
 
 **Paul's population is defined by a relationship: *those who belong to Messiah*.**
+
 **John's is defined by an event: those who did not worship the beast, its image, or take its mark.**
 
 ❗❗ **A believer who died before the beast existed satisfies Paul's criterion and cannot satisfy John's.**
@@ -270,6 +274,7 @@ With the sixth-seal material finally complete, the arc reads: souls under the al
 **Contradiction 6 — John's one verb has no slot for half of Paul's population**
 
 **John has *they lived* — a change of state for the dead.**
+
 **Paul has *we shall not all sleep* — believers who never die at all, going from mortal to immortal directly.**
 
 ❗ **People who never died cannot come to life.**

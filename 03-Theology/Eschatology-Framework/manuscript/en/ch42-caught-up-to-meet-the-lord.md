@@ -58,8 +58,11 @@ The English *rapture* derives from the Latin rendering of this verb, so the **te
 Each tested against the occurrences, and each answered no:
 
 **Secrecy?** Acts 8:40 narrates exactly where Philip ended up, and 1 Thessalonians 4 describes a mass event.
+
 **Invisibility?** Nothing in the verb; Acts states the outcome plainly.
+
 **Heavenly destination?** Acts 8:39.
+
 **Permanence?** Philip resumes an ordinary itinerant ministry. And at 1 Thessalonians 4:17 the permanence is carried by *always with the Lord* — **a separate clause** — not by the verb.
 :::
 

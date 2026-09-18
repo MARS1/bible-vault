@@ -87,7 +87,9 @@ The argument is: **a Death and Hades that surrender their dead at 20:13 cannot h
 **So three moments stay rigidly separate:**
 
 **1. Messiah's resurrection** — He holds the keys of Death and Hades (1:18). **They still exist.**
+
 **2. The first resurrection** — a specified population becomes immune to the *second* death. **Death itself still exists.**
+
 **3. The great white throne** — Death and Hades empty out and are destroyed. Only then is death no more.
 
 And Paul says the same thing independently: **the last enemy to be destroyed is death.** Messiah already reigns, already holds authority — and Death remains an enemy awaiting abolition. **Defeat is not abolition**, and Revelation supplies both halves itself.
@@ -263,6 +265,7 @@ In my earlier work on the gathering, I wrote that Matthew 13:41 *pairs it with t
 **Finding — I asserted a verb-parallel that does not exist**
 
 **Matthew 13:41** — *he will send his angels, and they will* **<span class="gr">συλλέξουσιν</span>** — from <span class="gr">συλλέγω</span>.
+
 **Matthew 24:31** — *he will send his angels… and they will* **<span class="gr">ἐπισυνάξουσιν</span>** — from <span class="gr">ἐπισυνάγω</span>.
 
 **Different verbs.** The claim was wrong, it was mine, and it is corrected here rather than quietly dropped, because it is an erroneous statement about the Greek and those get fixed in the open.
@@ -318,6 +321,7 @@ And then, comparing two retrievals side by side, something turned up that pushes
 **Finding — the seventh trumpet's vocabulary points at the great white throne**
 
 **Revelation 11:18** — *your wrath came, and **the time for the dead to be judged*** … *the **small and the great***
+
 **Revelation 20:12** — *I saw the dead, **great and small*** … *and the dead **were judged***
 
 The seventh trumpet and the great white throne share **both** the paired merism **and** the judging of the dead.
@@ -455,6 +459,7 @@ And one thing the retrieval walked past, which I found only by reading it agains
 ## Zechariah 12, and what it does to "the tribes of the earth"
 
 **LXX Zechariah 12:10** — <span class="gr">καὶ κόψονται ἐπ' αὐτὸν κοπετόν</span>
+
 **Matthew 24:30** — <span class="gr">καὶ τότε κόψονται πᾶσαι αἱ φυλαὶ τῆς γῆς</span>
 
 <span class="gr">κόψονται</span> — **identical form.** And LXX Zechariah 12:12 puts <span class="gr">γῆ</span> and <span class="gr">φυλάς</span> in the very clause Matthew draws both nouns from.
@@ -467,6 +472,7 @@ So *all the tribes of the land* becomes a strong live reading at 24:30. 🛑 **I
 **Textual note — a source-text divergence, recorded rather than smoothed**
 
 **LXX Zechariah 12:10** — <span class="gr">ἀνθ' ὧν κατωρχήσαντο</span> — *because they **mocked***
+
 **Hebrew Zechariah 12:10** — <span class="he">אֵת אֲשֶׁר־דָּקָרוּ</span> — *whom they **pierced***
 
 **Mocked and pierced are materially different.** A retrieval agent smoothed this into *both point to the same theological event.* **Rejected.** That is precisely the collapse of evidence types this project exists to prevent.
