@@ -66,7 +66,10 @@ PARTS = {
                ["ch25-", "ch26-", "ch27-", "ch28-", "ch29-"]),
            6: ("Parte VI: Apocalipsis, leído a través de la Escritura anterior",
                ["ch30-", "ch31-", "ch32-", "ch33-", "ch34-",
-                "ch35-", "ch36-", "ch37-", "ch38-", "ch39-"])},
+                "ch35-", "ch36-", "ch37-", "ch38-", "ch39-"]),
+           7: ("Parte VII: Poniendo a prueba el caso contra sí mismo",
+               ["ch40-", "ch41-", "ch42-", "ch43-",
+                "ch44-", "ch45-", "ch46-"])},
 }
 
 CSS = (Path(__file__).resolve().parent / "design-system-v1.css").read_text()
