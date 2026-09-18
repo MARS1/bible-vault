@@ -1,0 +1,11 @@
+Edition:        Español (es)
+Part:           6  Parte VI: Apocalipsis, leído a través de la Escritura anterior
+Milestone:      d1
+Source commit:  a3a9d14a61d642c3c43f6bf4210c30e6865759e3
+Commit date:    2026-09-17
+Tree state:     source committed at this commit
+Built:          2026-09-17
+Extent:         46,412 words, 249 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit a3a9d14
