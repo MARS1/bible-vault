@@ -166,7 +166,7 @@ Two more from the same lane: the CJB renders <span class="gr">ἐν φωνῇ �
 
 Paul uses **<span class="gr">ἔπειτα</span>** at verse 23 and **<span class="gr">εἶτα</span>** at verse 24. I had been treating <span class="gr">τάγμα</span> as the only ordering mechanism in the passage. It is not.
 
-Paul does **not** say that the resurrection of Messiah's own and the destruction of Death occur at the same moment. His syntax reads naturally as: **Messiah's people raised at the parousia → a reign during which enemies are subjected → Death destroyed last → the end.**
+Paul does **not** say that the resurrection of Messiah's own and the destruction of Death occur at the same moment. His syntax reads naturally as: **Messiah's people raised at the parousia → a reign during which enemies are subjected → Death destroyed last.** ⚠️ *And no further than that — Paul's ordering words will not tell me where <span class="gr">τὸ τέλος</span> falls relative to Death's abolition, in either direction.*
 
 That is structurally compatible with first resurrection → reign → Death finally removed.
 

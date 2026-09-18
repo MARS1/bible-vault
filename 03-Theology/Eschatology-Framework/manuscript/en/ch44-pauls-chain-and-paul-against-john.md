@@ -185,7 +185,7 @@ Two debts were paid before this comparison started, and both had been declared a
 
 ## The structural correspondence, which is genuinely strong
 
-**Paul:** firstfruits, Messiah → then those who belong to Messiah at His arrival → then the end → *for He must reign **until** He has put all enemies under His feet* → *the last enemy to be abolished is death.*
+**Paul:** firstfruits, Messiah → then those who belong to Messiah at His arrival → then <span class="gr">τὸ τέλος</span>, the terminal movement in which *He must reign **until** He has put all enemies under His feet* and *the last enemy to be abolished is death.*
 
 **John:** *they lived and reigned with Messiah a thousand years* → *the rest of the dead did not live **until** the thousand years were completed* → the revolt → the great white throne → *and Death and Hades were thrown into the lake of fire.*
 

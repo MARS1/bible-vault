@@ -141,7 +141,7 @@ Messiah → those who belong to him at his coming → *to telos*, the end. That 
 
 So *do not flatten these into one moment without argument* is not special pleading invented for Revelation 20. Paul flattened nothing.
 
-And the last enemy destroyed is death — which sits **inside** that ordering, after *the end*, and which Part VI already aligned with Revelation 20:14.
+And the last enemy destroyed is death — which sits **inside** Paul's ordered sequence and belongs to its consummation, and which Part VI already aligned with Revelation 20:14. *(Paul's syntax at 15:24–26 will not yield a finer chronology than that, and I am not going to squeeze one out of it: the reign, the subjection of the enemies and death's abolition are given as the terminal movement, not as dated steps after it.)*
 
 ⚠️ **But the pressure runs back the other way in the same passage.** *Those who belong to Christ* sounds broad. It does not sound like *some martyrs now, other believers a thousand years later.*
 
