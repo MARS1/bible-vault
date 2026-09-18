@@ -1,0 +1,11 @@
+Edition:        Español (es)
+Part:           7  Parte VII: Poniendo a prueba el caso contra sí mismo
+Milestone:      d1-closed
+Source commit:  d71623e5ad6db572e19a323df286ae26a05f2fca
+Commit date:    2026-09-18
+Tree state:     source committed at this commit
+Built:          2026-09-18
+Extent:         40,376 words, 243 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit d71623e
