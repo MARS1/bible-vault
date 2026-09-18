@@ -1,0 +1,14 @@
+Edition:        English (en)
+Part:           7  Part VII: Testing the Case Against Itself
+Milestone:      d1-closed-formatfix1
+Source commit:  57092aeee1946012bfe32a5eb71e3e4d0f7097a0
+Commit date:    2026-09-18
+Tree state:     source committed at this commit
+Built:          2026-09-18
+Extent:         36,090 words, 215 pages
+
+NOTE
+Presentation-only correction after Draft 1 closure. Restored paragraph separation at 24 locations where adjacent bold blocks had merged during rendering (ch40 x3, ch41 x6, ch42 x3, ch43 x7, ch44 x5). Zero lexical, theological, evidentiary, citation, component-type or structural content changed; verified by identical non-blank content hashes and an empty --ignore-blank-lines diff. The previous d1-closed milestone remains immutable and is preserved. Closed forbids discretionary rewriting; it does not freeze a deterministic rendering defect.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 57092ae
