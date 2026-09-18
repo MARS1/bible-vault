@@ -280,11 +280,12 @@ related: "[[10-manuscript-architecture]], [[09-manuscript-integrity-audit]], [[0
 | **To close** | Verify each against RVR1960, add to [[05-scripture-index]], convert the descriptions to quotations, rebuild and take a new ES milestone. |
 | **Not a Draft 1 blocker** | ✅ **Part V was cleared in both editions with this debt open and declared. This entry exists so it is closed deliberately before publication rather than discovered at typesetting.** |
 
-## SYNC-020 — Part VI's RVR1960 debt, and it is the heaviest in the manuscript
+## SYNC-020 — Spanish Revelation Primary-Text Completion Pass ⬆️ **PROMOTED — HIGH PRIORITY**
 
 | | |
 |---|---|
-| **Status** | ❗ **OPEN — RETRIEVAL DEBT, declared in the prose of every ES Part VI chapter rather than hidden.** |
+| **Status** | ⬆️ **PROMOTED 2026-09-18 from ordinary retrieval debt to a NAMED PUBLICATION DEBT: the *Spanish Revelation Primary-Text Completion Pass*, HIGH PRIORITY before publication-level revision.** Declared in the prose of every ES Part VI chapter rather than hidden. |
+| **What the promotion means** | ❗ **Does NOT block Part VII Draft 1, and does NOT trigger a debt-clearing pass during drafting.** But it may not survive to final manuscript assembly. **A Spanish edition whose central investigation spends this much time inside Revelation must eventually let its reader actually READ the Revelation passages rather than meet repeated summaries of them.** |
 | **Quoted because verified** | **Apocalipsis 20:3 (full) · the verified phrases of 20:4 (*vivieron*; *recibieron facultad de juzgar*), 20:5 (*los otros muertos no volvieron a vivir*) and 20:6 (*no tiene potestad*)** — source ledger **S15** |
 | **Described, not quoted** | ❗ **Everything else in Revelation: chapters 1-19, 21 and 22 in full**, plus Ezequiel 9, 14:21, 16:37-39 and 39:17-20 · Isaías 1:21, 13, 34, 44:27-45:1, 47:7-9, 49:10, 63:1-6, 65-66 · Jeremías 51:36 · Oseas 10:8 · Zacarías 3 and 4 · Daniel 3 and 7 · Deuteronomio 6, 11, 13 · Éxodo 8, 13, 15 · Mateo 23:34-38 · Lucas 23:28-31 · Juan 12:31-32 · 1 Corintios 15:20-26 |
 | **Why it is the heaviest** | ❗❗ **This is the Part that walks an entire book of Scripture. An edition that describes rather than quotes almost all of Revelation loses more than one that describes scattered proof-texts.** The cost concentrates at 11:8 (three designations, two flagged symbolic and one not), 14:15 (the datum that weakens the project's own preferred reading), 16:19 (three items in one sentence), and the 18:24 / Mateo 23:35 near-verbatim parallel that carries the Jerusalem column. |

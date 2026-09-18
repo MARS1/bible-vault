@@ -257,6 +257,25 @@ related: "[[00-index]], [[00a-narrative-spine]], [[09-manuscript-integrity-audit
 
 ---
 
+## 11b. Build and Review Protocol — the Original-Language Render Integrity Gate
+
+> ### 🛑 **ORIGINAL-LANGUAGE RENDER INTEGRITY GATE — every Part containing Hebrew, Aramaic or Greek must receive VISUAL inspection of representative source-language pages after PDF generation. Extraction and build success do NOT establish render integrity.**
+
+**Why this is a gate and not a preference.** Part VI shipped a build that passed terminology, word-recovery, mojibake and section checks while the stylesheet was silently uppercasing polytonic Greek — detaching breathings and accents inside the one aside whose entire argument is that a single verb appears twice in adjacent verses. **Typography was corrupting the evidence being argued from.** `pdftotext` reported the corrupted forms back as if they were the source text. It was caught only by rendering a page to an image and looking at it.
+
+**And it recurred immediately, for a different reason.** The Spanish sibling reproduced the same defect because its Greek had been written into tables without `.gr` spans, so the stylesheet protection never applied. One root cause fixed in CSS; a second root cause in the markup.
+
+| Layer | What it does |
+|---|---|
+| **Stylesheet** | `.gr` / `.he` opt out of `text-transform`, `letter-spacing` and `font-variant` wherever they sit |
+| **Build gate** | **FAILS the build** if source-language characters reach the page outside a `.gr`/`.he` span |
+| **Build gate** | **Names the exact pages** carrying source text, so the reviewer renders those rather than guessing |
+| **Human** | Renders the named pages to images and reads them before the Part is cleared |
+
+**The principle is larger than the implementation: source-language evidence must survive typesetting unchanged.** A text pipeline cannot verify letterforms. The gate's job is to make the one check that can be non-optional and cheap.
+
+---
+
 ## 12. What This Architecture Deliberately Does NOT Do
 
 | | |

@@ -50,7 +50,10 @@ PARTS = {
                ["ch25-", "ch26-", "ch27-", "ch28-", "ch29-"]),
            6: ("Part VI: Revelation, Read Through Earlier Scripture",
                ["ch30-", "ch31-", "ch32-", "ch33-", "ch34-",
-                "ch35-", "ch36-", "ch37-", "ch38-", "ch39-"])},
+                "ch35-", "ch36-", "ch37-", "ch38-", "ch39-"]),
+           7: ("Part VII: Testing the Case Against Itself",
+               ["ch40-", "ch41-", "ch42-", "ch43-",
+                "ch44-", "ch45-", "ch46-"])},
     "es": {1: ("Parte I: La pregunta que no se quedó pequeña",
                ["00a-", "00b-", "ch01-", "ch02-", "ch03-", "ch04-", "ch05-", "ch06-"]),
            2: ("Parte II: El discurso del Monte de los Olivos, leído en su propio siglo",
@@ -226,7 +229,57 @@ def render(lang, part, outdir, stem):
         print(f"       MISSING SECTION: {m}")
     if not ok:
         sys.exit("render verification failed")
+    original_language_gate(files, pdf)
     return md, pdf, title, words, pages
+
+# ---------------------------------------------------------------------------
+# ORIGINAL-LANGUAGE RENDER INTEGRITY GATE
+#
+# Build success does not establish render integrity. Part VI shipped a build
+# that passed every check above while the stylesheet was silently uppercasing
+# polytonic Greek -- turning KAI EZESAN into a form with its breathings and
+# accents detached, inside the one aside whose entire argument is that a single
+# verb appears twice. Typography was corrupting the evidence being argued from,
+# and pdftotext reported the corrupted forms back as though they were the
+# source. It was caught only by looking at a rendered page.
+#
+# The same defect then recurred in the Spanish edition for a different reason:
+# the Greek had been written into tables without .gr spans, so the stylesheet
+# protection did not apply to it.
+#
+# This gate cannot verify letterforms -- nothing in a text pipeline can. What it
+# CAN do is make the inspection non-optional and cheap: it names the exact pages
+# carrying source-language evidence, so a reviewer renders those pages instead of
+# guessing, and it fails the build outright when source-language text reaches the
+# page without the .gr/.he protection that keeps display typography off it.
+#
+# THE PRINCIPLE, larger than its implementation: source-language evidence must
+# survive typesetting unchanged.
+# ---------------------------------------------------------------------------
+SRC_LANG = re.compile(r"[\u0370-\u03FF\u1F00-\u1FFF\u0590-\u05FF]")
+
+def original_language_gate(files, pdf):
+    unwrapped = []
+    for f in files:
+        body = declutter(strip_frontmatter(f.read_text()))
+        bare = re.sub(r'<span class="(?:gr|he)">.*?</span>', "", body, flags=re.S)
+        if SRC_LANG.search(bare):
+            unwrapped.append(f.stem)
+    if unwrapped:
+        print("     original-language gate: UNPROTECTED SOURCE TEXT  <-- CHECK")
+        for u in unwrapped:
+            print(f"       NOT IN A .gr/.he SPAN: {u}")
+        sys.exit("original-language render integrity gate failed")
+
+    raw = subprocess.run(["pdftotext", "-layout", str(pdf), "-"],
+                         capture_output=True, text=True).stdout
+    hits = [i for i, pg in enumerate(raw.split("\f"), 1) if SRC_LANG.search(pg)]
+    if not hits:
+        print("     original-language gate: no Greek/Hebrew in this Part  OK")
+        return
+    shown = ", ".join(str(h) for h in hits[:12]) + (" …" if len(hits) > 12 else "")
+    print(f"     original-language gate: {len(hits)} page(s) carry source text, all .gr/.he wrapped  OK")
+    print(f"       INSPECT VISUALLY BEFORE CLEARING THIS PART: pp. {shown}")
 
 def main():
     ap = argparse.ArgumentParser()
