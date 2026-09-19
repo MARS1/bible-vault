@@ -53,7 +53,10 @@ PARTS = {
                 "ch35-", "ch36-", "ch37-", "ch38-", "ch39-"]),
            7: ("Part VII: Testing the Case Against Itself",
                ["ch40-", "ch41-", "ch42-", "ch43-",
-                "ch44-", "ch45-", "ch46-"])},
+                "ch44-", "ch45-", "ch46-"]),
+           8: ("Part VIII: The Millennium and the Open Horizon",
+               ["ch47-", "ch48-", "ch49-",
+                "ch50-", "ch51-", "ch52-"])},
     "es": {1: ("Parte I: La pregunta que no se quedó pequeña",
                ["00a-", "00b-", "ch01-", "ch02-", "ch03-", "ch04-", "ch05-", "ch06-"]),
            2: ("Parte II: El discurso del Monte de los Olivos, leído en su propio siglo",
@@ -165,11 +168,18 @@ def prose_only(text):
 # pdftotext output byte-for-byte reports a false MISSING SECTION for any title
 # containing a quote or dash. Caught 2026-09-11 by Part III ch19, whose approved
 # title is: Who Are "the People of God"? -- the checker was wrong, not the chapter.
+#
+# Same failure, second cause, caught 2026-09-19 by Part VIII ch49, whose approved
+# title carries Greek: chi-ilia ete -- The Gate Opens. Source-language runs in a
+# heading must be wrapped in a .gr span or the original-language gate fails them,
+# and that markup renders as bare text, so the raw heading can never match the PDF.
+# Strip inline tags before comparing. The checker was wrong, not the chapter.
 def _norm(s):
+    s = re.sub(r"<[^>]+>", "", s)
     for a, b in (("\u201c", '"'), ("\u201d", '"'), ("\u2018", "'"), ("\u2019", "'"),
                  ("\u2014", "-"), ("\u2013", "-"), ("\u2026", "...")):
         s = s.replace(a, b)
-    return s
+    return re.sub(r"\s+", " ", s).strip()
 
 
 def strip_frontmatter(t):

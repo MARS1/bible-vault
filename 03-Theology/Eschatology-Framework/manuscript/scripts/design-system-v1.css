@@ -200,8 +200,31 @@ table .gr, table .he { font-size: 1.1em; line-height: 1.5; }
    Caught by rendering the page to an image. pdftotext had reported the
    uppercased forms back as though they were the source text, which is the
    third time in this manuscript that text extraction has confirmed something
-   the page does not actually say. */
+   the page does not actually say.
+
+   The descendant selectors were added 2026-09-19. Declaring this on the span
+   alone only protects source text the emphasis WRAPS -- **<span class="gr">..
+   </span>**. When the emphasis sits INSIDE the span instead, the strong carries
+   its own uppercase declaration and beats what it would otherwise inherit, so
+   the corruption returns exactly where the span was supposed to prevent it.
+   Caught in Part VIII ch51's word-study table, where the pair the entire
+   chapter turns on rendered as "XPONON MIKPON" and "MIKPON XPONON" -- chi and
+   rho reading as Latin X and P, every accent stripped. The gate had passed the
+   page: the Greek WAS wrapped. Wrapping is not the same as rendering. */
 .gr, .he { text-transform: none; letter-spacing: normal; font-variant: normal; }
+
+/* The descendant form has to be !important, which nothing else in this sheet
+   needs. A plain `.gr *` is specificity (0,1,0) and loses outright to
+   `div.wordstudy strong:first-child` at (0,2,2), so the first attempt at this
+   fix changed nothing and the table re-rendered corrupted. This is the case
+   !important exists for: not a style preference winning an argument, but a
+   guarantee that no label rule anywhere in this sheet can ever reach inside a
+   source-language span and rewrite the letters. */
+.gr *, .he * {
+  text-transform: none !important;
+  letter-spacing: normal !important;
+  font-variant: normal !important;
+}
 .he { direction: rtl; unicode-bidi: embed; font-size: 1.1em; }
 
 /* ---------- lists: used sparingly, when structure IS the point ---------- */
