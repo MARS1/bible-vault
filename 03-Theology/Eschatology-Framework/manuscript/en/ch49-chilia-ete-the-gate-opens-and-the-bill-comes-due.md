@@ -36,6 +36,14 @@ Every numeric quantity in all twenty-two chapters, catalogued — every number R
 📐 **So Revelation's numbers are consistently fastened to things that can in principle be counted — *even when the numbers carry obvious symbolic weight*.**
 
 **Which means <span class="gr">χίλια ἔτη</span> cannot be waved off as a figure of speech merely because a thousand is a round and resonant number.**
+
+🛑 **And here is exactly how far that goes — which is less far than I first wrote it.**
+
+❗❗ **A countable noun does not make its number an ordinary one.** The hundred and forty-four thousand are people and can be counted. The seven heads, the ten horns, the twelve gates are all countable. **Every one of those figures is doing symbolic work at the same time.**
+
+✅ **So this test rules out one thing, and only one: that <span class="gr">χίλια ἔτη</span> is a pure figure of speech fastened to nothing measurable.**
+
+❌ **It does not establish that the quantity is an ordinary quantity.** *Symbolic number and ordinary number both attach to countable things, and a sweep of what the numbers attach to cannot tell the two apart.*
 :::
 
 ## And then the thing nobody had
@@ -51,7 +59,9 @@ I was not looking for this. It sits three chapters past the passage in dispute, 
 
 ❗❗❗ **In a chapter describing a city descending out of heaven, measured by an angel with a golden rod, John stops to specify that the cubits are the usual kind.**
 
-**A writer using numbers as pure symbol has no reason to clarify his units.**
+**A writer for whom units never mattered at all would have had no reason to stop.**
+
+⚠️ **But that is a claim about units, not about magnitudes.** A visionary architecture can measure in ordinary cubits and remain thoroughly symbolic — ❗ **21:17 tells me what a cubit is. It does not tell me how to read every other number in the book**, and Part VI already warned against running the New Jerusalem's twelve thousand stadia and hundred and forty-four cubits through plain arithmetic.
 
 ★★ **And it is not an isolated construction.** Revelation 13:18 reads <span class="gr">ἀριθμὸς γὰρ ἀνθρώπου ἐστίν</span> — *for it is a number of a man*, or *a human number*. **Two places where John attaches the same word to a number or a measure, and both times it marks the figure as belonging to ordinary human reckoning.**
 
@@ -95,7 +105,11 @@ Two further controls, both valid and both adopted, and they run in opposite dire
 
 **Symbolic significance does not yield non-literal quantity.** Twelve carries enormous symbolic weight in Scripture **and** there were actually twelve apostles. The inference *this number means something, therefore it does not count anything* is simply invalid.
 
-**And six repetitions do not establish three hundred and sixty-five thousand days.** No calendar system is supplied, no inclusive-or-exclusive counting convention, no rounding rule. **The right category is a genuinely millennium-scale bounded period** — stronger than *an indefinite age*, weaker than *exactly one thousand solar years*.
+**And six repetitions do not establish three hundred and sixty-five thousand days.** No calendar system is supplied, no inclusive-or-exclusive counting convention, no rounding rule.
+
+✅ **What is firmly established is the *boundedness*** — a definite interval, with a beginning, an end, and a clause saying it reaches completion.
+
+⚠️ **Where its quantity falls between *an indefinite age* and *exactly one thousand solar years*, the text does not say.** 🛑 **And I am not entitled to place it on that scale merely because a placement would be useful to me three chapters from now.**
 
 ---
 
@@ -133,11 +147,15 @@ At this point somebody always produces Psalm 90:4, and it is a fair thing to pro
 ::: evidence
 **The gate opens**
 
-### **<span class="gr">χίλια ἔτη</span> carries substantial chronological force. Recorded at SUPPORTS.**
+### ✅ **<span class="gr">χίλια ἔτη</span> designates a definite, bounded interval, stated in the language of quantity. Recorded at SUPPORTS.**
 
-**What earns it:** ✅ every number in Revelation attaches to something measurable · ✅ John flags his own units as human at 21:17 · ✅ the article pattern treats the period as a definite bounded whole · ✅ the asymmetry that the millennium is numbered six times while the release is not numbered at all · ✅ and symbolic weight does not negate quantity.
+**What earns it:** ✅ the article pattern across the six occurrences handles the period as a definite bounded whole · ✅ the completion clause — the thousand years *reach their end* · ✅ the asymmetry that the millennium is numbered six times while the release is not numbered at all · ✅ every number in Revelation attaches to something measurable, so this is not a figure of speech fastened to nothing · ✅ and symbolic weight does not by itself cancel quantity.
 
-**What is not established:** ❌ exactly one thousand solar years · ❌ that any particular year is Year One · ❌ that forty-two months and twelve hundred and sixty days are equated by John.
+### ⚠️ **Whether that quantity is intended as approximately one thousand ordinary years — NOT ESTABLISHED. Recorded at PERMITS, and reaching no higher than weak SUPPORTS.**
+
+**Why it stops there, and it has to stop there:** ❗ **the countability sweep cannot separate symbolic quantity from ordinary quantity** — the hundred and forty-four thousand, the seven heads, the ten horns and the twelve gates are all countable and all symbolic · ❗ **21:17 establishes what a cubit is, not how to read every number in the book** · ❌ no calendar, no counting convention and no rounding rule is supplied anywhere · ❌ and Part VI already refused plain arithmetic on the New Jerusalem's own measurements.
+
+**What is not established at all:** ❌ exactly one thousand solar years · ❌ that any particular year is Year One · ❌ that forty-two months and twelve hundred and sixty days are equated by John.
 :::
 
 And now the bill that Part VII said was about to come due.
@@ -147,13 +165,17 @@ And now the bill that Part VII said was about to come due.
 
 **PF-01 — a first-century entrance — stands at SUPPORTS.**
 
-**<span class="gr">χίλια ἔτη</span> — chronological — now also stands at SUPPORTS.**
+**And the thousand years are a bounded interval in quantitative language — also at SUPPORTS.**
 
-**Together they put the terminus somewhere in the eleventh-century neighbourhood.**
+⚠️ **Those two together do not yet produce a date.** ❗❗ **The bill only falls due on a *third* claim — the one just graded no higher than PERMITS: that the quantity is approximately a thousand ordinary years.**
 
-❗❗❗ **Which leaves roughly nine hundred and fifty years between that terminus and now — to be called <span class="gr">μικρὸν χρόνον</span>, *a short time*, immediately after a period the same text calls <span class="gr">χίλια ἔτη</span>.**
+### **So the bill is conditional, and stating it conditionally is the entire point:**
+
+### ❗❗❗ ***If* the thousand years are approximately chronological, *then* a first-century entrance puts the terminus in the eleventh-century neighbourhood — leaving roughly nine hundred and fifty years between it and now, to be called <span class="gr">μικρὸν χρόνον</span>, *a short time*, immediately after a period the same text calls <span class="gr">χίλια ἔτη</span>.**
 
 **That contrast is not *long versus short*. It is *a thousand years versus nine hundred and fifty years*.**
+
+📐 **And the conditional carries weight in both directions.** ✅ It is why the next chapter's arithmetic matters at all. ❗ **And it is why that arithmetic is not textually compulsory — the reading that generates the whole tension is the weakest-graded claim in the chain, not the strongest.**
 
 🛑 **And notice what has just happened. The literary asymmetry I used to argue for the chronometric reading — that John quantifies the millennium six times and merely characterizes the release — is destroyed by that arithmetic.** If the short time is nine hundred and fifty years, the asymmetry John built is gone. **The argument that made the number matter is the argument that now says I cannot be standing where I assumed I was standing.**
 :::
@@ -166,7 +188,7 @@ The exhaustive list from Chapter 47, with what two chapters of work have done to
 | | Option | Status now |
 |---|---|---|
 | **(a)** | the start is not first-century | ◻️ live — but it is PF-01, at SUPPORTS |
-| **(b)** | the thousand years are not chronological | ❗ **now at SUPPORTS *against*** |
+| **(b)** | the thousand years are not chronological | ⚠️ **weakened, not closed.** Their *boundedness* is at SUPPORTS; their approximate *length* was graded no higher than PERMITS, so this option stays genuinely live |
 | **(c)** | **we are not presently in the little season** | ⬅️ **under the least pressure of the five** |
 | **(d)** | conventional chronology does not correspond | 🛑 **quarantined, before this problem was known** |
 | **(e)** | an unidentified premise is wrong | ◻️ live, and by definition unexaminable until identified |
@@ -182,18 +204,22 @@ We fixed the test in advance, deliberately, before knowing which way it would go
 
 And then the thing I did not expect. In the last chapters an angel measures the city with a golden rod, and John gives the wall as a hundred and forty-four cubits — **and then stops, mid-vision, to say that this is a human measurement.** A city coming down out of heaven, measured by an angel, and the author pauses to tell us the cubits are the usual kind.
 
-**A man using numbers purely as symbols does not stop to explain his units.**
+**A man for whom units never mattered would not have stopped to explain them.**
 
-So the gate opens. The thousand years carries real weight as a duration.
+And that is all it shows. A vision can measure in ordinary cubits and still be a vision. **Knowing what a cubit is does not tell me how to read a thousand** — and I wrote it, the first time through, as though it did.
 
-**And that is the worst possible outcome for what I was hoping to find**, because the sum now runs against me. A first-century start plus a thousand years lands in the eleventh century, and from there to now is about nine hundred and fifty years. The text sets a thousand years against a little while. **Nine hundred and fifty is not a little while next to a thousand. It is the same thing again.**
+So the gate opens, but not as wide as I first had it. **The thousand years are a bounded stretch, described in the language of quantity.** Whether that quantity is anywhere near a thousand ordinary years, the book does not say, and I have graded it accordingly.
+
+**And even the conditional version is the worst outcome for what I was hoping to find**, because the sum runs against me the moment I grant the reading. A first-century start plus a thousand years lands in the eleventh century, and from there to now is about nine hundred and fifty. The text sets a thousand years against a little while. **Nine hundred and fifty is not a little while next to a thousand. It is the same thing again.**
+
+⚠️ **And I am obliged to notice what that means. The escape from this sum is not some clever manoeuvre I would have to invent — it is simply declining to grant the weakest-graded claim in my own chain.**
 
 I could have avoided this. I could have left the number disclaimed, as it had been left for fifty-eight stages, and the tension would never have had a number on it. **The reason it now does is that I went and asked, with the test written down first.**
 
 ::: whereweare
-**Where we are.** Revelation never attaches a number to an uncountable thing, across all twenty-two chapters — the test fixed in advance returned a clean negative. John flags his own units as ordinary human cubits in the middle of the most visionary passage in the book, which is the strongest single datum for reading his numbers as measurements, and it sat in a chapter nobody was studying. The article pattern across the six occurrences is exactly how a writer handles a definite bounded period. Against that, the conversion between forty-two months and twelve hundred and sixty days is mine rather than John's, and the verses usually offered as a thousand-years-equals-a-day formula turn out to compare rather than equate — one of them to two different things in a single sentence. So the thousand years carries substantial chronological force at SUPPORTS. And that opens a gate onto a bill: a first-century entrance plus a chronological millennium puts nine hundred and fifty years between the terminus and now, to be called a short time — which makes *we are presently in the little season* the option under most pressure, and nobody chose it.
+**Where we are.** Revelation never attaches a number to an uncountable thing, across all twenty-two chapters — the test fixed in advance returned a clean negative, and it rules out reading the thousand years as a figure of speech fastened to nothing. It does not do more than that: countable nouns carry symbolic numbers throughout this book, so the sweep cannot separate a symbolic quantity from an ordinary one. John flags his own units as ordinary human cubits in the middle of the most visionary passage in the book — which settles what a cubit is, not how to read every magnitude in the book. The article pattern across the six occurrences, together with the completion clause, is exactly how a writer handles a definite bounded period, and that much is at SUPPORTS. Whether the quantity is approximately a thousand ordinary years is graded no higher than PERMITS. Against all of it, the conversion between forty-two months and twelve hundred and sixty days is mine rather than John's, and the verses usually offered as a thousand-years-equals-a-day formula turn out to compare rather than equate — one of them to two different things in a single sentence. So the gate opens onto a **conditional** bill: *if* the millennium is approximately chronological, a first-century entrance puts nine hundred and fifty years between the terminus and now, to be called a short time — which makes *we are presently in the little season* the option under most pressure. Nobody chose it, and the condition it rests on is the weakest-graded claim in the chain.
 :::
 
 ::: earned
-**What it earned.** A test written down before the answer was known, run honestly, and returning the result that costs the most. A decisive datum found only because the sweep was exhaustive rather than targeted — three chapters away from the passage in dispute. A brake applied to the project's own best-sounding material, because John uses both figures and never equates them. Two famous verses examined and found to be comparisons rather than formulas, including one that would need two exchange rates in a single sentence. And a verdict that leaves the investigation's own preferred position under more pressure than it was under before the chapter began, with no option selected to relieve it.
+**What it earned.** A test written down before the answer was known, run honestly, and returning the result that costs the most. A decisive datum found only because the sweep was exhaustive rather than targeted — three chapters away from the passage in dispute. A brake applied to the project's own best-sounding material, because John uses both figures and never equates them. Two famous verses examined and found to be comparisons rather than formulas, including one that would need two exchange rates in a single sentence. **And a verdict split where the evidence actually splits rather than where it reads best: the interval's boundedness at SUPPORTS, its approximate length at PERMITS — which costs the chapter its cleanest sentence and leaves the pressure conditional on the one claim the chapter could not earn.**
 :::

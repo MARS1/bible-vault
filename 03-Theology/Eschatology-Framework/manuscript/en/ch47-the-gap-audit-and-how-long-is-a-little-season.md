@@ -110,27 +110,29 @@ I checked it rather than waving at it.
 Then the cost.
 
 ::: finding
-**Finding — the premise deletes the evidence base of this entire investigation**
+**Finding — the premise would re-found the evidence base of this entire investigation**
 
-If labelled AD 100–1100 did not happen, then inside that void sits **every early New Testament manuscript.** The papyri. The great codices, conventionally dated second to fifth century. The entire transmission chain. The canon's formation. Every early writer and every council.
+If labelled AD 100–1100 did not happen, then **every early New Testament manuscript** sits inside the disputed span. The papyri. The great codices, conventionally dated second to fifth century. The transmission chain. The canon's formation. Every early writer and every council.
 
 ❗❗ **And the critical Greek text I have been quoting from for the length of this book is a modern edition reconstructed from exactly those manuscripts.**
 
-The verb match at the binding. The identical form in the Greek Isaiah. The accusative-against-nominative mismatch at Revelation 20:4. The little word *any longer* at 20:3. **All of it rests on manuscripts dated inside the window the hypothesis declares fictional.**
+⚠️ **Now stated precisely, because the strong version of this objection is tempting and is wrong.** ❌ **The manuscripts would not cease to exist, and the Greek would not evaporate.** The physical witnesses would still be sitting in their libraries and would still read exactly what they read. **A chronology revision redates artifacts; it does not delete them.**
 
-🛑 **You cannot remove that span and keep the Greek text the argument is built from. The theory saws off the branch the investigation is standing on.**
+🛑 **What would collapse is everything *around* them** — their dates, their provenance, their sequence relative to one another, and the historical setting each one is read against. **The verb match at the binding, the identical form in the Greek Isaiah, the accusative-against-nominative mismatch at Revelation 20:4, the little word *any longer* at 20:3: the readings survive. Every judgement about which witness is earlier, what it is responding to, and what it can therefore be used to establish would have to be rebuilt from nothing.**
 
-📌 **And this is not an ordinary *unverified* tag.** An unverified claim might later be verified. **This one, if verified, would invalidate the method used to verify it.**
+📌 **And this is not an ordinary *unverified* tag.** An unverified claim might later be verified. **This one, if verified, would require re-founding the apparatus used to verify it** — which is a serious enough objection that it does not need the overstatement I first reached for.
 :::
 
 ::: finding
-**Finding — and it is unfalsifiable by construction**
+**Finding — the *defence* offered for it is self-sealing. The *claim* is not.**
 
-Any evidence dated inside that window can be dismissed **as phantom.** The manuscripts, the coins, the inscriptions, the regnal lists, the councils — all inside the window.
+⚠️ **This distinction decides whether the branch can be tested at all, so it has to be made carefully rather than swung as a club.**
 
-❗❗ **So no counter-evidence from that period can ever count against it. The hypothesis is built so that its own disconfirmation is automatically reclassified as part of the fiction.**
+❗❗ **The defence I was handed seals itself.** Any evidence dated inside that window can be dismissed **as phantom** — the manuscripts, the coins, the inscriptions, the regnal lists, the councils, all of them conveniently inside. **So on that way of arguing, no counter-evidence from the period can ever be allowed to count, and the hypothesis's own disconfirmation is automatically reclassified as part of the fiction. That is not an argument.**
 
-📌 I adopted a rule two Parts ago because *a method that permits an unanswerable objection at every step is not a method.* **This is that same failure pointed the other direction, and it has to be refused for the same reason.** I have spent this whole investigation declining arguments shaped like this when they ran against me. I am not going to accept one because it runs somewhere interesting.
+✅ **But the underlying proposition is nothing like that.** *Roughly a thousand conventional years were inserted into the record* is a claim about elapsed time, and it is **testable against any clock that does not run through the disputed documents.** ❗ **Which is precisely why the five tests below can be written down in advance, and why they can come back with a verdict rather than a shrug.**
+
+📌 I adopted a rule two Parts ago because *a method that permits an unanswerable objection at every step is not a method.* **I refuse the self-sealing defence for exactly that reason — and I refuse to let it stand in for the claim itself.** Dismissing a testable proposition as untestable would be its own kind of convenience, and I would be doing it to a branch I have every motive to be rid of.
 :::
 
 ::: textualnote
@@ -140,7 +142,7 @@ Written before any of them is run, so the branch cannot later be graded on which
 
 | Test | Why it bites |
 |---|---|
-| ★★ **eclipse retro-computation** | eclipses are computable backward from orbital mechanics to the minute, and recorded observations survive in traditions that never coordinated with European chronicles. **A thousand-year insertion would put every recorded eclipse a thousand years off its computed date.** ★ Quantitative rather than interpretive, and it does not route through church records at all |
+| ★★ **eclipse retro-computation** | eclipse tracks are computable backward from orbital mechanics, and recorded observations survive in traditions that never coordinated with European chronicles — Assyrian, Chinese, Greek and Roman among them. ⚠️ *Not "to the minute": the earth's rotation is not perfectly uniform, and the correction for that drift is itself derived partly from the surviving historical observations. The comparison is of tracks and dates, not of exact instants.* **A thousand-year insertion would still place every recorded eclipse a thousand years from its computed date, which is enormously outside that uncertainty.** ★ Quantitative rather than interpretive, and it does not route through church records at all |
 | **dendrochronology** | continuous overlapping tree-ring sequences, cross-matched across regions |
 | **the Islamic calendar** | a continuous count from its own epoch, maintained independently |
 | **the Hebrew calendar** | a continuous count, maintained independently |
@@ -194,27 +196,38 @@ The reasoning offered to me ran: Messiah is at the Father's right hand → the s
 ❗ **But Revelation supplies counter-data, and it is not weak.**
 
 ::: finding
-**Finding — you cannot surround a camp that is in heaven**
+**Finding — land imagery on both sides, and the location still unresolved**
 
-★★★ **Revelation 5:10** — *and You made them a kingdom and priests to our God, and* **<span class="gr">βασιλεύουσιν ἐπὶ τῆς γῆς</span>** — **they reign on the earth.**
+★★★ **Revelation 5:10** — *and You made them a kingdom and priests to our God, and* **<span class="gr">βασιλεύουσιν ἐπὶ τῆς γῆς</span>** — **they reign on the earth.** ⚠️ *The verb's tense is genuinely disputed in the manuscripts; see the note below, because it matters here.*
 
 ★★★ **Revelation 20:9** — they went up **<span class="gr">ἐπὶ τὸ πλάτος τῆς γῆς</span>**, over the breadth of the earth, **and encircled the camp of the saints and the beloved city.**
 
-❗❗ **The saints are in a camp, on the earth's broad expanse, and the nations surround it.**
+✅ **So there is positive land imagery attached both to the saints and to their reign, and it does real work: I am not entitled to assume that saintly existence is exclusively heavenly.**
 
-✅ And **Revelation 20:4 contains no location marker at all** — confirmed by direct search. ✅ And the overcomer is given **authority over the nations**, who are on the earth.
+🛑 **And here is what it does *not* do — which is what I had it doing when I first drafted this.**
 
-📐 So: *the saints are with Messiah* — **established.** *Therefore the millennial reign occurs exclusively in heaven* — ❗ **not merely unestablished. Positively countered.** And *exclusively on earth* is not established either.
+❗❗ **Revelation 20:9 sits *after* the release.** It describes the post-millennial assault, not the interval. **It locates a camp at the end of the thousand years. It does not establish that the resurrected reigners of 20:4–6 were in that camp during them** — nor even that the two groups are the same people.
 
-**The location humility I adopted four Parts ago survives intact — but it is now humility with text on both sides rather than an absence of data.**
+✅ **And Revelation's own sequence leaves room for exactly that gap:** ordinary nations continue through the interval, so covenant-faithful people may well be living among mortal populations while the reigners are somewhere the text simply does not say.
+
+✅ And **Revelation 20:4 contains no location marker at all** — confirmed by direct search. ✅ The overcomer is given **authority over the nations**, who are on the earth — ⚠️ *but a sphere of rule is not a throne's address.*
+
+📐 So: *the saints are with Messiah* — **established.** *The millennial reign occurs exclusively in heaven* — **not established.** *Exclusively on earth* — **also not established.**
+
+### ❗ **Location unresolved. The humility I adopted four Parts ago stands — now with text on both sides rather than an absence of data, and still without an answer.**
 :::
 
 ::: textualnote
-**A translation fragility inside that same verse** `ENGLISH-SPECIFIC`
+**A genuine variant inside that same verse — and a translation fragility on top of it** `SOURCE-LANGUAGE`
 
-✅ **The printed Greek gives a present tense — *they reign*. The future is a variant.** And at least one major English translation renders it *they shall reign.*
+⚠️ **Revelation 5:10's verb is textually disputed, and I am not going to settle it here.**
 
-❗ **An English reader gets a future reign; the printed Greek gives a present one.** This is the second case of its kind in this investigation, after the Spanish edition's broken verb parallel at Revelation 20 — **and it lands on a verse that bears directly on both the location question and the timing question.**
+✅ **Present — <span class="gr">βασιλεύουσιν</span>, *they reign*** — is the reading printed by SBLGNT and by Westcott-Hort.
+✅ **Future — <span class="gr">βασιλεύσουσιν</span>, *they will reign*** — has Nestle-Aland and Byzantine support.
+
+🛑 **So calling either one *the printed Greek* would be choosing an edition and hiding the choice inside a definite article.** That is precisely the move this investigation exists to refuse, and I made it here.
+
+❗ **Which means the verse cannot carry a present-tense argument on its own.** And the English reader who receives *they shall reign* is not being handed a translator's invention — **they are being handed one side of a real split.** This is the second case of its kind in this investigation, after the Spanish edition's broken verb parallel at Revelation 20 — **and it lands on a verse bearing on both the location question and the timing question.**
 :::
 
 ⚠️ One more thing I am refusing to use. Isaiah 65:20 describes a youth dying at a hundred years — and it has been offered to me as a parameter for millennial lifespans. ✅ **Isaiah 65:20 contains death. Revelation 21:4 excludes it.** Identifying the two produces a direct contradiction. 🛑 **So that imagery may not be used to calculate millennial mortality, lifespans, or anyone's personal odds of seeing the interval's end. It is an intertext awaiting demonstration, not a parameter.**
@@ -295,7 +308,7 @@ Three things this investigation already holds, put side by side.
 
 ★★ **And this is why the inserted millennium was reached for in the first place. The instinct found a genuine tension in the model, and option (d) is the one that dissolves it cleanly.**
 
-🛑 **But (d) is the option I sealed at the top of this chapter — and I sealed it for reasons that have nothing to do with this tension, before this tension was known.** It deletes the manuscript base. It is unfalsifiable by construction.
+🛑 **But (d) is the option I sealed at the top of this chapter — and I sealed it for reasons that have nothing to do with this tension, before this tension was known.** It would re-found the manuscript chronology this argument reads from, and the defence offered for it was self-sealing. ❗ **Neither of those is a verdict on the claim itself, which remains testable — and which the tests named above are about to test.**
 
 ❗ **So the tension is real and the most convenient exit is closed. That is exactly the kind of pressure an investigation should want** — and it is now a stated constraint on the model rather than a feeling.
 :::

@@ -228,8 +228,25 @@ def render(lang, part, outdir, stem):
     # A clean exit code from WeasyPrint is not proof the render is correct.
     raw = subprocess.run(["pdftotext", str(pdf), "-"], capture_output=True, text=True).stdout
     txt = re.sub(r"^\s*\d+\s*$", "", raw, flags=re.M)
-    flat = re.sub(r"\s+", " ", txt)
-    got = len(txt.split())
+
+    # Justified body text is hyphenated at line ends, and pdftotext returns the two
+    # halves as separate tokens -- so a hyphenated word counts as two words against a
+    # source that counts it as one. The inflation scales with length, which means the
+    # 2% band silently tightens as a Part grows and eventually reports a false failure
+    # on a Part with nothing wrong with it. Caught 2026-09-20 by Part VIII after a
+    # correction pass: 22,193 recovered against 21,744 source, over the band by 14
+    # tokens, with 208 line-break hyphens in the document. Rejoining them lands it at
+    # +241, inside the SAME 2% band -- the tolerance is not widened here, the count is
+    # simply made to measure words instead of typesetting.
+    #
+    # WeasyPrint breaks with U+2010 HYPHEN (and U+00AD shows up too), which is why an
+    # ASCII-hyphen check finds nothing. ASCII '-' is rejoined for the count as well,
+    # where spelling does not matter -- but NOT in `flat`, because a genuinely
+    # hyphenated word like "first-century" broken at its own hyphen must keep it to
+    # match a heading.
+    dehyph = lambda t, chars: re.sub(rf"[{chars}]\s*\n\s*", "", t)
+    flat = re.sub(r"\s+", " ", dehyph(txt, "\u2010\u00ad"))
+    got = len(dehyph(txt, "\u2010\u00ad-").split())
     bad = sum(raw.count(m) for m in ("â€", "�", "Ã"))
     missing = [f.stem for f in files
                if _norm(re.sub(r"\s+", " ", declutter(strip_frontmatter(f.read_text()))

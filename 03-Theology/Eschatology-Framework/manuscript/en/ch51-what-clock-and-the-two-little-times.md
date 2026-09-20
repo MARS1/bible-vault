@@ -12,7 +12,7 @@ related: "[[10-manuscript-architecture]], [[03o-what-clock-and-the-two-little-ti
 
 # Chapter 51: what clock, and the two little times
 
-The previous chapter closed the only exit that would have dissolved the arithmetic cleanly, and left the pressure higher than it found it. **A thousand years, then roughly nine hundred and fifty more, and Revelation calls the second one *a short time*.**
+The previous chapter closed the only exit that would have dissolved the arithmetic cleanly, and left the pressure higher than it found it. **A thousand years, then roughly nine hundred and fifty more, and Revelation calls the second one *a short time*** — a sum that holds *if* the thousand years are approximately chronological, which is the one link in it graded at no more than PERMITS.
 
 There is a second exit, and it is more respectable than the first. **If the reign is heavenly, perhaps it runs on a different clock from ours** — and the objection dissolves without touching a single date.
 

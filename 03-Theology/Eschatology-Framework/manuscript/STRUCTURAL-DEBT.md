@@ -65,6 +65,21 @@ related: "[[10-manuscript-architecture]], [[SYNC-LEDGER]], [[ES-REGISTER]]"
 | **The lesson worth keeping** | ❗❗ **The original-language gate PASSED these pages.** It verifies that source text is *wrapped*, which is exactly what it claims to do — and wrapping is not rendering. **`pdftotext` also reported the uppercased forms back as though they were the source.** Only rasterizing the page and looking at it caught this, which is why that step is mandatory rather than advisory. |
 
 ---
+## LAYOUT-003 — comparison-table rows fragment across page breaks
+
+| | |
+|---|---|
+| **Status** | ❗ **OPEN — logged 2026-09-20, not fixed. Part VI is closed and is not being reopened for it.** |
+| ⚠️ **Numbering note** | **Reported as "LAYOUT-002" in review.** That identifier was already taken on 2026-09-19 by the `.gr` uppercase-corruption defect, so this is filed as **LAYOUT-003**. Renumbering the earlier entry would break the commit that references it. |
+| **Symptom** | Part VI EN, **pp. 160–161**: row **7** of the trumpet/bowl comparison table splits across the page boundary. The row number `7` and its Bowl cell *("It is done")* stay on p. 160; the Trumpet cell *("loud voices: the kingdom has come")* continues on p. 161 **beneath a repeated header and with no row number or Bowl counterpart beside it.** Reported from the rendered PDF, with a screenshot. |
+| **Why it matters more than it looks** | ❗ **The text is all present, so every automated gate passes** — word recovery, section presence and mojibake checks all read this as correct. **What breaks is the semantic relationship the layout creates.** A comparison table's meaning lives in the row: the reader is being asked to see *trumpet 7* against *bowl 7*. Split across a page, the orphaned cell reads as a new fragment, and the reader has to reconstruct a correspondence the table exists to present. |
+| **Required behaviour** | A logical row must stay intact across a page boundary. If a complete row will not fit, **the whole row moves to the next page.** Repeating the header on the continuation page is fine and should stay. |
+| **Likely fix, when the pass comes** | `break-inside: avoid` / `page-break-inside: avoid` on `tr`, applied at the stylesheet level rather than by forcing a break at this one table. ⚠️ **This is a prediction from the defect's shape, not an observed result** — WeasyPrint's support for row-level break control needs confirming against real output before the fix is called done, and a `tr` taller than a page cannot be honoured at all. |
+| **Check at the same time** | Every multi-row comparison table in **all** Parts and **both** editions, not just this one — the cause is a global stylesheet omission, so any sufficiently long table can hit it. ★ **And re-inspect visually, not by text extraction:** `pdftotext` reports this page pair as complete and correct. |
+| **Class** | **Presentation only.** No lexical, theological, evidentiary, citation, component-type or structural content is involved. |
+| **The lesson it shares with LAYOUT-002** | ❗❗ **This is the second defect in two days that every automated gate passed and only a rendered image caught.** LAYOUT-002 was source text that was correctly wrapped and still rendered wrong; this is content that is all present and still reads wrong. **Extraction confirms presence. It cannot confirm layout, and layout is carrying meaning in both cases.** |
+
+---
 ---
 
 > ### 📐 **A note on why this register exists at all.** The alternative was a sentence in a session report, which is where structural gaps go to be forgotten. The `sabbatismos` verification gap, the RVR1960 retrieval debt in SYNC-006 and this checkpoint are all the same species of item: **known, bounded, and not yet done.** Each one is cheaper to carry visibly than to rediscover.
