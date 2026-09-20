@@ -189,7 +189,7 @@ related: "[[00-index]], [[00a-narrative-spine]], [[09-manuscript-integrity-audit
 
 > ### ★★★★★ **CH. 41 MUST CARRY THE STAGE 48 CORRECTION IN FULL AND IN FIRST PERSON — this project asserted that Matthew 13:41 and 24:31 share a gathering verb. **IT WAS FALSE.** 13:41 is ΣΥΛΛΕΞΟΥΣΙΝ; 24:31 is ΕΠΙΣΥΝΑΞΟΥΣΙΝ.** ✅ **And the correction PAID: chasing the real verb found Matthew's only other ἐπισυνάγω at 23:37 — Yeshua's lament over Jerusalem, one chapter earlier — which points AWAY from the reading this project prefers.** **📌 NOW WITH A THIRD WITNESS: RVR1960 independently splits juntar from recoger (q440). Print it.**
 
-**📉 COMPRESSED:** **Side Branch 54¾ (the Chronology Fork and the Quarantine)** moves to **Ch. 47's setup in Part VIII**, where the crisis it quarantined actually detonates.
+**✅ INCORPORATED — 2026-09-19, no longer deferred debt.** **Side Branch 54¾ (the Chronology Fork and the Quarantine)** is **carried in Ch. 47**, where the crisis it quarantined detonates: the quarantine and both of its structural grounds *(that the branch deletes the manuscript base this argument reads from, and that it is unfalsifiable by construction)*, plus the **five falsification tests named in advance**. ★ **And it paid in Ch. 50** — all five tests were run against the branch, and the quarantine's structural objection never had to be invoked, because the branch failed on evidence first. ❗ **Stop describing 54¾ as compressed, deferred or unplaced in checkpoints and project-state summaries.**
 
 **📦 BOXES:** *WORD STUDY* — **ἁρπάζω** · **ἐπισυναγωγή** ❗ *(Heb 10:25 uses it of an ordinary assembly meeting — shared vocabulary establishes a shared WORD, not a shared EVENT)* · **ναός / ἱερόν** · **ἀνομία**. *TEXTUAL NOTE* — **the Theodotion recovery**.
 
