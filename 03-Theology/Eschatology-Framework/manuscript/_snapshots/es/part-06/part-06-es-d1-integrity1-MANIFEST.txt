@@ -1,0 +1,14 @@
+Edition:        Español (es)
+Part:           6  Parte VI: Apocalipsis, leído a través de la Escritura anterior
+Milestone:      d1-integrity1
+Source commit:  fc2d2519e60478630a509b9f0576adb6be6c02a2
+Commit date:    2026-09-21
+Tree state:     source committed at this commit
+Built:          2026-09-21
+Extent:         46,763 words, 250 pages
+
+NOTE
+Post-D1 integrity/editorial pass, 2026-09-21. NOT a reopening of the theological investigation: no argument strengthened, no evidence grade moved, no conclusion changed. The d1 snapshot is preserved unchanged beside this one. TWO REPAIRS. (1) SCRIPTURE-COMPLETE-001 / machinery scrub: research-infrastructure language removed from reader-facing prose under the governing distinction that failures of reasoning, evidence, verification and judgment are PRESERVED while failures of tooling and retrieval are REMOVED. The versification discrepancy in Revelation 17 is kept as the epistemic event it is and stripped of its retrieval framing; open debts reworded to verification vocabulary rather than deleted. Category-A machinery remaining in Part VI: zero. (2) PERSON-INTRO-001: five orientation capsules added at the point each figure first carries evidentiary weight - Nero, Domitian, Irenaeus, Tacitus, Eusebius - each giving dates, role, relation to the events and whether biblical or extra-biblical, and none telling the reader what to conclude. 1 Clement disambiguated inline as a document rather than given a person capsule. Capsules are identically placed in both editions.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit fc2d251
