@@ -66,6 +66,18 @@ in the later Spanish copyedit pass, across all Parts at once, so the edition end
 patched chapter by chapter.
 
 
+**⚠️ `USTED ESTÁ AQUÍ` IS A SANCTIONED EXCEPTION, ESTABLISHED IN ES PART VIII.** The English
+marker `YOU ARE HERE` is a **map label**, not the narrator addressing the reader, and
+`USTED ESTÁ AQUÍ` is the standard Spanish wording on an actual map. It is therefore a *mention of
+a fixed label*, the same category as mentioning the pronoun *vosotros* — not the *usted* reader
+address the copyedit item above is about. **Keep it verbatim wherever the marker appears**, and do
+not "fix" it to `ESTAMOS AQUÍ` in a later register sweep. ❗ **It recurs at the end of the book:
+the architecture requires ch54 to close on `YOU ARE HERE: ?` with the question mark intact, so the
+Spanish marker has to be stable from Part VIII onward.** The automated checker does not flag it
+(reader address is outside what it inspects), so this note is the only record that the choice was
+deliberate.
+
+
 ## 2b. Cosmological terminology *(both editions, not just Spanish)*
 
 > ### 🛑 **NO `planeta` · `planetario` · `global` · `globalmente` · `mundial` — and no `planet` · `global` · `worldwide` · `globular` in English.**
