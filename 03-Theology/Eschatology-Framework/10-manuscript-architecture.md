@@ -231,6 +231,13 @@ related: "[[00-index]], [[00a-narrative-spine]], [[09-manuscript-integrity-audit
 >
 > ### 🛑 **CH. 53 KEEPS ITS FULL EVIDENCE LEDGER TABLE AND ITS DISCONFIRMING-EVIDENCE SECTION. NEITHER IS AN APPENDIX ITEM.** **A book that asks the reader to test inherited systems must print what could count against its own.**
 >
+> ### 🛑 **SYNTHESIS CONSTRAINT, ADDED 2026-09-21 AT PART VIII's CLOSURE — THE ASYMMETRY FROM CH. 49 MUST SURVIVE INTO PART IX INTACT.**
+>
+> ### ✅ **Revelation strongly establishes a *bounded thousand-year interval in the vision's own language* — that is at SUPPORTS.**
+> ### ⚠️ **How directly that number maps onto approximately one thousand ordinary historical years is *less certain* — graded at PERMITS, reaching no higher than weak SUPPORTS.**
+>
+> ### ❗❗ **DO NOT LET *weak SUPPORTS* DRIFT INTO *probably about a thousand years* IN THE FINAL LEDGER.** The two halves were deliberately separated in ch49 because merging them is what produced the over-read the Part VIII review caught. **A synthesis chapter is exactly where a qualifier gets dropped for the sake of a cleaner sentence** — this one does not get dropped. Carry the qualifier with the claim, not in a footnote beneath it.
+
 > ### 🛑 **CH. 54 ENDS ON `YOU ARE HERE: ?` AND THE QUESTION MARK STAYS.** **No epilogue may resolve it. No appendix may hint at resolving it.**
 
 **Coda — "I Do Not Have to Know Everything in Order to Know Why I Believe What I Believe."** *(Stage 66's closing lines, unedited.)*
