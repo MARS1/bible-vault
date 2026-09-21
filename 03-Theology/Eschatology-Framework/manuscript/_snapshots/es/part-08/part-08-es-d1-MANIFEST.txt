@@ -1,0 +1,14 @@
+Edition:        Español (es)
+Part:           8  Parte VIII: El milenio y el horizonte abierto
+Milestone:      d1
+Source commit:  6dfadc9a09a589c6bc38d0e0f57526a66fd5e940
+Commit date:    2026-09-21
+Tree state:     source committed at this commit
+Built:          2026-09-21
+Extent:         18,417 words, 121 pages
+
+NOTE
+Borrador 1 de la edicion hermana en castellano, escrita desde el archivo maestro de evidencia y desde la narrativa inglesa ya corregida y cerrada (EN d1-closed, 06a3aee). Las cuatro correcciones sustantivas autorizadas vienen incorporadas desde el origen: el veredicto partido de chilia ete (acotacion en APOYA, duracion aproximada en PERMITE) con la cuenta enunciada condicionalmente; una revision cronologica redata artefactos y no los borra; la defensa autosellada distinguida de la proposicion comprobable; los eclipses no calculables al minuto; la fuerza del argumento hijri como independencia de interes; y Apocalipsis 20:9 posterior a la liberacion, incapaz de ubicar a los que reinan en 20:4-6, con la conclusion en UBICACION SIN RESOLVER. La variante de Apocalipsis 5:10 se hereda como SOURCE-LANGUAGE. Verificacion bilingue de ocho puntos superada, con UNA divergencia declarada: ES ch48 lleva una nota textual adicional de deuda declarada, exigida por la regla de no citar lo no verificado y etiquetada SPANISH-SPECIFIC.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit 6dfadc9
