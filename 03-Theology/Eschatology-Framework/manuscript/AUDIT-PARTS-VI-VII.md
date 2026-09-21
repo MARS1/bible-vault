@@ -4,12 +4,26 @@ type: reference
 category: theology
 tags: [audit, parts-vi-vii, scripture-complete-001, person-intro-001, machinery-leakage, findings-only]
 created: 2026-09-21
-status: open
+status: closed
 localization: "★★★ TWO AUDITS ORDERED 2026-09-21, RUN AGAINST PARTS VI AND VII IN BOTH EDITIONS. ❗ FINDINGS ONLY — NOTHING WAS REPAIRED. The instruction was to produce lists and come back before going further, and blind search-and-replace is explicitly forbidden in both audits. ★★★★ AUDIT 1 CONFIRMS THE PROBLEM IS SYSTEMIC, NOT ISOLATED: 64 instances of research machinery narrated as manuscript content across both Parts and both editions, plus 27 more where a legitimate evidence status is stated in retrieval vocabulary. Part VII ch40 opens with an entire SECTION about retrieval failure, including a table of what an API did not return. ★★★★ AND THE FLAGSHIP CASE IS EXACTLY THE ONE PREDICTED: Revelation 6:9-11 was requested, verses 10-11 did not come back, and the manuscript argues from 6:9 while telling the reader about the truncation. ★★★ AUDIT 2: the `person` component EXISTS and was used FOUR TIMES, all in Parts I-II, all for biblical figures — and never once for the extra-biblical witnesses who carry actual evidentiary weight. Irenaeus, Eusebius, Josephus, Theodotion, Antiochus, Nero, Domitian, Tacitus all appear unoriented. ⚠️ ONE JUDGEMENT CALL IS FLAGGED RATHER THAN DECIDED — see the question at the end of Audit 1."
 related: "[[EDITORIAL-RULES]], [[00-methodology-current]], [[STRUCTURAL-DEBT]], [[PROVENANCE-LOG]], [[SYNC-LEDGER]]"
 ---
 
 # Parts VI–VII Integrity Audit
+
+> ## ✅ **BOTH PASSES COMPLETE, 2026-09-21. EN VI → ES VI → EN VII → ES VII, in that order.**
+>
+> ### **Category-A machinery across both Parts and both editions: ZERO.**
+>
+> | | Result |
+> |---|---|
+> | **Evidence gaps** | All three of `ch40`'s declared truncations were **already closed in the archive** — see the section below. `ch40` was rewritten **onto** the complete text, not around the gap |
+> | **Machinery** | ~64 instances repaired one at a time under the governing distinction. **No sentence was deleted for containing an inconvenient admission** |
+> | **Capsules** | 6 added — Nero, Domitian, Irenaeus, Tacitus, Eusebius *(`ch36`)* and Theodotion *(`ch41`)* — identically placed in both editions. *1 Clement* disambiguated inline as a document |
+> | **Milestones** | `d1-integrity1` in all four, with the prior snapshots preserved beside them |
+>
+> ### ⚠️ **STILL OPEN AND DELIBERATELY NOT DONE HERE:** the remaining figures from Audit 2 *(Josephus, Justin Martyr, Titus, Melchizedek)*, whose first appearances are in **Parts III–V** and therefore outside this pass's authorized scope · and `TYPOGRAPHY-001`, which belongs to the design pass with `LAYOUT-001` and `LAYOUT-003`.
+
 
 > ### 🛑 **FINDINGS ONLY. NOTHING IN THIS AUDIT HAS BEEN REPAIRED.** Both audits were ordered with blind replacement explicitly forbidden, and both produced cases where the offending vocabulary is carrying legitimate content. **Every repair is a judgement that needs the author.**
 

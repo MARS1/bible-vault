@@ -1,0 +1,14 @@
+Edition:        Español (es)
+Part:           7  Parte VII: Poniendo a prueba el caso contra sí mismo
+Milestone:      d1-integrity1
+Source commit:  e3c24b25294f1b5ef538dd2b6e70ce10a0113451
+Commit date:    2026-09-21
+Tree state:     source committed at this commit
+Built:          2026-09-21
+Extent:         40,682 words, 246 pages
+
+NOTE
+Post-D1 integrity/editorial pass, 2026-09-21. NOT a reopening of the theological investigation: no argument strengthened beyond what the verified evidence warrants, no grade moved, no conclusion changed. Earlier snapshots preserved unchanged. SUBSTANTIVE REPAIR IN CH40: its opening declared three truncated retrievals, but the source ledger shows all three were already closed - Revelation 6:9-11 and Matthew 27:51-53 at S67, Hebrews 12:22-24 at q183, the last of these six stages BEFORE the stage that declared it outstanding. The section is therefore rewritten onto the complete text rather than around the gap, carrying S67's own finding that the completed Revelation 6 text STRENGTHENED the control built without it - an outcome available only because the gap was declared instead of filled from expectation. MACHINERY SCRUB elsewhere, applied instance by instance under the governing distinction that failures of reasoning, evidence, verification and judgment are PRESERVED while failures of tooling are REMOVED: rejected readings, overruled conclusions, miscounts and the two wrong assumptions behind the Theodotion recovery all remain, stated as the intellectual events they are; agents, lanes, fetches and HTTP status codes are gone. Category-A machinery across Parts VI and VII, both editions: zero. PERSON-INTRO-001: Theodotion capsule added at first meaningful mention in ch41, identically in both editions.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit e3c24b2
