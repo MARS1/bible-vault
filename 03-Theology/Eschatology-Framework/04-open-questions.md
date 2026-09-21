@@ -973,6 +973,22 @@ Distinct from the numbered list above: those are things actually researched that
 
 ---
 
+### 📜 **HOW THE QUESTION AROSE — preserved deliberately, because Part IX will want the progression and not just the verdict.**
+
+**This was not an abstract exercise, and it did not come from research. It came from reading.**
+
+**①** <span class="gr">οἱ λοιποὶ τῶν νεκρῶν</span> had once helped support an earlier intuition of the author's: **that perhaps only the resurrected saints were alive during the thousand years.**
+
+**②** ❗ **The investigation rejected that population model.** The nations continue through the interval — the binding is predicated of <span class="gr">τὰ ἔθνη</span>, and Satan is released to deceive them, which requires them to be there.
+
+**③** ★★ **And the phrase then generated a NEW question that the old model had concealed:** *if ordinary mortal humanity continues through the thousand years — then what about the people who are born, live, and die inside it?*
+
+📐 **That is the shape of the thing worth recording. A phrase that had propped up a discarded reading did not simply fall away with it; once the reading was gone, the same phrase asked a harder question that nobody had needed to ask while the old model stood.** ❗ **And it surfaced in a manuscript read-through, not in any of the sixty-six stages** — which is an argument for the read-through as a research instrument, not merely a copyedit pass.
+
+✅ **For Part IX this should emerge as a CONSEQUENCE rather than arrive as a patch:** once continuing human civilization during the millennium is admitted, a downstream population question follows necessarily. **It is not an awkward leftover; it is something the investigation's own conclusion produces.**
+
+---
+
 ### ✅ **INVESTIGATION RETURNED, 2026-09-21. FINDINGS ONLY — NO MANUSCRIPT TEXT CHANGED.** Run against already-verified sources *(S11, S66, S69 — Revelation 20:1–10, 20:4–6, 20:11–15, all truncation-checked)*, so no new retrieval was required.
 
 **① THE GRAMMATICAL QUESTION — ANSWERED, AND IT DISSOLVES THE REST IN A PRINCIPLED WAY.**
