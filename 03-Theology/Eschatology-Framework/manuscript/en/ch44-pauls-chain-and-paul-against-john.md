@@ -16,7 +16,7 @@ I had been treating Paul's three passages as three accounts of one event, the wa
 
 **Search each passage for the vocabulary of the others.**
 
-## Two searches, and both came back total
+## Two searches, and both were total
 
 ::: finding
 **Finding — 2 Thessalonians 2:1–12 contains no resurrection vocabulary at all**
@@ -106,7 +106,7 @@ And 1 Thessalonians 4 and 1 Corinthians 15 genuinely share four things: the arri
 
 **"We shall all be changed" is not universal.** The *all* of *in Messiah all shall be made alive* is bounded by *in Messiah* — exactly as the next verse then specifies with *those who belong to Messiah*.
 
-**And firstfruits does not mean first person ever raised.** Romans 6:9: *having been raised from the dead, He dies **no more**; death **no longer** has dominion over Him.* **Twice.** That is the category difference — the earlier restorations returned to mortal life and could die again. ⚠️ **Though the restoration accounts themselves were not retrieved this pass. The contrast is sound; its examples are reported, not verified.**
+**And firstfruits does not mean first person ever raised.** Romans 6:9: *having been raised from the dead, He dies **no more**; death **no longer** has dominion over Him.* **Twice.** That is the category difference — the earlier restorations returned to mortal life and could die again. ⚠️ **Though the restoration accounts themselves were not read this pass. The contrast is sound; its examples are reported, not verified.**
 
 ## Four ways of saying "first," and none of them the same way
 
@@ -152,10 +152,10 @@ A single grade across the whole chain would have read more cleanly and been defe
 
 # And then Paul against John
 
-Two debts were paid before this comparison started, and both had been declared as truncated three chapters ago rather than argued past.
+Two debts were paid before this comparison started, and both had been declared incomplete three chapters ago rather than argued past.
 
 ::: textualnote
-**Two truncations discharged, and the discipline paid twice over**
+**Two incomplete passages completed, and the discipline paid twice over**
 
 ✅ **Revelation 6:10–11, now complete** — the *how long* cry, the white robes, and *that they should rest **a little longer**, until the number of their fellow servants and their brothers **should be completed**, who were to be killed as they had been.*
 
@@ -244,7 +244,7 @@ With the sixth-seal material finally complete, the arc reads: souls under the al
 **The spiritual-resurrection reading is under very high pressure. That reading would have made this whole investigation easier, and the evidence went the other way.**
 :::
 
-⚠️ And one accidental discovery: **the sixth seal's *a little time* is the same two words as chapter 20's *a short time*, reordered.** An earlier audit compared chapter 12's short-period phrase against chapter 20's **and never checked chapter 6.** 🛑 Recorded as an observation, not an identity — Revelation now has at least three short-period expressions — **but it is a genuine gap in a prior audit and it only surfaced because a truncation debt finally got paid. Unpaid debts hide more than they cost.**
+⚠️ And one accidental discovery: **the sixth seal's *a little time* is the same two words as chapter 20's *a short time*, reordered.** An earlier audit compared chapter 12's short-period phrase against chapter 20's **and never checked chapter 6.** 🛑 Recorded as an observation, not an identity — Revelation now has at least three short-period expressions — **but it is a genuine gap in a prior audit and it only surfaced because an incomplete passage finally got completed. Unpaid debts hide more than they cost.**
 
 ## The contradictions, and two of them are sharp
 
@@ -352,5 +352,5 @@ I still think these are the same event. The shape is too close — the same orde
 :::
 
 ::: earned
-**What it earned.** A test that can return zero, and did. A verdict graded down against the way the evidence felt. A Revelation-facing datum handed forward unused rather than spent early. Two truncation debts paid, one of which strengthened a control built while the gap was still open, and one of which exposed a gap in an audit nobody knew was there. And a named place for an opponent to attack, written down before anyone else had to find it.
+**What it earned.** A test that can return zero, and did. A verdict graded down against the way the evidence felt. A Revelation-facing datum handed forward unused rather than spent early. Two incomplete passages completed, one of which strengthened a control built while the gap was still open, and one of which exposed a gap in an audit nobody knew was there. And a named place for an opponent to attack, written down before anyone else had to find it.
 :::

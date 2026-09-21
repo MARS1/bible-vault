@@ -99,7 +99,7 @@ Lo cual lleva al caso de control hacia aquello para lo que existía, y que no pu
 **Ni siquiera el testigo histórico más cercano especifica el objeto.** Eso es un hallazgo en sí mismo, y corta contra cualquier afirmación moderna confiada sobre qué tiene que ser físicamente una abominación desoladora.
 :::
 
-Una cosa que dejo deliberadamente abierta: **si Daniel 11:36 sigue describiendo a Antíoco o el horizonte se desplaza.** Eso es una disputa de nivel comentario y ninguna recuperación puede decidirla. Registrada como abierta — ⚠️ **y no puede zanjarse después sobre la base de que una respuesta le convenga a mi cronología.**
+Una cosa que dejo deliberadamente abierta: **si Daniel 11:36 sigue describiendo a Antíoco o el horizonte se desplaza.** Eso es una disputa de nivel comentario y ninguna lectura del texto puede decidirla. Registrada como abierta — ⚠️ **y no puede zanjarse después sobre la base de que una respuesta le convenga a mi cronología.**
 
 ## Los sinópticos coinciden en la huida y difieren en la señal
 
@@ -180,32 +180,32 @@ Así que Antíoco no puede agotar toda aplicación legítima del lenguaje de Dan
 
 ❗ **Y el freno del paralelo parcial muerde de inmediato: el arco de Nabucodonosor resuelve en arrepentimiento y restauración.** La semejanza en la partida no puede sobrevivir a la contradicción en la resolución. Por eso mismo pertenece a un registro de motivo y no a una cadena.
 
-⚠️ **Las cinco filas están reportadas y no recuperadas en esta pasada**, salvo la de Pablo. **Verificar antes de usar** — y prefiero imprimir esa frase antes que dejar pasar una tabla prolija como trabajo verificado.
+⚠️ **Las cinco filas están reportadas y no verificadas en esta pasada**, salvo la de Pablo. **Verificar antes de usar** — y prefiero imprimir esa frase antes que dejar pasar una tabla prolija como trabajo verificado.
 
 ---
 
 # La deuda que falló tres veces
 
-Cuatro hallazgos distintos estaban bloqueados por un texto faltante: **el Daniel griego de Teodoción.** Tres intentos, en tres etapas, tres agentes distintos, tres conjuntos de fuentes distintos. Los tres fracasaron.
+Cuatro hallazgos distintos estaban bloqueados por un texto faltante: **el Daniel griego de Teodoción.** Tres intentos, en tres etapas, en tres lugares distintos. Los tres fracasaron.
 
 Y el diagnóstico importa más que el arreglo.
 
 ::: textualnote
-**Nota textual — la recuperación de Teodoción, y por qué la respuesta no era insistir**
+**Nota textual — el hallazgo de Teodoción, y por qué la respuesta no era insistir**
 
-Todos los intentos anteriores buscaban **un sitio web que muestre el Daniel griego.**
+Todos los intentos anteriores buscaban **una edición de lectura que muestre el Daniel griego.**
 
 **Dos suposiciones eran falsas, y ninguna se había examinado nunca.**
 
-**Una:** que Teodoción se serviría como **página**. Se sirve como **corpus académico en texto plano** — una Septuaginta con etiquetado morfológico, por una ruta heredada de un protocolo más antiguo.
+**Una:** que Teodoción existiría como **edición de lectura**. Existe como **corpus académico en texto plano** — una Septuaginta con etiquetado morfológico, por una ruta heredada de un protocolo más antiguo.
 
 **Dos:** que *el Daniel griego* es un texto con Teodoción en alguna parte adentro. **No lo es. El corpus entrega las dos recensiones como dos archivos separados, bajo dos nombres.**
 
 ❗ **Y la pista ya estaba en mi propio archivo, sin leer.** Dos capítulos atrás registré que cierta fuente daba en Daniel una lectura distintiva, y la identifiqué como **Griego Antiguo por la propia marca del texto**. La edición crítica estándar imprime **Teodoción** como su texto principal de Daniel. **Esos dos hechos juntos implican que otro árbol de ediciones daría Teodoción — y tres etapas posteriores buscaron sin combinarlos nunca.**
 
-🆕 **La regla que esto impone, tercera de una familia:** *una petición fallida no es una fuente no disponible* · *la herramienta importa tanto como la dirección* · y ahora — **preguntar qué *clase* de artefacto es el texto.** Algunos textos no son páginas web, y un texto que existe en dos recensiones puede venir en dos archivos.
+🆕 **La regla que esto impone, tercera de una familia:** *no encontrar algo no es prueba de que no exista* · *dónde se busca importa tanto como qué se busca* · y ahora — **preguntar qué *clase* de artefacto es el texto.** Algunos textos no son páginas web, y un texto que existe en dos recensiones puede venir en dos archivos.
 
-**En las dos últimas recuperaciones el arreglo no fue insistir. Fue hacer una pregunta distinta sobre el artefacto.**
+**En los dos últimos hallazgos el arreglo no fue insistir. Fue hacer una pregunta distinta sobre el artefacto.**
 :::
 
 Y no solo llenó un hueco.
@@ -223,7 +223,7 @@ Y no solo llenó un hueco.
 
 Así que la afirmación de que el hijo de hombre de Daniel 7:13 es **presentado ante** el Anciano de días y no que desciende a la tierra está **confirmada por dos de tres testigos**.
 
-📌 **Y mi manejo anterior queda vindicado.** Un agente de recuperación había afirmado que el Griego Antiguo decía *se acerca al trono*; rechacé la afirmación y registré la divergencia **sin resolver** en vez de alisarla. **Si la hubiera aceptado, este hallazgo sería invisible** — la rareza genuina del Griego Antiguo se habría borrado hacia la concordancia, y el resultado de dos sobre tres jamás habría aparecido.
+📌 **Y mi manejo anterior queda vindicado.** Se me había afirmado que el Griego Antiguo decía *se acerca al trono*; rechacé la afirmación y registré la divergencia **sin resolver** en vez de alisarla. **Si la hubiera aceptado, este hallazgo sería invisible** — la rareza genuina del Griego Antiguo se habría borrado hacia la concordancia, y el resultado de dos sobre tres jamás habría aparecido.
 :::
 
 ## Una huella que no estaba buscando — y el freno que la limita
@@ -257,7 +257,7 @@ Las alineaciones de Mateo y de Apocalipsis son genuinas. **Pero Marcos y Lucas m
 
 📐 Así que la afirmación debe enunciarse en su alcance real: **las dos citas de Mateo se alinean con el Griego Antiguo, y la preposición de Apocalipsis 1:7 se alinea con Teodoción.** No puede convertirse en *el Nuevo Testamento se divide según líneas de recensión*. **No es así.**
 
-⚠️ Y otra conclusión de carril revocada: la recuperación reportó que Marcos y Lucas *se alinean con la tradición de Teodoción o emplean* <span class="gr">ἐν</span> *de manera independiente*. **Teodoción tiene *con*, no *en*.** Solo sobrevive la segunda mitad de esa disyunción.
+⚠️ Y otra conclusión revocada: se me reportó que Marcos y Lucas *se alinean con la tradición de Teodoción o emplean* <span class="gr">ἐν</span> *de manera independiente*. **Teodoción tiene *con*, no *en*.** Solo sobrevive la segunda mitad de esa disyunción.
 :::
 
 Y la recuperación cerró una de mis preguntas abiertas en la dirección que no quería.
@@ -278,7 +278,7 @@ Teodoción 11:36 contiene una palabra para **habla arrogante e hinchada** a poca
 
 | Pasaje | Hebreo | Griego Antiguo | **Teodoción** |
 |-------------|-------------------|---------------------|----------------------------------|
-| **8:13** | *transgresión* | ❌ no recuperado | ★ **<span class="gr">ἁμαρτία</span> — *pecado*, no *abominación*** |
+| **8:13** | *transgresión* | ❌ no verificado | ★ **<span class="gr">ἁμαρτία</span> — *pecado*, no *abominación*** |
 | **11:31** | con artículo | *abominación de desolación* | ★ **otra palabra desoladora, distinta** |
 | **12:11** | sin artículo | **con artículo** | **sin artículo** |
 
@@ -311,7 +311,7 @@ Así que intenté romperlo. **Una pregunta, y es desagradable:**
 ::: textualnote
 **Una deuda pagada antes de que el argumento se apoyara en ella**
 
-La *iniquidad* de Mateo 24:12 estaba en mis archivos como **reportada, no verificada** — una recuperación había fallado. **Y es la columna léxica de toda esta prueba.**
+La *iniquidad* de Mateo 24:12 estaba en mis archivos como **reportada, no verificada** — el versículo nunca se había leído en el original. **Y es la columna léxica de toda esta prueba.**
 
 Así que se verificó antes de usarla. Ahora está confirmada en griego.
 

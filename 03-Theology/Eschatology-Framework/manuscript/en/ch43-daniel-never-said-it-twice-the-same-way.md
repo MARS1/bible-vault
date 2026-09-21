@@ -174,24 +174,24 @@ So Antiochus cannot exhaust every legitimate application of Daniel's language �
 
 # The debt that failed three times
 
-Four separate findings had been blocked by one missing text: **Theodotion's Greek Daniel.** Three attempts, across three stages, three different agents, three different source sets. All three failed.
+Four separate findings had been blocked by one missing text: **Theodotion's Greek Daniel.** Three attempts, across three stages, in three different places. All three failed.
 
 And the diagnosis matters more than the fix.
 
 ::: textualnote
 **Textual note — the Theodotion recovery, and why persistence was not the answer**
 
-Every prior attempt searched for **a website that displays Greek Daniel.**
+Every prior attempt went looking for **a reading edition that displays Greek Daniel.**
 
 **Two assumptions were wrong, and neither had ever been examined.**
 
-**One:** that Theodotion would be served as a **page**. It is served as an **academic plain-text corpus** — a morphologically tagged Septuagint, over a path inherited from an older protocol.
+**One:** that Theodotion would exist as **a reading edition**. It exists as an **academic plain-text corpus** — a morphologically tagged Septuagint, kept where specialists keep such things rather than where a reader would look.
 
 **Two:** that *the Greek Daniel* is one text with Theodotion somewhere inside it. **It is not. The corpus ships the two recensions as two separate files, under two names.**
 
 ❗ **And the clue was already in my own archive, unread.** Two chapters ago I recorded that a particular source's Daniel gave a distinctive reading, and identified it as **Old Greek from the text's own tell**. The standard critical edition prints **Theodotion** as its main Daniel text. **Those two facts sitting together imply that a different edition tree would yield Theodotion — and three subsequent stages searched without ever combining them.**
 
-🆕 **The rule this forces, third in a family:** *a failed request is not an unavailable source* · *the tool matters as much as the URL* · and now — **ask what *kind* of artifact the text is.** Some texts are not web pages, and a text existing in two recensions may be shipped as two files.
+🆕 **The rule this forces, third in a family:** *failing to find something is not evidence that it does not exist* · *where you look matters as much as what you look for* · and now — **ask what *kind* of artifact the text is.** Some texts are not web pages, and a text existing in two recensions may be shipped as two files.
 
 **In both of the last two recoveries the fix was not persistence. It was asking a different question about the artifact.**
 :::
@@ -211,7 +211,7 @@ And it did not merely fill a gap.
 
 So the claim that Daniel 7:13's son of man is **presented before** the Ancient of Days rather than descending to earth is **confirmed by two of three witnesses**.
 
-📌 **And my earlier handling is vindicated.** A retrieval agent had asserted that the Old Greek said *he approaches the throne*; I rejected the assertion and recorded the divergence **unresolved** rather than smoothing it. **Had I accepted it, this finding would have been invisible** — the Old Greek's genuine oddity would have been erased into agreement, and the two-of-three result could never have appeared.
+📌 **And my earlier handling is vindicated.** It had been asserted to me that the Old Greek said *he approaches the throne*; I rejected the assertion and recorded the divergence **unresolved** rather than smoothing it. **Had I accepted it, this finding would have been invisible** — the Old Greek's genuine oddity would have been erased into agreement, and the two-of-three result could never have appeared.
 :::
 
 ## A fingerprint I was not looking for — and the brake that limits it
@@ -245,7 +245,7 @@ The Matthew and Revelation alignments are genuine. **But Mark and Luke show the 
 
 📐 So the claim must be stated at its actual scope: **Matthew's two quotations align with the Old Greek, and Revelation 1:7's preposition aligns with Theodotion.** It may **not** become *the New Testament splits along recension lines*. **It does not.**
 
-⚠️ And a lane conclusion overruled again: the retrieval reported that Mark and Luke *align with the Theodotion tradition or employ* <span class="gr">ἐν</span> *independently*. **Theodotion has *with*, not *in*.** Only the second half of that disjunction survives.
+⚠️ And a conclusion overruled again: it was reported to me that Mark and Luke *align with the Theodotion tradition or employ* <span class="gr">ἐν</span> *independently*. **Theodotion has *with*, not *in*.** Only the second half of that disjunction survives.
 :::
 
 And the recovery closed one of my own open questions in the direction I did not want.
@@ -266,7 +266,7 @@ Theodotion 11:36 contains a word for **arrogant, swollen speech** sitting a few 
 
 | Passage | Hebrew | Old Greek | **Theodotion** |
 |-------------|-------------------|---------------------|----------------------------------|
-| **8:13** | *transgression* | ❌ not retrieved | ★ **<span class="gr">ἁμαρτία</span> — *sin*, not *abomination*** |
+| **8:13** | *transgression* | ❌ not verified | ★ **<span class="gr">ἁμαρτία</span> — *sin*, not *abomination*** |
 | **11:31** | articular | *abomination of desolation* | ★ **a different desolating word entirely** |
 | **12:11** | anarthrous | **articular** | **anarthrous** |
 
@@ -299,7 +299,7 @@ So I tried to break it instead. **One question, and it is unkind:**
 ::: textualnote
 **A debt paid before the argument leaned on it**
 
-Matthew 24:12's *lawlessness* had been sitting in my files as **reported, not verified** — a retrieval had failed. **And it is the lexical spine of this entire test.**
+Matthew 24:12's *lawlessness* had been sitting in my files as **reported, not verified** — the verse had never been read in the original. **And it is the lexical spine of this entire test.**
 
 So it was verified before being used. It is now confirmed in Greek.
 

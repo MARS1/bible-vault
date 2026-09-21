@@ -167,13 +167,13 @@ The number is supposed to be the clinching evidence, so I did the only honest th
 **But it rests on two supports that are not verified.**
 
 ::: textualnote
-**The spelling the whole calculation depends on was not retrieved**
+**The spelling the whole calculation depends on was never verified**
 
-**Five ladder rungs tried and named** — an encyclopedia article on the relevant Judean Desert cache (404) · a manuscript list (404) · a related article (200, no relevant content) · a reference work (403) · an academic search (authentication-gated).
+**Five ladder rungs tried and named** — an encyclopedia article on the relevant Judean Desert cache · a manuscript list · a related article that turned out to hold nothing on the point · a reference work behind a wall · and an academic search that required credentials I do not have.
 
 ❗ **What was found confirms only that the calculation *exists as a proposal*. It does not show the spelling attested in a dated document independent of arguments about Revelation.**
 
-🛑 **And my own rule applies: a failed request is not an unavailable source. This is recorded as *not retrieved, with rungs named* — not as *unattested*. The distinction between *does not exist* and *we did not reach it* is the whole difference, and collapsing it corrupts everything downstream.**
+🛑 **And my own rule applies: failing to find something is not evidence that it does not exist. This is recorded as *not found, with rungs named* — not as *unattested*. The distinction between *does not exist* and *we did not reach it* is the whole difference, and collapsing it corrupts everything downstream.**
 :::
 
 ## And a grammatical problem underneath the entire enterprise
@@ -202,7 +202,7 @@ The construction permits, at minimum: *a number of **a man*** — a particular u
 
 **One may not cite him for the antiquity of the variant and set him aside on the date without saying why. That is source-shopping, and I have refused it in every other direction.**
 
-❌ **And the dating passage itself was not retrieved. Five rungs tried and named: a site reachable but fair-use blocked, then three 404s, then a host that does not resolve.**
+❌ **And the dating passage itself was never read. Five routes tried and named, every one of them closed: one reachable but restricted, three that led nowhere, and one that no longer exists.**
 
 🛑 **So I record the *structure* of the problem and refuse to state what Irenaeus says about the date, because I have not read it.** I have been burned three times by a remembered quotation supplied fluently and wrongly, **and a patristic dating claim is exactly the kind of thing memory renders confidently and falsely.** ❗ **It is the most important outstanding item in the whole trial.**
 
@@ -211,7 +211,7 @@ The construction permits, at minimum: *a number of **a man*** — a particular u
 | # | Requirement | Status |
 |---|--------------------------------|--------------------------------------------------|
 | 1 | political authority | ✅ **satisfied** — an imperial order plainly qualifies |
-| 2 | a worship claim | 🔶 **partially** — a real environment, ⚠️ **not retrieved here**, and it varied by region |
+| 2 | a worship claim | 🔶 **partially** — a real environment, ⚠️ **not verified here**, and it varied by region |
 | 3 | persecution of Yah's people | 🔶 **plausible** — ⚠️ **no source retrieved**, and ★ the lethal arm must be satisfied specifically |
 | 4 | the mark-name-number system | ❌ **not demonstrated** |
 

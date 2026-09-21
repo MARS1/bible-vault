@@ -53,9 +53,9 @@ Now the brakes, stated with the same care as the finding.
 ::: textualnote
 **A delegated report contradicted its own table, and it becomes a rule**
 
-The retrieval's own data table reported <span class="gr">δέω</span> at Matthew 12:29 and Mark 3:27. **Its conclusion then stated that these do *not* use the same binding verb as Revelation 20:2, and called them "lexically distinct."**
+The data table I was handed reported <span class="gr">δέω</span> at Matthew 12:29 and Mark 3:27. **Its conclusion then stated that these do *not* use the same binding verb as Revelation 20:2, and called them "lexically distinct."**
 
-❌ **False — and false against its own retrieval twelve lines earlier.**
+❌ **False — and false against its own data table twelve lines earlier.**
 
 ❗ **Third instance of the same failure mode**: a fabricated Greek word graded as a match; a report claiming Mark and Luke "align with the Theodotion tradition" when Theodotion has a different preposition entirely; and now this.
 
@@ -108,7 +108,7 @@ I had been about to define the binding's scope as *hostile mobilization*, on the
 
 ✅ **And one small grammatical fact carries real weight.** The word *any longer* sits **between the verb and its object**: *that he not deceive **any longer** the nations.* **It modifies the deceiving, not the restraint.**
 
-❗ **Therefore he *was* deceiving them. The binding marks a change of state** — which is exactly what I had demanded of any candidate marker before I knew what the answer would be. ⚠️ *A retrieval glossed this as "a continuation of an existing restraint." That reverses the grammar, and it is rejected.*
+❗ **Therefore he *was* deceiving them. The binding marks a change of state** — which is exactly what I had demanded of any candidate marker before I knew what the answer would be. ⚠️ *It was glossed to me as "a continuation of an existing restraint." That reverses the grammar, and it is rejected.*
 
 And the purpose construction is a purpose, not a hope. The English *so that he might not deceive* can sound like uncertainty — *perhaps he will not*. **The Greek carries no hesitancy.** ⚠️ **But its limit travels with it: that fixes the *purpose* of the confinement, not the *scope* of the deceiving.**
 
@@ -181,7 +181,7 @@ Revelation 16 has three unclean spirits going out to the kings to gather them **
 
 🏷️ **Recorded as recapitulation candidate RC-01. Not established, not promoted.**
 
-⚠️⚠️ **And an honest gap: 20:8 is verified in Greek. 16:13–14 is not — it is reported, not retrieved.**
+⚠️⚠️ **And an honest gap: 20:8 is verified in Greek. 16:13–14 is not — it is reported, not verified.**
 
 🛑 **RC-01 rests on one verified half and one unverified half, which is exactly the shape the Hanukkah link was downgraded for two chapters ago. It may not be argued from until the other half is retrieved.** Recorded now, before anything leans on it — because the alternative is finding out three chapters later that something load-bearing was half-built.
 :::

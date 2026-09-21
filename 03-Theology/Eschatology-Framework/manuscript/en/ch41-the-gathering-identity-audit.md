@@ -53,7 +53,7 @@ The discipline that made it safe is one sentence: **check the claim against the 
 ## What was verified, and what was not
 
 ::: textualnote
-**Textual note — retrieval status, declared up front again**
+**Textual note — verification status, declared up front again**
 
 **Verified verbatim in Greek**, across both stages behind this chapter: 1 Thessalonians 4:13–18 and 5:1–11 · 1 Corinthians 15:20–28 and 50–57 · Matthew 24:29–39 · Matthew 23:35–36 · Matthew 13:24–50 · every occurrence of <span class="gr">γενεά</span> in Matthew · Revelation 1:18, 11:15–18, 19:20, 20:10–15, 21:4 · John 6:39, 6:40, 6:44, 6:54, 11:24, 12:48 · 2 Thessalonians 2:1 · Hebrews 10:25 · Mark 13:27 · Luke 13:34 and 17:37.
 
@@ -61,9 +61,15 @@ The discipline that made it safe is one sentence: **check the claim against the 
 
 That debt is worth naming because of what it was. The first stage argued Tanakh parallels **from English translations only** — and a verbal parallel between a Greek Gospel and a Hebrew prophet **cannot be established by two English translations agreeing.** That demonstrates the translators' choices, not the texts' relationship. Every such claim was marked *reported, not verified* until the Greek arrived.
 
-⚠️ **Still outstanding, and one of them is load-bearing:** the **Theodotion** text of Daniel 7:13–14 (see the end of this chapter) · the Hebrew of Isaiah 27:13 and 13:10, which came back word-order scrambled and is therefore unusable · an exhaustive <span class="gr">περὶ δέ</span> search across Matthew · a lexical authority for <span class="gr">ἐπισυνάγω</span>.
+::: person
+**THEODOTION · Greek translator, active in the second century AD**
 
-⚠️ **And a correction applied to my own research apparatus.** A retrieval agent rated an unretrieved Septuagint comparison at *"9 out of 10 — inference from English translations is highly probable."* **That rating was rejected and downgraded to NOT VERIFIED.** Probability of a conclusion is not a substitute for the retrieval that would establish it, and *highly probable* is precisely the phrasing by which *contextually favoured* quietly becomes *lexically established*.
+Not a person this book argues about, but a name attached to a **text**. There is more than one ancient Greek version of Daniel: an older one usually called the **Old Greek**, and a later revision associated with Theodotion. **They differ from each other in wording** — which is why *which* Greek Daniel a New Testament writer is quoting turns out to be a real question, and why the missing one is recorded below as load-bearing rather than as a detail.
+:::
+
+⚠️ **Still outstanding, and one of them is load-bearing:** the **Theodotion** text of Daniel 7:13–14 (see the end of this chapter) · the Hebrew of Isaiah 27:13 and 13:10, which I have only in a word-order-scrambled form and therefore cannot use · an exhaustive <span class="gr">περὶ δέ</span> search across Matthew · a lexical authority for <span class="gr">ἐπισυνάγω</span>.
+
+⚠️ **And a correction applied to my own working discipline.** A Septuagint comparison I had not verified was handed to me rated *"9 out of 10 — inference from English translations is highly probable."* **That rating was rejected and downgraded to NOT VERIFIED.** A probability attached to a conclusion is not a substitute for the reading that would establish it, and *highly probable* is precisely the phrasing by which *contextually favoured* quietly becomes *lexically established*.
 :::
 
 ## The Revelation 20 chronology lock, and why it is not merely adjacency
@@ -315,7 +321,7 @@ I fixed an error of mine expecting to lose something. The corrected text handed 
 
 <span class="gr">ἔσχατος</span> is not <span class="gr">ἕβδομος</span>. Paul wrote before Revelation and nowhere refers to a numbered series John had not yet published. *Last* may mean the final trumpet of Paul's own sequence, or a trumpet already current in eschatological expectation. **Last equals seventh is arithmetic imposed on two authors, not a textual link.** Refused.
 
-And then, comparing two retrievals side by side, something turned up that pushes the seventh trumpet the other way.
+And then, comparing two sources side by side, something turned up that pushes the seventh trumpet the other way.
 
 ::: finding
 **Finding — the seventh trumpet's vocabulary points at the great white throne**
@@ -332,7 +338,7 @@ The seventh trumpet and the great white throne share **both** the paired merism 
 
 ⚠️ Held under the proleptic-completion control: the seventh trumpet may announce the whole victory complex in anticipation rather than timestamp any component of it. **The correspondence is recorded; the identity is not declared.**
 
-Neither the incoming material nor the retrieval agent noticed this. It came from setting two retrievals beside each other — which is the part of the work that cannot be delegated.
+Nothing in the incoming material noticed this. It came from setting two sources beside each other — which is the part of the work that cannot be handed off.
 :::
 
 ## John's "last day" — the hardest objection, and it got harder
@@ -348,7 +354,7 @@ All six occurrences retrieved. All singular.
 | **11:24** | ❗ **Martha** | resurrection |
 | **12:48** | Yeshua | ❗ **judgment** |
 
-**John never defines the last day.** Retrieval confirms there is no definitional statement anywhere in the Gospel.
+**John never defines the last day.** A full search of the Gospel confirms there is no definitional statement anywhere in it.
 
 Two findings that sharpen the problem rather than relieving it.
 
@@ -415,7 +421,7 @@ This belongs in the record because of how nearly it got in.
 ::: textualnote
 **Textual note — a standing eval case**
 
-A retrieval agent's comparison table contained this row:
+A comparison table I was handed contained this row:
 
 > *<span class="gr">ἥξουσιν</span> (Matthew 24:31, embedded) | <span class="gr">ἥξουσιν</span> (Isaiah 27:13) | **VERBAL***
 
@@ -427,7 +433,7 @@ A retrieval agent's comparison table contained this row:
 
 Two further mislabels from the same lane, both rejected: Deuteronomy 30's <span class="gr">συνάξει</span> graded *verbally identical* to Matthew's <span class="gr">ἐπισυνάξουσιν</span> — **that difference is an entire finding below** — and Matthew's <span class="gr">ὄψονται</span> graded *same root* as LXX Zechariah's <span class="gr">ἐπιβλέψονται</span>, which is false: <span class="gr">ἐπιβλέπω</span> is from <span class="gr">βλέπω</span>, <span class="gr">ὄψονται</span> from <span class="gr">ὁράω</span>. **Different roots.**
 
-A retrieval agent is a retriever. **The comparison across retrievals is not delegable**, and both of this chapter's best findings came from that comparison rather than from any single report.
+Gathering sources and comparing them are two different tasks. **The comparison is the one that cannot be handed off**, and both of this chapter's best findings came from it rather than from any single report.
 :::
 
 ## Now the Greek behind Matthew's cosmic language
@@ -454,7 +460,7 @@ Prophetic cosmic-collapse imagery may **not** be assumed to require the dissolut
 Earlier usage **constrains possible meaning**. Immediate context still **governs application**. Isaiah establishes what the vocabulary *can* do. It does not establish what Matthew *is* doing.
 :::
 
-And one thing the retrieval walked past, which I found only by reading it against my own archive: **LXX Isaiah 13:9 and 13:11 use <span class="gr">οἰκουμένη</span> — inside the oracle against Babylon.** Which demonstrates, rather than argues, that <span class="gr">οἰκουμένη</span> can appear in prophetic judgment language for something short of every location on earth. That bears directly on Matthew 24:14, the verse that started this entire investigation, and it arrived from an unrelated retrieval.
+And one thing the material walked straight past, which I found only by reading it against my own archive: **LXX Isaiah 13:9 and 13:11 use <span class="gr">οἰκουμένη</span> — inside the oracle against Babylon.** Which demonstrates, rather than argues, that <span class="gr">οἰκουμένη</span> can appear in prophetic judgment language for something short of every location on earth. That bears directly on Matthew 24:14, the verse that started this entire investigation, and it turned up while I was looking for something else entirely.
 
 ## Zechariah 12, and what it does to "the tribes of the earth"
 
@@ -475,7 +481,7 @@ So *all the tribes of the land* becomes a strong live reading at 24:30. 🛑 **I
 
 **Hebrew Zechariah 12:10** — <span class="he">אֵת אֲשֶׁר־דָּקָרוּ</span> — *whom they **pierced***
 
-**Mocked and pierced are materially different.** A retrieval agent smoothed this into *both point to the same theological event.* **Rejected.** That is precisely the collapse of evidence types this project exists to prevent.
+**Mocked and pierced are materially different.** The material I was given smoothed the two into *both point to the same theological event.* **Rejected.** That is precisely the collapse of evidence types this project exists to prevent.
 
 ⚠️ And Matthew follows **neither** at the seeing-verb: Matthew has <span class="gr">ὄψονται</span>; LXX Zechariah has <span class="gr">ἐπιβλέψονται</span>. Different roots.
 
@@ -552,7 +558,7 @@ And 23:36 carries the **same phrase-pair** as 24:34, one chapter before it.
 
 ⚠️ **And the honest counterweight, in the same typeface:** 1:17 uses the word four times in a descent-counting sense. **The word's range in Matthew genuinely exceeds *contemporaries*.**
 
-❗ But a retrieval agent drew the wrong inference from that — arguing that 1:17 makes a *race* or *people* reading of 24:34 less burdensome. **Non sequitur.** A genealogical counting-unit is not an ethnic race. 1:17 broadens the range; it does not supply that particular escape.
+❗ But the wrong inference was drawn from that — arguing that 1:17 makes a *race* or *people* reading of 24:34 less burdensome. **Non sequitur.** A genealogical counting-unit is not an ethnic race. 1:17 broadens the range; it does not supply that particular escape.
 
 **The *race or people* sense is attested in broader Greek. It is not demonstrated anywhere in Matthew.** ⚠️ And the CJB renders 24:34 *this people*, which is a serious translator's judgment — which is why the finding is stated as *undemonstrated in Matthew* rather than *impossible*.
 :::
@@ -623,7 +629,7 @@ Daniel 7:13 was retrieved — in the **Old Greek**, which I identified by its ow
 
 🛑 **But the second clause destabilizes a claim already in my archive.** The Aramaic gives *he came to the Ancient of Days and was presented before him*. This Greek gives *and **as** an ancient of days **was present***. Those are materially different — and the claim that Daniel's son of man is presented *before* the Ancient of Days rather than descending rests on the **Aramaic**. The Old Greek does not clearly say it.
 
-A retrieval agent asserted *he approaches the throne* for the Old Greek. **The text it quoted does not establish that.** Assertion rejected; the divergence recorded unresolved.
+It was asserted to me that the Old Greek reads *he approaches the throne*. **The text actually quoted alongside that assertion does not establish it.** Assertion rejected; the divergence recorded unresolved.
 
 ❗ **Theodotion has not been retrieved, and *which Greek Daniel Matthew tracks* is exactly the question.** I have one of the two versions. That debt goes to Chapter 43, where it is due.
 :::

@@ -167,13 +167,13 @@ Se supone que el número es la evidencia decisiva, así que hice lo único hones
 **Pero se apoya en dos soportes que no están verificados.**
 
 ::: textualnote
-**La grafía de la que depende todo el cálculo no fue recuperada**
+**La grafía de la que depende todo el cálculo nunca se verificó**
 
-**Cinco escalones de la escalera probados y nombrados** — un artículo enciclopédico sobre el depósito relevante del desierto de Judea (404) · una lista de manuscritos (404) · un artículo relacionado (200, sin contenido pertinente) · una obra de referencia (403) · una búsqueda académica (con autenticación requerida).
+**Cinco escalones de la escalera probados y nombrados** — un artículo enciclopédico sobre el depósito relevante del desierto de Judea · una lista de manuscritos · un artículo relacionado que resultó no contener nada sobre el punto · una obra de referencia detrás de un muro · y una búsqueda académica que exigía credenciales que no tengo.
 
 ❗ **Lo encontrado confirma solamente que el cálculo *existe como propuesta*. No muestra la grafía atestiguada en un documento fechado, independiente de los argumentos sobre Apocalipsis.**
 
-🛑 **Y se aplica mi propia regla: una petición fallida no es una fuente no disponible. Esto queda registrado como *no recuperado, con escalones nombrados* — no como *no atestiguado*. La distinción entre *no existe* y *no llegamos* es la diferencia entera, y colapsarla corrompe todo lo que viene después.**
+🛑 **Y se aplica mi propia regla: no encontrar algo no es prueba de que no exista. Esto queda registrado como *no hallado, con escalones nombrados* — no como *no atestiguado*. La distinción entre *no existe* y *no llegamos* es la diferencia entera, y colapsarla corrompe todo lo que viene después.**
 :::
 
 ## Y un problema gramatical debajo de toda la empresa
@@ -204,7 +204,7 @@ La construcción permite, como mínimo: *número de **un hombre*** — una perso
 
 **No se puede citarlo para la antigüedad de la variante y dejarlo de lado en la fecha sin decir por qué. Eso es comprar fuentes a conveniencia, y lo rechacé en todas las demás direcciones.**
 
-❌ **Y el pasaje sobre la fecha no fue recuperado. Cinco escalones probados y nombrados: un sitio alcanzable pero bloqueado por uso legítimo, después tres 404, después un servidor que no resuelve.**
+❌ **Y el pasaje sobre la fecha nunca se leyó. Cinco vías probadas y nombradas, todas cerradas: una alcanzable pero restringida, tres que no llevaban a ninguna parte, y una que ya no existe.**
 
 🛑 **Así que registro la *estructura* del problema y me niego a decir qué dice Ireneo sobre la fecha, porque no lo leí.** Me quemé tres veces con una cita recordada aportada con fluidez y equivocada, **y una afirmación patrística sobre una fecha es exactamente la clase de cosa que la memoria produce con confianza y falsamente.** ❗ **Es el ítem pendiente más importante de todo el juicio.**
 
@@ -213,7 +213,7 @@ La construcción permite, como mínimo: *número de **un hombre*** — una perso
 | # | Requisito | Estado |
 |---|--------------------------------|--------------------------------------------------|
 | 1 | autoridad política | ✅ **satisfecho** — un orden imperial claramente califica |
-| 2 | una pretensión de culto | 🔶 **parcialmente** — un ambiente real, ⚠️ **no recuperado aquí**, y variaba por región |
+| 2 | una pretensión de culto | 🔶 **parcialmente** — un ambiente real, ⚠️ **no verificado aquí**, y variaba por región |
 | 3 | persecución del pueblo de Yah | 🔶 **plausible** — ⚠️ **ninguna fuente recuperada**, y ★ el brazo letal debe satisfacerse específicamente |
 | 4 | el sistema de marca-nombre-número | ❌ **no demostrado** |
 
@@ -256,7 +256,7 @@ La construcción permite, como mínimo: *número de **un hombre*** — una perso
 
 ❗ **Y el costo, que es la otra mitad y no puedo omitirla: por la misma razón, el lector español tampoco ve hacia qué lado se inclina cada aparición.** El barrido que produce el hallazgo de arriba —treinta y cinco apariciones, ninguna territorial— **se apoya en leer el alcance de cada contexto, y una sola palabra castellana no lo muestra.** La ventaja es de fidelidad; el costo es de visibilidad.
 
-⚠️ Qué hace RVR1960 en cada una de las treinta y cinco **no fue recuperado.** Lo anterior es un hecho sobre el rango de la palabra castellana, no una auditoría de una edición. **Candidato SYNC.**
+⚠️ Qué hace RVR1960 en cada una de las treinta y cinco **no fue verificado.** Lo anterior es un hecho sobre el rango de la palabra castellana, no una auditoría de una edición. **Candidato SYNC.**
 :::
 
 ::: finding

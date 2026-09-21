@@ -239,7 +239,7 @@ And some ancient manuscripts of Revelation read **616** rather than 666.
 ::: evidence
 **How strongly evidence bears — and why the variant is the interesting part**
 
-⚠️ **Everything in this section is reported rather than verified.** I have not retrieved the manuscript evidence or performed the Hebrew calculation from primary sources, and it is held at that weight.
+⚠️ **Everything in this section is reported rather than verified.** I have not examined the manuscript evidence or performed the Hebrew calculation from primary sources, and it is held at that weight.
 
 **Why the variant matters methodologically.** Suppose only 666 existed. Someone could fairly say I had manipulated a spelling until it produced the number I wanted, and they would be difficult to answer, because a determined interpreter can nearly always find a spelling that works. A single gematria calculation is unfalsifiable in practice.
 

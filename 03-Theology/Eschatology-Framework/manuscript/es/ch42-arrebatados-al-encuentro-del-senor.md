@@ -61,7 +61,7 @@ Doce apariciones simples verificadas. **Cinco enuncian destino. Siete no.**
 
 **Por lo tanto <span class="gr">ἁρπάζω</span> no codifica *llevado al cielo*.** En todos los casos el destino viene del **contexto** —una frase preposicional, o la narración que sigue— y nunca del verbo.
 
-⚠️ **Un recuento corregido:** una recuperación reportó trece apariciones incluyendo el <span class="gr">συνηρπάκει</span> de Lucas 8:29. **Ese es <span class="gr">συναρπάζω</span>, un verbo compuesto distinto**, y no puede contarse en el inventario simple. Doce verificadas; el compuesto queda registrado aparte y sin auditar.
+⚠️ **Un recuento corregido:** un inventario que me entregaron reportó trece apariciones incluyendo el <span class="gr">συνηρπάκει</span> de Lucas 8:29. **Ese es <span class="gr">συναρπάζω</span>, un verbo compuesto distinto**, y no puede contarse en el inventario simple. Doce verificadas; el compuesto queda registrado aparte y sin auditar.
 
 ⚠️ **Y un versículo citado en la cláusula equivocada:** pedido 2 Corintios 12:4, el mismo carril devolvió *y oyó palabras inefables* — **que no contiene ninguna forma del verbo.** La aparición en 12:4 queda por lo tanto **no verificada por este trabajo**, aunque el versículo casi con certeza la contiene. Registrado como falla de recuperación en vez de completado desde la expectativa.
 :::
@@ -179,7 +179,7 @@ Apocalipsis 1:7 estaba en mi lista solo por su preposición de nube. Llegó carg
 
 ⚠️ **Lo que esto no establece:** que Mateo y Juan describan el mismo **evento**. Establece una **tradición textual no septuagintal** compartida y un emparejamiento intertextual compartido.
 
-Eso salió de leer dos recuperaciones cruzadas, no de la asignación de ninguno de los dos carriles.
+Eso salió de leer dos fuentes cruzadas, no de lo que a ninguna de las dos se le había pedido.
 :::
 
 ## Lo que Pablo estableció, y lo que no
@@ -303,9 +303,9 @@ Después de un paralelo griego fabricado, un recuento errado y una cita en la cl
 
 🛑 **Pero la falla fue de método, no de fuente — y eso me tocaba atraparlo a mí.** El patrón de recuperación septuagintal que ya había funcionado cinco veces en esta investigación **no lo usó ninguno de los carriles fallidos**; uno pidió el sitio, recibió texto en lengua moderna y registró la fuente como seca.
 
-**Una petición exitosa no es una verificación. Y su imagen espejo, que hasta ahora no había puesto por escrito: una petición fallida no es una fuente no disponible.**
+**Hallar una fuente no es lo mismo que leerla. Y su imagen espejo, que hasta ahora no había puesto por escrito: no encontrar algo no es prueba de que no exista. La fuente no disponible.**
 
-Repetida con el patrón probado nombrado explícitamente, la misma tarea devolvió dieciséis recuperaciones griegas y una pasada septuagintal completa en un solo intento.
+Intentada de nuevo contra las fuentes que ya se habían mostrado fiables, la misma tarea produjo el griego completo junto con una pasada septuagintal entera.
 :::
 
 ---
@@ -360,16 +360,16 @@ Y entonces el método más aburrido posible invirtió el veredicto.
 
 **El uso atestiguado del propio autor es la clase de evidencia más fuerte que este proyecto reconoce** — y favorece la lectura comunitaria.
 
-⚠️ **Una conclusión de recuperación revocada.** El carril declaró colectivo 1 Corintios 6:19 apoyándose en los pronombres plurales. **Rechazado.** <span class="gr">σῶμα</span> es singular frente a un posesivo plural, lo cual se lee naturalmente como distributivo —*el cuerpo de cada uno de ustedes*— y el pasaje circundante trata de un hombre uniéndose a una prostituta. **La dirección en plural no vuelve colectivo al cuerpo.** Registrado como disputado, a la espera de una autoridad que no tengo.
+⚠️ **Una conclusión revocada.** Se me planteó que 1 Corintios 6:19 es colectivo, apoyándose en los pronombres plurales. **Rechazado.** <span class="gr">σῶμα</span> es singular frente a un posesivo plural, lo cual se lee naturalmente como distributivo —*el cuerpo de cada uno de ustedes*— y el pasaje circundante trata de un hombre uniéndose a una prostituta. **La dirección en plural no vuelve colectivo al cuerpo.** Registrado como disputado, a la espera de una autoridad que no tengo.
 
-📌 Y sí importa: si 6:19 es individual, **Pablo tiene tres sentidos, no dos** — comunidad, cuerpo individual y el disputado. El aplanamiento del carril habría ocultado el tercero.
+📌 Y sí importa: si 6:19 es individual, **Pablo tiene tres sentidos, no dos** — comunidad, cuerpo individual y el disputado. Ese aplanamiento habría ocultado el tercero.
 
 ⚠️ **La lista no es exhaustiva.** Romanos, Filipenses, Gálatas, Colosenses, las Pastorales y Filemón no fueron revisados. La cifra de cinco de seis se reporta con ese límite.
 :::
 
 **El lado septuagintal confirma la categoría ordinaria** — allí <span class="gr">ναός</span> es consistentemente un santuario real, y 3 Reinos 6 incluso estratifica tres términos: la casa en general, el santuario interior, la cámara más interna. **Así que Pablo no inventó la metáfora. Un tesalonicense que oyera *santuario de Dios* podía perfectamente entender el santuario real de Yahweh.** La metáfora funciona *porque* la palabra ya significaba morada sagrada.
 
-❌ **Y la única pregunta que lo habría zanjado no fue recuperada: ¿usa alguna vez la Septuaginta esta palabra metafóricamente para un *pueblo*?** El carril declaró llanamente que responderla exige una búsqueda exhaustiva que no realizó. **Ese es el ítem pendiente más decisivo de aquí** — si la Septuaginta nunca lo hace, la comunidad-como-santuario es una innovación paulina, lo cual vuelve su presencia en sus propias cartas *más* llamativa, no menos. Si lo hace, la lectura comunitaria gana un precedente del Tanaj. **Cualquiera de las dos respuestas mueve el veredicto.**
+❌ **Y la única pregunta que lo habría zanjado sigue sin respuesta: ¿usa alguna vez la Septuaginta esta palabra metafóricamente para un *pueblo*?** Se dijo llanamente que responderla exige una búsqueda exhaustiva que no realizó. **Ese es el ítem pendiente más decisivo de aquí** — si la Septuaginta nunca lo hace, la comunidad-como-santuario es una innovación paulina, lo cual vuelve su presencia en sus propias cartas *más* llamativa, no menos. Si lo hace, la lectura comunitaria gana un precedente del Tanaj. **Cualquiera de las dos respuestas mueve el veredicto.**
 
 ## Dos patas del argumento que yo quería, y las dos se cayeron
 
@@ -377,7 +377,7 @@ Y entonces el método más aburrido posible invirtió el veredicto.
 
 **Y el lenguaje de autoexaltación de Pablo no es verbalmente danielico.** La Septuaginta de Daniel 11:36 usa un verbo para exaltarse; Pablo usa otro distinto. **Pablo suena danielico en el plano del tema y no en el de la redacción.** La correspondencia es genuina y no es una cita.
 
-⚠️ Y el hebreo que habría verificado esto es inutilizable: el carril devolvió el hebreo de Daniel 11:36 **reconstruido a partir de números de concordancia**, lo cual no es una recuperación. No se cita en ninguna parte.
+⚠️ Y el hebreo que habría verificado esto es inutilizable: el hebreo de Daniel 11:36 que me ofrecieron había sido **reconstruido a partir de números de concordancia en vez de leído del texto hebreo**, lo cual no es una lecturión. No se cita en ninguna parte.
 
 ## El veredicto, y va en mi contra
 

@@ -26,22 +26,28 @@ Y empieza en una puerta que la Parte anterior construyó y dejó abierta.
 
 El trabajo histórico no puede avanzar hasta que eso se responda. Así que se responde primero, y en mi contra si hace falta.
 
-## Tres recuperaciones volvieron rotas, y lo digo antes de argumentar
+## Argumenté desde un texto incompleto, y lo dije antes de argumentar
 
 ::: textualnote
-**Nota textual — declarada antes de que ningún argumento se apoye en ella**
+**Declarado antes de que ningún argumento se apoyara en ello — y en qué terminó**
 
-Tres pasajes centrales de este capítulo volvieron **truncados** cuando los recuperé.
+Tres pasajes centrales de este capítulo estaban, cuando se hizo este trabajo, **solo parcialmente en mis manos.**
 
-| Pasaje | Lo que volvió | Lo que faltaba |
+| Pasaje | Lo que tenía | Lo que faltaba |
 |---------------------|-----------------------------|--------------------------------------------|
-| **Apocalipsis 6:9–11** | solo el versículo 9 | ❗ **vv. 10–11 — el clamor *¿hasta cuándo?*, las vestiduras blancas y *que descansaran todavía un poco*** |
+| **Apocalipsis 6:9–11** | el versículo 9 | ❗ **vv. 10–11 — el clamor *¿hasta cuándo?*, las vestiduras blancas y *que descansaran todavía un poco*** |
 | **Mateo 27:51–53** | hasta *los sepulcros fueron abiertos* | ❗ **los cuerpos de los santos que habían dormido, levantados** |
 | **Hebreos 12:22–23** | hasta *la congregación de los primogénitos* | ❗ **y a los espíritus de los justos hechos perfectos** |
 
 Los tres cargan peso aquí. El primero es peor que eso: **Apocalipsis 6:10–11 es el pasaje sobre el que se apoya el argumento central de este capítulo.**
 
-Así que se tratan como **reportados, no verificados**, y su recuperación se debe antes de que nada de esto llegue a un manuscrito terminado.
+Así que se trataron como **reportados, no verificados**, y el argumento se construyó a esa fuerza reducida y no a la que yo habría querido darle.
+
+### ✅ **Los tres han quedado verificados por completo desde entonces — y el resultado de Apocalipsis 6 es el que merece que uno se detenga.**
+
+❗❗ **Los versículos que llegaron tarde no se limitaron a permitir el control construido sin ellos. Lo fortalecieron.** Dan a los mártires un *¿hasta cuándo?*, una vestidura blanca, y la instrucción de **descansar todavía un poco de tiempo** — <span class="gr">ἔτι χρόνον μικρόν</span> — **hasta** que su número se **completara**, <span class="gr">ἕως πληρωθῶσιν</span>. **Cada una de esas cosas es existencia consciente, interpelada, en espera**, que es exactamente lo que el control necesitaba y no podía afirmar antes.
+
+📌 **Y ese desenlace solo estuvo disponible porque el hueco se declaró en vez de rellenarse con lo que yo esperaba encontrar.** Si hubiera escrito la versión segura y dejado que los versículos llegaran después, nunca habría sabido si los había leído o los había recordado.
 
 Lo declaro arriba en vez de dejar que el lector lo descubra abajo. Un capítulo que toma prestada en silencio una autoridad de verificación que no tiene es peor que un capítulo con un agujero, porque solo uno de los dos se puede reparar.
 :::
@@ -93,7 +99,7 @@ Lo que Daniel 12 sí aporta es la ascendencia conceptual. Angustia sin precedent
 ## Mateo 27 prueba una categoría, y no aporta una identificación
 
 ::: textualnote
-**Reportado, no verificado.** La recuperación se cortó antes de la frase que esta sección necesita. Lo que se reporta que dice Mateo 27:52 es que **muchos cuerpos** — <span class="gr">σώματα</span> — de santos que habían dormido **fueron levantados**, y que después de la resurrección de Yeshúa entraron en la ciudad santa y se aparecieron a muchos.
+**La frase sobre la que gira esta sección — antes reportada, ahora verificada.** Mateo 27:52 dice que **muchos cuerpos** — <span class="gr">σώματα</span> — de santos que habían dormido **fueron levantados**, y que después de la resurrección de Yeshúa entraron en la ciudad santa y se aparecieron a muchos.
 
 Si eso se sostiene al volver a recuperarlo, importa. Si no, esta sección se cae.
 :::
@@ -185,7 +191,7 @@ Apocalipsis 6:9 muestra, bajo el altar, **las almas de los que habían sido muer
 
 Los mártires no necesitaron el capítulo 20 para existir conscientemente después de muertos. Juan ya los había visto en el capítulo 6: almas bajo el altar, **hablando**, **recibiendo vestiduras blancas**, **recibiendo la orden de esperar**. Apocalipsis 7 muestra igualmente a los fieles delante del trono.
 
-⚠️ El clamor, las vestiduras y *que descansaran todavía un poco* están en los versículos 10–11, que es justamente la parte que volvió truncada. Son reportados, no verificados. El argumento es por lo tanto **fuerte y todavía no plenamente confirmado**, y prefiero decirlo así antes que dejar que el mejor hallazgo del capítulo se apoye sin etiqueta en una línea sin verificar.
+✅ El clamor, las vestiduras y *que descansaran todavía un poco* están en los versículos 10–11 — **la parte que no tenía cuando este control se escribió por primera vez, y que desde entonces quedó verificada por completo.** El argumento es por lo tanto **fuerte y todavía no plenamente confirmado**, y prefiero decirlo así antes que dejar que el mejor hallazgo del capítulo se apoye sin etiqueta en una línea sin verificar.
 
 **El control, si se sostiene:** Apocalipsis 6 ya presenta a mártires muertos existiendo conscientemente antes de Apocalipsis 20. Por lo tanto, el *vivieron* y la *primera resurrección* de Apocalipsis 20 **no pueden reducirse a supervivencia consciente después de la muerte sin explicar el cambio de estado.**
 
@@ -225,7 +231,7 @@ La edición inglesa encontró que una de las traducciones inglesas de referencia
 
 🛑 **Y aquí la etiqueta hace su trabajo en la otra dirección.** El hallazgo está marcado `ENGLISH-SPECIFIC`, así que **esta edición no lo hereda**. La pregunta española —qué hace RVR1960 en Hebreos 11:35, y si conserva o no el sustantivo *resurrección*— **no ha sido recuperada, y no la voy a inventar.** Queda declarada como deuda.
 
-⚠️ El griego mismo está reportado, no recuperado, en ambas ediciones, y el punto espera por él.
+⚠️ **El griego mismo está reportado y no leído**, en ambas ediciones, y el punto espera por él.
 
 Si se sostiene: los primeros creyentes podían hablar de resurrección con calidad o condición diferenciada, lo cual es apoyo conceptual para el escalonamiento de Apocalipsis. **Hebreos no aporta ninguna cronología del milenio.** Apoyo conceptual, no calendario.
 :::
@@ -255,7 +261,7 @@ Si se sostiene: los primeros creyentes podían hablar de resurrección con calid
 
 ## "Cuerpo espiritual" no significa sin cuerpo
 
-1 Corintios 15:42–44 contrasta lo que se siembra corruptible con lo que resucita incorruptible, y **cuerpo animal** con **cuerpo espiritual**. El griego es <span class="gr">σῶμα ψυχικόν</span> frente a <span class="gr">σῶμα πνευματικόν</span>. ⚠️ Reportado, no recuperado.
+1 Corintios 15:42–44 contrasta lo que se siembra corruptible con lo que resucita incorruptible, y **cuerpo animal** con **cuerpo espiritual**. El griego es <span class="gr">σῶμα ψυχικόν</span> frente a <span class="gr">σῶμα πνευματικόν</span>. ⚠️ **El inglés está verificado; el griego está reportado.**
 
 **Los dos contienen <span class="gr">σῶμα</span>.** Cuerpo.
 
@@ -266,7 +272,7 @@ Un cuerpo espiritual no es un cuerpo ausente. Es un cuerpo animado y ordenado po
 
 Así que la alternativa real **no** es *un cadáver físico caminando normalmente* contra *una metáfora puramente espiritual*. Pablo aporta una tercera categoría: **corporeidad resucitada y transformada.**
 
-Y Yeshúa después de su resurrección es el patrón: aparece, desaparece de la percepción inmediata, entra en habitaciones cerradas, come, es tocado, y finalmente asciende. ⚠️ No recuperado; reportado. **Pablo lo hace explícitamente las primicias, lo cual significa que él es aquí el patrón rector y no una salida de emergencia.**
+Y Yeshúa después de su resurrección es el patrón: aparece, desaparece de la percepción inmediata, entra en habitaciones cerradas, come, es tocado, y finalmente asciende. ⚠️ **Reportado, no verificado.** **Pablo lo hace explícitamente las primicias, lo cual significa que él es aquí el patrón rector y no una salida de emergencia.**
 
 La distinción importa: un patrón rector restringe lo que puedo decir. Una salida de emergencia me dejaría decir cualquier cosa.
 :::
@@ -320,5 +326,5 @@ Lo único citado literalmente aquí son las dos cláusulas de **Apocalipsis 20:4
 :::
 
 ::: earned
-**Lo que ganó.** Una puerta que sigue siendo honestamente una puerta. Un freno escrito en el momento en que noté que estaba disfrutando un argumento capaz de excusar cualquier ausencia de evidencia. Tres recuperaciones rotas declaradas arriba en vez de descubiertas abajo, incluida aquella de la que depende el mejor hallazgo del capítulo. El cierre de la única lectura que habría vuelto fácil todo este proyecto — cerrada no por un crítico, sino por Apocalipsis 6. Y una advertencia que esta edición estaba obligada a dar y la otra no: el argumento decisivo de este capítulo no se ve en la Biblia española más usada, y decirlo cuesta más que callarlo.
+**Lo que ganó.** Una puerta que sigue siendo honestamente una puerta. Un freno escrito en el momento en que noté que estaba disfrutando un argumento capaz de excusar cualquier ausencia de evidencia. Tres pasajes incompletos declarados arriba en vez de descubiertas abajo, incluida aquella de la que depende el mejor hallazgo del capítulo. El cierre de la única lectura que habría vuelto fácil todo este proyecto — cerrada no por un crítico, sino por Apocalipsis 6. Y una advertencia que esta edición estaba obligada a dar y la otra no: el argumento decisivo de este capítulo no se ve en la Biblia española más usada, y decirlo cuesta más que callarlo.
 :::

@@ -53,9 +53,9 @@ Ahora los frenos, enunciados con el mismo cuidado que el hallazgo.
 ::: textualnote
 **Un reporte delegado contradijo su propia tabla, y de ahí sale una regla**
 
-La tabla de datos del propio carril reportó <span class="gr">δέω</span> en Mateo 12:29 y Marcos 3:27. **Su conclusión declaró después que esos pasajes *no* usan el mismo verbo de atar que Apocalipsis 20:2, y los llamó "léxicamente distintos".**
+La tabla de datos que me entregaron reportó <span class="gr">δέω</span> en Mateo 12:29 y Marcos 3:27. **Su conclusión declaró después que esos pasajes *no* usan el mismo verbo de atar que Apocalipsis 20:2, y los llamó "léxicamente distintos".**
 
-❌ **Falso — y falso contra su propia recuperación doce líneas antes.**
+❌ **Falso — y falso contra su propia tabla de datos doce líneas antes.**
 
 ❗ **Tercera instancia del mismo modo de falla**: una palabra griega fabricada calificada como coincidencia; un reporte afirmando que Marcos y Lucas "se alinean con la tradición de Teodoción" cuando Teodoción tiene otra preposición; y ahora esto.
 
@@ -124,7 +124,7 @@ La cláusula griega es <span class="gr">ἵνα μὴ πλανήσῃ ἔτι τ
 
 ✅ **Y un pequeño hecho gramatical carga peso real.** El *más* está **entre el verbo y su objeto**: *para que no engañe **más** a las naciones.* **Modifica el engañar, no el confinamiento.**
 
-❗ **Por lo tanto él *estaba* engañándolas. El atamiento marca un cambio de estado** — que es exactamente lo que exigí de cualquier marcador candidato antes de saber cuál sería la respuesta. ⚠️ *Una recuperación glosó esto como "la continuación de una restricción ya existente". Eso invierte la gramática, y queda rechazado.*
+❗ **Por lo tanto él *estaba* engañándolas. El atamiento marca un cambio de estado** — que es exactamente lo que exigí de cualquier marcador candidato antes de saber cuál sería la respuesta. ⚠️ *Se me glosó esto como "la continuación de una restricción ya existente". Eso invierte la gramática, y queda rechazado.*
 
 ## El argumento que yo venía haciendo no era el argumento que funciona
 
@@ -195,7 +195,7 @@ Apocalipsis 16 tiene tres espíritus inmundos que salen hacia los reyes para reu
 
 🏷️ **Registrado como candidato de recapitulación RC-01. No establecido, no promovido.**
 
-⚠️⚠️ **Y un hueco honesto: 20:8 está verificado en griego. 16:13–14 no — está reportado, no recuperado.**
+⚠️⚠️ **Y un hueco honesto: 20:8 está verificado en griego. 16:13–14 no — está reportado, no verificado.**
 
 🛑 **RC-01 se apoya en una mitad verificada y una mitad sin verificar, que es exactamente la forma por la cual el vínculo de la fiesta fue degradado dos capítulos atrás. No puede argumentarse desde él hasta que la otra mitad se recupere.** Registrado ahora, antes de que nada se apoye en él — porque la alternativa es descubrir tres capítulos después que algo que cargaba peso estaba construido a medias.
 :::

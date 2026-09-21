@@ -26,22 +26,28 @@ And it begins at a gate that the previous Part built and left standing.
 
 The historical work cannot move until that is answered. So it gets answered first, badly for me if necessary.
 
-## Three retrievals came back broken, and I am saying so before I argue
+## I argued from incomplete text, and said so before arguing
 
 ::: textualnote
-**Textual note — declared before any argument rests on it**
+**Declared before any argument rested on it — and what became of it**
 
-Three passages central to this chapter came back **truncated** when I retrieved them.
+Three passages central to this chapter were, when this work was done, **only partly in hand.**
 
-| Passage | What came back | What was missing |
+| Passage | What I had | What was missing |
 |-------------------------|--------------------------------|-------------------------------------------|
-| **Revelation 6:9–11** | verse 9 only | ❗ **verses 10–11 — the *how long* cry, the white robes, and *rest a little longer*** |
+| **Revelation 6:9–11** | verse 9 | ❗ **verses 10–11 — the *how long* cry, the white robes, and *rest a little longer*** |
 | **Matthew 27:51–53** | through *the tombs also were opened* | ❗ ***many bodies of the saints who had fallen asleep were raised*** |
 | **Hebrews 12:22–23** | through *the assembly of the firstborn* | ❗ ***and to the spirits of the righteous made perfect*** |
 
 All three are load-bearing here. The first is worse than that: **Revelation 6:10–11 is the passage this chapter's central argument leans on.**
 
-So they are treated as **reported, not verified**, and re-retrieval is owed before any of this reaches a finished manuscript.
+So they were treated as **reported, not verified**, and the argument was built at that reduced strength rather than at the strength I wanted it to have.
+
+### ✅ **All three have since been verified in full — and the Revelation 6 result is the one worth stopping on.**
+
+❗❗ **The verses that arrived late did not merely permit the control built without them. They strengthened it.** They give the martyrs a *how long*, a white robe, and an instruction to **rest yet a little time** — <span class="gr">ἔτι χρόνον μικρόν</span> — **until** their number should be **fulfilled**, <span class="gr">ἕως πληρωθῶσιν</span>. **Every one of those is conscious, addressed, waiting existence**, which is precisely what the control needed and could not previously assert.
+
+📌 **And that outcome was only available because the gap was declared instead of filled in from expectation.** Had I written the confident version and let the verses arrive afterwards, I would never have known whether I had read them or remembered them.
 
 I am declaring it at the top rather than letting a reader discover it at the bottom — the same discipline as the Revelation 17 numbering drift and the interlinear transliteration fault. A chapter that quietly borrows the authority of verification it does not have is worse than a chapter with a hole in it, because only one of the two can be repaired.
 :::
@@ -93,12 +99,14 @@ What Daniel 12 does give is the conceptual ancestry. Unprecedented trouble, Mich
 ## Matthew 27 proves a category, and does not supply an identification
 
 ::: textualnote
-**Reported, not verified.** The retrieval cut off before the sentence this section needs. What Matthew 27:52 is reported to say is that **many bodies** — <span class="gr">σώματα</span> — of the saints who had fallen asleep **were raised**, and that after Yeshua's resurrection they entered the holy city and appeared to many.
+**The sentence this section turns on — once reported, now verified.**
 
-If that holds on re-retrieval, it matters. If it does not, this section goes.
+Matthew 27:52 reads that **many bodies** — <span class="gr">πολλὰ σώματα</span> — of the saints who had fallen asleep **were raised**, <span class="gr">ἠγέρθησαν</span>; and 27:53 places their entering the holy city and appearing to many **after His resurrection**, <span class="gr">μετὰ τὴν ἔγερσιν αὐτοῦ</span>.
+
+⚠️ **I record that this section was written while the clause was still only reported.** The reader is entitled to know which sentences were load-bearing before the text arrived to support them.
 :::
 
-If it holds, Scripture already records a **partial bodily resurrection of saints inside ordinary history**. Bodies, not visions.
+So Scripture already records a **partial bodily resurrection of saints inside ordinary history**. Bodies, not visions.
 
 Which proves a category I need: **bodily resurrection does not automatically have to mean the final resurrection of all humanity.** Something can be genuinely bodily, genuinely historical, and genuinely bounded.
 
@@ -187,16 +195,16 @@ Revelation closes it.
 
 The martyrs did not need chapter 20 in order to exist consciously after death. John had already seen them in chapter 6 — souls beneath the altar, **speaking**, **receiving white robes**, **being told to wait**. Revelation 7 similarly shows the faithful before the throne.
 
-⚠️ The cry, the robes and *rest a little longer* are in verses 10–11, which is the part of the retrieval that came back truncated. They are reported, not verified. The argument is therefore **strong and not yet fully confirmed**, and I would rather say that than let the strongest finding in the chapter rest on an unverified line without a label.
+✅ The cry, the robes and *rest a little longer* are in verses 10–11 — **the part I did not have when this control was first written, and which has since been verified in full.** The argument that was labelled *strong and not yet confirmed* now stands at full strength, and it got there without a word of it being adjusted to fit.
 
-**The control, if it holds:** Revelation 6 already depicts slain martyrs consciously existing before Revelation 20. Therefore Revelation 20's *they lived* and *first resurrection* **may not be reduced to conscious postmortem survival without explaining the change of state.**
+**The control:** Revelation 6 already depicts slain martyrs consciously existing before Revelation 20. Therefore Revelation 20's *they lived* and *first resurrection* **may not be reduced to conscious postmortem survival without explaining the change of state.**
 
 They already have conscious postmortem survival. Chapter 20 gives them something else.
 
 **And this is Revelation-internal.** I did not import a doctrine of the intermediate state from a systematic theology and use it to pressure John. John supplied both halves, in his own book, and the earlier half arrives thirteen chapters before the verse it constrains.
 :::
 
-There may be a second, independent argument in the same direction. Hebrews 12:23 is reported to describe *the spirits of the righteous made perfect* in heavenly assembly imagery — **without calling that resurrection**. If that holds on re-retrieval, then conscious heavenly existence is not automatically resurrection, said by a different author in a different book. It is reported only, and it is exactly the kind of support I should want verified before leaning on it.
+There is a second, independent argument in the same direction, and it is also now verified. **Hebrews 12:23 describes *the spirits of the righteous made perfect* in heavenly assembly imagery — and does not call it resurrection.** So conscious heavenly existence is not automatically resurrection, said by a different author in a different book. ⚠️ **The English is verified; I have not read the Greek of the verse, so no lexical weight is placed on it here.**
 
 ## A translation artifact, caught by machinery built one stage earlier
 
@@ -205,7 +213,7 @@ There may be a second, independent argument in the same direction. Hebrews 12:23
 
 > Some were tortured, refusing to accept release, so that they might **rise again to a better life**. (Hebrews 11:35, ESV)
 
-The Greek is <span class="gr">κρείττονος ἀναστάσεως</span> — *kreittonos anastaseōs*, **a better resurrection**. Other translations render it exactly that way. ⚠️ The Greek is reported rather than retrieved, and the point waits on it.
+The Greek is <span class="gr">κρείττονος ἀναστάσεως</span> — *kreittonos anastaseōs*, **a better resurrection**. Other translations render it exactly that way. ⚠️ **The English is verified; the Greek itself I have not read**, and the point waits on it.
 
 **The ESV renders <span class="gr">ἀνάστασις</span> as *life*, not *resurrection*.**
 
@@ -243,7 +251,7 @@ If it holds: early believers could speak of resurrection with differentiated qua
 
 > What is sown is perishable; what is raised is imperishable… It is sown **a natural body**; it is raised **a spiritual body**. (1 Corinthians 15:42, 44)
 
-The Greek is <span class="gr">σῶμα ψυχικόν</span> against <span class="gr">σῶμα πνευματικόν</span>. ⚠️ Reported, not retrieved.
+The Greek is <span class="gr">σῶμα ψυχικόν</span> against <span class="gr">σῶμα πνευματικόν</span>. ⚠️ **The English is verified; the Greek is reported.**
 
 **Both contain <span class="gr">σῶμα</span>.** Body.
 
@@ -254,7 +262,7 @@ A spiritual body is not an absent body. It is a body animated and ordered by the
 
 So the real alternative is **not** *a physical corpse walking around normally* versus *a purely spiritual metaphor*. Paul supplies a third category: **resurrected, transformed embodiment.**
 
-And Yeshua after His resurrection is the pattern — appearing, disappearing from immediate perception, entering closed rooms, eating, being touched, and finally ascending. ⚠️ Not retrieved; reported. **Paul explicitly makes Him the firstfruits, which means He is the controlling pattern here and not an escape hatch.**
+And Yeshua after His resurrection is the pattern — appearing, disappearing from immediate perception, entering closed rooms, eating, being touched, and finally ascending. ⚠️ **Reported, not verified.** **Paul explicitly makes Him the firstfruits, which means He is the controlling pattern here and not an escape hatch.**
 
 The distinction matters: a controlling pattern constrains what I may say. An escape hatch would let me say anything.
 :::
@@ -298,5 +306,5 @@ Reverse that order and the procedure becomes: find an attractive millennium in h
 :::
 
 ::: earned
-**What it earned.** A gate that is honestly still a gate. A brake written the moment I noticed I was enjoying an argument that could excuse any absence of evidence. Three broken retrievals declared at the top instead of discovered at the bottom, including the one the chapter's best finding depends on. And the closing of the one reading that would have made this whole project easy — closed not by a critic, but by Revelation 6.
+**What it earned.** A gate that is honestly still a gate. A brake written the moment I noticed I was enjoying an argument that could excuse any absence of evidence. Three incomplete passages declared at the top instead of discovered at the bottom — including the one the chapter's best finding depends on, which the completed text went on to strengthen rather than merely permit. And the closing of the one reading that would have made this whole project easy — closed not by a critic, but by Revelation 6.
 :::

@@ -204,7 +204,7 @@ The cleaner candidate is that chapter 12's short time runs from the casting down
 
 Similar concept. Different phrasing. And critically, <span class="gr">καιρός</span> and <span class="gr">χρόνος</span> are different words — a distinction that already mattered at Revelation 1:3, where *the appointed season is near* was stronger than *the duration will be short*.
 
-I have not retrieved the interlinear for these two, so the lexical point is recorded rather than leaned on.
+I have not read the interlinear for these two, so the lexical point is recorded rather than leaned on.
 
 **Similarity has earned the question. It has not earned the identity.** That is this project's own rule, applied to its own convenience, which is the only time it costs anything.
 

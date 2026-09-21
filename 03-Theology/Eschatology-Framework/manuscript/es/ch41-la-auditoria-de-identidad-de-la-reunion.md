@@ -61,9 +61,15 @@ La disciplina que lo hizo seguro cabe en una frase: **verificar la afirmación c
 
 Esa deuda merece nombrarse por lo que era. La primera etapa argumentó paralelos del Tanaj **solo desde traducciones inglesas** — y un paralelo verbal entre un Evangelio griego y un profeta hebreo **no puede establecerse porque dos traducciones inglesas coincidan.** Eso demuestra las decisiones de los traductores, no la relación de los textos. Toda afirmación de esa clase quedó marcada *reportada, no verificada* hasta que llegó el griego.
 
+::: person
+**TEODOCIÓN · traductor griego, activo en el siglo II d. C.**
+
+No es una persona sobre la que este libro discuta, sino un nombre adherido a un **texto**. Hay más de una versión griega antigua de Daniel: una más antigua, llamada habitualmente **Griego Antiguo**, y una revisión posterior asociada a Teodoción. **Difieren entre sí en la redacción** — que es por lo que *cuál* Daniel griego cita un escritor del Nuevo Testamento resulta ser una pregunta real, y por lo que el que falta queda registrado abajo como algo que carga peso y no como un detalle.
+:::
+
 ⚠️ **Todavía pendiente, y una de esas cosas carga peso:** el texto de **Teodoción** de Daniel 7:13–14 (ver el final de este capítulo) · el hebreo de Isaías 27:13 y 13:10, que volvió con el orden de palabras revuelto y es por eso inutilizable · una búsqueda exhaustiva de <span class="gr">περὶ δέ</span> en Mateo · una autoridad léxica para <span class="gr">ἐπισυνάγω</span>.
 
-⚠️ **Y una corrección aplicada a mi propio aparato de investigación.** Un agente de recuperación calificó una comparación septuagintal **no recuperada** con un *"9 sobre 10 — la inferencia desde traducciones inglesas es altamente probable."* **Esa calificación fue rechazada y bajada a NO VERIFICADO.** La probabilidad de una conclusión no sustituye a la recuperación que la establecería, y *altamente probable* es precisamente la fórmula por la cual *favorecido contextualmente* se convierte en silencio en *establecido léxicamente*.
+⚠️ **Y una corrección aplicada a mi propia disciplina de trabajo.** Se me entregó una comparación septuagintal **que yo no había verificado**, calificada con un *"9 sobre 10 — la inferencia desde traducciones inglesas es altamente probable."* **Esa calificación fue rechazada y bajada a NO VERIFICADO.** La probabilidad de una conclusión no sustituye a la recuperación que la establecería, y *altamente probable* es precisamente la fórmula por la cual *favorecido contextualmente* se convierte en silencio en *establecido léxicamente*.
 :::
 
 ## El cierre cronológico de Apocalipsis 20, y por qué no es mera adyacencia
@@ -309,7 +315,7 @@ Arreglé un error mío esperando perder algo. El texto corregido me entregó el 
 
 <span class="gr">ἔσχατος</span> no es <span class="gr">ἕβδομος</span>. Pablo escribió antes que Apocalipsis y en ninguna parte remite a una serie numerada que Juan todavía no había publicado. *Última* puede significar la trompeta final de la propia secuencia de Pablo, o una trompeta ya corriente en la expectativa escatológica. **Última igual a séptima es aritmética impuesta sobre dos autores, no un vínculo textual.** Rechazado.
 
-Y después, comparando dos recuperaciones lado a lado, apareció algo que empuja la séptima trompeta en la dirección contraria.
+Y después, comparando dos fuentes lado a lado, apareció algo que empuja la séptima trompeta en la dirección contraria.
 
 ::: finding
 **Hallazgo — el vocabulario de la séptima trompeta apunta al gran trono blanco**
@@ -326,7 +332,7 @@ La séptima trompeta y el gran trono blanco comparten **tanto** el merismo parea
 
 ⚠️ Sostenido bajo el control de compleción proléptica: la séptima trompeta podría anunciar el complejo entero de la victoria por anticipado en vez de fechar alguno de sus componentes. **La correspondencia se registra; la identidad no se declara.**
 
-Ni el material entrante ni el agente de recuperación lo notaron. Salió de poner dos recuperaciones una al lado de la otra — que es la parte del trabajo que no se puede delegar.
+Nada en el material entrante lo notó. Salió de poner dos fuentes una al lado de la otra — que es la parte del trabajo que no se puede ceder.
 :::
 
 ## El "día postrero" de Juan — la objeción más dura, y se puso más dura
@@ -342,7 +348,7 @@ Las seis apariciones recuperadas. Todas en singular.
 | **11:24** | ❗ **Marta** | resurrección |
 | **12:48** | Yeshúa | ❗ **juicio** |
 
-**Juan nunca define el día postrero.** La recuperación confirma que no hay ninguna declaración definitoria en todo el Evangelio.
+**Juan nunca define el día postrero.** Una búsqueda completa del Evangelio confirma que no hay ninguna declaración definitoria en él.
 
 Dos hallazgos que agudizan el problema en vez de aliviarlo.
 
@@ -409,7 +415,7 @@ Esto va al registro por lo cerca que estuvo de entrar.
 ::: textualnote
 **Nota textual — un caso eval permanente**
 
-La tabla comparativa de un agente de recuperación contenía esta fila:
+Una tabla comparativa que me entregaron contenía esta fila:
 
 > *<span class="gr">ἥξουσιν</span> (Mateo 24:31, embebido) | <span class="gr">ἥξουσιν</span> (Isaías 27:13) | **VERBAL***
 
@@ -421,7 +427,7 @@ La tabla comparativa de un agente de recuperación contenía esta fila:
 
 Dos etiquetados erróneos más del mismo carril, ambos rechazados: el <span class="gr">συνάξει</span> de Deuteronomio 30 calificado *verbalmente idéntico* al <span class="gr">ἐπισυνάξουσιν</span> de Mateo — **esa diferencia es un hallazgo entero más abajo** — y el <span class="gr">ὄψονται</span> de Mateo calificado *misma raíz* que el <span class="gr">ἐπιβλέψονται</span> de la LXX de Zacarías, lo cual es falso: <span class="gr">ἐπιβλέπω</span> viene de <span class="gr">βλέπω</span>, y <span class="gr">ὄψονται</span> de <span class="gr">ὁράω</span>. **Raíces distintas.**
 
-Un agente de recuperación es un recuperador. **La comparación entre recuperaciones no es delegable**, y los dos mejores hallazgos de este capítulo salieron de esa comparación y no de ningún reporte individual.
+Reunir fuentes y compararlas son dos tareas distintas. **La comparación es la que no se puede ceder**, y los dos mejores hallazgos de este capítulo salieron de esa comparación y no de ningún reporte individual.
 :::
 
 ## Ahora el griego detrás del lenguaje cósmico de Mateo
@@ -448,7 +454,7 @@ La imaginería profética de colapso cósmico **no** puede darse por supuesta co
 El uso anterior **restringe el significado posible**. El contexto inmediato sigue **gobernando la aplicación**. Isaías establece lo que el vocabulario *puede* hacer. No establece lo que Mateo *está* haciendo.
 :::
 
-Y una cosa que la recuperación pasó de largo y que encontré solo leyéndola contra mi propio archivo: **la LXX de Isaías 13:9 y 13:11 usa <span class="gr">οἰκουμένη</span> — dentro del oráculo contra Babilonia.** Lo cual demuestra, en vez de argumentar, que <span class="gr">οἰκουμένη</span> puede aparecer en lenguaje profético de juicio para algo menor que toda ubicación de la tierra. Eso incide directamente sobre Mateo 24:14, el versículo que dio origen a toda esta investigación, y llegó desde una recuperación no relacionada.
+Y una cosa que el material pasó de largo y que encontré solo leyéndola contra mi propio archivo: **la LXX de Isaías 13:9 y 13:11 usa <span class="gr">οἰκουμένη</span> — dentro del oráculo contra Babilonia.** Lo cual demuestra, en vez de argumentar, que <span class="gr">οἰκουμένη</span> puede aparecer en lenguaje profético de juicio para algo menor que toda ubicación de la tierra. Eso incide directamente sobre Mateo 24:14, el versículo que dio origen a toda esta investigación, y llegó desde una recuperación no relacionada.
 
 ## Zacarías 12, y qué le hace a "las tribus de la tierra"
 
@@ -469,7 +475,7 @@ Así que *todas las tribus de la tierra* en 24:30 se vuelve una lectura viva y f
 
 **Zacarías 12:10 hebreo** — <span class="he">אֵת אֲשֶׁר־דָּקָרוּ</span> — *a quien **traspasaron***
 
-**Burlarse y traspasar son materialmente distintos.** Un agente de recuperación alisó esto en *ambos apuntan al mismo evento teológico.* **Rechazado.** Ese es precisamente el colapso de tipos de evidencia que este proyecto existe para impedir.
+**Burlarse y traspasar son materialmente distintos.** El material que me entregaron alisó los dos en *ambos apuntan al mismo evento teológico.* **Rechazado.** Ese es precisamente el colapso de tipos de evidencia que este proyecto existe para impedir.
 
 ⚠️ Y Mateo no sigue a **ninguno** de los dos en el verbo de ver: Mateo tiene <span class="gr">ὄψονται</span>; la LXX de Zacarías tiene <span class="gr">ἐπιβλέψονται</span>. Raíces distintas.
 
@@ -478,7 +484,7 @@ Así que *todas las tribus de la tierra* en 24:30 se vuelve una lectura viva y f
 
 ## El eje que pensé que lo decidiría, y cómo se partió en cambio
 
-Yo había escrito que una recuperación — la LXX de Isaías 27:13 — *podría decidir la etapa*. Fue una promoción prematura y la retiré. Un intertexto no decide solo.
+Yo había escrito que un solo intertexto — la LXX de Isaías 27:13 — *podría decidir la etapa*. Fue una promoción prematura y la retiré. Un intertexto no decide solo.
 
 Esto es lo que efectivamente dio:
 
@@ -542,7 +548,7 @@ Y 23:36 carga el **mismo par de frases** que 24:34, un capítulo antes.
 
 ⚠️ **Y el contrapeso honesto, en la misma tipografía:** 1:17 usa la palabra cuatro veces en sentido de conteo de descendencia. **El rango de la palabra en Mateo genuinamente excede *contemporáneos*.**
 
-❗ Pero un agente de recuperación sacó de ahí la inferencia equivocada, argumentando que 1:17 vuelve menos gravosa una lectura de *raza* o *pueblo* en 24:34. **No se sigue.** Una unidad de conteo genealógico no es una raza étnica. 1:17 amplía el rango; no aporta esa salida en particular.
+❗ Pero de ahí se sacó la inferencia equivocada, argumentando que 1:17 vuelve menos gravosa una lectura de *raza* o *pueblo* en 24:34. **No se sigue.** Una unidad de conteo genealógico no es una raza étnica. 1:17 amplía el rango; no aporta esa salida en particular.
 
 **El sentido de *raza o pueblo* está atestiguado en el griego más amplio. No está demostrado en ninguna parte de Mateo.**
 :::
@@ -613,7 +619,7 @@ Daniel 7:13 fue recuperado — en el **Griego Antiguo**, que identifiqué por su
 
 🛑 **Pero la segunda cláusula desestabiliza una afirmación que ya está en mi archivo.** El arameo da *vino al Anciano de días y fue presentado delante de él*. Este griego da *y **como** un anciano de días **estaba presente***. Son materialmente distintos — y la afirmación de que el hijo de hombre de Daniel es presentado *ante* el Anciano de días en vez de descender descansa sobre el **arameo**. El Griego Antiguo no lo dice claramente.
 
-Un agente de recuperación afirmó *se acerca al trono* para el Griego Antiguo. **El texto que citó no establece eso.** Afirmación rechazada; la divergencia queda registrada sin resolver.
+Se me afirmó que el Griego Antiguo dice *se acerca al trono*. **El texto citado junto a esa afirmación no lo establece.** Afirmación rechazada; la divergencia queda registrada sin resolver.
 
 ❗ **Teodoción no ha sido recuperado, y *cuál Daniel griego sigue Mateo* es exactamente la pregunta.** Tengo una de las dos versiones. Esa deuda va al Capítulo 43, donde vence.
 :::

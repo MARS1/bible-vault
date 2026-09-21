@@ -45,9 +45,9 @@ Twelve simplex occurrences verified. **Five state a destination. Seven do not.**
 
 **Therefore <span class="gr">ἁρπάζω</span> does not encode *taken to heaven*.** In every single case the destination comes from **context** — a prepositional phrase, or the narrative that follows — and never from the verb.
 
-⚠️ **A miscount corrected:** one retrieval reported thirteen occurrences by including Luke 8:29's <span class="gr">συνηρπάκει</span>. **That is <span class="gr">συναρπάζω</span>, a different compound verb**, and it may not be counted in the simplex inventory. Its own occurrences were never audited. Twelve verified; the compound recorded separately and unaudited.
+⚠️ **A miscount corrected:** an inventory I was handed reported thirteen occurrences by including Luke 8:29's <span class="gr">συνηρπάκει</span>. **That is <span class="gr">συναρπάζω</span>, a different compound verb**, and it may not be counted in the simplex inventory. Its own occurrences were never audited. Twelve verified; the compound recorded separately and unaudited.
 
-⚠️ **And a verse quoted at the wrong clause:** asked for 2 Corinthians 12:4, the same lane returned *and he heard unspeakable words* — **which contains no form of the verb at all.** The occurrence at 12:4 is therefore **not verified by this work**, even though the verse almost certainly contains it. Recorded as a retrieval fault rather than filled in from expectation.
+⚠️ **And a verse quoted at the wrong clause:** asked for 2 Corinthians 12:4, what I was given was *and he heard unspeakable words* — **which contains no form of the verb at all.** The occurrence at 12:4 is therefore **not verified by this work**, even though the verse almost certainly contains it. Recorded as a retrieval fault rather than filled in from expectation.
 :::
 
 ::: finding
@@ -85,7 +85,7 @@ At Acts 28 the believers come out as far as the Forum of Appius. Then Paul enter
 
 ★ **And the near-synonym supplies a clean counterexample.** At Matthew 8:34 *the whole city went out to meet Yeshua* — and then **asked him to leave their region.** Going out to meet someone does not even entail welcome, let alone escort.
 
-📌 Two words are kept apart rather than merged: Matthew 25:1 reads <span class="gr">ὑπάντησις</span> while 25:6 reads <span class="gr">ἀπάντησις</span> — **two different words inside one parable**, with a reported manuscript variant at 25:1 whose sigla were not retrieved.
+📌 Two words are kept apart rather than merged: Matthew 25:1 reads <span class="gr">ὑπάντησις</span> while 25:6 reads <span class="gr">ἀπάντησις</span> — **two different words inside one parable**, with a reported manuscript variant at 25:1 whose witnesses I have not seen named.
 
 🛑 **And the famous civic-reception argument is reported, not verified.** The claim that this noun is technical Hellenistic vocabulary for greeting a dignitary and escorting him into the city rests on papyri and inscriptions. **No primary papyrological source was consulted.** It may not be cited as established — in either direction.
 :::
@@ -163,7 +163,7 @@ Revelation 1:7 was on my list only for its cloud-preposition. It arrived carryin
 
 ⚠️ **What this does not establish:** that Matthew and John describe the same **event**. It establishes a shared **non-Septuagintal textual tradition** and a shared intertextual pairing.
 
-That came from cross-reading two retrievals, not from either lane's assignment.
+That came from cross-reading two sources, not from what either one was asked to do.
 :::
 
 ## What Paul established, and what he did not
@@ -272,13 +272,13 @@ Any candidate must account for **all four**: the **neuter** form at 2:6 · the *
 And the reason is in the passage itself. Paul's readers were frightened that the Day had already arrived, and what was supposed to calm them was **recognition** — not calculation. They were expected to know the restrainer on sight. **I do not.** Pretending otherwise would be filling a gap in my knowledge with the shape of my preference.
 :::
 
-## A closure the archive already held, and a retrieval lane that behaved well
+## A closure the archive already held, and a limit stated honestly
 
 Two administrative findings that belong in the record.
 
 **The *son of perdition* closure was already mine.** An incoming argument offered the Judas counterexample as new. My own earlier side branch already recorded both occurrences, already identified Judas at John 17:12, and already refused the phrase as a title for Satan. **Second such no-op in three stages, and found the same way — checking the archive before accepting a claim about the archive.** What this pass genuinely added is smaller and is recorded smaller: the phrase is now verified in **Greek** at both places rather than in English at one.
 
-**And a retrieval lane failed well.** Assigned the temple audit, it tried twelve sources, found nothing usable, and wrote: *I will not invent Greek text or claim to have retrieved what I could not access.*
+**And one failure was reported honestly, which is worth more than it sounds.** The temple audit came back empty after a dozen sources, with the limit stated plainly instead of papered over: *I will not invent Greek text or claim to have read what I could not access.* **A stated inability is worth more than a confident sentence with nothing behind it.**
 
 ::: commentary
 **The first eval-positive, and the rule it produced**
@@ -287,9 +287,9 @@ After a fabricated Greek parallel, a miscount and a wrong-clause quotation acros
 
 🛑 **But the failure was method, not source — and that was mine to catch.** The Bible Gateway Septuagint pattern had already worked five times in this investigation. **Neither failing lane used it**; one fetched the site, got English back, and recorded the source as dry.
 
-**A successful request is not a verification. And its mirror image, which I had not written down until now: a failed request is not an unavailable source.**
+**Finding a source is not the same as reading it. And its mirror image, which I had not written down until now: failing to find something is not evidence that it does not exist.**
 
-Re-run with the proven pattern named explicitly, the same task returned sixteen Greek fetches and a full Septuagint pass in one attempt.
+Tried again against the sources that had already proven reliable, the same task produced the Greek in full, together with a complete Septuagint pass.
 :::
 
 ---
@@ -332,16 +332,16 @@ And then the dullest possible method inverted the verdict.
 
 **Author's-own-attested-usage is the strongest evidence class this project recognizes** — and it favours the community reading.
 
-⚠️ **A retrieval conclusion overruled.** The lane declared 1 Corinthians 6:19 collective on the strength of plural pronouns. **Rejected.** <span class="gr">σῶμα</span> is singular against a plural *your*, which reads naturally as distributive — *the body of each of you* — and the surrounding passage is about one man joining himself to a prostitute. **Plural address does not make the body collective.** Recorded as disputed, needing an authority I do not have.
+⚠️ **A conclusion overruled.** It was put to me that 1 Corinthians 6:19 is collective, on the strength of plural pronouns. **Rejected.** <span class="gr">σῶμα</span> is singular against a plural *your*, which reads naturally as distributive — *the body of each of you* — and the surrounding passage is about one man joining himself to a prostitute. **Plural address does not make the body collective.** Recorded as disputed, needing an authority I do not have.
 
-📌 And it matters: if 6:19 is individual, **Paul has three senses, not two** — community, individual body, and the disputed one. The lane's flattening would have hidden the third.
+📌 And it matters: if 6:19 is individual, **Paul has three senses, not two** — community, individual body, and the disputed one. That flattening would have hidden the third.
 
 ⚠️ **The list is not exhaustive.** Romans, Philippians, Galatians, Colossians, the Pastorals and Philemon were not searched. The five-of-six figure is reported at that limit.
 :::
 
 **The Septuagint side confirms the ordinary category** — <span class="gr">ναός</span> there is consistently an actual sanctuary, and 3 Kingdoms 6 even stratifies three terms: the house overall, the inner sanctuary, the innermost chamber. **So Paul did not invent the metaphor. A Thessalonian hearing *sanctuary of God* could certainly understand Yahweh's actual sanctuary.** The metaphor works *because* the word already meant sacred dwelling.
 
-❌ **And the one question that would have settled it was not retrieved: does the Septuagint ever use this word metaphorically for a *people*?** The lane stated plainly that answering it requires an exhaustive search it did not perform. **That is the single most decisive outstanding item here** — if the Septuagint never does it, the community-as-sanctuary is a Pauline innovation, which makes its presence in his own letters *more* striking, not less. If it does, the community reading gains a Tanakh precedent. **Either answer moves the verdict.**
+❌ **And the one question that would have settled it is still unanswered: does the Septuagint ever use this word metaphorically for a *people*?** Answering it requires an exhaustive search that has not been done, and that was said plainly rather than glossed over. **That is the single most decisive outstanding item here** — if the Septuagint never does it, the community-as-sanctuary is a Pauline innovation, which makes its presence in his own letters *more* striking, not less. If it does, the community reading gains a Tanakh precedent. **Either answer moves the verdict.**
 
 ## Two legs of the argument I wanted, and both collapsed
 
@@ -349,7 +349,7 @@ And then the dullest possible method inverted the verdict.
 
 **And Paul's self-exaltation language is not verbally Danielic.** Septuagint Daniel 11:36 uses one verb for exalting; Paul uses a different one. **Paul sounds Danielic at the level of theme and not at the level of wording.** The correspondence is genuine and it is not a quotation.
 
-⚠️ And the Hebrew that would have checked this is unusable: the lane returned Daniel 11:36's Hebrew **reconstructed from Strong's numbers**, which is not a retrieval. It is quoted nowhere.
+⚠️ And the Hebrew that would have checked this is unusable: the Daniel 11:36 Hebrew offered to me had been **reconstructed from lexical-number data rather than read from the Hebrew text**, which is not a reading of the verse at all. I reject it on that ground. It is quoted nowhere.
 
 ## The verdict, and it goes against me
 
@@ -379,7 +379,7 @@ And the route to it was available: lean on the historical setting, lean on the s
 I wrote this brake one stage before the evidence came in, specifically so it could not be tuned afterward to whichever answer arrived.
 :::
 
-## And the retrieval handed me something I had not asked for
+## And the work handed me something I had not asked for
 
 ::: finding
 **Finding — Matthew quotes Daniel 12:11, verbatim and specifically**
@@ -432,7 +432,7 @@ So I lost the anchor I wanted and gained a footnote I did not know existed: Dani
 That has happened often enough now that I am starting to trust it.
 
 ::: whereweare
-**Where we are.** The seizing-verb does not encode a heavenly destination — Acts 8 settles that with the Spirit as agent and a coastal town as the outcome — so secrecy, invisibility and a fixed heavenly stay are additions rather than implications. The meeting-word carries no escort sense, and after the meeting Paul states no direction of movement at all. The pair my argument needed does exist, but in 2 Thessalonians rather than in Matthew, and the word family remains capable of describing an ordinary assembly. Paul supplies a real relative sequence and no absolute anchor. There is no verb of removal at the restrainer, and *coming* is used of the lawless one, which retires it as a title. And the temple hinge, which would have tightened everything, came back **open** — with Paul's own usage pulling toward the community and the setting pulling toward Jerusalem, in evidence classes that do not add up against each other. What I gained instead is that Matthew quotes one specific Daniel verse, exactly.
+**Where we are.** The seizing-verb does not encode a heavenly destination — Acts 8 settles that with the Spirit as agent and a coastal town as the outcome — so secrecy, invisibility and a fixed heavenly stay are additions rather than implications. The meeting-word carries no escort sense, and after the meeting Paul states no direction of movement at all. The pair my argument needed does exist, but in 2 Thessalonians rather than in Matthew, and the word family remains capable of describing an ordinary assembly. Paul supplies a real relative sequence and no absolute anchor. There is no verb of removal at the restrainer, and *coming* is used of the lawless one, which retires it as a title. And the temple hinge, which would have tightened everything, remained **open** — with Paul's own usage pulling toward the community and the setting pulling toward Jerusalem, in evidence classes that do not add up against each other. What I gained instead is that Matthew quotes one specific Daniel verse, exactly.
 :::
 
 ::: earned

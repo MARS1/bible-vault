@@ -152,7 +152,7 @@ Un grado único para toda la cadena se habría leído más limpio y era defendib
 
 # Y entonces Pablo contra Juan
 
-Dos deudas se pagaron antes de empezar esta comparación, y las dos habían sido declaradas como truncadas tres capítulos atrás en vez de ser pasadas por alto.
+Dos deudas se pagaron antes de empezar esta comparación, y las dos habían sido declaradas incompletas tres capítulos atrás en vez de ser pasadas por alto.
 
 ::: textualnote
 **Dos truncamientos saldados, y la disciplina pagó doble**
