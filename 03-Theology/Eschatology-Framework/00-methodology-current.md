@@ -1407,6 +1407,22 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 > **A retrieval failure is RESEARCH INFRASTRUCTURE, not manuscript content.** API failures, truncated responses, missing chunks, retrieval retries and similar mechanics **must never appear in reader-facing prose** — unless the resulting discovery materially changed the author's reasoning. ❗ **And even then, narrate the intellectual correction, never the software malfunction.**
 
+### 🛑 **THE RULE IN ONE LINE, AND IT IS THE TEST TO APPLY:**
+
+### **Tell the reader the evidentiary state. Do not tell the reader about the API.**
+
+⚠️ **AND THE COROLLARY, WHICH MATTERS AS MUCH AS THE RULE:** *not every admission of uncertainty is machinery, and most of them must survive.* **The bad language is never the admission itself — it is the exposure of the mechanism that produced it.**
+
+| ✅ **KEEP — the evidentiary state** | ❌ **REMOVE — the mechanism** |
+|---|---|
+| *this claim had not yet been verified* | *the retrieval came back truncated* |
+| *verification changed the argument* | *a retrieval agent rated it 9 out of 10* |
+| *I rejected evidence that could not be established* | *the lane tried twelve sources* |
+| *the report is reported, not verified, and is not being used as established evidence* | *three 404s and a host that does not resolve* |
+| *I verified the Greek before letting the argument depend on it* | *a retrieval had failed* |
+
+📌 **Worked example of the distinction.** A historical report — Josephus on armies seen in the clouds — recorded as *reported, not verified* **stays**, precisely because it is not being used as established evidence and the reader needs to know that. **What goes is any account of why it is unverified that describes software rather than scholarship.**
+
 📐 **Why this is a rule and not a reminder.** The author should be reading Draft 1 for *this does not sound like me*, *this transition is abrupt*, *a novice will not know who this is.* **He should not be discovering that verse 11 never came back from a retrieval call.** Every minute spent doing QA on the retrieval layer while reading is a minute the manuscript did not get reviewed.
 
 ✅ **Automate where possible.** This belongs in the build/verification layer as a gate, not in a session's memory. An instruction that depends on remembering is not a standard — the same reasoning that moved the terminology lock and the Spanish register into `build-manuscript.py`.

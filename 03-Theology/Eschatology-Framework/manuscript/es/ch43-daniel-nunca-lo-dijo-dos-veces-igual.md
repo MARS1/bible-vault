@@ -311,7 +311,7 @@ Así que intenté romperlo. **Una pregunta, y es desagradable:**
 ::: textualnote
 **Una deuda pagada antes de que el argumento se apoyara en ella**
 
-La *iniquidad* de Mateo 24:12 estaba en mis archivos como **reportada, no verificada** — el versículo nunca se había leído en el original. **Y es la columna léxica de toda esta prueba.**
+La *iniquidad* de Mateo 24:12 estaba en mis archivos como **reportada y no verificada de manera independiente.** **Y es la columna léxica de toda esta prueba** — así que verifiqué el griego antes de permitir que el argumento dependiera de ella, en vez de dejar que heredara credibilidad de las afirmaciones verificadas que tenía al lado.
 
 Así que se verificó antes de usarla. Ahora está confirmada en griego.
 

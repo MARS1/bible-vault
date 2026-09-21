@@ -48,7 +48,7 @@ Hay un atajo que he oído toda la vida: *obviamente la ramera es la Roma pagana,
 
 Ese argumento está muerto, y lo mató el Tanaj.
 
-Isaías 1:21 dice: *¿cómo te has convertido en ramera, oh ciudad fiel? Llena estuvo de justicia, en ella habitó la equidad; pero ahora, homicidas.*
+Isaías 1:21 dice: *¿Cómo te has convertido en ramera, oh ciudad fiel? Llena estuvo de justicia, en ella habitó la equidad; pero ahora, los homicidas.*
 
 Nótense las dos acusaciones en un solo versículo: **prostitución y homicidio.** Es precisamente la doble acusación que Apocalipsis le hace a Babilonia.
 
@@ -88,7 +88,7 @@ Eso es correspondencia, no identidad — pero a diferencia de una teoría arbitr
 
 Yo esperaba aquí un parecido. Lo que encontré fue una secuencia.
 
-Ezequiel 16:37-39, dirigido a Jerusalén: Yahvé **reunirá a todos sus amantes**, los reunirá **contra ella** de todas partes y **descubrirá su desnudez** delante de ellos; la juzgará **como son juzgadas las adúlteras *y las que derraman sangre***; la **entregará en manos de ellos**; y **la despojarán de sus ropas y le quitarán sus hermosas joyas y la dejarán desnuda y descubierta**.
+Ezequiel 16:37-39, dirigido a Jerusalén: Yahvé **reunirá a todos sus enamorados** con los que tomó placer, y a todos los que amó con todos los que aborreció, y los reunirá **alrededor de ella** y **descubrirá su desnudez** delante de ellos; la juzgará **por las leyes de las adúlteras *y de las que derraman sangre***; la **entregará en manos de ellos**; y **la despojarán de sus ropas, se llevarán sus hermosas alhajas, y la dejarán desnuda y descubierta**.
 
 | Ezequiel 16 — Jerusalén | Apocalipsis 17 |
 |-------------------------------------------------|--------------------------------------------------|
@@ -96,9 +96,9 @@ Ezequiel 16:37-39, dirigido a Jerusalén: Yahvé **reunirá a todos sus amantes*
 | **sus amantes** | reyes que fornican con ella |
 | Yahvé **reúne a los amantes contra ella** | los cuernos y la bestia la **aborrecen** |
 | **despojarla, dejarla desnuda** | dejarla **desolada y desnuda** |
-| quitarle sus **hermosas joyas** | adornada de **oro, piedras preciosas y perlas** (17:4) |
-| juzgada como adúltera **y derramadora de sangre** | **ebria de la sangre de los santos** (17:6) |
-| entregada **en manos de ellos** | **Dios puso en sus corazones** (17:17) |
+| llevarse sus **hermosas alhajas** | adornada de **oro, de piedras preciosas y de perlas** (17:4) |
+| juzgada **por las leyes de las adúlteras y de las que derraman sangre** | **ebria de la sangre de los santos, y de la sangre de los mártires de Jesús** (17:6) |
+| entregada **en manos de ellos** | **Dios ha puesto en sus corazones** (17:17) |
 
 La misma secuencia. La misma doble acusación. El mismo despojo. La misma agencia divina detrás del giro de los amantes.
 
@@ -323,13 +323,23 @@ Esa incomodidad fue útil. Una teoría que explica solo sus versículos favorito
 Quizá un candidato termine ganando. Quizá el simbolismo de Juan superponga deliberadamente apostasía pactual y poder imperial, en cuyo caso el debate ha sido una falsa alternativa durante siglos. Lo que puedo decir es que Apocalipsis acaba de entregarme la prueba siguiente, y es justa: **identificar a la bestia sin usar a Babilonia para hacerlo, y después volver y ver qué mujer puede efectivamente cabalgarla.**
 
 ::: textualnote
-**Nota textual — deuda declarada**
+**Nota textual — la deuda se pagó, y la matriz se volvió a probar contra el texto verificado** `SPANISH-SPECIFIC`
 
-Apocalipsis 17:1-18 y 18:4-24 se describen en este capítulo en vez de citarse, igual que Ezequiel 16:37-39, Isaías 47:7-9, Isaías 1:21 y Mateo 23:34-38: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
+Este capítulo llevaba una deuda declarada: su matriz depende de formulaciones exactas, y el texto RVR1960 de los pasajes que la sostienen no estaba verificado. **Ahora lo está**, y la matriz se volvió a probar fila por fila contra él en vez de darse por buena.
 
-Las expresiones en negrita o en cursiva se dan como paráfrasis identificada y no como cita verificada de la Reina-Valera.
+✅ **Verificados verbatim:** Apocalipsis 18:4-24 completo · Apocalipsis 17:4-9 y 17:16-18 · Mateo 23:34-38 · Ezequiel 16:37-39 · Isaías 47:7-9 · Isaías 1:21.
 
-La deuda es particularmente pesada en este capítulo, porque la matriz entera es una comparación de datos y cada fila depende de una formulación. El manifiesto de comercio de 18:11-13 y el paralelo casi literal entre 18:24 y Mateo 23:35 son los dos lugares donde más se pierde. Quedan declarados y registrados como prioridad, junto con el griego que el estudio de palabras de este capítulo ya declara pendiente.
+### ✅ **La matriz sobrevive. Ninguna fila cayó.**
+
+★ **Y dos filas quedaron mejor de lo que estaban escritas.** 17:18 — *la gran ciudad que reina sobre los reyes de la tierra* — y 17:17 resultaron **exactas palabra por palabra**, no paráfrasis. Y 17:6 dice más de lo que yo le atribuía: no solo *ebria de la sangre de los santos*, sino **y de la sangre de los mártires de Jesús**. La fila se fortalece.
+
+⚠️ **Cuatro formulaciones estaban mal y quedan corregidas:** *amantes* → **enamorados** · *de todas partes* → **alrededor de ella** · *hermosas joyas* → **hermosas alhajas** · y un artículo restituido en Isaías 1:21. **Ninguna cambia el argumento; las cuatro cambiaban la cita.**
+
+### 🛑 **Y una afirmación se debilita, que es el resultado que más importa registrar.**
+
+Yo había llamado *casi literal* al paralelo entre Apocalipsis 18:24 y Mateo 23:35. **En RVR1960 no lo es.** 18:24 dice *la sangre de los profetas y de los santos, y de todos los que han sido muertos **en** la tierra*; 23:35 dice *toda la sangre justa que se ha derramado **sobre** la tierra*. **Sujetos distintos y preposiciones distintas.** El paralelo es real y sigue siendo material — ambos reúnen sangre derramada y *la tierra* — **pero *casi literal* era demasiado, y la palabra se retira.**
+
+📐 **Y hay algo que el castellano no puede resolver: *la tierra* carga la misma ambigüedad que el griego entre *el país* y *toda la tierra*.** La edición inglesa marca esa pregunta como abierta. **El testigo castellano no la cierra; la reproduce.**
 :::
 
 ::: whereweare

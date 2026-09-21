@@ -299,7 +299,7 @@ So I tried to break it instead. **One question, and it is unkind:**
 ::: textualnote
 **A debt paid before the argument leaned on it**
 
-Matthew 24:12's *lawlessness* had been sitting in my files as **reported, not verified** — the verse had never been read in the original. **And it is the lexical spine of this entire test.**
+Matthew 24:12's *lawlessness* had been sitting in my files as **reported rather than independently verified.** **And it is the lexical spine of this entire test** — so I verified the Greek before allowing the argument to depend on it, rather than letting it inherit credibility from the verified claims standing next to it.
 
 So it was verified before being used. It is now confirmed in Greek.
 
