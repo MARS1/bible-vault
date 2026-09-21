@@ -1387,6 +1387,39 @@ Labels such as *"replacement," "continuity," "spiritual Israel," "the Church is 
 
 ---
 
+## 📖 SCRIPTURE-COMPLETE-001 — Complete-Passage Requirement *(added 2026-09-21 — fifth rule in the retrieval family, and the first one aimed at the READER rather than the researcher)*
+
+> ### 🛑 **NO BIBLICAL PASSAGE MAY BE USED AS EVIDENCE FROM A PARTIAL OR TRUNCATED RETRIEVAL.**
+>
+> ### **For every requested range `Book X:a–b`, verify that EVERY verse from `a` through `b` is actually present before any analysis begins.**
+
+**If the retrieval is incomplete:**
+
+1. **retry the range**
+2. **if still incomplete, retrieve each missing verse individually**
+3. **reconstruct the complete requested passage from verified verse-level retrievals**
+4. **verify verse numbering and continuity** — that the verses are the ones asked for, in order, with nothing silently skipped
+5. **only then analyze it**
+
+❗❗ **AND INDEPENDENTLY FOR EVERY TRANSLATION WITNESS BEING QUOTED.** Holding a complete ESV or CJB passage **does not** establish that the RVR1960 retrieval of the same range is complete. **Each witness is verified on its own.**
+
+### 🛑 **THE READER-FACING HALF, WHICH IS THE PART THIS RULE EXISTS FOR:**
+
+> **A retrieval failure is RESEARCH INFRASTRUCTURE, not manuscript content.** API failures, truncated responses, missing chunks, retrieval retries and similar mechanics **must never appear in reader-facing prose** — unless the resulting discovery materially changed the author's reasoning. ❗ **And even then, narrate the intellectual correction, never the software malfunction.**
+
+📐 **Why this is a rule and not a reminder.** The author should be reading Draft 1 for *this does not sound like me*, *this transition is abrupt*, *a novice will not know who this is.* **He should not be discovering that verse 11 never came back from a retrieval call.** Every minute spent doing QA on the retrieval layer while reading is a minute the manuscript did not get reviewed.
+
+✅ **Automate where possible.** This belongs in the build/verification layer as a gate, not in a session's memory. An instruction that depends on remembering is not a standard — the same reasoning that moved the terminology lock and the Spanish register into `build-manuscript.py`.
+
+**The family, updated:**
+1. **A successful HTTP request is NOT a verification** *(v2.2)*
+2. **A FAILED request is not an unavailable source** *(v4.9)*
+3. **The TOOL matters as much as the URL** *(S48)*
+4. **ASK WHAT KIND OF ARTIFACT IT IS** *(v5.0)*
+5. 🆕 **A PARTIAL RETRIEVAL IS NOT A RETRIEVAL — and its mechanics are never the reader's problem** *(here)*
+
+---
+
 ## ⚖️ The Burden-of-Distinction Rule *(added v5.0 — and it is the most dangerous rule this project has adopted)*
 
 > **When two passages independently share an unusually dense combination of VOCABULARY, SOURCE-TEXT BACKGROUND, EVENT SEQUENCE, AUDIENCE HORIZON and THEOLOGICAL FUNCTION, maintaining that they describe DIFFERENT events requires POSITIVE GROUNDS for distinguishing them — not merely the theoretical possibility that they could differ.**
