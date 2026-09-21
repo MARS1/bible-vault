@@ -970,4 +970,43 @@ Distinct from the numbered list above: those are things actually researched that
 
 📐 **AND *UNRESOLVED* IS AN ACCEPTABLE AND VALUABLE OUTCOME.** If Scripture leaves the composition open, the manuscript should say so at exactly that strength: **two stages — established; the identity of who occupies each — unresolved to the degree the text leaves it unresolved.**
 
+
+---
+
+### ✅ **INVESTIGATION RETURNED, 2026-09-21. FINDINGS ONLY — NO MANUSCRIPT TEXT CHANGED.** Run against already-verified sources *(S11, S66, S69 — Revelation 20:1–10, 20:4–6, 20:11–15, all truncation-checked)*, so no new retrieval was required.
+
+**① THE GRAMMATICAL QUESTION — ANSWERED, AND IT DISSOLVES THE REST IN A PRINCIPLED WAY.**
+
+> ### ❗❗❗ **THE REMAINDER CANNOT BE SPECIFIED BECAUSE THE SET IT IS THE REMAINDER *OF* IS NOT SPECIFIED BY THE TEXT.**
+
+✅ **Already established and on file at `q311` / `q212`:** 20:4 contains **throne-sitters receiving judgment-authority · the souls of the beheaded · the beast-resisters** — and **whether these are one, two or three populations is not stated.** <span class="gr">τὰς ψυχάς</span> is accusative, <span class="gr">οἵτινες</span> nominative, **no repeated article**, seven finite verbs, and <span class="gr">ἐκάθισαν</span>'s subject is **unstated — John never says who sits on the thrones.** ★ **And which clause <span class="gr">αὕτη</span> at 20:5 points back to is itself part of the same open question.**
+
+🛑 **The project refuses to rule on disputed syntax on its own authority (S14/S22 precedent), and the grammatical authority that would settle it — ledger `S14` — is NOT RETRIEVED.**
+
+📐 **So <span class="gr">οἱ λοιποὶ τῶν νεκρῶν</span> is the complement of an undetermined set. This is a textual result, not an evasion: you cannot name the remainder of a group whose membership the text declines to fix.**
+
+**② THE CANDIDATE COMPOSITIONS — NOT ADJUDICABLE, and for the reason above rather than for want of effort.** Every one of the six candidates requires knowing what 20:4 delimits. **None can be selected; none can be excluded.**
+
+**③ REVELATION 20:11–15 — ALREADY SETTLED IN THIS ARCHIVE, AND EARLIER THAN THIS TICKET.** ✅ `q225`, 2026-08-23, recorded as **the author's own correction, accepted**: the later population **includes everyone in that horizon**, the **book of life is present at 20:12 and 20:15**, and therefore **no inference of moral inferiority is permitted.** ❗ **The reasoning that prompted this ticket was already the archive's position a month before the ticket existed.** ✅ **And both editions already carry it in prose, in `ch40` and `ch44`.**
+
+**④ THE MILLENNIUM-BORN POPULATION — GENUINELY NEW AND GENUINELY UNEXAMINED.** ❗❗ **An exhaustive search of the archive returns exactly one hit: this ticket.** Across sixty-six stages the question was never put. ⚠️ **What can be said now:** Revelation 20 makes **no statement** about people born and dying inside the interval. ❓ **What cannot yet be said:** whether any other text addresses them. 🛑 **That remains open, and it must not be closed by inference from the fact that the interval must contain them.**
+
+**⑤ THE CROSS-LINKS — BOTH TESTED, BOTH REFUSED AS SEQUENCE-SUPPLIERS.**
+
+❌ **1 Corinthians 15.** Already graded: **event identity PROBABLE, explicitly held below HIGH**, on `q310` — **zero shared vocabulary** between Paul and Revelation 20:4–6. ★ **And `q314` is the sharper finding: Paul's population is defined RELATIONALLY — <span class="gr">οἱ τοῦ Χριστοῦ</span>, those belonging to Messiah — while John's is EVENT-INDEXED: beheaded, refused the beast.** 📐 **Different *kinds* of criterion, which is exactly why Paul's order cannot be laid over John's as a sequence.** ⚠️ *And it bears on ④: a relational criterion could in principle reach someone born later; an event-indexed one cannot. Recorded as an observation, not a solution.*
+
+❌ **Matthew 13.** The archive's own Matthew 13 work binds the harvest to <span class="gr">συντέλεια τοῦ αἰῶνος</span>, **the consummation of the age** — and its strongest finding there is that **Matthew deliberately distinguishes <span class="gr">κόσμος</span> (the field) from <span class="gr">αἰών</span> (the harvest's timing) in two adjacent clauses.** 🛑 **Importing that parable's ordering into Revelation 20 would attach a harvest this project locates at the first-century age-consummation to a throne Revelation places after the thousand years and after the release — and would collapse the very distinction the archive built to prevent exactly that.** **Refused on the project's own established grounds, not on preference.**
+
+### 📐 **DISPOSITION: UNRESOLVED, and the unresolvedness is itself the finding.**
+
+> ### ✅ **Two stages — ESTABLISHED.**
+> ### ❓ **The composition of either population — UNRESOLVED, because Revelation 20:4 does not delimit the first group and therefore does not delimit the remainder.**
+> ### ❗ **The millennium-born question — OPEN AND NEVER EXAMINED.**
+
+⚠️ **What this licenses in the manuscript, when repair is eventually authorized: nothing needs removing.** The audit found no unargued composition claim, and both editions already refuse the inference. **The only candidate change is ADDITIVE — saying explicitly that the remainder is undetermined because the base set is — and that is a Part IX synthesis matter, not a Part VI–VIII repair.**
+
+🛑 **«Secondfruits» remains refused.** The investigation produced no warrant for a named category; it produced the opposite.
+
+---
+
 ⚠️ **AUDIT RESULT ALREADY IN HAND** *(Parts VI–VIII, both editions, run 2026-09-21)*: **no unargued move from the two-stage structure to a composition claim was found.** ✅ Both editions already refuse the inference explicitly, in two places each — `ch40` *(«what is not there is a moral ranking of everyone else… the book of life is present at that judgment»)* and `ch44` *(«it does not itself condemn them»)*. **The manuscript is not currently making the error. The question is whether it should say more than it does.**
