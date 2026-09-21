@@ -220,6 +220,18 @@ So 666 is not a mystical symbol floating free of language. John expects some rea
 
 ## Nero becomes a serious candidate, and only a candidate
 
+::: person
+**NERO · Roman emperor, reigned AD 54–68**
+
+Emperor during the period most first-century datings of Revelation would fall in. Roman sources report that he blamed Christians for the fire at Rome in 64 and had them executed. **Extra-biblical: he is named nowhere in Scripture.** He appears here because his name, spelled in Hebrew letters, is the most-proposed solution to the number of the beast.
+:::
+
+::: person
+**DOMITIAN · Roman emperor, reigned AD 81–96**
+
+The emperor under whom the later tradition places John's exile and the writing of Revelation. **Extra-biblical, and likewise unnamed in Scripture.** The whole late-date case runs through his reign, which is why the testimony about him is weighed so carefully below.
+:::
+
 The proposal is that a Hebrew spelling of *Neron Caesar* yields letter values totalling 666, and that a Latinized spelling without the final *n* yields 616.
 
 And some ancient manuscripts of Revelation read **616** rather than 666.
@@ -239,6 +251,12 @@ But if an early textual tradition **independently** contains 616, and the altern
 
 What must be tested before he could be accepted: the historical setting, the heads and kings of Revelation 17, the wound, the persecution, the forty-two months, the worship system, the economic restrictions, and whether the dating permits the identification at all. **No single calculation gets to carry the whole case.**
 
+::: person
+**IRENAEUS · c. AD 130–202**
+
+Early Christian bishop and writer, of the generation after the apostolic era. His *Against Heresies* preserves important early testimony about Christian beliefs and traditions, including remarks on Revelation's number and on when the vision was seen. **An extra-biblical historical witness — not Scripture.**
+:::
+
 ⚠️ **And one complication I have to flag rather than hide.** Irenaeus is a key witness for the late date — *and* he discusses the number and the variant. The dating investigation and the 666 investigation **share a source**. That makes keeping them analytically independent harder, not easier, and therefore more important than if they had been separate.
 :::
 
@@ -254,6 +272,18 @@ And even if the number identifies Nero personally, Daniel already showed that a 
 
 ## What independent history actually supplies — and what it takes away
 
+::: person
+**TACITUS · c. AD 56–120**
+
+Roman senator and historian. **Not a Christian and not writing to defend Christian claims**, which is exactly why his report of Nero's treatment of Christians after the fire of 64 carries independent weight here.
+:::
+
+::: person
+**EUSEBIUS OF CAESAREA · c. AD 260–339**
+
+Early Christian bishop and historian whose *Ecclesiastical History* preserves quotations and reports from earlier Christian writers, including material that no longer survives independently. He wrote centuries after the apostles. **A historical source, not a biblical authority** — and the distance between him and the events he reports is part of what this section has to weigh.
+:::
+
 ::: historical
 **Historical context — Nero, the assemblies of Asia, and the counterevidence**
 
@@ -267,7 +297,7 @@ So history independently supplies a major imperial persecution inside precisely 
 
 I am not doing that. **Tacitus establishes a persecution after the fire. He gives no duration and no end date at all.** The familiar "64–68" is a **constructed** interval — an attested beginning paired with the emperor's death — not a reported one. That is a test, not a result.
 
-**And the earliest source says less than tradition remembers.** *1 Clement* remembers Peter and Paul as martyred pillars. It does **not** name Nero. It does not name Rome. It does not say Peter was crucified, let alone upside down. It does not say Paul was beheaded. Paul's death is *under the prefects* — an office, not an emperor. The specific traditions appear in later sources, and those are a different evidentiary tier that may not be merged into one certainty.
+**And the earliest source says less than tradition remembers.** *1 Clement* — **a letter sent from the assembly at Rome near the end of the first century, extra-biblical and anonymous in the letter itself, traditionally associated with a Clement of Rome** — remembers Peter and Paul as martyred pillars. It does **not** name Nero. It does not name Rome. It does not say Peter was crucified, let alone upside down. It does not say Paul was beheaded. Paul's death is *under the prefects* — an office, not an emperor. The specific traditions appear in later sources, and those are a different evidentiary tier that may not be merged into one certainty.
 
 🛑 **THE COUNTEREVIDENCE, GIVEN THE SAME PROMINENCE AS THE SUPPORT, because the evidence produced it rather than the hypothesis wanting it.**
 

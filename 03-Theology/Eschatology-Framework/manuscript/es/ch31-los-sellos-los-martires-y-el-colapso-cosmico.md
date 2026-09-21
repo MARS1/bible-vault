@@ -26,7 +26,7 @@ Antes de identificar nada, hay que establecerle al vocabulario su ascendencia. Z
 
 Signifiquen lo que signifiquen los jinetes, la imaginería de Juan sale de los profetas de Israel y no de la nada. Zacarías antes que el periódico.
 
-Una nota de honestidad: la visión de los carros de Zacarías me volvió en resumen y no palabra por palabra en esta pasada, así que la registro como reportada y no como verificada, y no apoyo peso en sus detalles.
+Una nota de honestidad: la visión de los carros de Zacarías la tengo en resumen y no palabra por palabra, así que la registro como reportada y no como verificada, y no apoyo peso en sus detalles.
 
 ## El primer sello, y una identificación que no estoy haciendo
 

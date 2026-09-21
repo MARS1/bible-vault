@@ -23,11 +23,11 @@ The governing question is not *who have Christians traditionally called Babylon*
 ::: textualnote
 **Before any argument — a note about my own citations.**
 
-When I retrieved Revelation 17, the chapter content came back complete. Its **verse numbering did not.** The retrieval merged standard 17:9 and 17:10 into a single "verse 9," so every label after that point ran one low; what it called verse 17 is standard verse 18.
+The text of Revelation 17 I first worked from carried a **versification that differs from the standard one**: it ran standard 17:9 and 17:10 together as a single "verse 9," so every label after that point ran one low; what it called verse 17 is standard verse 18.
 
 Every citation in this chapter uses corrected standard numbering. I am recording the drift rather than quietly fixing it, for one reason: **a citation that is right by luck is not verification.** If I had not noticed, I would have built an argument on reference numbers that did not exist, and the argument might still have looked fine.
 
-The chapter also needs re-retrieval to confirm the numbering independently. That debt is open.
+The numbering still needs independent confirmation against a second witness. That debt is open.
 :::
 
 ## Revelation interprets its own hardest symbol
@@ -190,7 +190,7 @@ That is an entirely ordinary biblical pattern. Assyria, Babylon, Persia — fore
 
 ## Revelation 18:24, and the chain closes
 
-Two chapters ago I opened a chain with one leg missing. Here is the missing leg, retrieved:
+Two chapters ago I opened a chain with one leg missing. Here is the missing leg, now verified:
 
 > And **in her was found the blood of prophets and of saints, and of all who have been slain on earth.** (Revelation 18:24)
 
@@ -221,7 +221,7 @@ This project has spent forty stages on exactly that ambiguity, in exactly that d
 
 If *all who have been slain on earth* is really *all who have been slain in the land*, the parallel with Matthew 23 tightens dramatically and localizes. If it is genuinely the wider sense, the parallel loosens.
 
-**Either way, the English is currently carrying weight the Greek has not been asked to carry.** The Greek of both verses has to be retrieved before this datum is leaned on, and until then it is strong, cited, and formally incomplete.
+**Either way, the English is currently carrying weight the Greek has not been asked to carry.** The Greek of both verses has to be read before this datum is leaned on, and until then it is strong, cited, and formally incomplete.
 :::
 
 One more detail before the counterevidence. 18:20 calls on heaven to rejoice, *and you **saints and apostles and prophets***. Apostles appear specifically, which applies real temporal pressure toward the first-century apostolic conflict. It is pressure, not proof.
@@ -343,5 +343,5 @@ Perhaps one candidate eventually wins. Perhaps John's symbolism deliberately ove
 :::
 
 ::: earned
-**What it earned.** The cleanest falsification test in this investigation, run to completion, producing no winner — which is the correct outcome and was not engineered. A verse-numbering error in my own retrieval reported rather than quietly corrected. A word study aimed squarely at my own strongest datum, at the moment it was most tempting to stop looking. A composite-symbol rule shipped with the leash already attached, so it cannot later be used as an escape hatch. And a prohibition against circular identification, written down here while both figures are still open, where it can still cost me something.
+**What it earned.** The cleanest falsification test in this investigation, run to completion, producing no winner — which is the correct outcome and was not engineered. A verse-numbering discrepancy in my own source reported rather than quietly corrected. A word study aimed squarely at my own strongest datum, at the moment it was most tempting to stop looking. A composite-symbol rule shipped with the leash already attached, so it cannot later be used as an escape hatch. And a prohibition against circular identification, written down here while both figures are still open, where it can still cost me something.
 :::

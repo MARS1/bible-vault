@@ -202,6 +202,18 @@ Así que el 666 no es un símbolo místico flotando suelto por fuera del lenguaj
 
 ## Nerón se vuelve candidato serio, y solamente candidato
 
+::: person
+**NERÓN · emperador romano, reinó del 54 al 68 d. C.**
+
+Emperador durante el período en que caería la mayoría de las dataciones de Apocalipsis en el primer siglo. Fuentes romanas informan que culpó a los cristianos del incendio de Roma del año 64 y los hizo ejecutar. **Extrabíblico: no se lo nombra en ninguna parte de la Escritura.** Aparece aquí porque su nombre, escrito con letras hebreas, es la solución más propuesta para el número de la bestia.
+:::
+
+::: person
+**DOMICIANO · emperador romano, reinó del 81 al 96 d. C.**
+
+El emperador bajo el cual la tradición posterior sitúa el destierro de Juan y la escritura de Apocalipsis. **Extrabíblico, y tampoco nombrado en la Escritura.** Todo el caso de la fecha tardía pasa por su reinado, que es la razón por la que el testimonio sobre él se pesa con tanto cuidado más abajo.
+:::
+
 La propuesta es que una grafía hebrea de *Nerón César* da valores de letras que suman 666, y que una grafía latinizada sin la *n* final da 616.
 
 Y algunos manuscritos antiguos de Apocalipsis leen **616** en vez de 666.
@@ -209,7 +221,7 @@ Y algunos manuscritos antiguos de Apocalipsis leen **616** en vez de 666.
 ::: evidence
 **Cuánto pesa la evidencia — y por qué la variante es la parte interesante**
 
-⚠️ **Todo en esta sección está reportado, no verificado.** No he recuperado la evidencia manuscrita ni realizado el cálculo hebreo desde fuentes primarias, y se sostiene con ese peso.
+⚠️ **Todo en esta sección está reportado, no verificado.** No he examinado la evidencia manuscrita ni realizado el cálculo hebreo desde fuentes primarias, y se sostiene con ese peso.
 
 **Por qué la variante importa metodológicamente.** Supóngase que solo existiera el 666. Alguien podría decir con razón que manipulé una grafía hasta que produjo el número que yo quería, y sería difícil de responder, porque un intérprete decidido casi siempre puede encontrar una grafía que funcione. Un cálculo de gematría aislado es en la práctica infalsable.
 
@@ -220,6 +232,12 @@ Pero si una tradición textual temprana contiene **independientemente** el 616, 
 🛑 **Y sigue sin probar que Nerón sea la bestia.**
 
 Lo que hay que probar antes de aceptarlo: el escenario histórico, las cabezas y los reyes de Apocalipsis 17, la herida, la persecución, los cuarenta y dos meses, el sistema de adoración, las restricciones económicas, y si la datación permite siquiera la identificación. **Ningún cálculo aislado puede cargar todo el caso.**
+
+::: person
+**IRENEO · c. 130–202 d. C.**
+
+Obispo y escritor cristiano temprano, de la generación posterior a la era apostólica. Su *Contra las herejías* conserva testimonio temprano importante sobre creencias y tradiciones cristianas, incluidas observaciones sobre el número de Apocalipsis y sobre cuándo se vio la visión. **Un testigo histórico extrabíblico — no Escritura.**
+:::
 
 ⚠️ **Y una complicación que tengo que señalar en vez de ocultar.** Ireneo es un testigo clave para la fecha tardía — *y* discute el número y la variante. La investigación de la datación y la del 666 **comparten una fuente.** Eso vuelve más difícil, no más fácil, mantenerlas analíticamente independientes, y por lo tanto más importante que si hubieran sido separadas.
 :::
@@ -236,6 +254,18 @@ Y aun si el número identificara a Nerón personalmente, Daniel ya mostró que u
 
 ## Lo que la historia independiente aporta de hecho — y lo que quita
 
+::: person
+**TÁCITO · c. 56–120 d. C.**
+
+Senador e historiador romano. **No era cristiano y no escribía para defender afirmaciones cristianas**, que es exactamente por lo que su informe sobre el trato de Nerón a los cristianos tras el incendio del 64 tiene aquí un peso independiente.
+:::
+
+::: person
+**EUSEBIO DE CESAREA · c. 260–339 d. C.**
+
+Obispo e historiador cristiano temprano cuya *Historia eclesiástica* conserva citas e informes de escritores cristianos anteriores, incluido material que ya no sobrevive de manera independiente. Escribió siglos después de los apóstoles. **Una fuente histórica, no una autoridad bíblica** — y la distancia entre él y los hechos que informa es parte de lo que esta sección tiene que pesar.
+:::
+
 ::: historical
 **Contexto histórico — Nerón, las asambleas de Asia y la contraevidencia**
 
@@ -249,7 +279,7 @@ De modo que la historia aporta independientemente una persecución imperial mayo
 
 No lo estoy haciendo. **Tácito establece una persecución después del incendio. No da duración alguna ni fecha final alguna.** El familiar "64-68" es un intervalo **construido** —un comienzo atestiguado emparejado con la muerte del emperador— no uno reportado. Eso es una prueba, no un resultado.
 
-**Y la fuente más temprana dice menos de lo que recuerda la tradición.** *1 Clemente* recuerda a Pedro y a Pablo como columnas martirizadas. **No** nombra a Nerón. No nombra a Roma. No dice que Pedro fuera crucificado, menos aún cabeza abajo. No dice que Pablo fuera decapitado. La muerte de Pablo es *bajo los prefectos* — un cargo, no un emperador. Las tradiciones específicas aparecen en fuentes posteriores, y esas son un nivel evidenciario distinto que no puede fundirse en una sola certeza.
+**Y la fuente más temprana dice menos de lo que recuerda la tradición.** *1 Clemente* — **una carta enviada desde la asamblea de Roma hacia finales del primer siglo, extrabíblica y anónima en la carta misma, asociada por tradición a un Clemente de Roma** — recuerda a Pedro y a Pablo como columnas martirizadas. **No** nombra a Nerón. No nombra a Roma. No dice que Pedro fuera crucificado, menos aún cabeza abajo. No dice que Pablo fuera decapitado. La muerte de Pablo es *bajo los prefectos* — un cargo, no un emperador. Las tradiciones específicas aparecen en fuentes posteriores, y esas son un nivel evidenciario distinto que no puede fundirse en una sola certeza.
 
 🛑 **LA CONTRAEVIDENCIA, CON LA MISMA PROMINENCIA QUE EL APOYO, porque la produjo la evidencia y no el deseo de la hipótesis.**
 

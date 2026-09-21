@@ -200,7 +200,7 @@ El candidato más limpio es que el poco tiempo del capítulo 12 corra desde el d
 
 Concepto parecido. Formulación distinta. Y, críticamente, <span class="gr">καιρός</span> y <span class="gr">χρόνος</span> son palabras diferentes — una distinción que ya importó en Apocalipsis 1:3, donde *el tiempo señalado está cerca* era más fuerte que *la duración será breve*.
 
-No he recuperado el interlineal de estas dos, así que el punto léxico queda registrado y no apoyado.
+No he leído el interlineal de estas dos, así que el punto léxico queda registrado y no apoyado.
 
 **El parecido se ha ganado la pregunta. No se ha ganado la identidad.** Esa es la regla propia de este proyecto, aplicada a su propia conveniencia, que es la única vez en que cuesta algo.
 

@@ -23,11 +23,11 @@ La pregunta que gobierna no es *a quién ha llamado tradicionalmente Babilonia e
 ::: textualnote
 **Antes de cualquier argumento — una nota sobre mis propias citas.**
 
-Cuando recuperé Apocalipsis 17, el contenido del capítulo volvió completo. Su **numeración de versículos no.** La recuperación fusionó los versículos 9 y 10 estándar en un solo "versículo 9", de modo que toda etiqueta posterior corría una unidad por debajo; lo que llamaba versículo 17 es el versículo 18 estándar.
+El texto de Apocalipsis 17 con el que trabajé primero traía una **numeración de versículos distinta de la estándar**: unía los versículos 9 y 10 estándar en un solo "versículo 9", de modo que toda etiqueta posterior corría una unidad por debajo; lo que llamaba versículo 17 es el versículo 18 estándar.
 
 Toda cita de este capítulo usa la numeración estándar corregida. Registro el desplazamiento en vez de arreglarlo calladamente, por una razón: **una cita que acierta por suerte no es verificación.** Si no lo hubiera notado, habría construido un argumento sobre números de referencia que no existían, y el argumento podría haber seguido pareciendo correcto.
 
-El capítulo necesita además una nueva recuperación que confirme la numeración de manera independiente. Esa deuda queda abierta.
+La numeración necesita además confirmación independiente contra un segundo testigo. Esa deuda queda abierta.
 :::
 
 ## Apocalipsis interpreta su símbolo más difícil
@@ -180,7 +180,7 @@ Es un patrón bíblico enteramente ordinario. Asiria, Babilonia, Persia — pode
 
 ## Apocalipsis 18:24, y la cadena se cierra
 
-Dos capítulos atrás abrí una cadena a la que le faltaba un tramo. Aquí está el tramo que faltaba, recuperado: **y en ella se halló la sangre de los profetas y de los santos, y de todos los que han sido muertos en la tierra** (18:24).
+Dos capítulos atrás abrí una cadena a la que le faltaba un tramo. Aquí está el tramo que faltaba, ya verificado: **y en ella se halló la sangre de los profetas y de los santos, y de todos los que han sido muertos en la tierra** (18:24).
 
 Frente a Mateo, que anuncia que sobre ellos vendrá *toda la sangre justa derramada sobre la tierra*, que *todo esto vendrá sobre esta generación*, y que Jerusalén es la ciudad *que mata a los profetas* (23:35, 23:36, 23:37).
 

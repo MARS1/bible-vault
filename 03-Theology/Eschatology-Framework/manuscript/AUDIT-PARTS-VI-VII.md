@@ -61,6 +61,30 @@ related: "[[EDITORIAL-RULES]], [[00-methodology-current]], [[STRUCTURAL-DEBT]], 
 
 ⚠️ **ES `ch40` carries the identical section**, *"Tres recuperaciones volvieron rotas"*, with the same table.
 
+## ★★★★★ THE EVIDENCE GAPS ARE ALREADY CLOSED — the manuscript is stale, not short of text
+
+**`SCRIPTURE-COMPLETE-001` was applied before any prose repair, as instructed. The first step of that rule's own family is *consult the source ledger before declaring anything unreachable*. Doing so settled all three of `ch40`'s declared truncations without a single new fetch.**
+
+| Passage `ch40` declares truncated | Actual archive status |
+|---|---|
+| **Revelation 6:9–11** | ✅✅ **VERIFIED COMPLETE — `S67`, 2026-08-25.** Greek confirmed verse by verse: <span class="gr">Ἕως πότε</span> · <span class="gr">στολὴ λευκή</span> · <span class="gr">ἀναπαύσονται ἔτι χρόνον μικρόν</span> · <span class="gr">ἕως πληρωθῶσιν</span> |
+| **Matthew 27:51–53** | ✅✅ **VERIFIED COMPLETE — `S67`, 2026-08-25.** <span class="gr">πολλὰ σώματα … ἠγέρθησαν</span> · <span class="gr">μετὰ τὴν ἔγερσιν αὐτοῦ</span> |
+| **Hebrews 12:22–23** | ✅ **CLOSED VERBATIM — `q183`, Stage 41**, recorded in `02d` as verified this stage *(ESV; the range closed is 12:22–24)*. ⚠️ English verbatim, not Greek — sufficient for the content claim `ch40` makes, insufficient for any lexical argument |
+
+### ❗❗❗ **AND THE HEBREWS ENTRY IS THE SHARP ONE: it was closed at STAGE 41, and the stage that declared it truncated is STAGE 47. The debt was discharged six stages BEFORE it was announced as outstanding.**
+
+📐 **This is the methodology's own recorded failure mode, recurring:** *the clue was already in the archive and was never read.* **The stage consulted its retrieval output instead of its own ledger.**
+
+### ✅ **AND THE ARGUMENT DID NOT MERELY SURVIVE — `S67` RECORDS THAT IT GOT STRONGER:**
+
+> *"the completed Rev 6 text **strengthened the control** that had been built on the truncated version — which is only possible because Stage 47 **declared** the gap instead of filling it from expectation."*
+
+★★ **So the trust-building half of `ch40` is real and must be kept: the author argued from incomplete text, said so, and was vindicated when the full text arrived.** 🛑 **What goes is the plumbing — the table of what an API returned. What stays is the epistemic event: *I built a control on a partial passage, declared the gap rather than papering over it, and the complete text later confirmed and strengthened it.***
+
+⚠️ **Consequence for the repair: this is not a retrieval task. It is a propagation task** — the verified text exists and the prose has to be rewritten onto it. **`ch40`'s central argument may now cite complete verses.**
+
+---
+
 ## Representative A-category instances
 
 | Where | What the reader is told |
