@@ -1,0 +1,14 @@
+Edition:        English (en)
+Part:           8  Part VIII: The Millennium and the Open Horizon
+Milestone:      d1-closed
+Source commit:  06a3aeebe3b33307f0889e4658d0a3427ae30088
+Commit date:    2026-09-20
+Tree state:     source committed at this commit
+Built:          2026-09-21
+Extent:         21,744 words, 141 pages
+
+NOTE
+Draft 1 closed after substantive review. Four authorized correction groups applied and focus-verified: MILLENNIUM-NUMBER (chilia ete split — boundedness at SUPPORTS, approximately-1000-ordinary-years downgraded to PERMITS/weak SUPPORTS, and the eleventh-century arithmetic restated as conditional); PHANTOM-LOGIC (a chronology revision redates artifacts rather than deleting them; only the self-sealing defence is unfalsifiable, the proposition itself is testable); CHRONOLOGY-WORDING (eclipse delta-T honesty, and Hijri independence stated as independence of interest rather than of all record-keeping); SAINTS-LOCATION (Rev 20:9 is post-millennial and cannot locate the 20:4-6 reigners; Rev 5:10 variant named on both sides and retagged SOURCE-LANGUAGE for Spanish inheritance; conclusion restored to LOCATION UNRESOLVED). Five downstream propagations in ch50/ch51 reported, ch52 unchanged. PF-01 untouched at SUPPORTS; no YOU ARE HERE marker; PF-02 open horizon preserved. Outstanding and deliberately NOT part of this closure: PR-002, LAYOUT-001, LAYOUT-003 (all Part VI).
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 06a3aee
