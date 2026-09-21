@@ -227,6 +227,18 @@ related: "[[00-index]], [[00a-narrative-spine]], [[09-manuscript-integrity-audit
 | **53** | **What We Know, What We Believe, and What We Still Don't Know** | **Stage 65** · [[03r-what-we-know-what-we-believe-and-what-we-still-dont-know]] |
 | **54** | **The Position I Can Actually Defend — and Who Am I Now?** | **Stage 66** · [[03s-the-position-we-can-actually-defend]] |
 
+> ### 🛑🛑 **SEQUENCING GATE — ADDED 2026-09-21. READ THIS BEFORE THE LINE BELOW IT.**
+>
+> ### ❗❗ **«ALREADY WRITTEN AS PROSE» DESCRIBES SOURCE MATERIAL IN THE VAULT. IT DOES NOT MEAN PART IX IS READY TO DRAFT, ASSEMBLE OR FINALIZE.**
+>
+> ### **THE ORDER IS: Part VII reader review → corrections propagated → Part VIII reader review → corrections propagated → *then* Part IX assembled.**
+>
+> 📐 **Part IX is a SYNTHESIS.** It gathers the final Open Questions and the findings accumulated **through those two reader reviews**. Assembling it before they happen would synthesize a state that no longer exists by the time it is read.
+>
+> ★ **And this is not hypothetical.** Six pages into the Part VII reader review, `REV20-REST-DEAD-001` was generated — a genuinely new open question that sixty-six research stages had never asked, and one that belongs in Part IX. **There are ~210 pages of Part VII and the whole of Part VIII still unread.** What they produce is not predictable, and Part IX has to carry it.
+>
+> ⚠️ **This gate exists because the line immediately below was misread exactly that way on 2026-09-21** — «they need the least editing in the book» was taken as «they are the next drafting task». **It is a statement about editorial effort, not about sequence.**
+
 > ### ✅ **BOTH CHAPTERS ARE ALREADY WRITTEN AS PROSE. THEY NEED THE LEAST EDITING IN THE BOOK — and the editing they need is CONNECTIVE, not substantive.**
 >
 > ### 🛑 **CH. 53 KEEPS ITS FULL EVIDENCE LEDGER TABLE AND ITS DISCONFIRMING-EVIDENCE SECTION. NEITHER IS AN APPENDIX ITEM.** **A book that asks the reader to test inherited systems must print what could count against its own.**
