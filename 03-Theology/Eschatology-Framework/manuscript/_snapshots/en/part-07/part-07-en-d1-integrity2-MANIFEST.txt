@@ -1,0 +1,14 @@
+Edition:        English (en)
+Part:           7  Part VII: Testing the Case Against Itself
+Milestone:      d1-integrity2
+Source commit:  7742785b50abe716798c9af44a211ccfeb8dd8e4
+Commit date:    2026-09-21
+Tree state:     source committed at this commit
+Built:          2026-09-21
+Extent:         36,528 words, 219 pages
+
+NOTE
+Second integrity milestone, 2026-09-21. EVIDENCE REPAIRED BEFORE PROSE. The ES Part VI Babylon chapter's declared RVR1960 debt was discharged by actual retrieval rather than by deleting the note: Apocalipsis 18:4-24 complete, Apocalipsis 17:4-9 and 17:16-18, Mateo 23:34-38, Ezequiel 16:37-39, Isaias 47:7-9 and Isaias 1:21 verified verbatim (ledger S110), and the comparison matrix was then re-tested row by row against them. THE MATRIX SURVIVES - no row fell - and two rows proved stronger than written (17:18 and 17:17 verbatim-exact rather than paraphrase; 17:6 adds the blood of the martyrs of Jesus). Four wordings were wrong and are corrected. ONE CLAIM DOWNGRADED: the 18:24 / Mateo 23:35 parallel is not casi literal in RVR1960 - different subjects, en la tierra against sobre la tierra - and the Spanish witness reproduces rather than resolves the la-tierra ambiguity the English edition records as open. Apocalipsis 17 as a whole chapter was refused on copyright grounds and was NOT worked around verse by verse. Matthew 24:12 restated in both editions to say the Greek was verified BEFORE the argument was allowed to depend on it. No theological conclusion changed.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 7742785
