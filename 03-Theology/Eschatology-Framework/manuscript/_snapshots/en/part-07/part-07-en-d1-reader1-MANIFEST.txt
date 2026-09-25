@@ -1,0 +1,14 @@
+Edition:        English (en)
+Part:           7  Part VII: Testing the Case Against Itself
+Milestone:      d1-reader1
+Source commit:  a72175f40e6f776bd52551c0bd306d6f8d070677
+Commit date:    2026-09-25
+Tree state:     source committed at this commit
+Built:          2026-09-25
+Extent:         39,577 words, 230 pages
+
+NOTE
+Author's reader-review revision of d1-integrity2, 2026-09-25. Reader language defined at first use; research-infrastructure leakage removed; every technical table states its question; ch46 retitled. Evidence debts discharged (source ledger S111-S116), incl. 1 Macc 1:54 Greek, OG Dan 8:13, Irenaeus AH 5.30.3 (English). BIBLE-elf fixed in ch45/ch46. Table rows no longer split (LAYOUT-003) and the new ADR-0012 layout gate passes. No finding's verdict reversed. THIS is the English Part VII copy for review; Spanish Part VII not begun.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit a72175f
