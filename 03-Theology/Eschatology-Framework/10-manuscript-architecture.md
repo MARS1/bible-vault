@@ -185,7 +185,7 @@ related: "[[00-index]], [[00a-narrative-spine]], [[09-manuscript-integrity-audit
 | **43** | **Daniel Never Said It Twice the Same Way** | Stage 51 + 51¾ + 51½ · [[02s-...]] · [[02t-the-theodotion-recovery]] · [[02u-...]] |
 | **44** | **Paul's Chain, and Paul vs. John** | Stages 52-53 · [[02v-pauls-internal-chain]] · [[02w-paul-vs-johns-first-resurrection]] |
 | **45** | **What Starts the Thousand Years — The Verb Went Against Us** | Stages 54 + 54½ + 54⅞ · [[02x-what-starts-the-thousand-years]] · [[02z-deception-scope-and-the-allegiance-control]] |
-| **46** | **The Beast's Fingerprint, the Standard of Proof, and PF-01** | Stages 55A-55D, 56-58 · [[03a-...]] · [[03b-...]] · [[03c-...]] · [[03d-...]] · [[03f-...]] · [[03g-...]] · [[03h-the-standard-of-proof]] |
+| **46** | **The Beast's Fingerprint, the Standard of Proof, and What the Evidence Now Supports** *(retitled 2026-09-25 from "…and PF-01" after the author's Part VII reader review: a reader meets the chapter title before the chapter defines PF-01. The chapter now defines it — Provisional Finding 01 — at its filing)* | Stages 55A-55D, 56-58 · [[03a-...]] · [[03b-...]] · [[03c-...]] · [[03d-...]] · [[03f-...]] · [[03g-...]] · [[03h-the-standard-of-proof]] |
 
 > ### ★★★★★ **CH. 41 MUST CARRY THE STAGE 48 CORRECTION IN FULL AND IN FIRST PERSON — this project asserted that Matthew 13:41 and 24:31 share a gathering verb. **IT WAS FALSE.** 13:41 is ΣΥΛΛΕΞΟΥΣΙΝ; 24:31 is ΕΠΙΣΥΝΑΞΟΥΣΙΝ.** ✅ **And the correction PAID: chasing the real verb found Matthew's only other ἐπισυνάγω at 23:37 — Yeshua's lament over Jerusalem, one chapter earlier — which points AWAY from the reading this project prefers.** **📌 NOW WITH A THIRD WITNESS: RVR1960 independently splits juntar from recoger (q440). Print it.**
 

@@ -6,7 +6,7 @@ tags: [draft-1, part-vii, chapter-41, stage-48, stage-48h, episynago, syllego, p
 reference: "Matthew 24:29-39; Matthew 23:36-37; Matthew 13:24-50; 1 Thessalonians 4:13-5:11; 1 Corinthians 15:20-28, 50-57; Revelation 1:18, 11:15-18, 19:20, 20:10-15, 21:4; Hebrews 10:25; John 6:39-54, 11:24, 12:48; LXX Isaiah 13:9-13, 27:12-13, 34:4; LXX Zechariah 12:10-14; LXX Deuteronomy 30:3-4; Daniel 7:13-14"
 created: 2026-09-18
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part VII, Chapter 41. Sources: Stages 48 and 48½ and [[02n-the-gathering-identity-audit]] · [[02o-matthew-24-under-the-microscope]]. ★★★★★ THE STAGE 48 CORRECTION IS CARRIED IN FULL AND IN FIRST PERSON: this project asserted that Matthew 13:41 and 24:31 share a gathering verb. IT WAS FALSE. 13:41 is ΣΥΛΛΕΞΟΥΣΙΝ; 24:31 is ΕΠΙΣΥΝΑΞΟΥΣΙΝ. ★★★ AND THE CORRECTION PAID: chasing the real verb found Matthew's only other ἐπισυνάγω at 23:37 — Yeshua's lament over Jerusalem, one chapter before the Olivet discourse — which points AWAY from the reading this project prefers. ★★★ THIRD WITNESS PRINTED (SYNC-009, q440): RVR1960 independently splits juntar from recoger, so the distinction is visible to a translator without Greek. It CONFIRMS the Greek finding; it does not establish it. ★★★ THE WORD-FAMILY BRIDGE WAS TESTED AND DID NOT HOLD — Hebrews 10:25 uses ἐπισυναγωγή of an ordinary assembly meeting. Shared vocabulary establishes a shared WORD, not a shared EVENT. ★★★ MATTHEW 24:29-31 CONTAINS NO RESURRECTION VOCABULARY — searched exhaustively. ★★★ παρουσία IS ABSENT FROM 24:29-36; four occurrences bracket the pericope and none sits inside it. The strongest lexical claim did not survive retrieval. ★★★ TWO CORRECTIONS IN THE SAME TWELVE HOURS, ONE IN EACH DIRECTION: the tranche upgraded a contextual correspondence into a lexical pair; this project's own summary upgraded 'identity not established' into 'non-identity adopted'. Neither party is exempt. ★★★ A FABRICATED GREEK PARALLEL WAS CAUGHT BEFORE ENTRY — ἥξουσιν graded VERBAL inside Matthew 24:31, where it does not occur. Standing eval case. ★★★ PROMOTION EARNED: Matthew 24:29-31 sits inside Matthew's first-century horizon, HIGH — shipped with FOUR falsification conditions and with the frank admission that 24:36's περὶ δέ was not exhaustively searched. ★ AND THE PROMOTION ESTABLISHES WHEN MATTHEW PLACES MATTHEW'S GATHERING AND NOTHING WHATEVER ABOUT WHETHER IT IS PAUL'S RESURRECTION. ★ Rev 20 chronology lock; Defeat != Abolition; compatibility is not evidence. ★ John's 'last day' is the hardest obstacle and it got harder. ★ Daniel 7:13 destabilized; Theodotion NOT RETRIEVED, load-bearing, hands off to Chapter 43. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1 — READER-REVIEW REVISION 2026-09-25: evidence changes are listed in SYNC-023; where this summary and the chapter text differ, the text is current. Approved architecture v1.0, Part VII, Chapter 41. Sources: Stages 48 and 48½ and [[02n-the-gathering-identity-audit]] · [[02o-matthew-24-under-the-microscope]]. ★★★★★ THE STAGE 48 CORRECTION IS CARRIED IN FULL AND IN FIRST PERSON: this project asserted that Matthew 13:41 and 24:31 share a gathering verb. IT WAS FALSE. 13:41 is ΣΥΛΛΕΞΟΥΣΙΝ; 24:31 is ΕΠΙΣΥΝΑΞΟΥΣΙΝ. ★★★ AND THE CORRECTION PAID: chasing the real verb found Matthew's only other ἐπισυνάγω at 23:37 — Yeshua's lament over Jerusalem, one chapter before the Olivet discourse — which points AWAY from the reading this project prefers. ★★★ THIRD WITNESS PRINTED (SYNC-009, q440): RVR1960 independently splits juntar from recoger, so the distinction is visible to a translator without Greek. It CONFIRMS the Greek finding; it does not establish it. ★★★ THE WORD-FAMILY BRIDGE WAS TESTED AND DID NOT HOLD — Hebrews 10:25 uses ἐπισυναγωγή of an ordinary assembly meeting. Shared vocabulary establishes a shared WORD, not a shared EVENT. ★★★ MATTHEW 24:29-31 CONTAINS NO RESURRECTION VOCABULARY — searched exhaustively. ★★★ παρουσία IS ABSENT FROM 24:29-36; four occurrences bracket the pericope and none sits inside it. The strongest lexical claim did not survive retrieval. ★★★ TWO CORRECTIONS IN THE SAME TWELVE HOURS, ONE IN EACH DIRECTION: the tranche upgraded a contextual correspondence into a lexical pair; this project's own summary upgraded 'identity not established' into 'non-identity adopted'. Neither party is exempt. ★★★ A FABRICATED GREEK PARALLEL WAS CAUGHT BEFORE ENTRY — ἥξουσιν graded VERBAL inside Matthew 24:31, where it does not occur. Standing eval case. ★★★ PROMOTION EARNED: Matthew 24:29-31 sits inside Matthew's first-century horizon, HIGH — shipped with FOUR falsification conditions and with the frank admission that 24:36's περὶ δέ was not exhaustively searched. ★ AND THE PROMOTION ESTABLISHES WHEN MATTHEW PLACES MATTHEW'S GATHERING AND NOTHING WHATEVER ABOUT WHETHER IT IS PAUL'S RESURRECTION. ★ Rev 20 chronology lock; Defeat != Abolition; compatibility is not evidence. ★ John's 'last day' is the hardest obstacle and it got harder. ★ Daniel 7:13 destabilized; Theodotion NOT RETRIEVED, load-bearing, hands off to Chapter 43. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
 related: "[[10-manuscript-architecture]], [[02n-the-gathering-identity-audit]], [[02o-matthew-24-under-the-microscope]], [[00k-the-gathering-of-the-elect]], [[SYNC-LEDGER]]"
 ---
 
@@ -21,6 +21,8 @@ What actually happened is that the Pauline half grew stronger while the Matthean
 The question for this chapter is deliberately narrow, and I am going to keep it narrow because the temptation to widen it is exactly how this kind of argument goes wrong:
 
 > **Do Matthew 24:29–31, 1 Thessalonians 4, and 1 Corinthians 15 describe the first-resurrection and gathering complex that precedes the thousand years — or something else?**
+
+*Complex* there is a word I will use throughout this Part, and it means something simple: a cluster of events that a text presents together — here, resurrection and gathering — whose parts may or may not turn out to be one event.
 
 And one thing this chapter may **not** do, per the correction I accepted last chapter: reopen whether Revelation 20 has one resurrection or two. Revelation staged them itself. This is a mapping exercise onto an established structure, not a renegotiation of it.
 
@@ -57,7 +59,7 @@ The discipline that made it safe is one sentence: **check the claim against the 
 
 **Verified verbatim in Greek**, across both stages behind this chapter: 1 Thessalonians 4:13–18 and 5:1–11 · 1 Corinthians 15:20–28 and 50–57 · Matthew 24:29–39 · Matthew 23:35–36 · Matthew 13:24–50 · every occurrence of <span class="gr">γενεά</span> in Matthew · Revelation 1:18, 11:15–18, 19:20, 20:10–15, 21:4 · John 6:39, 6:40, 6:44, 6:54, 11:24, 12:48 · 2 Thessalonians 2:1 · Hebrews 10:25 · Mark 13:27 · Luke 13:34 and 17:37.
 
-**And then the Septuagint**, which the first stage owed and the second stage paid: LXX Isaiah 13:9–13 · Isaiah 27:12–13 · Isaiah 34:4 · Zechariah 12:10–14 · Deuteronomy 30:3–4 · Daniel 7:13–14 in the Old Greek.
+**And then the Septuagint** — the ancient Greek translation of the Hebrew Scriptures, made in the centuries before Yeshua, and the form in which Greek-speaking Jews and the first Greek-speaking believers commonly read them. It is abbreviated **LXX**, and I use that abbreviation from here on. The first stage owed it and the second stage paid: LXX Isaiah 13:9–13 · Isaiah 27:12–13 · Isaiah 34:4 · Zechariah 12:10–14 · Deuteronomy 30:3–4 · Daniel 7:13–14 in the Old Greek.
 
 That debt is worth naming because of what it was. The first stage argued Tanakh parallels **from English translations only** — and a verbal parallel between a Greek Gospel and a Hebrew prophet **cannot be established by two English translations agreeing.** That demonstrates the translators' choices, not the texts' relationship. Every such claim was marked *reported, not verified* until the Greek arrived.
 
@@ -65,11 +67,13 @@ That debt is worth naming because of what it was. The first stage argued Tanakh 
 **THEODOTION · Greek translator, active in the second century AD**
 
 Not a person this book argues about, but a name attached to a **text**. There is more than one ancient Greek version of Daniel: an older one usually called the **Old Greek**, and a later revision associated with Theodotion. **They differ from each other in wording** — which is why *which* Greek Daniel a New Testament writer is quoting turns out to be a real question, and why the missing one is recorded below as load-bearing rather than as a detail.
+
+**Why the comparison matters.** When a New Testament writer echoes Daniel in Greek, his wording can be set beside the Aramaic or Hebrew original *and* beside each of the two Greek versions. Where he agrees with one Greek form against the other, that tells us which form of Daniel he was hearing — and it guards against treating a translator's wording as though it were Daniel's own.
 :::
 
-⚠️ **Still outstanding, and one of them is load-bearing:** the **Theodotion** text of Daniel 7:13–14 (see the end of this chapter) · the Hebrew of Isaiah 27:13 and 13:10, which I have only in a word-order-scrambled form and therefore cannot use · an exhaustive <span class="gr">περὶ δέ</span> search across Matthew · a lexical authority for <span class="gr">ἐπισυνάγω</span>.
+⚠️ **Still outstanding, and one of them is load-bearing:** the **Theodotion** text of Daniel 7:13–14 (see the end of this chapter) · a lexical authority for <span class="gr">ἐπισυνάγω</span>.
 
-⚠️ **And a correction applied to my own working discipline.** A Septuagint comparison I had not verified was handed to me rated *"9 out of 10 — inference from English translations is highly probable."* **That rating was rejected and downgraded to NOT VERIFIED.** A probability attached to a conclusion is not a substitute for the reading that would establish it, and *highly probable* is precisely the phrasing by which *contextually favoured* quietly becomes *lexically established*.
+⚠️ **And a correction applied to my own working discipline.** An earlier comparison had rated an unchecked Septuagint parallel *"9 out of 10 — inference from English translations is highly probable."* **That rating was rejected and the parallel downgraded to NOT VERIFIED.** A probability attached to a conclusion is not a substitute for the reading that would establish it, and *highly probable* is precisely the phrasing by which *contextually favoured* quietly becomes *lexically established*.
 :::
 
 ## The Revelation 20 chronology lock, and why it is not merely adjacency
@@ -154,12 +158,14 @@ Paul uses **two different verbs** across this passage and English collapses them
 
 **The ESV prints *asleep* for both verbs, which hides that Paul switched words. The CJB splits them — and splits them in opposite directions at 4:13 and 5:6.**
 
-A textbook translation artifact. The Spanish edition will need its own check here, against its own base, rather than a translation of this note.
+A textbook translation artifact.
 
-Two more from the same lane: the CJB renders <span class="gr">ἐν φωνῇ ἀρχαγγέλου</span> as *a call from one of the ruling angels* — a **class** — where the ESV keeps *an archangel*, a **rank**. And the CJB renders <span class="gr">σάλπιγξ</span> as *shofar* throughout, which is defensible and also **decides an intertextual question the Greek leaves open.**
+Two more of the same kind: the CJB renders <span class="gr">ἐν φωνῇ ἀρχαγγέλου</span> as *a call from one of the ruling angels* — a **class** — where the ESV keeps *an archangel*, a **rank**. And the CJB renders <span class="gr">σάλπιγξ</span> as *shofar* throughout, which is defensible and also **decides an intertextual question the Greek leaves open.**
 :::
 
 ## 1 Corinthians 15 stages it, and Paul supplies the ordering words
+
+One word in the table below needs a reminder, because this Part leans on it hard. **<span class="gr">παρουσία</span>** — *parousia* — is the Greek noun usually translated *coming*. Its ordinary meaning is *presence* or *arrival*, and whose arrival, and which one, has to come from the sentence around it.
 
 | v. | Greek marker | Element |
 |-----|----------------------------|-------------------------------------|
@@ -189,7 +195,7 @@ Two things in that passage I am explicitly refusing to use.
 
 The rule was written long before the conclusion it now restrains. That is the only reason it can be trusted here.
 
-**And two words I am refusing outright.** <span class="gr">δεῖ</span> occurs in 1 Corinthians 15:25 and in Revelation 20:3. So does <span class="gr">ἄχρι</span>. Both are among the most common words in the Greek New Testament. **Shared occurrence of an extremely common word is not a lexical link**, and presenting it as one would be my own scope-burden error wearing a new costume. Refused here in writing so it cannot quietly return later as though it had been established.
+**And two words I am refusing outright.** <span class="gr">δεῖ</span> occurs in 1 Corinthians 15:25 and in Revelation 20:3. So does <span class="gr">ἄχρι</span>. Both are among the most common words in the Greek New Testament. **Shared occurrence of an extremely common word is not a lexical link**, and presenting it as one would be an old mistake of mine — making a word carry more than its ordinary range can bear — wearing a new costume. Refused here in writing so it cannot quietly return later as though it had been established.
 
 ## The word-family bridge, tested, and it did not hold
 
@@ -199,24 +205,26 @@ So I audited the family.
 
 | Verse | Form | What is gathered | Character |
 |---------------------|--------------------------|-------------------------------|------------------------|
-| **Matthew 23:37** | <span class="gr">ἐπισυναγαγεῖν</span> | **Jerusalem's children**, as a hen gathers her brood | **covenantal lament** |
+| **Matthew 23:37** | <span class="gr">ἐπισυναγαγεῖν</span> · <span class="gr">ἐπισυνάγει</span> | **Jerusalem's children**, as a hen gathers her brood | **covenantal lament** |
 | **Matthew 24:31** | <span class="gr">ἐπισυνάξουσιν</span> | the elect, from the four winds | eschatological |
+| **Mark 1:33** | <span class="gr">ἐπισυνηγμένη</span> | **the whole town, at the door** | ❗ **an ordinary crowd** |
 | **Mark 13:27** | <span class="gr">ἐπισυνάξει</span> | the elect | eschatological |
+| **Luke 12:1** | <span class="gr">ἐπισυναχθεισῶν</span> | **a crowd of many thousands**, trampling one another | ❗ **an ordinary crowd** |
 | **Luke 13:34** | <span class="gr">ἐπισυνάξαι</span> | **Jerusalem's children** | **covenantal lament** |
 | **Luke 17:37** | <span class="gr">ἐπισυναχθήσονται</span> | **vultures**, over a corpse | eschatological discourse |
 | **2 Thessalonians 2:1** | <span class="gr">ἐπισυναγωγῆς</span> | believers, to Messiah | eschatological |
 | **Hebrews 10:25** | <span class="gr">ἐπισυναγωγὴν ἑαυτῶν</span> | **believers meeting together** | ❗ **an ordinary assembly** |
 
 ::: finding
-**Finding — Hebrews 10:25 uses this noun for showing up to a meeting**
+**Finding — this word family is used for a town crowding a doorway, and for showing up to a meeting**
 
-**The word family is not inherently eschatological.** My bridge is weaker than I claimed for it.
+**The word family is not inherently eschatological.** Three of the nine verses above are ordinary gatherings: a town at a door, a crowd so large that people trampled each other, and believers meeting together. My bridge is weaker than I claimed for it.
 
 **Shared vocabulary establishes a shared word. It does not establish a shared event.**
 
 This finding goes against my hypothesis and it is printed at the same size as the findings that favour it.
 
-⚠️ **Completeness caveat, stated rather than glossed:** those seven occurrences are the commonly cited ones and each was individually retrieved. **A full concordance sweep of every inflected form of both roots was not performed.** The list is partial, not exhaustive.
+✅ **The list is complete.** Those nine verses are every occurrence of both words in the Greek New Testament. *(At Luke 17:37 some printed editions of the Greek read the simpler verb <span class="gr">συνάγω</span> instead; the count above follows the SBL edition used throughout this book.)*
 :::
 
 ## Matthew 24:29–31, and the thing that is conspicuously not in it
@@ -226,7 +234,7 @@ Here is the load-bearing negative, and I searched for it exhaustively rather tha
 ::: finding
 **Finding — Matthew 24:29–31 contains no resurrection vocabulary of any kind**
 
-Each of the following was searched for in the pericope and is **absent**: <span class="gr">ἀνάστασις</span> · <span class="gr">ἐγείρω</span> · <span class="gr">ἀνίστημι</span> · <span class="gr">νεκροί</span> · <span class="gr">μνημεῖα</span> · <span class="gr">ἐξανάστασις</span> · <span class="gr">θάνατος</span>.
+Each of the following was searched for across the whole passage, 24:29–31, and is **absent**: <span class="gr">ἀνάστασις</span> · <span class="gr">ἐγείρω</span> · <span class="gr">ἀνίστημι</span> · <span class="gr">νεκροί</span> · <span class="gr">μνημεῖα</span> · <span class="gr">ἐξανάστασις</span> · <span class="gr">θάνατος</span>.
 
 **Matthew gives a gathering. Paul gives a resurrection *and* a gathering. The resurrection component is Paul's, not Matthew's.**
 
@@ -240,9 +248,9 @@ I had argued that Matthew and Paul do not merely share an English word *coming* 
 ::: finding
 **Finding — <span class="gr">παρουσία</span> is not in the passage**
 
-Every occurrence in Matthew 24 was retrieved. **There are four: 24:3, 24:27, 24:37, 24:39.** I had been implying three.
+Every occurrence in Matthew 24 was checked in the Greek. **There are four: 24:3, 24:27, 24:37, 24:39.** I had been implying three.
 
-🛑 **And none of them is inside 24:29–36.** The word is absent from the gathering, absent from the trumpet, absent from the generation statement. It **brackets** the pericope — one before, one after — and does not appear within it.
+🛑 **And none of them is inside 24:29–36.** The word is absent from the gathering, absent from the trumpet, absent from the generation statement. It **brackets** the passage — occurrences before it and after it — and does not appear within it.
 
 So the <span class="gr">παρουσία</span> link between Matthew's gathering and Paul's parousia-gathering **is not direct**. It is an inference from contextual framing, which may well be correct, and which is not the same thing as shared vocabulary at the verse in dispute.
 
@@ -284,7 +292,7 @@ Those are different failures, and only one of them requires the conclusion to ch
 ::: textualnote
 **Textual note — a third witness to the correction, from outside this investigation** `SPANISH-SPECIFIC in origin`
 
-The Spanish edition can show this where the English can only state it.
+One widely read Spanish Bible, the Reina-Valera of 1960 (RVR1960), makes this visible on the page in a way the common English translations do not.
 
 **RVR1960 renders every <span class="gr">ἐπισυνάγω</span> with the *juntar* family** — Matthew 23:37, Matthew 24:31, Mark 13:27, Luke 13:34, Luke 17:37 — **and renders Matthew 13:41 with *recogerán*.**
 
@@ -330,20 +338,20 @@ And then, comparing two sources side by side, something turned up that pushes th
 
 **Revelation 20:12** — *I saw the dead, **great and small*** … *and the dead **were judged***
 
-The seventh trumpet and the great white throne share **both** the paired merism **and** the judging of the dead.
+The seventh trumpet and the great white throne share **both** the paired merism — *small and great*, two extremes standing for everyone between them — **and** the judging of the dead.
 
 **So if the seventh trumpet announces anything specific, Revelation's own word-links point at chapter 20:11–15 — the comprehensive judgment — not at the first resurrection.**
 
 📌 Which means any attempt to route Paul's *last trumpet* → Revelation's *seventh trumpet* → the first resurrection runs **against** Revelation's internal vocabulary.
 
-⚠️ Held under the proleptic-completion control: the seventh trumpet may announce the whole victory complex in anticipation rather than timestamp any component of it. **The correspondence is recorded; the identity is not declared.**
+⚠️ Held under a control set in Part VI: Revelation sometimes announces an outcome as already complete before the visions that narrate it, so the seventh trumpet may announce the whole victory in anticipation rather than timestamp any one part of it. **The correspondence is recorded; the identity is not declared.**
 
-Nothing in the incoming material noticed this. It came from setting two sources beside each other — which is the part of the work that cannot be handed off.
+None of the comparisons I had been working from noticed this. It came from setting two passages beside each other and reading them word by word — which is the part of the work no summary can do for you.
 :::
 
 ## John's "last day" — the hardest objection, and it got harder
 
-All six occurrences retrieved. All singular.
+All six occurrences checked in the Greek. All singular.
 
 | Verse | Speaker | Attached to |
 |-----------|--------------------|-----------------|
@@ -358,7 +366,7 @@ All six occurrences retrieved. All singular.
 
 Two findings that sharpen the problem rather than relieving it.
 
-**11:24 is Martha, not Yeshua.** *I know that he will rise again in the resurrection on the last day.* That is a **reported first-century Jewish expectation**, which is a different evidence type from a dominical statement, and has to be counted as such. The dominical occurrences are five, not six.
+**11:24 is Martha, not Yeshua.** *I know that he will rise again in the resurrection on the last day.* That is Martha stating what she already expected — **a first-century Jewish expectation, reported** — which is a different kind of evidence from something Yeshua Himself says, and has to be counted as such. **Yeshua speaks the phrase five times, not six.**
 
 **12:48 attaches the last day to judgment, not resurrection.** *The word… will judge him on the last day.*
 
@@ -378,6 +386,8 @@ Available directions, **none selected**: <span class="gr">ἡμέρα</span> fun
 
 ## The scorecard
 
+Each row below asks two separate questions about a pair of passages. **How closely do they correspond** — in wording, structure and sequence? And **has it been shown that they describe the same event?** A pair can score high on the first and still fail the second.
+
 | Pair | Correspondence | Identity |
 |--------------------------------------------------|----------------|-----------------|
 | 1 Thessalonians 4 ↔ Revelation 20 first resurrection | **strong** | **not established** |
@@ -390,7 +400,7 @@ Available directions, **none selected**: <span class="gr">ἡμέρα</span> fun
 
 **The chain my hypothesis needs — Matthew's gathering = Paul's gathering = Paul's transformation = Revelation's first resurrection — did not survive intact.**
 
-**The Pauline half held and even strengthened. The Matthean link weakened on three independent counts** — no resurrection vocabulary, no <span class="gr">παρουσία</span> in the pericope, and a word family that is not inherently eschatological.
+**The Pauline half held and even strengthened. The Matthean link weakened on three independent counts** — no resurrection vocabulary, no <span class="gr">παρουσία</span> in the passage, and a word family that is not inherently eschatological.
 
 ## A correction I had to make to my own summary
 
@@ -411,7 +421,7 @@ Two more formulations from the same summary, corrected in the same pass:
 
 *"Two-thirds of an architecture and no anchor in time"* — **this conflated two questions.** **Matthew remains the potential historical anchor.** What I refused was to *use* that anchor for Paul's resurrection before showing the rope connects them. **That is methodological progress, not loss of the anchor.**
 
-📌 And the symmetry is deliberate: within the same twelve hours, an incoming argument upgraded a contextual correspondence into a lexical pair, and my own summary upgraded *not established* into *refuted*. **Same failure class, both parties. A discipline that only ever catches the other side is not a discipline.**
+📌 And the symmetry is deliberate: within the same twelve hours, an argument put to me upgraded a contextual correspondence into a lexical pair, and my own summary upgraded *not established* into *refuted*. **Same failure class, both parties. A discipline that only ever catches the other side is not a discipline.**
 :::
 
 ## A fabricated parallel, caught at the door
@@ -419,26 +429,26 @@ Two more formulations from the same summary, corrected in the same pass:
 This belongs in the record because of how nearly it got in.
 
 ::: textualnote
-**Textual note — a standing eval case**
+**Textual note — a parallel that did not exist, kept on record**
 
-A comparison table I was handed contained this row:
+An earlier comparison table, setting Matthew's Greek beside Isaiah's, contained this row:
 
-> *<span class="gr">ἥξουσιν</span> (Matthew 24:31, embedded) | <span class="gr">ἥξουσιν</span> (Isaiah 27:13) | **VERBAL***
+> *<span class="gr">ἥξουσιν</span> (Matthew 24:31) | <span class="gr">ἥξουσιν</span> (Isaiah 27:13) | **VERBAL***
 
 **<span class="gr">ἥξουσιν</span> is not in Matthew 24:31.** The verse reads, in full: *and he will send his angels with a great trumpet, and they will gather his elect from the four winds, from one end of heaven to the other.*
 
-**The agent invented a Greek word into the verse and graded it a verbal match.**
+**The comparison attributed to Matthew a Greek word that Matthew does not contain, and then counted it as a verbal parallel with Isaiah.** The parallel was invalid, and it was rejected.
 
-🛑 This is the most dangerous error class this project can suffer: **a fabricated parallel arriving inside a table of genuine ones, where the formatting vouches for it.** It was caught only by reading the table against the verse instead of against itself.
+🛑 This is the most dangerous error class this investigation can suffer: **a false parallel sitting inside a table of genuine ones, where the neat formatting vouches for it.** It was caught only by reading the table against the verse instead of against itself.
 
-Two further mislabels from the same lane, both rejected: Deuteronomy 30's <span class="gr">συνάξει</span> graded *verbally identical* to Matthew's <span class="gr">ἐπισυνάξουσιν</span> — **that difference is an entire finding below** — and Matthew's <span class="gr">ὄψονται</span> graded *same root* as LXX Zechariah's <span class="gr">ἐπιβλέψονται</span>, which is false: <span class="gr">ἐπιβλέπω</span> is from <span class="gr">βλέπω</span>, <span class="gr">ὄψονται</span> from <span class="gr">ὁράω</span>. **Different roots.**
+Two further mislabels in the same table, both rejected: Deuteronomy 30's <span class="gr">συνάξει</span> labelled *verbally identical* to Matthew's <span class="gr">ἐπισυνάξουσιν</span> — **that difference is an entire finding below** — and Matthew's <span class="gr">ὄψονται</span> labelled *same root* as LXX Zechariah's <span class="gr">ἐπιβλέψονται</span>, which is false: <span class="gr">ἐπιβλέπω</span> is from <span class="gr">βλέπω</span>, <span class="gr">ὄψονται</span> from <span class="gr">ὁράω</span>. **Different roots.**
 
-Gathering sources and comparing them are two different tasks. **The comparison is the one that cannot be handed off**, and both of this chapter's best findings came from it rather than from any single report.
+Collecting parallels and checking them are two different tasks. **The checking is the one that cannot be skipped**, and both of this chapter's best findings came from reading passages against each other rather than from any list of parallels.
 :::
 
 ## Now the Greek behind Matthew's cosmic language
 
-With the Septuagint finally in hand, the argument I had been making in English can be made in the language Matthew wrote in.
+With the Septuagint finally in hand, the argument I had been making in English can be made in the language Matthew wrote in. **The question the table answers, clause by clause: is Matthew's wording of the darkened sun, the failing moon and the falling stars taken from the Greek of Isaiah's oracles — and if so, how exactly?**
 
 | Matthew 24:29 | LXX source | Status |
 |----------------------------------|----------------------------------|--------------------------|
@@ -460,7 +470,7 @@ Prophetic cosmic-collapse imagery may **not** be assumed to require the dissolut
 Earlier usage **constrains possible meaning**. Immediate context still **governs application**. Isaiah establishes what the vocabulary *can* do. It does not establish what Matthew *is* doing.
 :::
 
-And one thing the material walked straight past, which I found only by reading it against my own archive: **LXX Isaiah 13:9 and 13:11 use <span class="gr">οἰκουμένη</span> — inside the oracle against Babylon.** Which demonstrates, rather than argues, that <span class="gr">οἰκουμένη</span> can appear in prophetic judgment language for something short of every location on earth. That bears directly on Matthew 24:14, the verse that started this entire investigation, and it turned up while I was looking for something else entirely.
+And one thing I nearly walked straight past, and found only by reading the oracle against my own earlier work on that word: **LXX Isaiah 13:9 and 13:11 use <span class="gr">οἰκουμένη</span> — inside the oracle against Babylon.** Which demonstrates, rather than argues, that <span class="gr">οἰκουμένη</span> can appear in prophetic judgment language for something short of every location on earth. That bears directly on Matthew 24:14, the verse that started this entire investigation, and it turned up while I was looking for something else entirely.
 
 ## Zechariah 12, and what it does to "the tribes of the earth"
 
@@ -481,7 +491,7 @@ So *all the tribes of the land* becomes a strong live reading at 24:30. 🛑 **I
 
 **Hebrew Zechariah 12:10** — <span class="he">אֵת אֲשֶׁר־דָּקָרוּ</span> — *whom they **pierced***
 
-**Mocked and pierced are materially different.** The material I was given smoothed the two into *both point to the same theological event.* **Rejected.** That is precisely the collapse of evidence types this project exists to prevent.
+**Mocked and pierced are materially different.** An earlier summary smoothed the two into *both point to the same theological event.* **Rejected.** That is precisely the collapse of evidence types this project exists to prevent.
 
 ⚠️ And Matthew follows **neither** at the seeing-verb: Matthew has <span class="gr">ὄψονται</span>; LXX Zechariah has <span class="gr">ἐπιβλέψονται</span>. Different roots.
 
@@ -490,14 +500,14 @@ So *all the tribes of the land* becomes a strong live reading at 24:30. 🛑 **I
 
 ## The hinge I thought would decide it, and how it split instead
 
-I had written that one retrieval — LXX Isaiah 27:13 — *may decide the stage*. That was a premature promotion and I withdrew it. One intertext does not get to decide alone.
+I had written that one text — LXX Isaiah 27:13 — *may decide the stage*. That was a premature promotion and I withdrew it. One intertext does not get to decide alone.
 
-Here is what it actually gave:
+The question was whether Isaiah's restoration oracle supplies Matthew's trumpet **and** Matthew's gathering word. Here is what it actually gave:
 
 | Element | Verdict |
 |------------------|-------------------------------------------------------------|
 | **the trumpet** | ✅ **verbal match** — <span class="gr">σάλπιγγι τῇ μεγάλῃ</span> against Matthew's <span class="gr">σάλπιγγος μεγάλης</span> |
-| **the gathering** | ❌ **no match** — Isaiah 27:13 has <span class="gr">ἥξουσιν</span>, *they will come*; 27:12 has <span class="gr">συναγάγετε</span>, the **simple** verb, an **imperative addressed to "you."** <span class="gr">ἐπισυνάγω</span> does not occur in Isaiah 27 |
+| **the gathering** | ❌ **no match** — Isaiah 27:13 has <span class="gr">ἥξουσιν</span>, *they will come*; 27:12 has <span class="gr">συναγάγετε</span>, the **plain** verb *gather* without Matthew's added prefix, and an **imperative addressed to "you."** <span class="gr">ἐπισυνάγω</span> does not occur in Isaiah 27 |
 
 **Isaiah supplies Matthew's trumpet. Isaiah does not supply Matthew's gathering verb.**
 
@@ -508,11 +518,11 @@ And the same split appears in a second, independent restoration text. **Deuteron
 
 Matthew took *great trumpet*, *four winds*, *ends of heaven*, *tribes mourning* from the restoration texts. **He did not take their gathering verb.**
 
-Both lanes use <span class="gr">συνάγω</span>. Matthew uses <span class="gr">ἐπισυνάγω</span> — and his only other use of it is over Jerusalem.
+Both restoration texts use <span class="gr">συνάγω</span>. Matthew uses <span class="gr">ἐπισυνάγω</span> — the same verb with the prefix *epi-* added — and his only other use of it is over Jerusalem.
 
 **The compound verb looks Matthean rather than inherited.**
 
-⚠️ **And a brake on my own new finding:** the prefix may be nothing more than stylistic intensification. **Two Septuagint texts is not a survey of Septuagint gathering vocabulary.** The datum is consistent across two independent lanes; it is not yet a rule, and a lexical authority is owed.
+⚠️ **And a brake on my own new finding:** the prefix may be nothing more than stylistic intensification. **Two Septuagint texts is not a survey of Septuagint gathering vocabulary.** The datum is consistent across two independent texts; it is not yet a rule, and a lexical authority is owed.
 :::
 
 ## Matthew 13, where I built a clean rule and the text destroyed it
@@ -539,7 +549,7 @@ One more thing thinner than I had assumed. <span class="gr">συντέλεια �
 
 ## The strongest evidence in the chapter, and it is one chapter earlier
 
-Every occurrence of <span class="gr">γενεά</span> in Matthew was retrieved. **Thirteen.** Eight mean a contemporary body of people. Four are the genealogical counting-unit at 1:17. One — 24:34 — is the disputed case.
+Every occurrence of <span class="gr">γενεά</span> — *generation* — in Matthew was checked in the Greek. **Thirteen, and that count is complete.** Eight mean a contemporary body of people. Four are the genealogical counting-unit at 1:17. One — 24:34 — is the disputed case.
 
 And 23:36 carries the **same phrase-pair** as 24:34, one chapter before it.
 
@@ -550,7 +560,7 @@ And 23:36 carries the **same phrase-pair** as 24:34, one chapter before it.
 ::: finding
 **Finding — three shared elements, one chapter apart, and the first referent is not disputable**
 
-*Truly I say to you* · *all these things* · <span class="gr">γενεά</span> with a demonstrative.
+*Truly I say to you* · *all these things* · <span class="gr">γενεά</span> with a demonstrative — a pointing word, *this*, fixing which generation is meant.
 
 **And at 23:36 the referent is beyond dispute:** the scribes and Pharisees being denounced to their faces, on whom comes all the righteous blood shed on the land.
 
@@ -558,7 +568,7 @@ And 23:36 carries the **same phrase-pair** as 24:34, one chapter before it.
 
 ⚠️ **And the honest counterweight, in the same typeface:** 1:17 uses the word four times in a descent-counting sense. **The word's range in Matthew genuinely exceeds *contemporaries*.**
 
-❗ But the wrong inference was drawn from that — arguing that 1:17 makes a *race* or *people* reading of 24:34 less burdensome. **Non sequitur.** A genealogical counting-unit is not an ethnic race. 1:17 broadens the range; it does not supply that particular escape.
+❗ But one argument drew the wrong inference from that: because 1:17 uses the word for a step in a family line, it said, a *race* or *people* reading of 24:34 becomes easier to accept. **The conclusion does not follow from the premise.** A step in a genealogy is not an ethnic race. 1:17 broadens the word's range; it does not supply that particular escape.
 
 **The *race or people* sense is attested in broader Greek. It is not demonstrated anywhere in Matthew.** ⚠️ And the CJB renders 24:34 *this people*, which is a serious translator's judgment — which is why the finding is stated as *undemonstrated in Matthew* rather than *impossible*.
 :::
@@ -577,8 +587,8 @@ Established **without importing Revelation, without importing Paul, and without 
 🛑 **And because this conclusion is convenient to me, it ships with its falsification conditions rather than after them.** It fails if:
 
 1. ***All these things* at 24:34 can be shown to exclude 24:29–31.** ⚠️ The burden is on exclusion — 24:33 and 24:34 form a tight repetition — **but that burden has not been formally discharged by anyone, including me.**
-2. **<span class="gr">περὶ δέ</span> at 24:36 constitutes a discourse boundary that retroactively re-scopes what precedes.** ⚠️ **My search for that phrase across Matthew was not exhaustive.** This is the strongest live counter-argument and nothing I received engaged it at all.
-3. **The demonstrative pattern is broken by an occurrence I did not retrieve.** The inventory is reported exhaustive on concordance grounds and was not independently re-verified.
+2. **<span class="gr">περὶ δέ</span> — *now concerning* — at 24:36 constitutes a discourse boundary that retroactively re-scopes what precedes.** ✅ **The phrase has since been searched through the whole of Matthew. It occurs four times. Twice it means *about* a time of day — *about the eleventh hour* (20:6), *about the ninth hour* (27:46). Twice it introduces a subject — *concerning the resurrection of the dead* (22:31) and *concerning that day* (24:36).** ⚠️ That is the data, and it does not decide whether 24:36 re-scopes what comes before it. **This remains the strongest live counter-argument, and none of the arguments put to me engaged it at all.**
+3. **The demonstrative pattern is broken by an occurrence I had not checked.** ✅ **Checked since: all thirteen occurrences are accounted for, and every one carrying a demonstrative is in the list above.** This condition was tested and did not fire.
 4. **A lexical authority establishes an attested first-century *race* sense for this exact phrase.** Currently undemonstrated in Matthew; the authority is owed.
 
 ❗❗ **And what the promotion does not do, which is the entire reason for keeping the two questions apart:**
@@ -588,7 +598,7 @@ Established **without importing Revelation, without importing Paul, and without 
 Matthew 24:29–31 still contains no resurrection vocabulary. **A first-century gathering with no resurrection language in it does not date a resurrection.**
 :::
 
-Two smaller ambiguities, both recorded. The variant at 24:36 — *nor the Son* — is present in some witnesses and absent in others, and I have **no manuscript sigla and have consulted no critical apparatus**, so it is reported, not verified. And at 24:33 the subject of *is near* **is unexpressed in the Greek**: the ESV supplies *he*, the CJB supplies *the time*. The Greek supplies neither, and the two translations point in different directions — personal against temporal.
+Two smaller ambiguities, both recorded. At 24:36 the words *nor the Son* are printed in some editions of the Greek and left out of others, because the manuscripts differ. **I have not examined the manuscripts behind that division**, so nothing here rests on the phrase. And at 24:33 the subject of *is near* **is unexpressed in the Greek**: the ESV supplies *he*, the CJB supplies *the time*. The Greek supplies neither, and the two translations point in different directions — personal against temporal.
 
 ## A rule I am adopting, with its leashes attached
 
@@ -599,7 +609,7 @@ Two smaller ambiguities, both recorded. The variant at 24:36 — *nor the Son* �
 
 Adopted, because this chapter's own evidence supports it: Isaiah supplies Matthew's trumpet without supplying his gathering verb, which is exactly what *same image, developed vocabulary* looks like.
 
-🛑 **Two leashes, without which it is poison** — the same shape as the composite-symbol leash and the spiral-progression leash:
+🛑 **Two leashes, without which it is poison** — the same shape as the limits I attached to earlier rules about composite symbols and about visions that return to the same ground:
 
 **Leash one — anti-rescue.** If a reading needs *it is both* to survive its worst datum, that is a failing candidate, not a layered one. A rule permitting both readings simultaneously can absorb any counterevidence.
 
@@ -625,13 +635,13 @@ And John is still sitting there saying *the last day*, five times from Yeshua's 
 ::: textualnote
 **One debt handed forward, and it is load-bearing**
 
-Daniel 7:13 was retrieved — in the **Old Greek**, which I identified by its own tell rather than by trusting the source's label. Matthew tracks the Greek preposition <span class="gr">ἐπί</span> rather than the Aramaic <span class="he">עִם</span>.
+Daniel 7:13 was checked in Greek — in the **Old Greek**, which I identified from the text's own readings rather than from how the edition labelled it. Matthew tracks the Greek preposition <span class="gr">ἐπί</span>, *on* the clouds, rather than the Aramaic <span class="he">עִם</span>, *with* them.
 
 🛑 **But the second clause destabilizes a claim already in my archive.** The Aramaic gives *he came to the Ancient of Days and was presented before him*. This Greek gives *and **as** an ancient of days **was present***. Those are materially different — and the claim that Daniel's son of man is presented *before* the Ancient of Days rather than descending rests on the **Aramaic**. The Old Greek does not clearly say it.
 
-It was asserted to me that the Old Greek reads *he approaches the throne*. **The text actually quoted alongside that assertion does not establish it.** Assertion rejected; the divergence recorded unresolved.
+It had been claimed that the Old Greek reads *he approaches the throne*. **The text actually quoted alongside that claim does not establish it.** Claim rejected; the divergence recorded unresolved.
 
-❗ **Theodotion has not been retrieved, and *which Greek Daniel Matthew tracks* is exactly the question.** I have one of the two versions. That debt goes to Chapter 43, where it is due.
+❗ **Theodotion's Greek was not yet in hand, and *which Greek Daniel Matthew tracks* is exactly the question.** I have one of the two versions. That debt goes to Chapter 43, where it is due.
 :::
 
 ::: whereweare

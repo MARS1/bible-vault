@@ -69,7 +69,7 @@ related: "[[10-manuscript-architecture]], [[SYNC-LEDGER]], [[ES-REGISTER]]"
 
 | | |
 |---|---|
-| **Status** | ❗ **OPEN — logged 2026-09-20, not fixed. Part VI is closed and is not being reopened for it.** |
+| **Status** | ✅ **FIXED IN THE STYLESHEET, 2026-09-25 — verified on Part VII; other Parts inherit it at their next render.** Found again by the author in the Part VII reader review *(the scorecard's "strong" stranded at the foot of p. 49, cut off from its row)*. `design-system-v1.css` now sets `break-inside: avoid` on every `tr`/`th`/`td`, repeats `thead` on continuation pages, and forbids a header at a page foot; table type came down slightly *(body tables 10 → 9.6pt, boxed tables 8.8 → 8.6pt, tighter padding)*. ✅ **Verified on the rendered LAYOUT, not by text:** WeasyPrint's own page boxes were walked row by row — the reviewed `d1-integrity2` render had **2 body rows split across pages** *(the scorecard row at 49/50, and Acts 26:23 at 141/142)*; the revised render has **0 split rows, 0 orphaned headers, 5 tables continuing with a repeated header**. All 50 table pages were then inspected as images. ✅ **The checker is now a build gate:** `scripts/check-table-breaks.py`, called by `build-manuscript.py` after every render; a split row or an orphaned header **fails the build**. ⏸️ **Deliberately NOT re-rendered now, on the author's instruction: Parts I–VI and VIII, both editions.** Each must pass this gate at its next appropriate build or final-layout pass — the gate will run automatically when it does. **Do not open a separate regression project for it.** |
 | ⚠️ **Numbering note** | **Reported as "LAYOUT-002" in review.** That identifier was already taken on 2026-09-19 by the `.gr` uppercase-corruption defect, so this is filed as **LAYOUT-003**. Renumbering the earlier entry would break the commit that references it. |
 | **Symptom** | Part VI EN, **pp. 160–161**: row **7** of the trumpet/bowl comparison table splits across the page boundary. The row number `7` and its Bowl cell *("It is done")* stay on p. 160; the Trumpet cell *("loud voices: the kingdom has come")* continues on p. 161 **beneath a repeated header and with no row number or Bowl counterpart beside it.** Reported from the rendered PDF, with a screenshot. |
 | **Why it matters more than it looks** | ❗ **The text is all present, so every automated gate passes** — word recovery, section presence and mojibake checks all read this as correct. **What breaks is the semantic relationship the layout creates.** A comparison table's meaning lives in the row: the reader is being asked to see *trumpet 7* against *bowl 7*. Split across a page, the orphaned cell reads as a new fragment, and the reader has to reconstruct a correspondence the table exists to present. |
@@ -78,6 +78,26 @@ related: "[[10-manuscript-architecture]], [[SYNC-LEDGER]], [[ES-REGISTER]]"
 | **Check at the same time** | Every multi-row comparison table in **all** Parts and **both** editions, not just this one — the cause is a global stylesheet omission, so any sufficiently long table can hit it. ★ **And re-inspect visually, not by text extraction:** `pdftotext` reports this page pair as complete and correct. |
 | **Class** | **Presentation only.** No lexical, theological, evidentiary, citation, component-type or structural content is involved. |
 | **The lesson it shares with LAYOUT-002** | ❗❗ **This is the second defect in two days that every automated gate passed and only a rendered image caught.** LAYOUT-002 was source text that was correctly wrapped and still rendered wrong; this is content that is all present and still reads wrong. **Extraction confirms presence. It cannot confirm layout, and layout is carrying meaning in both cases.** |
+
+---
+
+## LAYOUT-004 — arrows printed as a boxed "?"
+
+| | |
+|---|---|
+| **Status** | ✅ **FIXED IN THE BUILD SCRIPT, 2026-09-25.** Every Part, both editions, at its next render. |
+| **Symptom** | Part VII's scorecard printed **1 Thessalonians 4 ⍰ Revelation 20** — the ↔ arrow as a missing-glyph box, seven times in `ch41`, and in `ch44` and `ch46`. **Present in the `d1-integrity2` render the author reviewed**; found this time while inspecting table pages as images for LAYOUT-003. |
+| **Cause** | Pandoc appends **U+FE0E**, the text-presentation selector, to characters that also exist as emoji. WeasyPrint finds no font for ↔ + U+FE0E and falls back to `.LastResort`. The bare ↔ renders normally *(Apple Symbols)*; ⟷ was never affected. |
+| **Fix** | `build-manuscript.py` strips U+FE0E from Pandoc's HTML before rendering. **No manuscript text was changed.** Verified: `.LastResort` absent from the Part VII PDF's font list, and the scorecard re-inspected as an image. |
+| **Class** | **Presentation only.** And the third instance of the lesson above: every text gate passed it. |
+
+## LAYOUT-005 — scope labels hyphenated mid-word
+
+| | |
+|---|---|
+| **Status** | ✅ **FIXED IN THE STYLESHEET, 2026-09-25.** |
+| **Symptom** | `ENGLISH-SPECIFIC` broke as *ENGLISH-SPE- / CIFIC* in a Part VII word-study heading. |
+| **Fix** | `code { hyphens: none; white-space: nowrap; }` — the labels are identifiers, not prose. |
 
 ---
 ---

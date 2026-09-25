@@ -221,6 +221,13 @@ def render(lang, part, outdir, stem):
 
     frag = subprocess.run(["pandoc", str(md), "-f", "markdown+fenced_divs", "-t", "html5"],
                           capture_output=True, text=True, check=True).stdout
+    # Pandoc appends U+FE0E (text-presentation selector) to characters that also
+    # exist as emoji, such as the arrow in "1 Thessalonians 4 <-> Revelation 20".
+    # WeasyPrint finds no font for the pair and falls back to .LastResort, so the
+    # arrow printed as a boxed "?" -- in the Part VII scorecard, seven times, and
+    # every text gate passed it. The bare character renders; the selector is
+    # what breaks it. Caught 2026-09-25 by rendering the table pages to images.
+    frag = frag.replace("︎", "")
     html = outdir / f"{stem}.html"
     html.write_text(f'<!doctype html>\n<html lang="{lang}"><head><meta charset="utf-8">'
                     f"<title>{title}</title><style>{CSS}</style></head><body>\n{frag}\n</body></html>\n")
@@ -263,7 +270,19 @@ def render(lang, part, outdir, stem):
     if not ok:
         sys.exit("render verification failed")
     original_language_gate(files, pdf)
+    table_layout_gate(md, lang)
     return md, pdf, title, words, pages
+
+
+# LAYOUT-003: a comparison table's meaning lives in the row, and a row split
+# across a page passes every text gate above. This walks the rendered layout
+# itself. See check-table-breaks.py for why and how it was validated.
+def table_layout_gate(md, lang):
+    r = subprocess.run([sys.executable, str(Path(__file__).resolve().parent / "check-table-breaks.py"),
+                        str(md), "--lang", lang], capture_output=True, text=True)
+    print("\n".join(ln for ln in r.stdout.splitlines() if "unicode-bidi" not in ln))
+    if r.returncode != 0:
+        sys.exit("table layout gate failed")
 
 # ---------------------------------------------------------------------------
 # ORIGINAL-LANGUAGE RENDER INTEGRITY GATE

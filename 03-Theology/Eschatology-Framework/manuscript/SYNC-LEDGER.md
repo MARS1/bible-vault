@@ -321,6 +321,26 @@ related: "[[10-manuscript-architecture]], [[09-manuscript-integrity-audit]], [[0
 | ⚠️ **Retrieval uncertainty, recorded not smoothed** | The RVA-2015 fetch of 20:3 ended without the *debe ser desatado* clause. **ALMOST CERTAINLY TRUNCATION, NOT AN OMISSION BY THAT EDITION.** Asserting otherwise would repeat the exact error ES Chapter 38 records about verse numbering. **Re-retrieve before any use.** |
 | **Base translation, now named in the edition itself** | **RVR1960, with RVA-2015 as a second Spanish witness at translation-sensitive verses.** Declared in ES Chapter 30's opening textual note and again in Chapter 39, because a divergence note is only valid against a named base. |
 
+---
+
+## SYNC-023 — EN Part VII reader-review revision: evidentiary changes ES Part VII must carry
+
+| | |
+|---|---|
+| **Status** | ⏸️ **PENDING — BLOCKED ON PURPOSE.** EN Part VII was revised 2026-09-25 from the author's completed reader review. **ES Part VII is not touched until the author approves the revised EN.** |
+| **What propagates** | **Evidence, not prose** *(rule ②)*. Each item below changed or completed a finding in EN and is therefore owed to ES — re-checked against ES's own witnesses, never translated from the English sentences. Sources: `08-source-ledger.md` **S111–S115**. |
+| **ch40** | Heb 11:35 now verified in Greek — **the verse itself pairs ἐξ ἀναστάσεως with κρείττονος ἀναστάσεως**; the ESV artifact is restated *(better moved onto "life")*. **ES must check what RVR1960/RVA-2015 do with the verse — a Spanish-specific note, not the English one.** · Heb 12:23 and 1 Cor 15:44 verified · the post-resurrection appearances now cited verse by verse. |
+| **ch41** | ἐπισυνάγω family **complete: 9 verses, adding Mk 1:33 and Lk 12:1 (ordinary crowds)** · γενεά inventory confirmed complete *(falsification condition 3 tested, did not fire)* · **περὶ δέ in Matthew searched: 4 occurrences** *(condition 2 stays live)* · Mt 24:36 "nor the Son" confirmed as an edition-level division. |
+| **ch42** | **ἁρπάζω = 14, six with a destination** *(adds Mt 12:29, 2 Cor 12:4)* · ἀήρ list confirmed complete · Pauline ναός list confirmed complete. |
+| **ch43** | ★ **1 Macc 1:54's Greek read: Daniel's phrase, anarthrous singular — not Matthew's articular form** *(the chapter's "unanswered" finding is now answered)* · **festival: same word FAMILY, not the same word** · **OG Dan 8:13 = ἁμαρτία ἐρημώσεως** · the motif table verified row by row *(Antiochus: "dies", 1 Macc 6:16)* · Dan 11:36 Hebrew read directly · **"four steps, four different words" corrected** *(OG and Theodotion share ὑψόω)*. |
+| **ch44** | Restoration accounts verified *(Mark 5:42 · Luke 7:15 · John 11:44)*. |
+| **ch45** | RC-01's second half *(Rev 16:14)* now verified · Isaiah 11:4 LXX and 2 Thess 2:8 printed in Greek. |
+| **ch46** | ★ **Dan 7:21 OG differs from Rev 13:7 in the VERB too** — *"differs on exactly the preposition" was wrong* · **scoring row 3 corrected: persecution attested by Tacitus since Part VI; the lethal-arm requirement still unshown; verdict unchanged** · Irenaeus dating passage restated as *access*, with the Eusebius quotation named · **PF-01 defined at its filing** · **chapter retitled** *(ES title needs its own rendering of the new one)*. |
+| **Not evidentiary — ES does its own** | the reader-language definitions *(Septuagint, parousia, cases, articular/anarthrous, simplex/compound, recension, isopsephy, Pauline complex…)* · the research-infrastructure scrub · the table-question lead-ins. **ES ran its own machinery audit in `AUDIT-PARTS-VI-VII.md`; it needs the same reader-review categories applied in Spanish, not a copy of the English wording.** |
+| **ch45 · ch46 — BIBLE-elf / SYNC-001, fixed in EN 2026-09-25 on the author's instruction** | EN ch45 and ch46 said *"the text pauses to say the beast and the false prophet are **already** there."* **Now:** 20:10 names the lake *where the beast and the false prophet* — no verb, no ἤδη — and their presence is marked as **inference from 19:20**. ch46's narrative-pairing sentence now cites 19:20 for the throwing-in. **ES must carry the same correction in both chapters — AND, since RVR1960 supplies *estaban* at 20:10 (q439), add the Spanish-specific note that *estaban* is translation syntax, not Greek evidence.** ES ch39/ch41 also still owe that note (BIBLE-elf). |
+| **ch46 — Irenaeus 5.30.3 read** *(S116)* | English ANF text now quoted in the chapter; **says what the Eusebius quotation said — no conclusion changed.** ES: quote from a Spanish-language edition if one is obtainable and verified, otherwise translate the ANF sentence and SAY it is translated from the English translation. |
+| **Part VIII — propagation checked, none owed in prose** | EN ch50:103 refers to Part VII's *method* with a patristic dating passage (treated as reported-not-verified) — still true of that stage. **No Part VIII conclusion rested on the passage being unread.** Vault bookkeeping updated instead: `03-hypotheses.md` (PF-01's "keeps it below REQUIRES" list) and `04-open-questions.md` q362. |
+
 
 ---
 

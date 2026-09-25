@@ -6,7 +6,7 @@ tags: [draft-1, part-vii, chapter-40, stage-47, first-resurrection, intermediate
 reference: "Revelation 20:4-6; Revelation 6:9-11; Daniel 12:2; Matthew 27:51-53; John 5:28-29; John 6:39-54; 1 Corinthians 15:20-28, 42-49, 51-53; 1 Thessalonians 4:13-17; Hebrews 11:35; Hebrews 12:22-23"
 created: 2026-09-18
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part VII, Chapter 40 — opens the self-attack Part. Source: Stage 47 and [[02m-first-resurrection-synthesis]]. ★★★ PART VII'S GOVERNING CONSTRAINT: the narrator does NOT know whether the hypothesis survives. Nothing from later stages may leak backward. ★★★ THREE TRUNCATED RETRIEVALS DECLARED BEFORE ANY ARGUMENT RESTS ON THEM — Revelation 6:9-11 (vv.10-11 missing, and the chapter's CENTRAL argument leans on them), Matthew 27:51-53 (cut before the raised bodies), Hebrews 12:22-23 (cut before the spirits of the righteous made perfect). ★★★ THE CHAPTER'S STRONGEST FINDING IS REVELATION-INTERNAL AND CUTS AGAINST THE PROJECT'S OWN CONVENIENCE: the martyrs did not need chapter 20 to exist consciously after death — Revelation 6 already has them speaking and robed — so 'they lived' must mark a CHANGE OF STATE, which substantially weakens the spiritual-resurrection escape a past millennium would find easiest. ★★★ TWO CORRECTIONS RECORDED IN BOTH DIRECTIONS: the two-stage structure is settled and may not be reopened; AND 'morally higher' overreaches, because the book of life appears at the great white throne too. ★★★ SUPERNATURAL-POSSIBILITY BRAKE — a precedent showing an event COULD occur supernaturally answers an objection of impossibility; it is NOT evidence the event occurred. Aimed squarely at this project. ★ rabbim is NOT reopened — Part V already adjudicated it against the hypothesis and that adjudication stands. ★ Hebrews 11:35 ENGLISH-SPECIFIC translation artifact caught by machinery built one stage earlier. ★ FOUR MODELS, none selected. ★ TRANSFORMED EMBODIMENT CONTROL: soma pneumatikon is still soma. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1 — READER-REVIEW REVISION 2026-09-25: evidence changes are listed in SYNC-023; where this summary and the chapter text differ, the text is current. Approved architecture v1.0, Part VII, Chapter 40 — opens the self-attack Part. Source: Stage 47 and [[02m-first-resurrection-synthesis]]. ★★★ PART VII'S GOVERNING CONSTRAINT: the narrator does NOT know whether the hypothesis survives. Nothing from later stages may leak backward. ★★★ THREE TRUNCATED RETRIEVALS DECLARED BEFORE ANY ARGUMENT RESTS ON THEM — Revelation 6:9-11 (vv.10-11 missing, and the chapter's CENTRAL argument leans on them), Matthew 27:51-53 (cut before the raised bodies), Hebrews 12:22-23 (cut before the spirits of the righteous made perfect). ★★★ THE CHAPTER'S STRONGEST FINDING IS REVELATION-INTERNAL AND CUTS AGAINST THE PROJECT'S OWN CONVENIENCE: the martyrs did not need chapter 20 to exist consciously after death — Revelation 6 already has them speaking and robed — so 'they lived' must mark a CHANGE OF STATE, which substantially weakens the spiritual-resurrection escape a past millennium would find easiest. ★★★ TWO CORRECTIONS RECORDED IN BOTH DIRECTIONS: the two-stage structure is settled and may not be reopened; AND 'morally higher' overreaches, because the book of life appears at the great white throne too. ★★★ SUPERNATURAL-POSSIBILITY BRAKE — a precedent showing an event COULD occur supernaturally answers an objection of impossibility; it is NOT evidence the event occurred. Aimed squarely at this project. ★ rabbim is NOT reopened — Part V already adjudicated it against the hypothesis and that adjudication stands. ★ Hebrews 11:35 ENGLISH-SPECIFIC translation artifact caught by machinery built one stage earlier. ★ FOUR MODELS, none selected. ★ TRANSFORMED EMBODIMENT CONTROL: soma pneumatikon is still soma. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
 related: "[[10-manuscript-architecture]], [[02m-first-resurrection-synthesis]], [[02h-revelation-20-binding-first-resurrection-thousand-years-little-season]], [[01j-resurrection-before-revelation]]"
 ---
 
@@ -49,7 +49,7 @@ So they were treated as **reported, not verified**, and the argument was built a
 
 📌 **And that outcome was only available because the gap was declared instead of filled in from expectation.** Had I written the confident version and let the verses arrive afterwards, I would never have known whether I had read them or remembered them.
 
-I am declaring it at the top rather than letting a reader discover it at the bottom — the same discipline as the Revelation 17 numbering drift and the interlinear transliteration fault. A chapter that quietly borrows the authority of verification it does not have is worse than a chapter with a hole in it, because only one of the two can be repaired.
+I am declaring it at the top rather than letting a reader discover it at the bottom — the same discipline as the Revelation 17 numbering problem in Part VI. A chapter that quietly borrows the authority of verification it does not have is worse than a chapter with a hole in it, because only one of the two can be repaired.
 :::
 
 ## Two corrections, and they run in opposite directions
@@ -135,7 +135,7 @@ If a first resurrection precedes a thousand-year interval and the general resurr
 
 Candidates: the final day of an age · the final resurrection horizon considered corporately · the actual final consummative day · language Revelation later expands internally.
 
-🛑 **This is a genuine obstacle to careless staging, and it is an obstacle to mine.** It needs source-language and Johannine-context work. I am not going to treat *last day* as self-defining, in either direction — and John 6 has not been retrieved, so it stands here as a flagged problem rather than a solved one.
+🛑 **This is a genuine obstacle to careless staging, and it is an obstacle to mine.** It needs source-language and Johannine-context work. I am not going to treat *last day* as self-defining, in either direction — and the Greek of John 6 is worked through in the next chapter, so it stands here as a flagged problem rather than a solved one.
 :::
 
 ## Paul already stages it
@@ -201,27 +201,29 @@ The martyrs did not need chapter 20 in order to exist consciously after death. J
 
 They already have conscious postmortem survival. Chapter 20 gives them something else.
 
-**And this is Revelation-internal.** I did not import a doctrine of the intermediate state from a systematic theology and use it to pressure John. John supplied both halves, in his own book, and the earlier half arrives thirteen chapters before the verse it constrains.
+**And this is Revelation-internal.** I did not import a doctrine of the intermediate state — the condition of the dead between death and resurrection — from a systematic theology and use it to pressure John. John supplied both halves, in his own book, and the earlier half arrives thirteen chapters before the verse it constrains.
 :::
 
-There is a second, independent argument in the same direction, and it is also now verified. **Hebrews 12:23 describes *the spirits of the righteous made perfect* in heavenly assembly imagery — and does not call it resurrection.** So conscious heavenly existence is not automatically resurrection, said by a different author in a different book. ⚠️ **The English is verified; I have not read the Greek of the verse, so no lexical weight is placed on it here.**
+There is a second, independent argument in the same direction, and it is also now verified. **Hebrews 12:23 describes *the spirits of the righteous made perfect* — <span class="gr">πνεύμασι δικαίων τετελειωμένων</span> — in heavenly assembly imagery, and does not call it resurrection.** The Greek of the verse contains no word for resurrection at all. So conscious heavenly existence is not automatically resurrection, said by a different author in a different book.
 
-## A translation artifact, caught by machinery built one stage earlier
+## A translation artifact, caught by a rule written one stage earlier
 
 ::: wordstudy
 **Word study — <span class="gr">ἀνάστασις</span> at Hebrews 11:35** `ENGLISH-SPECIFIC`
 
 > Some were tortured, refusing to accept release, so that they might **rise again to a better life**. (Hebrews 11:35, ESV)
 
-The Greek is <span class="gr">κρείττονος ἀναστάσεως</span> — *kreittonos anastaseōs*, **a better resurrection**. Other translations render it exactly that way. ⚠️ **The English is verified; the Greek itself I have not read**, and the point waits on it.
+The Greek is <span class="gr">κρείττονος ἀναστάσεως</span> — *kreittonos anastaseōs*, **a better resurrection**. Other translations render it exactly that way.
 
-**The ESV renders <span class="gr">ἀνάστασις</span> as *life*, not *resurrection*.**
+**The ESV keeps *rise again*, but it moves *better* off the resurrection and onto *life*.** The English promises a better life. The Greek promises a better resurrection.
 
-And this chapter's entire argument turns on **differentiated resurrection quality or status** — which is precisely what that rendering obscures.
+❗ **And the verse has already used the same noun in its first half.** *Women received their dead* — <span class="gr">ἐξ ἀναστάσεως</span>, **by resurrection**. So Hebrews sets two resurrections side by side inside a single verse: a restoration to ordinary life, and a *better* one, which the tortured refused release in order to obtain.
 
-📌 This is a textbook translation artifact, and it was caught by the scope-tagging machinery written one stage before it. The rules were built for a Spanish problem; the first thing they caught was an English one.
+This chapter's entire argument turns on **differentiated resurrection quality or status** — which is precisely what that rendering obscures.
 
-If it holds: early believers could speak of resurrection with differentiated quality or status, which is conceptual support for Revelation's staging. ⚠️ **Hebrews supplies no millennium chronology.** Conceptual support, not a timetable.
+📌 This is a textbook translation artifact. It was caught by a rule written one stage before it: every textual observation is tagged by whether it belongs to the Greek or Hebrew itself, or only to one translation of it — which is what the `ENGLISH-SPECIFIC` label above records. The rule was built for a Spanish problem; the first thing it caught was an English one.
+
+What the Greek establishes: early believers could speak of resurrection with differentiated quality or status, which is conceptual support for Revelation's staging. ⚠️ **Hebrews supplies no millennium chronology.** Conceptual support, not a timetable.
 :::
 
 ## Four models, and none of them selected
@@ -251,7 +253,7 @@ If it holds: early believers could speak of resurrection with differentiated qua
 
 > What is sown is perishable; what is raised is imperishable… It is sown **a natural body**; it is raised **a spiritual body**. (1 Corinthians 15:42, 44)
 
-The Greek is <span class="gr">σῶμα ψυχικόν</span> against <span class="gr">σῶμα πνευματικόν</span>. ⚠️ **The English is verified; the Greek is reported.**
+The Greek is <span class="gr">σῶμα ψυχικόν</span> against <span class="gr">σῶμα πνευματικόν</span> — verified in the verse itself.
 
 **Both contain <span class="gr">σῶμα</span>.** Body.
 
@@ -262,7 +264,7 @@ A spiritual body is not an absent body. It is a body animated and ordered by the
 
 So the real alternative is **not** *a physical corpse walking around normally* versus *a purely spiritual metaphor*. Paul supplies a third category: **resurrected, transformed embodiment.**
 
-And Yeshua after His resurrection is the pattern — appearing, disappearing from immediate perception, entering closed rooms, eating, being touched, and finally ascending. ⚠️ **Reported, not verified.** **Paul explicitly makes Him the firstfruits, which means He is the controlling pattern here and not an escape hatch.**
+And Yeshua after His resurrection is the pattern — vanishing from their sight at Emmaus (Luke 24:31), standing among the disciples behind shut doors (John 20:19, 26), eating in front of them (Luke 24:42–43), inviting touch — *flesh and bones, as you see that I have* (Luke 24:39; John 20:27) — and finally being lifted up (Acts 1:9). **Paul explicitly makes Him the firstfruits, which means He is the controlling pattern here and not an escape hatch.**
 
 The distinction matters: a controlling pattern constrains what I may say. An escape hatch would let me say anything.
 :::
@@ -282,7 +284,7 @@ Supernatural possibility may not be converted into an evidence-erasing device.
 
 **And the corollary, for the historical work this Part is heading toward:** absence of evidence has weight only relative to the amount and type of evidence we should reasonably expect to survive. That has to be **argued**, carefully, and not asserted — in either direction.
 
-This rule is aimed at me. It exists because I noticed, while writing the previous section, that I had just been handed something that could excuse any missing evidence forever, and that I was pleased about it.
+This rule is aimed at me. It exists because I noticed, while writing the previous section, that I had just given myself something that could excuse any missing evidence forever, and that I was pleased about it.
 :::
 
 ## The order the remaining work has to run in

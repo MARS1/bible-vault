@@ -1,16 +1,16 @@
 ---
-title: "Manuscript (EN) — Chapter 46: The Beast's Fingerprint, the Standard of Proof, and PF-01"
+title: "Manuscript (EN) — Chapter 46: The Beast's Fingerprint, the Standard of Proof, and What the Evidence Now Supports"
 type: manuscript
 category: theology
 tags: [draft-1, part-vii, chapter-46, stage-55a, stage-55b, stage-55c, stage-55d, stage-56, stage-57, stage-58, beast-fingerprint, 666, 616, isopsephy, teitan, ge-sweep, daniel-3, three-gatherings, source-fusion, pf-01, standard-of-proof, growing-chain-checkpoint-5]
 reference: "Daniel 7:8, 7:17, 7:21, 7:23, 7:25; Daniel 2:35, 2:38, 2:44-45; Daniel 3:1-18; Jeremiah 51:25; Deuteronomy 6:8, 11:18; Revelation 5:9, 6:14-16, 7:3, 7:9, 8:8, 9:11, 11:7, 12:9, 13:1-18, 14:1, 16:2, 16:13-16, 17:1-18, 18:11-13, 19:19-21, 20:1-10, 21:10, 22:4; Ezekiel 38:2, 38:22, 39:6; 3 Kingdoms 18:38; 4 Kingdoms 1:10; John 19:15"
 created: 2026-09-18
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part VII, Chapter 46 — the closing chapter of Part VII. Sources: Stages 55A, 55B, 55C, 55D, 56, 57, 58 and [[03a-the-beasts-fingerprint]] · [[03b-the-first-candidate-on-trial]] · [[03c-the-land-beast-and-the-false-prophet]] · [[03d-three-gatherings-or-one]] · [[03f-the-millennium-entrance-gate]] · [[03g-binding-access-or-something-narrower]] · [[03h-the-standard-of-proof]]. ★★★ THE DISCIPLINE BREACH IS PRINTED: the stage that forbade candidates named one twelve paragraphs later WITH EVIDENCE ATTACHED — removed from the profile. ★★★ REVELATION 13:7 TRACKS THEODOTION AND THE ARAMAIC (ποιέω πόλεμον ΜΕΤΑ τῶν ἁγίων vs the Old Greek's πρός) — second instance, and a stronger verbal link than ANYTHING in the entire Paul↔Revelation comparison, which was ZERO. Leash: quotation behaviour is per-quotation; the NT picture is three-way. ★★★ 666 IS A FILTER, NOT A FINGERPRINT — ΤΕΙΤΑΝ, ΛΑΤΕΙΝΟΣ and ΕΥΑΝΘΑΣ all reach 666 in Greek. 'X = 666, therefore X' is INVALID ON ITS FACE, for every candidate including future ones. ★★★ THE GREEK ISOPSEPHY OF THE CANDIDATE'S NAME MISSES BY 671 — so the Hebrew ruler is REQUIRED, not preferred. And the earliest interpreter we possess computed in GREEK, proposed a DIFFERENT NAME, and DECLINED TO PRONOUNCE. ★★★ WHAT SURVIVES IS THE PAIR, not the number — and it rests on an unverified spelling (five ladder rungs named) and an unread dating passage (five more). ★★★ ANARTHROUS ἀνθρώπου permits 'a HUMAN number' — two of three readings point to NO PERSON AT ALL, and they sit BENEATH every candidate. ★★★ THE γῆ SWEEP: 35 occurrences, ZERO territorial — a reading moves from neutral to BURDENED, and it is the one whose chronology was convenient. ★★★★ DANIEL 3 / REVELATION 19:20: βάλλω + εἰς + τοῦ πυρός + καιομέν- — the sentence Daniel's faithful SURVIVED is the sentence Revelation's persecutors DO NOT. ★★★ REVELATION 20:9 FUSES EZEKIEL'S NAMES WITH ELIJAH'S FIRE FORMULA (five elements) — second source-fusion found in this project. ★★★ THE EVIDENCE CLASSES SPLIT: lexically 16 pairs with 20 (verbatim identical); narratively 16 pairs with 19 (all three adversaries active vs two already in the lake). NAMED, NOT RESOLVED BY PREFERENCE. ★★★ RECAPITULATION WOULD HAVE DISSOLVED THE BEAST PROBLEM — it was tested anyway, it failed, and the harder result was kept. ★★★ 17:16 — THE BEAST BURNS THE WOMAN; they cannot be one entity. ★★★ q384, THE CHAPTER'S REAL COST: the binding's signature is satisfied by almost every century, so THE BINDING CANNOT DATE ANYTHING. Two start markers reduce to ONE, and the first resurrection carries the entire dating burden alone. ★★ q380 answered by 5:9 and 7:9 — binding ≠ gospel access. ★★ SIX CONSECUTIVE STAGES ENDED IN DEFERRAL; a method that never produces a finding is not more rigorous, just slower. ★★★★★ THE STANDARD WAS SET IN ADVANCE — CONTRADICTS/PERMITS/SUPPORTS/REQUIRES, recorded at PERMITS eighteen days before fifty stages of evidence existed. ⭐ PF-01: PERMITS → SUPPORTS. SUPPORTS IS ENOUGH TO HOLD A CONVICTION; what is refused is upgrading the LABEL, and that PROTECTS the belief. ⭐ GROWING CHAIN CHECKPOINT 5 — 'PF-01 stands at SUPPORTS. And the bill for it is about to come due.' TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1 — READER-REVIEW REVISION 2026-09-25: evidence changes are listed in SYNC-023; where this summary and the chapter text differ, the text is current. Approved architecture v1.0, Part VII, Chapter 46 — the closing chapter of Part VII. Sources: Stages 55A, 55B, 55C, 55D, 56, 57, 58 and [[03a-the-beasts-fingerprint]] · [[03b-the-first-candidate-on-trial]] · [[03c-the-land-beast-and-the-false-prophet]] · [[03d-three-gatherings-or-one]] · [[03f-the-millennium-entrance-gate]] · [[03g-binding-access-or-something-narrower]] · [[03h-the-standard-of-proof]]. ★★★ THE DISCIPLINE BREACH IS PRINTED: the stage that forbade candidates named one twelve paragraphs later WITH EVIDENCE ATTACHED — removed from the profile. ★★★ REVELATION 13:7 TRACKS THEODOTION AND THE ARAMAIC (ποιέω πόλεμον ΜΕΤΑ τῶν ἁγίων vs the Old Greek's πρός) — second instance, and a stronger verbal link than ANYTHING in the entire Paul↔Revelation comparison, which was ZERO. Leash: quotation behaviour is per-quotation; the NT picture is three-way. ★★★ 666 IS A FILTER, NOT A FINGERPRINT — ΤΕΙΤΑΝ, ΛΑΤΕΙΝΟΣ and ΕΥΑΝΘΑΣ all reach 666 in Greek. 'X = 666, therefore X' is INVALID ON ITS FACE, for every candidate including future ones. ★★★ THE GREEK ISOPSEPHY OF THE CANDIDATE'S NAME MISSES BY 671 — so the Hebrew ruler is REQUIRED, not preferred. And the earliest interpreter we possess computed in GREEK, proposed a DIFFERENT NAME, and DECLINED TO PRONOUNCE. ★★★ WHAT SURVIVES IS THE PAIR, not the number — and it rests on an unverified spelling (five ladder rungs named) and an unread dating passage (five more). ★★★ ANARTHROUS ἀνθρώπου permits 'a HUMAN number' — two of three readings point to NO PERSON AT ALL, and they sit BENEATH every candidate. ★★★ THE γῆ SWEEP: 35 occurrences, ZERO territorial — a reading moves from neutral to BURDENED, and it is the one whose chronology was convenient. ★★★★ DANIEL 3 / REVELATION 19:20: βάλλω + εἰς + τοῦ πυρός + καιομέν- — the sentence Daniel's faithful SURVIVED is the sentence Revelation's persecutors DO NOT. ★★★ REVELATION 20:9 FUSES EZEKIEL'S NAMES WITH ELIJAH'S FIRE FORMULA (five elements) — second source-fusion found in this project. ★★★ THE EVIDENCE CLASSES SPLIT: lexically 16 pairs with 20 (verbatim identical); narratively 16 pairs with 19 (all three adversaries active vs two already in the lake). NAMED, NOT RESOLVED BY PREFERENCE. ★★★ RECAPITULATION WOULD HAVE DISSOLVED THE BEAST PROBLEM — it was tested anyway, it failed, and the harder result was kept. ★★★ 17:16 — THE BEAST BURNS THE WOMAN; they cannot be one entity. ★★★ q384, THE CHAPTER'S REAL COST: the binding's signature is satisfied by almost every century, so THE BINDING CANNOT DATE ANYTHING. Two start markers reduce to ONE, and the first resurrection carries the entire dating burden alone. ★★ q380 answered by 5:9 and 7:9 — binding ≠ gospel access. ★★ SIX CONSECUTIVE STAGES ENDED IN DEFERRAL; a method that never produces a finding is not more rigorous, just slower. ★★★★★ THE STANDARD WAS SET IN ADVANCE — CONTRADICTS/PERMITS/SUPPORTS/REQUIRES, recorded at PERMITS eighteen days before fifty stages of evidence existed. ⭐ PF-01: PERMITS → SUPPORTS. SUPPORTS IS ENOUGH TO HOLD A CONVICTION; what is refused is upgrading the LABEL, and that PROTECTS the belief. ⭐ GROWING CHAIN CHECKPOINT 5 — 'PF-01 stands at SUPPORTS. And the bill for it is about to come due.' TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
 related: "[[10-manuscript-architecture]], [[03a-the-beasts-fingerprint]], [[03b-the-first-candidate-on-trial]], [[03c-the-land-beast-and-the-false-prophet]], [[03d-three-gatherings-or-one]], [[03f-the-millennium-entrance-gate]], [[03g-binding-access-or-something-narrower]], [[03h-the-standard-of-proof]], [[03-hypotheses]]"
 ---
 
-# Chapter 46: The beast's fingerprint, the standard of proof, and PF-01
+# Chapter 46: The beast's fingerprint, the standard of proof, and what the evidence now supports
 
 The rule for this stretch of work was simple, and I wrote it before I started. **Build the profile first. Do not let a candidate into the room, because once a name is on the table every clue starts bending toward it.**
 
@@ -32,7 +32,9 @@ I have taken the evidence back out. **Not because the observation is worthless**
 
 ## And the profile's best find came from paying a debt
 
-Two chapters ago I declared an edition mismatch: the two Greek Daniels I had been comparing came from different critical editions. It sat unpaid for three stages. **Downloading the second file from the same corpus took one command.**
+Two chapters ago I declared an edition mismatch: the two Greek Daniels I had been comparing were read in two different modern editions. It sat unpaid for three stages. **Reading the Old Greek in the same edition as the Theodotion turned out to be the easiest debt in the investigation to pay** — and paying it produced the profile's best find.
+
+The question the table answers: **Revelation 13:7 says the beast was allowed *to make war with the saints*. Which form of Daniel 7:21 is that wording closest to** — the Aramaic original, the Old Greek, or Theodotion? Four small pieces of the phrase decide it: the **verb** (*make*), the **noun** (*war*), the **preposition** (*with* or *against*), and the **case** that preposition takes — Greek *with*, <span class="gr">μετά</span>, is followed by the *of*-form of the noun, the genitive, while *against*, <span class="gr">πρός</span>, is followed by the object form, the accusative.
 
 | | The war-on-the-saints phrase |
 |--------------------------|-----------------------------------------------------------------|
@@ -41,9 +43,11 @@ Two chapters ago I declared an edition mismatch: the two Greek Daniels I had bee
 | ❗ **Old Greek 7:21** | <span class="gr">πόλεμον συνιστάμενον **πρὸς** τοὺς ἁγίους</span> |
 | ★★ **Revelation 13:7** | <span class="gr">ποιῆσαι πόλεμον **μετὰ** τῶν ἁγίων</span> |
 
-❗❗ **Four elements match Theodotion: the verb, the noun, the preposition, and the case. The Old Greek differs on exactly the preposition.**
+❗❗ **Four elements match Theodotion: the verb, the noun, the preposition, and the case. The Old Greek shares only the noun.** Its verb is different — <span class="gr">συνιστάμενον</span>, *waging*, not *making* — and so are its preposition and case: *against* the saints rather than *with* them.
 
 ★★★ **And the Aramaic closes the loop: its preposition means *with*. Theodotion tracks the Aramaic. The Old Greek does not. And Revelation tracks Theodotion.**
+
+📐 **What the four-element match demonstrates:** that John's wording at 13:7 stands measurably closer to the Theodotion form of Daniel 7:21 than to the Old Greek. It does not show that John read Theodotion's book — only which Greek Daniel his sentence resembles, at this one verse.
 
 📌 **This is the second independent instance of the same shape.** The cloud-coming quotation did it too — two Danielic quotations, two Aramaic *with*, two Theodotion *with*, two Revelation *with*, two Old Greek outliers.
 
@@ -114,7 +118,7 @@ The number is supposed to be the clinching evidence, so I did the only honest th
 🆕 **And it passes the rule a reader forced me to write.** The question was: *are you measuring with the same ruler?* **Alternative numerical readings must be tested under the same letter-number system. Historically attested spellings may vary. The system may not be switched to obtain a desired total.** The calculation survives the stating.
 :::
 
-**Then I did the same sum in Greek, because the book is written in Greek and Greek counts with its letters too.**
+**Then I did the same sum in Greek, because the book is written in Greek and Greek counts with its letters too.** The practice is called **isopsephy** — the Greek counterpart of the Hebrew letter-counting, *gematria*, met in Part VI: every letter has a number value, and a word's value is the sum of its letters.
 
 <span class="gr">ΝΕΡΩΝ ΚΑΙΣΑΡ</span> — **1337.**
 
@@ -169,16 +173,16 @@ The number is supposed to be the clinching evidence, so I did the only honest th
 ::: textualnote
 **The spelling the whole calculation depends on was never verified**
 
-**Five ladder rungs tried and named** — an encyclopedia article on the relevant Judean Desert cache · a manuscript list · a related article that turned out to hold nothing on the point · a reference work behind a wall · and an academic search that required credentials I do not have.
+The Hebrew sum needs the name spelled <span class="he">נרון קסר</span>, with that final letter. **I have not been able to confirm that spelling in a dated ancient document.** The published discussions I could reach point toward documents from the Judean Desert, but the documents themselves, and the scholarly editions that print them, were beyond my reach.
 
-❗ **What was found confirms only that the calculation *exists as a proposal*. It does not show the spelling attested in a dated document independent of arguments about Revelation.**
+❗ **What I could confirm is only that the calculation *exists as a proposal*. Not that the spelling is attested in a dated document independent of arguments about Revelation.**
 
-🛑 **And my own rule applies: failing to find something is not evidence that it does not exist. This is recorded as *not found, with rungs named* — not as *unattested*. The distinction between *does not exist* and *we did not reach it* is the whole difference, and collapsing it corrupts everything downstream.**
+🛑 **And my own rule applies: failing to find something is not evidence that it does not exist. This is recorded as *not confirmed* — not as *unattested*. The distinction between *does not exist* and *I did not reach it* is the whole difference, and collapsing it corrupts everything downstream.**
 :::
 
 ## And a grammatical problem underneath the entire enterprise
 
-Revelation 13:18 says *it is a number **of a man*** — **and the noun is anarthrous. There is no article.**
+Revelation 13:18 says *it is a number **of a man*** — **and the noun is anarthrous: there is no article, no *the*, in front of it.**
 
 The construction permits, at minimum: *a number of **a man*** — a particular unnamed person · *a **human** number* — a number counted the way humans count · *a number of **humanity*** — a category rather than an individual.
 
@@ -190,7 +194,7 @@ The construction permits, at minimum: *a number of **a man*** — a particular u
 
 ## The objection most likely to kill it, and it is harder than usually stated
 
-**The beast and the false prophet are thrown into the lake before the thousand years — and by exhaustive search, they are never released.** When the devil is thrown in afterward, the text pauses to say they are already there.
+**The beast and the false prophet are thrown into the lake before the thousand years — and by exhaustive search, they are never released.** When the devil is thrown in afterward, 20:10 names the lake as the place *where the beast and the false prophet* are — the Greek supplying no verb and no *already*; that they are still there is inferred from 19:20, which put them there.
 
 ❗❗ **So the model does not merely need the beast to have *declined*, or to have *lost dominion*. It needs whatever the beast denotes to be permanently and irreversibly gone from the moment the millennium begins — and to have stayed gone for its entire duration.**
 
@@ -202,9 +206,15 @@ The construction permits, at minimum: *a number of **a man*** — a particular u
 
 **One may not cite him for the antiquity of the variant and set him aside on the date without saying why. That is source-shopping, and I have refused it in every other direction.**
 
-❌ **And the dating passage itself was never read. Five routes tried and named, every one of them closed: one reachable but restricted, three that led nowhere, and one that no longer exists.**
+❗ **And his dating passage itself — *Against Heresies* 5.30.3.** When this trial was run, every copy of it I tried was restricted or no longer available, and all I had was Eusebius's later quotation of it, on the table since Part VI. I refused to state more than that quotation carried, because a patristic dating claim is exactly the kind of thing that gets repeated confidently and wrongly.
 
-🛑 **So I record the *structure* of the problem and refuse to state what Irenaeus says about the date, because I have not read it.** I have been burned three times by a remembered quotation supplied fluently and wrongly, **and a patristic dating claim is exactly the kind of thing memory renders confidently and falsely.** ❗ **It is the most important outstanding item in the whole trial.**
+✅ **It has since been read**, in the standard public-domain English translation, and three independent copies agree:
+
+> *We will not, however, incur the risk of pronouncing positively as to the name of Antichrist; for if it were necessary that his name should be distinctly revealed in this present time, it would have been announced by him who beheld the apocalyptic vision. For that was seen no very long time since, but almost in our day, towards the end of Domitian's reign.*
+
+📐 **It says what the Eusebius quotation said.** Irenaeus's reason for declining to name the beast is that the vision is recent — *towards the end of Domitian's reign*. That is a witness for the late date, and it stands as the counterevidence it has been since Part VI; reading it directly neither strengthens nor weakens it.
+
+⚠️ **What it does not settle.** I have read it in English only. Whether the Greek's *was seen* refers to the vision or to John himself — the contested point recorded in Part VI — I have not checked, and nothing here decides it. **And a witness to the date is not yet a weighing of the date.** That weighing is not done in this chapter.
 
 ## Scoring, against the test fixed in advance
 
@@ -212,10 +222,12 @@ The construction permits, at minimum: *a number of **a man*** — a particular u
 |---|--------------------------------|--------------------------------------------------|
 | 1 | political authority | ✅ **satisfied** — an imperial order plainly qualifies |
 | 2 | a worship claim | 🔶 **partially** — a real environment, ⚠️ **not verified here**, and it varied by region |
-| 3 | persecution of Yah's people | 🔶 **plausible** — ⚠️ **no source retrieved**, and ★ the lethal arm must be satisfied specifically |
+| 3 | persecution of Yah's people | ✅ **satisfied** — Tacitus, already on the table since Part VI, reports Nero fastening guilt for the fire on Christians and torturing them. ★ **But the lethal arm this test adds is not shown:** Tacitus describes punishment for a fire, not death for refusing worship |
 | 4 | the mark-name-number system | ❌ **not demonstrated** |
 
-📐 **Two clear, two undemonstrated. Under the test as written, the candidate has not passed.**
+📐 **Two clear, one partial, one not demonstrated — and the lethal arm unshown. Under the test as written, the candidate has not passed.**
+
+⚠️ *When this trial was first scored, row 3 was marked only "plausible," with no source cited. That was stale: the persecution evidence had been in this book since Part VI. The row is corrected; the verdict is not changed by it.*
 
 ⚠️ **And the corrected profile items apply with full force: seven mountains was removed, so it may not be scored. The vantage is unfixed, so no king-list may be scored against it. The king/kingdom basis dissolved in both Greek recensions.**
 
@@ -282,7 +294,7 @@ A debt I had fenced two chapters ago came due, and paying it enlarged the questi
 **The evidence classes point opposite ways, and I am not going to pick**
 
 ★ **Lexically**, chapter 16 pairs with chapter 20 — the clauses are identical.
-★ **Narratively**, chapter 16 pairs with chapter 19 — because **16:13 has the dragon, the beast and the false prophet all active, each with spirits coming out of his mouth, while 20:10 has two of the three already in the lake.**
+★ **Narratively**, chapter 16 pairs with chapter 19 — because **16:13 has the dragon, the beast and the false prophet all active, each with spirits coming out of his mouth, while by 20:10 two of the three have been thrown into the lake at 19:20.**
 
 **You cannot have a figure both operating and permanently disposed of in the same scene.**
 
@@ -304,7 +316,7 @@ A debt I had fenced two chapters ago came due, and paying it enlarged the questi
 
 📐 **So the passage takes its *names* from Ezekiel and its *fire formula* from Elijah. Two sources, fused in two verses.**
 
-★ **And this is the second fusion of this kind in the investigation — Paul fuses Isaiah's two clauses into one phrase in exactly the same way. Two different authors, the same compositional behaviour, and in both cases it was invisible until the source texts were retrieved separately and compared word by word.**
+★ **And this is the second fusion of this kind in the investigation — Paul fuses Isaiah's two clauses into one phrase in exactly the same way. Two different authors, the same compositional behaviour, and in both cases it was invisible until the source texts were read separately and compared word by word.**
 
 ⚠️ **Leash: I refused a claim about deliberate authorial reframing once already in this material, and the refusal applies here too. The word-match is recorded. No claim is made about intent.**
 :::
@@ -354,9 +366,9 @@ Then the work turned on itself, and the next two findings cost more than anythin
 
 ## And I found out I had been repeating myself
 
-Twice now I have written up something as a fresh catch and discovered it already recorded in my own files — once a discipline breach, once a question about numeral conventions, both already numbered, both already framed better than I framed them. **A register I had not opened in many stages already contained the next stage's subject, already labelled a falsification test rather than a confirmation search, and already blocked behind an earlier question.**
+Twice now I have written something up as a fresh catch and then found it already in my own earlier notes — once a lapse of discipline, once a question about how ancient writers set down numbers — both already recorded, and both framed better the first time than the second. **And the question I was about to make the next stage's whole subject was already there too: already labelled as a test that could *falsify* the hypothesis rather than a search for evidence *for* it, and already waiting on an earlier question.**
 
-**The archive's memory was better than its user's.** Four searches, perhaps a minute, and it saved a whole stage — twice.
+**My earlier notes remembered better than I did.** A few minutes of checking them saved a whole stage — twice.
 
 ::: finding
 **Finding — six consecutive stages ended by deferring to the next one**
@@ -368,7 +380,7 @@ Twice now I have written up something as a fresh catch and discovered it already
 | the gatherings | Babylon |
 | the entrance gate | a rescoped stage |
 | that stage | another rescoped stage |
-| that one | *start from the register* |
+| that one | *start from my earlier notes* |
 
 ❗❗ **Six handoffs. The audit that caught five stages of repeated work was necessary — and it also *fed* the loop, because each correction generated a next stage instead of a verdict.**
 
@@ -393,7 +405,13 @@ So I searched my own files, and the answer was sitting there, dated weeks before
 ❗❗ **So the standard was fixed before fifty stages of evidence existed. It is not a bar raised after the fact, and it is a better scale than *how sure do I feel*, because it asks what the evidence ***does*** rather than how confident the investigator is.**
 :::
 
-⭐ **On its own pre-existing scale, the hypothesis has advanced a full tier. PERMITS → SUPPORTS. Filed as PF-01.**
+⭐ **On its own pre-existing scale, the hypothesis has advanced a full tier. PERMITS → SUPPORTS.**
+
+I filed it as a standing result, and it needs a name the rest of this book can point to. **PF-01 — Provisional Finding 01**, the first finding this investigation has filed as a premise to build on rather than a question to reopen:
+
+> **The accumulated textual evidence favours a first-century eschatological transition into Revelation 20's reign, and explains more of the data more naturally than the alternatives examined.**
+
+In plainer words: the evidence leans toward the reign of Revelation 20 — the first resurrection, the thousand years — having begun in the first century. *Provisional* is part of the name on purpose. It is held at SUPPORTS, and it stays open to anything that materially contradicts it.
 
 **That is not nothing. That is a claim moving a whole tier against a standard set before anyone knew which way it would go — which is the only kind of standard worth setting.**
 
@@ -423,7 +441,7 @@ It says **probable** about Matthew against 2 Thessalonians. It says **high** abo
 
 ## What I actually have
 
-I set a four-part test before I let a name into the room, and the first candidate scored two. I found that the number everybody treats as a signature is satisfied by at least four names in two languages, and that the earliest reader we possess worked it in Greek and came out somewhere else entirely — and then refused to say. I found that the one thing the candidate genuinely owns is the pair, not the number. **And I could not read the single page that would tell me whether the whole thing is even seated in the right decade.**
+I set a four-part test before I let a name into the room, and the first candidate scored two. I found that the number everybody treats as a signature is satisfied by at least four names in two languages, and that the earliest reader we possess worked it in Greek and came out somewhere else entirely — and then refused to say. I found that the one thing the candidate genuinely owns is the pair, not the number. **And the one page that could tell me whether the whole thing is even seated in the right decade — Irenaeus's own words on when Revelation was seen — I could not get access to while the trial ran. When I finally read it, it said what Eusebius had said it said: *towards the end of Domitian's reign.* The page is no longer missing. The question it raises is still open.**
 
 Then I lost something larger than the trial. **The binding cannot tell us when.** If what distinguishes it is that the last coalition has not yet gathered, that is true of nearly every century there has ever been. **So the whole weight of dating now sits on the resurrection — the one part of this that leaves the fewest fingerprints of any kind.**
 
@@ -456,9 +474,9 @@ And against all of that, the thing I did not expect: **it moved.** Not to proven
 :::
 
 ::: whereweare
-**Where we are.** The profile was built before the candidate — after I was caught contaminating it — and the candidate then scored two of a four-part test written in advance. The number that was supposed to identify him identifies at least four names, and the earliest interpreter we have used a different language and a different name and then declined to pronounce. What survives is the pair, resting on an unverified spelling and an unread page. The false prophet's strongest candidate reading runs uphill against thirty-five occurrences of one word, and neither candidate family passes. The gatherings split three ways, and the lexical and narrative evidence point at different partners; I named the split rather than resolving it. And the chapter's real cost is that the binding, which I had been leaning on as an entrance marker, turns out to be satisfied by almost any century — so the entire dating question now rests on the resurrection alone.
+**Where we are.** The profile was built before the candidate — after I was caught contaminating it — and the candidate then scored two of a four-part test written in advance. The number that was supposed to identify him identifies at least four names, and the earliest interpreter we have used a different language and a different name and then declined to pronounce. What survives is the pair, resting on an unverified spelling — and the dating page, once read, says what the later quotation said: late, under Domitian. The false prophet's strongest candidate reading runs uphill against thirty-five occurrences of one word, and neither candidate family passes. The gatherings split three ways, and the lexical and narrative evidence point at different partners; I named the split rather than resolving it. And the chapter's real cost is that the binding, which I had been leaning on as an entrance marker, turns out to be satisfied by almost any century — so the entire dating question now rests on the resurrection alone.
 :::
 
 ::: earned
-**What it earned.** A profile with a candidate's evidence taken back out of it. A number demoted from signature to sieve, by arithmetic done rather than repeated. A page left unread and declared unread, twice, rather than filled in from memory. A reading moved from neutral to burdened by counting instead of arguing. A recapitulation test run in full knowledge that failing it would have dissolved the hardest problem in the investigation — and the harder result kept. An objection to the leading model raised by its own side and answered at the cost of its best dating marker. Six stages of drift named as drift. And a hypothesis moved one tier, against a standard written before the evidence existed, by somebody who had forgotten he wrote it.
+**What it earned.** A profile with a candidate's evidence taken back out of it. A number demoted from signature to sieve, by arithmetic done rather than repeated. A page declared unread rather than filled in from memory — and then read, and reported at exactly the strength it carries. A reading moved from neutral to burdened by counting instead of arguing. A recapitulation test run in full knowledge that failing it would have dissolved the hardest problem in the investigation — and the harder result kept. An objection to the leading model raised by its own side and answered at the cost of its best dating marker. Six stages of drift named as drift. And a hypothesis moved one tier, against a standard written before the evidence existed, by somebody who had forgotten he wrote it.
 :::

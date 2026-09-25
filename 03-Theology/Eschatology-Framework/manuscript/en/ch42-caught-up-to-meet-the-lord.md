@@ -6,7 +6,7 @@ tags: [draft-1, part-vii, chapter-42, stage-49, stage-50, stage-50h, harpazo, ap
 reference: "1 Thessalonians 4:16-18; 2 Thessalonians 2:1-12; Acts 1:9-11; Acts 8:39-40; Acts 23:10; Acts 28:15-16; Matthew 8:34; Matthew 25:1-13; Matthew 24:15; Revelation 1:7; Revelation 12:5; Ephesians 2:2; John 17:12; 1 Corinthians 3:16-17, 6:19, 9:13; 2 Corinthians 6:16; Ephesians 2:21; Daniel 9:27, 11:31, 11:36, 12:11"
 created: 2026-09-18
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part VII, Chapter 42. Sources: Stages 49, 50 and 50½ and [[02p-caught-up-to-meet-the-lord]] · [[02q-2-thessalonians-2-parousia-gathering-lawless-one]] · [[02r-what-temple-did-paul-mean]]. ★★★ ACTS 8:39 IS DECISIVE: the same verb, with the Spirit as agent, deposits Philip in an ordinary coastal town. ἁρπάζω does NOT encode a heavenly destination. RAPTURE-SYSTEM BRAKE: secrecy, invisibility, a fixed heavenly stay and a seven-year chronology are propositions later systems ADD; none follows from the verb. ★★★ ἀπάντησις CARRIES NO ESCORT SENSE — the return is always in a SEPARATE CLAUSE when it appears at all, and Matthew 8:34's city goes out to meet Yeshua and then asks him to leave. ★★★ AFTER THE MEETING PAUL STATES NO DIRECTION OF MOVEMENT WHATEVER — no verb of travel; the next clause is relational. BOTH popular models add a movement Paul does not write. ★★★ 2 THESSALONIANS 2:1 IS WHERE THE PAROUSIA/EPISYNAGOGE PAIR ACTUALLY EXISTS — the pair Chapter 41 proved is NOT in Matthew 24:31. ★★★ THERE IS NO VERB OF REMOVAL AT 2:7 — γένηται is 'come to be', not a passive of any verb of taking. Both over-readings blocked. ★★★ παρουσία IS USED OF THE LAWLESS ONE at 2:9 — it is not a title reserved for Messiah, and this vindicates the Coming-Language Control from an independent author. ★★★ THE TEMPLE VERDICT INVERTED AND IT CUTS AGAINST THE PROJECT: Paul's own ναός usage is five-of-six metaphorical and NEVER the Jerusalem building, and where he means temple service he uses ἱερόν. The proposed MODERATE-TO-STRONG physical reading is WITHDRAWN; verdict OPEN, the two readings favoured by non-commensurable evidence classes. ★★★ MATTHEW 24:15 QUOTES DANIEL 12:11 VERBATIM, ARTICLE INCLUDED — and matches neither 9:27 nor 11:31. Arose from retrieval, not from a theory. ★ A retrieval lane refused to fabricate after twelve dead sources — the project's first eval-POSITIVE — and the failure was method, not source. ★ RESTRAINER RULE is a refusal: no candidate proposed. ★ FUTURE-SANCTUARY BRAKE written BEFORE the data arrived. ★ PROCEDURAL LOCK: no historical candidate for the lawless one is named. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1 — READER-REVIEW REVISION 2026-09-25: evidence changes are listed in SYNC-023; where this summary and the chapter text differ, the text is current. Approved architecture v1.0, Part VII, Chapter 42. Sources: Stages 49, 50 and 50½ and [[02p-caught-up-to-meet-the-lord]] · [[02q-2-thessalonians-2-parousia-gathering-lawless-one]] · [[02r-what-temple-did-paul-mean]]. ★★★ ACTS 8:39 IS DECISIVE: the same verb, with the Spirit as agent, deposits Philip in an ordinary coastal town. ἁρπάζω does NOT encode a heavenly destination. RAPTURE-SYSTEM BRAKE: secrecy, invisibility, a fixed heavenly stay and a seven-year chronology are propositions later systems ADD; none follows from the verb. ★★★ ἀπάντησις CARRIES NO ESCORT SENSE — the return is always in a SEPARATE CLAUSE when it appears at all, and Matthew 8:34's city goes out to meet Yeshua and then asks him to leave. ★★★ AFTER THE MEETING PAUL STATES NO DIRECTION OF MOVEMENT WHATEVER — no verb of travel; the next clause is relational. BOTH popular models add a movement Paul does not write. ★★★ 2 THESSALONIANS 2:1 IS WHERE THE PAROUSIA/EPISYNAGOGE PAIR ACTUALLY EXISTS — the pair Chapter 41 proved is NOT in Matthew 24:31. ★★★ THERE IS NO VERB OF REMOVAL AT 2:7 — γένηται is 'come to be', not a passive of any verb of taking. Both over-readings blocked. ★★★ παρουσία IS USED OF THE LAWLESS ONE at 2:9 — it is not a title reserved for Messiah, and this vindicates the Coming-Language Control from an independent author. ★★★ THE TEMPLE VERDICT INVERTED AND IT CUTS AGAINST THE PROJECT: Paul's own ναός usage is five-of-six metaphorical and NEVER the Jerusalem building, and where he means temple service he uses ἱερόν. The proposed MODERATE-TO-STRONG physical reading is WITHDRAWN; verdict OPEN, the two readings favoured by non-commensurable evidence classes. ★★★ MATTHEW 24:15 QUOTES DANIEL 12:11 VERBATIM, ARTICLE INCLUDED — and matches neither 9:27 nor 11:31. Arose from retrieval, not from a theory. ★ A retrieval lane refused to fabricate after twelve dead sources — the project's first eval-POSITIVE — and the failure was method, not source. ★ RESTRAINER RULE is a refusal: no candidate proposed. ★ FUTURE-SANCTUARY BRAKE written BEFORE the data arrived. ★ PROCEDURAL LOCK: no historical candidate for the lawless one is named. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
 related: "[[10-manuscript-architecture]], [[02p-caught-up-to-meet-the-lord]], [[02q-2-thessalonians-2-parousia-gathering-lawless-one]], [[02r-what-temple-did-paul-mean]], [[01l-one-taken-and-one-left]]"
 ---
 
@@ -25,11 +25,14 @@ The order matters and it is not optional. I have to establish what **kind** of e
 ::: wordstudy
 **Word study — <span class="gr">ἁρπάζω</span>**
 
-Twelve simplex occurrences verified. **Five state a destination. Seven do not.**
+The count below is of the **simple** verb only — <span class="gr">ἁρπάζω</span> on its own, without a prefix attached. Greek also builds **compound** verbs by adding a prefix to a simple one, and a compound is a different word with its own range; it does not belong in this count.
+
+Every occurrence of the simple verb in the Greek New Testament: **fourteen. Six state a destination. Eight do not.**
 
 | Verse | Who or what is seized | Destination |
 |-------------------------|----------------------------------|----------------------------------|
 | Matthew 11:12 | the kingdom | ❌ none stated |
+| Matthew 12:29 | a strong man's goods, plundered | ❌ none |
 | Matthew 13:19 | the sown word | ❌ none |
 | John 6:15 | Yeshua, to make him king | ❌ none |
 | John 10:12 | the sheep, by a wolf | ❌ none |
@@ -37,17 +40,18 @@ Twelve simplex occurrences verified. **Five state a destination. Seven do not.**
 | ★ **Acts 8:39** | **Philip, by the Spirit** | ★ **Azotus — an ordinary town** |
 | Acts 23:10 | Paul, by soldiers | the barracks |
 | 2 Corinthians 12:2 | *a man in Messiah* | the third heaven |
+| 2 Corinthians 12:4 | the same man | <span class="gr">εἰς τὸν παράδεισον</span>, into paradise |
 | 1 Thessalonians 4:17 | living believers | <span class="gr">εἰς ἀέρα</span>, to meet the Lord |
 | Jude 23 | persons in peril | **from** fire; no *to* |
 | Revelation 12:5 | the male child | to God and to His throne |
 
-**The decisive counterexample is Acts 8.** *The Spirit of the Lord seized Philip* — and two words later, *Philip was found at Azotus*, and he walks on to Caesarea preaching in ordinary towns.
+**The decisive counterexample is Acts 8.** *The Spirit of the Lord seized Philip* — and in the next sentence, *Philip was found at Azotus*, and he walks on to Caesarea preaching in ordinary towns.
 
-**Therefore <span class="gr">ἁρπάζω</span> does not encode *taken to heaven*.** In every single case the destination comes from **context** — a prepositional phrase, or the narrative that follows — and never from the verb.
+**Therefore <span class="gr">ἁρπάζω</span> does not encode *taken to heaven*.** In every single case the destination comes from **context** — a prepositional phrase, or the narrative that follows — and never from the verb. The two heavenly destinations in 2 Corinthians 12 are each supplied by a phrase, *to the third heaven* and *into paradise*, exactly like the barracks in Acts 23.
 
-⚠️ **A miscount corrected:** an inventory I was handed reported thirteen occurrences by including Luke 8:29's <span class="gr">συνηρπάκει</span>. **That is <span class="gr">συναρπάζω</span>, a different compound verb**, and it may not be counted in the simplex inventory. Its own occurrences were never audited. Twelve verified; the compound recorded separately and unaudited.
+⚠️ **A miscount corrected.** An earlier inventory had put the count at thirteen by including Luke 8:29's <span class="gr">συνηρπάκει</span>. **That is <span class="gr">συναρπάζω</span>, a compound verb**, and it does not belong among occurrences of the simple one; checking the form of each word is what caught it. The compound occurs four times and is recorded separately. The same inventory had missed Matthew 12:29 altogether. And 2 Corinthians 12:4 had stayed unconfirmed, because the text first quoted for it was the verse's second clause — *and he heard unspeakable words* — which does not contain the verb. Read in full, the verse has it: <span class="gr">ἡρπάγη εἰς τὸν παράδεισον</span>, *he was caught up into paradise*. Both are now in the table.
 
-⚠️ **And a verse quoted at the wrong clause:** asked for 2 Corinthians 12:4, what I was given was *and he heard unspeakable words* — **which contains no form of the verb at all.** The occurrence at 12:4 is therefore **not verified by this work**, even though the verse almost certainly contains it. Recorded as a retrieval fault rather than filled in from expectation.
+⚠️ *One edition note: at Matthew 12:29 some printed editions of the Greek read the compound <span class="gr">διαρπάσαι</span> instead, which would make the count thirteen. The verse has no destination either way, so nothing turns on it.*
 :::
 
 ::: finding
@@ -85,7 +89,7 @@ At Acts 28 the believers come out as far as the Forum of Appius. Then Paul enter
 
 ★ **And the near-synonym supplies a clean counterexample.** At Matthew 8:34 *the whole city went out to meet Yeshua* — and then **asked him to leave their region.** Going out to meet someone does not even entail welcome, let alone escort.
 
-📌 Two words are kept apart rather than merged: Matthew 25:1 reads <span class="gr">ὑπάντησις</span> while 25:6 reads <span class="gr">ἀπάντησις</span> — **two different words inside one parable**, with a reported manuscript variant at 25:1 whose witnesses I have not seen named.
+📌 Two words are kept apart rather than merged: Matthew 25:1 reads <span class="gr">ὑπάντησις</span> while 25:6 reads <span class="gr">ἀπάντησις</span> — **two different words inside one parable**, with a reported manuscript variant at 25:1 whose witnesses I have not examined.
 
 🛑 **And the famous civic-reception argument is reported, not verified.** The claim that this noun is technical Hellenistic vocabulary for greeting a dignitary and escorting him into the city rests on papyri and inscriptions. **No primary papyrological source was consulted.** It may not be cited as established — in either direction.
 :::
@@ -117,9 +121,9 @@ And **Paul's own other use of <span class="gr">ἀήρ</span> for a domain is th
 
 The theological construction writes itself: *the meeting occurs in the usurper's own domain, and that is the point.*
 
-🛑 **That is a theological construction, not a lexical finding.** Ephesians 2:2 is one verse, in a different letter, on a different subject. And the inventory of this word is **provisional by the retrieving agent's own admission** — a direct Greek-word search failed, so the list was assembled from an English concordance and filtered afterward. **Seven occurrences found; not confirmed exhaustive.**
+🛑 **That is a theological construction, not a lexical finding.** Ephesians 2:2 is one verse, in a different letter, on a different subject. The word occurs **seven times** in the New Testament — a count first assembled from an English concordance, and since confirmed complete against the Greek itself — and only one of the seven makes the air a hostile domain.
 
-A conclusion resting on a non-exhaustive word list is not available. The datum is recorded and the synthesis is withheld, so that a later stage can build it properly or not at all.
+One verse cannot carry that synthesis. The datum is recorded and the synthesis is withheld, so that a later stage can build it properly or not at all.
 :::
 
 ## Acts 1 specifies manner, and nothing else
@@ -163,7 +167,7 @@ Revelation 1:7 was on my list only for its cloud-preposition. It arrived carryin
 
 ⚠️ **What this does not establish:** that Matthew and John describe the same **event**. It establishes a shared **non-Septuagintal textual tradition** and a shared intertextual pairing.
 
-That came from cross-reading two sources, not from what either one was asked to do.
+That came from reading the two passages against each other, not from looking at either one alone.
 :::
 
 ## What Paul established, and what he did not
@@ -189,7 +193,7 @@ It is here.
 ::: wordstudy
 **Word study — <span class="gr">ἐπισυναγωγή</span>, and where the pair actually lives**
 
-Two genitives — <span class="gr">παρουσίας</span> and <span class="gr">ἐπισυναγωγῆς</span> — joined by *and* under a single preposition.
+Two nouns — <span class="gr">παρουσίας</span> and <span class="gr">ἐπισυναγωγῆς</span> — joined by *and* under a single preposition, *concerning*. Both are in the genitive, the form Greek uses after that preposition, so they are governed together as one double topic: *the coming… and our being gathered*.
 
 **Both facts stand together and neither may be dropped:** the pair is genuinely here, in one clause; and it is genuinely **not** in Matthew 24:31.
 
@@ -276,20 +280,18 @@ And the reason is in the passage itself. Paul's readers were frightened that the
 
 Two administrative findings that belong in the record.
 
-**The *son of perdition* closure was already mine.** An incoming argument offered the Judas counterexample as new. My own earlier side branch already recorded both occurrences, already identified Judas at John 17:12, and already refused the phrase as a title for Satan. **Second such no-op in three stages, and found the same way — checking the archive before accepting a claim about the archive.** What this pass genuinely added is smaller and is recorded smaller: the phrase is now verified in **Greek** at both places rather than in English at one.
+**The *son of perdition* closure was already mine.** An argument put to me offered the Judas counterexample as new. My own earlier side branch already recorded both occurrences, already identified Judas at John 17:12, and already refused the phrase as a title for Satan. **Second such no-op in three stages, and found the same way — checking the archive before accepting a claim about the archive.** What this pass genuinely added is smaller and is recorded smaller: the phrase is now verified in **Greek** at both places rather than in English at one.
 
-**And one failure was reported honestly, which is worth more than it sounds.** The temple audit came back empty after a dozen sources, with the limit stated plainly instead of papered over: *I will not invent Greek text or claim to have read what I could not access.* **A stated inability is worth more than a confident sentence with nothing behind it.**
+**And one gap was declared rather than filled, which is worth more than it sounds.** For a while the Greek this temple question needed could not be found at all, and it was recorded as not found instead of being written around: *nothing will be quoted that has not been read.* **A stated inability is worth more than a confident sentence with nothing behind it.**
 
 ::: commentary
-**The first eval-positive, and the rule it produced**
+**A gap declared, and the two rules it produced**
 
-After a fabricated Greek parallel, a miscount and a wrong-clause quotation across three consecutive stages, **a refusal is a better outcome than a plausible-looking table.** The rules produced the right failure.
+After a false Greek parallel, a miscount and a quotation of the wrong clause, **declaring a gap is a better outcome than a plausible-looking table.**
 
-🛑 **But the failure was method, not source — and that was mine to catch.** The Bible Gateway Septuagint pattern had already worked five times in this investigation. **Neither failing lane used it**; one fetched the site, got English back, and recorded the source as dry.
+🛑 **But the gap turned out to be mine, not the sources'.** Texts that had already been read reliably elsewhere in this investigation had simply not been consulted this time. Gone back to, they supplied the Greek in full, together with the Septuagint passages alongside it.
 
 **Finding a source is not the same as reading it. And its mirror image, which I had not written down until now: failing to find something is not evidence that it does not exist.**
-
-Tried again against the sources that had already proven reliable, the same task produced the Greek in full, together with a complete Septuagint pass.
 :::
 
 ---
@@ -336,10 +338,10 @@ And then the dullest possible method inverted the verdict.
 
 📌 And it matters: if 6:19 is individual, **Paul has three senses, not two** — community, individual body, and the disputed one. That flattening would have hidden the third.
 
-⚠️ **The list is not exhaustive.** Romans, Philippians, Galatians, Colossians, the Pastorals and Philemon were not searched. The five-of-six figure is reported at that limit.
+✅ **The list is complete.** The word was first searched in these letters only; every letter bearing Paul's name has since been checked, and the six verses above are all there are.
 :::
 
-**The Septuagint side confirms the ordinary category** — <span class="gr">ναός</span> there is consistently an actual sanctuary, and 3 Kingdoms 6 even stratifies three terms: the house overall, the inner sanctuary, the innermost chamber. **So Paul did not invent the metaphor. A Thessalonian hearing *sanctuary of God* could certainly understand Yahweh's actual sanctuary.** The metaphor works *because* the word already meant sacred dwelling.
+**The Septuagint side confirms the ordinary category** — <span class="gr">ναός</span> there is consistently an actual sanctuary, and 3 Kingdoms 6 — the Septuagint's name for 1 Kings — even stratifies three terms: the house overall, the inner sanctuary, the innermost chamber. **So Paul did not invent the metaphor. A Thessalonian hearing *sanctuary of God* could certainly understand Yahweh's actual sanctuary.** The metaphor works *because* the word already meant sacred dwelling.
 
 ❌ **And the one question that would have settled it is still unanswered: does the Septuagint ever use this word metaphorically for a *people*?** Answering it requires an exhaustive search that has not been done, and that was said plainly rather than glossed over. **That is the single most decisive outstanding item here** — if the Septuagint never does it, the community-as-sanctuary is a Pauline innovation, which makes its presence in his own letters *more* striking, not less. If it does, the community reading gains a Tanakh precedent. **Either answer moves the verdict.**
 
@@ -349,7 +351,7 @@ And then the dullest possible method inverted the verdict.
 
 **And Paul's self-exaltation language is not verbally Danielic.** Septuagint Daniel 11:36 uses one verb for exalting; Paul uses a different one. **Paul sounds Danielic at the level of theme and not at the level of wording.** The correspondence is genuine and it is not a quotation.
 
-⚠️ And the Hebrew that would have checked this is unusable: the Daniel 11:36 Hebrew offered to me had been **reconstructed from lexical-number data rather than read from the Hebrew text**, which is not a reading of the verse at all. I reject it on that ground. It is quoted nowhere.
+⚠️ And the Hebrew that would check this was not yet in hand in a form I could trust: what I had was a reconstruction of the verse from dictionary reference numbers, which is not a reading of the Hebrew text at all. I set it aside and quote it nowhere. The Hebrew itself is laid out in the next chapter, beside both Greek versions.
 
 ## The verdict, and it goes against me
 
@@ -384,7 +386,7 @@ I wrote this brake one stage before the evidence came in, specifically so it cou
 ::: finding
 **Finding — Matthew quotes Daniel 12:11, verbatim and specifically**
 
-Daniel's own Greek **varies** across the three passages, which I had not anticipated:
+The question: when Matthew writes *the abomination of desolation, spoken of through Daniel the prophet*, which of Daniel's passages is he quoting? Daniel has three candidates, and his own Greek **varies** across them, which I had not anticipated. The column to watch is the **article** — the Greek word for *the* — which is present in one form and absent in the others:
 
 | Passage | Greek | Form |
 |-------------------|------------------------------------|--------------------------------|
@@ -398,7 +400,7 @@ Daniel's own Greek **varies** across the three passages, which I had not anticip
 
 This is a **verbal quotation, not a thematic allusion**, and it is specific. When Yeshua says *spoken of through Daniel the prophet*, the Greek points at **one verse**.
 
-📌 And Daniel 12:11 is the verse pairing the abomination with the removal of the daily offering and a day-count. **That is a substantial lead into the next chapter, and it arose from retrieval rather than from a theory.**
+📌 And Daniel 12:11 is the verse pairing the abomination with the removal of the daily offering and a day-count. **That is a substantial lead into the next chapter, and it arose from reading the texts side by side rather than from a theory.**
 
 ⚠️ **Brake:** this establishes **which** Daniel text Matthew quotes. It establishes nothing about what Matthew takes it to refer to, and nothing about Antiochus. Those are the next chapter's questions.
 :::

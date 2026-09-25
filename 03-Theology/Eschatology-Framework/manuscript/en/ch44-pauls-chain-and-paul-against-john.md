@@ -6,7 +6,7 @@ tags: [draft-1, part-vii, chapter-44, stage-52, stage-53, pauline-chain, parousi
 reference: "2 Thessalonians 2:1-12, 2:15, 3:17; 1 Thessalonians 4:13-18; 1 Corinthians 15:20-28, 50-57; Romans 6:9; Colossians 1:18; Acts 26:23; Revelation 1:5; Revelation 20:4-6, 20:11-15; Revelation 6:9-11; Revelation 2:11; Revelation 21:8; Matthew 27:51-53; Matthew 24:31"
 created: 2026-09-18
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part VII, Chapter 44. Sources: Stages 52 and 53 and [[02v-pauls-internal-chain]] · [[02w-paul-vs-johns-first-resurrection]]. ★★★ TWO EXHAUSTIVE NEGATIVE SEARCHES: 2 Thessalonians 2:1-12 contains NO resurrection vocabulary (7 terms) and 1 Thessalonians 4:13-18 contains NO transformation vocabulary (7 terms). The three passages DIVIDE the labour rather than overlapping — which supports a single complex AND means no two of them prove each other by their words. ★★★ THE WEAKEST JOINT IN PAUL'S OWN CHAIN IS 2 THESS 2 AGAINST 1 COR 15, held by παρουσία ALONE — the one word this project already established is NOT technical, because Paul uses it of the LAWLESS ONE in the same chapter (2:9). ★★★ THE JOINT CARRYING THE FIRST-CENTURY CONNECTION IS THE ONE WITH NO RESURRECTION LANGUAGE. The load passes through the thinnest point, and an opponent should attack there. ★★★ PAUL ⟷ REVELATION 20:4-6 SHARE ZERO VOCABULARY (8 terms, exhaustive) — a WEAKER evidence class than the Matthew↔Paul link this project already grades lower, even though the structural correspondence FEELS stronger. ★★★ CONTRADICTION 6: Paul has believers who never die; John's verb is ἔζησαν. People who never died cannot COME TO LIFE — not an omission, a verb with NO SLOT for them. ★★★ CONTRADICTION 5: event-indexed vs relational criteria — a believer who died before the beast existed satisfies Paul and CANNOT satisfy John. ★★ q212 NOT RULED ON: accusative τὰς ψυχάς against nominative οἵτινες, no repeated article, seven finite verbs, and the THRONE-SITTERS ARE UNIDENTIFIED — possibly THREE groups. ★★ Rev 6:11's πληρωθῶσιν counts a martyr NUMBER, not a category — it counts AGAINST the purely-literary explanation. ★ q224 DISCHARGED. ★ Acts 26:23's πρῶτος (a PERSON) vs Rev 20:5's πρώτη (an ἀνάστασις) — different claims, no contradiction. ★ CHAIN ARITHMETIC: the weakest joint governs; Matthew↔2 Thess caps everything downstream at PROBABLE. ★ VERDICT: structural VERY STRONG, lexical ZERO, event identity PROBABLE — not HIGH, not closed. ★ Reached WITHOUT starting from Revelation 20 and working backward. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1 — READER-REVIEW REVISION 2026-09-25: evidence changes are listed in SYNC-023; where this summary and the chapter text differ, the text is current. Approved architecture v1.0, Part VII, Chapter 44. Sources: Stages 52 and 53 and [[02v-pauls-internal-chain]] · [[02w-paul-vs-johns-first-resurrection]]. ★★★ TWO EXHAUSTIVE NEGATIVE SEARCHES: 2 Thessalonians 2:1-12 contains NO resurrection vocabulary (7 terms) and 1 Thessalonians 4:13-18 contains NO transformation vocabulary (7 terms). The three passages DIVIDE the labour rather than overlapping — which supports a single complex AND means no two of them prove each other by their words. ★★★ THE WEAKEST JOINT IN PAUL'S OWN CHAIN IS 2 THESS 2 AGAINST 1 COR 15, held by παρουσία ALONE — the one word this project already established is NOT technical, because Paul uses it of the LAWLESS ONE in the same chapter (2:9). ★★★ THE JOINT CARRYING THE FIRST-CENTURY CONNECTION IS THE ONE WITH NO RESURRECTION LANGUAGE. The load passes through the thinnest point, and an opponent should attack there. ★★★ PAUL ⟷ REVELATION 20:4-6 SHARE ZERO VOCABULARY (8 terms, exhaustive) — a WEAKER evidence class than the Matthew↔Paul link this project already grades lower, even though the structural correspondence FEELS stronger. ★★★ CONTRADICTION 6: Paul has believers who never die; John's verb is ἔζησαν. People who never died cannot COME TO LIFE — not an omission, a verb with NO SLOT for them. ★★★ CONTRADICTION 5: event-indexed vs relational criteria — a believer who died before the beast existed satisfies Paul and CANNOT satisfy John. ★★ q212 NOT RULED ON: accusative τὰς ψυχάς against nominative οἵτινες, no repeated article, seven finite verbs, and the THRONE-SITTERS ARE UNIDENTIFIED — possibly THREE groups. ★★ Rev 6:11's πληρωθῶσιν counts a martyr NUMBER, not a category — it counts AGAINST the purely-literary explanation. ★ q224 DISCHARGED. ★ Acts 26:23's πρῶτος (a PERSON) vs Rev 20:5's πρώτη (an ἀνάστασις) — different claims, no contradiction. ★ CHAIN ARITHMETIC: the weakest joint governs; Matthew↔2 Thess caps everything downstream at PROBABLE. ★ VERDICT: structural VERY STRONG, lexical ZERO, event identity PROBABLE — not HIGH, not closed. ★ Reached WITHOUT starting from Revelation 20 and working backward. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
 related: "[[10-manuscript-architecture]], [[02v-pauls-internal-chain]], [[02w-paul-vs-johns-first-resurrection]], [[02u-sequence-test-matthew-24-vs-2-thessalonians-2]], [[02q-caught-up-to-meet-the-lord]]"
 ---
 
@@ -106,7 +106,7 @@ And 1 Thessalonians 4 and 1 Corinthians 15 genuinely share four things: the arri
 
 **"We shall all be changed" is not universal.** The *all* of *in Messiah all shall be made alive* is bounded by *in Messiah* — exactly as the next verse then specifies with *those who belong to Messiah*.
 
-**And firstfruits does not mean first person ever raised.** Romans 6:9: *having been raised from the dead, He dies **no more**; death **no longer** has dominion over Him.* **Twice.** That is the category difference — the earlier restorations returned to mortal life and could die again. ⚠️ **Though the restoration accounts themselves were not read this pass. The contrast is sound; its examples are reported, not verified.**
+**And firstfruits does not mean first person ever raised.** Romans 6:9: *having been raised from the dead, He dies **no more**; death **no longer** has dominion over Him.* **Twice.** That is the category difference. The earlier restorations — Jairus's daughter, who *got up and walked* (Mark 5:42), the widow's son at Nain, who *sat up and began to speak* (Luke 7:15), Lazarus, who *came out* still bound in his graveclothes (John 11:44) — are each a return to ordinary, mortal life. ⚠️ **None of those accounts narrates a later death; that they could die again is the plain implication of mortal life, not a sentence in the text.**
 
 ## Four ways of saying "first," and none of them the same way
 
@@ -124,6 +124,8 @@ And the last row put a problem on the table that I deliberately did not use yet.
 🛑 **I recorded it and handed it forward unused.** Deploying a Revelation-facing datum here — where it would have made the Pauline chain look more finished than it is — would have been decorating one verdict with another argument's evidence.
 
 ## The verdict, differentiated rather than flattened
+
+One term first, because the rest of this Part uses it constantly. By **the Pauline complex** I mean the sequence Paul describes across these three letters taken together — Messiah's **arrival**, the **resurrection** of the dead in Messiah, the **transformation** of the living, and their **gathering** to Him. The question below is how firmly each of Paul's three passages joins that one sequence.
 
 | Link | Grade |
 |------------------------------------|------------------------------------------------|
@@ -204,15 +206,19 @@ Two debts were paid before this comparison started, and both had been declared i
 
 *And I saw thrones, and **they sat** on them, and judgment was given to them, and **the souls** of those beheaded for the testimony of Jesus and for the word of God, **and whoever** did not worship the beast or its image and did not receive the mark… and they lived and reigned with Messiah a thousand years.*
 
+The grammar the table depends on, in plain terms first. Greek marks the job a noun does in its sentence by changing its ending, and each of those forms is called a **case**. The **nominative** is the form for a subject — the one doing something. The **accusative** is the form for an object — the thing something is done to; here, what John *saw*. The **genitive** is roughly the form for *of*.
+
+So the question the table tests is this. John saw *the souls* — in the object form. Then the verse continues *and whoever did not worship* — in the subject form. **Is that second phrase a further description of the same souls, or does it bring in another group?** The change of form is what makes the question real, and it is why this verse has been argued over.
+
 | Element | Form |
 |------------------------------|-----------------------------------------------|
-| <span class="gr">τὰς ψυχάς</span> | ★ **accusative** plural — the object of *I saw* |
-| <span class="gr">τῶν πεπελεκισμένων</span> | genitive plural perfect passive participle |
-| ★ <span class="gr">οἵτινες</span> | ★ **nominative** plural relative pronoun |
+| <span class="gr">τὰς ψυχάς</span> | ★ **accusative** — *the souls*, the object of *I saw* |
+| <span class="gr">τῶν πεπελεκισμένων</span> | genitive — *of those who had been beheaded* |
+| ★ <span class="gr">οἵτινες</span> | ★ **nominative** — *whoever*, a subject opening a new clause |
 | article before it | ❌ **none** — joined by *and* alone |
-| finite verbs in the verse | **seven** |
+| finite verbs — verbs with their own tense and subject — in the verse | **seven** |
 
-❗ **The case mismatch is the heart of the whole dispute, and it is now documented: an accusative object followed by a nominative relative clause, with no repeated article.**
+❗ **The change of case is the heart of the whole dispute, and it is now documented: an object in the accusative, followed by a clause opened in the nominative, with no repeated article to mark whether a second group begins.**
 
 ★ **And there may be three groups, not two, which I had never noticed. *They sat* has no stated subject. John never says who sits on the thrones.** So the verse contains unidentified throne-sitters receiving judgment-authority, the souls of the beheaded, and the beast-resisters — **and whether these are one, two or three populations is not stated by the text.**
 
@@ -224,7 +230,7 @@ Two debts were paid before this comparison started, and both had been declared i
 
 **The same verb, affirmed and then negated. That is what makes the two-stage structure a structure rather than an inference.**
 
-⚠️ **And it is translation-fragile, as this project recorded when the Spanish edition exposed it: one major Spanish tradition breaks the parallel into two different verbs, while another preserves it. A reader of the first may never see the argument this section rests on.**
+⚠️ **And it is translation-fragile. The Reina-Valera 1960, widely read in Spanish-speaking churches, breaks the parallel — *vivieron* at 20:4 against *volvieron a vivir*, *lived again*, at 20:5 — while another Spanish translation keeps it. A reader of the first may never see the argument this section rests on — and an English reader should check that their own translation keeps *lived* and *did not live* as the same verb.**
 
 ## The martyrs, and the number that has to be completed
 

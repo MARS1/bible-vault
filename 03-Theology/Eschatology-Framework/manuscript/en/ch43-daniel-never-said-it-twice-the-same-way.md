@@ -6,7 +6,7 @@ tags: [draft-1, part-vii, chapter-43, stage-51, stage-51h, stage-51q, daniel, an
 reference: "Daniel 7:13-14; Daniel 8:9-14; Daniel 9:24-27; Daniel 11:21-36; Daniel 12:11; Matthew 24:4-31; Mark 13:14-26; Luke 21:20-27; 2 Thessalonians 2:1-12; John 10:22; 1 Maccabees 1:41-64, 4:36-59; 2 Maccabees 6:1-5; Revelation 1:7"
 created: 2026-09-18
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part VII, Chapter 43. Sources: Stages 51, 51¾ and 51½ and [[02s-daniel-antiochus-yeshua-paul]] · [[02t-the-theodotion-recovery]] · [[02u-sequence-test-matthew-24-vs-2-thessalonians-2]]. ★★★ DANIEL USES FOUR FORMS AND TWO NOUNS, NOT ONE FIXED PHRASE — 8:13 uses pesha (transgression), not shiqquts. The recurring thing is a SHAPE, not a title, and Theodotion confirms the distinction survives into Greek. ★★★ ABOMINATION AND DESOLATION ARE DISTINCT: the sh-m-m root is a PARTICIPLE MODIFYING the noun in every case, which blocks three common shortcuts at once — abomination = army, = destruction, = one particular human being. ★★★ THE ANTIOCHUS CONTROL CASE COULD NOT ANSWER ITS OWN DECISIVE QUESTION: the Greek of 1 Maccabees failed after twelve sources, so we do not know which of Daniel's forms the people who lived through it used. AND 1 Maccabees never says what the abomination WAS. ★★★ THE THEODOTION RECOVERY: three failures across three stages were ONE unexamined assumption — Greek Daniel is not a web page but an academic corpus, and the two recensions ship as TWO FILES. The clue was already in the archive, unread. ★★★ q180 CONFIRMED — Theodotion agrees with the Aramaic, the Old Greek is the outlier, and the earlier refusal to accept an agent's assertion is vindicated. ★★★ RECENSION FINGERPRINT: Matthew tracks the OLD GREEK at two independent points; Revelation 1:7 tracks Theodotion at one — BUT Mark and Luke use ἐν, matching NEITHER, and Luke's noun is singular. The brake is printed as prominently as the finding. ★★★ THE SEQUENCE TEST WAS DESIGNED TO FALSIFY AND SURVIVED — and compatible order is NECESSARY, NOT SUFFICIENT: two crises built on the same page of Daniel would also come out in the same order. ★★★ THREE ASYMMETRIES KEPT OPEN, especially Paul's destroyed individual with NO Matthean counterpart. The gap is not filled. ★ BURDEN-OF-DISTINCTION RULE adopted with a four-clause leash; it is the most dangerous rule in the project. ★ MOTIF != IDENTITY; Nebuchadnezzar's arc RESOLVES IN REPENTANCE. ★ WORD STUDY: ἀνομία. ★ No historical candidate is named. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1 — READER-REVIEW REVISION 2026-09-25: evidence changes are listed in SYNC-023; where this summary and the chapter text differ, the text is current. Approved architecture v1.0, Part VII, Chapter 43. Sources: Stages 51, 51¾ and 51½ and [[02s-daniel-antiochus-yeshua-paul]] · [[02t-the-theodotion-recovery]] · [[02u-sequence-test-matthew-24-vs-2-thessalonians-2]]. ★★★ DANIEL USES FOUR FORMS AND TWO NOUNS, NOT ONE FIXED PHRASE — 8:13 uses pesha (transgression), not shiqquts. The recurring thing is a SHAPE, not a title, and Theodotion confirms the distinction survives into Greek. ★★★ ABOMINATION AND DESOLATION ARE DISTINCT: the sh-m-m root is a PARTICIPLE MODIFYING the noun in every case, which blocks three common shortcuts at once — abomination = army, = destruction, = one particular human being. ★★★ THE ANTIOCHUS CONTROL CASE COULD NOT ANSWER ITS OWN DECISIVE QUESTION: the Greek of 1 Maccabees failed after twelve sources, so we do not know which of Daniel's forms the people who lived through it used. AND 1 Maccabees never says what the abomination WAS. ★★★ THE THEODOTION RECOVERY: three failures across three stages were ONE unexamined assumption — Greek Daniel is not a web page but an academic corpus, and the two recensions ship as TWO FILES. The clue was already in the archive, unread. ★★★ q180 CONFIRMED — Theodotion agrees with the Aramaic, the Old Greek is the outlier, and the earlier refusal to accept an agent's assertion is vindicated. ★★★ RECENSION FINGERPRINT: Matthew tracks the OLD GREEK at two independent points; Revelation 1:7 tracks Theodotion at one — BUT Mark and Luke use ἐν, matching NEITHER, and Luke's noun is singular. The brake is printed as prominently as the finding. ★★★ THE SEQUENCE TEST WAS DESIGNED TO FALSIFY AND SURVIVED — and compatible order is NECESSARY, NOT SUFFICIENT: two crises built on the same page of Daniel would also come out in the same order. ★★★ THREE ASYMMETRIES KEPT OPEN, especially Paul's destroyed individual with NO Matthean counterpart. The gap is not filled. ★ BURDEN-OF-DISTINCTION RULE adopted with a four-clause leash; it is the most dangerous rule in the project. ★ MOTIF != IDENTITY; Nebuchadnezzar's arc RESOLVES IN REPENTANCE. ★ WORD STUDY: ἀνομία. ★ No historical candidate is named. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
 related: "[[10-manuscript-architecture]], [[02s-daniel-antiochus-yeshua-paul]], [[02t-the-theodotion-recovery]], [[02u-sequence-test-matthew-24-vs-2-thessalonians-2]], [[02r-what-temple-did-paul-mean]]"
 ---
 
@@ -17,6 +17,8 @@ I had carried *the abomination of desolation* around for years as though it were
 Then I read the four verses in Hebrew, side by side.
 
 ## Four forms, two nouns, and one of them is not the word at all
+
+The question the table answers: **does Daniel's Hebrew use one fixed phrase for this thing — or does the wording move from passage to passage?** The column to watch is the noun, and whether it carries the article, the Hebrew word for *the*.
 
 | Passage | Hebrew | Noun |
 |-------------|----------------------------------|------------------------------------|
@@ -53,7 +55,13 @@ The desolation root functions as a **participle modifying** the noun, in every o
 
 Two more small disciplines. Daniel uses **two different sanctuary words** — one at 8:11, another at 9:26 — and they are not interchangeable. And the article **inverts** between Hebrew and Greek at 11:31 and 12:11, which I recorded as a puzzle and could not then explain. *(It gets explained later in this chapter, from a direction I did not expect.)*
 
-## The control case, and the question it could not answer
+## The control case, and the question it was built to answer
+
+::: person
+**ANTIOCHUS IV EPIPHANES · reigned 175–164 BC**
+
+Greek-speaking king of the Seleucid empire, which then ruled Judea from Syria. Around 167 BC he outlawed Jewish practice, profaned the Jerusalem temple and set pagan sacrifice there, and the Maccabean revolt rose against him. Known chiefly from 1 and 2 Maccabees. **An extra-biblical historical figure** — and whether Daniel's visions describe him, and how far, is the question this section tests rather than assumes.
+:::
 
 Antiochus IV is the historical control case, and the correspondence with Daniel 11 is substantial: ships of Kittim, rage against the holy covenant, forces who profane the sanctuary, the regular offering removed, the desolating thing set up, and those who know their God standing firm.
 
@@ -66,34 +74,36 @@ Every Maccabean statement above is *the text says X* — **a fact about a docume
 
 1 and 2 Maccabees sit in some Christian canons, are not in the Tanakh, and are classed as Apocrypha in Protestant traditions. **This chapter resolves no canonical question**, and does not need to: a witness can be evidentially useful without its canonical status being settled, provided nobody pretends the two questions are the same one.
 
-⚠️ And they were retrieved in **English only**.
+⚠️ The event-profile above was first worked from **English**; the Greek of the decisive verse is below.
 :::
 
-Which brings the control case to the thing it was for, and could not deliver.
+Which brings the control case to the thing it was for.
 
 ::: finding
-**Finding — the decisive question is unanswered, and the failure is the finding**
+**Finding — the people closest to the crisis named it in Daniel's own words**
 
-**Does 1 Maccabees use Daniel's phrase — and if so, in which of Daniel's three Greek forms?**
+**Does 1 Maccabees use Daniel's phrase — and if so, in which of Daniel's Greek forms?**
 
-❌ **Unknown.** The Greek failed after twelve sources. English *desolating sacrilege* preserves no Greek morphology whatever.
+**That was the entire point of the control case** — to learn what the people who actually lived through the crisis called the thing, and whether they used Daniel's exact wording. English *desolating sacrilege* cannot answer it: it preserves nothing of the Greek form. For a long stretch of this investigation the question stood open for exactly that reason. The Greek of 1 Maccabees has since been read.
 
-**That was the entire point of the control case** — to learn what the people who actually lived through the crisis meant by the phrase, and whether they used Daniel's exact wording.
+✅ **1 Maccabees 1:54** — <span class="gr">ᾠκοδόμησεν βδέλυγμα ἐρημώσεως ἐπὶ τὸ θυσιαστήριον</span> — *he built an abomination of desolation upon the altar.*
 
-📌 And note what this means structurally: **the best finding in this chapter and its biggest gap are the same question asked of two different centuries**, and only one of them got an answer.
+❗ **Yes — Daniel's phrase, singular and without the article.** Of the Greek forms set out in the previous chapter, that is the Old Greek of **Daniel 11:31**. **It is not the form with the article — Daniel 12:11's — which Matthew quotes.**
 
-★ **And a second thing the control case would not supply.** 1 Maccabees 1:54 **does not say what the abomination *was*.** Not an idol, not an altar, not a statue, not a sacrifice — the text names none of them there. It says only that it was erected **upon the altar of burnt-offering**, and moves on to the swine and the scrolls.
+⚠️ **The brake:** the same article-less form also turns up in the *other* Greek version of Daniel at 12:11, as this chapter will show. So 1 Maccabees does not tie itself to a single verse of Daniel by its wording alone. What it does establish is narrower and firm: **the people closest to Antiochus's crisis named it in Daniel's words, and Matthew's exact form, article included, is not theirs.**
+
+★ **And a second thing the control case does not supply.** 1 Maccabees 1:54 **does not say what the abomination *was*.** Not an idol, not an altar, not a statue, not a sacrifice — the text names none of them there. It says only that it was *built* — the verb is <span class="gr">ᾠκοδόμησεν</span> — **upon the altar of burnt-offering**, and moves on to the swine and the scrolls.
 
 **Even the closest historical witness leaves the object underspecified.** That is itself a finding, and it cuts against any confident modern assertion about what an abomination of desolation must physically be.
 :::
 
-One thing I am deliberately leaving open: **whether Daniel 11:36 continues describing Antiochus or the horizon shifts.** That is a commentary-level dispute and no retrieval can decide it. Recorded open — ⚠️ **and it must not be settled later on the ground that one answer helps my chronology.**
+One thing I am deliberately leaving open: **whether Daniel 11:36 continues describing Antiochus or the horizon shifts.** That is a commentary-level dispute, and no amount of checking the wording can decide it. Recorded open — ⚠️ **and it must not be settled later on the ground that one answer helps my chronology.**
 
 ## The Synoptics agree about the flight and differ about the sign
 
-All three verified in Greek.
+Matthew, Mark and Luke — the three Gospels that tell this discourse, usually called the Synoptics — all verified in Greek. **The question the table answers: do the three describe the same moment, and exactly where do they part company?** Each row is one element of the passage, followed across all three.
 
-| Beat | Matthew 24 | Mark 13 | Luke 21 |
+| Element | Matthew 24 | Mark 13 | Luke 21 |
 |------------------|------------------------|-----------------------|------------------------|
 | *when you see* | ✅ | ✅ | ✅ |
 | **the sign** | **the abomination of desolation** | **the abomination of desolation** | ★ **Jerusalem surrounded by armies** |
@@ -119,22 +129,28 @@ And two negatives, both confirmed by direct search: **Luke uses the word *abomin
 
 The distinction is textual rather than interpretive, and it is now verified in Greek.
 
-⚠️ **And Mark's grammar is the sharpest single datum in this section, and I am not allowed to use it.** Mark writes *the abomination of desolation **standing** where it ought not* — and **the participle is masculine while the noun is neuter. They disagree.**
+⚠️ **And Mark's grammar is the sharpest single datum in this section, and I am not allowed to use it.**
 
-A masculine participle attached to a neuter noun points toward **someone standing** rather than **something placed**, which would bear directly on everything above.
+It needs one piece of explanation first. Greek nouns carry grammatical gender — masculine, feminine or neuter — and a participle, a verb-form used like an adjective, such as *standing*, normally takes the same gender as the noun it describes. *Abomination*, <span class="gr">βδέλυγμα</span>, is **neuter**. Mark writes *the abomination of desolation **standing** where it ought not* — and his *standing*, <span class="gr">ἑστηκότα</span>, is **masculine. The noun and the participle disagree.**
 
-🛑 **Recorded as an observation only.** A Greek grammar authority is owed before it carries any weight. I do not parse disputed syntax on my own authority, and this is exactly the kind of datum where doing so would be most tempting and least defensible.
+Why that could matter: a writer who makes *standing* masculine may have **someone standing** in mind rather than **something set up** — which would bear directly on everything above.
+
+🛑 **Recorded as an observation only.** A mismatch like this has more than one possible explanation, and deciding among them needs a Greek grammar authority before it carries any weight. The manuscripts do not all agree here either: some printed editions of the Greek give a different form of the participle. I do not parse disputed syntax on my own authority, and this is exactly the kind of datum where doing so would be most tempting and least defensible.
 :::
 
 And one more of my own rules comes back to bite. Luke 21:24 has Jerusalem trampled by the nations **until** the times of the nations are fulfilled — the same *until* construction I have tracked at 1 Corinthians 15:25 and Revelation 20:3. **It guarantees the trampling continues *through* that point. It establishes nothing whatever about what follows.** Any claim about the far side needs independent evidence, and the rule was written long before this verse mattered to me.
 
 Luke also says those are days of vengeance, *to fulfil all that is written* — which is a very large claim about this crisis, made by Luke. **Flagged, not yet worked.**
 
-## The festival, half verified
+## The festival, and the word behind it
 
 John records Yeshua in Jerusalem at *the Dedication*, in winter — and 1 Maccabees describes an annual eight-day observance instituted after the sanctuary was cleansed.
 
-⚠️ **The link is half verified and is recorded that way.** John's Greek word is verified. **1 Maccabees' Greek was never retrieved** — a lane supplied it from memory and graded the pair *verified*. **Rejected.** What stands is that the Gospel names a festival. What does not yet stand is that it is verbally the same word.
+⚠️ **For a long time this link stood half verified, and it was recorded that way.** John's Greek word was verified. 1 Maccabees' word had been supplied from memory and labelled *verified* anyway — **and that label was rejected**, because a word remembered is not a word read. The Greek of 1 Maccabees has since been read.
+
+✅ **John 10:22** has <span class="gr">τὰ ἐγκαίνια</span>. **1 Maccabees** has <span class="gr">ἐγκαινισμός</span> — *the dedication of the altar* at 4:56, and at 4:59 *the days of the dedication*, kept eight days *year by year* — and the verb <span class="gr">ἐγκαινίζω</span>, *to dedicate*, at 4:36.
+
+📐 **So they are the same word family, and not the same word.** The festival John names and the observance 1 Maccabees institutes are linked by a shared root and by what each describes. They are not linked by identical vocabulary, and the link is stated at exactly that strength.
 
 ## A rule about recurrence, with both halves
 
@@ -156,50 +172,50 @@ So Antiochus cannot exhaust every legitimate application of Daniel's language �
 
 ## A ledger of a motif, which is not a chain of identifications
 
+The question this table asks is deliberately small: **does Scripture and its nearest history keep returning to one pattern — a ruler who exalts himself against God and is brought down?** It is not asking whether any two of these rulers are the same.
+
 | Figure | The act | The outcome |
 |--------------------------|--------------------------------------------|-------------------------------------------|
-| **Nebuchadnezzar** | boasts of his own power and glory | humbled — ★ **then acknowledges the Most High and is restored** |
-| **Belshazzar** | ★ profanes **the vessels taken from the Jerusalem temple** | killed that night |
-| **Antiochus IV** | sanctuary and cultic profanation | destroyed |
-| **Herod Agrippa I** | accepts *the voice of a god* | struck down |
-| **Paul's lawless one** | self-exaltation **in Yahweh's sanctuary** | destroyed at the coming |
+| **Nebuchadnezzar** *(Daniel 4:30, 4:34–36)* | boasts of his own power and glory | humbled — ★ **then acknowledges the Most High and is restored** |
+| **Belshazzar** *(Daniel 5:2–4, 5:30)* | ★ drinks from **the vessels taken from the Jerusalem temple** and praises idols | killed that night |
+| **Antiochus IV** *(1 Maccabees 1:21, 1:54, 6:16)* | enters the sanctuary *in arrogance*; cultic profanation | dies |
+| **Herod Agrippa I** *(Acts 12:22–23)* | accepts *the voice of a god* | struck down |
+| **Paul's lawless one** *(2 Thessalonians 2:4, 2:8)* | self-exaltation **in Yahweh's sanctuary** | destroyed at the coming |
 
 🛑 **Motif is not identity.** These five are not one figure, and this is a conceptual category against which Paul's language can be **tested** — nothing more.
 
-❗ **And the partial-parallel brake bites immediately: Nebuchadnezzar's arc resolves in repentance and restoration.** Similarity at departure cannot survive contradiction at resolution. That is precisely why he belongs in a motif register and not in a chain.
+❗ **And the partial-parallel brake bites immediately: Nebuchadnezzar's arc resolves in repentance and restoration.** Similarity at departure cannot survive contradiction at resolution. That is precisely why he belongs in a list of recurring motifs and not in a chain of identifications.
 
-⚠️ **All five rows are reported rather than retrieved in this pass**, except Paul's. **Verify before use** — and I would rather print that sentence than let a tidy table pass as verified work.
+✅ **Every row has been checked against its own text** — Daniel in the Aramaic, 1 Maccabees and Acts in Greek. The table was first drawn up without those texts in hand, and it was not allowed to stand as verified work until each row had been read.
 
 ---
 
-# The debt that failed three times
+# The Greek Daniel I could not find
 
-Four separate findings had been blocked by one missing text: **Theodotion's Greek Daniel.** Three attempts, across three stages, in three different places. All three failed.
+Four separate findings had been blocked by one missing text: **Theodotion's Greek Daniel.** Three times, across three stages, I went looking for it, and three times it did not turn up.
 
-And the diagnosis matters more than the fix.
+A reminder of what it is, because the last mention was two chapters ago. **Daniel survives in two ancient Greek forms: the older Old Greek, and the later revision associated with Theodotion.** Scholars call such distinct forms of one text **recensions**. They differ in wording, and a New Testament writer echoing Daniel in Greek may match one and not the other.
+
+And the reason I kept failing to find it matters more than the finding.
 
 ::: textualnote
-**Textual note — the Theodotion recovery, and why persistence was not the answer**
+**Textual note — why persistence was not the answer**
 
-Every prior attempt went looking for **a reading edition that displays Greek Daniel.**
+**The mistake was in my picture of the text, and I had never examined it.** I had been looking for *the* Greek Daniel as though it were one book with Theodotion's readings somewhere inside it. **It is not one book. The two recensions circulate as two separate texts, published separately under two names.** Looking harder for one book was never going to find the second.
 
-**Two assumptions were wrong, and neither had ever been examined.**
+❗ **And the clue was already in my own work, unread.** Two chapters ago I recorded that the Greek Daniel I was reading gave a distinctive reading, and identified it as **Old Greek from the text's own readings**. The standard critical edition of the Septuagint prints **Theodotion** as its main text of Daniel. **Those two facts sitting together imply that the text I had been reading was not the one that edition prints — and three stages went by without my ever putting them together.**
 
-**One:** that Theodotion would exist as **a reading edition**. It exists as an **academic plain-text corpus** — a morphologically tagged Septuagint, kept where specialists keep such things rather than where a reader would look.
+🆕 **The rule this forces, third in a family:** *failing to find something is not evidence that it does not exist* · *where you look matters as much as what you look for* · and now — **ask what *kind* of text you are looking for.** A text that exists in two forms may be two texts.
 
-**Two:** that *the Greek Daniel* is one text with Theodotion somewhere inside it. **It is not. The corpus ships the two recensions as two separate files, under two names.**
-
-❗ **And the clue was already in my own archive, unread.** Two chapters ago I recorded that a particular source's Daniel gave a distinctive reading, and identified it as **Old Greek from the text's own tell**. The standard critical edition prints **Theodotion** as its main Daniel text. **Those two facts sitting together imply that a different edition tree would yield Theodotion — and three subsequent stages searched without ever combining them.**
-
-🆕 **The rule this forces, third in a family:** *failing to find something is not evidence that it does not exist* · *where you look matters as much as what you look for* · and now — **ask what *kind* of artifact the text is.** Some texts are not web pages, and a text existing in two recensions may be shipped as two files.
-
-**In both of the last two recoveries the fix was not persistence. It was asking a different question about the artifact.**
+**In both of the last two recoveries the fix was not persistence. It was asking a different question about the text itself.**
 :::
 
 And it did not merely fill a gap.
 
 ::: finding
 **Finding — a claim I had let be destabilized was never in real doubt**
+
+The question: in Daniel 7:13, does the son of man come *to* the Ancient of Days and get *presented before* him — or does the text say something else? Three witnesses to the verse, read side by side:
 
 | Witness | Preposition | The second clause |
 |------------------|-------------------|--------------------------------------------|
@@ -211,7 +227,7 @@ And it did not merely fill a gap.
 
 So the claim that Daniel 7:13's son of man is **presented before** the Ancient of Days rather than descending to earth is **confirmed by two of three witnesses**.
 
-📌 **And my earlier handling is vindicated.** It had been asserted to me that the Old Greek said *he approaches the throne*; I rejected the assertion and recorded the divergence **unresolved** rather than smoothing it. **Had I accepted it, this finding would have been invisible** — the Old Greek's genuine oddity would have been erased into agreement, and the two-of-three result could never have appeared.
+📌 **And my earlier handling is vindicated.** It had been claimed that the Old Greek said *he approaches the throne*; I rejected the claim and recorded the divergence **unresolved** rather than smoothing it. **Had I accepted it, this finding would have been invisible** — the Old Greek's genuine oddity would have been erased into agreement, and the two-of-three result could never have appeared.
 :::
 
 ## A fingerprint I was not looking for — and the brake that limits it
@@ -219,12 +235,14 @@ So the claim that Daniel 7:13's son of man is **presented before** the Ancient o
 ::: finding
 **Finding — Matthew and John follow different Greek Daniels**
 
+The question: when Matthew and John each echo Daniel's *coming with the clouds*, whose Greek wording are they closest to? The telltale word is the preposition — *on* the clouds in the Old Greek, *with* them in Theodotion and in the Aramaic.
+
 | | Preposition with the clouds | Matches |
 |------------------------|------------------|--------------------------|
 | **Matthew 24:30** | <span class="gr">ἐπί</span> | ★ **Old Greek** |
 | **Revelation 1:7** | <span class="gr">μετά</span> | ★ **Theodotion / Aramaic** |
 
-And the same split appears independently at the abomination phrase: **Matthew's articular form matches the Old Greek of 12:11**, and **Theodotion's is anarthrous — so Matthew does not match it.**
+And the same split appears independently at the abomination phrase. Two terms help here: a Greek noun phrase that has the article, the word for *the*, is called **articular**; one without it is **anarthrous**. **Matthew's articular form — *the* abomination of *the* desolation — matches the Old Greek of 12:11**, and **Theodotion's is anarthrous, so Matthew does not match it.**
 
 **Two independent data points, same direction.**
 
@@ -245,12 +263,12 @@ The Matthew and Revelation alignments are genuine. **But Mark and Luke show the 
 
 📐 So the claim must be stated at its actual scope: **Matthew's two quotations align with the Old Greek, and Revelation 1:7's preposition aligns with Theodotion.** It may **not** become *the New Testament splits along recension lines*. **It does not.**
 
-⚠️ And a conclusion overruled again: it was reported to me that Mark and Luke *align with the Theodotion tradition or employ* <span class="gr">ἐν</span> *independently*. **Theodotion has *with*, not *in*.** Only the second half of that disjunction survives.
+⚠️ And a conclusion overruled again: it had been claimed that Mark and Luke *align with the Theodotion tradition or employ* <span class="gr">ἐν</span> *independently*. **Theodotion has *with*, not *in*.** Only the second half of that disjunction survives.
 :::
 
 And the recovery closed one of my own open questions in the direction I did not want.
 
-**Theodotion 11:36 uses the same exalting verb as the Old Greek**, plus another — and **neither is Paul's word.** So the chain is now fully mapped and Paul matches **no link in it**: Hebrew, Old Greek, Theodotion, Paul — four steps, four different words. *Paul is quoting Daniel 11:36* is refused against **both** recensions rather than one.
+**Theodotion 11:36 uses the same exalting verb as the Old Greek**, plus another — and **neither is Paul's word.** The Hebrew behind them, read directly this time, has <span class="he">וְיִתְרוֹמֵם וְיִתְגַּדֵּל</span> — *he will exalt himself and magnify himself* — and Paul's word translates neither. So the chain is now fully mapped — Hebrew, Old Greek, Theodotion — and **Paul's word is in no link of it.** *Paul is quoting Daniel 11:36* is refused against **both** Greek versions and the Hebrew rather than against one.
 
 ::: textualnote
 **A near-miss, refused in writing so the refusal outlives the memory of why**
@@ -264,24 +282,28 @@ Theodotion 11:36 contains a word for **arrogant, swollen speech** sitting a few 
 
 ## And Theodotion varies too — which finishes the chapter's first finding
 
+The question this table settles: **is there one fixed phrase in *any* of the three textual traditions — the Hebrew, the Old Greek, or Theodotion?** If the recurring thing were a title, at least one tradition should repeat it word for word.
+
 | Passage | Hebrew | Old Greek | **Theodotion** |
 |-------------|-------------------|---------------------|----------------------------------|
-| **8:13** | *transgression* | ❌ not verified | ★ **<span class="gr">ἁμαρτία</span> — *sin*, not *abomination*** |
+| **8:13** | *transgression* | ★ **<span class="gr">ἁμαρτία ἐρημώσεως</span> — *sin*, not *abomination*** | ★ **<span class="gr">ἁμαρτία ἐρημώσεως</span> — *sin*, not *abomination*** |
 | **11:31** | articular | *abomination of desolation* | ★ **a different desolating word entirely** |
 | **12:11** | anarthrous | **articular** | **anarthrous** |
 
-**Theodotion renders Daniel 8:13's *transgression* as *sin*, not *abomination*. The Hebrew's lexical distinction survives into Greek.** And Theodotion's own two renderings at 11:31 and 12:11 differ from each other.
+**Both Greek versions render Daniel 8:13's *transgression* as *sin*, not *abomination*. The Hebrew's lexical distinction survives into Greek twice over.** And each Greek version's own renderings at 11:31 and 12:11 differ from each other.
+
+⚠️ *The Old Greek at 8:13 was not in hand when this table was first drawn up, and the cell stood empty. It has since been read: <span class="gr">καὶ ἡ ἁμαρτία ἐρημώσεως ἡ δοθεῖσα</span>. It confirms the row rather than changing it.*
 
 📐 **So there is no fixed phrase in any of the three textual traditions.** *The abomination of desolation* is a recurring **shape**, not a title — and that is now established in Hebrew, in the Old Greek, and in Theodotion.
 
 ::: textualnote
 **An edition mismatch this recovery introduces, declared rather than absorbed**
 
-The Old Greek in every comparison above comes from one edition; the Theodotion comes from another. **These are two different editions**, and the Old Greek file sitting in the same corpus as the Theodotion one **was not downloaded.**
+The Old Greek in every comparison above was read in one modern edition; the Theodotion was read in another. **These are two different editions**, and the same publisher's Old Greek had not yet been consulted beside its Theodotion.
 
-The findings are almost certainly robust to this — the preposition and article differences are the standard, well-attested distinctions between the recensions rather than edition quirks.
+The findings are almost certainly robust to this — the preposition and article differences are the standard, well-attested distinctions between the recensions rather than quirks of one edition.
 
-🛑 **But *almost certainly* is not a verification**, and I have rejected that exact phrasing from my own agents twice. A same-corpus comparison is owed before any of this is leaned on harder.
+🛑 **But *almost certainly* is not a verification**, and I have refused that exact phrasing twice in this investigation. A comparison within a single edition is owed before any of this is leaned on harder.
 :::
 
 ---
@@ -332,7 +354,7 @@ So it was verified before being used. It is now confirmed in Greek.
 
 **And the second lexical link is stronger still.** Matthew 24:24 has *great **signs and wonders**, so as to lead astray, if possible, even the elect.* 2 Thessalonians 2:9 has *all power and **signs and lying wonders***.
 
-★★ **Identical lexemes, different cases — and in both, the function is deception immediately preceding Messiah's intervention.** That is the strongest single correspondence the two passages possess.
+★★ **The same two words, in different grammatical forms — and in both, the function is deception immediately preceding Messiah's intervention.** That is the strongest single correspondence the two passages possess.
 
 **The third is the gathering family**, carried from earlier — and still held under the finding that it is **not inherently eschatological.**
 
@@ -419,9 +441,9 @@ And the sequence test gave me less than it felt like it gave me. Three genuine s
 The last one is the honest one. **Paul kills somebody. Matthew does not.** I do not know what to do with that yet, and I would rather write that sentence down than fill the hole with something convenient.
 
 ::: whereweare
-**Where we are.** Daniel has no fixed phrase — four forms, two nouns, and a recurring shape rather than a title, now confirmed in Hebrew and in both Greek recensions. Abomination and desolation are grammatically distinct, which blocks three shortcuts at once. The Antiochus control case confirmed the event-profile and failed to answer the one question it existed for, and even it never says what the abomination was. The Synoptics share the flight and differ on the sign, and Luke says the armies are the sign that desolation has drawn near rather than the thing itself. Theodotion, after three failures, confirmed that Daniel's son of man is presented before the Ancient of Days, refused Paul's supposed quotation against both recensions, and produced a recension fingerprint that Mark and Luke immediately limited. And Matthew and Paul survived a sequence test built to kill them — which establishes compatibility, not identity, with three asymmetries still standing and one of them unanswered.
+**Where we are.** Daniel has no fixed phrase — four forms, two nouns, and a recurring shape rather than a title, now confirmed in Hebrew and in both Greek recensions. Abomination and desolation are grammatically distinct, which blocks three shortcuts at once. The Antiochus control case confirmed the event-profile, and once its Greek was read it answered the question it existed for: the people closest to the crisis named it in Daniel's words, though not in Matthew's exact form — and even they never say what the abomination was. The Synoptics share the flight and differ on the sign, and Luke says the armies are the sign that desolation has drawn near rather than the thing itself. Theodotion, after three failures, confirmed that Daniel's son of man is presented before the Ancient of Days, refused Paul's supposed quotation against both recensions, and produced a recension fingerprint that Mark and Luke immediately limited. And Matthew and Paul survived a sequence test built to kill them — which establishes compatibility, not identity, with three asymmetries still standing and one of them unanswered.
 :::
 
 ::: earned
-**What it earned.** A phrase demoted to a shape, trilingually. A debt discharged by asking a different question about the artifact rather than trying harder. A confirmation of an earlier refusal — the finding only existed because I had declined to accept an agent's assertion. A near-miss refused in writing so the refusal outlives the reason. A falsification test passed with its own limit printed beside it. And a hole left open where a convenient answer was available and would have fit.
+**What it earned.** A phrase demoted to a shape, trilingually. A debt discharged by asking a different question about the artifact rather than trying harder. A confirmation of an earlier refusal — the finding only existed because I had declined to accept a claim I could not check. A near-miss refused in writing so the refusal outlives the reason. A falsification test passed with its own limit printed beside it. And a hole left open where a convenient answer was available and would have fit.
 :::

@@ -6,7 +6,7 @@ tags: [draft-1, part-vii, chapter-45, stage-54, stage-54h, stage-54sevenEighths,
 reference: "Revelation 19:15, 19:19-21, 20:1-10; Revelation 2:20, 12:9, 13:11-18, 14:9-12, 16:2, 18:23; Revelation 21:24, 21:26, 22:2, 15:3-4; Revelation 12:17, 13:7, 13:10, 14:12, 17:1-2, 21:8, 22:15; Matthew 12:29; Mark 3:27; Luke 11:21-22; Isaiah 11:4; 2 Thessalonians 2:8; Hebrews 2:14; 1 Corinthians 15:26; Acts 22:25-29, 25:10-12, 5:29; Matthew 22:15-22; Philippians 3:20"
 created: 2026-09-18
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part VII, Chapter 45. Sources: Stages 54, 54½ and Side Branch 54⅞ and [[02x-what-starts-the-thousand-years]] · [[02z-deception-scope-and-the-allegiance-control]]. ★★★ THE HEADLINE GOES AGAINST THE PROJECT: Revelation 20:2's ἔδησεν is the SAME VERB as Matthew 12:29 / Mark 3:27's strong-man binding. The reading being argued AGAINST has one shared lexeme with Revelation 20; the reading being argued FOR has ZERO. Recorded at full strength BECAUSE it is inconvenient. ★★★ BRAKES STATED EQUALLY HONESTLY: δέω is a very common verb (weak lexical class), Matthew's object is a PARABLE's strong man, Revelation stacks FIVE verbs plus a duration and a sealed abyss, and LUKE USES νικάω — the Synoptics split a third time. ★★★ A LANE CONTRADICTED ITS OWN DATA TABLE — third instance → NEW RULE: verify a report AGAINST ITSELF; a lane's data is reliable, its conclusion drifts toward expectation. ★★★ PAUL TRACKS LXX ISAIAH 11:4 (ἀνελεῖ identical in form); REVELATION DOES NOT (ῥομφαία is in neither the Hebrew nor the LXX). The mouth-weapon correspondence is DOWNGRADED, not promoted — they share only στόμα, a body part. ★★★ THE EXHAUSTIVE πλανάω SWEEP (22 chapters, 8 occurrences): the dominant result is IDOLATROUS ALLEGIANCE AND FALSE WORSHIP; MILITARY GATHERING APPEARS AT 20:8 ONLY — war is where it ENDS, not what it IS. ★★★ ἔτι at 20:3 sits between verb and object and modifies the DECEIVING — therefore he WAS deceiving, and the binding marks a CHANGE OF STATE. ★★★ THE ARGUMENT THAT ACTUALLY WORKS IS A CONTENT ARGUMENT, NOT A SEQUENCE ARGUMENT: Revelation removes EVERY named national-scale deceiver before the interval — beast and false prophet thrown in ALIVE at 19:20, Babylon fallen, then the dragon bound. ★★ TWO SIMULTANEOUS START MARKERS; any model must satisfy BOTH. ★★ τὰ ἔθνη is NOT a fixed moral category (15:3-4, 21:24, 21:26, 22:2) — second confirmed Revelation noun with opposite valences. ★★ THE ALLEGIANCE CONTROL: the mark's administering agent is removed before the interval and NEVER released — under H1, H2 and H3 alike he is not operating. Structural argument, NOT reassurance. ★★ Worship is present in EVERY mark passage (six, conjunction by conjunction); 13:15's penalty for refusing worship is DEATH, not exclusion from shopping. ★ RC-01 tagged and immediately fenced as half-verified. ★ φαρμακεία is not modern pharmaceuticals. ★ No candidate, no name, no date, no Josephus, no arithmetic. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 1 — READER-REVIEW REVISION 2026-09-25: evidence changes are listed in SYNC-023; where this summary and the chapter text differ, the text is current. Approved architecture v1.0, Part VII, Chapter 45. Sources: Stages 54, 54½ and Side Branch 54⅞ and [[02x-what-starts-the-thousand-years]] · [[02z-deception-scope-and-the-allegiance-control]]. ★★★ THE HEADLINE GOES AGAINST THE PROJECT: Revelation 20:2's ἔδησεν is the SAME VERB as Matthew 12:29 / Mark 3:27's strong-man binding. The reading being argued AGAINST has one shared lexeme with Revelation 20; the reading being argued FOR has ZERO. Recorded at full strength BECAUSE it is inconvenient. ★★★ BRAKES STATED EQUALLY HONESTLY: δέω is a very common verb (weak lexical class), Matthew's object is a PARABLE's strong man, Revelation stacks FIVE verbs plus a duration and a sealed abyss, and LUKE USES νικάω — the Synoptics split a third time. ★★★ A LANE CONTRADICTED ITS OWN DATA TABLE — third instance → NEW RULE: verify a report AGAINST ITSELF; a lane's data is reliable, its conclusion drifts toward expectation. ★★★ PAUL TRACKS LXX ISAIAH 11:4 (ἀνελεῖ identical in form); REVELATION DOES NOT (ῥομφαία is in neither the Hebrew nor the LXX). The mouth-weapon correspondence is DOWNGRADED, not promoted — they share only στόμα, a body part. ★★★ THE EXHAUSTIVE πλανάω SWEEP (22 chapters, 8 occurrences): the dominant result is IDOLATROUS ALLEGIANCE AND FALSE WORSHIP; MILITARY GATHERING APPEARS AT 20:8 ONLY — war is where it ENDS, not what it IS. ★★★ ἔτι at 20:3 sits between verb and object and modifies the DECEIVING — therefore he WAS deceiving, and the binding marks a CHANGE OF STATE. ★★★ THE ARGUMENT THAT ACTUALLY WORKS IS A CONTENT ARGUMENT, NOT A SEQUENCE ARGUMENT: Revelation removes EVERY named national-scale deceiver before the interval — beast and false prophet thrown in ALIVE at 19:20, Babylon fallen, then the dragon bound. ★★ TWO SIMULTANEOUS START MARKERS; any model must satisfy BOTH. ★★ τὰ ἔθνη is NOT a fixed moral category (15:3-4, 21:24, 21:26, 22:2) — second confirmed Revelation noun with opposite valences. ★★ THE ALLEGIANCE CONTROL: the mark's administering agent is removed before the interval and NEVER released — under H1, H2 and H3 alike he is not operating. Structural argument, NOT reassurance. ★★ Worship is present in EVERY mark passage (six, conjunction by conjunction); 13:15's penalty for refusing worship is DEATH, not exclusion from shopping. ★ RC-01 tagged and immediately fenced as half-verified. ★ φαρμακεία is not modern pharmaceuticals. ★ No candidate, no name, no date, no Josephus, no arithmetic. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
 related: "[[10-manuscript-architecture]], [[02x-what-starts-the-thousand-years]], [[02z-deception-scope-and-the-allegiance-control]], [[02w-paul-vs-johns-first-resurrection]], [[02g-satan-cast-down-vs-satan-bound]]"
 ---
 
@@ -51,29 +51,31 @@ Now the brakes, stated with the same care as the finding.
 📐 **So: a genuine lexical link, of a weak class. It does not establish identity.** But it does mean my rejection has to stand on grounds I actually tested — and it did not, until later in this chapter.
 
 ::: textualnote
-**A delegated report contradicted its own table, and it becomes a rule**
+**A summary contradicted its own table, and it becomes a rule**
 
-The data table I was handed reported <span class="gr">δέω</span> at Matthew 12:29 and Mark 3:27. **Its conclusion then stated that these do *not* use the same binding verb as Revelation 20:2, and called them "lexically distinct."**
+The comparison I was working from listed <span class="gr">δέω</span> at Matthew 12:29 and Mark 3:27. **Its own conclusion then stated that these do *not* use the same binding verb as Revelation 20:2, and called them "lexically distinct."**
 
-❌ **False — and false against its own data table twelve lines earlier.**
+❌ **False — and false against its own table, a few lines earlier.**
 
-❗ **Third instance of the same failure mode**: a fabricated Greek word graded as a match; a report claiming Mark and Luke "align with the Theodotion tradition" when Theodotion has a different preposition entirely; and now this.
+❗ **Third instance of the same failure**: a Greek word attributed to a verse that does not contain it and counted as a match; a claim that Mark and Luke "align with the Theodotion tradition" when Theodotion has a different preposition entirely; and now this.
 
-🆕 **The rule: a delegated report's summary is the least reliable part of it. The data is usually right; the conclusion drifts toward what the researcher expected to find. Check the conclusion against the table. Every time.**
+🆕 **The rule: a summary is the least reliable part of any comparison. The data is usually right; the conclusion drifts toward what was expected. Check the conclusion against the table. Every time.**
 :::
 
 ## Paul is tracking Isaiah. Revelation is not.
 
 I had been about to promote a correspondence between Paul's lawless one being destroyed *by the breath of His mouth* and Revelation's rider with a sword *from His mouth*. Both mouths, both weapons, obviously the same background.
 
+So the question for the table: **do Paul and Revelation actually take their mouth-weapon wording from Isaiah 11:4 — and from which form of it?**
+
 | | Weapon words |
 |--------------------------|--------------------------------------------------------|
 | **Isaiah 11:4, Hebrew** | <span class="he">שֵׁבֶט פִּיו</span> *(rod of his mouth)* · <span class="he">רוּחַ שְׂפָתָיו</span> *(breath of his lips)* |
-| **Isaiah 11:4, Greek** | *he will strike the earth with the **word** of his **mouth**… with a **spirit** through his lips he will **destroy** the wicked* |
-| ★ **2 Thessalonians 2:8**| *whom the Lord Jesus will **destroy** by the **spirit** of His **mouth*** |
+| **Isaiah 11:4, Greek** | <span class="gr">πατάξει γῆν τῷ λόγῳ τοῦ στόματος αὐτοῦ καὶ ἐν πνεύματι διὰ χειλέων ἀνελεῖ ἀσεβῆ</span> — *he will strike the earth with the **word** of his **mouth**, and with a **spirit** through his lips he will **destroy** the wicked* |
+| ★ **2 Thessalonians 2:8**| <span class="gr">ὃν ὁ κύριος Ἰησοῦς ἀνελεῖ τῷ πνεύματι τοῦ στόματος αὐτοῦ</span> — *whom the Lord Jesus will **destroy** by the **spirit** of His **mouth*** |
 | **Revelation 19:15, 21** | a <span class="gr">ῥομφαία</span> **from His mouth** |
 
-❗❗ **Paul's verb is the Greek Isaiah's verb — identical word, identical form** — plus *spirit*, plus *mouth* drawn from Isaiah's first clause. **Paul fuses Isaiah's two halves into one phrase.**
+❗❗ **Paul's verb is the Greek Isaiah's verb — <span class="gr">ἀνελεῖ</span>, identical word, identical form** — plus *spirit*, plus *mouth* drawn from Isaiah's first clause. **Paul fuses Isaiah's two halves into one phrase.**
 
 ❗ **And Revelation's sword-word is in neither the Hebrew nor the Greek of Isaiah 11:4.**
 
@@ -108,7 +110,7 @@ I had been about to define the binding's scope as *hostile mobilization*, on the
 
 ✅ **And one small grammatical fact carries real weight.** The word *any longer* sits **between the verb and its object**: *that he not deceive **any longer** the nations.* **It modifies the deceiving, not the restraint.**
 
-❗ **Therefore he *was* deceiving them. The binding marks a change of state** — which is exactly what I had demanded of any candidate marker before I knew what the answer would be. ⚠️ *It was glossed to me as "a continuation of an existing restraint." That reverses the grammar, and it is rejected.*
+❗ **Therefore he *was* deceiving them. The binding marks a change of state** — which is exactly what I had demanded of any candidate marker before I knew what the answer would be. ⚠️ *One gloss offered for it was "a continuation of an existing restraint." That reverses the grammar, and it is rejected.*
 
 And the purpose construction is a purpose, not a hope. The English *so that he might not deceive* can sound like uncertainty — *perhaps he will not*. **The Greek carries no hesitancy.** ⚠️ **But its limit travels with it: that fixes the *purpose* of the confinement, not the *scope* of the deceiving.**
 
@@ -144,7 +146,7 @@ Thirteen occurrences of *the nations*, and they run both directions.
 
 📌 This is the second Revelation noun this project has found carrying opposite valences in different contexts. **Two instances makes it a characteristic of the book rather than a curiosity.**
 
-★ And a lexical detail I am recording rather than using: **the dragon at 12:9 deceives *the inhabited world*, not *the nations*. Different words.** ⚠️ *And Matthew 24:14 uses that same inhabited-world noun with the same modifier. Flagged for audit. Not offered as a link.*
+★ And a lexical detail I am recording rather than using: **the dragon at 12:9 deceives *the inhabited world*, not *the nations*. Different words.** ⚠️ *And Matthew 24:14 uses that same inhabited-world noun with the same modifier. Noted for later study. Not offered as a link.*
 
 ## What is actually established about the start
 
@@ -177,13 +179,13 @@ Thirteen occurrences of *the nations*, and they run both directions.
 ::: textualnote
 **RC-01 — tagged and fenced in the same paragraph that created it**
 
-Revelation 16 has three unclean spirits going out to the kings to gather them **for the war**. Revelation 20:8 has Satan deceiving the nations **to gather them for the war**. Same machinery, two places — which would be the first concrete test case for whether Revelation's visions recapitulate rather than run in sequence.
+Revelation 16 has three unclean spirits going out to the kings to gather them **for the war**. Revelation 20:8 has Satan deceiving the nations **to gather them for the war**. Same mechanism, two places — which would be the first concrete test case for whether Revelation's visions recapitulate rather than run in sequence.
 
-🏷️ **Recorded as recapitulation candidate RC-01. Not established, not promoted.**
+🏷️ **Recorded as recapitulation candidate RC-01 — *recapitulation* meaning that a later vision may return to the same events as an earlier one rather than moving on to new ones. Not established, not promoted.**
 
-⚠️⚠️ **And an honest gap: 20:8 is verified in Greek. 16:13–14 is not — it is reported, not verified.**
+⚠️⚠️ **And an honest gap: at this point 20:8 was verified in Greek and 16:13–14 was not.**
 
-🛑 **RC-01 rests on one verified half and one unverified half, which is exactly the shape the Hanukkah link was downgraded for two chapters ago. It may not be argued from until the other half is retrieved.** Recorded now, before anything leans on it — because the alternative is finding out three chapters later that something load-bearing was half-built.
+🛑 **RC-01 rested on one verified half and one unverified half — exactly the shape the festival link was held down for two chapters ago. It may not be argued from until the other half is read.** Recorded now, before anything leans on it, because the alternative is finding out three chapters later that something load-bearing was half-built. *(The other half is read in the next chapter, and it enlarges the question rather than closing it.)*
 :::
 
 ## A question that dissolves, and a result that cuts both ways
@@ -240,7 +242,7 @@ Then I looked at **who hands the mark out.**
 
 ✅ **He and the beast are thrown into the lake of fire *alive*, at 19:20 — before the angel descends in 20:1.**
 
-✅ **And when the devil is thrown in after the thousand years, the text pauses to say the beast and the false prophet are *already there*.**
+✅ **And when the devil is thrown in after the thousand years, 20:10 names the lake as the place *where the beast and the false prophet* — <span class="gr">ὅπου καὶ τὸ θηρίον καὶ ὁ ψευδοπροφήτης</span>.** ⚠️ *The Greek there has no verb at all, and no word for* already. *That the two are still in the lake follows from 19:20, which threw them in — a strong inference from the order of the narrative, and not a sentence the verse itself contains.*
 
 ✅ **An exhaustive search of Revelation 20:1–15 for any release, return, or action of the beast or false prophet returns nothing. Satan is released at 20:7. They are not.**
 
@@ -302,5 +304,5 @@ I did not go looking for that. I went looking for what starts the thousand years
 :::
 
 ::: earned
-**What it earned.** A test run with every incentive to skip it, lost, and printed in the headline position. A promotion turned into a downgrade by one retrieval. A rule corrected by the sweep that was run to support it. A conclusion kept while its proof was thrown away. A candidate fenced in the same paragraph that created it. And a frightened question answered by counting conjunctions rather than by reassurance — which is the only kind of answer that would have survived if the count had gone the other way.
+**What it earned.** A test run with every incentive to skip it, lost, and printed in the headline position. A promotion turned into a downgrade by one look at the Greek. A rule corrected by the sweep that was run to support it. A conclusion kept while its proof was thrown away. A candidate fenced in the same paragraph that created it. And a frightened question answered by counting conjunctions rather than by reassurance — which is the only kind of answer that would have survived if the count had gone the other way.
 :::

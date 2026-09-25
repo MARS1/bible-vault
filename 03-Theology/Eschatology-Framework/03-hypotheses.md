@@ -43,7 +43,7 @@ Ideas explored, not established facts. Held loosely, deliberately kept out of [[
 - ❗ **q384 — Satan's binding cannot carry the dating burden;** its signature is satisfied by nearly any pre-Gog century
 - ❗ **The first resurrection therefore carries the entire dating weight alone,** and it is the component leaving the fewest traces
 - ❌ **The beast and false prophet remain unidentified (q332)**
-- ❌ **q362 — Irenaeus 5.30.3 still unread** · ❌ **q194/q377 — the seven-hills claim still unsourced**
+- ✅ **q362 — Irenaeus 5.30.3 READ 2026-09-25 (S116): *towards the end of Domitian's reign* — as Eusebius quoted it; late-date counterevidence unchanged, Greek still unchecked** · ❌ **q194/q377 — the seven-hills claim still unsourced**
 
 > ### 📐 **PF-01 IS HELD AT *SUPPORTS*: THE ACCUMULATED TEXTUAL EVIDENCE FAVOURS A FIRST-CENTURY ESCHATOLOGICAL TRANSITION INTO REVELATION 20's REIGN, AND EXPLAINS MORE OF THE DATA MORE NATURALLY THAN THE ALTERNATIVES EXAMINED.**
 >

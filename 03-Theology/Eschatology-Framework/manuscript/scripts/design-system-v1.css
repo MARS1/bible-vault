@@ -113,11 +113,27 @@ div.chain p     { text-align: center; margin-bottom: 0.3em; }
    rules existed at all — tables inherited browser defaults plus the body's
    `hyphens: auto`. Fixed as a system rule, not per page. */
 table { width: 100%; border-collapse: collapse; margin: 0.9em 0;
-        font-size: 10pt; line-height: 1.4; hyphens: none; }
+        font-size: 9.6pt; line-height: 1.38; hyphens: none; }
 th, td { text-align: left; vertical-align: top;
-         padding: 0.32em 0.9em 0.32em 0;
+         padding: 0.28em 0.85em 0.28em 0;
          border-bottom: 1px solid #dcdfe2;
          overflow-wrap: normal; word-break: normal; hyphens: none; }
+
+/* LAYOUT-003 -- a table's meaning lives in the ROW. Part VI rendered row 7 of
+   the trumpet/bowl table with its number and Bowl cell on one page and its
+   Trumpet cell on the next, and the Part VII scorecard stranded a single
+   "strong" at the foot of a page, cut off from the pair it graded. Every text
+   gate passed both: pdftotext reports the words present, and they were.
+   So, as system rules rather than per-table patches:
+     - a row never splits across a page; if it will not fit, the whole row moves
+     - the header repeats on every continuation page
+     - the header is never left alone at the foot of a page
+   A table may still break -- between complete rows only.
+   Enforced on every build by check-table-breaks.py, which walks WeasyPrint's
+   rendered page boxes -- never by text extraction, which cannot see this. */
+tr, th, td { break-inside: avoid; page-break-inside: avoid; }
+thead { display: table-header-group; break-after: avoid; page-break-after: avoid; }
+thead tr { break-after: avoid; page-break-after: avoid; }
 th { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 8.5pt;
      font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;
      color: #3d4247; border-bottom: 1px solid #9aa0a6;
@@ -131,7 +147,7 @@ td:last-child, th:last-child { padding-right: 0; }
 div.textualnote table, div.wordstudy table, div.historical table,
 div.evidence table, div.claimtypes table, div.finding table,
 div.openquestion table, div.commentary table {
-  font-size: 8.8pt; line-height: 1.36;
+  font-size: 8.6pt; line-height: 1.34;
   /* Reclaim the callout's own side padding. A four-column technical table
      needs the width more than the box needs the inset. */
   margin-left: -0.8em; margin-right: -0.8em; width: calc(100% + 1.6em);
@@ -226,6 +242,11 @@ table .gr, table .he { font-size: 1.1em; line-height: 1.5; }
   font-variant: normal !important;
 }
 .he { direction: rtl; unicode-bidi: embed; font-size: 1.1em; }
+
+/* Scope labels (ENGLISH-SPECIFIC, SPANISH-SPECIFIC) are set as code spans. They
+   are identifiers, not prose: body hyphenation split one as "ENGLISH-SPE- /
+   CIFIC" in Part VII. They never break. */
+code { hyphens: none; white-space: nowrap; }
 
 /* ---------- lists: used sparingly, when structure IS the point ---------- */
 ul, ol { margin: 0.9em 0 1em; padding-left: 1.3em; }
