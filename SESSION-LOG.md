@@ -145,3 +145,31 @@ Running log of working sessions. Append after every session — never overwrite.
 **Tests:** n/a (vault). Render gate run fresh at close: 3 builds, 0 mojibake, 0 sections missing, ES register 0/0.
 
 **Commits:** `a6ac4d4` `2384fad` `6a85f94` `4307b29` `442f557` `bd1b6c3` `e74244e` `bf7b587` `f25258f` `d330195` `cf416e1` `6cc1618` `28db03f` `4b0696f` (+ this entry's own commit) · KodeArk `4582420`
+
+---
+
+## 2026-09-11 → 21 — not logged here
+
+Sessions across these dates (Parts II–VIII drafted in both editions, the Parts VI–VII integrity audits, the REV20-REST-DEAD-001 investigation, the Part IX sequencing gate) closed without a log entry after OS crashes and restarts broke the session chain. **All of it is committed and pushed — `git log --since=2026-09-11 --until=2026-09-22` is the record.**
+
+---
+
+## 2026-09-23 → 26 — Part VII reader review: revised, verified, frozen as d1-reader1
+
+**What we did:**
+- Recovered after OS restarts. Found the push state clean and three Sep-10 beads stale (EN Part III and ES Part II had long been drafted) — closed. Beads that describe a phase the project has left will keep lying until someone reads them against the files.
+- Author completed his own reader review of EN Part VII `d1-integrity2` and sent one consolidated brief. Revised **EN ch40–46 only**: reader-language definitions at first use (Septuagint, parousia, cases, articular/anarthrous, simplex, recension, isopsephy, PF-01, the Pauline complex…), research machinery scrubbed from reader prose, a stated question before every technical table, Antiochus capsule, ch46 retitled.
+- **Verified every obtainable "not verified" witness from raw primary text rather than through summarizing tools** — MorphGNT (SBLGNT with lemmas) for exhaustive NT sweeps, the SBLGNT apparatus, CCAT LXX files through a Beta Code converter validated against readings the archive already held, Sefaria, and the ANF Irenaeus. Ledger S111–S116.
+- Fixed BIBLE-elf in EN (20:10 has no verb and no ἤδη; presence in the lake is inference from 19:20).
+- Tables: rows split across pages (LAYOUT-003) fixed in CSS; a boxed "?" arrow in the reviewed PDF (LAYOUT-004) traced to Pandoc's U+FE0E and fixed in the build; ADR-0012 makes rendered-layout integrity a build gate.
+- Committed `a72175f`, snapshot `d1-reader1` (`c35e653`), pushed.
+
+**Key decisions:**
+- **Verification changed findings, and each change is printed rather than absorbed.** 1 Macc 1:54 read in Greek answers a question ch43 called unanswerable (Daniel's phrase, anarthrous — not Matthew's form). Three sentences were wrong and are corrected: Dan 7:21 OG differs from Rev 13:7 in the verb, not "exactly the preposition"; "four steps, four different words" contradicted itself; ch46's scoring row said "no source" for persecution Part VI had already sourced. No verdict reversed.
+- **Irenaeus 5.30.3 read before freezing, per the author**: it says what the Eusebius quotation said. Checked for material impact on PF-01 before snapshotting — none — so the freeze proceeded. Greek still unchecked.
+- **Layout is part of build correctness (ADR-0012).** The checker was validated failing on the reviewed render and passing on the fix before it became a gate. Parts I–VI and VIII deliberately not re-rendered.
+- **ES Part VII blocked** until the author and his reviewer approve `d1-reader1`; its evidence debts are in SYNC-023, not in translated prose.
+
+**Tests:** build gates on the snapshot — 230 pp, 39,555/39,577 words recovered, 0 mojibake, 0 sections missing, terminology 0, all source text wrapped, table layout 0 split / 0 orphan; `test-build-checks.py` all pass.
+
+**Commits:** `a72175f` `c35e653` `bee71df` (+ this entry's own commit)
