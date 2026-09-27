@@ -34,6 +34,7 @@
 - Use `[[wiki links]]` for internal cross-references
 - Follow the frontmatter standard in LLM-CONTEXT-GUIDE.md
 - Cross-reference with [[MARKETING]], [[MARS-LIFE]] for spiritual/practical integration
+- Before presenting open beads as upcoming work, check each one against the current files. Beads created in an earlier phase can describe work that has since been done. *(2026-09-23: "draft EN Part III" was listed as open work though Part III had been written long before.)*
 
 
 <!-- BEGIN BEADS INTEGRATION v:1 profile:minimal hash:ca08a54f -->
