@@ -115,7 +115,7 @@ The number is supposed to be the clinching evidence, so I did the only honest th
 
 **One ruler, two attested spellings, and the gap between the two numbers is precisely the letter that differs between the two names.**
 
-🆕 **And it passes the rule a reader forced me to write.** The question was: *are you measuring with the same ruler?* **Alternative numerical readings must be tested under the same letter-number system. Historically attested spellings may vary. The system may not be switched to obtain a desired total.** The calculation survives the stating.
+🆕 **And it passes a rule I had to set for myself before running the numbers.** The question was: *are you measuring with the same ruler?* **Alternative numerical readings must be tested under the same letter-number system. Historically attested spellings may vary. The system may not be switched to obtain a desired total.** The calculation survives the stating.
 :::
 
 **Then I did the same sum in Greek, because the book is written in Greek and Greek counts with its letters too.** The practice is called **isopsephy** — the Greek counterpart of the Hebrew letter-counting, *gematria*, met in Part VI: every letter has a number value, and a word's value is the sum of its letters.
@@ -391,7 +391,9 @@ Twice now I have written something up as a fresh catch and then found it already
 
 # The standard was already written
 
-A reader asked me the question I had been answering badly: **what would it take, and does anything short of proof entitle a person to believe?** Every time he asked, I handed him another stage.
+A question had been sitting underneath the investigation for some time: **what would it take, and does anything short of proof entitle a person to believe?**
+
+I had kept testing the hypothesis without stopping to state clearly what standard of evidence would justify holding it as a conviction.
 
 So I searched my own files, and the answer was sitting there, dated weeks before any of this evidence existed.
 
@@ -420,7 +422,21 @@ And I owe the reader a plainer admission than I had been making.
 ::: finding
 **Finding — this investigation never required proof, and never said it did**
 
-**Every ledger in it grades its findings. *Established. Strongly supported. Probable. Open. Refused.* Those are graded convictions, recorded as such.**
+**Every ledger in it grades its findings:**
+
+**ESTABLISHED**
+↓
+**STRONGLY SUPPORTED**
+↓
+**PROBABLE**
+↓
+**OPEN**
+↓
+**REFUSED**
+
+**Those are graded convictions, recorded as such.**
+
+📐 **These are two different scales, not one.** *CONTRADICTS → PERMITS → SUPPORTS → REQUIRES* describes how a particular body of evidence bears on a claim. *Established / strongly supported / probable / open / refused* describes the resulting status of a finding once that evidence has been weighed. The two are related — a finding's status comes from weighing its evidence — but neither converts mechanically into the other, and this book never treats them as interchangeable.
 
 It says **probable** about Matthew against 2 Thessalonians. It says **high** about Paul's internal chain. It says **very high** about the shared thousand-year interval. **Those are beliefs with labels on them.**
 
@@ -430,7 +446,7 @@ It says **probable** about Matthew against 2 Thessalonians. It says **high** abo
 
 **The refusals were never *you may not believe this*. They were *this is not the kind of evidence you just called it*.**
 
-✅ **And the reader's central point is right and is adopted: SUPPORTS is enough to hold a conviction. The scale never required REQUIRES, and nothing here ever said it did.**
+✅ **And the central point I had been circling is this: SUPPORTS is enough to hold a conviction. The scale never required REQUIRES before belief was warranted, and nothing here ever said it did.**
 :::
 
 🛑 **And the one thing that must not be misread.** PF-01 at SUPPORTS does not license a specific commencement year · or that the thousand years are literal calendar years · or a historical terminus, or that we are presently in the little season · or anything from the quarantined branch.
@@ -445,7 +461,9 @@ I set a four-part test before I let a name into the room, and the first candidat
 
 Then I lost something larger than the trial. **The binding cannot tell us when.** If what distinguishes it is that the last coalition has not yet gathered, that is true of nearly every century there has ever been. **So the whole weight of dating now sits on the resurrection — the one part of this that leaves the fewest fingerprints of any kind.**
 
-And against all of that, the thing I did not expect: **it moved.** Not to proven. To supported — a full tier, on a scale I wrote for myself before I knew where any of it would lead, and then forgot to consult for fifty stages.
+And against all of that, the thing I did not expect: **it moved.** Not to proven, but to supported — a full tier on a scale established before I knew where the investigation would lead.
+
+That matters because the standard was not invented afterward to accommodate the conclusion. The evidence was being judged against a standard already in place.
 
 ::: evidence
 **The chain, as Part VII leaves it**
