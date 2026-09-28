@@ -1,0 +1,14 @@
+Edition:        Español (es)
+Part:           7  Parte VII: Poniendo a prueba el caso contra sí mismo
+Milestone:      d1-reader1
+Source commit:  e57f7e91e7cc641be4f7207a889714117821c4d7
+Commit date:    2026-09-28
+Tree state:     source committed at this commit
+Built:          2026-09-28
+Extent:         42,349 words, 252 pages
+
+NOTE
+ES Part VII's first reader-correction pass: caught up to EN's 2026-09-25 reader-review baseline (SYNC-023), plus its own debt-disclosure sweep corrections and one Spanish-specific finding (RVR1960 Heb 11:35, S117).
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit e57f7e9

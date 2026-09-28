@@ -1,0 +1,14 @@
+Edition:        English (en)
+Part:           7  Part VII: Testing the Case Against Itself
+Milestone:      d1-reader3
+Source commit:  e57f7e91e7cc641be4f7207a889714117821c4d7
+Commit date:    2026-09-28
+Tree state:     source committed at this commit
+Built:          2026-09-28
+Extent:         39,700 words, 231 pages
+
+NOTE
+Fixed PR-003 miss in ch46 earned box (both editions) + ES Part VII debt-disclosure sweep corrections. d1-reader2 was stale within hours of being cut.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit e57f7e9
