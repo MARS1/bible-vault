@@ -1,0 +1,14 @@
+Edition:        English (en)
+Part:           7  Part VII: Testing the Case Against Itself
+Milestone:      d1-reader2
+Source commit:  6cb3112701c989333874421609aa6b7379676cda
+Commit date:    2026-09-28
+Tree state:     source committed at this commit
+Built:          2026-09-28
+Extent:         39,693 words, 230 pages
+
+NOTE
+PR-003: removed fabricated-reader language (4 locations, ch46); added evidence-vs-conclusion two-scale clarification. Author-approved 2026-09-28. Part VII EN closed.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 6cb3112
