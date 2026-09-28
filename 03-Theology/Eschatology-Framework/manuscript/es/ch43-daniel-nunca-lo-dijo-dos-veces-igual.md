@@ -78,21 +78,23 @@ Cada afirmación macabea de arriba es *el texto dice X* — **un hecho sobre un 
 
 1 y 2 Macabeos están en algunos cánones cristianos, no están en el Tanaj, y se clasifican como apócrifos en tradiciones protestantes. **Este capítulo no resuelve ninguna cuestión canónica**, y no necesita hacerlo: un testigo puede ser útil evidencialmente sin que su estatuto canónico esté zanjado, siempre que nadie finja que las dos preguntas son la misma.
 
-⚠️ Y fueron recuperados **solo en traducción moderna**.
+⚠️ El perfil del evento de arriba se trabajó primero **en inglés**; el griego del versículo decisivo va abajo.
 :::
 
-Lo cual lleva al caso de control hacia aquello para lo que existía, y que no pudo entregar.
+Lo cual lleva al caso de control hacia aquello para lo que existía.
 
 ::: finding
-**Hallazgo — la pregunta decisiva quedó sin responder, y el fracaso es el hallazgo**
+**Hallazgo — la gente más cercana a la crisis la nombró con las propias palabras de Daniel**
 
-**¿Usa 1 Macabeos la frase de Daniel — y si la usa, en cuál de las tres formas griegas de Daniel?**
+**¿Usa 1 Macabeos la frase de Daniel — y si la usa, en cuál de las formas griegas de Daniel?**
 
-❌ **Desconocido.** El griego falló tras doce fuentes. La traducción moderna *sacrilegio desolador* no preserva ninguna morfología griega.
+**Ese era el punto entero del caso de control** — averiguar qué llamaba a la cosa la gente que efectivamente vivió la crisis, y si usaba la redacción exacta de Daniel. La traducción moderna *sacrilegio desolador* no puede responderlo: no preserva nada de la forma griega. Por un largo tramo de esta investigación la pregunta quedó abierta exactamente por eso. El griego de 1 Macabeos ya se leyó.
 
-**Ese era el punto entero del caso de control** — averiguar qué entendía por la frase la gente que efectivamente vivió la crisis, y si usaba la redacción exacta de Daniel.
+✅ **1 Macabeos 1:54** — <span class="gr">ᾠκοδόμησεν βδέλυγμα ἐρημώσεως ἐπὶ τὸ θυσιαστήριον</span> — *edificó una abominación de desolación sobre el altar.*
 
-📌 Y nótese lo que esto significa estructuralmente: **el mejor hallazgo de este capítulo y su mayor hueco son la misma pregunta hecha a dos siglos distintos**, y solo uno de los dos la respondió.
+❗ **Sí — la frase de Daniel, singular y sin artículo.** De las formas griegas expuestas en el capítulo anterior, esa es el Griego Antiguo de **Daniel 11:31**. **No es la forma con artículo — la de Daniel 12:11 — que cita Mateo.**
+
+⚠️ **El freno:** esa misma forma sin artículo también aparece en la *otra* versión griega de Daniel, en 12:11, como mostrará este capítulo. Así que 1 Macabeos no se ata a un solo versículo de Daniel solo por su redacción. Lo que sí establece es más estrecho y firme: **la gente más cercana a la crisis de Antíoco la nombró con las palabras de Daniel, y la forma exacta de Mateo, artículo incluido, no es la de ellos.**
 
 ★ **Y una segunda cosa que el caso de control no aportó.** 1 Macabeos 1:54 **no dice qué *era* la abominación.** Ni ídolo, ni altar, ni estatua, ni sacrificio — el texto no nombra ninguno ahí. Dice solamente que fue erigida **sobre el altar del holocausto**, y sigue con los cerdos y los rollos.
 
@@ -142,11 +144,15 @@ Y una de mis propias reglas vuelve a morderme. Lucas 21:24 tiene a Jerusalén pi
 
 Lucas también dice que son días de venganza, *para que se cumplan todas las cosas que están escritas* — lo cual es una afirmación muy grande sobre esta crisis, hecha por Lucas. **Señalado, todavía no trabajado.**
 
-## La fiesta, verificada a medias
+## La fiesta, y la palabra detrás de ella
 
 Juan registra a Yeshúa en Jerusalén en *la Dedicación*, en invierno — y 1 Macabeos describe una observancia anual de ocho días instituida después de purificado el santuario.
 
-⚠️ **El vínculo está verificado a medias y así se registra.** La palabra griega de Juan está verificada. **El griego de 1 Macabeos nunca se recuperó** — un carril lo aportó de memoria y calificó el par como *verificado*. **Rechazado.** Lo que se sostiene es que el Evangelio nombra una fiesta. Lo que todavía no se sostiene es que sea verbalmente la misma palabra.
+⚠️ **Por mucho tiempo este vínculo quedó verificado a medias, y así se registró.** La palabra griega de Juan estaba verificada. La palabra de 1 Macabeos se había aportado de memoria y se etiquetó *verificada* de todos modos — **y esa etiqueta fue rechazada**, porque una palabra recordada no es una palabra leída. El griego de 1 Macabeos ya se leyó desde entonces.
+
+✅ **Juan 10:22** tiene <span class="gr">τὰ ἐγκαίνια</span>. **1 Macabeos** tiene <span class="gr">ἐγκαινισμός</span> — *la dedicación del altar* en 4:56, y en 4:59 *los días de la dedicación*, guardados ocho días *año tras año* — y el verbo <span class="gr">ἐγκαινίζω</span>, *dedicar*, en 4:36.
+
+📐 **Así que son la misma familia de palabras, y no la misma palabra.** La fiesta que nombra Juan y la observancia que instituye 1 Macabeos están unidas por una raíz compartida y por lo que cada una describe. No están unidas por vocabulario idéntico, y el vínculo se enuncia exactamente con esa fuerza.
 
 ## Una regla sobre la recurrencia, con sus dos mitades
 
@@ -170,17 +176,17 @@ Así que Antíoco no puede agotar toda aplicación legítima del lenguaje de Dan
 
 | Figura | El acto | El desenlace |
 |--------------------------|--------------------------------------------|-------------------------------------------|
-| **Nabucodonosor** | se jacta de su propio poder y gloria | humillado — ★ **luego reconoce al Altísimo y es restaurado** |
-| **Belsasar** | ★ profana **los vasos del templo de Jerusalén** | muerto esa misma noche |
-| **Antíoco IV** | profanación del santuario y del culto | destruido |
-| **Herodes Agripa I** | acepta *la voz de un dios* | herido de muerte |
-| **el inicuo de Pablo** | autoexaltación **en el santuario de Yahweh** | destruido en la venida |
+| **Nabucodonosor** *(Daniel 4:30, 4:34–36)* | se jacta de su propio poder y gloria | humillado — ★ **luego reconoce al Altísimo y es restaurado** |
+| **Belsasar** *(Daniel 5:2–4, 5:30)* | ★ bebe de **los vasos tomados del templo de Jerusalén** y alaba a los ídolos | muerto esa misma noche |
+| **Antíoco IV** *(1 Macabeos 1:21, 1:54, 6:16)* | entra al santuario *con arrogancia*; profanación del culto | muere |
+| **Herodes Agripa I** *(Hechos 12:22–23)* | acepta *la voz de un dios* | herido de muerte |
+| **el inicuo de Pablo** *(2 Tesalonicenses 2:4, 2:8)* | autoexaltación **en el santuario de Yahweh** | destruido en la venida |
 
 🛑 **Motivo no es identidad.** Estos cinco no son una sola figura, y esto es una categoría conceptual contra la cual el lenguaje de Pablo puede **probarse** — nada más.
 
 ❗ **Y el freno del paralelo parcial muerde de inmediato: el arco de Nabucodonosor resuelve en arrepentimiento y restauración.** La semejanza en la partida no puede sobrevivir a la contradicción en la resolución. Por eso mismo pertenece a un registro de motivo y no a una cadena.
 
-⚠️ **Las cinco filas están reportadas y no verificadas en esta pasada**, salvo la de Pablo. **Verificar antes de usar** — y prefiero imprimir esa frase antes que dejar pasar una tabla prolija como trabajo verificado.
+✅ **Cada fila fue verificada contra su propio texto** — Daniel en arameo, 1 Macabeos y Hechos en griego. La tabla se armó primero sin esos textos en mano, y no se dejó valer como trabajo verificado hasta que cada fila se leyó.
 
 ---
 
@@ -262,7 +268,7 @@ Las alineaciones de Mateo y de Apocalipsis son genuinas. **Pero Marcos y Lucas m
 
 Y la recuperación cerró una de mis preguntas abiertas en la dirección que no quería.
 
-**Teodoción 11:36 usa el mismo verbo de exaltarse que el Griego Antiguo**, más otro — y **ninguno es el de Pablo.** Así que la cadena está ahora mapeada completa y Pablo no coincide con **ningún eslabón**: hebreo, Griego Antiguo, Teodoción, Pablo — cuatro pasos, cuatro palabras distintas. *Pablo está citando Daniel 11:36* queda rechazado contra **ambas** recensiones y no contra una.
+**Teodoción 11:36 usa el mismo verbo de exaltarse que el Griego Antiguo**, más otro — y **ninguno es el de Pablo.** El hebreo detrás de ambos, leído directamente esta vez, dice <span class="he">וְיִתְרוֹמֵם וְיִתְגַּדֵּל</span> — *se exaltará y se engrandecerá* — y la palabra de Pablo no traduce ninguna de las dos. Así que la cadena está ahora mapeada completa — hebreo, Griego Antiguo, Teodoción — y **la palabra de Pablo no está en ningún eslabón de ella.** *Pablo está citando Daniel 11:36* queda rechazado contra **ambas** versiones griegas y el hebreo, y no contra una sola.
 
 ::: textualnote
 **Un casi-acierto, rechazado por escrito para que el rechazo sobreviva a la memoria de su razón**
@@ -278,11 +284,13 @@ Teodoción 11:36 contiene una palabra para **habla arrogante e hinchada** a poca
 
 | Pasaje | Hebreo | Griego Antiguo | **Teodoción** |
 |-------------|-------------------|---------------------|----------------------------------|
-| **8:13** | *transgresión* | ❌ no verificado | ★ **<span class="gr">ἁμαρτία</span> — *pecado*, no *abominación*** |
+| **8:13** | *transgresión* | ★ **<span class="gr">ἁμαρτία ἐρημώσεως</span> — *pecado*, no *abominación*** | ★ **<span class="gr">ἁμαρτία ἐρημώσεως</span> — *pecado*, no *abominación*** |
 | **11:31** | con artículo | *abominación de desolación* | ★ **otra palabra desoladora, distinta** |
 | **12:11** | sin artículo | **con artículo** | **sin artículo** |
 
-**Teodoción vierte la *transgresión* de Daniel 8:13 como *pecado*, no como *abominación*. La distinción léxica del hebreo sobrevive al griego.** Y las dos versiones que Teodoción da en 11:31 y 12:11 difieren entre sí.
+**Las dos versiones griegas vierten la *transgresión* de Daniel 8:13 como *pecado*, no como *abominación*. La distinción léxica del hebreo sobrevive al griego dos veces.** Y las propias formas que cada versión griega da en 11:31 y 12:11 difieren entre sí.
+
+⚠️ *El Griego Antiguo de 8:13 no estaba disponible cuando esta tabla se armó por primera vez, y la celda quedó vacía. Ya se leyó desde entonces:* <span class="gr">καὶ ἡ ἁμαρτία ἐρημώσεως ἡ δοθεῖσα</span>. *Confirma la fila en vez de cambiarla.*
 
 📐 **Así que no hay ninguna frase fija en ninguna de las tres tradiciones textuales.** *La abominación desoladora* es una **forma** recurrente, no un título — y eso está ahora establecido en hebreo, en el Griego Antiguo y en Teodoción.
 

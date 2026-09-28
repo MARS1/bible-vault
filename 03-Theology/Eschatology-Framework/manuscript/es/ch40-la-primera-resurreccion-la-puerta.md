@@ -6,7 +6,7 @@ tags: [borrador-1, parte-vii, capitulo-40, stage-47, primera-resurreccion, estad
 reference: "Apocalipsis 20:4-6; Apocalipsis 6:9-11; Daniel 12:2; Mateo 27:51-53; Juan 5:28-29; Juan 6:39-54; 1 Corintios 15:20-28, 42-49, 51-53; 1 Tesalonicenses 4:13-17; Hebreos 11:35; Hebreos 12:22-23"
 created: 2026-09-18
 status: draft
-localization: "BORRADOR 1 ES. Edición hermana del EN Parte VII d1-closed — abre la Parte de autoataque. Fuente: Etapa 47 y [[02m-first-resurrection-synthesis]]. Escrita desde la narrativa inglesa ya liberada y la Bóveda Maestra de Evidencia; NO es traducción frase por frase. ★★★ RESTRICCIÓN RECTORA DE LA PARTE VII: el narrador NO sabe si la hipótesis sobrevive. Nada de etapas posteriores puede filtrarse hacia atrás. ★★★ TRES RECUPERACIONES TRUNCADAS DECLARADAS ANTES DE QUE NINGÚN ARGUMENTO SE APOYE EN ELLAS — Apocalipsis 6:9-11 (faltan vv.10-11, y el argumento CENTRAL del capítulo se apoya en ellos), Mateo 27:51-53, Hebreos 12:22-23. ★★★ EL HALLAZGO MÁS FUERTE ES INTERNO A APOCALIPSIS Y VA CONTRA LA CONVENIENCIA DEL PROYECTO: los mártires ya existían conscientemente en el capítulo 6, así que 'vivieron' en el 20 debe marcar un CAMBIO DE ESTADO. ★★★ SYNC-021 SE IMPRIME AQUÍ CON FUERZA MÁXIMA Y NO EN NOTA AL PIE: RVR1960 ROMPE el paralelo ἔζησαν/οὐκ ἔζησαν ('vivieron' / 'no volvieron a vivir'), de modo que el lector de RVR1960 no puede VER en su propia Biblia el argumento que sostiene este capítulo. RVA-2015 sí lo preserva. Esto es SPANISH-SPECIFIC y estructural. ★★ Hebreos 11:35 está etiquetado ENGLISH-SPECIFIC: la edición española registra el artefacto como hecho sobre la edición inglesa y declara su propia comprobación como DEUDA, sin afirmar redacción RVR1960 no verificada. ★★ FRENO DE POSIBILIDAD SOBRENATURAL. ★ rabbim NO se reabre — la Parte V ya lo adjudicó en contra de la hipótesis. ★ CUATRO MODELOS, ninguno seleccionado. ★ CONTROL DE CORPOREIDAD TRANSFORMADA: soma pneumatikon sigue siendo soma. ★ TEXTO PRIMARIO ESPAÑOL: solo Apocalipsis 20:1-10 está verificado literalmente en RVR1960 (S15); todo lo demás se DESCRIBE, no se cita. TERMINOLOGÍA: sin globo/global/globalmente/planeta/planetario/mundial."
+localization: "BORRADOR 1 ES. Edición hermana del EN Parte VII d1-closed — abre la Parte de autoataque. Fuente: Etapa 47 y [[02m-first-resurrection-synthesis]]. Escrita desde la narrativa inglesa ya liberada y la Bóveda Maestra de Evidencia; NO es traducción frase por frase. ★★★ RESTRICCIÓN RECTORA DE LA PARTE VII: el narrador NO sabe si la hipótesis sobrevive. Nada de etapas posteriores puede filtrarse hacia atrás. ★★★ TRES RECUPERACIONES TRUNCADAS DECLARADAS ANTES DE QUE NINGÚN ARGUMENTO SE APOYE EN ELLAS — Apocalipsis 6:9-11 (faltan vv.10-11, y el argumento CENTRAL del capítulo se apoya en ellos), Mateo 27:51-53, Hebreos 12:22-23. ★★★ EL HALLAZGO MÁS FUERTE ES INTERNO A APOCALIPSIS Y VA CONTRA LA CONVENIENCIA DEL PROYECTO: los mártires ya existían conscientemente en el capítulo 6, así que 'vivieron' en el 20 debe marcar un CAMBIO DE ESTADO. ★★★ SYNC-021 SE IMPRIME AQUÍ CON FUERZA MÁXIMA Y NO EN NOTA AL PIE: RVR1960 ROMPE el paralelo ἔζησαν/οὐκ ἔζησαν ('vivieron' / 'no volvieron a vivir'), de modo que el lector de RVR1960 no puede VER en su propia Biblia el argumento que sostiene este capítulo. RVA-2015 sí lo preserva. Esto es SPANISH-SPECIFIC y estructural. ★★ Hebreos 11:35: RVR1960 verificada (S117) — NO comparte el artefacto ESV, conserva *resurrección* en las dos mitades del versículo; ventaja invertida respecto de SYNC-021. ★★ FRENO DE POSIBILIDAD SOBRENATURAL. ★ rabbim NO se reabre — la Parte V ya lo adjudicó en contra de la hipótesis. ★ CUATRO MODELOS, ninguno seleccionado. ★ CONTROL DE CORPOREIDAD TRANSFORMADA: soma pneumatikon sigue siendo soma. ★ TEXTO PRIMARIO ESPAÑOL: solo Apocalipsis 20:1-10 está verificado literalmente en RVR1960 (S15); todo lo demás se DESCRIBE, no se cita. TERMINOLOGÍA: sin globo/global/globalmente/planeta/planetario/mundial."
 related: "[[10-manuscript-architecture]], [[02m-first-resurrection-synthesis]], [[02h-revelation-20-binding-first-resurrection-thousand-years-little-season]], [[01j-resurrection-before-revelation]]"
 ---
 
@@ -191,7 +191,7 @@ Apocalipsis 6:9 muestra, bajo el altar, **las almas de los que habían sido muer
 
 Los mártires no necesitaron el capítulo 20 para existir conscientemente después de muertos. Juan ya los había visto en el capítulo 6: almas bajo el altar, **hablando**, **recibiendo vestiduras blancas**, **recibiendo la orden de esperar**. Apocalipsis 7 muestra igualmente a los fieles delante del trono.
 
-✅ El clamor, las vestiduras y *que descansaran todavía un poco* están en los versículos 10–11 — **la parte que no tenía cuando este control se escribió por primera vez, y que desde entonces quedó verificada por completo.** El argumento es por lo tanto **fuerte y todavía no plenamente confirmado**, y prefiero decirlo así antes que dejar que el mejor hallazgo del capítulo se apoye sin etiqueta en una línea sin verificar.
+✅ El clamor, las vestiduras y *que descansaran todavía un poco* están en los versículos 10–11 — **la parte que no tenía cuando este control se escribió por primera vez, y que desde entonces quedó verificada por completo.** El argumento antes etiquetado *fuerte y todavía no confirmado* ahora se sostiene con toda su fuerza, y llegó ahí sin que se ajustara una sola palabra para lograrlo.
 
 **El control, si se sostiene:** Apocalipsis 6 ya presenta a mártires muertos existiendo conscientemente antes de Apocalipsis 20. Por lo tanto, el *vivieron* y la *primera resurrección* de Apocalipsis 20 **no pueden reducirse a supervivencia consciente después de la muerte sin explicar el cambio de estado.**
 
@@ -218,20 +218,20 @@ Todo lo anterior descansa sobre un detalle verbal: en el griego, Apocalipsis 20:
 📌 La edición inglesa registra esto como una nota sobre el español. Esta edición no puede permitirse ese lujo: aquí es una nota sobre la Biblia que el lector probablemente tiene en la mano. Por eso se imprime en el cuerpo del capítulo y no al pie.
 :::
 
-Puede haber un segundo argumento independiente en la misma dirección. Se reporta que Hebreos 12:23 describe *los espíritus de los justos hechos perfectos* dentro de imágenes de asamblea celestial — **sin llamar a eso resurrección**. Si se sostiene al recuperarlo, entonces existencia celestial consciente no es automáticamente resurrección, dicho por otro autor en otro libro. Está solo reportado, y es exactamente la clase de apoyo que debería querer verificado antes de apoyarme en él.
+Hay un segundo argumento independiente en la misma dirección, y también está verificado. **Hebreos 12:23 describe *los espíritus de los justos hechos perfectos* — <span class="gr">πνεύμασι δικαίων τετελειωμένων</span> — dentro de imágenes de asamblea celestial, y no lo llama resurrección.** El griego del versículo no contiene ninguna palabra para resurrección. Así que existencia celestial consciente no es automáticamente resurrección, dicho por otro autor en otro libro.
 
-## Un artefacto de traducción, y por qué esta edición no puede usarlo
+## Un artefacto de traducción — presente en inglés, ausente en RVR1960
 
 ::: wordstudy
-**Estudio de palabra — <span class="gr">ἀνάστασις</span> en Hebreos 11:35** `ENGLISH-SPECIFIC`
+**Estudio de palabra — <span class="gr">ἀνάστασις</span> en Hebreos 11:35** `SPANISH-SPECIFIC` — verificado
 
-La edición inglesa encontró que una de las traducciones inglesas de referencia vierte <span class="gr">κρείττονος ἀναστάσεως</span> —*una mejor resurrección*— como *volver a una vida mejor*, sustituyendo **resurrección** por **vida**. Y todo el argumento de este capítulo gira sobre **calidad o condición diferenciada de resurrección**, que es precisamente lo que esa opción oculta.
+El griego dice <span class="gr">κρείττονος ἀναστάσεως</span> — *kreittonos anastaseōs*, **una mejor resurrección**. Y el propio versículo ya usó el mismo sustantivo en su primera mitad: *las mujeres recibieron sus muertos* — <span class="gr">ἐξ ἀναστάσεως</span>, **por resurrección**. Dos resurrecciones puestas lado a lado en un solo versículo.
 
-📌 El hallazgo fue capturado por la maquinaria de etiquetado de alcance escrita una etapa antes. Las reglas se construyeron para un problema del español; lo primero que atraparon fue uno del inglés.
+📌 Una traducción inglesa de referencia (ESV) conserva *rise again* pero traslada *better* de la resurrección a la vida — *rise again to a better life*: promete una vida mejor, no una resurrección mejor. Es exactamente lo que este capítulo no puede permitirse, porque su argumento entero gira sobre **calidad o condición diferenciada de resurrección**.
 
-🛑 **Y aquí la etiqueta hace su trabajo en la otra dirección.** El hallazgo está marcado `ENGLISH-SPECIFIC`, así que **esta edición no lo hereda**. La pregunta española —qué hace RVR1960 en Hebreos 11:35, y si conserva o no el sustantivo *resurrección*— **no ha sido recuperada, y no la voy a inventar.** Queda declarada como deuda.
+✅ **RVR1960 no comparte ese artefacto.** Verificado literalmente: *"Las mujeres recibieron sus muertos mediante resurrección; mas otros fueron atormentados, no aceptando el rescate, a fin de obtener **mejor resurrección**."* Conserva el sustantivo **resurrección** las dos veces, en ambas mitades del versículo — el lector de RVR1960 sí ve en su propia Biblia lo que el lector de la ESV no ve en la suya.
 
-⚠️ **El griego mismo está reportado y no leído**, en ambas ediciones, y el punto espera por él.
+🛑 **Así que aquí la ventaja se invierte respecto a SYNC-021.** Allá era el español el que perdía el dato verbal frente al griego. Aquí es el inglés el que lo pierde, y el español lo conserva.
 
 Si se sostiene: los primeros creyentes podían hablar de resurrección con calidad o condición diferenciada, lo cual es apoyo conceptual para el escalonamiento de Apocalipsis. **Hebreos no aporta ninguna cronología del milenio.** Apoyo conceptual, no calendario.
 :::
@@ -261,7 +261,7 @@ Si se sostiene: los primeros creyentes podían hablar de resurrección con calid
 
 ## "Cuerpo espiritual" no significa sin cuerpo
 
-1 Corintios 15:42–44 contrasta lo que se siembra corruptible con lo que resucita incorruptible, y **cuerpo animal** con **cuerpo espiritual**. El griego es <span class="gr">σῶμα ψυχικόν</span> frente a <span class="gr">σῶμα πνευματικόν</span>. ⚠️ **El inglés está verificado; el griego está reportado.**
+1 Corintios 15:42–44 contrasta lo que se siembra corruptible con lo que resucita incorruptible, y **cuerpo animal** con **cuerpo espiritual**. El griego es <span class="gr">σῶμα ψυχικόν</span> frente a <span class="gr">σῶμα πνευματικόν</span> — verificado en el propio versículo.
 
 **Los dos contienen <span class="gr">σῶμα</span>.** Cuerpo.
 
@@ -272,7 +272,7 @@ Un cuerpo espiritual no es un cuerpo ausente. Es un cuerpo animado y ordenado po
 
 Así que la alternativa real **no** es *un cadáver físico caminando normalmente* contra *una metáfora puramente espiritual*. Pablo aporta una tercera categoría: **corporeidad resucitada y transformada.**
 
-Y Yeshúa después de su resurrección es el patrón: aparece, desaparece de la percepción inmediata, entra en habitaciones cerradas, come, es tocado, y finalmente asciende. ⚠️ **Reportado, no verificado.** **Pablo lo hace explícitamente las primicias, lo cual significa que él es aquí el patrón rector y no una salida de emergencia.**
+Y Yeshúa después de su resurrección es el patrón — se desvanece de su vista en Emaús (Lucas 24:31), se pone en pie entre los discípulos tras puertas cerradas (Juan 20:19, 26), come delante de ellos (Lucas 24:42–43), invita a que lo toquen — *carne y huesos, como veis que yo tengo* (Lucas 24:39; Juan 20:27) — y finalmente es llevado arriba (Hechos 1:9). **Pablo lo hace explícitamente las primicias, lo cual significa que él es aquí el patrón rector y no una salida de emergencia.**
 
 La distinción importa: un patrón rector restringe lo que puedo decir. Una salida de emergencia me dejaría decir cualquier cosa.
 :::
@@ -314,7 +314,7 @@ Invertir ese orden convierte el procedimiento en: encontrar un milenio atractivo
 ::: textualnote
 **Nota textual — deuda declarada**
 
-Daniel 12:2, Mateo 27:51–53, Juan 5:28–29, Juan 6, 1 Corintios 15:20–24, 15:42–44 y 15:51–52, 1 Tesalonicenses 4:16–17, Hebreos 11:35 y Hebreos 12:22–23 se **describen** en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
+Daniel 12:2, Mateo 27:51–53, Juan 5:28–29, Juan 6, 1 Corintios 15:20–24, 15:42–44 y 15:51–52, 1 Tesalonicenses 4:16–17 y Hebreos 12:22–23 se **describen** en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. *(Hebreos 11:35 ya no pertenece a esta lista — RVR1960 quedó verificada y citada en el estudio de palabra de arriba, S117.)*
 
 Lo único citado literalmente aquí son las dos cláusulas de **Apocalipsis 20:4 y 20:5** registradas en SYNC-021, que sí están verificadas.
 

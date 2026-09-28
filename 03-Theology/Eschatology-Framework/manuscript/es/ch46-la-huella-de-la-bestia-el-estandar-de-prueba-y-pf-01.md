@@ -1,5 +1,5 @@
 ---
-title: "Manuscrito (ES) — Capítulo 46: La huella de la bestia, el estándar de prueba, y PF-01"
+title: "Manuscrito (ES) — Capítulo 46: La huella de la bestia, el estándar de prueba, y lo que la evidencia ahora apoya"
 type: manuscript
 category: theology
 tags: [borrador-1, parte-vii, capitulo-46, stage-55a, stage-55b, stage-55c, stage-55d, stage-56, stage-57, stage-58, huella-de-la-bestia, 666, 616, isopsefia, teitan, barrido-ge, daniel-3, tres-reuniones, fusion-de-fuentes, pf-01, estandar-de-prueba, cadena-creciente-punto-5]
@@ -10,7 +10,7 @@ localization: "BORRADOR 1 ES. Edición hermana del EN Parte VII d1-closed — ca
 related: "[[10-manuscript-architecture]], [[03a-the-beasts-fingerprint]], [[03b-the-first-candidate-on-trial]], [[03c-the-land-beast-and-the-false-prophet]], [[03d-three-gatherings-or-one]], [[03f-the-millennium-entrance-gate]], [[03g-binding-access-or-something-narrower]], [[03h-the-standard-of-proof]], [[03-hypotheses]]"
 ---
 
-# Capítulo 46: la huella de la bestia, el estándar de prueba, y PF-01
+# Capítulo 46: la huella de la bestia, el estándar de prueba, y lo que la evidencia ahora apoya
 
 La regla para este tramo era simple, y la escribí antes de empezar. **Construir el perfil primero. No dejar entrar a ningún candidato a la sala, porque en cuanto hay un nombre sobre la mesa toda pista empieza a doblarse hacia él.**
 
@@ -41,7 +41,7 @@ Dos capítulos atrás declaré un desajuste de ediciones: los dos Danieles grieg
 | ❗ **Griego Antiguo 7:21** | <span class="gr">πόλεμον συνιστάμενον **πρὸς** τοὺς ἁγίους</span> |
 | ★★ **Apocalipsis 13:7** | <span class="gr">ποιῆσαι πόλεμον **μετὰ** τῶν ἁγίων</span> |
 
-❗❗ **Cuatro elementos coinciden con Teodoción: el verbo, el sustantivo, la preposición y el caso. El Griego Antiguo difiere exactamente en la preposición.**
+❗❗ **Cuatro elementos coinciden con Teodoción: el verbo, el sustantivo, la preposición y el caso. El Griego Antiguo comparte solo el sustantivo.** Su verbo es distinto — <span class="gr">συνιστάμενον</span>, *entablando* [guerra], no *haciendo* — y también lo son su preposición y su caso: contra los santos, no con ellos.
 
 ★★★ **Y el arameo cierra el círculo: su preposición significa *con*. Teodoción sigue al arameo. El Griego Antiguo no. Y Apocalipsis sigue a Teodoción.**
 
@@ -111,7 +111,7 @@ Se supone que el número es la evidencia decisiva, así que hice lo único hones
 
 **Un solo gobernante, dos grafías atestiguadas, y el hueco entre los dos números es precisamente la letra que difiere entre los dos nombres.**
 
-🆕 **Y pasa la regla que un lector me obligó a escribir.** La pregunta era: *¿estás midiendo con la misma vara?* **Las lecturas numéricas alternativas deben probarse bajo el mismo sistema de letras-números. Las grafías históricamente atestiguadas pueden variar. El sistema numérico no puede cambiarse para obtener un total deseado.** El cálculo sobrevive al enunciado.
+🆕 **Y pasa una regla que tuve que fijarme yo mismo antes de sacar las cuentas.** La pregunta era: *¿estás midiendo con la misma vara?* **Las lecturas numéricas alternativas deben probarse bajo el mismo sistema de letras-números. Las grafías históricamente atestiguadas pueden variar. El sistema numérico no puede cambiarse para obtener un total deseado.** El cálculo sobrevive al enunciado.
 :::
 
 **Después saqué la misma cuenta en griego, porque el libro está escrito en griego y el griego también cuenta con sus letras.**
@@ -192,7 +192,7 @@ La construcción permite, como mínimo: *número de **un hombre*** — una perso
 
 ## La objeción con más probabilidades de matarlo, y es más dura de lo que suele decirse
 
-**La bestia y el falso profeta son arrojados al lago antes de los mil años — y por búsqueda exhaustiva, nunca son liberados.** Cuando el diablo es arrojado después, el texto se detiene a decir que ellos ya están ahí.
+**La bestia y el falso profeta son arrojados al lago antes de los mil años — y por búsqueda exhaustiva, nunca son liberados.** Cuando el diablo es arrojado después, 20:10 nombra el lago como el lugar *donde están la bestia y el falso profeta* — el griego no aporta verbo ni *ya*; que sigan ahí se infiere de 19:20, que los puso ahí.
 
 ❗❗ **Así que el modelo no necesita meramente que la bestia haya *decaído*, ni que haya *perdido dominio*. Necesita que aquello que la bestia denota esté permanente e irreversiblemente ido desde el momento en que empiezan los mil años — y que haya seguido ido durante toda su duración.**
 
@@ -206,7 +206,15 @@ La construcción permite, como mínimo: *número de **un hombre*** — una perso
 
 ❌ **Y el pasaje sobre la fecha nunca se leyó. Cinco vías probadas y nombradas, todas cerradas: una alcanzable pero restringida, tres que no llevaban a ninguna parte, y una que ya no existe.**
 
-🛑 **Así que registro la *estructura* del problema y me niego a decir qué dice Ireneo sobre la fecha, porque no lo leí.** Me quemé tres veces con una cita recordada aportada con fluidez y equivocada, **y una afirmación patrística sobre una fecha es exactamente la clase de cosa que la memoria produce con confianza y falsamente.** ❗ **Es el ítem pendiente más importante de todo el juicio.**
+❗ **Y su pasaje sobre la fecha en sí — *Contra las herejías* 5.30.3.** Cuando corrí este juicio, todas las copias que probé estaban restringidas o ya no disponibles, y lo único que tenía era la cita posterior de Eusebio sobre él, sobre la mesa desde la Parte VI. Me negué a afirmar más de lo que esa cita sostenía, porque una afirmación patrística sobre una fecha es exactamente la clase de cosa que la memoria produce con confianza y falsamente.
+
+✅ **Desde entonces se leyó**, en la traducción inglesa estándar de dominio público *(no se localizó una edición en español verificada; lo que sigue es traducción de esa versión inglesa, señalada como tal)*:
+
+> *No nos arriesgaremos, sin embargo, a pronunciarnos con certeza sobre el nombre del Anticristo; porque si fuera necesario que su nombre se revelara con claridad en el tiempo presente, habría sido anunciado por quien contempló la visión apocalíptica. Pues esa fue vista no hace mucho tiempo, sino casi en nuestros días, hacia el final del reinado de Domiciano.*
+
+📐 **Dice lo mismo que decía la cita de Eusebio.** La razón de Ireneo para negarse a nombrar a la bestia es que la visión es reciente — *hacia el final del reinado de Domiciano*. Eso es un testimonio a favor de la fecha tardía, y permanece como la contraevidencia que ha sido desde la Parte VI; leerlo directamente no la fortalece ni la debilita.
+
+⚠️ **Lo que no resuelve.** Lo leí solo en inglés. Si *fue vista* en el griego se refiere a la visión o a Juan mismo — el punto disputado registrado en la Parte VI — no lo verifiqué, y nada aquí lo decide. **Y un testimonio sobre la fecha todavía no es una ponderación de la fecha.** Esa ponderación no se hace en este capítulo.
 
 ## Puntaje, contra la prueba fijada por adelantado
 
@@ -214,10 +222,12 @@ La construcción permite, como mínimo: *número de **un hombre*** — una perso
 |---|--------------------------------|--------------------------------------------------|
 | 1 | autoridad política | ✅ **satisfecho** — un orden imperial claramente califica |
 | 2 | una pretensión de culto | 🔶 **parcialmente** — un ambiente real, ⚠️ **no verificado aquí**, y variaba por región |
-| 3 | persecución del pueblo de Yah | 🔶 **plausible** — ⚠️ **ninguna fuente recuperada**, y ★ el brazo letal debe satisfacerse específicamente |
+| 3 | persecución del pueblo de Yah | ✅ **satisfecho** — Tácito, ya presente en este libro desde la Parte VI, informa que Nerón achacó la culpa del incendio a los cristianos y los torturó. ★ **Pero el brazo letal que añade esta prueba no queda demostrado:** Tácito describe castigo por un incendio, no muerte por negarse a rendir culto |
 | 4 | el sistema de marca-nombre-número | ❌ **no demostrado** |
 
-📐 **Dos claros, dos no demostrados. Bajo la prueba tal como está escrita, el candidato no pasó.**
+📐 **Dos claros, uno parcial, uno no demostrado — y el brazo letal sin demostrar. Bajo la prueba tal como está escrita, el candidato no pasó.**
+
+⚠️ *Cuando este juicio se calificó por primera vez, la fila 3 se marcó solo como "plausible", sin fuente citada. Eso estaba desactualizado: la evidencia de persecución ya estaba en este libro desde la Parte VI. La fila queda corregida; el veredicto no cambia por ello.*
 
 ⚠️ **Y los ítems corregidos del perfil se aplican con plena fuerza: los siete montes fueron retirados, así que no pueden puntuarse. El punto de observación no está fijado, así que ninguna lista de reyes puede puntuarse contra él. La base rey/reino se disolvió en las dos recensiones griegas.**
 
@@ -395,7 +405,9 @@ Dos veces ya escribí algo como hallazgo nuevo y descubrí que ya estaba registr
 
 # El estándar ya estaba escrito
 
-Un lector me hizo la pregunta que yo venía respondiendo mal: **¿qué haría falta, y hay algo menos que una prueba que autorice a alguien a creer?** Cada vez que la hacía, yo le entregaba otra etapa.
+Una pregunta llevaba tiempo asentada bajo la investigación: **¿qué haría falta, y hay algo menos que una prueba que autorice a alguien a creer?**
+
+Yo seguía poniendo a prueba la hipótesis sin detenerme a declarar con claridad qué estándar de evidencia autorizaría sostenerla como convicción.
 
 Así que busqué en mis propios archivos, y la respuesta estaba ahí, fechada semanas antes de que existiera nada de esta evidencia.
 
@@ -409,7 +421,13 @@ Así que busqué en mis propios archivos, y la respuesta estaba ahí, fechada se
 ❗❗ **Así que el estándar quedó fijado antes de que existieran cincuenta etapas de evidencia. No es una vara levantada después, y es mejor escala que *qué tan seguro me siento*, porque pregunta qué **hace** la evidencia en vez de cuán confiado está el investigador.**
 :::
 
-⭐ **En su propia escala preexistente, la hipótesis avanzó un nivel completo. PERMITE → APOYA. Archivado como PF-01.**
+⭐ **En su propia escala preexistente, la hipótesis avanzó un nivel completo. PERMITE → APOYA.**
+
+Lo archivé como resultado permanente, y necesita un nombre al que el resto del libro pueda apuntar. **PF-01 — Hallazgo Provisional 01**, el primer hallazgo que esta investigación registra como premisa sobre la cual construir, en vez de pregunta para reabrir:
+
+> **La evidencia textual acumulada favorece una transición escatológica del siglo primero hacia el reinado de Apocalipsis 20, y explica más de los datos, de manera más natural, que las alternativas examinadas.**
+
+En palabras más llanas: la evidencia se inclina hacia que el reinado de Apocalipsis 20 — la primera resurrección, los mil años — haya comenzado en el siglo primero. *Provisional* está en el nombre a propósito. Se sostiene en APOYA, y permanece abierto a cualquier cosa que lo contradiga materialmente.
 
 **Eso no es nada. Es una afirmación moviéndose un nivel entero contra un estándar fijado antes de que nadie supiera hacia dónde iría — que es la única clase de estándar que vale la pena fijar.**
 
@@ -418,7 +436,21 @@ Y le debo al lector una admisión más llana de la que venía haciendo.
 ::: finding
 **Hallazgo — esta investigación nunca exigió una prueba, y nunca dijo que la exigiera**
 
-**Cada registro de evidencia en ella califica sus hallazgos. *Establecido. Fuertemente apoyado. Probable. Abierto. Rechazado.* Esas son convicciones calificadas, registradas como tales.**
+**Cada registro de evidencia en ella califica sus hallazgos:**
+
+**ESTABLECIDO**
+↓
+**FUERTEMENTE APOYADO**
+↓
+**PROBABLE**
+↓
+**ABIERTO**
+↓
+**RECHAZADO**
+
+**Esas son convicciones calificadas, registradas como tales.**
+
+📐 **Son dos escalas distintas, no una.** *CONTRADICE → PERMITE → APOYA → EXIGE* describe cómo un cuerpo de evidencia incide sobre una afirmación. *Establecido / fuertemente apoyado / probable / abierto / rechazado* describe el estado resultante de un hallazgo una vez ponderada esa evidencia. Las dos están relacionadas — el estado de un hallazgo surge de ponderar su evidencia — pero ninguna se convierte mecánicamente en la otra, y este libro nunca las trata como intercambiables.
 
 Dice **probable** de Mateo contra 2 Tesalonicenses. Dice **alto** de la cadena interna de Pablo. Dice **muy alto** del intervalo compartido de mil años. **Son creencias con etiqueta.**
 
@@ -428,7 +460,7 @@ Dice **probable** de Mateo contra 2 Tesalonicenses. Dice **alto** de la cadena i
 
 **Los rechazos nunca fueron *no puedes creer esto*. Fueron *esta no es la clase de evidencia que acabas de decir que es*.**
 
-✅ **Y el punto central del lector es correcto y queda adoptado: APOYAR alcanza para sostener una convicción. La escala nunca exigió EXIGE, y nada aquí dijo nunca que lo hiciera.**
+✅ **Y el punto central al que venía dando vueltas es este: APOYA alcanza para sostener una convicción. La escala nunca exigió EXIGE antes de que la creencia estuviera autorizada, y nada aquí dijo nunca que lo hiciera.**
 :::
 
 🛑 **Y lo único que no puede leerse mal.** PF-01 en APOYA no autoriza un año de comienzo concreto · ni que los mil años sean años calendarios literales · ni un término histórico, ni que estemos ahora en la pequeña temporada · ni nada de la rama en cuarentena.
@@ -443,7 +475,9 @@ Fijé una prueba de cuatro partes antes de dejar entrar un nombre a la sala, y e
 
 Después perdí algo más grande que el juicio. **El atamiento no puede decirnos cuándo.** Si lo que lo distingue es que la última coalición todavía no se reunió, eso es cierto de casi todos los siglos que ha habido. **Así que todo el peso de la fecha se apoya ahora en la resurrección — la parte de esto que deja menos huellas de cualquier clase.**
 
-Y contra todo eso, lo que no esperaba: **se movió.** No a probada. A apoyada — un nivel entero, en una escala que escribí para mí mismo antes de saber a dónde llevaría nada de esto, y que después me olvidé de consultar durante cincuenta etapas.
+Y contra todo eso, lo que no esperaba: **se movió.** No a probada, sino a apoyada — un nivel entero, en una escala fijada antes de saber a dónde llevaría la investigación.
+
+Eso importa porque el estándar no se inventó después para acomodar la conclusión. La evidencia se estaba juzgando contra un estándar ya vigente.
 
 ::: evidence
 **La cadena tal como la deja la Parte VII**
@@ -484,9 +518,9 @@ Las cifras hebreas y griegas de este capítulo **se computaron dentro del archiv
 :::
 
 ::: whereweare
-**Dónde estamos.** El perfil se construyó antes que el candidato —después de que me atraparan contaminándolo— y el candidato después sacó dos de una prueba de cuatro partes escrita por adelantado. El número que debía identificarlo identifica por lo menos a cuatro nombres, y el intérprete más antiguo que tenemos usó otra lengua y otro nombre y después se negó a pronunciarse. Lo que sobrevive es el par, apoyado en una grafía sin verificar y en una página sin leer. La lectura candidata más fuerte para el falso profeta va cuesta arriba contra treinta y cinco apariciones de una palabra, y ninguna familia de candidatos pasa. Las reuniones se dividen en tres, y la evidencia léxica y la narrativa señalan compañeros distintos; nombré la división en vez de resolverla. Y el costo real del capítulo es que el atamiento, en el que me venía apoyando como marcador de entrada, resulta satisfecho por casi cualquier siglo — así que toda la cuestión de la fecha descansa ahora sobre la resurrección sola. Esta edición agrega una observación propia: en castellano *tierra* conserva la ambigüedad del griego, lo cual es fidelidad y también es menos visibilidad.
+**Dónde estamos.** El perfil se construyó antes que el candidato —después de que me atraparan contaminándolo— y el candidato después sacó dos de una prueba de cuatro partes escrita por adelantado. El número que debía identificarlo identifica por lo menos a cuatro nombres, y el intérprete más antiguo que tenemos usó otra lengua y otro nombre y después se negó a pronunciarse. Lo que sobrevive es el par, apoyado en una grafía sin verificar — y en la página de la fecha, ya leída, que dice lo mismo que decía la cita posterior: tardía, bajo Domiciano. La lectura candidata más fuerte para el falso profeta va cuesta arriba contra treinta y cinco apariciones de una palabra, y ninguna familia de candidatos pasa. Las reuniones se dividen en tres, y la evidencia léxica y la narrativa señalan compañeros distintos; nombré la división en vez de resolverla. Y el costo real del capítulo es que el atamiento, en el que me venía apoyando como marcador de entrada, resulta satisfecho por casi cualquier siglo — así que toda la cuestión de la fecha descansa ahora sobre la resurrección sola. Esta edición agrega una observación propia: en castellano *tierra* conserva la ambigüedad del griego, lo cual es fidelidad y también es menos visibilidad.
 :::
 
 ::: earned
-**Lo que ganó.** Un perfil con la evidencia de un candidato retirada de adentro. Un número degradado de firma a criba, por aritmética hecha en vez de repetida. Una página dejada sin leer y declarada sin leer, dos veces, en vez de completada de memoria. Una lectura movida de neutra a gravada contando en vez de argumentando. Una prueba de recapitulación corrida a sabiendas de que reprobarla habría disuelto el problema más difícil de la investigación — y el resultado más duro conservado. Una objeción al modelo líder planteada por su propio bando y respondida al costo de su mejor marcador de fecha. Seis etapas de deriva nombradas como deriva. Y una hipótesis movida un nivel, contra un estándar escrito antes de que existiera la evidencia, por alguien que se había olvidado de haberlo escrito.
+**Lo que ganó.** Un perfil con la evidencia de un candidato retirada de adentro. Un número degradado de firma a criba, por aritmética hecha en vez de repetida. Una página declarada sin leer en vez de completada de memoria — y después leída, y reportada exactamente en la fuerza que carga. Una lectura movida de neutra a gravada contando en vez de argumentando. Una prueba de recapitulación corrida a sabiendas de que reprobarla habría disuelto el problema más difícil de la investigación — y el resultado más duro conservado. Una objeción al modelo líder planteada por su propio bando y respondida al costo de su mejor marcador de fecha. Seis etapas de deriva nombradas como deriva. Y una hipótesis movida un nivel, contra un estándar escrito antes de que existiera la evidencia — prueba de que el estándar no se inventó después para rescatar la conclusión que ahora sostiene.
 :::

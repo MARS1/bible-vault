@@ -69,8 +69,8 @@ Estaba por promover una correspondencia entre el inicuo de Pablo destruido *con 
 | | Palabras del arma |
 |--------------------------|--------------------------------------------------------|
 | **Isaías 11:4, hebreo** | <span class="he">שֵׁבֶט פִּיו</span> *(vara de su boca)* · <span class="he">רוּחַ שְׂפָתָיו</span> *(aliento de sus labios)* |
-| **Isaías 11:4, griego** | *herirá la tierra con la **palabra** de su **boca**… con un **espíritu** por sus labios **destruirá** al impío* |
-| ★ **2 Tesalonicenses 2:8**| *a quien el Señor Jesús **destruirá** con el **espíritu** de su **boca*** |
+| **Isaías 11:4, griego** | <span class="gr">πατάξει γῆν τῷ λόγῳ τοῦ στόματος αὐτοῦ καὶ ἐν πνεύματι διὰ χειλέων ἀνελεῖ ἀσεβῆ</span> — *herirá la tierra con la **palabra** de su **boca**… con un **espíritu** por sus labios **destruirá** al impío* |
+| ★ **2 Tesalonicenses 2:8**| <span class="gr">ὃν ὁ κύριος Ἰησοῦς ἀνελεῖ τῷ πνεύματι τοῦ στόματος αὐτοῦ</span> — *a quien el Señor Jesús **destruirá** con el **espíritu** de su **boca*** |
 | **Apocalipsis 19:15, 21** | una <span class="gr">ῥομφαία</span> **de su boca** |
 
 ❗❗ **El verbo de Pablo es el verbo del Isaías griego — palabra idéntica, forma idéntica** — más *espíritu*, más *boca* tomada de la primera cláusula de Isaías. **Pablo funde las dos mitades de Isaías en una sola frase.**
@@ -195,9 +195,9 @@ Apocalipsis 16 tiene tres espíritus inmundos que salen hacia los reyes para reu
 
 🏷️ **Registrado como candidato de recapitulación RC-01. No establecido, no promovido.**
 
-⚠️⚠️ **Y un hueco honesto: 20:8 está verificado en griego. 16:13–14 no — está reportado, no verificado.**
+⚠️⚠️ **Y un hueco honesto: en este punto 20:8 estaba verificado en griego y 16:13–14 no lo estaba.**
 
-🛑 **RC-01 se apoya en una mitad verificada y una mitad sin verificar, que es exactamente la forma por la cual el vínculo de la fiesta fue degradado dos capítulos atrás. No puede argumentarse desde él hasta que la otra mitad se recupere.** Registrado ahora, antes de que nada se apoye en él — porque la alternativa es descubrir tres capítulos después que algo que cargaba peso estaba construido a medias.
+🛑 **RC-01 se apoyaba en una mitad verificada y una mitad sin verificar — exactamente la forma por la cual el vínculo de la fiesta fue degradado dos capítulos atrás. No podía argumentarse desde él hasta que la otra mitad se leyera.** Registrado ahora, antes de que nada se apoye en él — porque la alternativa es descubrir tres capítulos después que algo que cargaba peso estaba construido a medias. *(La otra mitad se lee en el capítulo siguiente, y agranda la pregunta en vez de cerrarla.)*
 :::
 
 ## Una pregunta que se disuelve, y un resultado que corta en las dos direcciones

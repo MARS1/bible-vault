@@ -67,7 +67,7 @@ Esa deuda merece nombrarse por lo que era. La primera etapa argumentó paralelos
 No es una persona sobre la que este libro discuta, sino un nombre adherido a un **texto**. Hay más de una versión griega antigua de Daniel: una más antigua, llamada habitualmente **Griego Antiguo**, y una revisión posterior asociada a Teodoción. **Difieren entre sí en la redacción** — que es por lo que *cuál* Daniel griego cita un escritor del Nuevo Testamento resulta ser una pregunta real, y por lo que el que falta queda registrado abajo como algo que carga peso y no como un detalle.
 :::
 
-⚠️ **Todavía pendiente, y una de esas cosas carga peso:** el texto de **Teodoción** de Daniel 7:13–14 (ver el final de este capítulo) · el hebreo de Isaías 27:13 y 13:10, que volvió con el orden de palabras revuelto y es por eso inutilizable · una búsqueda exhaustiva de <span class="gr">περὶ δέ</span> en Mateo · una autoridad léxica para <span class="gr">ἐπισυνάγω</span>.
+⚠️ **Todavía pendiente, y una de esas cosas carga peso:** el texto de **Teodoción** de Daniel 7:13–14 (ver el final de este capítulo) · el hebreo de Isaías 27:13 y 13:10, que volvió con el orden de palabras revuelto y es por eso inutilizable · una autoridad léxica que establezca el rango semántico de <span class="gr">ἐπισυνάγω</span> *(el recuento de apariciones ya es exhaustivo — nueve versículos, verificado más adelante en este capítulo — pero contar no es lo mismo que una autoridad léxica sobre su rango)*. *(La búsqueda exhaustiva de <span class="gr">περὶ δέ</span> en Mateo, antes pendiente aquí, ya se completó — ver más adelante en este capítulo: cuatro apariciones.)*
 
 ⚠️ **Y una corrección aplicada a mi propia disciplina de trabajo.** Se me entregó una comparación septuagintal **que yo no había verificado**, calificada con un *"9 sobre 10 — la inferencia desde traducciones inglesas es altamente probable."* **Esa calificación fue rechazada y bajada a NO VERIFICADO.** La probabilidad de una conclusión no sustituye a la recuperación que la establecería, y *altamente probable* es precisamente la fórmula por la cual *favorecido contextualmente* se convierte en silencio en *establecido léxicamente*.
 :::
@@ -82,6 +82,8 @@ Antes de aplicar nada sobre Apocalipsis 20, su orden interno tiene que estar ase
 | **20:13** | la Muerte y el Hades **todavía retienen, y entregan,** a los muertos |
 | **20:14** | **solo entonces** son arrojados, y a esto se le llama la muerte segunda |
 | **21:4** | la muerte **ya no existe** — después de todo lo anterior |
+
+⚠️ *Nota de traducción, específica del español: RVR1960 renderiza 20:10 con un verbo presente explícito, **están**. El griego de esa cláusula no tiene verbo finito — es elíptica. **Están** es sintaxis de traducción, no evidencia griega; el cuadro de arriba ya evita afirmar presencia previa por otro motivo, y esta nota lo deja explícito también a nivel del verbo.*
 
 ::: finding
 **Hallazgo — el cierre es dependencia lógica, no orden de versículos**
@@ -191,24 +193,26 @@ Así que audité la familia.
 
 | Versículo | Forma | Qué se reúne | Carácter |
 |---------------------|--------------------------|-------------------------------|------------------------|
-| **Mateo 23:37** | <span class="gr">ἐπισυναγαγεῖν</span> | **los hijos de Jerusalén**, como la gallina a sus polluelos | **lamento pactual** |
+| **Mateo 23:37** | <span class="gr">ἐπισυναγαγεῖν</span> · <span class="gr">ἐπισυνάγει</span> | **los hijos de Jerusalén**, como la gallina a sus polluelos | **lamento pactual** |
 | **Mateo 24:31** | <span class="gr">ἐπισυνάξουσιν</span> | los escogidos, de los cuatro vientos | escatológico |
+| **Marcos 1:33** | <span class="gr">ἐπισυνηγμένη</span> | **todo el pueblo, a la puerta** | ❗ **una multitud ordinaria** |
 | **Marcos 13:27** | <span class="gr">ἐπισυνάξει</span> | los escogidos | escatológico |
+| **Lucas 12:1** | <span class="gr">ἐπισυναχθεισῶν</span> | **una multitud de muchos miles**, atropellándose unos a otros | ❗ **una multitud ordinaria** |
 | **Lucas 13:34** | <span class="gr">ἐπισυνάξαι</span> | **los hijos de Jerusalén** | **lamento pactual** |
 | **Lucas 17:37** | <span class="gr">ἐπισυναχθήσονται</span> | **buitres**, sobre un cuerpo | discurso escatológico |
 | **2 Tesalonicenses 2:1** | <span class="gr">ἐπισυναγωγῆς</span> | creyentes, hacia el Mesías | escatológico |
 | **Hebreos 10:25** | <span class="gr">ἐπισυναγωγὴν ἑαυτῶν</span> | **creyentes reuniéndose** | ❗ **una asamblea ordinaria** |
 
 ::: finding
-**Hallazgo — Hebreos 10:25 usa este sustantivo para presentarse a una reunión**
+**Hallazgo — esta familia léxica se usa para un pueblo apretujado a una puerta, y para presentarse a una reunión**
 
-**La familia léxica no es inherentemente escatológica.** Mi puente es más débil de lo que yo afirmaba.
+**La familia léxica no es inherentemente escatológica.** Tres de los nueve versículos de arriba son reuniones ordinarias: un pueblo en una puerta, una multitud tan grande que la gente se atropellaba, y creyentes reuniéndose. Mi puente es más débil de lo que yo afirmaba.
 
 **El vocabulario compartido establece una palabra compartida. No establece un evento compartido.**
 
 Este hallazgo va contra mi hipótesis y se imprime del mismo tamaño que los que la favorecen.
 
-⚠️ **Salvedad de completitud, enunciada y no glosada:** esas siete apariciones son las habitualmente citadas y cada una fue recuperada individualmente. **No se hizo un barrido concordancial completo de cada forma flexionada de las dos raíces.** La lista es parcial, no exhaustiva.
+✅ **La lista está completa.** Esos nueve versículos son cada aparición de las dos palabras en el Nuevo Testamento griego. *(En Lucas 17:37 algunas ediciones impresas del griego leen el verbo más simple <span class="gr">συνάγω</span> en su lugar; el recuento de arriba sigue la edición SBL usada en todo este libro.)*
 :::
 
 ## Mateo 24:29–31, y lo que conspicuamente no está ahí
@@ -567,8 +571,8 @@ Establecido **sin importar Apocalipsis, sin importar a Pablo y sin suponer el pr
 🛑 **Y porque esta conclusión me conviene, se despacha con sus condiciones de falsación antes que después de ellas.** Cae si:
 
 1. **Puede mostrarse que *todas estas cosas* en 24:34 excluye 24:29–31.** ⚠️ La carga recae sobre la exclusión — 24:33 y 24:34 forman una repetición cerrada — **pero esa carga no ha sido formalmente saldada por nadie, yo incluido.**
-2. **<span class="gr">περὶ δέ</span> en 24:36 constituye un límite de discurso que reescala retroactivamente lo anterior.** ⚠️ **Mi búsqueda de esa frase en Mateo no fue exhaustiva.** Este es el contraargumento vivo más fuerte y nada de lo que recibí lo abordó.
-3. **El patrón del demostrativo se rompe por una aparición que no recuperé.** El inventario se reporta exhaustivo por vía concordancial y no fue reverificado de manera independiente.
+2. **<span class="gr">περὶ δέ</span> — *en cuanto a* — en 24:36 constituye un límite de discurso que reescala retroactivamente lo anterior.** ✅ **La frase ya se buscó en todo Mateo. Aparece cuatro veces. Dos veces significa *cerca de* una hora del día — *cerca de la hora undécima* (20:6), *cerca de la hora novena* (27:46). Dos veces introduce un tema — *en cuanto a la resurrección de los muertos* (22:31) y *en cuanto a aquel día* (24:36).** ⚠️ Ese es el dato, y no decide si 24:36 reescala lo anterior. **Sigue siendo el contraargumento vivo más fuerte, y nada de lo que recibí lo abordó.**
+3. **El patrón del demostrativo se rompe por una aparición que no recuperé.** ✅ **Verificado desde entonces: las trece apariciones están todas contabilizadas, y cada una que carga demostrativo está en la lista de arriba.** Esta condición fue puesta a prueba y no se disparó.
 4. **Una autoridad léxica establece un sentido de *raza* atestiguado en el primer siglo para esta frase exacta.** Actualmente no demostrado en Mateo; la autoridad se debe.
 
 ❗❗ **Y lo que la promoción no hace, que es la razón entera para mantener separadas las dos preguntas:**
@@ -578,7 +582,7 @@ Establecido **sin importar Apocalipsis, sin importar a Pablo y sin suponer el pr
 Mateo 24:29–31 sigue sin contener vocabulario de resurrección. **Una reunión de primer siglo sin lenguaje de resurrección dentro no fecha una resurrección.**
 :::
 
-Dos ambigüedades menores, ambas registradas. La variante en 24:36 —*ni el Hijo*— está presente en algunos testigos y ausente en otros, y **no tengo siglas de manuscritos ni he consultado ningún aparato crítico**, así que es reportada, no verificada. Y en 24:33 el sujeto de *está cerca* **no se expresa en el griego**: las traducciones lo suplen en direcciones distintas — personal o temporal —, y el griego no suple ninguna de las dos.
+Dos ambigüedades menores, ambas registradas. En 24:36 las palabras *ni el Hijo* aparecen impresas en algunas ediciones del griego y se omiten en otras, porque las ediciones críticas se dividen — WH y NA28 la incluyen, Treg y RP la omiten. **No he examinado los manuscritos detrás de esa división**, así que nada aquí descansa sobre la frase. Y en 24:33 el sujeto de *está cerca* **no se expresa en el griego**: las traducciones lo suplen en direcciones distintas — personal o temporal —, y el griego no suple ninguna de las dos.
 
 ## Una regla que adopto, con sus correas puestas
 
@@ -627,9 +631,9 @@ Se me afirmó que el Griego Antiguo dice *se acerca al trono*. **El texto citado
 ::: textualnote
 **Nota textual — deuda declarada**
 
-Mateo 23:36–37, Mateo 24:29–39, Mateo 13:24–50, 1 Tesalonicenses 4:13–5:11, 1 Corintios 15:20–28 y 50–57, Apocalipsis 1:18, 11:15–18, 19:20, 20:10–15 y 21:4, Hebreos 10:25, Juan 6:39–54, 11:24 y 12:48 se **describen** en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
+Mateo 23:36–37, Mateo 24:29–39, Mateo 13:24–50, 1 Tesalonicenses 4:13–5:11, 1 Corintios 15:20–28 y 50–57, Apocalipsis 1:18, 11:15–18, 19:20, 20:11–15 y 21:4, Hebreos 10:25, Juan 6:39–54, 11:24 y 12:48 se **describen** en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
 
-Lo único citado literalmente aquí son las formas **RVR1960 de la familia *juntar* y *recogerán*** registradas en SYNC-009, que sí están verificadas.
+Lo único citado literalmente aquí son las formas **RVR1960 de la familia *juntar* y *recogerán*** registradas en SYNC-009, que sí están verificadas — y la cláusula de Apocalipsis 20:10 usada en la tabla de arriba, con su propia nota de traducción `SPANISH-SPECIFIC`.
 
 *(Se suma a SYNC-020, deuda de publicación de alta prioridad y no bloqueo de Borrador 1.)*
 :::

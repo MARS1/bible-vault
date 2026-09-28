@@ -484,6 +484,8 @@ related: "[[00-methodology-current]], [[07-deferred-historical-register]], [[05-
 
 > ### ⚠️ **STILL OPEN AFTER THIS PASS, deliberately:** **the Greek of Irenaeus 5.30.3** *(English now read, S116)* · the documentary attestation of **נרון קסר** · the LXX-wide question whether **ναός** is ever used metaphorically of a people · lexical and grammatical authorities *(ἐπισυνάγω; שִׁקּוּץ; Mark 13:14's participle; Rev 20:4's syntax; Rev 13:18's ἀνθρώπου)* · **the manuscripts** behind Mt 24:36. **None of these is a text that was simply not looked up.**
 
+| **S117** | ✅ **RVR1960 — Hebreos 11:35, retrieved for the ES Part VII SYNC-023 propagation, closing the debt ES ch40 had declared open** | **Heb 11:35 (Spanish witness only)** | ★ **RVR1960 reads:** *"Las mujeres recibieron sus muertos mediante resurrección; mas otros fueron atormentados, no aceptando el rescate, a fin de obtener mejor resurrección."* **RVR1960 keeps *resurrección* in both halves of the verse and does NOT carry the ESV's artifact** *(ESV moves "better" from resurrection onto "life": "rise again to a better life")* — the reverse of SYNC-021, where RVR1960 was the edition that lost a verbal data point English kept. | **PRIMARY** *(translation witness only — evidence about RVR1960, not about the Greek; rule ①)* | ✅ **VERIFIED** | 2026-09-28 |
+
 ---
 
 ## Rules for future entries

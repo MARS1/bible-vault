@@ -106,7 +106,7 @@ Y 1 Tesalonicenses 4 y 1 Corintios 15 comparten genuinamente cuatro cosas: la ll
 
 **"Todos seremos transformados" no es universal.** El *todos* de *en el Mesías todos serán vivificados* está acotado por *en el Mesías* — exactamente como el versículo siguiente lo especifica con *los que son del Mesías*.
 
-**Y primicias no significa la primera persona jamás levantada.** Romanos 6:9: habiendo sido levantado de los muertos, **ya no** muere; la muerte **ya no** se enseñorea de él. **Dos veces.** Esa es la diferencia de categoría — las restauraciones anteriores volvieron a la vida mortal y podían volver a morir. ⚠️ **Aunque los relatos de restauración mismos no fueron recuperados en esta pasada. El contraste es sólido; sus ejemplos están reportados, no verificados.**
+**Y primicias no significa la primera persona jamás levantada.** Romanos 6:9: habiendo sido levantado de los muertos, **ya no** muere; la muerte **ya no** se enseñorea de él. **Dos veces.** Esa es la diferencia de categoría. **Las restauraciones anteriores** — la hija de Jairo, que *se levantó y anduvo* (Marcos 5:42), el hijo de la viuda de Naín, que *se sentó y comenzó a hablar* (Lucas 7:15), Lázaro, que *salió* todavía atado con las vendas de la sepultura (Juan 11:44) — son cada una un regreso a la vida mortal ordinaria. ⚠️ **Ninguno de esos relatos narra una muerte posterior; que pudieran volver a morir es la implicación llana de la vida mortal, no una frase en el texto.**
 
 ## Cuatro maneras de decir "primero", y ninguna igual a otra
 

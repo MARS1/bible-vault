@@ -41,11 +41,14 @@ En inglés, el verbo del versículo y el nombre del sistema son **dos palabras d
 ::: wordstudy
 **Estudio de palabra — <span class="gr">ἁρπάζω</span>**
 
-Doce apariciones simples verificadas. **Cinco enuncian destino. Siete no.**
+El recuento de abajo es solo del verbo **simple** — <span class="gr">ἁρπάζω</span> por sí solo, sin prefijo. El griego también construye verbos **compuestos** agregando un prefijo a uno simple, y un compuesto es otra palabra con su propio rango; no entra en este recuento.
+
+Cada aparición del verbo simple en el Nuevo Testamento griego: **catorce. Seis enuncian destino. Ocho no.**
 
 | Versículo | Quién o qué es tomado | Destino |
 |-------------------------|----------------------------------|----------------------------------|
 | Mateo 11:12 | el reino | ❌ ninguno enunciado |
+| Mateo 12:29 | los bienes de un hombre fuerte, saqueados | ❌ ninguno |
 | Mateo 13:19 | la palabra sembrada | ❌ ninguno |
 | Juan 6:15 | Yeshúa, para hacerlo rey | ❌ ninguno |
 | Juan 10:12 | las ovejas, por un lobo | ❌ ninguno |
@@ -53,17 +56,18 @@ Doce apariciones simples verificadas. **Cinco enuncian destino. Siete no.**
 | ★ **Hechos 8:39** | **Felipe, por el Espíritu** | ★ **Azoto — un pueblo ordinario** |
 | Hechos 23:10 | Pablo, por soldados | la fortaleza |
 | 2 Corintios 12:2 | *un hombre en el Mesías* | el tercer cielo |
+| 2 Corintios 12:4 | el mismo hombre | <span class="gr">εἰς τὸν παράδεισον</span>, al paraíso |
 | 1 Tesalonicenses 4:17 | los creyentes vivos | <span class="gr">εἰς ἀέρα</span>, al encuentro del Señor |
 | Judas 23 | personas en peligro | **del** fuego; sin *hacia* |
 | Apocalipsis 12:5 | el hijo varón | a Dios y a su trono |
 
 **El contraejemplo decisivo es Hechos 8.** *El Espíritu del Señor arrebató a Felipe* — y dos palabras después, *Felipe se encontró en Azoto*, y sigue a pie hasta Cesarea predicando en pueblos ordinarios.
 
-**Por lo tanto <span class="gr">ἁρπάζω</span> no codifica *llevado al cielo*.** En todos los casos el destino viene del **contexto** —una frase preposicional, o la narración que sigue— y nunca del verbo.
+**Por lo tanto <span class="gr">ἁρπάζω</span> no codifica *llevado al cielo*.** En todos los casos el destino viene del **contexto** —una frase preposicional, o la narración que sigue— y nunca del verbo. Los dos destinos celestiales de 2 Corintios 12 vienen cada uno de una frase, *al tercer cielo* y *al paraíso*, igual que la fortaleza de Hechos 23.
 
-⚠️ **Un recuento corregido:** un inventario que me entregaron reportó trece apariciones incluyendo el <span class="gr">συνηρπάκει</span> de Lucas 8:29. **Ese es <span class="gr">συναρπάζω</span>, un verbo compuesto distinto**, y no puede contarse en el inventario simple. Doce verificadas; el compuesto queda registrado aparte y sin auditar.
+⚠️ **Un recuento corregido.** Un inventario anterior había fijado el recuento en trece al incluir el <span class="gr">συνηρπάκει</span> de Lucas 8:29. **Ese es <span class="gr">συναρπάζω</span>, un verbo compuesto**, y no pertenece entre las apariciones del simple — revisar la forma de cada palabra fue lo que lo detectó. El compuesto aparece cuatro veces y queda registrado aparte. Ese mismo inventario había pasado por alto Mateo 12:29 por completo. Y 2 Corintios 12:4 había quedado sin confirmar, porque el texto citado primero para él fue la segunda cláusula del versículo — *y oyó palabras inefables* — que no contiene el verbo. Leído completo, el versículo lo tiene: <span class="gr">ἡρπάγη εἰς τὸν παράδεισον</span>, *fue arrebatado al paraíso*. Los dos están ya en la tabla.
 
-⚠️ **Y un versículo citado en la cláusula equivocada:** pedido 2 Corintios 12:4, el mismo carril devolvió *y oyó palabras inefables* — **que no contiene ninguna forma del verbo.** La aparición en 12:4 queda por lo tanto **no verificada por este trabajo**, aunque el versículo casi con certeza la contiene. Registrado como falla de recuperación en vez de completado desde la expectativa.
+⚠️ *Una nota de edición: en Mateo 12:29 algunas ediciones impresas del griego leen el compuesto <span class="gr">διαρπάσαι</span> en su lugar, lo cual dejaría el recuento en trece. El versículo no tiene destino de ninguna de las dos formas, así que nada depende de ello.*
 :::
 
 ::: finding
@@ -133,9 +137,9 @@ Y **el único otro uso que Pablo hace de <span class="gr">ἀήρ</span> como do
 
 La construcción teológica se escribe sola: *el encuentro ocurre en el dominio del usurpador, y ese es el punto.*
 
-🛑 **Eso es una construcción teológica, no un hallazgo léxico.** Efesios 2:2 es un versículo, en otra carta, sobre otro tema. Y el inventario de esta palabra es **provisional por admisión del propio agente que lo recuperó** — una búsqueda directa de la palabra griega falló, así que la lista se armó desde una concordancia moderna y se filtró después. **Siete apariciones encontradas; no confirmadas como exhaustivas.**
+🛑 **Eso es una construcción teológica, no un hallazgo léxico.** Efesios 2:2 es un versículo, en otra carta, sobre otro tema. La palabra aparece **siete veces** en el Nuevo Testamento — un recuento armado primero desde una concordancia en inglés, y desde entonces confirmado completo contra el griego mismo — y solo una de las siete hace del aire un dominio hostil.
 
-Una conclusión apoyada en una lista de palabras no exhaustiva no está disponible. El dato se registra y la síntesis se retiene, para que una etapa posterior la construya bien o no la construya.
+Un versículo no puede cargar esa síntesis. El dato se registra y la síntesis se retiene, para que una etapa posterior la construya bien o no la construya.
 :::
 
 ## Hechos 1 especifica manera, y nada más
