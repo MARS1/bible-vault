@@ -54,9 +54,11 @@ Ezequiel describe un gran temblor acompañando el juicio. **Apocalipsis 20 no lo
 ::: finding
 **Hallazgo — la frase retenida, y queda deliberadamente subafirmada**
 
-❗ **<span class="gr">σεισμὸς μέγας</span> aparece en otros lugares de Apocalipsis. No aparece en el capítulo 20.**
+✅ **Y Apocalipsis 20:7–10 no la usa. Ni el sustantivo, ni el adjetivo, ninguna palabra de temblor en absoluto.**
 
-⚠️ **Y aquí me detengo, porque no he hecho el barrido completo del término en este punto de la investigación.** 🛑 **Queda registrado como DEUDA, no como afirmación.** *Juan no lo usa aquí* es un hecho sobre el capítulo 20. *Juan lo retuvo deliberadamente* sería una afirmación sobre su intención, y esa no la tengo.
+⚠️ **Y aquí está la parte que hay que verificar antes de apoyarse en ella.** **No** he barrido si esa frase aparece en otro lugar de Apocalipsis. ❗ **Si aparece, esto se vuelve un resultado mucho más fuerte** — Juan tendría demostrablemente la frase, la usaría en otro lugar, y la retendría precisamente donde toma el material de Gog de Ezequiel. **Si no aparece, el hallazgo es solamente que no la importó.**
+
+🛑 **Registrado como deuda, no como afirmación.** *Juan no la usa aquí* es un hecho sobre el capítulo 20. *Juan la retuvo deliberadamente* sería una afirmación sobre su intención, y esa todavía no la tengo.
 
 📐 **La diferencia entre esas dos frases es la diferencia entre un dato y una lectura**, y esta investigación existe para no confundirlas.
 :::
