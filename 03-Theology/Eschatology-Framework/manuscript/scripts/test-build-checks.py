@@ -65,6 +65,15 @@ for label, line, want in [
 ]:
     p = in_tmp(line); check(label, bool(bm.check_es_register([p])), want); p.unlink()
 
+print("\nsource_words — count what the reader sees, not markdown")
+# 2026-10-10: Part VIII reader revision failed the word-recovery band with no text
+# missing. Table pipes, <span> openers and ::: fences were counted as words.
+check("table row counts cells, not pipes", bm.source_words("| Verse | Said of |"), 3)
+check("separator row counts nothing", bm.source_words("|------|:---:|"), 0)
+check("span counts its text only", bm.source_words('<span class="gr">μικρὸν χρόνον</span> (*mikron*)'), 3)
+check("fence lines count nothing", bm.source_words("::: finding\n**Label**\n:::"), 1)
+check("plain prose unchanged", bm.source_words("The end is not yet."), 5)
+
 print()
 if FAILS:
     print("FAILURES:"); [print("  " + f) for f in FAILS]; sys.exit(1)

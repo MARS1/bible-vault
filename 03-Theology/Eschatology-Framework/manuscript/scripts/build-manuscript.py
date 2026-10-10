@@ -196,6 +196,24 @@ def declutter(t):
     t = re.sub(r"\[\[([^\]|]+)\|([^\]]+)\]\]", r"\2", t)
     return re.sub(r"\[\[([^\]]+)\]\]", r"\1", t)
 
+def source_words(t):
+    """Words a reader can see, not markdown tokens.
+    The source count used to be raw .split(), so every table pipe, `<span class=..>`
+    opener and `::: finding` fence counted as a word that can never appear in the PDF.
+    Emoji balanced it by accident (they count in both), so the bias stayed hidden until
+    the Part VIII reader revision (2026-10-10) removed the emoji and added tables and
+    transliteration spans: 19,850 recovered against 20,418 'source', a false failure
+    with no text missing (markup-stripped source 19,929). Same 2% band as before --
+    the count is fixed, the tolerance is not widened."""
+    t = re.sub(r"<[^>]+>", " ", t)
+    keep = []
+    for ln in t.split("\n"):
+        s = ln.strip()
+        if s.startswith(":::") or s == "---" or re.fullmatch(r"\|[\s:|-]+\|", s):
+            continue
+        keep.append(ln.replace("|", " "))
+    return len(" ".join(keep).split())
+
 def git(*a):
     return subprocess.run(["git", "-C", str(ROOT), *a], capture_output=True, text=True).stdout.strip()
 
@@ -213,11 +231,15 @@ def collect(lang, part):
 def render(lang, part, outdir, stem):
     title, files = collect(lang, part)
     chunks = [declutter(strip_frontmatter(f.read_text())).strip() for f in files]
-    words = sum(len(c.split()) for c in chunks)
+    words = sum(source_words(c) for c in chunks)
     outdir.mkdir(parents=True, exist_ok=True)
 
     md = outdir / f"{stem}-clean.md"
-    md.write_text(f"# {title}\n\n*Draft 1. {words:,} words.*\n\n" + "\n\n---\n\n".join(chunks) + "\n")
+    # Chapters are joined by a blank line, not `---`. Every chapter title is an h1, and
+    # h1 already forces a new page, so a rule between chapters adds nothing -- and when
+    # the previous chapter ended near the foot of a page it was pushed onto a page of its
+    # own: Part VIII rendered a blank page holding one short rule (2026-10-10).
+    md.write_text(f"# {title}\n\n*Draft 1. {words:,} words.*\n\n" + "\n\n".join(chunks) + "\n")
 
     frag = subprocess.run(["pandoc", str(md), "-f", "markdown+fenced_divs", "-t", "html5"],
                           capture_output=True, text=True, check=True).stdout

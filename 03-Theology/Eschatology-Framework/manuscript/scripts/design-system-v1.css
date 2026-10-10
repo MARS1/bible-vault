@@ -22,10 +22,17 @@ h1:first-of-type { page-break-before: avoid; }
 h2 { font-family: "Helvetica Neue", Arial, sans-serif; font-weight: 600; font-size: 10.5pt;
      letter-spacing: 0.09em; text-transform: uppercase; color: #3d4247;
      margin: 2.4em 0 0.8em; page-break-after: avoid; }
+/* h3 had no rule, so pandoc's h3 fell back to the browser default (~1.17em,
+   bold) -- and earlier drafts used `### **sentence**` for emphasis, which then
+   printed as display-size type in the middle of an argument (Part VIII reader
+   review, ch52: "why is the font so huge"). h3 is now a quiet subsection head,
+   one step below h2, and never larger than the body. */
+h3 { font-family: Georgia, "Times New Roman", serif; font-weight: 700; font-size: 11.5pt;
+     font-style: italic; line-height: 1.4; margin: 1.8em 0 0.6em; page-break-after: avoid; }
 h1 + p::first-letter { font-size: 1.25em; }
 
 p { margin: 0 0 0.8em; text-align: justify; }
-h1 + p, h2 + p, hr + p { text-indent: 0; }
+h1 + p, h2 + p, h3 + p, hr + p { text-indent: 0; }
 
 hr { border: none; margin: 2em auto; width: 28%;
      border-top: 1px solid #c9cdd1; }
@@ -61,6 +68,44 @@ div.historical strong:first-child, div.evidence strong:first-child, div.claimtyp
   hyphens: none;
 }
 
+/* The label rule above was meant for a callout's single opening label, but
+   :first-child matches the first <strong> ELEMENT of every paragraph and list
+   item, regardless of the text before it. So any later paragraph inside a box
+   that used bold for emphasis printed it as an uppercase sans label
+   ("...after AD 70. THE HYPOTHESIS IS NOT INCOHERENT." -- Part VIII ch47,
+   caught by rendering the page, 2026-10-10). Only the box's FIRST paragraph
+   carries the label; emphasis everywhere else stays ordinary bold. Table row
+   labels are untouched -- that leak is deliberate (see below). */
+div.person p:not(:first-child) strong:first-child,
+div.whereweare p:not(:first-child) strong:first-child,
+div.earned p:not(:first-child) strong:first-child,
+div.openquestion p:not(:first-child) strong:first-child,
+div.textualnote p:not(:first-child) strong:first-child,
+div.finding p:not(:first-child) strong:first-child,
+div.wordstudy p:not(:first-child) strong:first-child,
+div.historical p:not(:first-child) strong:first-child,
+div.evidence p:not(:first-child) strong:first-child,
+div.claimtypes p:not(:first-child) strong:first-child,
+div.chain p:not(:first-child) strong:first-child,
+div.person li strong:first-child, div.whereweare li strong:first-child,
+div.earned li strong:first-child, div.openquestion li strong:first-child,
+div.textualnote li strong:first-child, div.finding li strong:first-child,
+div.wordstudy li strong:first-child, div.historical li strong:first-child,
+div.evidence li strong:first-child, div.claimtypes li strong:first-child,
+div.chain li strong:first-child {
+  font-family: inherit; font-size: inherit; font-weight: 700;
+  letter-spacing: normal; text-transform: none; hyphens: inherit;
+}
+
+/* ---------- TYPOGRAPHY-001: four tiers, one deliberate change ----------
+   Not every box carries the same weight. Tier 1 is the body (11.5pt).
+   Tier 2 belongs to the argument's reading rhythm; tier 3 supports it;
+   tier 4 is technical apparatus a reader may skim. Set here, never per box. */
+div.finding, div.whereweare, div.earned { font-size: 10.8pt; line-height: 1.52; }
+div.person, div.historical, div.openquestion { font-size: 10pt; line-height: 1.48; }
+div.textualnote, div.wordstudy, div.claimtypes, div.evidence, div.chain {
+  font-size: 9.6pt; line-height: 1.45; }
+
 /* ---------- per component: each readable in grayscale ---------- */
 /* who is this person: light ground, hairline rule */
 div.person      { background: #f4f5f6; border-left: 3px solid #8a9198; }
@@ -95,7 +140,19 @@ div.claimtypes li::before { content: "\2014\00a0"; color: #6c7378; }
    quieter than a finding, and never mistakable for one */
 div.commentary  { background: none; border-left: 3px solid #6c7378;
                   border-top: 1px dotted #c9cdd1; border-bottom: 1px dotted #c9cdd1;
-                  font-size: 0.95em; }
+                  font-size: 9.4pt; line-height: 1.45; padding: 0.6em 0 0.6em 1em;
+                  margin: 1.3em 0; }
+div.commentary p { text-align: left; margin: 0 0 0.45em; }
+
+/* ---------- the two scales, never one component ----------
+   EVIDENCE GRADE (contradicts / permits / supports / requires) is a formal
+   label: sans, small caps, hairline frame. CONFIDENCE (established / probable /
+   open / refused) is a judgement word: serif italic small caps, no frame.
+   Distinct in grayscale, so the two scales cannot be read as one. */
+.grade { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 0.8em; font-weight: 600;
+         text-transform: uppercase; letter-spacing: 0.06em; white-space: nowrap;
+         border: 0.6pt solid #6c7378; padding: 0 0.3em; border-radius: 1.5pt; }
+.conf  { font-style: italic; font-variant: small-caps; letter-spacing: 0.03em; }
 
 /* the growing chain */
 div.chain       { background: none; border: 1px solid #c9cdd1; text-align: center; }

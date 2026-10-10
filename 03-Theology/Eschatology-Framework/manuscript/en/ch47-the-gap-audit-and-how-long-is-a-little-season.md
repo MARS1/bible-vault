@@ -1,368 +1,286 @@
 ---
-title: "Manuscript (EN) — Chapter 47: The Gap Audit, and How Long Is a Little Season?"
+title: "Manuscript (EN) — Chapter 47: What Remains Open, and How Long Is a Little Season?"
 type: manuscript
 category: theology
-tags: [draft-1, part-viii, chapter-47, stage-58h, stage-59, side-branch-54q, gap-audit, chilia-ete, mikron-chronon, oligon-kairon, four-way-constraint, chronology-quarantine, phantom-time, h1-h2-h3, location-humility, under-read-verse]
+tags: [draft-2, revision-2, part-viii, chapter-47, stage-58h, stage-59, side-branch-54q, chilia-ete, mikron-chronon, oligon-kairon, four-way-constraint, chronology-quarantine, phantom-time, location-humility]
 reference: "Revelation 5:9-10, 12:12, 20:2-9, 21:4, 3:21, 2:26-27, 6:9, 6:11, 7:9-15; Matthew 24:6-12; Isaiah 65:17-25"
 created: 2026-09-19
 status: draft
-localization: "DRAFT 1. Approved architecture v1.0, Part VIII, Chapter 47 — opens Part VIII. Sources: Stages 58½ and 59 and [[03i-the-gap-audit-what-actually-remains]] · [[03j-how-long-is-the-little-season]], PLUS Side Branch 54¾ [[02y-the-chronology-fork-and-the-quarantine]], compressed here as the chapter's setup per architecture §9. ★★★ PART VIII'S GOVERNING CONSTRAINT: it accepts the bill Part VII left rather than resetting the argument. PF-01 enters at SUPPORTS, not REQUIRES, and no YOU ARE HERE marker may be forced. ★★★ THE REAL BLOCKER IS THE NUMBER: χίλια ἔτη has NEVER been adjudicated across fifty-eight stages — every mention is a DISCLAIMER. A well-managed open item hid as effectively as a forgotten one. ★★★ THE DECIDING TEST IS FIXED BEFORE THE ANSWER IS KNOWN: does Revelation ever use a number in a way that is demonstrably NOT literal? ★★★ THREE OUTCOMES, AND THE THIRD IS NOT A FAILURE: LITERAL → a terminus is computable · SYMBOLIC → no terminus exists and the question reshapes around conditions · UNDETERMINED → Revelation does not license the question as asked. ★★★ THE QUARANTINED FORK DETONATES HERE: the inserted-millennium arithmetic is INTERNALLY COHERENT and was checked, not waved at — and its premise would REDATE, NOT DELETE, the manuscript base this entire investigation reads from; what's UNFALSIFIABLE BY CONSTRUCTION is the self-sealing DEFENCE usually offered for it, not the chronological claim itself, which the five named tests below can actually adjudicate. Falsification tests named IN ADVANCE, eclipse retro-computation first. ★★★ Y2K POINTS THE OPPOSITE WAY — two-digit storage means the thousands digit was OMITTED, not added. ★★★★★ q395, THE FOUR-WAY CONSTRAINT: PF-01 + a chronological millennium + 'short' + 'we are in it now' CANNOT ALL HOLD. First-century start plus chronological millennium puts the terminus near the eleventh century, making the present day roughly nine hundred years into a SHORT time. Five exhaustive options; the one that dissolves it is the quarantined one. ★★★ TWO MATTHEW DEBTS, AND A NEW FAILURE MODE: 24:12 was retrieved WHOLE and read HALFWAY — ψυγήσεται ἡ ἀγάπη τῶν πολλῶν never examined; and 24:6-8 was NEVER retrieved, sitting as an unverified cell inside a load-bearing falsification table. Recorded as debts, NOT filled from memory. ★★ LAND IMAGERY ON BOTH SIDES, LOCATION STILL UNRESOLVED — 5:10's βασιλεύουσιν ἐπὶ τῆς γῆς (PRESENT in SBLGNT/Westcott-Hort, future βασιλεύσουσιν a variant with Nestle-Aland/Byzantine support — SOURCE-LANGUAGE, carries to ES) and 20:9's surrounded camp rule out an exclusively-heavenly reign — but 20:9 is POST-millennial and does not place the 20:4-6 reigners in that camp DURING the interval, nor establish they're the same group. ★★ Isaiah 65:20 contains death; Revelation 21:4 excludes it — NO lifespan parameter. ★★ H1/H2/H3 all LIVE, none eliminated. ★ Phenomenon occurring != prophecy fulfilled. ★ Revelation 20:7-10 lists NO physical-upheaval markers. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
+localization: "DRAFT 2 (Part VIII reader revision, 2026-10-10). Opens Part VIII. Sources: Stages 58½ and 59, [[03i-the-gap-audit-what-actually-remains]], [[03j-how-long-is-the-little-season]], Side Branch 54¾ [[02y-the-chronology-fork-and-the-quarantine]]. CONTENT: PF-01 carried in at SUPPORTS, no higher. The thousand years (χίλια ἔτη) had been kept open throughout and never directly tested; that test is fixed in advance (does Revelation ever use a number demonstrably non-literally?) with three possible outcomes. The inserted-millennium chronology is set up with its reasoning, shown to be arithmetically coherent, shown to REDATE rather than delete the manuscript base, distinguished from its self-sealing defence, and given five external tests named in advance. Y2K points the opposite way. Three present-era hypotheses remain live. Land imagery appears on both sides of the reign's location; 5:10's tense is a genuine variant (present in SBLGNT/WH, future in NA/Byzantine) — SOURCE-LANGUAGE. Isaiah 65:20 cannot supply millennial lifespans. Four-way constraint (PF-01 + chronological thousand + short + we-are-in-it) with options (a)-(e) defined here and cited by letter in later chapters. Three conditions (late millennium / early little season / final little season). Phenomenon occurring is not prophecy fulfilled; Rev 20:7-10 lists no physical-upheaval markers. HARD CONSTRAINT: the eclipse note describes delta-T only as a correction factor, never by physical cause. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide."
 related: "[[10-manuscript-architecture]], [[03i-the-gap-audit-what-actually-remains]], [[03j-how-long-is-the-little-season]], [[02y-the-chronology-fork-and-the-quarantine]], [[02i-the-abyss-audit-and-the-greek-of-revelation-20]], [[01h-who-is-alive-during-and-after-the-thousand-years]]"
 ---
 
-# Chapter 47: the gap audit, and how long is a little season?
+# Chapter 47: What remains open, and how long is a little season?
 
-Part VII ended with a bill, and this Part has to pay it rather than open a fresh account.
+Part VII ended with an unresolved tension, and this Part has to work inside it rather than start the argument over.
 
-What the previous Part established, I am carrying in at exactly its recorded strength and no higher. **PF-01 stands at SUPPORTS** — a first-century entrance for the transition is biblically plausible and increasingly supported, and it is not historically established. The binding cannot date anything. The whole weight of dating sits on the first resurrection, which leaves the fewest traces of anything in this investigation. And the beast, the false prophet and Babylon are still unidentified, which means the marker on the front end of the interval is still missing.
+I am carrying the previous Part's results forward at exactly the strength they were recorded, and no higher. **PF-01** — the first finding of this book, that the great eschatological transition entered history in the first century — stands at <span class="grade">supports</span>: biblically plausible and increasingly supported, but not historically established. Satan's binding cannot date anything. The whole weight of dating rests on the first resurrection, which leaves fewer historical traces than anything else in this investigation. And the beast, the false prophet and Babylon are still unidentified, so the marker at the front end of the thousand years is still missing.
 
-So the question changes shape. It is no longer *can a substantial first-century fulfilment be defended*. It is the harder downstream one:
+That changes the question. It is no longer whether a substantial first-century fulfilment can be defended. It is the harder question that follows from it:
 
 > **If that transition really occurred, where does Revelation 20 leave the thousand years — and where, if anywhere, are we now?**
 
-I want to say at the outset that I do not know whether that second half has an answer. This Part may end without a *you are here*. If it does, that is a result and not a failure, and I would rather write it that way than manufacture a marker the evidence will not carry.
+I do not know whether the second half of that question has an answer. This Part may end without a "you are here." If so, that is a result, not a failure, and I would rather say so than manufacture a marker the evidence cannot carry.
 
-## I counted instead of guessing
+## Taking stock before going further
 
-Someone asked me how far along this was, and rather than estimate I went and audited my own folder. The answer was embarrassing in a useful direction.
+Before opening new lines of investigation, I reviewed what the preceding stages had already established. That changed the shape of the remaining work. Five questions seemed to stand between Part VII and the present-day question, and earlier work had already answered substantial parts of four of them.
 
-::: finding
-**Finding — four of the five things I was about to study were already done**
+| Question | What the investigation has already established |
+|------------------------------|---------------------------------------------------|
+| What happens during the thousand years? | The nations remain on the scene throughout. The population of that period cannot be reduced to the resurrected saints alone. |
+| What changes when Satan is released? | One specific restraint ends — the restraint on deceiving the nations — and the nations are gathered toward the final conflict. |
+| What are Gog and Magog? | Revelation's own use of the names has been examined. Their background in Ezekiel 38–39 still needs to be brought together (Chapter 48). |
+| What are the camp and the beloved city? | Examined earlier; the identification remains qualified where the text does not settle it (Chapter 52). |
+| What does *war* mean in Revelation? | The range of the word across the book still needs to be gathered in one place (Chapter 52). |
 
-I had drawn up five groundwork questions. **Three of them sit in a single file I had not opened in weeks** — a clause-by-clause pass through Revelation 20:1–10 running to nearly four hundred lines, which already contains the camp, the unnamed city, the grammatical point about Gog and Magog standing in apposition, the deception bookend, and the observation that Revelation calls the abyss a **prison** at 20:7.
+So two pieces of groundwork remained, not five. But the review also turned up something that was not on the list at all, and it matters more than any of them.
 
-A second file already drafts the whole Revelation 19–22 sequence with its Daniel, Matthew and Pauline cross-references attached. **The spine of this entire investigation was already written down in one place.**
+## The question I had kept open without ever testing
 
-| What I planned to study | What the archive already had |
-|---------------------------------|-------------------------------------------------|
-| what happens during the interval | ✅ **done** — the nations were already there, and the millennial population is not only resurrected saints |
-| what changes at the release | ✅ **done** — the deception sweep, the scope rule, and the finding that the binding cannot date anything |
-| what Gog and Magog are | 🔶 **half** — the Revelation side is done; the Ezekiel side is not |
-| the camp and the beloved city | ✅ **already treated** |
-| what *war* means | 🔶 **half** — no consolidated study of the word's range across Revelation |
+Every time <span class="gr">χίλια ἔτη</span> (*chilia etē*, "a thousand years") has come up in this book, it has come up as a disclaimer: not established, not assumed, not included. PF-01 explicitly excludes it. Earlier chapters listed it as open.
 
-📌 **Two groundwork stages remained, not five — and one of those was mostly assembly.** I record that plainly because the question behind it was about pace, and the honest answer to a question about pace is a number rather than a reassurance.
-:::
+Each of those disclaimers was correct. But when I looked back across the preceding fifty-eight stages, I found that I had repeatedly kept the thousand years open without ever directly testing what kind of duration Revelation 20 describes. I had been careful not to assume an answer — and repeated caution had begun to look like an answer when it was not one.
 
-And then the audit found the thing that actually mattered, which was not on my list at all.
+This question governs everything that follows. Part VII established that Satan's binding cannot date the beginning of the thousand years, because the conditions it describes fit almost any century before the final coalition. If the number cannot date the length either, then neither end of the interval can be fixed, and "are we inside it or past it?" stops being a question about the calendar. It becomes a question about conditions.
 
 ::: finding
-**Finding — nobody had ever adjudicated the number**
+**The test, fixed before the answer is known**
 
-Every time <span class="gr">χίλια ἔτη</span> — *a thousand years* — has come up in this investigation, it has come up as a **disclaimer**.
+The question that decides it: **does Revelation ever use a number in a way that is demonstrably not literal?**
 
-*Not established. Not licensed. Not included.* PF-01 explicitly excludes it. An earlier chapter listed it as open. The chapter before that listed it as open. **Across fifty-eight stages it has been carefully set aside so many times that setting it aside began to look like having handled it.**
+If it does, "a thousand years" cannot simply be assumed literal. If it never does, the literal reading gains real weight. There are three possible outcomes, and they lead to genuinely different investigations:
 
-❗❗ **It has never once been examined.**
+1. **Literal.** An end-point can be calculated, and history can be tested against it.
+2. **Symbolic.** There is no end-point to calculate, and the question has to be answered from the conditions Revelation describes.
+3. **Not determined by the text.** Revelation does not support the question in the form I have been asking it.
 
-🛑 **And it is the gate on everything.** Part VII already established that Satan's binding cannot date the interval's beginning, because its signature is satisfied by almost any century before the final coalition. **If the duration cannot date the length either, then neither end of the thousand years can be fixed — and *are we inside it or past it* stops being a chronological question altogether.** It becomes a question about conditions.
-
-📐 **Three outcomes, genuinely different investigations, and the third is not a failure:**
-**LITERAL** → a terminus can be computed and history can be tested against it.
-
-**SYMBOLIC** → no terminus exists to compute, and the whole question reshapes around the fingerprint alone.
-
-**UNDETERMINED BY THE TEXT** → Revelation does not license the question as I have been asking it.
-
-**So the order reverses. The number goes first.**
+The third outcome would not be a failure. It would be a finding about what the text does and does not tell us.
 :::
 
-::: commentary
-**Why a well-managed open item hid better than a forgotten one**
+The material for this test is already gathered: forty-two months, 1,260 days, and "a time, times, and half a time," which describe one interval three ways; the number of the beast and its manuscript variant; the 144,000; the seven heads and seven kings. Chapter 49 carries out the test. It is not decided here.
 
-Every one of those disclaimers was **correct**. Excluding the number from PF-01 was right. Flagging it as unlicensed was right. Refusing to build on it was right.
+## The calendar question
 
-❗ **And the cumulative effect of doing the right thing repeatedly was that a question kept being marked *not yet* until it looked answered.**
+Before going further, there is a proposal about the calendar itself that this chapter has to address openly, because the pressure that makes it attractive arrives later in this same chapter.
 
-A forgotten item leaves a hole somebody eventually falls into. **A well-managed one leaves a tidy label, and nobody looks behind the label.** That is a failure mode I had not met before, and it is the second time in this Part's sources that the archive's own discipline concealed something from me.
-:::
+### Why test the calendar at all?
 
-And the deciding test gets fixed **now**, before I know the answer, because a test chosen afterward is not a test:
+Revelation 20's thousand years raise two separate questions: how literally the number should be taken, and — if it is roughly literal — when the period begins and ends. If the thousand years began in the first-century transition and lasted approximately a thousand calendar years, they would have ended roughly a millennium later. But conventional chronology places about two thousand years between that first-century horizon and today. For an approximately literal reading, that is a problem.
 
-> ★★ **Does Revelation ever use a number in a way that is demonstrably not literal?**
+One response is that the thousand years are not a literal measure of elapsed time. A more radical response, which some writers propose, is that conventional chronology itself is wrong — that roughly a thousand years were inserted into the historical record, so the centuries we count were never actually lived.
 
-If it does, <span class="gr">χίλια ἔτη</span> cannot simply be assumed literal. If it never does, the literal reading gains real weight. **And the material to answer it is almost entirely banked already** — forty-two months, twelve hundred and sixty days, and time, times and half a time, which are one interval given three ways; the number of the beast with its variant, which at least four names satisfy; the hundred and forty-four thousand; the seven heads and seven kings. That is Chapter 49's work, and it will not be decided here.
+That is an extraordinary claim and has to be treated as one. The question is not whether Revelation proves missing centuries; it cannot, and I will not use it that way. The question is whether independent historical and physical evidence even permits a displacement of that size.
 
----
+### The arithmetic, stated carefully
 
-# The exit I sealed before I needed it
+Two different calculations are easily confused here, and they must be kept apart.
 
-There is a chronological proposal I have been carrying under quarantine since Part VII, and this is the chapter where it has to be dealt with in the open, because the pressure that makes it attractive arrives later in this same chapter.
+The first is only an orientation point. Counting back a thousand years from 2026 lands at 1026. That says nothing about when the thousand years of Revelation 20 began.
 
-**The proposal:** that roughly a thousand labelled years never happened — that a span of about AD 100 to 1100 is phantom, inserted into the record. If so, then from that point forward **labelled year = real year + 1000.**
+The second is the hypothesis itself. Suppose a span of roughly AD 100 to 1100 never happened and was inserted into the record afterward. Then every year we now label is a thousand more than the years that actually passed:
 
 ::: evidence
-**First, credit where it is owed — the arithmetic is internally consistent**
+**The inserted-millennium hypothesis, worked through**
 
-I checked it rather than waving at it.
-
-| | |
+| What we call the year | What it would actually be |
 |---|---|
-| labelled **2026** | = real **1026** |
-| a thousand years from AD 70 ends at real **1070** | = labelled **2070** |
-| time remaining | ≈ **44 years** |
+| 2026 | 1026 |
+| AD 70 + 1,000 years = 1070 | would be labelled 2070 |
+| Remaining time | about 44 years |
 
-✅ **That is arithmetically coherent, provided the insertion sits entirely after AD 70.**
-
-📌 **So the hypothesis is not incoherent. It is unevidenced — which is a different and more precise objection, and the difference matters.**
+This is arithmetically consistent, provided the entire insertion falls after AD 70. **The hypothesis is not incoherent. It is unevidenced** — a different and more precise objection.
 :::
 
-Then the cost.
+### What the hypothesis would actually do to the evidence
 
-::: finding
-**Finding — the premise would re-found the evidence base of this entire investigation**
+If the years labelled AD 100–1100 did not happen, every early manuscript of the New Testament would fall inside the disputed span: the papyri, the great codices conventionally dated from the second to the fifth century, the whole chain of copying, the formation of the canon, and every early writer and council. And the Greek text I have quoted throughout this book is a modern edition reconstructed from exactly those manuscripts.
 
-If labelled AD 100–1100 did not happen, then **every early New Testament manuscript** sits inside the disputed span. The papyri. The great codices, conventionally dated second to fifth century. The transmission chain. The canon's formation. Every early writer and every council.
+It is important to state this precisely, because a stronger version of the objection is tempting and wrong. **The manuscripts would not disappear, and their Greek would not change.** They would still sit in their libraries and still read exactly what they read. A revised chronology redates artifacts; it does not delete them.
 
-❗❗ **And the critical Greek text I have been quoting from for the length of this book is a modern edition reconstructed from exactly those manuscripts.**
+What would have to be rebuilt is everything around them: their dates, their origins, their order relative to one another, and the historical setting each is read against. The readings themselves would survive — the matching verb at the binding, the identical form in the Greek of Isaiah, the case mismatch at Revelation 20:4, the small phrase "any longer" at 20:3. But every judgement about which witness is earlier, what it responds to, and what it can establish would have to be made again. If verified, the hypothesis would require rebuilding the very apparatus used to verify it. That is a serious objection, and it does not need overstating.
 
-⚠️ **Now stated precisely, because the strong version of this objection is tempting and is wrong.** ❌ **The manuscripts would not cease to exist, and the Greek would not evaporate.** The physical witnesses would still be sitting in their libraries and would still read exactly what they read. **A chronology revision redates artifacts; it does not delete them.**
+### The defence is self-sealing; the claim is not
 
-🛑 **What would collapse is everything *around* them** — their dates, their provenance, their sequence relative to one another, and the historical setting each one is read against. **The verb match at the binding, the identical form in the Greek Isaiah, the accusative-against-nominative mismatch at Revelation 20:4, the little word *any longer* at 20:3: the readings survive. Every judgement about which witness is earlier, what it is responding to, and what it can therefore be used to establish would have to be rebuilt from nothing.**
+This distinction decides whether the proposal can be tested at all.
 
-📌 **And this is not an ordinary *unverified* tag.** An unverified claim might later be verified. **This one, if verified, would require re-founding the apparatus used to verify it** — which is a serious enough objection that it does not need the overstatement I first reached for.
+The defence usually offered for it seals itself. Any evidence dated inside the disputed window — manuscripts, coins, inscriptions, lists of rulers, councils — can be dismissed as part of the invented span. On that way of arguing, no counter-evidence from the period can ever count, because the evidence against the hypothesis is automatically reclassified as part of the fiction. That is not an argument. A method that allows an unanswerable objection at every step is not a method, which is why I refuse it.
+
+But the underlying claim is different. "Roughly a thousand conventional years were inserted into the record" is a claim about elapsed time, and it can be tested against any clock that does not depend on the disputed documents. Dismissing a testable claim as untestable would be its own kind of convenience — and I would be doing it to a proposal I have every motive to be rid of.
+
+If a large block of centuries had been inserted into conventional chronology, evidence independent of medieval European historical writing should expose it. Here are the tests, written down before any of them is run, so the proposal cannot later be judged by whichever test proves most convenient:
+
+::: textualnote
+**Five external tests, named in advance**
+
+| Test | Why it applies |
+|--------|------------------------|
+| **Eclipse records** | Eclipses can be calculated backward with great precision, and observations of them survive in traditions that never coordinated with European chronicles — Assyrian, Chinese, Greek and Roman among them. Matching an ancient record to a calculated eclipse requires a correction factor, known as delta-T, which for remote centuries is itself estimated partly from those same ancient records. That correction limits how precisely a record can be matched; it does not come anywhere near centuries. A genuine thousand-year displacement would produce discrepancies vastly larger than the uncertainties involved in matching well-attested ancient eclipses to calculation. |
+| **Tree-ring sequences** | Continuous, overlapping sequences of annual tree rings, cross-matched between regions. |
+| **The Islamic calendar** | A continuous count of years from its own starting point in AD 622, kept by communities outside the European chronicle tradition. |
+| **Other calendar traditions** | The Ethiopian calendar, for example, numbers its years about seven to eight years behind the Gregorian; the year that began in September 2026 is 2019 in that reckoning. Calendars can count differently — but by single digits, not by a millennium. (The Hebrew calendar's year count has its own history of development, so it is a check on continuity of record-keeping rather than an independent physical clock.) |
+| **Radiocarbon and stratigraphy** | Physical dating methods, cross-checked against the tests above. |
+
+One rule governs all of them: **Revelation may not be used as evidence for the chronology being tested.** Otherwise I would be doing exactly what I have refused throughout this book — finding an outside theory that makes the text work, then using the text to confirm the theory. Chapter 50 runs these tests.
 :::
 
+### Three supporting observations, none of which holds
+
+**The Y2K problem — the "millennium bug" — points the opposite way.** It existed because computer systems stored years as two digits. The century and the millennium were never recorded at all; a two-digit counter rolls over precisely because the leading digits are missing. The fault came from the thousands digit being left out, not added. If anything, it is evidence against the connection.
+
+**The letter-shaped numeral is a fair question, but not evidence.** Early modern printing and engraving often rendered the numeral one with a glyph closely resembling a capital letter. Resemblance alone establishes nothing. But there is a form of the question that can be researched: do dated objects conventionally read as from the 1600s or 1700s begin with a character that documents of the same period demonstrably treated as the numeral one? That can be answered from original dated artifacts. Appearance alone cannot answer it.
+
+**And modern signs cannot date Revelation 20.** Whatever is currently being pointed to — an institution, a symbol, a detail on a monument — none of it can establish that Satan's release is near. If the biblical chronology really points somewhere, it has to stand without them. An argument that needs a current news item to hold it up was never standing.
+
+## An assumption I had not examined
+
+Setting the calendar question aside entirely, something real remains, and I nearly missed it while working through the arithmetic.
+
+I had been asking whether we are in the little season without ever establishing that the thousand years are over. I had carried that assumption from stage to stage without stating it. And it matters more than an unsettled detail, because of what Part VII established about the two possible starting points: you cannot count from a beginning you have not identified. The question of where we are now is not merely open; it depends on a prior question this investigation has not yet answered.
+
+So three possibilities remain, and none is eliminated:
+
+| Possibility | Status |
+|--------------|------------|
+| **The thousand years are past**, and the little season is underway now | Live. This was my own working assumption, and I had not recognized it as one. |
+| **The thousand years are underway now**, and Satan's release is still ahead | Live — and it does not require any revision of conventional chronology. |
+| **The thousand years are entirely future** | Live, and deliberately not eliminated. |
+
+The second possibility deserves a note. One can hold that the transition happened in the first century *and* that the thousand years have not yet run out, on ordinary chronology, if the thousand years are not a literal calendar thousand — which is exactly what this Part has not yet settled.
+
+And the third stays open for a reason that costs me something. My argument connects Yeshua's warnings in Matthew 24 to Paul's in 2 Thessalonians 2; if that connection ever fails, a wholly future thousand years has to remain available. Retiring that possibility now, because the current argument leans early, would be precisely the kind of pre-commitment this investigation exists to avoid.
+
+## Where do the saints reign?
+
+One line of reasoning runs like this: Messiah is at the Father's right hand; the saints are with Messiah; therefore the saints reign in heaven.
+
+What is established does point that way. The martyrs are "under the altar" (6:9). The great multitude stands "before the throne and before the Lamb" (7:9). The overcomer is promised a seat "with Me on My throne" (3:21). But Revelation also supplies evidence in the other direction, and it is not weak.
+
 ::: finding
-**Finding — the *defence* offered for it is self-sealing. The *claim* is not.**
+**Land imagery on both sides — the location still unresolved**
 
-⚠️ **This distinction decides whether the branch can be tested at all, so it has to be made carefully rather than swung as a club.**
+**Revelation 5:10:** "You have made them a kingdom and priests to our God, and they reign on the earth" — <span class="gr">βασιλεύουσιν ἐπὶ τῆς γῆς</span> (*basileuousin epi tēs gēs*). The tense of the verb is genuinely disputed in the manuscripts; see the note below.
 
-❗❗ **The defence I was handed seals itself.** Any evidence dated inside that window can be dismissed **as phantom** — the manuscripts, the coins, the inscriptions, the regnal lists, the councils, all of them conveniently inside. **So on that way of arguing, no counter-evidence from the period can ever be allowed to count, and the hypothesis's own disconfirmation is automatically reclassified as part of the fiction. That is not an argument.**
+**Revelation 20:9:** the nations "went up over the breadth of the earth" — <span class="gr">ἐπὶ τὸ πλάτος τῆς γῆς</span> (*epi to platos tēs gēs*) — "and surrounded the camp of the saints and the beloved city."
 
-✅ **But the underlying proposition is nothing like that.** *Roughly a thousand conventional years were inserted into the record* is a claim about elapsed time, and it is **testable against any clock that does not run through the disputed documents.** ❗ **Which is precisely why the five tests below can be written down in advance, and why they can come back with a verdict rather than a shrug.**
+So there is land imagery attached both to the saints and to their reign, and it does real work: I cannot assume that the saints' existence is exclusively heavenly.
 
-📌 I adopted a rule two Parts ago because *a method that permits an unanswerable objection at every step is not a method.* **I refuse the self-sealing defence for exactly that reason — and I refuse to let it stand in for the claim itself.** Dismissing a testable proposition as untestable would be its own kind of convenience, and I would be doing it to a branch I have every motive to be rid of.
+But it does not do more than that. Revelation 20:9 comes *after* Satan's release; it describes the final assault, not the thousand years. It places a camp on the earth at the end of the interval. It does not establish that the resurrected saints who reign in 20:4–6 were in that camp during the interval, or even that the two groups are the same people. Revelation's own sequence leaves room for that distinction: ordinary nations continue through the thousand years, so faithful people may be living among mortal populations while those who reign are somewhere the text does not specify.
+
+Revelation 20:4 itself names no location for the thrones. The overcomer is given authority over the nations, who are on the earth — but a sphere of rule is not the address of a throne.
+
+So: *the saints are with Messiah* — established. *The reign takes place only in heaven* — not established. *Only on earth* — not established either. **The location remains unresolved**, now with text on both sides rather than an absence of evidence.
 :::
 
 ::: textualnote
-**The falsification tests, named in advance so the branch has a real gate if it is ever opened**
+**A genuine variant in Revelation 5:10** `SOURCE-LANGUAGE`
 
-Written before any of them is run, so the branch cannot later be graded on whichever test proves most convenient.
+The verb in Revelation 5:10 is textually disputed, and I will not settle it here.
 
-| Test | Why it bites |
-|---|---|
-| ★★ **eclipse retro-computation** | eclipse tracks are computable backward from orbital mechanics, and recorded observations survive in traditions that never coordinated with European chronicles — Assyrian, Chinese, Greek and Roman among them. ⚠️ *Not "to the minute": the earth's rotation is not perfectly uniform, and the correction for that drift is itself derived partly from the surviving historical observations. The comparison is of tracks and dates, not of exact instants.* **A thousand-year insertion would still place every recorded eclipse a thousand years from its computed date, which is enormously outside that uncertainty.** ★ Quantitative rather than interpretive, and it does not route through church records at all |
-| **dendrochronology** | continuous overlapping tree-ring sequences, cross-matched across regions |
-| **the Islamic calendar** | a continuous count from its own epoch, maintained independently |
-| **the Hebrew calendar** | a continuous count, maintained independently |
-| **radiocarbon and stratigraphy** | independent physical dating, cross-checked against the above |
+- **Present tense** — <span class="gr">βασιλεύουσιν</span> (*basileuousin*), "they reign" — is printed by the SBL Greek New Testament and by Westcott and Hort.
+- **Future tense** — <span class="gr">βασιλεύσουσιν</span> (*basileusousin*), "they will reign" — is printed by the Nestle-Aland edition and has the support of the Byzantine tradition.
 
-🛑 **And the rule that governs the branch if it is ever opened: Revelation may not be used as evidence for the chronology being tested.** Otherwise I would be doing precisely what I have refused for fifty-four stages — finding an external theory that makes the text work, then using the text to validate the theory.
+Calling either one "the Greek text" would mean choosing an edition and hiding the choice. So the verse cannot carry a present-tense argument on its own. And an English reader who meets "they shall reign" is not being given a translator's invention; they are being given one side of a real division in the manuscripts.
 :::
 
-## Three supporting observations, and none of them survives
+One more passage I will not use. Isaiah 65:20 describes someone dying at a hundred years old as a youth, and it is sometimes used to estimate lifespans during the thousand years. But Isaiah 65:20 contains death, and Revelation 21:4 says death will be no more. Treating the two passages as describing the same state produces a direct contradiction. So that verse cannot be used to calculate lifespans during the thousand years, or anyone's chances of seeing its end. Any connection between the passages would have to be demonstrated first.
 
-**The millennium bug points the opposite way.** It existed because systems stored years as **two digits**. The century and the millennium were never recorded at all — a two-digit counter rolls over because the leading digits are **absent**. ❗ **The fault was caused by the thousands digit being omitted, not added. It is evidence against the connection rather than for it.**
+## How long can a little season be?
 
-**The letter-shaped numeral is a real question and not evidence.** Early modern typography and engraving frequently rendered the numeral one with a glyph closely resembling a capital letter. ⚠️ **Visual resemblance establishes nothing on its own.** 📌 But there is a falsifiable form of the question, and I record it because it *is* researchable: do dated objects conventionally read as sixteen-hundreds or seventeen-hundreds use an initial character that contemporaneous documents demonstrably treated as the numeral one? **That is answerable from original dated artifacts. The appearance alone is not an answer.**
+Now the question that puts pressure on all of this: not *where* the little season is, but how long it can be.
 
-**And modern signs may not date Revelation 20.** Whatever is currently being pointed at — an institution, a symbol, a monument's detail — none of it can establish that Satan's release is approaching. 📌 **If the biblical chronology really points somewhere, it has to survive without any of them. A chain that needs a current news item to stand up was never standing.**
+Two passages in Matthew 24 bear on that question and on what might be read as signs of it: the wars, famines and earthquakes of 24:6–8, and the warning in 24:12 that "the love of many will grow cold." An earlier Part relied on the first half of 24:12 — that lawlessness would increase — without examining its second half. Chapter 51 examines both passages in full.
 
-## What survived the quarantine, and it is worth more than the chronology
+### Short — a thousand years — short
 
-Strip the phantom years out entirely and something real remains, and I nearly missed it because I was busy with the arithmetic.
+Revelation frames the thousand years with two short periods:
 
-::: finding
-**Finding — I had been carrying an assumption I never examined**
+- **Revelation 12:12** — the dragon knows he has <span class="gr">ὀλίγον καιρόν</span> (*oligon kairon*), "a short time."
+- **Revelation 20:2, 4, 6, 7** — <span class="gr">χίλια ἔτη</span> (*chilia etē*), "a thousand years," four times in six verses.
+- **Revelation 20:3** — Satan must be released <span class="gr">μικρὸν χρόνον</span> (*mikron chronon*), "for a little while."
 
-❗❗ **I have been asking whether we are in the little season without ever establishing that the thousand years have elapsed.**
+The two short-time expressions are different phrases, as an earlier Part established, so John is not saying the two periods are equal. Revelation 6:11 uses the same two words as 20:3 in reverse order — the martyrs are told to rest "a little while longer" — and Chapter 51 compares all of these expressions together.
 
-I inherited that, carried it stage after stage, and nobody made me say it out loud.
+What the wording gives and does not give:
 
-🛑 **And it is sharper than *unsettled*, because of what Part VII established about the two start markers: you cannot count from a start you have not identified.** The present-era question is not merely open — **it sits downstream of a gate this investigation has not passed.**
+- **No number.** Not seven years, not forty, not seventy.
+- **A characterization.** The period is short — and it is called short in a passage that has just said "a thousand years" four times in six verses.
 
-**So the three possibilities stay on the table, and none is eliminated:**
+So a reading that turns the little season itself into an era on the scale of a millennium carries a real textual burden. It is not impossible, but it must be argued, not assumed.
 
-| | | |
-|---|---|---|
-| **H1** | millennium **past**, little season presently underway | ◻️ **live** — my own quiet working assumption, now exposed as one |
-| **H2** | millennium **presently underway**, the release still ahead | ◻️ **live** — and it does **not** require the phantom premise |
-| **H3** | millennium **entirely future** | ◻️ **live, and deliberately not eliminated** |
+And there is a counterweight against my own position. In my reconstruction, the "short time" of Revelation 12 already covers roughly four decades, from Messiah's victory to the first-century crisis. So "short" in Revelation demonstrably does not mean months. Decades fall well within it.
 
-★ **H2 deserves its note.** One can hold that the transition occurred in the first-century horizon *and* that the interval has not elapsed, on ordinary chronology, **if the interval is not a literal calendar thousand** — which is exactly the question this Part has not yet settled.
+### The four-way constraint
 
-★ **And H3 stays for a reason that costs me something.** If the Matthew-to-2-Thessalonians joint ever breaks, H3 has to still be available. **Retiring it now because the current chain leans early would be precisely the pre-commitment this investigation exists to avoid.**
-
-**A theory I cannot test costs me nothing to set down. An assumption I could not see was steering everything.**
-:::
-
-## And a correction from Revelation, against a reading I found attractive
-
-The reasoning offered to me ran: Messiah is at the Father's right hand → the saints are with Messiah → therefore the saints reign in heaven.
-
-✅ **What is genuinely established points that way**: the martyrs are **under the altar**; the multitude stands **before the throne and before the Lamb**; and the overcomer is promised a seat **with Me on My throne.**
-
-❗ **But Revelation supplies counter-data, and it is not weak.**
-
-::: finding
-**Finding — land imagery on both sides, and the location still unresolved**
-
-★★★ **Revelation 5:10** — *and You made them a kingdom and priests to our God, and* **<span class="gr">βασιλεύουσιν ἐπὶ τῆς γῆς</span>** — **they reign on the earth.** ⚠️ *The verb's tense is genuinely disputed in the manuscripts; see the note below, because it matters here.*
-
-★★★ **Revelation 20:9** — they went up **<span class="gr">ἐπὶ τὸ πλάτος τῆς γῆς</span>**, over the breadth of the earth, **and encircled the camp of the saints and the beloved city.**
-
-✅ **So there is positive land imagery attached both to the saints and to their reign, and it does real work: I am not entitled to assume that saintly existence is exclusively heavenly.**
-
-🛑 **And here is what it does *not* do — which is what I had it doing when I first drafted this.**
-
-❗❗ **Revelation 20:9 sits *after* the release.** It describes the post-millennial assault, not the interval. **It locates a camp at the end of the thousand years. It does not establish that the resurrected reigners of 20:4–6 were in that camp during them** — nor even that the two groups are the same people.
-
-✅ **And Revelation's own sequence leaves room for exactly that gap:** ordinary nations continue through the interval, so covenant-faithful people may well be living among mortal populations while the reigners are somewhere the text simply does not say.
-
-✅ And **Revelation 20:4 contains no location marker at all** — confirmed by direct search. ✅ The overcomer is given **authority over the nations**, who are on the earth — ⚠️ *but a sphere of rule is not a throne's address.*
-
-📐 So: *the saints are with Messiah* — **established.** *The millennial reign occurs exclusively in heaven* — **not established.** *Exclusively on earth* — **also not established.**
-
-### ❗ **Location unresolved. The humility I adopted four Parts ago stands — now with text on both sides rather than an absence of data, and still without an answer.**
-:::
-
-::: textualnote
-**A genuine variant inside that same verse — and a translation fragility on top of it** `SOURCE-LANGUAGE`
-
-⚠️ **Revelation 5:10's verb is textually disputed, and I am not going to settle it here.**
-
-✅ **Present — <span class="gr">βασιλεύουσιν</span>, *they reign*** — is the reading printed by SBLGNT and by Westcott-Hort.
-✅ **Future — <span class="gr">βασιλεύσουσιν</span>, *they will reign*** — has Nestle-Aland and Byzantine support.
-
-🛑 **So calling either one *the printed Greek* would be choosing an edition and hiding the choice inside a definite article.** That is precisely the move this investigation exists to refuse, and I made it here.
-
-❗ **Which means the verse cannot carry a present-tense argument on its own.** And the English reader who receives *they shall reign* is not being handed a translator's invention — **they are being handed one side of a real split.** This is the second case of its kind in this investigation, after the Spanish edition's broken verb parallel at Revelation 20 — **and it lands on a verse bearing on both the location question and the timing question.**
-:::
-
-⚠️ One more thing I am refusing to use. Isaiah 65:20 describes a youth dying at a hundred years — and it has been offered to me as a parameter for millennial lifespans. ✅ **Isaiah 65:20 contains death. Revelation 21:4 excludes it.** Identifying the two produces a direct contradiction. 🛑 **So that imagery may not be used to calculate millennial mortality, lifespans, or anyone's personal odds of seeing the interval's end. It is an intertext awaiting demonstration, not a parameter.**
-
----
-
-# How long can a little season be?
-
-Now the question that put pressure on all of it, and it came from a reader rather than from me. Not *where* the little season is. **How long it can be.**
-
-## Two debts, and a failure mode I had not met
-
-Before the question could be worked, the audit turned up two gaps in Matthew — and the way it was right is worse than it first looks.
-
-::: finding
-**Finding — a verse retrieved whole and read halfway**
-
-Matthew 24:12 was verified in full, in Greek, in an earlier Part: *because* <span class="gr">ἀνομία</span> *is multiplied,* <span class="gr">ψυγήσεται ἡ ἀγάπη τῶν πολλῶν</span> — *the love of many will grow cold.*
-
-And then <span class="gr">ἀνομία</span> got a numbered question, a discharged debt, a lexical link to Paul, and a row in a comparison table.
-
-❗❗❗ **The second clause sat in the same quoted line and was never examined. Not once, in any file.**
-
-🆕 **This is a new failure mode for this investigation. Not *we did not retrieve it* but *we retrieved it and read half of it*.** The verse was on the page. The second half was invisible because the first half answered the question I was asking.
-
-**A self-check will not catch that. A precheck will not catch it. A source ledger will not catch it.** The guard has to be different: **when a verse is quoted whole, account for the whole clause.**
-:::
-
-::: textualnote
-**And a second gap — a verse never retrieved at all, inside a load-bearing table**
-
-One earlier stage examined Matthew 24:29–34. Another examined 24:4–5, 10, 11, 12, 14, 23–28 and 30.
-
-❗ **Neither covered 24:6–9.** <span class="gr">ἀρχὴ ὠδίνων</span> — *the beginning of birth pangs* — **has never been retrieved in Greek in this investigation.**
-
-❗❗ **And it sat inside a table that carried a falsification test.** That sequence line reads: deception warning → **wars, famines, earthquakes** → persecution → falling away. **The verses on either side carry verification marks. The middle term carries none.**
-
-🛑 **The test's result is not overturned — but its table has an unverified cell, and that is recorded rather than quietly fixed.**
-
-**Both debts are recorded as debts. Neither is filled from memory in this chapter** — that is the failure this investigation has been burned by three times already.
-:::
-
-## The sandwich
-
-✅ **Revelation 12:12** — the dragon has <span class="gr">ὀλίγον καιρόν</span>, *a little time*.
-✅ **Revelation 20:2, 4, 6, 7** — <span class="gr">χίλια ἔτη</span>, *a thousand years*, four times in six verses.
-✅ **Revelation 20:3** — he must be released <span class="gr">μικρὸν χρόνον</span>, *a short time*.
-
-> **Short → a thousand years → short.**
-
-⚠️ **And my own brake applies.** An earlier Part established that those two short-time expressions are **different phrases**, so John is not saying the two periods are equal. ⚠️ And a debt is still unpaid: Revelation 6:11's *a little longer* is the same two words as 20:3's, reordered, and has still never been audited beside them. *(That audit is Chapter 51's, and it is owed there.)*
-
-📐 **What the wording does and does not give.** ❌ **No number.** Not seven years, not forty, not seventy. ✅ **But a characterization.** It is **short** — and short *in a book that has just said "a thousand years" four times in six verses.*
-
-📌 **So a reading that makes the little season itself a millennial-scale epoch carries a real textual burden. Not impossible — but it must be argued, not assumed.**
-
-⚠️ **And the honest counterweight, which runs against me:** *short* in my own working reconstruction already covers roughly four decades — Revelation 12's little time, spanning Messiah's victory to the first-century crisis. **So biblical *short* demonstrably does not mean months. Decades are well within it.**
-
-## And here is what the question actually exposed
-
-Three things this investigation already holds, put side by side.
+Put four things side by side.
 
 ::: evidence
-**The four-way constraint — and it is the sharpest thing in this chapter**
+**Four statements that cannot all be true together**
 
-1. ✅ **PF-01 — a first-century entrance, at SUPPORTS.**
-2. ✅ **<span class="gr">χίλια ἔτη</span> — if read as approximately chronological.**
-3. ✅ **<span class="gr">μικρὸν χρόνον</span> — characterized as short.**
+1. **PF-01 — a first-century beginning for the transition — remains at <span class="grade">supports</span>.**
+2. **The thousand years** (<span class="gr">χίλια ἔτη</span>, *chilia etē*) are approximately chronological — roughly a thousand calendar years.
+3. **The little season** (<span class="gr">μικρὸν χρόνον</span>, *mikron chronon*, "a little while") is genuinely short.
+4. **We are presently in the little season.**
 
-❗❗❗ **Those three cannot all hold alongside *we are presently in the little season*.**
+A first-century start plus a chronological thousand years places the end of the thousand years around the eleventh century. That would make the present day roughly nine hundred and fifty years into a period the text calls short — a period that follows one the same text calls a thousand years. Those two words cannot both be doing their job in that sentence.
 
-**A first-century start plus a chronological millennium puts the terminus somewhere around the eleventh century. Which would make the present day roughly nine hundred years into a "short time" that follows a period the text itself calls a thousand years.**
+At least one of the four has to give, and the possibilities are exhaustive:
 
-**Those two words cannot both be doing their job in that sentence.**
+- **(a)** the beginning was not in the first century;
+- **(b)** the thousand years are not a chronological measure;
+- **(c)** we are not in the little season;
+- **(d)** conventional chronology does not match the biblical interval;
+- **(e)** some other premise, not yet identified, is wrong.
 
-📐 **Something has to give, and the options are exhaustive:**
-**(a)** the start is not first-century · **(b)** the thousand years are not chronological · **(c)** we are **not** in the little season · **(d)** conventional chronology does not correspond to the biblical interval · **(e)** a premise nobody has identified is wrong.
-
-★★ **And this is why the inserted millennium was reached for in the first place. The instinct found a genuine tension in the model, and option (d) is the one that dissolves it cleanly.**
-
-🛑 **But (d) is the option I sealed at the top of this chapter — and I sealed it for reasons that have nothing to do with this tension, before this tension was known.** It would re-found the manuscript chronology this argument reads from, and the defence offered for it was self-sealing. ❗ **Neither of those is a verdict on the claim itself, which remains testable — and which the tests named above are about to test.**
-
-❗ **So the tension is real and the most convenient exit is closed. That is exactly the kind of pressure an investigation should want** — and it is now a stated constraint on the model rather than a feeling.
+Later chapters refer to these by letter, and I will restate them each time.
 :::
 
-::: commentary
-**A quarantine imposed before it is convenient is the only kind worth having**
+This tension is exactly why the inserted-millennium hypothesis is attractive. The instinct found a genuine problem, and option (d) — conventional chronology is wrong — dissolves it cleanly.
 
-I want to be plain about the sequence here, because the sequence is the only thing that makes the refusal credible.
+But I set (d) aside earlier in this chapter, and the order matters. The calendar proposal was quarantined in Part VII, on two structural grounds, before I knew how much pressure the length of the little season would put on the model. Had I met the pressure first and the theory second, I could not show — to a reader or to myself — that I was not reaching for whatever made the problem go away. Neither of those structural grounds is a verdict on the claim itself, which remains testable, and Chapter 50 tests it.
 
-**The phantom-chronology branch was quarantined in Part VII, on two structural grounds, before I knew that the little season's length would put this much pressure on the model.** Had I met the pressure first and the theory second, I would have no way of demonstrating — to a reader or to myself — that I was not reaching for whatever made the problem go away.
+So the tension is real, and the most convenient way out of it is closed for reasons that predate the tension. That is the kind of pressure an honest investigation should welcome. It is now a stated constraint on the argument rather than a feeling.
 
-📌 **That is the whole argument for writing rules down before you need them, and it is the fourth time in this investigation it has paid.**
-:::
+### Three conditions, not one question
 
-## Three conditions, not one question
+"Are we in the little season?" can be sharpened into three distinct conditions:
 
-A sharper framing than *are we in the little season* — and the sharpening came from the same reader.
+| Condition | What distinguishes it |
+|-----------|--------------------|
+| **Late in the thousand years** — Satan still bound | Sin, disaster, corrupt rulers and human deception may all be present. But the process Revelation 20 describes — nations deceived and drawn into a gathering — has not begun. |
+| **Early in the little season** — Satan released | Deception and alignment are underway, but the coalition has not yet surrounded the saints. |
+| **Late in the little season** — the coalition complete | The saints are surrounded, and in the narrative, intervention is imminent. |
 
-| | Condition | What distinguishes it |
-|---|---|---|
-| **A** | **late millennium** — Satan still bound | sin, disaster, corrupt rulers and human deception may all be present. ❗ **The Revelation 20 nation-deception-into-gathering process has not begun** |
-| **B** | **early little season** — released, deception and alignment underway | ❗ **the coalition has not yet surrounded the saints** |
-| **C** | **terminal little season** — coalition matured, saints surrounded | intervention imminent in the narrative |
+The consequence matters: something that looks like things "ramping up" may still belong to the first condition, unless the specific change Revelation 20 describes can be demonstrated.
 
-❗❗ **And the consequence that matters: something that looks like *ramping up* may still belong to condition A, unless the specific Revelation 20 change can be demonstrated.**
+## Signs, and what they can and cannot show
 
-## The control I am adopting before the data arrives
+The control is fixed now, before Chapter 51 examines the Matthew passages.
 
-Whatever those two Matthew debts return when they are paid, the control is fixed **now**.
+The birth pains, earthquakes, wars, lawlessness and cooling of love in Matthew 24 may not be lifted out and placed into Revelation 20:7 without textual justification. They belong to Matthew's own setting until an argument moves them.
 
-🛑 **Matthew 24's birth pangs, earthquakes, wars, lawlessness and love growing cold may not be picked up and relocated into Revelation 20:7 without textual justification.** They belong to Matthew's own discourse horizon until an argument moves them.
+And the distinction that matters most: **a phenomenon occurring is not a prophecy being fulfilled.** Modern earthquakes show that earthquakes occur. They do not show that the earthquakes of Matthew 24:7 are presently being fulfilled.
 
-★★ **And the distinction that matters most: a phenomenon occurring is not a prophecy being fulfilled.** Modern earthquakes prove that earthquakes occur. **They do not establish that Matthew 24:7's referent is presently operating.**
+That yields a real narrowing. Revelation 20:7–10 does not list earthquakes, floods, volcanoes, famines or pestilence as the signs of Satan's release. Its markers are deception, the nations, gathering, war, the saints surrounded, and fire. So physical upheaval carries little weight as a sign of this particular period, unless another text independently supplies it.
 
-📌 **And a real narrowing falls out of that.** ✅ **Revelation 20:7–10 does not list earthquakes, floods, volcanoes, famines or pestilence as the diagnostic signs of Satan's release.** Its markers are **deception · the nations · gathering · war · the saints surrounded · fire.** **So physical upheaval carries little diagnostic weight for this particular period unless another text independently supplies it.**
+There is one text that might. Ezekiel 38–39, where Revelation gets the names Gog and Magog, does include great physical upheaval. So the question is not whether Matthew's earthquake language transfers to Revelation 20. It is which parts of Ezekiel John carries forward and which he leaves behind. Part VII began that work, finding that John takes Ezekiel's *names* and Elijah's *fire*. Chapter 48 continues it.
 
-⚠️ **And there is one place that might.** Ezekiel 38–39, which is where Revelation gets Gog and Magog, **does** contain major physical upheaval. ❗ **So the question is not whether Matthew's earthquake language transfers. It is which components of Ezekiel John carries forward and which he omits** — and Part VII already began that, finding that he takes Ezekiel's **names** and Elijah's **fire formula**. That is the next chapter's work.
+## What this chapter leaves us with
 
-## What I actually have
+Most of the remaining groundwork turned out to be done already. What was genuinely missing was smaller and more important than I expected: I had never directly tested what kind of duration the thousand years are. I had set the question aside so carefully, so often, that setting it aside began to look like answering it.
 
-I asked how far along I was and found that most of the remaining groundwork had already been done, some of it in a file I had not opened in weeks. What was genuinely missing turned out to be smaller than I expected and more important than I expected: **in fifty-eight stages, nobody ever decided what the thousand is.** It had been set aside so carefully, so many times, that setting it aside started to look like having dealt with it.
+Then the question of how long the little season can be put more pressure on the model than any earlier stage had. If the thousand years are calendar years and began in the first century, they ended around the eleventh — which would put us now about nine hundred and fifty years into something the text calls short.
 
-Then came the question of how long a little season can be, and the answer constrained the model harder than any stage before it had. **If the thousand years are years, and they started in the first century, they ended around the eleventh — which would make now about nine hundred years into something the text calls short.**
+That tension is what makes the missing-thousand-years proposal tempting. The instinct is understandable. But the proposal was set aside for reasons that have nothing to do with convenience: it would not erase the manuscripts this book quotes, but it would force everything built on their dating and order to be rebuilt, and the defence usually offered for it shields itself from any counter-evidence. The claim itself remains testable, and it will be tested.
 
-That same tension is what makes the missing-thousand-years exit tempting in the first place. **The instinct is understandable. That particular exit stays sealed, for reasons that have nothing to do with convenience** — it would not erase the manuscripts this book quotes, but it would force everything built on their dating and sequence to be rebuilt from nothing, and the defence usually offered for it seals itself against any counter-evidence.
+So the tension stands. And beneath it is the more valuable discovery: I had been asking whether we are in the little season without establishing that the thousand years are over.
 
-So the tension stays. And underneath it sits the thing the quarantine turned up that was worth more than the chronology: **I have been asking whether we are in the little season without ever establishing that the thousand years are over.** I inherited that and carried it and never said it out loud.
-
-**The number goes first. Everything else waits on it.**
+The number comes first. Everything else waits on it.
 
 ::: whereweare
-**Where we are.** Part VIII opens by accepting Part VII's bill rather than resetting: PF-01 at SUPPORTS, the binding unable to date anything, the beast unidentified, and the dating burden resting entirely on the first resurrection. The audit found most of the remaining groundwork already done and one thing never done at all — the thousand itself, disclaimed across fifty-eight stages and never adjudicated, which gates every question that follows. The phantom-chronology exit is arithmetically coherent, would redate the manuscript base this book reads from rather than erase it, and its usual defence — not the underlying claim — is what's unfalsifiable; it stays sealed, with its falsification tests named in advance. What survived it is that I had been assuming the thousand years elapsed without ever establishing it, so all three present-era positions remain live. The heaven-only reign is positively countered by two verses. And the little season, characterized as short and given no number, produces a four-way constraint the model cannot satisfy all of at once — with the one option that dissolves it already sealed, for reasons predating the problem.
+**Where this leaves us.** PF-01 is carried forward at <span class="grade">supports</span>, no higher. Satan's binding cannot date anything, and the beast and Babylon are still unidentified. The thousand years have never been directly tested, and that test now comes first, with its question and three possible outcomes fixed in advance. The inserted-millennium chronology is arithmetically coherent; it would redate, not erase, the manuscripts this book reads from; its usual defence is self-sealing, but the claim itself is testable, and five external tests have been named. All three positions on the present — thousand years past, present, or future — remain open. The reign's location has land imagery on both sides and remains unresolved. And the little season, called short and given no number, creates a four-way constraint that cannot be fully satisfied, with options (a) through (e) defined above.
 :::
 
 ::: earned
-**What it earned.** A planning question answered by counting rather than estimating, including the part where most of the work was already sitting in the folder. A gate identified that fifty-eight stages of good discipline had hidden behind a tidy label. An arithmetic exit checked honestly, credited for being coherent, and refused on structural grounds that were written down before the pressure arrived. An assumption removed from the chain rather than added to it. Two Matthew debts declared and deliberately not filled from memory, including a failure mode — reading half a verse — that none of this investigation's existing guards would have caught. And a tension left standing, with a number on it, instead of a marker the evidence cannot support.
+**The question this leaves.** Does Revelation ever use a number in a way that is demonstrably not literal? Chapter 49 answers that. First, Chapter 48 asks what John takes from Ezekiel 38–39 when he names Gog and Magog — and what he leaves behind.
 :::
