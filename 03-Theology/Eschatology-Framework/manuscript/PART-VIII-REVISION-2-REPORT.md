@@ -9,7 +9,9 @@ related: "[[EDITORIAL-RULES]], [[PROVENANCE-LOG]], [[SYNC-LEDGER]], [[STRUCTURAL
 
 # Part VIII (English) — Revision 2
 
-**Status: at the review gate.** Nothing committed, no new snapshot taken, Spanish untouched, Part IX not started, Book Two material not inserted.
+**Status (updated 2026-10-10, after independent review):** Revision 2 was **committed as `11c4e78` and frozen as snapshot `d2-reader1` (commit `0ffdfc6`)**, pushed. An independent review of `d2-reader1` returned five targeted findings; the narrow correction pass answering them is **Revision 2.1** (section E below), built but **not yet committed**, awaiting author approval. Spanish untouched, Part IX not started, Book Two material not inserted, Parts I–VII not revised.
+
+*(The status line originally written at the review gate read: "Nothing committed, no new snapshot taken." That was true when written and is superseded above.)*
 
 | | Before | After |
 |---|---|---|
@@ -104,7 +106,7 @@ ES ch48 still records the σεισμὸς μέγας question as pending (F8) ·
 
 - `10-manuscript-architecture.md` still lists the old titles of ch47, ch49, ch50, ch51.
 - Formalize in `EDITORIAL-RULES.md`: RESEARCH-PROCESS-002 (reader prose narrates reasoning, not research machinery), the bookkeeping-metaphor ban, the Greek-gloss rule, and the three-question test (*What does Scripture say? What does the evidence establish? What remains uncertain?*).
-- Commit, then snapshot (`--snapshot d2-reader1`), then the reviewer reads the frozen PDF.
+- ~~Commit, then snapshot (`--snapshot d2-reader1`), then the reviewer reads the frozen PDF.~~ Done: `11c4e78`, snapshot `d2-reader1` (`0ffdfc6`).
 
 ---
 
@@ -125,3 +127,21 @@ ES ch48 still records the σεισμὸς μέγας question as pending (F8) ·
 **Tranche 6** — "the one holding this pen" removed; Matthew 24:6 rewritten as exposition · Matthew 24:12 section rewritten; voice note moved to a parenthesis · thousand-years/little-season passage rewritten with the hedges · p.116: **not reproducible** (see C) · three-question test: recorded, **not yet formalized**
 
 **Tranche 7** — four-part formula restated (and corrected, F1) · ch51 ending boxes rewritten · ch52 opens by naming "saints" · "capacity, not distribution" resolved with the full survey (F10) · oversized type: fixed at source and in the stylesheet · option (c): **corrected, and the proposed fix rejected** (F12) · "both statements" now names 12:17 and 14:12 · bookkeeping ban applied (**not yet formalized**) · 6:11/20:3 re-verified (F3) · placeholder image links ignored
+
+---
+
+## E. Revision 2.1 — answers to the independent review of `d2-reader1`
+
+Comparison baseline: snapshot `d2-reader1` (source `11c4e78`). Narrow pass only; no other text changed.
+
+| # | Finding | What was done | Evidence / limit |
+|---|---|---|---|
+| R1 | ch50: why is option (c) under the *least* pressure when the overall tension *rises*? | Added three short paragraphs after the ch50 options table, and one sentence in ch49 where the claim first appears. "Tension" = strain on the four statements together; "pressure" on an option = established evidence against it. (a) would overturn PF-01; (b) must set aside the boundedness evidence; (d) is contradicted; nothing established stands against (c), because "we are in the little season" was an untested assumption (ch47). Eliminating (d) adds to this, since (d) was the only option letting a roughly chronological thousand years and a present little season both stand. **Definition of (c) unchanged.** Two cautions added: less pressure is not evidence for (c); and (c) says where we are *not*, not where we are — it fits either the thousand years still underway (non-calendar reading) or the little season already completed (not adopted). | One claim drafted during this pass — that ch50's historical test "found no marker" for a present little season — was removed before the build, because that test examined the eleventh century, not the present. |
+| R2 | ch52: Rev 13:7 manuscript note rests on two older commentaries | Rewritten from an apparatus-based source. **Omit the clause:** P47 (3rd c.), A, C, P, 2053, part of the Byzantine tradition, Sahidic Coptic. **Include:** Sinaiticus, 046, 051, most Byzantine manuscripts, Vulgate, Syriac, Bohairic Coptic; SBLGNT prints it. The accidental-skip explanation is now presented as a scholarly judgment of probability, and the clause's originality as carrying some degree of doubt. | Bruce Terry, *A Student's Guide to New Testament Textual Variants* (bterry.com, Rev 13:7 entry), checked 2026-10-10; agrees with the Pulpit and Cambridge commentaries. **Limit:** the Nestle-Aland apparatus itself was still not consulted. P47 had been missing from the draft 2 note. |
+| R3 | Hypothesis E: keep "not adopted" | No change; wording already in place. | — |
+| R4 | Embedded-font warnings | **Cause found:** the only glyph drawn with the private macOS font `.Zither-Tamil` (and with Montserrat in italics) was **U+2010, the hyphen the renderer inserts at line-end word breaks** — 191 + 6 + 5 times. Georgia has no U+2010, so each line-end hyphen pulled in a fallback font. **Fix:** one stylesheet line, `hyphenate-character: "-"` (the ordinary hyphen, present in every font in the stack). No visual design change. | After the fix: **0** "embedded font may be invalid" warnings (poppler), and only standard fonts embedded — Georgia, Helvetica Neue, Times New Roman (Greek, Hebrew), Inconsolata (code labels). Second viewer: sample pages with Greek, pointed Hebrew, tables, boxes and headings rendered through macOS CoreGraphics (Apple's PDF engine, via `sips`) — all correct. The emoji font that may explain the earlier black-box report was already gone in `d2-reader1`. |
+| R5 | Report status out of date | Status line at the top and the housekeeping item updated to record `11c4e78`, `0ffdfc6` and `d2-reader1`; this section added. | — |
+
+**Build of Revision 2.1:** 101 pages (the added explanations account for the extra page), 20,198/20,176 words recovered, 0 mojibake, 0 sections missing, all Greek/Hebrew wrapped, 0 split table rows. Regression tests pass.
+
+**Still not independently verified** (unchanged from section C): the 42 months = 1,260 days characterization; the 7,272-year chronology's data; radiocarbon and stratigraphy; the Nestle-Aland apparatus for Rev 13:7; and, as the reviewer noted, the 23 corrections in section B remain documented claims until a separate audit against primary texts.

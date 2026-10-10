@@ -94,7 +94,9 @@ Revelation 20:8–9 combines two of these patterns: it uses the wording of a gat
 ::: textualnote
 **A manuscript note on Revelation 13:7**
 
-The clause "it was given to it to make war on the saints and to overcome them" is missing from several ancient manuscripts, including Codex Alexandrinus and Codex Ephraemi. The likeliest explanation is accidental: two neighbouring clauses both begin "and it was given to it," and a copyist's eye could pass from the first to the second. Modern critical editions, such as the SBL Greek New Testament, print the clause. Either way, the point above does not rest on this verse alone: 11:7 and 12:17 describe war against God's people in the same terms.
+The clause "it was given to it to make war on the saints and to overcome them" is missing from some important witnesses: the earliest papyrus of this passage (P47, third century), Codices Alexandrinus, Ephraemi and Porphyrianus, part of the Byzantine tradition, and the Sahidic Coptic version. It is present in Codex Sinaiticus, most Byzantine manuscripts, the Latin Vulgate, the Syriac, and the Bohairic Coptic version, and modern critical editions such as the SBL Greek New Testament print it.
+
+Textual scholars commonly judge the omission to be accidental: two neighbouring clauses both begin "and it was given to it," and a copyist's eye could easily pass from the first to the second. That is a scholarly judgment about probability, not something the manuscripts themselves show, and the clause's originality has been rated as carrying some degree of doubt. The point above does not rest on this verse alone: 11:7 and 12:17 describe war against God's people in the same terms.
 :::
 
 ## The mark cannot cross the thousand years

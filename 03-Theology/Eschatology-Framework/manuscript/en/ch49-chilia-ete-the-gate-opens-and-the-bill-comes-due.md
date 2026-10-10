@@ -157,7 +157,7 @@ Chapter 47 identified five possibilities, at least one of which must be true if 
 | **(d)** | Conventional chronology does not match the biblical interval. | Set aside in Part VII, before this tension was known; tested in Chapter 50. |
 | **(e)** | Some other premise, not yet identified, is wrong. | Live, and by definition cannot be examined until it is identified. |
 
-Option (c) is now the one under the least pressure. No option is selected here. Two of the five have moved, both because of evidence gathered for other reasons, and that is as far as this chapter can go. An argument that picks its escape route at the moment of greatest pressure has not been tested; it has been rescued.
+Option (c) is now the one under the least pressure, in a specific sense: no established finding stands against it. Option (a) would overturn PF-01; option (b) must set aside the evidence that the thousand years are bounded; but "we are presently in the little season" was an assumption carried forward, never a finding, so denying it costs nothing the investigation has established. Less pressure against an option is not evidence for it, and no option is selected here. Two of the five have moved, both because of evidence gathered for other reasons, and that is as far as this chapter can go. An argument that picks its escape route at the moment of greatest pressure has not been tested; it has been rescued.
 
 ## What this chapter leaves us with
 

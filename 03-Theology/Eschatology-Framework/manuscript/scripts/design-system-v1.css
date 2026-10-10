@@ -11,8 +11,14 @@
 }
 @page :first { @bottom-center { content: none; } }
 
+/* hyphenate-character: WeasyPrint's default line-break hyphen is U+2010, which
+   Georgia lacks, so every hyphenated line end pulled in a fallback font -- on macOS
+   the private system face .Zither-Tamil (191 times in Part VIII), which poppler
+   reports as "Embedded font file may be invalid". The ASCII hyphen is in every
+   face in this stack. Found 2026-10-10 by asking the PDF which glyphs each
+   fallback font drew. */
 body { font-family: Georgia, "Times New Roman", serif; font-size: 11.5pt; line-height: 1.62;
-       color: #16181a; hyphens: auto; }
+       color: #16181a; hyphens: auto; hyphenate-character: "-"; }
 
 /* ---------- headings: sans, against the serif body ---------- */
 h1 { font-family: "Helvetica Neue", Arial, sans-serif; font-weight: 600; font-size: 19pt;

@@ -179,6 +179,10 @@ One further possibility should be addressed: that the little season has already 
 
 Four options remain. And the one just eliminated was the only one that removed the tension cleanly, so the pressure is now higher, not lower.
 
+That may sound contradictory: the tension rises, yet option (c) is under *less* pressure than before. The two statements measure different things. The tension is the strain on the whole set of four statements from Chapter 47. "Pressure" on an option means how much established evidence stands against it. Option (a) would overturn PF-01, which stands at <span class="grade">supports</span>. Option (b) has to set aside the evidence that the thousand years are a bounded quantity. Option (d) has now been contradicted. Option (c) — we are not presently in the little season — has no established finding against it. Chapter 47 showed that "we are in the little season" was an assumption I had carried without testing, and nothing since has established it. Eliminating (d) adds to that, because (d) was the only option that let a roughly chronological thousand years and a present little season both stand. With it gone, anyone holding a first-century beginning and a roughly chronological thousand years can no longer also hold that we are in the little season now.
+
+Two cautions belong with this. Less pressure against an option is not evidence for it. And option (c) says only where we are *not*; it does not say where we are. It fits two very different situations: the thousand years still underway, which requires that they are not a calendar thousand, or the little season already completed, a possibility discussed below and not adopted.
+
 ::: openquestion
 **The option with no advocate**
 
