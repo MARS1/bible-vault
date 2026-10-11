@@ -1,0 +1,11 @@
+Edition:        Español (es)
+Part:           9  Parte IX: Lo que de verdad puedo defender
+Milestone:      d1-reader1
+Source commit:  642dab093c1808857272688e9d307fa028892331
+Commit date:    2026-10-11
+Tree state:     source committed at this commit
+Built:          2026-10-11
+Extent:         11,595 words, 79 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit 642dab0
