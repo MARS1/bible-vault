@@ -1,0 +1,11 @@
+Edition:        Español (es)
+Part:           8  Parte VIII: El milenio y el horizonte abierto
+Milestone:      d2-reader1
+Source commit:  8e5a8439bc7ee7c39423644548e706d928b48bda
+Commit date:    2026-10-11
+Tree state:     source committed at this commit
+Built:          2026-10-11
+Extent:         21,888 words, 110 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit 8e5a843
