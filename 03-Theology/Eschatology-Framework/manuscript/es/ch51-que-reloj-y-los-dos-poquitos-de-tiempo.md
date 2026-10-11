@@ -1,301 +1,252 @@
 ---
-title: "Manuscrito (ES) — Capítulo 51: Qué reloj, y los dos poquitos de tiempo"
+title: "Manuscrito (ES) — Capítulo 51: Qué reloj — y los dos «poco de tiempo»"
 type: manuscript
 category: theology
-tags: [draft-1, parte-viii, capitulo-51, etapa-63, tres-deudas, mikron-chronon, ubicacion-no-es-duracion, debilitada-no-respondida, seismos, mateo-24-6]
-reference: "Apocalipsis 6:11, 12:12, 20:3, 20:5, 20:7, 20:10, 19:20, 16:16, 16:18, 8:5, 11:13, 6:12-13; Mateo 24:6-9, 24:12; 1 Tesalonicenses 4:17"
+tags: [borrador-2, revision-2, parte-viii, capitulo-51, etapa-63, mikron-chronon, ubicacion-no-es-duracion, debilitada-no-respondida, q313, espiral-seismos, mateo-24-6, mateo-24-12]
+reference: "Apocalipsis 2:4, 2:21, 4:5, 6:11-13, 8:5, 10:6, 11:13, 11:19, 12:12, 16:14-21, 17:10, 19:11-21, 20:3-10; Mateo 24:6-9, 24:12; 1 Tesalonicenses 4:17"
 created: 2026-09-21
 status: draft
-localization: "BORRADOR 1. Arquitectura aprobada v1.0, Parte VIII, Capítulo 51. Edición hermana independiente. 🛑 ADVERTENCIA RECTORA DE LA ARQUITECTURA PARA ESTE CAPÍTULO: NO SOBREVENDER SU PROPIO ALIVIO. 6:11 y 20:3 comparten sustantivo Y adjetivo, lo cual DEBILITA la objeción de que 950 años no pueden llamarse un poco de tiempo — pero ninguno de los dos versículos aporta una duración, y UN INTERVALO NO MEDIDO NO PUEDE FIJAR LA ESCALA DE OTRO. **Debilitada, no respondida.** ★★★ UBICACIÓN ≠ DURACIÓN: la atadura se predica de <span class='gr'>τὰ ἔθνη</span>, actores históricos ordinarios, así que el intervalo corre por historia ordinaria sin importar dónde estén los tronos. La reconstrucción celestial sobrevive intacta Y NO COMPRA ALIVIO. ★★★ LA VERIFICACIÓN PREVIA DETECTÓ UN APLANAMIENTO: una etapa anterior registró una división genuina y volvió como arquitectura establecida. ★★ <span class='gr'>ἤδη</span> ESTÁ AUSENTE en 20:10 y la cláusula no tiene verbo finito. ★★ CABALLOS A AMBOS LADOS del capítulo 19. ★★★ LAS TRES DEUDAS PAGADAS: el barrido de <span class='gr'>σεισμός</span> EVIDENCIA la espiral por primera vez; Mateo 24:6 prohíbe leer las guerras como marcador de término; <span class='gr'>ψυγήσεται</span> NO TIENE ECO en Apocalipsis. ⚠️ La voz de <span class='gr'>ψυγήσεται</span> queda SEÑALADA, NO ADJUDICADA. ⚠️ <span class='gr'>πόλεμος</span> SIGUE PENDIENTE. ⚠️ La cuenta del capítulo 49 se enuncia condicionalmente. ❗ REGLA DE CITA: pasajes sin texto RVR1960 verificado se DESCRIBEN. REGISTRO: español latinoamericano internacional, tuteo. TERMINOLOGÍA: sin planeta/global/mundial."
-related: "[[10-manuscript-architecture]], [[03o-what-clock-and-the-two-little-times]], [[03p-the-three-debts-discharged]], [[ES-REGISTER]]"
+localization: "BORRADOR 2 (revisión de lectura de la Parte VIII, 2026-10-11). Edición hermana desde la evidencia del maestro inglés d2-reader3 y SYNC-024. TECHO: este capítulo no debe exagerar su propio alivio — DEBILITADA, NO RESPONDIDA. CONTENIDO: ubicación no es duración (la atadura se predica de τὰ ἔθνη; el intervalo se superpone a la historia ordinaria dondequiera estén los tronos; eso no fija su duración). Recorrido corregido: μικρός de tiempo solo en 6:11 y 20:3 (mismo sustantivo y adjetivo, orden inverso) — SE SOSTIENE; ὀλίγος de tiempo breve en 12:12 y 17:10; χρόνος también en 2:21 y 10:6; καιρός en 1:3, 11:18, 12:14, 22:10. NOTA ESPAÑOLA: RVR1960 conserva el patrón ('un poco de tiempo' en 6:11 y 20:3; 'poco tiempo' en 12:12; 'breve tiempo' en 17:10). Verbos de cumplimiento distintos. Ap 19 frente a 20: división abierta. ἤδη ausente en 20:10 — NOTA ESPAÑOLA: RVR1960 suple 'estaban' (q439). Caballos: 16 apariciones, la última en 19:21; no fechan la escena. La calificación no se mueve por incomodidad. Opción (a) por la articulación Mateo-Pablo (probable). Terremotos: σεισμός en 6:12, 8:5, 11:13, 11:19, 16:18; fórmula 4:5 → 8:5 → 11:19 → 16:18-21; escalada literaria sin decidir si es un acontecimiento o varios. Mateo 24:6-9 (NOTA ESPAÑOLA: RVR1960 incluye 'pestes' en 24:7, del Textus Receptus); ψύχω solo en Mt 24:12 en todo el NT, ausente de Apocalipsis (NOTA: RVR 'de muchos' pierde el artículo de τῶν πολλῶν). REGISTRO: español latinoamericano internacional, tuteo. TERMINOLOGÍA: sin planeta/global/mundial."
+related: "[[10-manuscript-architecture]], [[03o-what-clock-and-the-two-little-times]], [[03p-the-three-debts-discharged]], [[03d-three-gatherings-or-one]], [[ES-REGISTER]], [[SYNC-LEDGER]]"
 ---
 
-# Capítulo 51: qué reloj, y los dos poquitos de tiempo
+# Capítulo 51: Qué reloj — y los dos «poco de tiempo»
 
-El capítulo anterior cerró la única salida que habría disuelto la aritmética limpiamente, y dejó la presión más alta de como la encontró. **Mil años, y después unos novecientos cincuenta más, y Apocalipsis llama al segundo *un poco de tiempo*** — suma que se sostiene *si* los mil años son aproximadamente cronológicos, que es el único eslabón calificado en no más que PERMITE.
+El capítulo anterior cerró la única salida que habría eliminado limpiamente el problema aritmético, y dejó la presión más alta que antes. Mil años, seguidos de unos novecientos cincuenta más, y Apocalipsis estaría llamando al segundo período «un poco de tiempo»: una cuenta que vale *si* los mil años son aproximadamente cronológicos, que es el único eslabón calificado no más alto que <span class="grade">permite</span>.
 
-Hay una segunda salida, y es más respetable que la primera. **Si el reinado es celestial, quizá corra en un reloj distinto del nuestro** — y la objeción se disuelve sin tocar una sola fecha.
+Hay una segunda salida, y es más respetable que la primera. Si los santos reinan en el cielo, quizá su reinado corre con un reloj distinto del nuestro, y la objeción desaparece sin tocar una sola fecha.
 
-Quiero que funcione. **No funciona**, y este capítulo lo dice en sus primeras dos páginas, porque dejarlo colgando permitiría leer el resto como alegato interesado.
+Me gustaría que funcionara. No funciona, y este capítulo lo dice de entrada, porque dejarlo sin resolver haría que todo lo que sigue se leyera como alegato especial. Después, el capítulo pasa a algo que no estaba buscando: la comparación de cada «poco de tiempo» de Apocalipsis.
 
-Después llegó algo que yo no andaba buscando.
+## Ubicación no es duración
 
----
-
-# La prueba quedó fijada antes de escribir el capítulo
-
-La condición se fijó de antemano: **esta etapa no puede escribirse si no se permite que los hallazgos del capítulo anterior cuenten en su contra.**
-
-::: commentary
-**La etapa pasó rechazando su propio rescate**
-
-El material llegó con la salida ya descartada en su propio texto: **aquí no hay alivio por dilatación del tiempo, y la presión del capítulo de la cronología sigue siendo real y no se suaviza.**
-
-📌 **Es la cuarta vez consecutiva que una etapa cierra la puerta que fue escrita para abrir** — y esta vez la puerta era la que la etapa entera existía para probar.
-
-✅ Y una honestidad emparentada vale la pena, porque restringe todo lo de abajo. **El *siempre estaremos con el Señor* de Pablo establece compañía permanente con el Mesías. No establece un destino.** El lugar queda abierto, y la humildad sobre la ubicación que esta investigación adoptó hace tiempo sigue en pie.
-:::
-
-## La ubicación no es la duración
+La promesa de Pablo — «y así estaremos siempre con el Señor» (1 Tesalonicenses 4:17) — establece compañía permanente con el Mesías. No establece un lugar. La ubicación del reinado sigue abierta, como encontró el capítulo 47. Pero aunque el reinado sea en el cielo, eso no cambia cómo se relacionan los mil años con nuestra historia.
 
 ::: finding
-**Hallazgo — la atadura se predica de las naciones, así que el intervalo corre por historia ordinaria**
+**La atadura se refiere a las naciones, así que los mil años corren a través de la historia ordinaria**
 
-Se discuta lo que se discuta sobre Apocalipsis 20, **la restricción está especificada por su objeto: Satanás queda atado de engañar a <span class="gr">τὰ ἔθνη</span> — *las naciones*.**
+Sea lo que sea que se dispute en Apocalipsis 20, la restricción sobre Satanás se define por su objeto: está atado «para que no engañase más a las naciones» — <span class="gr">τὰ ἔθνη</span> (*ta ethnē*).
 
-❗❗ **Y las naciones son actores históricos ordinarios.** Son la misma categoría que aparece a lo largo del libro comprando, vendiendo, guerreando, siendo gobernada y siendo sanada. **Una condición que rige sobre ellas rige dentro del tiempo histórico ordinario mientras rija.**
+Las naciones son actores históricos ordinarios: los mismos pueblos que aparecen a lo largo de Apocalipsis comprando y vendiendo, haciendo guerra, siendo gobernados y siendo sanados. Una restricción que se aplica a ellos se aplica dentro del tiempo histórico ordinario, mientras dure.
 
-### ✅ **Así que la reconstrucción del reinado celestial sobrevive por completo intacta — y no compra absolutamente ningún alivio en la aritmética.**
-
-📐 **Los mil años atraviesan tiempo histórico ordinario estén los tronos en el cielo o no. Dónde reinan los santos es una pregunta distinta de cuánto dura el intervalo, y responder la primera no toca la segunda.**
+Así que la lectura en que los santos reinan en el cielo sobrevive intacta, pero no quita el problema aritmético. Dondequiera estén los tronos, los mil años se superponen a la misma historia en que viven las naciones. Dónde reinan los santos y cuánto dura el período son preguntas distintas, y responder la primera no responde la segunda.
 :::
 
-★ **Y del mismo inciso se desprende un segundo punto, en voz baja.** Para que Satanás sea liberado y engañe a las naciones al final, **las naciones tienen que seguir ahí.** ✅ **Así que la humanidad mortal continúa a través del intervalo.**
+Esto no fija cuánto duran los mil años, ni si tienen que ser exactamente mil años de calendario; esa sigue siendo la pregunta que calificó el capítulo 49. Fija solo que una ubicación celestial no puede sacar el período de nuestra línea de tiempo.
 
----
+De ese mismo versículo se sigue un segundo punto. Para que Satanás sea suelto al final y engañe a las naciones, las naciones tienen que seguir ahí. Así que la historia humana ordinaria continúa a lo largo de los mil años: pase lo que pase, la historia de la gente sigue en marcha cuando llega la liberación.
 
-# La deuda que volvió con el hallazgo de verdad del capítulo
+## Cada «poco de tiempo» de Apocalipsis
 
-Había un barrido pendiente desde antes de la Parte VII: **cada aparición en Apocalipsis de las dos palabras para tiempo y los dos adjetivos para pequeño.** Estuvo aplazado quince etapas por ser pequeño. Se corrió porque una pregunta sobre otra cosa se tropezó con él.
+Había una comparación anotada hacía mucho pero todavía no hecha: examinar juntos todos los lugares donde Apocalipsis usa sus palabras para «tiempo» (<span class="gr">χρόνος</span>, *chronos*, y <span class="gr">καιρός</span>, *kairos*) y para «poco» o «breve» (<span class="gr">μικρός</span>, *mikros*, y <span class="gr">ὀλίγος</span>, *oligos*).
 
 ::: wordstudy
-**Estudio de palabra — <span class="gr">μικρὸν χρόνον</span> frente a <span class="gr">ὀλίγον καιρόν</span>: el par emparejado y el que sobra**
+**Estudio de palabra — los pasajes de «poco de tiempo»**
 
-Los veintidós capítulos, cada aparición de <span class="gr">χρόνος</span>, <span class="gr">καιρός</span>, <span class="gr">μικρός</span> y <span class="gr">ὀλίγος</span>.
+Apocalipsis describe cuatro períodos como breves:
 
-| Dónde | El griego | Sustantivo | Adjetivo | Dicho de |
-|---|---|---|---|---|
-| ✅ **6:11** | <span class="gr">ἔτι **χρόνον μικρόν**</span> | <span class="gr">χρόνος</span> | <span class="gr">μικρός</span> | los mártires bajo el altar |
-| ❗ **12:12** | <span class="gr">**ὀλίγον καιρὸν** ἔχει</span> | ❗ <span class="gr">καιρός</span> | ❗ <span class="gr">ὀλίγος</span> | el acusador, arrojado abajo |
-| ✅ **20:3** | <span class="gr">**μικρὸν χρόνον**</span> | <span class="gr">χρόνος</span> | <span class="gr">μικρός</span> | Satanás, después de los mil años |
+| Versículo | El griego | Palabras | RVR1960 | Se dice de |
+|------|------------------------|--------------|--------------|--------------------|
+| 6:11 | <span class="gr">ἔτι χρόνον μικρόν</span> | *chronos* + *mikros* | «todavía un poco de tiempo» | los mártires bajo el altar |
+| 12:12 | <span class="gr">ὀλίγον καιρὸν ἔχει</span> | *kairos* + *oligos* | «tiene poco tiempo» | el diablo, arrojado |
+| 17:10 | <span class="gr">ὀλίγον αὐτὸν δεῖ μεῖναι</span> | solo *oligos* | «dure breve tiempo» | el séptimo rey |
+| 20:3 | <span class="gr">μικρὸν χρόνον</span> | *chronos* + *mikros* | «por un poco de tiempo» | Satanás, desatado después de los mil años |
 
-### ❗❗❗ **6:11 y 20:3 comparten *ambos*, el sustantivo *y* el adjetivo. Son las mismas dos palabras con el orden invertido.**
+Apocalipsis 6:11 y 20:3 usan el mismo sustantivo y el mismo adjetivo, en orden inverso. Son los dos únicos lugares de Apocalipsis donde *mikros* describe una duración. (En los demás significa «pequeño»: «pequeños y grandes», «poca fuerza».)
 
-### ❗❗ **Y 12:12 — el que convencionalmente se agrupa con 6:11 como lenguaje premilenial de tiempo corto — es el que sobra, en *ambos* elementos.**
+Apocalipsis 12:12, que suele agruparse con 6:11 como el «poco tiempo» anterior a los mil años, usa otro sustantivo y otro adjetivo. Lo mismo 17:10, de otra manera.
 
-✅ **Y el barrido zanja el conjunto entero:** <span class="gr">μικρός</span> **usado de una duración aparece exactamente dos veces en Apocalipsis — 6:11 y 20:3, y en ningún otro lugar.** **El par no es una muestra de un patrón. El par es el patrón entero.**
+Para completar el cuadro: *chronos* aparece también en 2:21 («le he dado tiempo para que se arrepienta») y en 10:6 («el tiempo no sería más»); *kairos*, en 1:3, 11:18, 12:14 y 22:10, de un tiempo señalado o cercano; y *oligos*, en 2:14 y 3:4, de «pocas» cosas y personas.
 :::
-
-## Lo que eso hace — dicho exactamente con la fuerza que tiene
-
-Esto corre a mi favor, que es precisamente cuando hay que ir más despacio.
-
-**La cadena que recorre este libro ya pone 6:11 cerca de la apertura del milenio** — los mártires a quienes se les dice que descansen *hasta* que se complete su número, y los tronos de 20:4 donde esas mismas almas viven y reinan. **Así que el archivo tiene 6:11 en un extremo de los mil años y 20:3 en el otro — y Apocalipsis usa la misma expresión de duración para los dos.**
-
-::: finding
-**Hallazgo — la objeción queda debilitada. No queda respondida.**
-
-📐 **La objeción en la que más me he apoyado es que novecientos cincuenta años no pueden llamarse *un poco de tiempo*. Esa objeción es más débil de lo que la vengo enunciando** — porque Apocalipsis usa esa expresión exacta de un segundo intervalo, **y a ese tampoco lo he medido nunca.**
-
-### 🛑 **Pero esto no establece nada sobre la duración de ninguno de los dos. Ni 6:11 ni 20:3 aportan una medida. Un intervalo no medido no puede fijar la escala de otro.**
-
-❗ **Registrado exactamente con esa fuerza y ni un paso más: debilitada, no respondida.** La presión del capítulo anterior queda reducida, no eliminada, y cualquier frase más adelante en este libro que eleve este hallazgo a solución está equivocada.
-:::
-
-⚠️ **Y hay un freno incluso sobre la coincidencia misma.** La expresión de duración se comparte; **la maquinaria de terminación no.**
-
-| Dónde | Conjunción | Verbo |
-|---|---|---|
-| **6:11** | <span class="gr">ἕως</span> | <span class="gr">πληρωθῶσιν</span> *(<span class="gr">πληρόω</span> — completarse)* |
-| **20:3, 20:5** | <span class="gr">ἄχρι</span> | <span class="gr">τελεσθῇ</span> *(<span class="gr">τελέω</span> — cumplirse)* |
-| **20:7** | <span class="gr">ὅταν</span> | <span class="gr">τελεσθῇ</span> |
-
-❗ **Tres conjunciones distintas y dos verbos distintos en las tres cláusulas.**
-
----
-
-# La verificación que me sorprendió aplanando mi propio archivo
-
-Antes de correr esta etapa se hizo una pregunta que la investigación ya había respondido: **qué reunión va con qué batalla.** El archivo tenía ese trabajo hecho, y lo honesto es reportar lo que el expediente dice y no lo que el resumen decía que decía.
-
-::: evidence
-**Lo que registró la etapa anterior — y fue una división, no un arreglo**
-
-| La evidencia verificada | Apunta hacia |
-|---|---|
-| ✅ 16:14 y 20:8 son **idénticos palabra por palabra** | ➡️ **capítulo 20** |
-| ✅ 19:19 difiere en **forma verbal y preposición** | ➡️ *no* 19 |
-| ✅ 16:13 tiene dragón, bestia y falso profeta **todos activos**; 20:10 tiene dos de ellos **ya despachados** | ➡️ **capítulo 19** |
-
-❗❗ **Y la etapa anterior lo dejó abierto por escrito** — si el capítulo 16 va con 19, con 20, o con ninguno.
-
-### 🛑 **Me volvió como un único complejo premilenial resuelto, descrito como *la arquitectura que hemos establecido*. Eso es una elevación de la fuerza de la evidencia — *favorecido por el contexto* convirtiéndose calladamente en *establecido* — y es exactamente el fallo que todo este método existe para atrapar.**
-:::
-
-✅ **Lo que *sí* está establecido, y sobrevive a la corrección:** las aves pertenecen a 19:17–21, y un barrido de Apocalipsis 20 no devuelve **vocabulario de aves** · <span class="gr">Ἁρμαγεδών</span> aparece **una sola vez en todo el libro, en 16:16** · y la etapa anterior rompió su propio empate por razones narrativas que vale repetir: **no se puede tener a una figura operando y despachada de forma permanente en la misma escena.**
-
-## Un corchete, y qué había dentro
-
-Algo pequeño, y creo que lo más instructivo del capítulo.
-
-Se me planteó que Juan dice que Satanás es arrojado donde la bestia y el falso profeta **[ya]** están.
 
 ::: textualnote
-**La palabra no está ahí — y tampoco hay un verbo que la sostenga**
+**Reina-Valera conserva el patrón** <!-- SPANISH-SPECIFIC -->
 
-✅ **20:10 dice:** <span class="gr">…ὅπου καὶ τὸ θηρίον καὶ ὁ ψευδοπροφήτης…</span>
-
-❗❗ <span class="gr">**ἤδη**</span> — *ya* — **está ausente. Y la cláusula no tiene ningún verbo finito.** Es elíptica: un <span class="gr">ὅπου</span> locativo con cópula implícita.
-
-📐 **De modo que el *[ya]* entre corchetes es una inserción por partida doble — ni la palabra, ni siquiera un tiempo verbal que la cargue.**
-
-⚠️ **La inferencia secuencial puede muy bien ser correcta.** 19:20 los pone ahí y 20:10 los encuentra ahí. **Pero eso es una inferencia a partir de la disposición, no un enunciado del texto — y el corchete es exactamente donde esas dos cosas se funden.**
-
-✅ Y un detalle que vale guardar del versículo vecino: **19:20 —** <span class="gr">ζῶντες ἐβλήθησαν οἱ δύο</span> — **los dos fueron arrojados *vivos*.**
+Aquí la traducción castellana le hace un favor al lector. RVR1960 dice «un poco de tiempo» en 6:11 y en 20:3, pero «poco tiempo» en 12:12 y «breve tiempo» en 17:10. Quien lee en RVR1960 ve con sus propios ojos la misma correspondencia que hay en el griego, y la misma diferencia. Es un dato sobre la traducción, que aquí coincide con el griego; la evidencia del argumento sigue siendo el griego.
 :::
 
----
+### Lo que muestra la coincidencia — y hasta dónde llega
 
-# Los caballos, y por qué la imagen no puede fechar nada
+Este hallazgo me favorece, y justo por eso hay que ir despacio.
 
-Se planteó una pregunta razonable: **la batalla tiene caballos. ¿La caballería fecha la escena en una era anterior?**
-
-Un inventario completo de la palabra lo responde, y más rápido de lo esperado. **Catorce apariciones.**
+El argumento de este libro ya ubica Apocalipsis 6:11 cerca del comienzo de los mil años: a los mártires se les dice que descansen *hasta* que se complete su número, y en 20:4 las almas de los decapitados viven y reinan. Así que 6:11 está cerca de un extremo de los mil años y 20:3 en el otro, y Apocalipsis usa las mismas palabras para «un poco de tiempo» en ambos.
 
 ::: finding
-**Hallazgo — los caballos están a ambos lados de la misma escena**
+**La objeción queda debilitada, no respondida**
 
-✅ **19:11** — <span class="gr">ἰδοὺ ἵππος λευκός</span>, y al jinete se lo llama Fiel y Verdadero · ✅ **19:14** — los ejércitos del cielo siguen <span class="gr">ἐφ' ἵπποις λευκοῖς</span> · ✅ **19:19 y 19:21** — <span class="gr">τοῦ καθημένου ἐπὶ τοῦ ἵππου</span>.
+La objeción que más he presionado es que novecientos cincuenta años no pueden llamarse «un poco de tiempo». Esa objeción es más débil de lo que la venía presentando, porque Apocalipsis usa la misma expresión para un segundo período — la espera de los mártires — y ese período tampoco lo he medido nunca.
 
-**Y la lista de carne en 19:18 incluye** <span class="gr">σάρκας ἵππων καὶ τῶν καθημένων ἐπ' αὐτῶν</span>.
+Pero esto no establece nada sobre la duración de ninguno de los dos. Ni 6:11 ni 20:3 dan una duración. Un período sin medir no puede fijar la escala de otro.
 
-### 📐 **Así que si la carne de caballo fecha la batalla en una era de caballería, la misma lógica pone al Mesías y a los ejércitos del cielo sobre caballos literales y convierte la espada de su boca en equipamiento literal.**
-
-❗ **La imagen no puede fechar el cumplimiento. Es una sola escena, y los dos bandos van montados.**
-
-★ Y un dato estructural que nadie pidió: **los caballos aparecen catorce veces hasta 19:21 y están enteramente ausentes desde 20:11 en adelante.**
+Así que el hallazgo es exactamente esto, y nada más: la objeción queda debilitada, no respondida. La presión del capítulo anterior se reduce, no desaparece. Cualquier frase posterior de este libro que trate esto como una solución estaría equivocada.
 :::
 
-## Y un intento de rescate, atrapado en el documento que enuncia la regla
+La coincidencia misma tiene también un límite. La expresión de «poco de tiempo» se comparte; el lenguaje que la rodea, no:
 
-El mismo material que produjo el mejor hallazgo del capítulo contiene también esto, con dos secciones de distancia:
+| Versículo | Conjunción | Verbo |
+|---|---|---|
+| 6:11 | <span class="gr">ἕως</span> (*heōs*, «hasta que») | <span class="gr">πληρωθῶσιν</span> (*plērōthōsin*, «se completen») |
+| 20:3, 20:5 | <span class="gr">ἄχρι</span> (*achri*, «hasta que») | <span class="gr">τελεσθῇ</span> (*telesthē*, «se cumpla») |
+| 20:7 | <span class="gr">ὅταν</span> (*hotan*, «cuando») | <span class="gr">τελεσθῇ</span> (*telesthē*, «se cumpla») |
 
-> ✅ **La regla, bien enunciada:** *no podemos redefinir simplemente el mil porque el mil causa problemas — eso sería rescate de hipótesis.*
+Tres conjunciones distintas y dos verbos distintos. La expresión coincide; el resto de la redacción no. Eso limita cuánto peso puede cargar la coincidencia.
 
-> ❗❗ **Y después, más adelante, la lectura simbólica vuelve como *ahora una posibilidad más fuerte* — sin evidencia nueva, solo con incomodidad nueva.**
+## Dos batallas, dos reuniones: Apocalipsis 19 y Apocalipsis 20
 
-::: commentary
-**Una calificación no se mueve porque la alternativa se volvió incómoda**
+Apocalipsis describe más de una vez una reunión para la batalla, e importa cuáles descripciones van juntas. Apocalipsis 16:14 habla de espíritus que salen a reunir a los reyes «a la batalla de aquel gran día»; 19:19 describe a la bestia y a los reyes «reunidos para guerrear contra el que montaba» el caballo; y 20:8 describe a Satanás reuniendo a las naciones «para la batalla» después de los mil años.
 
-El capítulo anterior calificó la lectura cronométrica sobre **tres hallazgos concretos**: el <span class="gr">μέτρον ἀνθρώπου</span> de 21:17, el patrón del artículo a lo largo de 20:2–7, y la asimetría entre lo numerado y lo no numerado.
-
-🛑 **Ninguno de los tres fue abordado. La calificación simplemente se volvió a describir como más débil, ahora que sostenerla cuesta algo.**
-
-✅ **Si ha de moverse, se mueve sobre evidencia contra esos tres, y esa vía está completamente abierta — nadie la ha tomado.** ❗ **La incomodidad no es evidencia, y una regla enunciada en una página no protege la página siguiente.**
-:::
-
-## El competidor que *sí* es legítimo — y lo que cuesta
-
-Hay una manera seria de que el milenio se corra más tarde sin tocar ninguna cronología, y merece enunciarse a fuerza plena.
-
-**El eslabón más débil de la cadena es el vínculo entre la crisis de Mateo y la de Pablo.** Está registrado en **probable**, no en cierto. ❗ **Rompe ese eslabón y el inicio del milenio se corre solo** — sin siglos fantasma, sin redefiniciones, sin rescate.
-
-⚠️ **Y el costo es real y hay que ponerle precio con honestidad.** La correspondencia entre ambos es densa — <span class="gr">ἀνομία</span>, la crisis daniélica, las señales engañosas, el contexto de <span class="gr">παρουσία</span>, la familia de palabras de la reunión. **Esa densidad no se descarta gratis.** ✅ **Esta es la opción (a) del listado permanente, con su precio puesto en vez de despachada.**
-
----
-
-# Tres deudas pequeñas, y dos de ellas no eran pequeñas
-
-Tres recuperaciones llevaban semanas pendientes, aplazadas por baratas. **Se corrieron en una sola pasada, y dos volvieron con cosas sin las cuales este libro se habría escrito.**
-
-## Los terremotos no son un terremoto visto cinco veces
+Una etapa anterior de esta investigación examinó cuáles de ellas van juntas, y su resultado fue una división genuina, no una respuesta cerrada:
 
 ::: evidence
-**El barrido completo de <span class="gr">σεισμός</span> — los veintidós capítulos**
+**Qué reunión va con qué batalla**
 
-| Dónde | El griego | ¿<span class="gr">μέγας</span>? | Ciclo | Qué lo acompaña |
-|---|---|---|---|---|
-| ✅ **6:12** | <span class="gr">σεισμὸς μέγας ἐγένετο</span> | **sí** | sexto sello | sol negro, luna como sangre, estrellas cayendo |
-| ✅ **6:13** | <span class="gr">σειομένη</span> *(el verbo)* | — | sexto sello | la higuera sacudida por un gran viento |
-| ✅ **8:5** | <span class="gr">σεισμός</span> | ❗ **no** | apertura de las trompetas | <span class="gr">βρονταὶ καὶ φωναὶ καὶ ἀστραπαὶ καὶ σεισμός</span> |
-| ✅ **11:13** | <span class="gr">σεισμὸς μέγας</span> | **sí** | tras la séptima trompeta | cayó la décima parte de la ciudad; siete mil muertos |
-| ✅ **16:18** | <span class="gr">σεισμὸς ἐγένετο μέγας</span> | **sí**, y <span class="gr">τηλικοῦτος</span> | séptima copa | <span class="gr">ἀστραπαὶ καὶ φωναὶ καὶ βρονταί, καὶ σεισμὸς</span> |
+| La evidencia | Apunta hacia |
+|-------------------------------|--------------|
+| 16:14 y 20:8 usan una redacción idéntica palabra por palabra: <span class="gr">συναγαγεῖν αὐτοὺς εἰς τὸν πόλεμον</span>, «reunirlos para la batalla». | El capítulo 20 |
+| 19:19 usa otra forma verbal y otra preposición. | No el capítulo 19 |
+| En 16:13 el dragón, la bestia y el falso profeta están todos activos; en 20:10 dos de ellos ya han sido despachados. | El capítulo 19 |
 
-❗❗ **① Ningún par de apariciones comparte las tres cosas: el mismo adjetivo, el mismo verbo regente y los mismos fenómenos acompañantes. Los terremotos de Apocalipsis no son descripciones intercambiables de un mismo suceso.**
-
-### ★ **② Y 16:18 está marcado como sin precedente por el texto mismo:**
-
-### <span class="gr">οἷος οὐκ ἐγένετο ἀφ' οὗ ἄνθρωποι ἐγένοντο ἐπὶ τῆς γῆς **τηλικοῦτος** σεισμὸς **οὕτω μέγας**</span>
-
-*"tal como no lo hubo desde que hay hombres sobre la tierra — un terremoto tan grande, tan poderoso."*
-
-❗❗ **Un superlativo que aporta el texto, no uno que yo imponga. 16:18 no puede ser un miembro más de una serie de temblores equivalentes; el versículo lo prohíbe.**
-
-### ★★ **③ Y la fórmula reaparece con escalada:**
-
-✅ **8:5 —** <span class="gr">βρονταὶ · φωναὶ · ἀστραπαὶ · σεισμός</span> ❗ *sin calificar* · ✅ **16:18 —** <span class="gr">ἀστραπαὶ · φωναὶ · βρονταί · σεισμὸς</span> ✅ *con todos los intensificadores que tiene el idioma*
-
-📐 **Los mismos cuatro elementos, orden invertido, magnitud escalada de simple a sin precedente. Este libro lleva treinta capítulos llamando espiral a la estructura de Apocalipsis. Es la primera vez que esa descripción la sostiene un conjunto de vocabulario medido en vez de una afirmación.**
-
-⚠️ **Y el freno: esto muestra una fórmula que reaparece con escalada. No establece que 8:5 y 16:18 sean el mismo suceso — ni que sean distintos.**
+Si el capítulo 16 va con el 19, con el 20 o con ninguno, sigue abierto.
 :::
 
-## La frase que debí tener doce capítulos atrás
+Es tentador dar por cerrada esa pregunta abierta y juntar los tres pasajes en un solo «conjunto de acontecimientos anterior a los mil años». No está cerrada, y tratar una lectura favorecida por el contexto como si estuviera establecida es exactamente la clase de ascenso que este libro intenta evitar.
 
-La segunda deuda era un pasaje de Mateo que nunca se había recuperado — una celda sin verificar dentro de una tabla sobre la que este libro se apoya.
+Algunas cosas sí están establecidas. Las aves convocadas a la «gran cena» pertenecen a 19:17–21; Apocalipsis 20 no tiene ningún vocabulario de aves. La palabra *Armagedón* (<span class="gr">Ἁρμαγεδών</span>) aparece una sola vez en todo el libro, en 16:16, y no está ni en el capítulo 19 ni en el 20. Y la etapa anterior resolvió su propio empate con un buen argumento narrativo: la misma figura no puede estar a la vez activa y ya despachada para siempre en la misma escena.
 
-::: finding
-**Hallazgo — Mateo 24:6 dice sin rodeos que las guerras no son el fin**
+## La palabra «ya» en Apocalipsis 20:10
 
-✅ <span class="gr">μελλήσετε δὲ ἀκούειν **πολέμους καὶ ἀκοὰς πολέμων**· ὁρᾶτε, μὴ θροεῖσθε· **δεῖ** γὰρ γενέσθαι, ἀλλ' **οὔπω ἐστὶν τὸ τέλος**.</span>
+En muchas traducciones, Apocalipsis 20:10 dice que el diablo fue lanzado al lago de fuego y azufre donde la bestia y el falso profeta «estaban» o «ya estaban». Esa palabra merece una mirada más atenta.
 
-### ❗❗❗ <span class="gr">δεῖ γὰρ γενέσθαι</span> — ***es necesario que esto ocurra*** — <span class="gr">ἀλλ' οὔπω ἐστὶν τὸ τέλος</span> — ***pero aún no es el fin.***
+::: textualnote
+**La palabra no está — y tampoco hay un verbo que la sostenga**
 
-📐 **Ni una insinuación ni una implicación. Un freno que aporta el propio texto contra leer el conflicto como marcador de término — y corta contra toda lectura de *las guerras prueban que estamos cerca del fin* que haya existido.**
+Apocalipsis 20:10 dice en griego: <span class="gr">…ὅπου καὶ τὸ θηρίον καὶ ὁ ψευδοπροφήτης…</span> (*hopou kai to thērion kai ho pseudoprophētēs*): «donde también la bestia y el falso profeta…».
 
-❗ **Incluida, si soy honesto, la de quien sostiene esta pluma.**
+La palabra griega para «ya», <span class="gr">ἤδη</span> (*ēdē*), no está. Y la cláusula no tiene verbo principal; es elíptica: «donde también la bestia y el falso profeta», con el verbo sobrentendido. Así que un «[ya]» entre corchetes es doblemente un añadido: pone una palabra que no está, y un tiempo verbal que la cláusula no enuncia.
+
+La inferencia por secuencia puede ser buena: 19:20 pone a la bestia y al falso profeta en el lago, y 20:10 los encuentra allí. Pero eso es una inferencia a partir del orden del relato, no algo que el texto diga, y el corchete es justamente donde ambas cosas se confunden.
+
+Un detalle de 19:20 merece guardarse: <span class="gr">ζῶντες ἐβλήθησαν οἱ δύο</span> (*zōntes eblēthēsan hoi dyo*): «los dos fueron lanzados *vivos*».
 :::
 
-✅ **Y el resto del pasaje, recuperado con él:** **24:7** — nación contra nación, y <span class="gr">λιμοὶ καὶ **σεισμοὶ κατὰ τόπους**</span>, *hambres y terremotos por lugares* ★ *(el mismo sustantivo que el barrido de arriba — si ese vínculo significa algo queda abierto, no supuesto)* · **24:8** — <span class="gr">πάντα δὲ ταῦτα **ἀρχὴ ὠδίνων**</span>, y un barrido de los veintiocho capítulos muestra que <span class="gr">ὠδίν</span> aparece **solo aquí en Mateo** · **24:9** — la entrega, y el odio cuyo agente es <span class="gr">πάντων τῶν ἐθνῶν</span>.
+::: textualnote
+**«Donde estaban»** <!-- SPANISH-SPECIFIC -->
 
-⚠️ **Una deuda que esto *no* salda.** El estudio de <span class="gr">πόλεμος</span> pendiente desde el capítulo de Ezequiel sigue pendiente. **Mateo 24:6 puso el sustantivo a la vista; el barrido del uso propio de Apocalipsis no se corrió, y darlo por pagado porque apareció un versículo emparentado sería exactamente el aplanamiento que este capítulo fue escrito para atrapar.**
+RVR1960 traduce 20:10 así:
 
-## El resultado negativo, que quizá sea lo más protector de aquí
+> Y el diablo que los engañaba fue lanzado en el lago de fuego y azufre, donde estaban la bestia y el falso profeta;
 
-La tercera deuda era medio versículo. **La primera mitad se había explotado; la segunda nunca se examinó.**
+El castellano necesita un verbo, y RVR1960 pone «estaban», en pasado. Es sintaxis de la traducción, no evidencia del griego: el griego no tiene verbo en esa cláusula. Quien lee «estaban» no debe concluir que el texto afirma algo sobre el tiempo; lo que afirma es solo el lugar.
+:::
+
+## Los caballos, y por qué las imágenes no pueden fechar la batalla
+
+La batalla de Apocalipsis 19 tiene caballos. ¿Fecha eso la escena en una época de caballería?
+
+La palabra «caballo» (<span class="gr">ἵππος</span>, *hippos*) aparece dieciséis veces en Apocalipsis, y en el capítulo 19 los caballos están en los dos bandos de la misma escena. El jinete llamado Fiel y Verdadero viene en un caballo blanco (19:11); los ejércitos del cielo lo siguen en caballos blancos (19:14); las fuerzas de la bestia se describen con caballos y jinetes (19:18), y los últimos versículos vuelven sobre «el que montaba el caballo» (19:19, 21).
+
+La presencia de caballos en Apocalipsis 19 no establece, por sí sola, el período histórico de la batalla. Como la escena incluye participantes celestiales y terrenales, sus imágenes tienen que interpretarse en su contexto y no usarse como marcador cronológico independiente.
+
+Un detalle estructural: la última aparición de la palabra está en 19:21. Los caballos no aparecen en ninguna parte del capítulo 20 en adelante. Qué marca eso es pregunta para otro lugar.
+
+## Una calificación no se mueve porque se volvió incómoda
+
+En este punto es tentador decir que la lectura simbólica de los mil años se ha vuelto más fuerte. No es así.
+
+El capítulo 49 calificó la lectura cronológica sobre tres hallazgos concretos: la «medida de hombre» de Apocalipsis 21:17, la manera en que Juan vuelve sobre «*los* mil años» en las cláusulas de cumplimiento, y el contraste entre los mil años numerados y la liberación sin número. Ninguno de los tres ha sido respondido. Si la calificación ha de moverse, tiene que moverse por evidencia contra ellos, y ese camino está completamente abierto. Pero la incomodidad no es evidencia. Una regla contra el rescate de una hipótesis vale en cada página, incluida la página donde mantenerla cuesta algo.
+
+## Una alternativa legítima — y lo que cuesta
+
+Hay una manera seria de que los mil años comiencen más tarde sin tocar ninguna cronología, y merece enunciarse con toda su fuerza.
+
+El eslabón más débil de la cadena de este libro es la conexión entre la crisis que describe Yeshúa en Mateo 24 y la que describe Pablo en 2 Tesalonicenses 2. Está registrada como <span class="conf">probable</span>, no como cierta. Si ese eslabón se rompe, el comienzo de los mil años se desplaza por sí solo hacia más tarde: sin siglos faltantes, sin redefiniciones, sin rescate. Es la opción (a) del capítulo 47: la transición no comenzó en el primer siglo.
+
+Pero renunciar a ese eslabón costaría algo real. La correspondencia entre ambos pasajes es densa: la iniquidad (<span class="gr">ἀνομία</span>, *anomia*) en los dos; la crisis tomada de Daniel; las señales y prodigios engañosos; el contexto de la venida del Señor (<span class="gr">παρουσία</span>, *parousia*); y la misma familia de palabras para la reunión de su pueblo. Tanto material compartido no puede dejarse de lado a la ligera. La opción (a) sigue viva, y debe pesarse con ese costo, sin descartarla ni adoptarla a la ligera.
+
+## Terremotos, truenos y relámpagos en Apocalipsis
+
+Apocalipsis menciona terremotos varias veces, y es fácil tratarlos todos como un solo acontecimiento o suponer que tienen que ser acontecimientos separados. El texto, por sí solo, no sostiene ninguna de las dos suposiciones.
+
+El sustantivo para terremoto, <span class="gr">σεισμός</span> (*seismos*), aparece en estos lugares:
+
+| Versículo | El griego | ¿«Grande»? | Escena | Lo que lo acompaña |
+|------|------------------------|--------|---------------|----------------------------|
+| 6:12 | <span class="gr">σεισμὸς μέγας ἐγένετο</span> | sí | sexto sello | el sol negro, la luna como sangre, las estrellas que caen (y en 6:13 el verbo emparentado: una higuera «sacudida» por el viento) |
+| 8:5 | <span class="gr">σεισμός</span> | no | antes de las trompetas | truenos, voces, relámpagos |
+| 11:13 | <span class="gr">ἐγένετο σεισμὸς μέγας</span> | sí | después de que se levantan los dos testigos | cae la décima parte de la ciudad; mueren siete mil |
+| 11:19 | <span class="gr">σεισμὸς καὶ χάλαζα μεγάλη</span> | (el granizo es grande) | séptima trompeta; el templo abierto | relámpagos, voces, truenos, gran granizo |
+| 16:18 | <span class="gr">σεισμὸς ἐγένετο μέγας</span> | sí, y sin precedente | séptima copa | relámpagos, voces, truenos — y en 16:21, gran granizo |
+
+En 16:18 el propio texto marca el terremoto como sin precedente:
+
+> Entonces hubo relámpagos y voces y truenos, y un gran temblor de tierra, un terremoto tan grande, cual no lo hubo jamás desde que los hombres han estado sobre la tierra.
+
+Ese superlativo lo da el texto; no se le impone.
+
+Estos terremotos llegan con acompañamientos distintos y en escenas distintas, así que no puede suponerse sin más que describan un solo terremoto. Pero una redacción distinta tampoco prueba, por sí sola, que sean acontecimientos separados. Las visiones de Apocalipsis pueden volver sobre la misma realidad desde puntos de vista distintos.
+
+Lo que el recorrido sí muestra es un patrón que se repite. Relámpagos, voces y truenos salen del trono en 4:5. En 8:5 aparecen los mismos tres con un terremoto. En 11:19, con un terremoto y gran granizo. En 16:18–21, con el mayor terremoto de la historia humana y un gran granizo que cae en piedras enormes. Los mismos elementos regresan, cada vez con algo más.
+
+Eso es lo que este libro ha querido decir al llamar *espiral* a la estructura de Apocalipsis, en vez de línea recta: las visiones no avanzan simplemente de un acontecimiento al siguiente; vuelven sobre los mismos temas con intensidad creciente. Aquí la espiral puede verse en el vocabulario mismo. Muestra una escalada literaria. No establece si 8:5, 11:19 y 16:18 describen un acontecimiento o varios, y dejo esa pregunta abierta.
+
+## Guerras y rumores de guerras: lo que dijo Yeshúa
+
+En Mateo 24:6, Yeshúa dice a sus discípulos:
+
+> <span class="gr">μελλήσετε δὲ ἀκούειν πολέμους καὶ ἀκοὰς πολέμων· ὁρᾶτε, μὴ θροεῖσθε· δεῖ γὰρ γενέσθαι, ἀλλ' οὔπω ἐστὶν τὸ τέλος.</span>
+
+En RVR1960: «oiréis de guerras y rumores de guerras», «mirad que no os turbéis, porque es necesario que todo esto acontezca», «pero aún no es el fin».
+
+La distinción importa. Las guerras son parte de lo que describe Yeshúa, pero él no las presenta como evidencia de que el fin ha llegado. Al contrario: dice con claridad que no ha llegado.
+
+Los versículos siguientes amplían el cuadro. Se levantará nación contra nación y reino contra reino, y habrá hambres y terremotos en diferentes lugares (24:7) — la palabra para los terremotos es el mismo *seismos* de Apocalipsis, aunque si ese vínculo significa algo es otra pregunta. «Todo esto será principio de dolores», dice Yeshúa (24:8, <span class="gr">πάντα δὲ ταῦτα ἀρχὴ ὠδίνων</span>, *panta de tauta archē ōdinōn*); la palabra para dolores de parto no aparece en ningún otro lugar de Mateo. Después, sus seguidores serán entregados, y serán «aborrecidos de todas las gentes» (24:9).
+
+Así que la guerra no puede, por sí sola, establecer el momento de los acontecimientos que describe Apocalipsis. Cualquier conexión propuesta tiene que pesarse contra el contexto profético más amplio, incluidos la secuencia y las condiciones concretas que nombra Yeshúa.
+
+::: textualnote
+**«Pestes» en Mateo 24:7** <!-- SPANISH-SPECIFIC -->
+
+RVR1960 dice en 24:7 «habrá pestes, y hambres, y terremotos en diferentes lugares». El texto griego crítico no tiene «pestes»; la palabra viene del *Textus Receptus*, el texto griego del siglo XVI detrás de la tradición Reina-Valera. Es un dato sobre esa tradición textual, y no cambia lo que se dice arriba sobre la guerra y el fin.
+:::
+
+El recorrido de la palabra «guerra» (<span class="gr">πόλεμος</span>, *polemos*) en todo Apocalipsis se presenta en el capítulo 52.
+
+## Cuando el amor se enfría: Mateo 24:12
+
+Una Parte anterior de este libro se apoyó en la primera mitad de Mateo 24:12 — que la maldad se multiplicaría — y la conectó con el «hombre de pecado» de Pablo. La segunda mitad del versículo no se había examinado.
 
 ::: wordstudy
-**Estudio de palabra — <span class="gr">ψυγήσεται</span>, y una correspondencia que tiene un borde medido**
+**Estudio de palabra — <span class="gr">ψυγήσεται</span> (*psygēsetai*), «se enfriará»**
 
-✅ **24:12 —** <span class="gr">καὶ διὰ τὸ πληθυνθῆναι τὴν ἀνομίαν **ψυγήσεται ἡ ἀγάπη τῶν πολλῶν**</span>.
+Mateo 24:12: <span class="gr">καὶ διὰ τὸ πληθυνθῆναι τὴν ἀνομίαν ψυγήσεται ἡ ἀγάπη τῶν πολλῶν</span>. En RVR1960:
 
-| | |
-|---|---|
-| **Raíz** | <span class="gr">ψύχ-</span> *(<span class="gr">ψύχω</span> — enfriar, enfriarse)* |
-| **Forma** | futuro de indicativo, tercera del singular |
-| ⚠️ **Voz** | ❗ **Reportada como media tras darse primero como media-o-pasiva. NO ADJUDICADA AQUÍ.** Esta investigación no zanja morfología disputada por su propia autoridad — **señalada, no resuelta.** |
-| **Sujeto** | ✅ <span class="gr">ἡ ἀγάπη</span> — nominativo singular |
-| **De quiénes** | ✅ <span class="gr">τῶν πολλῶν</span> — genitivo plural, **con artículo** |
+> y por haberse multiplicado la maldad, el amor de muchos se enfriará.
 
-### ★★ **Y el barrido devolvió un resultado negativo que vale más que uno positivo:**
+El verbo viene de <span class="gr">ψύχω</span> (*psychō*), «enfriar, enfriarse». Su sujeto es «el amor» (<span class="gr">ἡ ἀγάπη</span>, *hē agapē*), y «de los muchos» (<span class="gr">τῶν πολλῶν</span>, *tōn pollōn*) lleva artículo: no «de muchas personas» en general, sino «de los muchos». (RVR1960 dice «de muchos», sin el artículo.)
 
-### ✅ <span class="gr">ψύχω</span> **aparece solo en Mateo 24:12 en todo Mateo — y está ausente de Apocalipsis por completo.**
-
-📐 **Este libro ha construido una correspondencia entre Mateo y Apocalipsis a lo largo de muchos capítulos.** ❗ <span class="gr">ψυγήσεται</span> **no tiene ninguna contraparte río abajo. Es un dato mateano sin eco.**
-
-✅ **Ese es el tipo de resultado que protege a un modelo de sí mismo: la correspondencia es real donde se midió, y no se extiende donde no.**
+Este verbo aparece solo aquí en todo el Nuevo Testamento. No aparece en Apocalipsis.
 :::
 
----
+Este libro ha construido una correspondencia entre Mateo y Apocalipsis a lo largo de muchos capítulos: en la iniquidad, en las señales y prodigios, en la reunión del pueblo de Dios. El enfriamiento del amor no tiene equivalente en el vocabulario de Apocalipsis. Eso no descarta una relación temática — Apocalipsis sabe de una fidelidad que decae: a la iglesia de Éfeso se le dice «has dejado tu primer amor» (2:4) —, pero esa relación tendría que mostrarse desde el contexto, no desde una palabra compartida. La correspondencia es real donde se ha medido, y no se extiende donde no.
 
-## Lo que de verdad tengo
+(Las obras de referencia clasifican de manera distinta la voz gramatical de <span class="gr">ψυγήσεται</span>; el sentido, «se enfriará», no está en duda, y no intento resolver la clasificación.)
 
-Entré a este capítulo queriendo la segunda salida. **Si el reinado es celestial, el reloj podría no ser el nuestro, y novecientos cincuenta años deja de ser un problema.**
+## Lo que este capítulo nos deja
 
-No funciona, y la razón es una palabra. **Satanás queda atado de engañar a *las naciones*** — y las naciones son de las ordinarias, las que compran y venden y van a la guerra. **Una restricción sobre ellas corre por tiempo ordinario mientras dure.** Los tronos pueden estar donde la evidencia termine poniéndolos; **el intervalo sigue cruzando los mismos siglos que habito yo.**
+Llegué a este capítulo esperando la segunda salida. Si los santos reinan en el cielo, quizá el reloj no es el nuestro, y novecientos cincuenta años dejan de ser un problema.
 
-Después el barrido que llevaba quince etapas aplazando volvió con algo que no fui a buscar.
+No funciona, por una palabra. Satanás está atado para que no engañe a *las naciones*, y las naciones son los pueblos comunes que compran, venden y van a la guerra. Una restricción sobre ellos corre a través del tiempo ordinario mientras dure. Los tronos pueden estar dondequiera que la evidencia los ubique al final; los mil años se superponen igual a los mismos siglos en que yo vivo. Dónde reinan los santos y cuánto dura el reinado son dos preguntas distintas, y yo esperaba que la primera respondiera la segunda. No la responde — aunque tampoco fija cuánto dura el período.
 
-**Hay dos lugares en todo el libro donde a un tramo de tiempo se lo llama poco con esas palabras exactas.** Uno son los mártires bajo el altar. El otro es Satanás, suelto después de los mil años. **Mismo sustantivo. Mismo adjetivo. Nada más en el libro los usa así** — y el versículo que todos agrupan con el primero resulta usar palabras distintas en las dos mitades.
+Después, la comparación de cada «poco de tiempo» de Apocalipsis trajo algo que no esperaba. Solo dos lugares del libro llaman «poco» a un lapso de tiempo con estas mismas palabras: los mártires bajo el altar, a quienes se dice que descansen todavía un poco de tiempo hasta que se complete su número (6:11), y Satanás, desatado después de los mil años por un poco de tiempo (20:3). El pasaje que suele agruparse con el primero, 12:12, usa palabras distintas en sus dos mitades. Y RVR1960 deja ver todo esto en castellano.
 
-Y la objeción en la que me vengo apoyando toda la semana es que novecientos cincuenta años no pueden ser un poco de tiempo. **Quizá no. Pero Juan usó esas dos palabras para otra cosa también, y nunca pregunté cuánto duró aquello.**
+La objeción que he venido presionando es que novecientos cincuenta años no pueden ser «un poco de tiempo». Quizá no. Pero Juan usó las mismas palabras para otro período, y nunca me pregunté cuánto duró ese. Eso no vuelve breves a novecientos cincuenta años. Significa que estaba midiendo una cosa sin medir contra otra y llamando imposible al resultado. La objeción es más débil de lo que la venía presentando. No ha desaparecido, y si este libro alguna vez trata esto como una solución, que el lector me haga cumplir este párrafo.
 
-**Eso no vuelve cortos los novecientos cincuenta años.** Significa que estaba midiendo una cosa no medida contra otra y llamando imposible al resultado. **La objeción es más débil de lo que vengo diciendo. No desapareció, y si alguien me sorprende después tratando esto como una solución, que me lo cobre con esta frase.**
+Los terremotos, truenos y relámpagos de Apocalipsis muestran la espiral que el libro ha venido describiendo: los mismos elementos que vuelven, cada vez con algo más. Y Mateo 24:6 dice con claridad lo que muchos lectores de la profecía han pasado por alto: las guerras tienen que venir, «pero aún no es el fin». El enfriamiento del amor de Mateo 24:12, por su parte, no tiene eco en el vocabulario de Apocalipsis: un recordatorio de que la correspondencia entre los dos libros tiene límites.
 
 ::: whereweare
-**Dónde estamos.** La segunda salida queda cerrada por el sentido de una sola palabra: la atadura está especificada sobre las naciones, así que el intervalo cruza historia ordinaria sin importar dónde estén los tronos — la ubicación no es la duración, y la lectura celestial sobrevive intacta sin comprar nada. Un barrido pendiente desde antes de la Parte VII invirtió después la agrupación que se le pedía confirmar: el poco de tiempo de los mártires y el de Satanás son las mismas dos palabras griegas, los dos únicos usos de ese adjetivo para una duración en el libro, y el versículo que suele emparejarse con el primero difiere en ambos elementos. Eso debilita la objeción en la que esta investigación más se apoyaba — y *debilita* es toda la afirmación, porque ninguno de los dos intervalos se ha medido nunca y una cosa no medida no puede fijar la escala de otra. Se detectó un aplanamiento en el propio resumen del archivo, se halló que un *[ya]* entre corchetes no tenía ni palabra ni verbo detrás, se mostró que los caballos están a ambos lados de la escena, y se rechazó un rescate de la lectura simbólica sobre la base de que la incomodidad no es evidencia. Tres deudas pendientes quedaron pagadas: la espiral queda evidenciada por primera vez, Mateo prohíbe leer las guerras como marcador de término, y la correspondencia entre Mateo y Apocalipsis resultó tener un borde medido. Una deuda quedó declarada abiertamente impaga en vez de reportada como cerrada.
+**Dónde nos deja esto.** Los santos pueden reinar en el cielo, pero la atadura se define sobre las naciones, así que los mil años se superponen a la historia ordinaria dondequiera estén los tronos; la pregunta por el lugar no fija la duración. Apocalipsis 6:11 y 20:3 usan las mismas dos palabras para «un poco de tiempo», y son los únicos lugares donde el libro usa ese adjetivo para el tiempo; 12:12 y 17:10 describen períodos breves con otras palabras. Eso debilita la objeción de que novecientos cincuenta años no pueden ser «un poco de tiempo», sin responderla, porque ninguno de los dos versículos da una duración. Qué reunión va con qué batalla sigue genuinamente abierto. La palabra «ya» no está en Apocalipsis 20:10, y el «estaban» de RVR1960 es sintaxis de la traducción. Los caballos del capítulo 19 están en ambos bandos y no pueden fechar la escena. La calificación de la lectura cronológica no se ha movido, porque nada ha respondido la evidencia a su favor. La opción (a) sigue viva con un costo real. Los terremotos muestran un patrón que se repite y crece, sin mostrar si son un acontecimiento o varios. Mateo 24:6 dice que las guerras no son el fin. Y el enfriamiento del amor de Mateo 24:12 no tiene equivalente en Apocalipsis.
 :::
 
 ::: earned
-**Lo que ganó.** Un capítulo escrito para aliviar presión que cerró su propia salida en sus dos primeras páginas, y que después encontró alivio real donde no lo buscaba — y se negó a inflarlo. Un hallazgo que corre a favor del autor, registrado en *debilitada* y no en *respondida*, con una frase que invita a quien lee a exigir ese techo al resto del libro. Un aplanamiento atrapado dentro del resumen que la propia investigación hizo de sí misma, y la división restaurada. Un corchete insertado rastreado hasta una cláusula que no tiene verbo finito. Un rescate de hipótesis atrapado dos secciones después de que la regla que lo prohíbe quedara bien enunciada. Tres deudas baratas que devolvieron los resultados más filosos del capítulo, incluido uno negativo que traza exactamente dónde se detiene la correspondencia central de este libro. Y una deuda reportada como todavía pendiente en vez de contada calladamente como saldada.
+**La pregunta que esto deja.** Todo en la escena final de Apocalipsis 20 depende de a quién se rodea: «el campamento de los santos y la ciudad amada». El capítulo 52 pregunta cómo define el propio Apocalipsis a los santos — y qué significa la palabra «guerra» cuando se hace contra ellos.
 :::

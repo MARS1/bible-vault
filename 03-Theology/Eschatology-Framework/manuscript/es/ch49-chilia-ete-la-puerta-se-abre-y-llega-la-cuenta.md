@@ -1,197 +1,192 @@
 ---
-title: "Manuscrito (ES) — Capítulo 49: χίλια ἔτη — la puerta se abre, y llega la cuenta"
+title: "Manuscrito (ES) — Capítulo 49: Mil años — lo que el número puede y no puede decirnos"
 type: manuscript
 category: theology
-tags: [draft-1, parte-viii, capitulo-49, etapa-60d, chilia-ete, metron-anthropou, patron-del-articulo, salmo-90-4, 2-pedro-3-8, cuenta-condicional, apoya-vs-permite]
-reference: "Apocalipsis 20:2-7; 21:17; 13:18; 11:2-3; 12:6; Salmo 90:4; 2 Pedro 3:4, 3:8"
+tags: [borrador-2, revision-2, parte-viii, capitulo-49, etapa-60d, chilia-ete, metron-anthropou, patron-del-articulo, salmo-90, 2-pedro-3, barrido-numerico, tension-condicional]
+reference: "Apocalipsis 2:10, 8:1, 9:5, 9:15, 11:2-3, 11:9, 12:6, 12:14, 13:5, 13:18, 14:20, 17:12, 20:2-7, 21:16-17; Salmo 90:4, 90:12; 2 Pedro 3:4, 3:8-9"
 created: 2026-09-21
 status: draft
-localization: "BORRADOR 1. Arquitectura aprobada v1.0, Parte VIII, Capítulo 49. Edición hermana independiente. ★★★★★ INCORPORA LA CORRECCIÓN MILLENNIUM-NUMBER DE LA REVISIÓN SUSTANTIVA — EL VEREDICTO SE PARTE DONDE SE PARTE LA EVIDENCIA: (1) que <span class='gr'>χίλια ἔτη</span> designa un INTERVALO DEFINIDO Y ACOTADO, en lenguaje de cantidad — APOYA; (2) que esa cantidad equivalga a aproximadamente mil años ORDINARIOS — NO ESTABLECIDO, registrado en PERMITE y sin pasar de APOYA débil. ❗❗ RAZÓN DICHA EN EL TEXTO: el barrido de contabilidad NO distingue cantidad simbólica de cantidad ordinaria — los ciento cuarenta y cuatro mil, las siete cabezas, los diez cuernos y las doce puertas son todos contables Y simbólicos; y 21:17 establece qué es un codo, no cómo leer cada magnitud del libro. ★★★ LA CUENTA QUEDA CONDICIONAL: SI los mil años son aproximadamente cronológicos, ENTONCES el término cae cerca del siglo XI y quedan ~950 años por llamarse <span class='gr'>μικρὸν χρόνον</span>. El texto dice explícitamente que esa condición es el eslabón peor calificado de su propia cadena. ★★ OPCIÓN (b) recalificada: debilitada, no cerrada. ⚠️ Salmo 90:4 y 2 Pedro 3:8 se tratan como COMPARACIONES, nunca como fórmula de conversión. ❗ REGLA DE CITA: pasajes sin texto RVR1960 verificado se DESCRIBEN. REGISTRO: español latinoamericano internacional, tuteo. TERMINOLOGÍA: sin planeta/global/mundial."
-related: "[[10-manuscript-architecture]], [[03l-chilia-ete-the-gate]], [[ES-REGISTER]]"
+localization: "BORRADOR 2 (revisión de lectura de la Parte VIII, 2026-10-11). Edición hermana desde la evidencia del maestro inglés d2-reader3 y SYNC-024. CONTENIDO: la prueba fijada en el cap. 47 se responde en los 22 capítulos: todo número se une a algo contable o medible — descarta 'figura retórica unida a nada', no separa cantidad simbólica de ordinaria. Ap 21:17 μέτρον ἀνθρώπου fija la convención de medida, no la función de cada número; 13:18 ἀριθμὸς ἀνθρώπου, mismo giro. PATRÓN DEL ARTÍCULO REBAJADO: firme solo en las tres cláusulas de cumplimiento; 20:4 y 20:6 tienen variantes con artículo. NOTA ESPAÑOLA: RVR1960 muestra el artículo solo en 20:7, no en 20:3 ni 20:5 — el patrón es del griego. 42 meses = 1.260 días es un cálculo de intérpretes. Salmo 90:4 compara con dos cosas; 2 Pedro 3:8 usa 'como' en ambas mitades; RVR traduce παρουσία como 'advenimiento'. VEREDICTO: intervalo delimitado en APOYA; aproximadamente mil años ordinarios en PERMITE (APOYA débil a lo sumo). Tensión condicional (~950 años). Opciones (a)-(e) re-enunciadas; (b) = 'no son aproximadamente mil años de calendario', y el estar delimitados NO cuenta contra ella; (c) bajo la menor presión, sin que eso sea evidencia a favor. Ninguna opción elegida. REGISTRO: español latinoamericano internacional, tuteo. TERMINOLOGÍA: sin planeta/global/mundial."
+related: "[[10-manuscript-architecture]], [[03l-chilia-ete-the-gate]], [[ES-REGISTER]], [[SYNC-LEDGER]]"
 ---
 
-# Capítulo 49: <span class="gr">χίλια ἔτη</span> — la puerta se abre, y llega la cuenta
+# Capítulo 49: Mil años — lo que el número puede y no puede decirnos
 
-Dos capítulos atrás descubrí que en cincuenta y ocho etapas nadie había decidido nunca qué son los mil años, y que cada mención en mis propios archivos era un descargo.
+Hace dos capítulos descubrí que, a lo largo de las cincuenta y ocho etapas anteriores, nunca había probado directamente qué clase de duración representan los mil años. Cada tratamiento anterior había dejado la pregunta abierta a propósito. Y escribí la prueba antes de saber hacia dónde iba a salir:
 
-También fijé la prueba, por escrito, antes de saber por dónde saldría: **¿usa Apocalipsis alguna vez un número de un modo que demostrablemente no sea literal?**
+> **¿Usa Apocalipsis alguna vez un número de un modo que demostrablemente no sea literal?**
 
-Quiero que se note el orden. La prueba se escribió primero precisamente para que no pudiera ajustarse cuando llegara la respuesta. **Lo que sigue es la respuesta, y no es la que ayuda.**
+El orden importa. La prueba se escribió primero para que no pudiera ajustarse una vez llegada la respuesta. Lo que sigue es la respuesta, y no es la que le facilita las cosas a mi argumento.
 
----
+## Todos los números de Apocalipsis
 
-## El barrido, y un negativo limpio
-
-Todas las cantidades numéricas de los veintidós capítulos, catalogadas — cada número que Apocalipsis adosa a algo medible o contable.
+Recorrí todos los números de los veintidós capítulos de Apocalipsis: cada cantidad que el libro une a algo.
 
 ::: finding
-**Hallazgo — la prueba está respondida, y la respuesta es no**
+**La respuesta a la prueba es no**
 
-❗❗❗ **¿Adosa Apocalipsis alguna vez un número a algo que no se pueda contar ni medir?**
+Apocalipsis nunca une un número a algo que, en principio, no pueda contarse o medirse. Días, meses, años y horas son duraciones medibles. Estadios y codos son distancias medibles. Ángeles, sellos, iglesias, ancianos, puertas, cuernos y cabezas son cosas contables.
 
-### ❌ **Ni una sola vez, en todo el libro.**
+El libro usa nueve duraciones distintas: diez días, media hora, cinco meses, una hora, cuarenta y dos meses, 1.260 días, tres días y medio, «un tiempo, y tiempos, y la mitad de un tiempo», y mil años.
 
-✅ **Días, meses, años y horas son duraciones medibles. Estadios y codos son distancias medibles. Ángeles, sellos, asambleas, ancianos, puertas, cuernos y cabezas son objetos contables.**
-
-**Y nueve duraciones distintas:** diez días · media hora · cinco meses · una hora · cuarenta y dos meses · mil doscientos sesenta días · tres días y medio · un tiempo, tiempos y medio tiempo · mil años.
-
-📐 **De modo que los números de Apocalipsis están consistentemente sujetos a cosas que en principio pueden contarse — *incluso cuando los números cargan un peso simbólico evidente*.**
-
-**Lo cual significa que <span class="gr">χίλια ἔτη</span> no puede despacharse como una figura retórica solo porque mil sea un número redondo y resonante.**
-
-🛑 **Y ahora hasta dónde llega eso exactamente — que es menos lejos de lo que lo escribí la primera vez.**
-
-❗❗ **Un sustantivo contable no vuelve ordinario a su número.** Los ciento cuarenta y cuatro mil son personas y se pueden contar. Las siete cabezas, los diez cuernos, las doce puertas son todos contables. **Y cada una de esas cifras está haciendo trabajo simbólico al mismo tiempo.**
-
-✅ **Así que esta prueba descarta una cosa, y solo una: que <span class="gr">χίλια ἔτη</span> sea una figura retórica pegada a nada medible.**
-
-❌ **No establece que la cantidad sea una cantidad ordinaria.** *Número simbólico y número ordinario se adosan ambos a cosas contables, y un barrido de a qué se adosan los números no puede distinguir entre los dos.*
+Así que los números de Apocalipsis están siempre unidos a cosas que pueden contarse — *incluso cuando esos números tienen un peso simbólico evidente*. Eso significa que «mil años» no puede descartarse como figura retórica solo porque mil es un número redondo y resonante.
 :::
 
-## Y después, lo que nadie tenía
+Pero conviene ver exactamente hasta dónde llega eso, que es menos lejos de lo que parece.
 
-No lo estaba buscando. Está tres capítulos más allá del pasaje en disputa, en material que nadie estudiaba, y un barrido exhaustivo encontró lo que una consulta dirigida jamás habría encontrado.
+Que un sustantivo sea contable no vuelve ordinario a su número. Los 144.000 son personas, y las personas pueden contarse. Las siete cabezas, los diez cuernos y las doce puertas son contables. Cada uno de esos números está haciendo, a la vez, un trabajo simbólico.
+
+Así que esta prueba establece que los mil años se refieren a una duración: no son una metáfora suelta sin ningún tiempo detrás. Pero no establece que «mil» deba leerse como una magnitud numérica exacta. Los números simbólicos también pueden describir cosas reales y contables, y un recorrido de *a qué* se unen los números no puede distinguir una cantidad simbólica de una ordinaria. Hace falta una segunda línea de evidencia: no solo qué mide el número, sino cómo maneja Apocalipsis el tamaño de los números.
+
+## La prueba siguiente cambió la pregunta
+
+Recorrer todos los números del libro, y no solo los cercanos a Apocalipsis 20, sacó a la luz algo que una búsqueda más estrecha habría pasado por alto.
 
 ::: finding
-**Hallazgo — Juan interrumpe su propia visión para decirnos que los codos son de los comunes**
+**Apocalipsis 21:17 — una medida que se remite a la medida humana**
 
-✅ **Apocalipsis 21:17** — <span class="gr">ἑκατὸν τεσσεράκοντα τεσσάρων πηχῶν, μέτρον ἀνθρώπου, ὅ ἐστιν ἀγγέλου</span>.
+> Y midió su muro, ciento cuarenta y cuatro codos, de medida de hombre, la cual es de ángel.
 
-*"…ciento cuarenta y cuatro codos — **medida de hombre, que es de ángel**."*
+En griego: <span class="gr">ἑκατὸν τεσσεράκοντα τεσσάρων πηχῶν, μέτρον ἀνθρώπου, ὅ ἐστιν ἀγγέλου</span> (*hekaton tesserakonta tessarōn pēchōn, metron anthrōpou, ho estin angelou*).
 
-❗❗❗ **En un capítulo que describe una ciudad que desciende del cielo, medida por un ángel con una caña de oro, Juan se detiene a especificar que los codos son de los de siempre.**
+En un capítulo que describe una ciudad que desciende del cielo, medida por un ángel con una caña de oro, Juan se detiene a decir que los codos son medida humana.
 
-**Alguien a quien las unidades no le importaran nunca no se habría detenido a explicarlas.**
-
-⚠️ **Pero eso es una afirmación sobre unidades, no sobre magnitudes.** Una arquitectura visionaria puede medirse en codos ordinarios y seguir siendo enteramente simbólica — ❗ **21:17 me dice qué es un codo. No me dice cómo leer cada uno de los demás números del libro**, y la Parte VI ya advirtió contra pasar por aritmética simple los doce mil estadios y los ciento cuarenta y cuatro codos de la Nueva Jerusalén.
-
-★★ **Y no es una construcción aislada.** Apocalipsis 13:18 dice <span class="gr">ἀριθμὸς γὰρ ἀνθρώπου ἐστίν</span> — *porque es número de hombre*. **Dos lugares donde Juan adosa la misma palabra a un número o a una medida.**
+Eso importa. La visión de Juan puede usar unidades reconocibles. Pero una unidad reconocible no decide por sí sola cómo debe leerse una magnitud. Los 12.000 estadios de la ciudad y los 144 codos de su muro son medidas genuinas dentro de la visión; la pregunta que queda es si su tamaño funciona como dimensión arquitectónica, como símbolo, o como ambas cosas. La Parte VI ya advirtió contra pasar las medidas de la Nueva Jerusalén por aritmética simple. Apocalipsis 21:17 establece la convención de medida, no por sí solo la función de cada número del libro.
 :::
 
-## El patrón del artículo, y es exactamente como se ve un período acotado
+El mismo giro aparece en otro lugar. Apocalipsis 13:18 dice del número de la bestia: «pues es número de hombre» — <span class="gr">ἀριθμὸς γὰρ ἀνθρώπου ἐστίν</span> (*arithmos gar anthrōpou estin*), que también puede leerse «un número humano». La Parte VII dejó abierta cuál de esas lecturas es la correcta, porque el griego no lleva artículo y admite más de una. Apocalipsis 21:17 muestra a Juan usando la misma construcción, sin ambigüedad, para decir medida humana ordinaria. Eso no resuelve 13:18. Sí muestra que la lectura de «cómputo humano» pertenece al vocabulario de Juan, y no solo a las posibilidades de la gramática.
 
-A lo largo de las seis apariciones en 20:2–7, el griego alterna entre forma sin artículo y forma con artículo, y lo hace del modo en que un escritor introduce algo y luego vuelve a referirse a ello.
+## Cómo se refiere Juan a los mil años
 
-📐 **Se introduce el período, y después se lo trata como *ese* período, definido y acotado.** ✅ **Y viene con una cláusula de terminación: los mil años llegan a su fin.**
+La expresión «mil años» aparece seis veces en seis versículos, y el uso del artículo («*los* mil años») en el griego no es casual.
 
-★ **Y la asimetría que más pesa: el milenio está numerado seis veces. La liberación que viene después no está numerada ni una.**
+| Versículo | Sin artículo — «mil años» | Con artículo — «*los* mil años» |
+|---|---|---|
+| 20:2 | Satanás atado «mil años» | |
+| 20:3 | | «hasta que se cumplan *los* mil años» |
+| 20:4 | reinaron con el Mesías «mil años» | |
+| 20:5 | | «hasta que se cumplan *los* mil años» |
+| 20:6 | reinarán con él «mil años» | |
+| 20:7 | | «cuando se cumplan *los* mil años» |
 
-## Y el freno, aplicado contra mi propio mejor material
+La parte firme de este patrón es la columna de la derecha. Las tres veces en que se vuelve sobre los mil años como un todo cumplido, la expresión lleva artículo, y las tres usan el mismo verbo en la misma forma (<span class="gr">τελεσθῇ</span>, *telesthē*, «se cumpla»). Dos de esas cláusulas empiezan con «hasta que» y una con «cuando».
 
-::: commentary
-**La conversión es mía, no de Juan**
+La columna de la izquierda es menos segura. En el texto griego de la SBL, los tres versículos que introducen el período no llevan artículo; pero en 20:4 y 20:6 algunos manuscritos y ediciones leen «los mil años», de modo que el contraste en esos versículos depende de la edición.
 
-Es tentador señalar que cuarenta y dos meses y mil doscientos sesenta días son el mismo lapso, y concluir que Juan convierte entre unidades — lo cual sería un hábito cronométrico.
+Aun así, las cláusulas de cumplimiento muestran cómo trata Juan el período: como algo que tiene un final definido y que puede «cumplirse». Así maneja un escritor un período definido y delimitado, no un «largo tiempo» indefinido.
 
-🛑 **Juan nunca los equipara. Usa las dos expresiones. La equivalencia la hice yo.**
+::: textualnote
+**El patrón no se ve en Reina-Valera** <!-- SPANISH-SPECIFIC -->
 
-📌 **Habría sido fácil llamarlo *Apocalipsis convierte entre unidades* y guardarlo como prueba. No convierte. Usa ambas** — y la diferencia entre esas dos frases es la diferencia entre evidencia y un resumen halagador de la evidencia.
+RVR1960 no conserva este rasgo del griego. Pone el artículo solo en la última cláusula de cumplimiento: «hasta que fuesen cumplidos mil años» (20:3), «hasta que se cumplieron mil años» (20:5), pero «cuando los mil años se cumplan» (20:7). Es una decisión normal de traducción al castellano, no un error; pero significa que quien lee en RVR1960 no puede ver el patrón del que habla esta sección. Ese patrón está en el griego, y la tabla de arriba lo reproduce desde el griego.
 :::
 
-Dos controles más, ambos válidos y ambos adoptados, y corren en direcciones opuestas.
+## Una cautela aplicada a mi mejor material
 
-**El peso simbólico no produce cantidad no literal.** El doce carga un peso simbólico enorme en la Escritura **y** además hubo efectivamente doce apóstoles. La inferencia *este número significa algo, por lo tanto no cuenta nada* es sencillamente inválida.
+Apocalipsis da cuarenta y dos meses dos veces, 1.260 días dos veces, y «un tiempo, y tiempos, y la mitad de un tiempo» una vez. Cuarenta y dos por treinta son 1.260; la aritmética es real. Muchos intérpretes igualan ambas cifras suponiendo meses de treinta días, pero Apocalipsis nunca enuncia esa equivalencia, ni en un versículo ni en ninguna parte. Usa las dos.
 
-**Y seis repeticiones no establecen trescientos sesenta y cinco mil días.** No se aporta sistema de calendario, ni convención de conteo inclusivo o exclusivo, ni regla de redondeo.
+Así que la equivalencia sugiere, no demuestra. Sería fácil decir «Apocalipsis convierte entre unidades» y tomarlo como prueba de un hábito cronológico preciso. Apocalipsis no convierte. Usa ambas cifras, y la diferencia entre esas dos frases es la diferencia entre la evidencia y un resumen halagador de la evidencia.
 
-✅ **Lo que sí queda firmemente establecido es la *acotación*** — un intervalo definido, con principio, con final y con una cláusula que dice que llega a término.
+Hay dos cautelas más, en direcciones opuestas.
 
-⚠️ **Dónde cae su cantidad entre *una edad indefinida* y *exactamente mil años solares*, el texto no lo dice.** 🛑 **Y no estoy autorizado a ubicarla en esa escala solo porque ubicarla me resultaría útil tres capítulos más adelante.**
+**El peso simbólico no anula la cantidad.** El doce tiene un enorme peso simbólico en la Escritura, y hubo de verdad doce apóstoles. La inferencia «este número significa algo, así que no cuenta nada» no es válida.
 
----
+**Y seis repeticiones no establecen 365.000 días.** Apocalipsis no da calendario, ni convención para contar el primero y el último año, ni regla de redondeo.
 
-# El versículo que todos sacan
+Lo que queda firmemente establecido es que el período está *delimitado*: un intervalo definido, con un comienzo, un final y cláusulas que dicen que llega a cumplirse. Dónde cae su duración entre «una era indefinida» y «exactamente mil años solares», el texto no lo dice — y no tengo derecho a ubicarla en esa escala porque una ubicación le sería útil al argumento más adelante.
 
-Llegado este punto siempre aparece el Salmo 90:4, y es justo que aparezca. Nunca lo había examinado en esta investigación — cobertura previa nula, genuinamente nuevo.
+## Salmo 90:4 y 2 Pedro 3:8
+
+Toda conversación sobre los mil años llega pronto al Salmo 90:4, y merece una lectura cuidadosa.
 
 ::: wordstudy
-**Estudio de palabra — <span class="gr">χίλια ἔτη</span> fuera de Apocalipsis**
+**Estudio de palabra — «mil años» fuera de Apocalipsis**
 
-✅ **Salmo 90:4, hebreo** — <span class="he">כִּי אֶלֶף שָׁנִים בְּעֵינֶיךָ כְּיוֹם אֶתְמוֹל כִּי יַעֲבֹר וְאַשְׁמוּרָה בַלָּיְלָה</span>
+Salmo 90:4, en hebreo: <span class="he">כִּי אֶלֶף שָׁנִים בְּעֵינֶיךָ כְּיוֹם אֶתְמוֹל כִּי יַעֲבֹר וְאַשְׁמוּרָה בַלָּיְלָה</span>
 
-❗❗ **El versículo compara los mil años con *dos* cosas distintas en una sola oración: con un día que ya pasó, y con una vigilia de la noche.**
+En griego: <span class="gr">ὅτι χίλια ἔτη ἐν ὀφθαλμοῖς σου ὡς ἡ ἡμέρα ἡ ἐχθὲς ἥτις διῆλθεν, καὶ φυλακὴ ἐν νυκτί</span>
 
-🛑 **Una fórmula de conversión necesitaría un solo tipo de cambio. Esta tendría dos, en la misma frase.** ✅ **No es una tasa. Es una comparación** — y compara con lo breve, no con lo largo.
+> Porque mil años delante de tus ojos
+> Son como el día de ayer, que pasó,
+> Y como una de las vigilias de la noche.
 
-✅ **2 Pedro 3:8** usa <span class="gr">ὡς</span> — *como* — **en las dos mitades**: un día es *como* mil años, y mil años *como* un día. **Una equivalencia diría *es*. Esta dice *como*, dos veces.**
+El versículo compara mil años con *dos cosas distintas*: con el día de ayer y con una vigilia de la noche. El ayer es un día; una vigilia nocturna, unas pocas horas. Leído como fórmula de conversión, el versículo daría dos tasas distintas en una sola oración. No es una fórmula que falla. Es un texto que nunca estuvo haciendo aritmética — y unos versículos más adelante el mismo salmo pide: «Enséñanos de tal modo a contar nuestros días» (90:12). Un salmo que pide ayuda para contar no está ofreciendo una tabla de conversión.
 
-★ **Y el contexto de 3:4 importa: los burladores preguntan por la <span class="gr">παρουσία</span> que no llega.** El versículo responde a una objeción sobre tardanza. **No está entregando una tabla de conversión a quien quiera calcular.**
+2 Pedro 3:8 lo confirma desde el otro lado: <span class="gr">μία ἡμέρα παρὰ κυρίῳ ὡς χίλια ἔτη καὶ χίλια ἔτη ὡς ἡμέρα μία</span> — en RVR1960, «para con el Señor un día es como mil años, y mil años como un día». La palabra «como» (<span class="gr">ὡς</span>, *hōs*) aparece en ambas mitades. Como aritmética, la afirmación corre en los dos sentidos a la vez y se anula a sí misma. Es una comparación hecha dos veces, no una ecuación.
+
+El punto del propio Pedro es la paciencia, no la medida: «El Señor no retarda su promesa… sino que es paciente para con nosotros», no queriendo que ninguno perezca sino que todos procedan al arrepentimiento (3:9).
 :::
 
----
+Dos observaciones más sobre 2 Pedro 3.
 
-# El veredicto, y después la cuenta
+Primero, los burladores a quienes Pedro responde preguntan: «¿Dónde está la promesa de su advenimiento?» (3:4). La palabra que RVR1960 traduce «advenimiento» es <span class="gr">παρουσία</span> (*parousia*), la misma que sostiene el argumento de Pablo sobre la venida del Señor examinado en la Parte VII. Aquí aparece en una queja del primer siglo porque la *parousia* todavía no había llegado. Lo anoto y no construyo nada sobre ello; pertenece a una pregunta que esta Parte no se está haciendo.
+
+Segundo, a veces se sugiere que la paciencia del Señor en 2 Pedro 3:9 significa esperar a personas concretas, todavía no nacidas, que primero tendrían que nacer y arrepentirse. Pedro sí une la paciencia de Dios al arrepentimiento. No dice que la demora exista para que nazcan determinadas personas futuras. Puede ser una extensión teológica razonable, pero es una inferencia a partir del texto, no algo que el texto afirme.
+
+## El veredicto
 
 ::: evidence
-**La puerta se abre**
+**Lo que la evidencia establece sobre los mil años**
 
-### ✅ **<span class="gr">χίλια ἔτη</span> designa un intervalo definido y acotado, enunciado en lenguaje de cantidad. Registrado en APOYA.**
+**Los mil años** (<span class="gr">χίλια ἔτη</span>, *chilia etē*) **designan un intervalo definido y delimitado, enunciado en lenguaje de cantidad:** <span class="grade">apoya</span>.
 
-**Qué se lo gana:** ✅ el patrón del artículo a lo largo de las seis apariciones trata el período como un todo definido y acotado · ✅ la cláusula de terminación — los mil años *llegan a su fin* · ✅ la asimetría de que el milenio está numerado seis veces mientras la liberación no está numerada ni una · ✅ cada número de Apocalipsis se adosa a algo medible, de modo que esto no es una figura retórica pegada a nada · ✅ y el peso simbólico no cancela por sí solo la cantidad.
+La evidencia: las cláusulas de cumplimiento, que vuelven sobre «*los* mil años» y dicen que se cumplen; el contraste de que los mil años se numeran seis veces mientras la liberación que sigue no se numera en absoluto; el hecho de que todo número de Apocalipsis se une a algo contable, así que esto no es una figura retórica unida a nada; y el principio de que el peso simbólico no anula por sí solo la cantidad.
 
-### ⚠️ **Que esa cantidad esté destinada a significar aproximadamente mil años ordinarios — NO ESTABLECIDO. Registrado en PERMITE, y sin pasar de APOYA débil.**
+**Que esa cantidad sea aproximadamente mil años ordinarios no está establecido:** <span class="grade">permite</span>, y no llega más alto que un <span class="grade">apoya</span> débil.
 
-**Por qué se detiene ahí, y tiene que detenerse ahí:** ❗ **el barrido de contabilidad no puede separar cantidad simbólica de cantidad ordinaria** — los ciento cuarenta y cuatro mil, las siete cabezas, los diez cuernos y las doce puertas son todos contables y todos simbólicos · ❗ **21:17 establece qué es un codo, no cómo leer cada número del libro** · ❌ no se aporta calendario, ni convención de conteo, ni regla de redondeo en ninguna parte · ❌ y la Parte VI ya rechazó la aritmética simple sobre las medidas de la propia Nueva Jerusalén.
+Por qué se detiene ahí: el recorrido de los números no puede separar la cantidad simbólica de la ordinaria, porque los 144.000, las siete cabezas, los diez cuernos y las doce puertas son todos contables y todos simbólicos; Apocalipsis 21:17 establece qué es un codo, no cómo leer cada número del libro; no se da en ninguna parte calendario, convención de cómputo ni regla de redondeo; y la Parte VI ya se negó a aplicar aritmética simple a las medidas de la Nueva Jerusalén.
 
-**Lo que no queda establecido en absoluto:** ❌ exactamente mil años solares · ❌ que algún año en particular sea el Año Uno · ❌ que Juan equipare cuarenta y dos meses con mil doscientos sesenta días.
+**No establecido en absoluto:** exactamente mil años solares; que algún año concreto sea el año uno; que Juan iguale cuarenta y dos meses con 1.260 días.
 :::
 
-Y ahora la cuenta que la Parte VII anunció que estaba por vencer.
+La Parte VII anticipó una consecuencia difícil, y aquí llega.
 
 ::: finding
-**Hallazgo — que la puerta se abra es el peor resultado para el modelo, no el mejor**
+**La tensión, enunciada de manera condicional**
 
-**PF-01 — una entrada del primer siglo — queda en APOYA.**
+**PF-01** — un comienzo de la transición en el primer siglo — se mantiene en <span class="grade">apoya</span>. **Los mil años son un intervalo delimitado descrito en lenguaje de cantidad** — también en <span class="grade">apoya</span>.
 
-**Y los mil años son un intervalo acotado en lenguaje de cantidad — también en APOYA.**
+Esas dos cosas juntas todavía no producen una fecha. La dificultad aparece solo con una tercera afirmación, la que acaba de quedar en <span class="grade">permite</span>: que la duración es aproximadamente mil años ordinarios.
 
-⚠️ **Esos dos juntos todavía no producen una fecha.** ❗❗ **La cuenta solo vence sobre una *tercera* afirmación — la que acaba de quedar calificada en no más que PERMITE: que la cantidad equivalga aproximadamente a mil años ordinarios.**
+Así que la tensión es condicional, y enunciarla así es todo el punto. *Si* los mil años son aproximadamente cronológicos, *entonces* un comienzo en el primer siglo pone su final alrededor del siglo XI. Eso deja unos novecientos cincuenta años entre ese final y el presente — un período que Apocalipsis 20:3 estaría llamando <span class="gr">μικρὸν χρόνον</span> (*mikron chronon*, «un poco de tiempo»), inmediatamente después de otro que el mismo pasaje llama <span class="gr">χίλια ἔτη</span> (*chilia etē*, «mil años»). El contraste ya no sería largo contra breve. Sería mil años contra novecientos cincuenta.
 
-### **Así que la cuenta es condicional, y enunciarla condicionalmente es exactamente el punto:**
+La condición pesa en las dos direcciones. Es la razón por la que importa la prueba del calendario del capítulo siguiente. Y es la razón por la que esa aritmética no la impone el texto: la lectura que genera toda la tensión es la afirmación peor calificada de la cadena, no la mejor.
 
-### ❗❗❗ ***Si* los mil años son aproximadamente cronológicos, *entonces* una entrada del primer siglo pone el término en las cercanías del siglo XI — dejando unos novecientos cincuenta años entre él y hoy, por llamarse <span class="gr">μικρὸν χρόνον</span>, *un poco de tiempo*, inmediatamente después de un período que el mismo texto llama <span class="gr">χίλια ἔτη</span>.**
-
-**Ese contraste no es *largo contra corto*. Es *mil años contra novecientos cincuenta años*.**
-
-📐 **Y el condicional pesa en las dos direcciones.** ✅ Es por lo que la aritmética del capítulo siguiente importa siquiera. ❗ **Y es por lo que esa aritmética no es textualmente obligatoria: la lectura que genera toda la tensión es el eslabón peor calificado de la cadena, no el mejor.**
+Hay además un costo que notar. Parte del argumento para leer los mil años como una cantidad real era el contraste que traza Juan: numera los mil años seis veces y solo *caracteriza* como breve la liberación. Si el período breve fuera de novecientos cincuenta años, ese contraste desaparecería. El argumento que hizo importante al número es el mismo que ahora dice que no podemos estar donde yo suponía.
 :::
 
-::: evidence
-**Dónde deja eso a las cinco opciones — y ninguna queda seleccionada**
+## Dónde quedan las cinco opciones
 
-| | Opción | Estado |
-|---|---|---|
-| **(a)** | el inicio no es del primer siglo | ◻️ viva — pero es PF-01, en APOYA |
-| **(b)** | los mil años no son cronológicos | ⚠️ **debilitada, no cerrada.** Su *acotación* está en APOYA; su *duración* aproximada no pasó de PERMITE, así que esta opción sigue genuinamente viva |
-| **(c)** | no estamos en el poco de tiempo | ★ **bajo la menor presión** |
-| **(d)** | la cronología convencional no corresponde | ◻️ en cuarentena, y puesta a prueba en el capítulo siguiente |
-| **(e)** | una premisa no identificada es falsa | ◻️ viva, y sin examinar |
+El capítulo 47 identificó cinco posibilidades, de las cuales al menos una tiene que ser cierta si las cuatro afirmaciones de la restricción cuádruple no pueden sostenerse juntas. Así quedan ahora:
 
-🛑 **Aquí no se selecciona ninguna opción.** **Un modelo que elige su escape en el momento de máxima presión no fue probado; fue rescatado.**
-:::
+| Opción | Lo que dice | Estado |
+|----------|--------------------------|------------------------|
+| **(a)** | La transición no comenzó en el primer siglo. | Viva — pero es PF-01, en <span class="grade">apoya</span>. |
+| **(b)** | Los mil años no son aproximadamente mil años de calendario. | Viva, y apenas debilitada. Estar delimitados no cuenta en su contra: un período simbólico o no calendario también puede tener un comienzo y un final definidos. Lo que pesa en su contra es la evidencia de una lectura aproximadamente cuantitativa, que no pasa de <span class="grade">permite</span>. |
+| **(c)** | No estamos actualmente en el poco de tiempo. | La de menor presión de las cinco. |
+| **(d)** | La cronología convencional no corresponde al intervalo bíblico. | Apartada en la Parte VII, antes de que se conociera esta tensión; se prueba en el capítulo 50. |
+| **(e)** | Alguna otra premisa, todavía no identificada, es falsa. | Viva, y por definición no puede examinarse hasta que se identifique. |
 
----
+La opción (c) es ahora la de menor presión, en un sentido preciso: ningún hallazgo establecido está en su contra. La opción (a) derribaría PF-01; la (b) va contra la evidencia de una lectura aproximadamente cuantitativa — la medida humana de 21:17, las cláusulas de cumplimiento, los mil años numerados frente a la liberación sin número —, una evidencia débil, que no pasa de <span class="grade">permite</span>, pero evidencia al fin. (Que los mil años estén delimitados no cuenta, por sí solo, contra (b).) En cambio, «estamos actualmente en el poco de tiempo» fue una suposición arrastrada, nunca un hallazgo, así que negarla no cuesta nada que la investigación haya establecido. Menos presión contra una opción no es evidencia a su favor, y aquí no se elige ninguna. Dos de las cinco se han movido, ambas por evidencia reunida con otros fines, y hasta ahí puede llegar este capítulo. Un argumento que elige su salida en el momento de mayor presión no ha sido puesto a prueba; ha sido rescatado.
 
-## Lo que de verdad tengo
+## Lo que este capítulo nos deja
 
-Fijamos la prueba de antemano, deliberadamente, antes de saber por dónde saldría: **¿pone este libro alguna vez un número sobre algo que no se pueda contar?** Alguien barrió los veintidós capítulos y la respuesta volvió que no. Ni una vez.
+La prueba estaba fijada de antemano: ¿pone alguna vez este libro un número sobre algo que no pueda contarse? Recorriendo los veintidós capítulos, la respuesta es no. Días, meses, años, horas, estadios, codos, ángeles, puertas, cuernos: todo número de Apocalipsis está unido a algo que en principio puede contarse.
 
-Y eso descarta una cosa: que los mil años sean una manera de hablar pegada a nada. **No descarta más que eso, y la primera vez lo escribí como si descartara más.** En este libro los sustantivos contables cargan números simbólicos todo el tiempo — ciento cuarenta y cuatro mil personas, siete cabezas, doce puertas. **El barrido no puede distinguir un número simbólico de uno ordinario.**
+Después, algo que no esperaba. Cerca del final del libro un ángel mide la ciudad con una caña de oro, Juan da el muro en 144 codos, y se detiene a decir que es medida humana. Una ciudad que baja del cielo, medida por un ángel, y el escritor se detiene a avisarnos que los codos son los comunes. Eso muestra que los números de Juan pueden usar unidades reales. No muestra cómo leer el tamaño de cada número, ni me dice cómo leer «mil».
 
-Después, lo que no esperaba. En los últimos capítulos un ángel mide la ciudad con una caña de oro, Juan da el muro en ciento cuarenta y cuatro codos — **y se detiene, en mitad de la visión, a decir que esa es medida de hombre.**
+Así que la conclusión es más estrecha de lo que parecía. Los mil años son un período delimitado, descrito en lenguaje de cantidad. Si esa cantidad se acerca a mil años ordinarios, el libro no lo dice, y lo he calificado en consecuencia.
 
-**Alguien a quien las unidades no le importaran no se habría detenido a explicarlas.** Y eso es todo lo que muestra. Una visión puede medirse en codos comunes y seguir siendo una visión. **Saber qué es un codo no me dice cómo leer un mil.**
+Aun la versión condicional va en contra de lo que esperaba encontrar. Un comienzo en el primer siglo más mil años termina en el siglo XI, y de ahí a hoy hay unos novecientos cincuenta años. El texto pone mil años frente a un poco de tiempo. Novecientos cincuenta años no son poco tiempo al lado de mil; son casi lo mismo otra vez.
 
-Así que la puerta se abre, pero no tanto como la abrí al principio. **Los mil años son un tramo acotado, descrito en lenguaje de cantidad.** Si esa cantidad se parece a mil años ordinarios, el libro no lo dice, y lo he calificado en consecuencia.
+Y tengo que decir con claridad lo que eso significa. Salir de la dificultad no exige ningún argumento ingenioso que tendría que inventar. Basta con no aceptar la afirmación peor calificada de mi propia cadena: que los mil años son aproximadamente mil años de calendario.
 
-**Y aun la versión condicional es el peor resultado para lo que yo esperaba encontrar**, porque la suma corre en mi contra apenas concedo la lectura. Un inicio en el primer siglo más mil años cae en el siglo XI, y de ahí a hoy van unos novecientos cincuenta. El texto pone mil años frente a un poco de tiempo. **Novecientos cincuenta no es un poco de tiempo al lado de mil. Es otra vez lo mismo.**
-
-⚠️ **Y estoy obligado a notar lo que eso significa. La salida de esta suma no es una maniobra ingeniosa que tendría que inventar — es sencillamente no conceder el eslabón peor calificado de mi propia cadena.**
+La investigación no había necesitado asignarle al número un valor definido hasta este punto. En cuanto la pregunta se hizo directamente, con la prueba escrita primero, la tensión adquirió un número propio.
 
 ::: whereweare
-**Dónde estamos.** Apocalipsis nunca adosa un número a algo incontable, en los veintidós capítulos — la prueba fijada de antemano volvió con un negativo limpio, y descarta leer los mil años como figura retórica pegada a nada. No hace más que eso: en este libro los sustantivos contables cargan números simbólicos, de modo que el barrido no puede separar una cantidad simbólica de una ordinaria. Juan declara sus propias unidades como codos humanos comunes en mitad del pasaje más visionario del libro — lo cual zanja qué es un codo, no cómo leer cada magnitud. El patrón del artículo junto con la cláusula de terminación es exactamente el trato que un escritor da a un período definido y acotado, y eso queda en APOYA. Que la cantidad sean aproximadamente mil años ordinarios queda en no más que PERMITE. Contra todo ello, la conversión entre cuarenta y dos meses y mil doscientos sesenta días es mía y no de Juan, y los versículos que suelen ofrecerse como fórmula de mil-años-igual-a-un-día resultan comparar en vez de equiparar — uno de ellos con dos cosas distintas en una sola oración. Así que la puerta se abre sobre una cuenta **condicional**: *si* el milenio es aproximadamente cronológico, una entrada del primer siglo deja novecientos cincuenta años entre el término y hoy, por llamarse un poco de tiempo — lo cual pone a *estamos en el poco de tiempo* bajo la mayor presión. Nadie la eligió, y la condición sobre la que descansa es el eslabón peor calificado de la cadena.
+**Dónde nos deja esto.** Apocalipsis nunca une un número a algo incontable, lo cual descarta leer los mil años como una figura retórica unida a nada — pero el recorrido no puede separar una cantidad simbólica de una ordinaria. Juan remite la medida de la ciudad a la medida humana, lo que fija la convención de medida, no cómo leer cada magnitud. Las cláusulas de cumplimiento tratan los mil años como un período definido que llega a su fin: <span class="grade">apoya</span>. Que sean aproximadamente mil años ordinarios: <span class="grade">permite</span>. La equivalencia entre cuarenta y dos meses y 1.260 días es un cálculo de intérpretes, no una afirmación de Juan, y los versículos que suelen ofrecerse como fórmula de «un día igual a mil años» resultan ser comparaciones, no ecuaciones. El resultado es una tensión condicional: *si* los mil años son aproximadamente cronológicos, hoy habría unos novecientos cincuenta años entre su final y el presente, que Apocalipsis estaría llamando un poco de tiempo. De las cinco opciones, (c) — no estamos actualmente en el poco de tiempo — es la de menor presión. No se ha elegido ninguna.
 :::
 
 ::: earned
-**Lo que ganó.** Una prueba escrita antes de conocer la respuesta, corrida con honestidad, que devolvió el resultado más costoso. Un dato decisivo encontrado solo porque el barrido fue exhaustivo y no dirigido — tres capítulos más allá del pasaje en disputa. Un freno aplicado al mejor material del propio proyecto, porque Juan usa las dos cifras y nunca las equipara. Dos versículos famosos examinados y hallados comparaciones y no fórmulas, incluido uno que necesitaría dos tasas de cambio en una sola oración. **Y un veredicto partido donde de verdad se parte la evidencia y no donde se lee mejor: la acotación del intervalo en APOYA, su duración aproximada en PERMITE — lo cual le cuesta al capítulo su frase más limpia y deja la presión condicionada a la única afirmación que el capítulo no pudo ganarse.**
+**La pregunta que esto deja.** La opción (d) eliminaría la tensión de un golpe: si la cronología convencional estuviera equivocada en unos mil años, la aritmética cambiaría por completo. El capítulo 50 corre las pruebas externas nombradas en el capítulo 47 para ver si eso es posible.
 :::

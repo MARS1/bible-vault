@@ -2,266 +2,241 @@
 title: "Manuscrito (ES) — Capítulo 52: ¿Quiénes son los santos?"
 type: manuscript
 category: theology
-tags: [draft-1, parte-viii, capitulo-52, etapa-64, hagioi, apocalipsis-12-17, apocalipsis-14-12, polemos, parembole, campamento-de-los-santos, ciudad-amada, checkpoint-6, usted-esta-aqui-rechazado]
-reference: "Apocalipsis 20:3, 20:8, 20:9; 12:17; 14:12; 13:7; 6:9-11; 17-18"
+tags: [borrador-2, revision-2, parte-viii, capitulo-52, etapa-64, hagioi, apocalipsis-12-17, apocalipsis-14-12, polemos, parembole, campamento-de-los-santos, ciudad-amada, diagnostico-gog-magog, punto-de-control-6, usted-esta-aqui-rechazado]
+reference: "Apocalipsis 20:3, 20:8, 20:9; 12:17; 14:12; 13:7; 11:7; 9:7-9; 12:7; 16:14; 19:19; 6:9-11; 12:11; 17-18"
 created: 2026-09-21
 status: draft
-localization: "BORRADOR 1. Arquitectura aprobada v1.0, Parte VIII, Capítulo 52 — CIERRA LA PARTE VIII. Edición hermana independiente. ★★★ LA FORMA ES UNA PREGUNTA DE CONTEO, no de definición. ★★★★ LOS DESCRIPTORES CONVERGEN: 12:17 y 14:12 dan la misma huella doble — guardar los mandamientos de Dios y tener el testimonio / la fe de Yeshúa. ⚠️ El genitivo de <span class='gr'>πίστιν Ἰησοῦ</span> queda SEÑALADO, NO ADJUDICADO; la identificación no depende de resolverlo. ★★★ CORTA EN LAS DOS DIRECCIONES: ni cristianismo institucional ni etnia al margen de Yeshúa — sin borrar a Israel de un libro saturado de Israel. ★★ ESTUDIO DE <span class='gr'>πόλεμος</span>: paga PARCIALMENTE la deuda declarada en el capítulo 48 y restablecida como pendiente en el 51 — capacidad, no distribución; el barrido exhaustivo sigue pendiente y se dice. ★★★★ EL RECHAZO QUE MÁS CUESTA ES EL DE QUIEN LEE: la restricción de comprar y vender pertenece al complejo PREMILENIAL de la bestia y no puede trasplantarse a través del milenio; y Apocalipsis nunca dice microchip. ★★ ESTUDIO DE <span class='gr'>ἵνα μὴ πλανήσῃ τὰ ἔθνη</span>: la atadura se define por lo que IMPIDE, y 20:8 revierte exactamente eso. ★★ MÁRTIRES PROMINENTES PERO NO EXHAUSTIVOS. ★★ EL CAMPAMENTO es corporativo; *rodeado* no se metaforiza, y tampoco se exige un círculo militar. ⚠️ La autoridad lexicográfica de <span class='gr'>παρεμβολή</span> SIGUE PENDIENTE desde el capítulo 48. ★★★★★ CHECKPOINT 6 CIERRA LA PARTE: la cadena está completa; el marcador USTED ESTÁ AQUÍ no puede colocarse. ❗ REGLA DE CITA: pasajes sin texto RVR1960 verificado se DESCRIBEN. REGISTRO: español latinoamericano internacional, tuteo. TERMINOLOGÍA: sin planeta/global/mundial."
-related: "[[10-manuscript-architecture]], [[03q-who-are-the-saints-in-revelation]], [[ES-REGISTER]]"
+localization: "BORRADOR 2 (revisión de lectura de la Parte VIII, 2026-10-11). Cierra la Parte VIII. Edición hermana desde la evidencia del maestro inglés d2-reader3 y SYNC-024. CONTENIDO: contar, no definir. 12:17 y 14:12 dan la misma descripción doble (mandamientos de Dios + testimonio/fe de Yeshúa), bajo perseverancia; genitivo de πίστιν Ἰησοῦ señalado, no adjudicado. Excluye a la vez el cristianismo institucional y la etnia aparte de Yeshúa, sin borrar a Israel. πόλεμος: nueve usos (9:7, 9:9, 11:7, 12:7, 12:17, 13:7, 16:14, 19:19, 20:8); contra el pueblo de Dios siempre es persecución; 20:9 no se decide por la palabra. Nota sobre 13:7: omitida por P47, A, C, P, 2053, parte de la tradición bizantina, sahídica; presente en Sinaítico, mayoría bizantina, Vulgata, siríaca, bohaírica; explicación de error de copia como juicio académico. La marca no cruza los mil años. πλανάω delimita el intervalo. Mártires prominentes, no exhaustivos. παρεμβολή resuelto en el cap. 48. Ciudad amada sin resolver; propuestas geográficas especulativas fuera de la cadena de evidencia. Frase de la opción (c) CORREGIDA (el borrador 1 decía que un poco de tiempo temprano 'mantiene viva la opción (c)', lo que invierte su definición). Hallazgo negativo. Punto de control 6; USTED ESTÁ AQUÍ no puede colocarse (etiqueta fija, ver ES-REGISTER). NOTAS ESPAÑOLAS: RVR1960 'testimonio de Jesucristo' en 12:17 (Textus Receptus); 'paciencia' en 14:12 traduce ὑπομονή (perseverancia); 'guerra'/'batalla' en RVR1960 es elección del traductor, no evidencia. REGISTRO: español latinoamericano internacional, tuteo. TERMINOLOGÍA: sin planeta/global/mundial."
+related: "[[10-manuscript-architecture]], [[03q-who-are-the-saints-in-revelation]], [[03k-ezekiel-38-39-and-the-gog-fingerprint]], [[ES-REGISTER]], [[SYNC-LEDGER]]"
 ---
 
-# Capítulo 52: ¿quiénes son los santos?
+# Capítulo 52: ¿Quiénes son los santos?
 
-Todo lo que viene después del milenio depende de una palabra que vengo usando sin definir.
+Apocalipsis 20:9 describe a las naciones reunidas contra «el campamento de los santos y la ciudad amada». Para entender esa confrontación, primero tenemos que saber a quiénes identifica Apocalipsis como *los santos*.
 
-Satanás es liberado. Las naciones son engañadas. Se reúnen, avanzan, y rodean **el campamento de los santos y la ciudad amada.** Ese es el diagnóstico hacia el que esta Parte entera ha venido construyendo — **y no vale nada si *los santos* puede significar lo que yo necesite que signifique.**
+Llevo ocho capítulos usando la palabra sin definirla, y la pregunta importa. Satanás es suelto; las naciones son engañadas; se reúnen, avanzan y rodean el campamento de los santos. Esa es la descripción hacia la que ha venido avanzando toda esta Parte, y no sirve de nada si «los santos» puede significar lo que a mí me haga falta. El capítulo 50 se negó a redefinir la palabra para que un período histórico encajara. Esa negativa solo tiene fuerza si la definición viene de Apocalipsis y no de mí.
 
-El capítulo de la prueba histórica se negó a redefinir esa palabra para que un período encajara. **Ese rechazo solo tiene filo si la palabra tiene una definición que no puse yo.**
+Así que: ¿a quiénes ha enseñado ya Apocalipsis a sus lectores a reconocer como los santos?
 
-Entonces: **¿a quiénes le ha enseñado ya Apocalipsis a su lector a reconocer como los santos?**
+## Una pregunta de conteo, no de definición
 
----
+La manera de hacer la pregunta importa. La versión tentadora es: esto es lo que tienen que ser los santos; veamos ahora si Apocalipsis está de acuerdo. Esa versión produce acuerdo siempre.
 
-# La forma de la pregunta importa más que la respuesta
+La versión mejor es encontrar cada lugar donde Apocalipsis mismo describe a los santos, anotar lo que dice de ellos en cada caso, y preguntar entonces si esas descripciones convergen en un conjunto reconocible de rasgos o se dispersan. Si se dispersan, no hay descripción utilizable, y tengo que decirlo. Si convergen, la convergencia no la puse yo.
 
-::: commentary
-**Una pregunta de conteo, no de definición**
+Buena parte del contexto ya está resuelta: quiénes viven durante los mil años y después de ellos (capítulos 47 y 51), y la pregunta abierta de dónde reinan los santos (capítulo 47). Así que la pregunta de aquí es más estrecha de lo que parece.
 
-La versión tentadora es: *esto es lo que los santos tienen que ser, ahora veamos si Apocalipsis está de acuerdo.* **Eso produce acuerdo siempre.**
+## Apocalipsis 12:17: la identificación más clara del libro
 
-✅ **La versión que de verdad se corrió: buscar cada lugar donde el propio libro usa la palabra, listar qué se predica de ellos en cada caso, y después preguntar si las descripciones convergen en un conjunto identificable de características o se dispersan en varios.**
-
-📌 Si se dispersan, no tengo diagnóstico y debo decirlo. **Si convergen, la convergencia no la puse yo.**
-
-⚠️ **Y una advertencia que aplica especialmente aquí.** Los dos capítulos anteriores llegaron suponiendo que rompían terreno virgen y resultaron caminar sobre terreno que la investigación ya tenía. **Este capítulo abre revisando lo ya establecido sobre quién está vivo durante y después de los mil años, y sobre quiénes son gobernados — y conservando la humildad sobre la ubicación.**
-:::
-
-## Apocalipsis 12 da la identificación más clara del libro
-
-Después de que el dragón es arrojado abajo, va a hacer guerra contra el resto de la descendencia de la mujer. **Y Juan no los deja sin nombrar.**
+Después de ser arrojado, el dragón se va a hacer guerra contra el resto de la descendencia de la mujer — y Juan no los deja sin nombre.
 
 ::: evidence
-**12:17 — el objetivo del dragón, identificado por dos características**
+**Apocalipsis 12:17 — identificados por dos rasgos**
 
 <span class="gr">τῶν τηρούντων τὰς ἐντολὰς τοῦ θεοῦ καὶ ἐχόντων τὴν μαρτυρίαν Ἰησοῦ</span>
 
-**los que *guardan los mandamientos de Dios* y *tienen el testimonio de Yeshúa*.**
+> los que guardan los mandamientos de Dios y tienen el testimonio de Jesucristo.
 
-📐 **Dos elementos, unidos. Fidelidad al pacto hacia Yah — y Yeshúa.**
+Dos elementos, unidos: fidelidad al pacto con Yah, y Yeshúa.
 
-❗ **Nótese lo que el versículo no dice.** No identifica al objetivo del dragón como *gente que se identifica culturalmente como cristiana*. No lo identifica como *israelitas étnicos*. **Lo identifica por lo que guarda y por lo que tiene.**
+Nota lo que el versículo no dice. No identifica al blanco del dragón como gente que se identifica culturalmente como cristiana. No lo identifica como israelitas por etnia. Lo identifica por lo que guarda y lo que tiene.
 :::
 
-## Y Apocalipsis 14 repite la misma huella, en otro complejo
+::: textualnote
+**«Jesucristo» en Reina-Valera** <!-- SPANISH-SPECIFIC -->
 
-Inmediatamente después de la bestia y la marca, Juan dice: *aquí está la perseverancia de los santos* — **y entonces dice quiénes son.**
+RVR1960 dice «el testimonio de Jesucristo»; el texto griego crítico dice solo «de Jesús» (<span class="gr">Ἰησοῦ</span>, *Iēsou*). «Cristo» viene del *Textus Receptus*. No cambia nada del argumento: en ambas lecturas Yeshúa está dentro de la definición.
+:::
+
+## Apocalipsis 14:12: la misma descripción, en otra parte del libro
+
+Inmediatamente después del pasaje sobre la bestia y su marca, Juan escribe: «Aquí está la paciencia de los santos» — y enseguida nos dice quiénes son.
 
 ::: evidence
-**14:12 — los mismos dos elementos, y aquí sí va adosada la palabra <span class="gr">ἅγιοι</span>**
+**Apocalipsis 14:12 — los mismos dos elementos, y aquí se los llama «los santos»**
 
 <span class="gr">οἱ τηροῦντες τὰς ἐντολὰς τοῦ θεοῦ καὶ τὴν πίστιν Ἰησοῦ</span>
 
-**los que guardan *los mandamientos de Dios* y *la fe / fidelidad de Yeshúa*.**
+> Aquí está la paciencia de los santos, los que guardan los mandamientos de Dios y la fe de Jesús.
 
-### ❗❗ **La misma huella doble, enunciada dos veces, en dos secciones distintas del libro — y aquí Juan los llama explícitamente *los santos*.**
+La misma descripción doble aparece dos veces, en dos secciones distintas del libro, y aquí Juan llama expresamente a estas personas los santos (<span class="gr">ἅγιοι</span>, *hagioi*).
 
-⚠️ <span class="gr">**πίστιν Ἰησοῦ**</span> **carga una pregunta gramatical genuina** — si el genitivo es *fe en Yeshúa* o *la fidelidad de Yeshúa*. ✅ **Señalada, no adjudicada.** Esta investigación no zanja gramática disputada por su propia autoridad, **y la identificación no depende de resolverla**: cualquiera de las dos lecturas mantiene a Yeshúa dentro de la definición, que es la parte que carga peso.
+La expresión <span class="gr">πίστιν Ἰησοῦ</span> (*pistin Iēsou*) encierra una pregunta gramatical genuina: puede significar «la fe en Yeshúa» o «la fidelidad de Yeshúa». No la resuelvo aquí, y la identificación no depende de ella, porque las dos lecturas dejan a Yeshúa dentro de la definición.
 
-📐 **Súmese el contexto que ambos pasajes comparten — perseverancia bajo presión — y la descripción queda completa.**
-
-### ✅ **Es más o menos la definición interna más fuerte que un libro puede dar de su propio término.**
+La «paciencia» de RVR1960 traduce <span class="gr">ὑπομονή</span> (*hypomonē*): perseverancia, aguante bajo presión, no simple calma. Añade ese marco que comparten ambos pasajes — perseverar bajo presión — y la descripción está completa: los mandamientos de Yah, Yeshúa, y mantenerse firmes bajo la fuerza. Es casi la definición interna más fuerte que un libro puede dar de su propio término.
 :::
 
-## Lo que eso excluye — y corta en las dos direcciones a la vez
+## Lo que eso excluye — en las dos direcciones
 
 ::: finding
-**Hallazgo — la definición es lo bastante estrecha como para rechazar dos sustituciones opuestas**
+**Una definición que rechaza dos sustituciones opuestas**
 
-❌ **No es el cristianismo institucional ni cultural.** Un cuerpo que se llama cristiano no satisface automáticamente una descripción construida sobre guardar los mandamientos de Yah y tener el testimonio de Yeshúa bajo presión.
+No es el cristianismo institucional o cultural. Un grupo que se llama cristiano no cumple automáticamente una descripción construida sobre guardar los mandamientos de Yah y tener el testimonio de Yeshúa bajo presión.
 
-❌ **Y no es la descendencia étnica al margen de Yeshúa.** La huella repetida del propio Apocalipsis incluye el testimonio y la fe de Yeshúa en los dos enunciados. **Ese elemento no es opcional en la descripción.**
+Tampoco es la ascendencia étnica aparte de Yeshúa. Las dos afirmaciones de Apocalipsis incluyen el testimonio o la fe de Yeshúa. Ese elemento no es opcional.
 
-⚠️ **Y decirlo no borra a Israel.** Apocalipsis está saturado de Israel — doce tribus, los ciento cuarenta y cuatro mil, Moisés, el templo, Jerusalén, Sion, lenguaje de pacto, doce apóstoles, y doce puertas con nombres tribales en la Nueva Jerusalén. **Esto no es una religión gentil desprendida de Israel.**
-
-### 📐 **Encaja con la cadena del pacto que este libro viene construyendo desde la Parte I: Israel → Mesías → remanente fiel → gentiles injertados. No Israel descartado y reemplazado por algo sin relación.**
-
-❗❗ **Así que para el diagnóstico histórico, ninguno de los dos reflejos funciona.** *Un ataque contra judíos étnicos modernos es automáticamente Gog y Magog* — insuficiente. *Un ataque contra el cristianismo institucional es automáticamente Gog y Magog* — también insuficiente.
+Y decir esto no borra a Israel. Apocalipsis está empapado de Israel: las doce tribus, los 144.000, Moisés, el templo, Jerusalén, Sion, el lenguaje del pacto, los doce apóstoles y los nombres de las doce tribus en las puertas de la Nueva Jerusalén. No es una religión gentil desprendida de Israel. Encaja con la cadena del pacto que este libro ha seguido desde la Parte I: Israel, el Mesías, el remanente fiel y los gentiles injertados — no Israel descartado y reemplazado por algo sin relación.
 :::
 
----
+Así que, para cualquier intento de hacer coincidir Apocalipsis 20 con la historia, ninguno de dos reflejos frecuentes funciona. «Un ataque contra el pueblo judío de hoy es automáticamente Gog y Magog» no basta. «Un ataque contra el cristianismo institucional es automáticamente Gog y Magog» tampoco basta. El diagnóstico necesita la categoría propia de Apocalipsis, que es más estrecha que ambas y las atraviesa a las dos.
 
-# Qué se le permite significar a "guerra contra los santos"
+## Qué significa en Apocalipsis «guerra contra los santos»
 
-Una objeción justa ha estado detrás de toda esta Parte: **Apocalipsis 20 tiene naciones reuniéndose para guerra contra los santos. ¿Exige eso que los santos sean una población con ejércitos, territorio y frente de batalla?**
+En Apocalipsis 20 las naciones se reúnen «para la batalla» contra los santos. ¿Exige eso que los santos sean una población con ejércitos, territorio y un frente? El uso que hace Apocalipsis de la palabra «guerra» responde parte de esa pregunta.
 
-**Apocalipsis lo responde solo, un complejo antes.**
+El sustantivo <span class="gr">πόλεμος</span> (*polemos*), «guerra, batalla», aparece nueve veces en Apocalipsis, y se usa de cuatro maneras distintas:
 
-::: wordstudy
-**Estudio de palabra — <span class="gr">πόλεμος</span>, y en qué consiste de hecho la guerra de la bestia**
+| Cómo se usa | Dónde |
+|------------------------|----------------------------------------|
+| **En una comparación** — las langostas parecen caballos preparados para la guerra y suenan como carros que corren a la batalla | 9:7, 9:9 |
+| **Guerra contra el pueblo de Dios** — hecha con persecución, sometimiento y muerte | 11:7 (la bestia hace guerra contra los dos testigos y los mata); 12:17 (el dragón hace guerra contra los que guardan los mandamientos de Dios); 13:7 (la bestia hace guerra contra los santos y los vence) |
+| **Conflicto en el cielo** | 12:7 (Miguel y sus ángeles contra el dragón) |
+| **Una reunión para la batalla final** — con redacción casi idéntica | 16:14; 19:19; 20:8 |
 
-✅ **13:7 —** <span class="gr">ποιῆσαι **πόλεμον** μετὰ τῶν ἁγίων</span> — *hacer **guerra** con los santos* — y vencerlos.
+Cada vez que Apocalipsis habla de guerra hecha *contra el pueblo de Dios*, describe persecución, no dos ejércitos que se enfrentan en un campo. En el capítulo 13 los instrumentos de esa guerra se enumeran alrededor del versículo: presión para adorar, autoridad delegada, exclusión económica, marca y lealtad, y muerte por negarse. En el uso de este mismo libro, entonces, la guerra contra los santos puede ser un ataque organizado llevado a cabo a la vez por coerción política, religiosa, económica y letal.
 
-**Y los instrumentos de esa guerra están detallados a lo largo del capítulo:** presión de culto · autoridad delegada · **exclusión económica** · marca y lealtad · **muerte por negarse** · persecución sostenida.
+Apocalipsis 20:8–9 combina dos de esos patrones: usa la redacción de una reunión para la batalla, y su blanco es el campamento de los santos. Por eso la palabra sola no puede decidir qué clase de confrontación describe 20:9. Los pasajes anteriores muestran que la guerra contra el pueblo de Dios no necesita dos ejércitos convencionales; no determinan por sí solos la naturaleza de esa confrontación final.
 
-### ❗❗ **De modo que Apocalipsis demuestra por sí mismo que *guerra contra los santos* no exige que los santos formen un ejército y se enfrenten a otro en un campo.** <span class="gr">πόλεμος</span> **en el uso propio de este libro puede describir un asalto organizado contra el pueblo de Yah llevado por coerción política, religiosa, económica y letal a la vez.**
+::: textualnote
+**«Guerra» y «batalla» en Reina-Valera** <!-- SPANISH-SPECIFIC -->
 
-⚠️ **Y el límite de este hallazgo, dicho con claridad:** esto establece **capacidad, no distribución.** Muestra lo que la palabra *puede* abarcar en Apocalipsis, a partir de un caso claro y completamente detallado. ❗ **No es el barrido exhaustivo de cada aparición que quedó declarado pendiente dos capítulos atrás, y ese barrido sigue pendiente.** Darlo por saldado porque apareció un caso decisivo sería el mismo aplanamiento que el capítulo anterior fue escrito para atrapar.
+RVR1960 traduce <span class="gr">πόλεμος</span> como «guerra» en 11:7, 12:17 y 13:7, y como «batalla» en 16:14 y 20:8 (en 19:19, «para guerrear»). Esa elección del traductor coincide bastante con la distinción de arriba, pero es una decisión de traducción, no evidencia del griego: en griego es una sola palabra en todos esos lugares.
 :::
 
-## Y el rechazo que más cuesta es el de quien lee
+::: textualnote
+**Una nota de manuscritos sobre Apocalipsis 13:7**
 
-Aquí este capítulo quita algo, y se lo quita a la interpretación con la que la mayoría llega.
+La cláusula «se le permitió hacer guerra contra los santos, y vencerlos» falta en algunos testigos importantes: el papiro más antiguo de este pasaje (P47, del siglo III), los códices Alejandrino, Efrén y Porfiriano, parte de la tradición bizantina y la versión copta sahídica. Está presente en el Códice Sinaítico, en la mayoría de los manuscritos bizantinos, en la Vulgata latina, en la versión siríaca y en la copta bohaírica, y las ediciones críticas modernas, como el Nuevo Testamento griego de la SBL, la imprimen. RVR1960 también la incluye.
+
+Los especialistas suelen juzgar accidental la omisión: dos cláusulas vecinas empiezan con «y se le dio», y el ojo de un copista pudo pasar fácilmente de la primera a la segunda. Es un juicio académico sobre la probabilidad, no algo que muestren los manuscritos mismos, y la originalidad de la cláusula se ha calificado como sujeta a cierto grado de duda. El punto de arriba no descansa solo en este versículo: 11:7 y 12:17 describen en los mismos términos la guerra contra el pueblo de Dios.
+:::
+
+## La marca no puede cruzar los mil años
+
+Aquí este capítulo le quita algo a la interpretación que muchos lectores traen consigo.
 
 ::: finding
-**Hallazgo — la marca no puede cruzar el milenio**
+**La restricción de comprar y vender pertenece a antes de los mil años**
 
-Apocalipsis 13 da la restricción de comprar y vender. **Eso pertenece al complejo de la bestia.** Y la secuencia que esta investigación estableció corre así:
+Apocalipsis 13 describe la restricción de comprar y vender. Eso pertenece a la bestia y al falso profeta. Y la secuencia que este libro ha seguido es:
 
-**bestia y falso profeta juzgados → Satanás atado → los mil años → Satanás liberado → Gog y Magog.**
+la bestia y el falso profeta juzgados → Satanás atado → los mil años → Satanás suelto → Gog y Magog.
 
-### 🛑 **Así que *ni comprar ni vender* no puede trasplantarse a través del milenio hasta Apocalipsis 20. Queda del otro lado de un intervalo que el propio texto pone entre ambos.**
+Así que «que ninguno pudiese comprar ni vender» no puede trasladarse a través de los mil años hasta Apocalipsis 20. Está del otro lado de un intervalo que el propio texto pone entre ambos. Y Apocalipsis nunca menciona un microchip. Signifique lo que signifique finalmente la marca, esa identificación es una capa moderna sobre el texto, no una lectura de él.
 
-❗❗ **Y Apocalipsis nunca dice microchip.** Signifique lo que signifique la marca, **esa identificación es una capa moderna puesta encima del texto, no una lectura de él.**
-
-### ✅ **Lo cual deja el diagnóstico posmilenial en esto, y solo en esto:**
-
-### **engaño → naciones → reunión → guerra → santos, campamento, ciudad amada.**
-
-### ❌ **Y no: *apareció una nueva tecnología de pago, por lo tanto Gog y Magog.***
-
-📐 **Ese solo argumento de secuencia elimina de un golpe una enorme cantidad del sensacionalismo profético contemporáneo — y lo hace por orden, no por gusto.** No estoy diciendo que la lectura popular sea indigna. **Estoy diciendo que el texto pone mil años entre las dos cosas que ella une.**
+La descripción de lo que sigue a la liberación de Satanás es esta, y solo esta: engaño, naciones, reunión, guerra, y los santos — el campamento y la ciudad amada rodeados. No «ha aparecido una nueva tecnología de pago, luego es Gog y Magog».
 :::
 
-::: wordstudy
-**Estudio de palabra — <span class="gr">ἵνα μὴ πλανήσῃ ἔτι τὰ ἔθνη</span>: la atadura se define por lo que impide**
+Ese solo argumento de secuencia quita una gran cantidad de especulación profética moderna, y lo hace por el orden del texto, no por gusto. No digo que la lectura popular sea tonta. Digo que el texto pone mil años entre las dos cosas que une.
 
-La restricción de 20:3 no se describe como una incapacidad general. **Se le da una cláusula de propósito, y la cláusula es negativa y específica:** <span class="gr">ἵνα μὴ πλανήσῃ **ἔτι** τὰ ἔθνη</span> — *para que **ya no** engañe a las naciones.*
+El verbo de 20:3 y 20:8 confirma el punto. La atadura no se describe como impotencia general; tiene un propósito específico: <span class="gr">ἵνα μὴ πλανήσῃ ἔτι τὰ ἔθνη</span> (*hina mē planēsē eti ta ethnē*), «para que no engañase más a las naciones». Y la liberación invierte exactamente eso: <span class="gr">ἐξελεύσεται πλανῆσαι τὰ ἔθνη</span> (*exeleusetai planēsai ta ethnē*), «saldrá a engañar a las naciones». El mismo verbo se niega en la atadura y se cumple en la liberación, así que los mil años quedan delimitados en ambos extremos por la misma actividad. Por eso el movimiento final empieza con el engaño y no con otra cosa. Y es una segunda razón por la que se sostiene la conclusión del capítulo 51: una restricción definida por su efecto sobre las naciones corre dondequiera estén las naciones.
 
-❗ **Y la liberación de 20:8 revierte precisamente esa única cosa:** <span class="gr">ἐξελεύσεται **πλανῆσαι** τὰ ἔθνη</span> — *saldrá **a engañar** a las naciones.*
+## Los mártires son prominentes, pero la categoría es más amplia
 
-### 📐 **Mismo verbo, negado en la atadura y ejecutado en la liberación. El intervalo queda delimitado en sus dos extremos por la misma actividad.**
+Apocalipsis asocia constantemente a los santos con la sangre: los muertos bajo el altar, los que «menospreciaron sus vidas hasta la muerte» (12:11), la guerra contra los santos, Babilonia ebria de su sangre, y los decapitados que viven y reinan.
 
-✅ **Por eso la secuencia posmilenial empieza con engaño y no con otra cosa** — el texto inicia el movimiento final deshaciendo exactamente la cláusula que abrió el intervalo. ★ **Y es una segunda razón por la que la conclusión del capítulo anterior se sostiene: una restricción definida por su efecto sobre las naciones corre dondequiera que las naciones estén.**
-:::
+Pero «santo» no significa «alguien que ya fue muerto». Apocalipsis 14:12 — «aquí está la paciencia de los santos» — se dirige a los vivos, todavía bajo presión, no a quienes ya pasaron por ella. Así que la categoría es el pueblo de Yah fiel al pacto e identificado con Yeshúa, sea o no finalmente martirizado.
 
-## Los mártires son prominentes, y la categoría es mayor que el martirio
-
-Apocalipsis asocia a los santos con la sangre constantemente — los degollados bajo el altar, los que vencieron y no amaron sus vidas hasta la muerte, la guerra contra los santos, Babilonia embriagada con su sangre, y los decapitados que viven y reinan.
-
-❗ **Pero *santo* no significa *alguien ya ejecutado*.**
-
-✅ **14:12 se dirige a personas vivas que perseveran** — *aquí está la perseverancia de los santos* se dice a quienes siguen bajo la presión, no sobre quienes ya la atravesaron. 📐 **Así que la categoría es: el pueblo fiel al pacto de Yah identificado con Yeshúa, martirizado finalmente o no.**
-
----
-
-# El campamento, y la ciudad
+## El campamento y la ciudad
 
 ::: finding
-**Hallazgo — <span class="gr">παρεμβολή</span> es corporativo, y *rodeado* tiene que seguir significando algo**
+**El campamento es colectivo, y «rodearon» tiene que significar algo**
 
-20:9 no dice *persiguieron a algunos santos*. Dice que subieron sobre la anchura de la <span class="gr">γῆ</span> y **rodearon el campamento de los santos y la ciudad amada.**
+Apocalipsis 20:9 no dice que las naciones persiguieron a algunos santos. Dice:
 
-✅ **Como se halló antes, <span class="gr">παρεμβολή</span> significa campamento o acantonamiento y carga asociaciones fuertes de comunidad del pacto.** ⚠️ *(La autoridad lexicográfica independiente de esa asociación quedó declarada como deuda cuando la palabra se examinó por primera vez, y sigue pendiente.)*
+> Y subieron sobre la anchura de la tierra, y rodearon el campamento de los santos y la ciudad amada;
 
-📐 **Eso apunta a algo corporativamente identificable — no a individuos aislados y dispersos sin relación comunitaria entre sí.**
+Como mostró el capítulo 48, la palabra para «campamento» (<span class="gr">παρεμβολή</span>, *parembolē*) es la palabra normal del Antiguo Testamento griego para el campamento de Israel bajo la presencia de Dios. Apunta a algo identificable colectivamente, no a individuos aislados sin relación comunitaria entre sí.
 
-❗ **Y conservo la intuición de que *rodeado* debe significar algo de verdad. No debe metaforizarse solo porque no puedo identificar hoy el suceso.** ⚠️ **Pero tampoco puedo exigir una formación militar circular perfecta alrededor de una sola coordenada.** ✅ **La imagen puede cargar a la vez dimensiones geográficas, políticas, militares y de pacto: la comunidad del pacto de Yah bajo cerco hostil integral.**
+Mantengo la intuición de que «rodearon» tiene que significar algo de verdad; no debe volverse metáfora solo porque hoy no puedo identificar el acontecimiento. Pero tampoco puedo exigir un círculo literal de tropas alrededor de un solo punto del mapa. La imagen puede llevar a la vez dimensiones geográficas, políticas, militares y del pacto: la comunidad del pacto de Yah bajo un cerco hostil y completo.
 :::
 
 ::: openquestion
 **La ciudad amada — deliberadamente abierta**
 
-Jerusalén y Sion son la resonancia obvia, y todo el peso de la imaginería del libro apunta hacia allí.
+Jerusalén y Sion son la resonancia evidente, y el peso de las imágenes del libro apunta hacia allí. Pero Apocalipsis culmina en la Nueva Jerusalén, y los escritos apostólicos hablan de una Jerusalén celestial y del pacto junto a la geográfica.
 
-⚠️ **Pero Apocalipsis culmina en la Nueva Jerusalén, y los escritos apostólicos cargan un lenguaje de Jerusalén celestial y de pacto junto al geográfico.**
+Así que no puedo probar que Apocalipsis 20:9 signifique ejércitos rodeando físicamente la Jerusalén de hoy. Y no puedo probar que la ciudad amada no tenga ninguna dimensión geográfica.
 
-❌ **Así que no puedo probar que 20:9 signifique ejércitos rodeando físicamente la Jerusalén geográfica de hoy.** ❌ **Y no puedo probar que la ciudad amada no tenga ninguna dimensión geográfica.**
+La formulación más fuerte que puedo defender: «el campamento de los santos y la ciudad amada» representa al pueblo del pacto de Yah, centrado en las imágenes de Sion y Jerusalén, con su dimensión geográfica exacta sin resolver.
 
-### ✅ **La formulación más fuerte que puedo defender: *campamento de los santos y ciudad amada* representa al pueblo del pacto de Yah centrado en la imaginería de Sion y Jerusalén, con la dimensión geográfica exacta sin resolver.**
-
-📐 **Y eso alcanza para este libro. No necesito ubicarlo en un mapa especulativo.** ★ Una propuesta geográfica especulativa surgió mientras se trabajaba esto; **nada en Apocalipsis 20 la establece, así que pertenece a un apéndice de preguntas abiertas y no a la cadena de evidencia.**
+Eso basta para este libro. Las propuestas especulativas sobre la ubicación de la ciudad siguen siendo posibles temas de investigación, pero nada en Apocalipsis 20 establece ninguna de ellas, así que quedan entre las preguntas abiertas y fuera de la cadena de evidencia.
 :::
 
----
-
-# Dónde se detiene esto
+## Dónde se detiene la identificación
 
 ::: evidence
-**La huella se puede definir. A las personas no se las puede señalar.**
+**La descripción puede definirse. A las personas no se las puede señalar.**
 
-❌ **Una denominación que se llama cristiana no califica automáticamente.**
-❌ **Un movimiento observante de la Torá no califica automáticamente.**
-❌ **Un grupo mesiánico no califica automáticamente.**
-❌ **Israel étnico no agota automáticamente la categoría.**
-❌ **Decir el nombre no establece automáticamente fidelidad al pacto.**
+- Una denominación que se llama cristiana no califica automáticamente.
+- Un movimiento que guarda la Torá no califica automáticamente.
+- Una congregación mesiánica no califica automáticamente.
+- El Israel étnico no agota automáticamente la categoría.
+- Usar el nombre no establece por sí solo la fidelidad al pacto.
 
-✅ **La huella de Apocalipsis concierne a personas caracterizadas por fidelidad a Yah, el testimonio y la fe de Yeshúa, y perseverancia contra la presión de abandonar esa lealtad.**
-
-### 📌 **Yah conoce a los suyos. Eso alcanza para una investigación escatológica, e ir más lejos sería exactamente el alegato especial que este libro rechazó cuando le convenía.**
+La descripción de Apocalipsis se refiere a personas marcadas por la fidelidad a Yah, el testimonio y la fe de Yeshúa, y la perseverancia bajo presión para que abandonen esa lealtad. Yah conoce a los suyos. Eso basta para esta investigación, e ir más allá sería el alegato especial que este libro rechazó cuando habría sido cómodo.
 :::
 
 ## ¿Podría estar desarrollándose ya?
 
-**Textualmente, sí — como hipótesis.** Y las dos secuencias proféticas coinciden en la forma.
+Textualmente, sí — como posibilidad. Y las dos secuencias proféticas coinciden en su forma:
 
-| La progresión de Ezequiel | La de Apocalipsis |
+| La secuencia de Ezequiel | La secuencia de Apocalipsis |
 |---|---|
 | preparación | liberación |
-| reunión y movilización | engaño |
+| reunión y convocatoria | engaño |
 | movimiento | reunión |
 | ataque | avance |
-| intervención de Yah | cerco, y después fuego |
+| intervención de Dios | cerco, y luego fuego |
 
-❗ **La liberación de Satanás no exige que el campamento quede rodeado esa misma tarde.** ✅ **Puede haber desarrollo entre la liberación y la culminación — lo cual conserva la posibilidad de un poco de tiempo temprano, y por lo tanto mantiene la opción (c) genuinamente viva y no meramente no derrotada.**
+La liberación de Satanás no exige que el campamento sea rodeado esa misma tarde. Puede haber razonablemente un desarrollo entre la liberación y la confrontación final, lo cual mantiene abierta la posibilidad de que una etapa temprana del poco de tiempo ya esté en curso. Es solo una posibilidad. Como mostró el capítulo 49, la afirmación de que estamos actualmente en el poco de tiempo sigue siendo la que soporta más presión aritmética, y nada de aquí la alivia.
 
 ::: finding
-**Hallazgo — y este es el resultado negativo hacia el que ha venido caminando toda la Parte**
+**El resultado negativo hacia el que avanzaba esta Parte**
 
-Una identificación posmilenial creíble necesitaría algo que se parezca sustancialmente a: **naciones engañadas → movilización amplia → hostilidad convergente → contra un pueblo fiel al pacto e identificable como de Yeshúa → cerco → terminación directa por Yah.**
+Una identificación creíble de Gog y Magog en la historia posterior a los mil años necesitaría algo muy parecido a esta secuencia: naciones engañadas → movilización amplia → hostilidad convergente → contra un pueblo identificable, fiel al pacto y perteneciente a Yeshúa → cerco → intervención directa de Yah.
 
-### ❌ **Esa secuencia no está establecida en la historia presente.**
+**Esa secuencia no se ha establecido en la historia presente.**
 
-### 📐 **Ese es un resultado negativo muy importante, y es el punto donde la convicción tiene que detenerse. No *no ha ocurrido* — tampoco puedo establecer eso. *No está establecido.* Son afirmaciones distintas, y fundirlas es como se ha producido cada fijación de fechas de la historia.**
+Es un hallazgo negativo importante, y es el punto en que la convicción tiene que detenerse. No «no ha ocurrido» — tampoco puedo establecer eso. «No se ha establecido.» Son afirmaciones distintas, y confundirlas es como se ha producido cada intento de fijar fechas.
 :::
 
----
-
-# La cadena está completa
+## La cadena está completa
 
 ::: chain
-**Cadena creciente — Checkpoint 6**
+**La cadena creciente — punto de control 6**
 
-**El horizonte profético del primer siglo de Yeshúa → la misión apostólica y la expectativa de juicio del primer siglo → una transición escatológica del primer siglo fuertemente favorecida → bestia y falso profeta juzgados, el complejo bélico premilenial → Satanás restringido → la primera resurrección, los santos reinando con el Mesías → los mil años, acotados con certeza y de duración aproximada sin resolver → Satanás liberado por un <span class="gr">μικρὸν χρόνον</span> → las naciones engañadas → Gog y Magog movilizados → guerra contra el pueblo fiel al pacto de Yah identificado con Yeshúa → campamento y ciudad amada rodeados → Yah interviene → Satanás destruido finalmente → el gran trono blanco → Muerte y Hades destruidos → nueva creación.**
+El horizonte profético de Yeshúa en el primer siglo → la misión apostólica y la expectativa de juicio en el primer siglo → una transición escatológica en el primer siglo, fuertemente favorecida → la bestia y el falso profeta juzgados, terminando el conjunto bélico anterior a los mil años → Satanás restringido → la primera resurrección; los santos reinan con el Mesías → los mil años, su duración todavía en parte sin resolver → Satanás suelto <span class="gr">μικρὸν χρόνον</span> (*mikron chronon*, «por un poco de tiempo») → las naciones engañadas → Gog y Magog movilizados → guerra contra el pueblo del pacto de Yah, fiel a Yeshúa → el campamento y la ciudad amada rodeados → Yah interviene → Satanás destruido definitivamente → el gran trono blanco → la Muerte y el Hades destruidos → nueva creación.
 
-### ❗❗❗ **La cadena está completa. El marcador sobre ella no.**
+**La cadena está completa. El marcador sobre ella, no.**
 
-### **USTED ESTÁ AQUÍ no puede colocarse actualmente sobre la parte baja de esa cadena con confianza suficiente — y nada de lo que venga después de este capítulo debe fabricar uno.**
+El marcador USTED ESTÁ AQUÍ no puede colocarse actualmente, con confianza suficiente, sobre la parte baja de esta cadena — y nada de lo que venga después de este capítulo debe fabricar uno.
 :::
 
-## Lo que de verdad tengo
+## Lo que este capítulo nos deja
 
-Llevo ocho capítulos diciendo *los santos*, y el diagnóstico no vale nada si Juan no los definió antes de que yo los necesitara.
+Llevo ocho capítulos diciendo «los santos», y la descripción de Apocalipsis 20 no sirve de nada a menos que Juan los haya definido antes de que yo los necesitara.
 
-**Los definió, dos veces, en dos partes distintas del libro, y con los mismos dos elementos las dos veces.** Los que guardan los mandamientos de Yah, y tienen el testimonio de Yeshúa. Los que guardan los mandamientos de Yah, y la fe de Yeshúa. **Súmese la perseverancia en la que ambos pasajes están escritos, y la descripción queda terminada.**
+Lo hizo — dos veces, en dos partes distintas del libro, con los mismos dos elementos las dos veces. Apocalipsis 12:17: los que guardan los mandamientos de Dios y tienen el testimonio de Yeshúa. Apocalipsis 14:12: los que guardan los mandamientos de Dios y la fe de Yeshúa. Añade la perseverancia que ambos pasajes describen, y la descripción está completa.
 
-Lo que me llama la atención es lo mal que eso le calza al atajo preferido de todos, incluido el mío. **No se reduce a una religión**, porque un cuerpo que lleva el nombre no queda por eso descrito. **Tampoco se reduce a un linaje**, porque Yeshúa está en los dos enunciados y no está de adorno. **Y no me deja borrar a Israel para decirlo** — el libro está hecho de doce tribus y un templo y Sion y puertas con nombres tribales.
+Lo que me llama la atención es lo mal que encaja eso con cada atajo preferido, incluido el mío. No se reduce a una religión, porque un grupo que se llama por el nombre no queda descrito por eso. Tampoco se reduce a un linaje, porque Yeshúa es parte de las dos afirmaciones, la de 12:17 y la de 14:12, no un adorno sobre ellas. Y no me permite borrar a Israel para hacer ese punto: el libro está hecho de doce tribus y un templo y Sion y puertas con nombres de tribus.
 
-Después lo que más cuesta, y le cuesta a la lectura con la que casi todos llegan. **El comprar y vender pertenece a la bestia, y la bestia es juzgada antes de que Satanás sea atado.** Hay mil años entre ese capítulo y este. **No se puede cargar una marca a través de ellos.** Y Apocalipsis no dice microchip. Dice *naciones engañadas, reunidas, avanzando, rodeando.* **Nada de esa secuencia tiene que ver con tecnología de pagos, y notarlo elimina la mayor parte de lo que pasa por profecía en mi tiempo.**
+Después, la parte que más cuesta, y le cuesta a la lectura que muchos traen consigo. El comprar y vender pertenece a la bestia, y la bestia es juzgada antes de que Satanás sea atado. Hay mil años entre aquel capítulo y este; una marca no puede cruzarlos. Y Apocalipsis no dice «microchip». Dice naciones engañadas, reunidas, que avanzan, que rodean. Nada de esa secuencia tiene que ver con tecnología de pagos, y notarlo quita buena parte de lo que ha pasado por profecía en mi vida.
 
-Lo que queda es una descripción que puedo probar y un pueblo que no puedo señalar. **Puedo decir cómo se ven los santos. No puedo decir dónde están** — y cada vez que alguien ha afirmado lo contrario, la afirmación ha hecho más daño que el silencio.
+Lo que queda es una descripción que puedo poner a prueba y un pueblo al que no puedo señalar. Puedo decirte cómo son los santos. No puedo decirte dónde están — y cada vez que alguien ha afirmado lo contrario, la afirmación ha hecho más daño que el silencio.
 
-Y sobre si el proceso ya empezó: **pudo haber empezado.** Nada dice que la liberación y el cerco sean la misma tarde.
+Sobre si el proceso ya comenzó: podría haber comenzado. La secuencia de Ezequiel tiene preparación antes del movimiento y movimiento antes del ataque, y la de Apocalipsis tiene liberación antes del engaño y engaño antes del cerco. Nada dice que la liberación y el cerco ocurran la misma tarde.
 
-Pero no tengo un marcador. **Ninguno lo bastante distintivo como para sobrevivir a estar equivocado.**
+Pero no tengo un marcador — ninguno lo bastante distintivo como para resistir el haberse equivocado.
 
-Así que la cadena está terminada. Va desde un horizonte del primer siglo hasta una nueva creación, y cada eslabón se argumentó en vez de suponerse, y varios quedaron calificados en contra de mi propia preferencia. **Lo último que necesita es un alfiler clavado cerca del final diciendo que estamos aquí.**
+Así que la cadena está terminada. Corre desde un horizonte del primer siglo hasta una nueva creación, cada eslabón argumentado y no supuesto, y varios de ellos calificados en contra de mi propia preferencia. Lo último que necesita es un alfiler clavado en algún punto cerca del final que diga «estamos aquí».
 
-**No tengo ese alfiler. Y no lo voy a fabricar.**
+No tengo ese alfiler. No voy a fabricar uno.
 
 ::: whereweare
-**Dónde estamos.** Apocalipsis define su propio término dos veces, en dos complejos distintos, con los mismos dos elementos: guardar los mandamientos de Yah y tener el testimonio o la fe de Yeshúa, bajo perseverancia. La definición rechaza en la misma respiración el cristianismo institucional y la etnia sin más, sin borrar a Israel de un libro saturado de Israel. El uso propio de Apocalipsis muestra que la guerra contra los santos puede llevarse por coerción y no por ejércitos — mientras el barrido exhaustivo de esa palabra sigue declarado pendiente. La marca y su restricción de comprar y vender quedan del otro lado del milenio y no pueden cruzarlo, lo cual elimina por secuencia la mayoría de las identificaciones modernas. El campamento es corporativo y *rodeado* conserva su fuerza sin convertirse en un diagrama militar; la ciudad amada conserva su resonancia de Sion con su geografía sin resolver. La huella es definible y las personas no son localizables, el desarrollo entre liberación y cerco es textualmente posible, y no existe marcador histórico suficientemente distintivo. La cadena está completa desde el horizonte del primer siglo hasta la nueva creación — y el marcador USTED ESTÁ AQUÍ no puede colocarse sobre ella.
+**Dónde nos deja esto.** Apocalipsis define su propio término dos veces, en dos secciones distintas, con los mismos dos elementos: guardar los mandamientos de Yah, y tener el testimonio o la fe de Yeshúa, en perseverancia. Esa definición rechaza a la vez el cristianismo institucional y la mera etnia, sin borrar a Israel de un libro empapado de él. El uso que hace Apocalipsis de «guerra» muestra que la guerra contra el pueblo de Dios se hace con persecución y coerción, no con ejércitos enfrentados, aunque la palabra sola no puede decidir la naturaleza de la confrontación final. La marca y su restricción de comprar y vender pertenecen a antes de los mil años y no pueden cruzarlos. El campamento es colectivo, y «rodearon» conserva su fuerza sin volverse un diagrama militar; la ciudad amada conserva su resonancia de Sion, con su geografía sin resolver. La descripción de los santos puede definirse; a las personas no se las puede ubicar. Un desarrollo entre la liberación y el cerco es textualmente posible, pero no existe un marcador histórico lo bastante distintivo. La cadena está completa desde el horizonte del primer siglo hasta la nueva creación — y el marcador USTED ESTÁ AQUÍ no puede colocarse sobre ella.
 :::
 
 ::: earned
-**Lo que ganó.** Un término definido por el libro que lo usa y no por la investigación que lo necesitaba — hallado contando apariciones en vez de argumentando una definición. Una descripción lo bastante estrecha como para rechazar dos sustituciones opuestas a la vez, y lo bastante disciplinada como para señalar la única pieza de gramática disputada que contiene en vez de resolverla en la dirección cómoda. Un rechazo dirigido a la lectura heredada de quien lee, argumentado por secuencia y no por desdén. Un estudio de palabra reportado como parcialmente saldado, con la parte todavía pendiente nombrada. Una intuición conservada — *rodeado* tiene que significar algo — sin inflarla hasta volverla un mapa. Y una cadena completa que termina rechazando lo único que todo lector quiere de ella.
+**La pregunta que esto deja.** La cadena está completa y el marcador sin colocar. ¿Qué establece, entonces, esta investigación — y qué preguntas deja genuinamente abiertas?
 :::

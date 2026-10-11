@@ -74,6 +74,58 @@ related: "[[10-manuscript-architecture]], [[PROVENANCE-LOG]], [[STRUCTURAL-DEBT]
 
 ---
 
+# RESEARCH-PROCESS-002 — Narrate the Scripture, not the research
+
+> ### **Reader-facing prose may narrate genuine changes in reasoning, evidence, interpretation or conviction. It does not narrate internal file state, retrieval mechanics, verification tooling, agent behaviour, audit artifacts, or invented research interactions.**
+
+Adopted 2026-10-10 from the Part VIII reader review (seven tranches; Part VIII EN `d2-reader3`). Its two diagnoses, in the reviewers' words: *the manuscript was narrating the research process instead of the biblical investigation*, and *performative rigor — writing that announces how careful it is instead of letting the evidence show it.*
+
+## The test for every section
+
+1. **What does Scripture say?**
+2. **What does the evidence establish?**
+3. **What remains uncertain?**
+
+## Not in reader prose
+
+| Category | Examples removed from Part VIII |
+|---|---|
+| Bookkeeping metaphors | debts, owed, paid, discharged, costs, prices, "properly priced," the bill |
+| Self-evaluation | "flattening caught," "the rule paid off," "protects a model from itself," boxes that praise the chapter |
+| Research machinery | the archive, the file, a stage "ran," sweeps, retrieval, ladder rungs, paywalls, "sent out to be checked," precheck |
+| Invented interlocutors | "someone asked me," "it was put to me," "a reader," "nobody decided," "anyone was hoping" (see PR-003 in [[PROVENANCE-LOG]]) |
+| Artificial suspense | withholding a word or concept that can simply be named |
+
+## What stays
+
+- A genuine change of reasoning, in the first person, owning authorship: *"When I reviewed the preceding stages, I found I had never directly tested…"*
+- Genuine uncertainty in the evidence. **Obsolete incompleteness in the research does not stay:** if a gap can now be checked, check it and report the result.
+- Methodological explanation where it helps the reader weigh an argument (a test fixed before its answer was known).
+
+## Related standing practices from the same review
+
+- **Restate before citing.** Lettered options, earlier findings and named formulas are restated in words wherever they are cited; a reader is not expected to remember a label from three chapters earlier.
+- **Chapter endings.** `whereweare` states the findings plainly; `earned` holds *the question this leaves* (its original design purpose), never praise of the chapter.
+- **Do not upgrade while rewriting.** Clearer prose must not turn a contextually favoured reading into an established one; re-verify any claim whose strength a rewrite touches.
+
+---
+
+# GLOSS-001 — Original-language terms
+
+> ### **Every Greek or Hebrew term carrying an argument is given a transliteration and a short English gloss at its first use within a discussion — and again after a long gap, or wherever two original-language expressions are directly contrasted.**
+
+Format: <span class="gr">μικρὸν χρόνον</span> (*mikron chronon*, "a little while"). A term is never left untranslated to carry the argument on its own. Adopted 2026-10-10 (Part VIII reader review, tranches 2, 3 and 5).
+
+---
+
+# TYPOGRAPHY-002 — Emphasis and symbols
+
+> ### **No emoji, checkmarks or warning symbols in reader prose. No heading markup used for emphasis. Bold sparingly — at most a key sentence in a section.**
+
+Adopted 2026-10-10 for Part VIII. Beyond tone, emoji embed colour-bitmap and private system fonts that some PDF viewers draw as black boxes. Headings: `#` for the chapter title only, `##` for sections, `###` for genuine subsections. Inside a box, only the first paragraph carries the uppercase label. Evidence grades use `<span class="grade">`, kept visually distinct from confidence words. **Parts I–VII have not yet been brought to this standard** (author decision 2026-10-10: later, using Part VIII as the benchmark).
+
+---
+
 # Cross-reference — rules that live elsewhere
 
 | Rule | Home | What it governs |

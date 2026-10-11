@@ -202,11 +202,11 @@ related: "[[00-index]], [[00a-narrative-spine]], [[09-manuscript-integrity-audit
 
 | Ch | Title | Feeds from |
 |---|---|---|
-| **47** | **The Gap Audit, and How Long Is a Little Season?** | Stages 58.5-59 · [[03i-the-gap-audit-what-actually-remains]] · [[03j-how-long-is-the-little-season]] · *+ 54¾'s quarantined fork* |
+| **47** | **What Remains Open, and How Long Is a Little Season?** *(retitled 2026-10-10, EN d2-reader3; was "The Gap Audit…")* | Stages 58.5-59 · [[03i-the-gap-audit-what-actually-remains]] · [[03j-how-long-is-the-little-season]] · *+ 54¾'s quarantined fork* |
 | **48** | **Ezekiel 38-39 and the Gog Fingerprint** | Stage 60C · [[03k-ezekiel-38-39-and-the-gog-fingerprint]] |
-| **49** | **χίλια ἔτη — The Gate Opens, and the Bill Comes Due** | Stage 60D · [[03l-chilia-ete-the-gate]] |
-| **50** | **The Chronology Under Test — and the First External Rejection** | Stages 61-62 · [[03m-the-historical-test-and-the-neutral-result]] · [[03n-is-the-chronology-secure]] |
-| **51** | **What Clock, and the Two Little Times** | Stages 63 + the three debts · [[03o-what-clock-and-the-two-little-times]] · [[03p-the-three-debts-discharged]] |
+| **49** | **A Thousand Years — What the Number Can and Cannot Tell Us** *(retitled 2026-10-10; was "χίλια ἔτη — The Gate Opens…")* | Stage 60D · [[03l-chilia-ete-the-gate]] |
+| **50** | **The Chronology Under Test** *(retitled 2026-10-10)* | Stages 61-62 · [[03m-the-historical-test-and-the-neutral-result]] · [[03n-is-the-chronology-secure]] |
+| **51** | **What Clock — and the Two Little Whiles** *(retitled 2026-10-10)* | Stages 63 + the three debts · [[03o-what-clock-and-the-two-little-times]] · [[03p-the-three-debts-discharged]] |
 | **52** | **Who Are the Saints?** | **Stage 64** · [[03q-who-are-the-saints-in-revelation]] |
 
 > ### 🛑🛑 **CH. 50 IS WHERE THE BOOK EARNS THE RIGHT TO ITS ENDING. The missing-millennium chronology would have SOLVED the arithmetic. It was investigated and REJECTED — and Illig's actual published hypothesis proposes 297 years, not 1,000.** ★★ **Print the arithmetic the archive computed itself: the Hijri calendar is off by roughly 0.9 years across fourteen centuries, and the premise needs about 1,032.** **A reader who watches a convenient escape route get closed will believe the conclusion that follows.**
