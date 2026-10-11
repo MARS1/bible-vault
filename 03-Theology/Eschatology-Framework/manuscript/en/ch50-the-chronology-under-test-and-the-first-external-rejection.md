@@ -172,21 +172,21 @@ One further possibility should be addressed: that the little season has already 
 | Option | What it says | Status |
 |----------|--------------------------|------------------------|
 | **(a)** | The transition did not begin in the first century. | Live — but this is PF-01, at <span class="grade">supports</span>, and it stands unless materially contradicted. |
-| **(b)** | The thousand years are not a chronological measure. | Weakened, not closed: boundedness at <span class="grade">supports</span>, approximate length only at <span class="grade">permits</span>. |
+| **(b)** | The thousand years are not roughly a thousand calendar years. | Live, and only slightly weakened: the evidence for a roughly quantitative reading is no higher than <span class="grade">permits</span>. Boundedness does not count against it. |
 | **(c)** | We are not presently in the little season. | Under the least pressure, and now more so. |
 | **(d)** | Conventional chronology does not match the biblical interval. | <span class="grade">contradicts</span> — eliminated. |
 | **(e)** | Some other premise, not yet identified, is wrong. | Live, and not yet examined. |
 
 Four options remain. And the one just eliminated was the only one that removed the tension cleanly, so the pressure is now higher, not lower.
 
-That may sound contradictory: the tension rises, yet option (c) is under *less* pressure than before. The two statements measure different things. The tension is the strain on the whole set of four statements from Chapter 47. "Pressure" on an option means how much established evidence stands against it. Option (a) would overturn PF-01, which stands at <span class="grade">supports</span>. Option (b) has to set aside the evidence that the thousand years are a bounded quantity. Option (d) has now been contradicted. Option (c) — we are not presently in the little season — has no established finding against it. Chapter 47 showed that "we are in the little season" was an assumption I had carried without testing, and nothing since has established it. Eliminating (d) adds to that, because (d) was the only option that let a roughly chronological thousand years and a present little season both stand. With it gone, anyone holding a first-century beginning and a roughly chronological thousand years can no longer also hold that we are in the little season now.
+That may sound contradictory: the tension rises, yet option (c) is under *less* pressure than before. The two statements measure different things. The tension is the strain on the whole set of four statements from Chapter 47. "Pressure" on an option means how much established evidence stands against it. Option (a) would overturn PF-01, which stands at <span class="grade">supports</span>. Option (b) runs against the evidence for a roughly quantitative reading of the thousand years — weak evidence, graded no higher than <span class="grade">permits</span>, but evidence. (That the thousand years are bounded does not count against (b): a symbolic or non-calendar period can still have a definite beginning and end.) Option (d) has now been contradicted. Option (c) — we are not presently in the little season — has no established finding against it. Chapter 47 showed that "we are in the little season" was an assumption I had carried without testing, and nothing since has established it. Eliminating (d) adds to that, because (d) was the only option that let a roughly chronological thousand years and a present little season both stand. With it gone, anyone holding a first-century beginning and a roughly chronological thousand years can no longer also hold that we are in the little season now.
 
 Two cautions belong with this. Less pressure against an option is not evidence for it. And option (c) says only where we are *not*; it does not say where we are. It fits two very different situations: the thousand years still underway, which requires that they are not a calendar thousand, or the little season already completed, a possibility discussed below and not adopted.
 
 ::: openquestion
 **The option with no advocate**
 
-Option (a) threatens the first-century beginning that much of this book defends. Option (b) has just been graded against. Option (c) is uncomfortable. Option (d) was exciting, and is now eliminated.
+Option (a) threatens the first-century beginning that much of this book defends. Option (b) has a little evidence against it. Option (c) is uncomfortable. Option (d) was exciting, and is now eliminated.
 
 Option (e) — some premise not yet identified is wrong — is merely humbling, and it is easy to neglect for that reason. Eliminating (d) has made it more important, not less. So I am writing the question down where I cannot lose it: *what premise am I not examining because I do not want it to be wrong?* I do not yet have an answer.
 :::

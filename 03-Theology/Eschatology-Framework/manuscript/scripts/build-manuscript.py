@@ -239,7 +239,10 @@ def render(lang, part, outdir, stem):
     # h1 already forces a new page, so a rule between chapters adds nothing -- and when
     # the previous chapter ended near the foot of a page it was pushed onto a page of its
     # own: Part VIII rendered a blank page holding one short rule (2026-10-10).
-    md.write_text(f"# {title}\n\n*Draft 1. {words:,} words.*\n\n" + "\n\n".join(chunks) + "\n")
+    # No draft/word-count line on the title page: it was hard-coded "Draft 1" and
+    # stayed on every later revision (Part VIII review, 2026-10-10). The extent and the
+    # source commit are recorded in each snapshot's MANIFEST, which is where they belong.
+    md.write_text(f"# {title}\n\n" + "\n\n".join(chunks) + "\n")
 
     frag = subprocess.run(["pandoc", str(md), "-f", "markdown+fenced_divs", "-t", "html5"],
                           capture_output=True, text=True, check=True).stdout

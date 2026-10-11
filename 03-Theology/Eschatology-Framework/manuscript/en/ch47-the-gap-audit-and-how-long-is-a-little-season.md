@@ -227,7 +227,7 @@ A first-century start plus a chronological thousand years places the end of the 
 At least one of the four has to give, and the possibilities are exhaustive:
 
 - **(a)** the beginning was not in the first century;
-- **(b)** the thousand years are not a chronological measure;
+- **(b)** the thousand years are not roughly a thousand calendar years (they may still be a real, bounded period whose length is not a calendar count);
 - **(c)** we are not in the little season;
 - **(d)** conventional chronology does not match the biblical interval;
 - **(e)** some other premise, not yet identified, is wrong.

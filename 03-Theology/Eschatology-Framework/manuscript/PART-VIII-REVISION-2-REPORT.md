@@ -145,3 +145,17 @@ Comparison baseline: snapshot `d2-reader1` (source `11c4e78`). Narrow pass only;
 **Build of Revision 2.1:** 101 pages (the added explanations account for the extra page), 20,198/20,176 words recovered, 0 mojibake, 0 sections missing, all Greek/Hebrew wrapped, 0 split table rows. Regression tests pass.
 
 **Still not independently verified** (unchanged from section C): the 42 months = 1,260 days characterization; the 7,272-year chronology's data; radiocarbon and stratigraphy; the Nestle-Aland apparatus for Rev 13:7; and, as the reviewer noted, the 23 corrections in section B remain documented claims until a separate audit against primary texts.
+
+---
+
+## F. Revision 2.2 — final review of `d2-reader2`
+
+The final independent review spot-audited F1, F2, F7, F10 and F12 against the Greek text and a concordance — **all five hold** — and returned two must-fix items.
+
+| # | Finding | What was done |
+|---|---|---|
+| R6 | **Option (b) was weakened on the grounds that the thousand years are bounded.** A symbolic or non-calendar period can still have a definite beginning and end, so boundedness says nothing against (b). The flaw dates to draft 1's option tables, and Revision 2.1's own explanation of option (c) repeated it. | (b) now worded everywhere as the plain denial of statement 2 of the four-way constraint: **"the thousand years are not roughly a thousand calendar years"** (ch47 list, ch49 and ch50 tables). Its status: live, only slightly weakened; what weighs against it is the evidence for a roughly quantitative reading (Rev 21:17, the completion clauses, the numbered thousand against the unnumbered release), graded no higher than <span class="grade">permits</span>. Corrected in the ch49 and ch50 explanations of option (c) and in ch50's "option with no advocate" box. **The ranking of (c) as under the least pressure still holds**: (b) has weak evidence against it; (c) has none. Recorded as factual/interpretive correction **F24**. |
+| R7 | Title page read "Draft 1. 20,176 words." | The line was hard-coded in the build script for every Part and every revision. Removed; extent and source commit remain in each snapshot's MANIFEST. Applies to all Parts on their next build. |
+| — | Pages 30, 35, 38, 100: unused space | Optional per the reviewer: natural chapter and section endings. Left as is. |
+
+**Verified in the rendered PDF:** title page shows the Part title only; "Draft 1" occurs nowhere; the corrected (b) wording appears in all six places. **Build:** 101 pages, 20,311/20,293 words recovered, 0 mojibake, 0 sections missing, all Greek/Hebrew wrapped, 0 split table rows. Regression tests pass.
