@@ -1,0 +1,11 @@
+Edition:        English (en)
+Part:           8  Part VIII: The Millennium and the Open Horizon
+Milestone:      d2-reader3
+Source commit:  9e2e31a24ff9ace421180ce39f5c9d1d9c40c541
+Commit date:    2026-10-11
+Tree state:     source committed at this commit
+Built:          2026-10-11
+Extent:         20,293 words, 101 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 9e2e31a
