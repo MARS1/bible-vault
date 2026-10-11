@@ -77,7 +77,9 @@ PARTS = {
                 "ch44-", "ch45-", "ch46-"]),
            8: ("Parte VIII: El milenio y el horizonte abierto",
                ["ch47-", "ch48-", "ch49-",
-                "ch50-", "ch51-", "ch52-"])},
+                "ch50-", "ch51-", "ch52-"]),
+           9: ("Parte IX: Lo que de verdad puedo defender",
+               ["ch53-", "ch54-"])},
 }
 
 CSS = (Path(__file__).resolve().parent / "design-system-v1.css").read_text()

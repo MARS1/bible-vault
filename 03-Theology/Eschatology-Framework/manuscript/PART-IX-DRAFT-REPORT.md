@@ -97,3 +97,32 @@ Both chapters are the author's own prose. Nothing was regenerated or paraphrased
 ## F. Build
 
 See the build line in the session handoff. The snapshot is taken only after you approve and commit.
+
+---
+
+# Spanish Part IX — Draft 1 (2026-10-11)
+
+**Files:** `es/ch53-lo-que-sabemos-lo-que-creemos-y-lo-que-todavia-no-sabemos.md` · `es/ch54-la-posicion-que-de-verdad-puedo-defender-y-quien-soy-ahora.md`. **Source:** the frozen EN master d1-reader2 (`7d6dd7f`). Written as a sibling edition from the evidence, not translated sentence by sentence.
+
+## Bilingual integrity check (ES-REGISTER §3)
+
+| Check | Result |
+|---|---|
+| Evidence strength survives | Grade spans match one-for-one. ch53: supports/apoya 7, permits/permite 3, contradicts/contradice 3. ch54: 3 / 1. The asymmetry is kept in the same places: the thousand-years finding, the ledger, the options table, and the "mil" section, credo and not-established list in ch54. |
+| Components match | ch53: finding 3, chain 1, whereweare 1, earned 1, tables 2. ch54: finding 3, chain 1. Identical to EN. |
+| Original language | ch53 14 Greek + 1 Hebrew; ch54 1 Greek. Identical to EN. The Hebrew phrase is bound with a non-breaking space. |
+| Provenance | The ch1 callback echoes ES ch01's own wording ("no pude mostrar el trabajo"). It assigns no side. |
+| Scripture is RVR1960 | Only wording already verified in ES Part VIII is quoted: Ap 20:3 «para que no engañase más a las naciones», 20:7 «cuando los mil años se cumplan», 21:4 «ya no habrá muerte», Mt 10:6, 1 Ts 4:17, Ro 11:18. Mt 5:17 is **not** quoted; the Greek is glossed instead. |
+| Register | Checker: 0 regional, 0 prose-vosotros. |
+| Terminology | 0. q437 is rendered «a todas las naciones». |
+| Marker | `USTED ESTÁ AQUÍ: ?`, the sanctioned exception in ES-REGISTER. It is the last line of ch54. The coda is unedited and stands apart. |
+
+## Spanish-specific decisions (please confirm)
+
+1. **Names, first use in the edition.** «YahuShúa HaMashíaj» and «Ruaj HaKódesh» follow the edition's «Yeshúa» accent convention, with Spanish *j* for the Hebrew *ch*. Earlier Parts never used either form.
+2. **Names section.** The argument is inverted for the Spanish reader. «Jesucristo» is the reader's own form, and «Jesus Christ» is the example from another language. Jehová is noted as the form the RVR1960 itself uses. The argument and its weight are unchanged. A hidden `SPANISH-SPECIFIC` comment sits next to the heading.
+3. **Part title.** «Parte IX: Lo que de verdad puedo defender».
+
+## Build
+
+Spanish Part IX: 79 pages. Terminology OK, register OK, 0 mojibake, 0 sections missing, original-language wrapping OK, tables OK (6 table pages). I visually inspected all 12 flagged pages (9, 10, 13, 15, 17, 18, 19, 20, 22, 34, 35, 59) and the closing pages 76–79, and found no defects.
