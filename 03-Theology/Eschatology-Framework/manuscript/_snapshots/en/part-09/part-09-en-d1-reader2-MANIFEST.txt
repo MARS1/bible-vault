@@ -1,0 +1,11 @@
+Edition:        English (en)
+Part:           9  Part IX: What I Can Actually Defend
+Milestone:      d1-reader2
+Source commit:  7d6dd7fd22c891d3ec33d9db3c7d6558f5a2c65c
+Commit date:    2026-10-11
+Tree state:     source committed at this commit
+Built:          2026-10-11
+Extent:         10,097 words, 77 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 7d6dd7f
