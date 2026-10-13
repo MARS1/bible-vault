@@ -2,7 +2,7 @@
 title: "Part IX — Draft 1 Report (EN)"
 type: manuscript-report
 created: 2026-10-11
-status: rev-1.2-english-approved-pending-commit
+status: closed-both-editions
 related: "[[10-manuscript-architecture]], [[03r-what-we-know-what-we-believe-and-what-we-still-dont-know]], [[03s-the-position-we-can-actually-defend]], [[PART-VIII-REVISION-2-REPORT]]"
 ---
 
@@ -126,3 +126,9 @@ See the build line in the session handoff. The snapshot is taken only after you 
 ## Build
 
 Spanish Part IX: 79 pages. Terminology OK, register OK, 0 mojibake, 0 sections missing, original-language wrapping OK, tables OK (6 table pages). I visually inspected all 12 flagged pages (9, 10, 13, 15, 17, 18, 19, 20, 22, 34, 35, 59) and the closing pages 76–79, and found no defects.
+
+## Spanish review verdict (2026-10-12): APPROVED
+
+Snapshot **d1-reader1** (source `642dab0`) is the approved Spanish counterpart of the English master d1-reader2. **Part IX is closed in both editions.** All three Spanish-only decisions were kept as drafted: YahuShúa HaMashíaj / Ruaj HaKódesh; the names section written from the Spanish reader's side; the title «Parte IX: Lo que de verdad puedo defender».
+
+**Deferred, not blocking:** ch54 ES, names section. «la forma que la Reina-Valera 1960 pone en las manos de la mayoría de los lectores de este libro» assumes who the readers are. The preferred wording is «la forma que la Reina-Valera 1960 presenta habitualmente al lector». This goes to the whole-book Spanish normalization; Part IX is not reopened for it.

@@ -516,6 +516,18 @@ related: "[[00-index]], [[00a-narrative-spine]], [[09-manuscript-integrity-audit
 
 **✅ FIRST FULL PASS, ES PART I, 2026-09-10: no theological or argumentative divergence found. 22 regional constructions normalized, one awkward construction rewritten, nothing else touched.**
 
+### ㉓ Front and back matter: §1 and §11 CONTROL; publishing items are ADDITIONS *(2026-10-12)*
+
+> ### 🛑 **§1 (Front Matter) AND §11 (Back Matter) ARE THE CONTROLLING STRUCTURE. A generic book-matter checklist does not replace them.** This came up once already: a generic list offered at Part IX's close dropped The Biblical Story in One Map, What Is the Bible?, How to Read Apocalyptic Literature, and Appendices B, C, D and G. The author ruled that this architecture outranks it.
+>
+> ### ✅ **APPENDIX G — Corrections Made to My Own Work — IS PRESERVED.** It is the book's method made visible: where the investigation changed its mind because the evidence required it.
+
+**➕ PUBLISHING LAYERS ARE ADDITIONS, EACH SUBJECT TO REVIEW, NEVER SUBSTITUTIONS:** copyright/legal page · Library of Congress / ISBN metadata · acknowledgments · about the author. Legal wording is never improvised; it belongs to the publishing-prep phase.
+
+**🔍 CHECK OVERLAP BEFORE ADDING:** a glossary or divine-names section only if Appendix D (Word Study Index) does not already do that job. A conventional bibliography only if Appendix F (Source Ledger) is not enough for readers.
+
+**📍 SEQUENCE (author, 2026-10-12):** Parts VIII–IX closed in both languages → Parts I–VII normalization against the VIII–IX benchmark (no settled conclusion changes unless a genuine factual inconsistency) → full-book consistency audit I–IX → front/back matter per this ruling → publishing prep → layout → proofs. **The coda stays the literary ending; reference matter follows it. Book Two is held until Book One is assembled, proofed and frozen.**
+
 ### ⑨ Gate precondition — ✅ **CONFIRMED CLEAN BEFORE THIS APPROVAL TOOK EFFECT**
 
 | Requirement | Status |
