@@ -66,7 +66,7 @@ Y enseguida 8:4:
 
 > Pero los que fueron esparcidos iban por todas partes anunciando el evangelio
 
-El verbo griego es euangelizo, anunciar buenas noticias. Los que lo hacen son los creyentes comunes que salieron huyendo, y los apóstoles quedan explícitamente fuera del grupo.
+El verbo griego es <span class="gr">εὐαγγελίζω</span> (*euangelizō*), anunciar buenas noticias. Los que lo hacen son los creyentes comunes que salieron huyendo, y los apóstoles quedan explícitamente fuera del grupo.
 
 Así que la afirmación de que solo los Doce proclamaban no sobrevive al contacto con Hechos 8. No queda debilitada: queda eliminada.
 
@@ -100,11 +100,11 @@ Hombre. No comida. Pedro interpreta su propia visión y la interpretación es so
 
 Ahora bien, ¿tiene la visión implicaciones para las leyes alimentarias? Es posible. La pregunta es legítima y no la estoy descartando. Pero es una pregunta aparte, hay que argumentarla con su propia evidencia, y no se puede colar tratando la imagen de la superficie como si fuera el significado, cuando el texto entrega otro significado y los personajes actúan según ese.
 
-Archivé la cuestión de la comida como nota lateral para trabajarla después, y así se hizo, con bastante extensión, muchos capítulos más adelante. Lo que no le permití fue ser una conclusión a la que llegué en el capítulo 10 de Hechos por no escuchar a Pedro.
+Dejé a un lado la cuestión de la comida para examinarla después, y así se hizo, con bastante extensión, muchos capítulos más adelante. Lo que no le permití fue ser una conclusión a la que llegué en el capítulo 10 de Hechos por no escuchar a Pedro.
 
 ## Y entonces Hechos corrigió mi corrección
 
-Esto es lo que más me gusta de esta etapa, y pasó porque seguí leyendo en orden en lugar de detenerme cuando ya tenía un resultado que me gustaba.
+Esto es lo que más me gusta de este punto del recorrido, y pasó porque seguí leyendo en orden en lugar de detenerme cuando ya tenía un resultado que me gustaba.
 
 Yo había entendido que Hechos 8:4 mostraba a creyentes comunes llevando el mensaje hacia afuera, y estaba conforme, porque me había costado algo y eso se sentía a rigor.
 
@@ -132,12 +132,10 @@ Pero sí me dejó más dispuesto a confiar en el método, e hizo que el concilio
 
 Hechos 15 va a importar enormemente más adelante, por razones que no tienen nada que ver con el evangelismo.
 
----
-
 ::: whereweare
-**Dónde estamos.** Hechos recorre la ruta hacia afuera que él mismo anuncia. La lista de naciones de Hechos 2 es geografía y no identidad de pacto, y Pedro le habla a Israel. Hechos 8:4 eliminó la afirmación de que solo los apóstoles proclamaban, y después Hechos 11:19 estrechó mi afirmación de reemplazo al mostrar que esos mismos esparcidos hablaron solo a judíos. Hechos 10 me dio el caso más claro que tengo de una imagen superficial que significa otra cosa, con la interpretación entregada por el personaje mismo. Y de la diferencia en la secuencia del Espíritu salió una regla: describir no es prescribir.
+**Dónde nos deja esto.** Hechos recorre la ruta hacia afuera que él mismo anuncia. La lista de naciones de Hechos 2 es geografía y no identidad de pacto, y Pedro le habla a Israel. Hechos 8:4 eliminó la afirmación de que solo los apóstoles proclamaban, y después Hechos 11:19 estrechó mi afirmación de reemplazo al mostrar que esos mismos esparcidos hablaron solo a judíos. Hechos 10 me dio el caso más claro que tengo de una imagen superficial que significa otra cosa, con la interpretación entregada por el personaje mismo. Y de la diferencia en la secuencia del Espíritu salió una regla: describir no es prescribir.
 :::
 
 ::: earned
-**Qué se ganó.** Lucas me cuenta qué pasó. No me dice qué significa para el pacto. Entonces, ¿qué dice Pablo que significa?
+**La pregunta que esto deja.** Lucas me cuenta qué pasó. No me dice qué significa para el pacto. Entonces, ¿qué dice Pablo que significa?
 :::

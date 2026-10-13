@@ -35,7 +35,7 @@ No voy a apoyarme en la gramática más de lo que aguanta: la lista está hecha 
 ::: textualnote
 **Nota textual**
 
-Aquí la edición en español tiene un asunto que la inglesa no tiene. RVR1960 lee **"el pacto"**, en singular. Varias ediciones en inglés leen el plural, "los pactos", y detrás hay una variante conocida en el griego entre **αἱ διαθῆκαι** y **ἡ διαθήκη**. No la resuelvo aquí y no me hace falta para nada de lo que sigue. La señalo porque un lector que compare ediciones va a notar la diferencia, y prefiero que la note conmigo apuntándola. *De paso: la misma RVR1960 lee plural en Efesios 2:12, "ajenos a los pactos de la promesa".*
+Aquí la edición en español tiene un asunto que la inglesa no tiene. RVR1960 lee **"el pacto"**, en singular. Varias ediciones en inglés leen el plural, "los pactos", y detrás hay una variante conocida en el griego entre <span class="gr">αἱ διαθῆκαι</span> (*hai diathēkai*, «los pactos») y <span class="gr">ἡ διαθήκη</span> (*hē diathēkē*, «el pacto»). No la resuelvo aquí y no me hace falta para nada de lo que sigue. La señalo porque un lector que compare ediciones va a notar la diferencia, y prefiero que la note conmigo apuntándola. *De paso: la misma RVR1960 lee plural en Efesios 2:12, "ajenos a los pactos de la promesa".*
 :::
 
 Después llega Romanos 11:1, y Pablo hace la pregunta de frente, como si supiera exactamente qué está pensando su lector:
@@ -92,7 +92,7 @@ Después le apliqué la misma regla a otra palabra que venía usando con mucha m
 
 Me venía llamando preterista. Misma prueba. ¿Asigna la Escritura esa categoría, o es mi resumen de un conjunto de conclusiones? Es lo segundo, evidentemente. Lo cual quiere decir que puede describir dónde llegué, pero no se le puede permitir que decida a dónde llego después.
 
-La distinción suena académica en este punto. No lo es: gobierna toda la segunda mitad del libro, y hay una etapa mucho más adelante en la que casi dejo que una etiqueta pensara por mí y tuvo que frenarme un verbo griego.
+La distinción suena académica en este punto. No lo es: gobierna toda la segunda mitad del libro, y hay un momento mucho más adelante en el que casi dejo que una etiqueta pensara por mí y tuvo que frenarme un verbo griego.
 
 ## A dónde va la alabanza
 
@@ -108,12 +108,10 @@ No echa mano de lo inescrutable de Dios para esquivar el argumento. Argumenta, l
 
 Me gustaría hacerlo en ese orden.
 
----
-
 ::: whereweare
-**Dónde estamos.** Pablo descarta explícitamente la lectura del reemplazo en Romanos 11:1, enumera los pactos y las promesas entre las cosas que son de Israel en Romanos 9, y le pega al olivo una advertencia más larga que la promesa. La incorporación de los gentiles es real y sustancial. La etiqueta que yo venía usando es mía y no de la Escritura, cosa que establecí probando mi propio vocabulario como venía probando el ajeno; y la misma prueba se le aplica a la palabra preterista.
+**Dónde nos deja esto.** Pablo descarta explícitamente la lectura del reemplazo en Romanos 11:1, enumera los pactos y las promesas entre las cosas que son de Israel en Romanos 9, y le pega al olivo una advertencia más larga que la promesa. La incorporación de los gentiles es real y sustancial. La etiqueta que yo venía usando es mía y no de la Escritura, cosa que establecí probando mi propio vocabulario como venía probando el ajeno; y la misma prueba se le aplica a la palabra preterista.
 :::
 
 ::: earned
-**Qué se ganó.** El fundamento ya está puesto. Entonces, por fin: ¿qué le exige la comisión a un creyente hoy?
+**La pregunta que esto deja.** El fundamento ya está puesto. Entonces, por fin: ¿qué le exige la comisión a un creyente hoy?
 :::

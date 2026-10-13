@@ -2,7 +2,7 @@
 title: "Part I — Normalization Report (EN pilot)"
 type: manuscript-report
 created: 2026-10-13
-status: awaiting-author-review
+status: closed-both-editions
 related: "[[10-manuscript-architecture]], [[EDITORIAL-RULES]], [[PART-IX-DRAFT-REPORT]]"
 ---
 
@@ -105,3 +105,34 @@ The full scan finds no emoji, visible labels or heading problems anywhere in Par
 ## E. Spanish Part I
 
 Not started; it waits for English approval. The scan shows ES Part I needs the same conventions pass (17 old labels and rules, 3 unstyled grades) plus the matching N-edits where they apply. The N1 cross-reference must be checked in ES ch06 as well.
+
+---
+
+# Spanish Part I — normalization (2026-10-13)
+
+**English r1.1 was approved and frozen:** snapshot **d2-normalized** (`65f72b8` / `28f412e`). Spanish Part I is normalized from that approved baseline, applying the same rules and the same decisions. The prose stays written in Spanish rather than translated from the English edits.
+
+**Result:** normalization 0 in every category (before: 17 old labels/rules, 3 unstyled grades, 6 stage-talk). Register 0, terminology 0. Build: 56 pages, 0 mojibake, 0 sections missing, original-language gate OK. I visually checked pp. 17, 21, 34, 41, 50.
+
+| EN # | Spanish edit |
+|---|---|
+| conventions | «Dónde estamos.» → «**Dónde nos deja esto.**» · «Qué se ganó.» → «**La pregunta que esto deja.**» · `---` rules around boxes removed |
+| **N1** | ch06: «la **Parte VII** de este libro» → «la **Parte IV**» (same factual error as EN) |
+| N2 + D2 | 00a: «investigada **durante tres etapas** y descartada, porque la evidencia a su favor era débil, y porque…» → «investigada **a fondo** y descartada, porque la evidencia a su favor era débil **y la evidencia en contra resultó decisiva**, y porque…» |
+| N3, N4, N5, N6 | «En esta etapa» → «En este punto» (ch03) · «de esta etapa» → «de este punto del recorrido» (ch04) · «una etapa mucho más adelante» → «un momento mucho más adelante» (ch05) · «cinco etapas» → «cinco capítulos» (ch06) |
+| N7 | ch04: «**Archivé** la cuestión de la comida **como nota lateral para trabajarla después**» → «**Dejé a un lado** la cuestión de la comida **para examinarla después**» |
+| N8 | ch06: «**Un borrador anterior** tenía este punto al revés. **Escribí** … **cuatro páginas después** … **Las dos frases estaban en el mismo capítulo.**» → «**Al principio** tenía este punto al revés. **Tenía** a los que anunciaban en Hechos 8 como … mientras que Hechos 21:8 llama a uno de ellos Felipe el evangelista. **Las dos afirmaciones no podían sostenerse juntas.**» |
+| N9 | ch04: «euangelizo» → <span>εὐαγγελίζω</span> (*euangelizō*) |
+| N10 | ch06 evidence box: **EXIGE** / **APOYA** → grade spans; **NO ESTABLECE** → «**No establece**» |
+| N11 + D1 | ch02: «vive en <span>permite</span>» + «destacadas en el texto así — contradice, permite, apoya, exige —» |
+| N12 | ch01 open-question box: «Pregunta abierta» → «**«Todas las naciones» y «todo el mundo»: todavía sin examinar**» |
+| N13 + D3 | ch03: «los **cuatro** textos» → «los textos» |
+| N14, N15 | Not needed: ES ch06 already has «mío», and the duplicated sentence exists only in EN. |
+
+**One pre-existing defect fixed (Spanish only).** ES ch05's Romans 9:4 textual note (Spanish-specific, RVR1960 «el pacto») had its Greek variant as bare bold text: **αἱ διαθῆκαι** / **ἡ διαθήκη**. The original-language gate added after Part I closed now fails that, so this build stopped on it. It is now <span>αἱ διαθῆκαι</span> (*hai diathēkai*, «los pactos») and <span>ἡ διαθήκη</span> (*hē diathēkē*, «el pacto»). The note's claim is unchanged.
+
+**Bilingual parity:** grade spans, boxes, Greek spans and box labels match chapter by chapter. The one difference is ES ch05's extra `textualnote`, which is the sanctioned Spanish-only Romans 9:4 note.
+
+## Spanish verdict (2026-10-13): APPROVED
+
+Spanish Part I normalized r1 approved. **Part I is normalized and closed in both editions.** Next: Part II English normalization, same checklist, Parts VIII–IX as benchmark.

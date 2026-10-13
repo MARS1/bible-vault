@@ -129,15 +129,15 @@ Tenía dos opciones. Seguir defendiendo y cruzar los dedos. O irme a construir u
 Elegí lo segundo. Tomó mucho más de lo que esperaba, y es el capítulo que sigue.
 
 ::: whereweare
-**Dónde estamos.** Un familiar defendió el lado de la proclamación hacia afuera con Marcos 16, Mateo 28, Santiago 4:17 y Hechos 8:4. Yo contesté que predicar no era mi llamado, desde 1 Pedro 3:15, 1 Corintios 12 y Efesios 4:11; y debajo de eso estaba tratando la Gran Comisión como algo ya cumplido en el primer siglo. Ninguno de los dos pudo resolverlo, porque apilar citas no arbitra entre dos montones de versículos reales, y porque yo tenía un marco al que podía echar mano cada vez que un texto se ponía incómodo.
+**Dónde nos deja esto.** Un familiar defendió el lado de la proclamación hacia afuera con Marcos 16, Mateo 28, Santiago 4:17 y Hechos 8:4. Yo contesté que predicar no era mi llamado, desde 1 Pedro 3:15, 1 Corintios 12 y Efesios 4:11; y debajo de eso estaba tratando la Gran Comisión como algo ya cumplido en el primer siglo. Ninguno de los dos pudo resolverlo, porque apilar citas no arbitra entre dos montones de versículos reales, y porque yo tenía un marco al que podía echar mano cada vez que un texto se ponía incómodo.
 :::
 
 ::: earned
-**Qué se ganó.** Me preguntó cómo había llegado a mi lectura de la profecía y no pude contestarle de manera breve. Así que la pregunta pasó a ser: ¿qué método permitiría resolver esto con evidencia y no con quién cita de último?
+**La pregunta que esto deja.** Me preguntó cómo había llegado a mi lectura de la profecía y no pude contestarle de manera breve. Así que la pregunta pasó a ser: ¿qué método permitiría resolver esto con evidencia y no con quién cita de último?
 :::
 
 ::: openquestion
-**Pregunta abierta**
+**«Todas las naciones» y «todo el mundo»: todavía sin examinar**
 
 He citado "todas las naciones" y "todo el mundo" en este capítulo sin examinar ninguna de las dos, y él tampoco. Es deliberado: así las estábamos usando los dos en ese momento. Si esas frases significaban para sus primeros oyentes lo que significan para un lector de hoy resulta ser una de las preguntas más grandes del libro, y no queda resuelta hasta el capítulo 23.
 :::

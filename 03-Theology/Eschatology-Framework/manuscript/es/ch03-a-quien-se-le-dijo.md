@@ -76,7 +76,7 @@ Esa imagen va a volver. Mucho más adelante en esta investigación, cuando Pablo
 
 ## Algo que no pude resolver, y que dejé sin resolver
 
-En esta etapa me topé con una contradicción que sigo sin resolver, y lo honesto es mostrar dónde está en vez de elegir un bando y seguir de largo.
+En este punto me topé con una contradicción que sigo sin resolver, y lo honesto es mostrar dónde está en vez de elegir un bando y seguir de largo.
 
 Cuando le preguntan directamente si es Elías, Juan el Bautista dice que no:
 
@@ -88,16 +88,14 @@ Hablando de Juan el Bautista, Yeshúa dice:
 
 Hay maneras respetables de conciliar las dos cosas. Puede que Juan el Bautista esté negando una expectativa concreta, la de un Elías literalmente regresado, y afirmando a la vez un papel funcional. El "si queréis recibirlo" de Yeshúa puede estar señalando algo distinto de una identificación lisa y llana. Algunas de esas salidas me parecen más plausibles que otras.
 
-Pero no lo sé, y este libro tiene una regla al respecto desde el capítulo anterior. Así que los cuatro textos quedan uno al lado del otro en mis notas, sin armonizar, en la caja de las preguntas abiertas.
+Pero no lo sé, y este libro tiene una regla al respecto desde el capítulo anterior. Así que los textos quedan uno al lado del otro en mis notas, sin armonizar, en la caja de las preguntas abiertas.
 
 Lo menciono aquí en vez de enterrarlo porque es la primera vez en la investigación que me topo con algo que no puedo resolver, y lo que hice al respecto tiene la misma forma que lo que voy a seguir haciendo el resto del libro.
 
----
-
 ::: whereweare
-**Dónde estamos.** Las naciones estaban en la promesa desde Génesis 12, e Isaías 49:6 llama demasiado poco a restaurar solamente a Israel; así que la inclusión de los gentiles no es una sustitución posterior de un plan fallido. Aun así, el ministerio terrenal tuvo un alcance declarado, y ese alcance era Israel, en palabras que no voy a suavizar. Los gentiles que sí reciben en los Evangelios aparecen llegando a una mesa que ya estaba puesta.
+**Dónde nos deja esto.** Las naciones estaban en la promesa desde Génesis 12, e Isaías 49:6 llama demasiado poco a restaurar solamente a Israel; así que la inclusión de los gentiles no es una sustitución posterior de un plan fallido. Aun así, el ministerio terrenal tuvo un alcance declarado, y ese alcance era Israel, en palabras que no voy a suavizar. Los gentiles que sí reciben en los Evangelios aparecen llegando a una mesa que ya estaba puesta.
 :::
 
 ::: earned
-**Qué se ganó.** Si la misión empezó así de estrecha y la intención siempre fue así de amplia, entonces algo se movió. ¿Cómo se movió, cuándo, y quién lo hizo?
+**La pregunta que esto deja.** Si la misión empezó así de estrecha y la intención siempre fue así de amplia, entonces algo se movió. ¿Cómo se movió, cuándo, y quién lo hizo?
 :::

@@ -50,9 +50,9 @@ Estas cuatro se confunden a cada rato. Alguien dice que la Biblia predijo un aco
 
 También hacía falta un vocabulario para decir con cuánta fuerza una evidencia sostiene algo, porque "la Biblia dice" estaba haciendo demasiado trabajo en el mío.
 
-Cuatro palabras. Una evidencia puede contradecir una afirmación, permitirla, apoyarla o exigirla. Casi todo lo que la gente llama prueba vive en permite. Y permite quiere decir apenas que la afirmación puede convivir con la evidencia, que es bastante menos de lo que parece cuando uno es el que está afirmando.
+Cuatro palabras. Una evidencia puede contradecir una afirmación, permitirla, apoyarla o exigirla. Casi todo lo que la gente llama prueba vive en <span class="grade">permite</span>. Y permite quiere decir apenas que la afirmación puede convivir con la evidencia, que es bastante menos de lo que parece cuando uno es el que está afirmando.
 
-Voy a usar esas cuatro palabras a lo largo del libro, y donde algo solo permite, lo digo, aunque preferiría que exigiera.
+Voy a usar esas cuatro palabras a lo largo del libro, destacadas en el texto así — <span class="grade">contradice</span>, <span class="grade">permite</span>, <span class="grade">apoya</span>, <span class="grade">exige</span> —, y donde algo solo permite, lo digo, aunque preferiría que exigiera.
 
 ## El defecto
 
@@ -92,12 +92,10 @@ Me tomo eso en serio por una razón nada abstracta: quiere decir que la revelaci
 
 Ese es todo el método. No es complicado. Es sobre todo un conjunto de maneras de mantenerme honesto cuando preferiría tener la razón.
 
----
-
 ::: whereweare
-**Dónde estamos.** No podía resolver la pregunta del evangelismo apilando citas, así que armé primero un método: cuatro cajas para que las categorías no se filtren, una secuencia para trabajar un pasaje que termina en una prueba, una regla contra confundir texto, interpretación, correlación histórica e hipótesis, una escala de cuatro palabras para la evidencia, y una pregunta de diagnóstico sobre si estoy leyendo o reconociendo. Una cosa se rompió enseguida: el modelo lineal daba a entender que toda investigación debe empezar en la Escritura, lo cual era falso, y se rehízo como ciclo con la puerta abierta.
+**Dónde nos deja esto.** No podía resolver la pregunta del evangelismo apilando citas, así que armé primero un método: cuatro cajas para que las categorías no se filtren, una secuencia para trabajar un pasaje que termina en una prueba, una regla contra confundir texto, interpretación, correlación histórica e hipótesis, una escala de cuatro palabras para la evidencia, y una pregunta de diagnóstico sobre si estoy leyendo o reconociendo. Una cosa se rompió enseguida: el modelo lineal daba a entender que toda investigación debe empezar en la Escritura, lo cual era falso, y se rehízo como ciclo con la puerta abierta.
 :::
 
 ::: earned
-**Qué se ganó.** Ahora la pregunta se puede hacer bien. ¿Qué dice realmente la comisión, y quién estaba en la habitación?
+**La pregunta que esto deja.** Ahora la pregunta se puede hacer bien. ¿Qué dice realmente la comisión, y quién estaba en la habitación?
 :::

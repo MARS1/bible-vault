@@ -28,7 +28,7 @@ Una de las dos no sobrevive y la otra necesita matices, y quiero ser exacto sobr
 
 De mi lado muere el uso que yo le estaba dando a los dones diferenciados: que por no ser evangelista, la proclamación no tiene nada que ver conmigo. Eso lo mata Hechos 8:4, como recorrí dos capítulos atrás. Los apóstoles se quedaron. Los creyentes comunes que salieron huyendo anunciaron. Sea lo que sea que además resulte cierto, esa frase existe, y el hombre que me la citó no hizo mal en citármela.
 
-Fíjate en lo que eso no resuelve. No me dice que la comisión apostólica y el testimonio ordinario sean la misma cosa, y la Parte VII de este libro le dedica bastante espacio a la diferencia.
+Fíjate en lo que eso no resuelve. No me dice que la comisión apostólica y el testimonio ordinario sean la misma cosa, y la Parte IV de este libro le dedica bastante espacio a la diferencia.
 
 De su lado lo que queda matizado es bastante menos de lo que a mí me convendría, y aquí hay que tener cuidado, porque sería fácil regalarme una victoria más limpia de la que da la evidencia.
 
@@ -61,14 +61,14 @@ Este es buen momento para frenar y decir exactamente qué carga ese versículo, 
 ::: evidence
 **Qué sostiene Hechos 8**
 
-**EXIGE** — la proclamación no estaba restringida a los apóstoles. Hechos 8:1 deja a los apóstoles fuera del esparcimiento; Hechos 8:4 pone a los esparcidos anunciando la palabra. Eso es explícito y no se negocia.
+<span class="grade">exige</span> — la proclamación no estaba restringida a los apóstoles. Hechos 8:1 deja a los apóstoles fuera del esparcimiento; Hechos 8:4 pone a los esparcidos anunciando la palabra. Eso es explícito y no se negocia.
 
-**APOYA** — que la proclamación se extendía más allá de un oficio apostólico estrictamente definido, que era justamente el punto que yo necesitaba y no tenía.
+<span class="grade">apoya</span> — que la proclamación se extendía más allá de un oficio apostólico estrictamente definido, que era justamente el punto que yo necesitaba y no tenía.
 
-**NO ESTABLECE** — que ninguno de esos creyentes esparcidos tuviera un llamado particular. Que Lucas no diga qué comisión creían tener es silencio, no prueba de ausencia. Y el capítulo mismo va en contra de la lectura fuerte: Felipe está ahí, en Hechos 8, bajando a Samaria y proclamando, y trece capítulos después Lucas lo llama *Felipe el evangelista*.
+**No establece** — que ninguno de esos creyentes esparcidos tuviera un llamado particular. Que Lucas no diga qué comisión creían tener es silencio, no prueba de ausencia. Y el capítulo mismo va en contra de la lectura fuerte: Felipe está ahí, en Hechos 8, bajando a Samaria y proclamando, y trece capítulos después Lucas lo llama *Felipe el evangelista*.
 :::
 
-Un borrador anterior tenía este punto al revés. Escribí que los que anunciaban en Hechos 8 eran aquellos a quienes Lucas no identifica por función, y cuatro páginas después cité Hechos 21:8 llamando a Felipe el evangelista. Las dos frases estaban en el mismo capítulo. Una de las dos tenía que irse, y no era la que venía con un versículo.
+Al principio tenía este punto al revés. Tenía a los que anunciaban en Hechos 8 como aquellos a quienes Lucas no identifica por función, mientras que Hechos 21:8 llama a uno de ellos Felipe el evangelista. Las dos afirmaciones no podían sostenerse juntas. Una de las dos tenía que irse, y no era la que venía con un versículo.
 
 Yo estaba usando la primera pregunta para contestar la segunda. Ese era el error de fondo, era mío, y llevaba años resultándome cómodo.
 
@@ -130,18 +130,16 @@ Hay una segunda mitad de la pregunta que originó todo esto, y llevo cinco capí
 
 La conversación tenía dos mitades. La primera era el evangelismo. La segunda era la que entró de costado: ¿cómo termina alguien leyendo la profecía como algo cumplido y no como algo pendiente?
 
-Ya tenía un método. Lo había visto corregirme dos veces y afilarse una a lo largo de cinco etapas. Ya no me quedaba ninguna excusa honesta para seguir dejando quieta la segunda pregunta.
+Ya tenía un método. Lo había visto corregirme dos veces y afilarse una a lo largo de cinco capítulos. Ya no me quedaba ninguna excusa honesta para seguir dejando quieta la segunda pregunta.
 
 Así que fui a Mateo 24, que llevaba años citando y que nunca había leído entero, en orden, con la audiencia a la vista.
 
 Iba esperando confirmar lo que ya pensaba.
 
----
-
 ::: whereweare
-**Dónde estamos.** Las dos posiciones de esa conversación no corrieron la misma suerte. La mía se cayó contra texto explícito; la suya necesitaba matices y no refutación, y decir otra cosa sería la frase más halagadora que tengo a mano. Lo que las reemplaza es una distinción y no una regla: el ministerio se reparte de manera desigual y nadie está obligado a ser evangelista, mientras que el testimonio es otra pregunta, y Hechos 8:4 hace difícil contestarla con un silencio hecho política. Dos argumentos que me habrían servido quedaron afuera, uno por un asunto de manuscritos y otro por dar por sentada su propia conclusión. El método corrigió a su autor y no a un oponente, que es la única prueba real de que era un método.
+**Dónde nos deja esto.** Las dos posiciones de esa conversación no corrieron la misma suerte. La mía se cayó contra texto explícito; la suya necesitaba matices y no refutación, y decir otra cosa sería la frase más halagadora que tengo a mano. Lo que las reemplaza es una distinción y no una regla: el ministerio se reparte de manera desigual y nadie está obligado a ser evangelista, mientras que el testimonio es otra pregunta, y Hechos 8:4 hace difícil contestarla con un silencio hecho política. Dos argumentos que me habrían servido quedaron afuera, uno por un asunto de manuscritos y otro por dar por sentada su propia conclusión. El método corrigió a su autor y no a un oponente, que es la única prueba real de que era un método.
 :::
 
 ::: earned
-**Qué se ganó.** El fundamento está puesto y la segunda mitad de la pregunta original sigue ahí, esperando. Mateo 24, leído entero, con la audiencia a la vista.
+**La pregunta que esto deja.** El fundamento está puesto y la segunda mitad de la pregunta original sigue ahí, esperando. Mateo 24, leído entero, con la audiencia a la vista.
 :::

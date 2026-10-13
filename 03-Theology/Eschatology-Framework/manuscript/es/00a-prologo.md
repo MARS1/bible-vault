@@ -65,7 +65,7 @@ Si un método nunca le cuesta nada a quien lo construyó, no es un método. Es u
 
 Y eso es este libro: una investigación llevada adelante en orden, sin borrar los fracasos.
 
-Me vas a ver equivocarme con un verbo griego y corregirlo, y vas a ver que la corrección terminó dándome mejor evidencia que el error, evidencia que además apuntaba en contra de la lectura que yo prefería. Vas a ver una teoría que me habría encantado que fuera cierta investigada durante tres etapas y descartada, porque la evidencia a su favor era débil, y porque no puedo exigir evidencia fuerte cuando la idea es ajena y conformarme con poco cuando es mía.
+Me vas a ver equivocarme con un verbo griego y corregirlo, y vas a ver que la corrección terminó dándome mejor evidencia que el error, evidencia que además apuntaba en contra de la lectura que yo prefería. Vas a ver una teoría que me habría encantado que fuera cierta investigada a fondo y descartada, porque la evidencia a su favor era débil y la evidencia en contra resultó decisiva, y porque no puedo exigir evidencia fuerte cuando la idea es ajena y conformarme con poco cuando es mía.
 
 También me vas a ver llegar al final sin la respuesta que la gente más quiere.
 
