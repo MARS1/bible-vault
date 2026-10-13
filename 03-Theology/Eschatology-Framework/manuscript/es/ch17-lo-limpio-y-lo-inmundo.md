@@ -55,7 +55,7 @@ Y después el paréntesis del que todo depende.
 ::: textualnote
 **Nota textual — Marcos 7:19, y lo que la RVR1960 conserva**
 
-El griego es <span class="gr">καθαρίζων πάντα τὰ βρώματα</span> *(katharizōn panta ta brōmata)*, algo así como *limpiando todos los alimentos*. <span class="gr">καθαρίζων</span> es un participio. El griego no contiene un "él declaró" explícito.
+El griego es <span class="gr">καθαρίζων πάντα τὰ βρώματα</span> (*katharizōn panta ta brōmata*), algo así como *limpiando todos los alimentos*. <span class="gr">καθαρίζων</span> (*katharizōn*) es un participio. El griego no contiene un "él declaró" explícito.
 
 - **ESV:** "(Thus **he declared** all foods clean.)" — suministra sujeto y verbo declarativo
 - **NIV:** "(In saying this, **Jesus declared** all foods clean.)" — suministra el sujeto por nombre
@@ -73,7 +73,7 @@ Y el interés corre en las dos direcciones, cosa que conviene decir. La CJB es u
 **Así que la RVR1960 preserva mejor la forma participial, pero no resuelve por sí sola la cuestión sintáctica.** Es una ventaja real y acotada: el lector hispano ve un participio donde otros ven una conclusión, y eso no es lo mismo que ver el griego sin intermediarios.
 :::
 
-Y una segunda pregunta sobrevive aunque la lectura declarativa sea la correcta: ¿qué quiere decir Marcos con *alimentos*, <span class="gr">βρώματα</span> *(brōmata)*? ¿Toda criatura biológica es ahora alimento, o todo lo ya clasificado como alimento no puede contaminar moralmente a alguien por contacto ritual de las manos? No son la misma afirmación, y resolver la gramática no resolvería el referente.
+Y una segunda pregunta sobrevive aunque la lectura declarativa sea la correcta: ¿qué quiere decir Marcos con *alimentos*, <span class="gr">βρώματα</span> (*brōmata*)? ¿Toda criatura biológica es ahora alimento, o todo lo ya clasificado como alimento no puede contaminar moralmente a alguien por contacto ritual de las manos? No son la misma afirmación, y resolver la gramática no resolvería el referente.
 
 ## Pedro, que no me dejó usar la respuesta fácil
 
@@ -92,9 +92,9 @@ Y entonces Lucas hace algo que me sacó el argumento de las manos: deja que Pedr
 Pedro no dice que Dios le mostró que los cerdos son limpios. Dice que no debe llamar común o inmundo a ningún **ser humano**. Y cuando abre la boca en casa de Cornelio, lo que sale es que Dios no hace acepción de personas, y que en toda nación le es acepto el que le teme y hace justicia.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**La visión de Pedro: lo que Lucas hace explícito**
 
-Que el propósito narrativo primario de la visión de Pedro sea la inclusión de los gentiles está **ESTABLECIDO** con confianza muy alta, y no por preferencia mía: Lucas pone la interpretación del propio Pedro dentro del relato.
+Que el propósito narrativo primario de la visión de Pedro sea la inclusión de los gentiles está **establecido** con confianza muy alta, y no por preferencia mía: Lucas pone la interpretación del propio Pedro dentro del relato.
 :::
 
 ::: finding
@@ -108,9 +108,9 @@ Así que sobrevive una pregunta legítima: ¿Jehová usa la imaginería alimenta
 :::
 
 ::: commentary
-**Comentario del investigador — la mesa de Daniel, y dos cosas que yo recordaba mal**
+**La mesa de Daniel, y dos cosas que yo recordaba mal**
 
-Inserté esto antes de leer Romanos 14 y no después, porque Daniel no es aquí una referencia cruzada. Es el precedente bíblico anterior para exactamente la clase de problema alimentario que plantea Romanos 14, y encontrar al creyente de conciencia débil de Pablo sin ninguna categoría bíblica para él habría sido leer en el orden equivocado.
+Esto va antes de Romanos 14 y no después, porque Daniel no es aquí una referencia cruzada. Es el precedente bíblico anterior para exactamente la clase de problema alimentario que plantea Romanos 14, y encontrar al creyente de conciencia débil de Pablo sin ninguna categoría bíblica para él habría sido leer en el orden equivocado.
 
 Dos correcciones a lo que yo creía saber, las dos registradas porque la versión corregida es mejor que la recordada.
 
@@ -130,7 +130,7 @@ Las cuatro prohibiciones del concilio caen sobre lo sacrificado a ídolos, la sa
 Y fíjate en lo que Hechos 15 no dice. No dice que los gentiles queden libres de toda otra consideración, y no dice que los creyentes judíos queden liberados de nada. Responde la pregunta que se hizo, que era sobre una condición de entrada, y se abstiene de responder varias que no se hicieron.
 
 ::: commentary
-**Comentario del investigador — Hechos 21, y un rumor que Santiago le pide a Pablo desmentir**
+**Hechos 21, y un rumor que Santiago le pide a Pablo desmentir**
 
 Décadas después de aquel concilio, Lucas informa de muchos millares de creyentes judíos en Jerusalén, todos celosos por la ley. E informa de un rumor circulando: que Pablo enseña a los judíos entre los gentiles a apartarse de Moisés.
 
@@ -142,7 +142,7 @@ Yo tenía un marco que no podía sostener eso con comodidad. Así que hice lo qu
 :::
 
 ::: commentary
-**Comentario del investigador — la solución elegante que mató Números 6:14**
+**La solución elegante que mató Números 6:14**
 
 Aquí está el intento, y lo conservo porque el fracaso me enseñó más de lo que me habría enseñado un acierto.
 
@@ -150,7 +150,7 @@ El problema: si Hebreos presenta el sacrificio del Mesías como hecho una vez pa
 
 Mi solución era segregar los tipos de ofrenda. Pablo, razonaba yo, participó solo de un rito de terminación inofensivo — una ofrenda de acción de gracias o de voto, nada expiatorio. Ordenado, y preservaba todo lo que yo quería.
 
-Después leí Números 6 en vez de suponerlo. **Números 6:14 incluye un <span class="he">חַטָּאת</span> *(ḥaṭṭāʾt)*** en la terminación del nazareato, junto a las ofrendas de holocausto, de paz, de cereal, de libación y mecida.
+Después leí Números 6 en vez de suponerlo. **Números 6:14 incluye un <span class="he">חַטָּאת</span> (*ḥaṭṭāʾt*)** en la terminación del nazareato, junto a las ofrendas de holocausto, de paz, de cereal, de libación y mecida.
 
 La solución estaba muerta. Y lo que su muerte expuso era peor que el problema original: **yo venía aplanando "sacrificio" en una sola categoría.** Holocausto, cereal, paz, purificación, reparación, acción de gracias y ofrendas votivas hacen cosas distintas. Yo trataba la palabra como si nombrara un solo acto.
 
@@ -160,7 +160,7 @@ Así que participar de un rito que contiene un *ḥaṭṭāʾt* **no** establec
 
 La pregunta quirúrgica queda abierta: ¿qué función cumplía en realidad la ofrenda de purificación de Números 6? Eso exige trabajar Números 6 ofrenda por ofrenda, antes de que nadie decida si Hechos 21 contradice a Hebreos — o si la contradicción la está fabricando quien importa a un texto del primer siglo una definición posterior y aplanada de *sacrificio*.
 
-Registrado según la regla que este proyecto se dio a sí mismo: un intento fallido que expuso un error real se queda en el libro.
+Se conserva según la regla que esta investigación se dio a sí misma: un intento fallido que expuso un error real se queda en el libro.
 :::
 
 ## Romanos 14, y un par de palabras que importa
@@ -168,7 +168,7 @@ Registrado según la regla que este proyecto se dio a sí mismo: un intento fall
 Romanos 14 es donde yo esperaba que el argumento terminara, y no termina.
 
 ::: wordstudy
-**Lengua original**
+***Koinos* y *akathartos* en Romanos 14:14**
 
 <span class="gr">κοινός</span> · *koinos* · común, ordinario — y por extensión *contaminado por asociación o por uso*
 
@@ -190,9 +190,9 @@ Tengo una distinción anterior a Israel y con función sacrificial antes que ali
 No es un resultado ordenado. Es uno honesto, y la alternativa que tenía a mano era quedarme con los dos versículos con los que empecé y llamarlo resuelto — que es exactamente lo que venía haciendo durante años.
 
 ::: whereweare
-**Dónde estamos.** La distinción limpio/inmundo es anterior a Israel y empieza siendo sacrificial. El paréntesis decisivo de Marcos 7 suministra un declarativo que el griego no tiene, y la RVR1960 conserva la construcción participial sin por eso resolver la sintaxis; la ausencia de un sujeto repetido no establece por sí sola la lectura alternativa, que exige análisis sintáctico y discursivo. Pedro interpreta su propia visión como referida a personas, sin que por eso la imaginería alimentaria quede vacía. Hechos 15 reconecta con Noé sin liberar a nadie de nada que no se le haya preguntado. Y un intento fallido sobre Hechos 21 expuso que yo trataba siete clases de ofrenda como una sola palabra.
+**Dónde nos deja esto.** La distinción limpio/inmundo es anterior a Israel y empieza siendo sacrificial. El paréntesis decisivo de Marcos 7 suministra un declarativo que el griego no tiene, y la RVR1960 conserva la construcción participial sin por eso resolver la sintaxis; la ausencia de un sujeto repetido no establece por sí sola la lectura alternativa, que exige análisis sintáctico y discursivo. Pedro interpreta su propia visión como referida a personas, sin que por eso la imaginería alimentaria quede vacía. Hechos 15 reconecta con Noé sin liberar a nadie de nada que no se le haya preguntado. Y un intento fallido sobre Hechos 21 expuso que yo trataba siete clases de ofrenda como una sola palabra.
 :::
 
 ::: earned
-**Qué se ganó.** Ningún veredicto, y un conjunto de preguntas más afilado que el que traía. La institución siguiente es la única con un reclamo de ordenanza de creación adjunto, que ninguna de las otras tenía — y es aquella donde una palabra griega que el Nuevo Testamento usa exactamente una vez va a tener que cargar mucho peso.
+**La pregunta que esto deja.** Ningún veredicto, y un conjunto de preguntas más afilado que el que traía. La institución siguiente es la única con un reclamo de ordenanza de creación adjunto, que ninguna de las otras tenía — y es aquella donde una palabra griega que el Nuevo Testamento usa exactamente una vez va a tener que cargar mucho peso.
 :::

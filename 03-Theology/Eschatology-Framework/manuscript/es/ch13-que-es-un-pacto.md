@@ -24,14 +24,14 @@ Te lo digo en vez de renumerar en silencio, porque la distancia entre esos dos �
 
 ## Las palabras
 
-Hebreo: **בְּרִית** *(berit)*. Griego, tanto en la Septuaginta como en el Nuevo Testamento: **διαθήκη** *(diathēkē)*.
+Hebreo: <span class="he">בְּרִית</span> (*berit*, pacto). Griego, tanto en la Septuaginta como en el Nuevo Testamento: <span class="gr">διαθήκη</span> (*diathēkē*).
 
 Una definición de trabajo, que voy a sostener con la holgura suficiente como para poder corregirla:
 
 > Un pacto bíblico es una relación solemne y vinculante establecida mediante compromisos o promesas, que típicamente involucra partes determinadas, obligaciones, señales, bendiciones, consecuencias y a veces un juramento o un sacrificio.
 
 ::: wordstudy
-**Lengua original**
+**Cortar un pacto**
 
 <span class="he">כָּרַת בְּרִית</span> · *karat berit* · literalmente **cortar un pacto**
 
@@ -80,21 +80,17 @@ Y el sábado, a Israel:
 
 > Señal es para siempre entre mí y los hijos de Israel (Éxodo 31:17)
 
-Fíjate en qué ancla Éxodo 31:17. La creación, no solo el Sinaí. Lo señalo y deliberadamente no lo gasto aquí; es un dato para el capítulo del sábado, y cobrarlo antes de tiempo sería exactamente la clase de maniobra que este libro no deja de rechazar.
+Fíjate en qué ancla Éxodo 31:17. La creación, no solo el Sinaí. Lo señalo y deliberadamente lo dejo a un lado aquí; es un dato para el capítulo del sábado, y usarlo antes de tiempo sería exactamente la clase de maniobra que este libro no deja de rechazar.
 
-::: textualnote
-**Nota textual — una deuda declarada**
-
-No tengo verificado el texto de la RVR1960 para Génesis 9:12-16 ni para Génesis 15:18 en la documentación de este proyecto, así que esos pasajes se describen en vez de citarse. La regla de esta edición prohíbe traducir al español una cita tomada de una Biblia inglesa. Las citas verbatim quedan pendientes y registradas.
-:::
+<!-- SPANISH-SPECIFIC: No tengo verificado el texto de la RVR1960 para Génesis 9:12-16 ni para Génesis 15:18 en la documentación de este proyecto, así que esos pasajes se describen en vez de citarse. La regla de esta edición prohíbe traducir al español una cita tomada de una Biblia inglesa. Las citas verbatim quedan pendientes y registradas. -->
 
 ## El hallazgo que produjo este capítulo, y que yo no estaba buscando
 
-Después, mientras ponía esas tres señales una al lado de la otra, apareció algo que ni la etapa de la circuncisión ni mis propias notas sobre la palabra *olam* habían detectado.
+Después, mientras ponía esas tres señales una al lado de la otra, apareció algo que ni el trabajo sobre la circuncisión ni mis propias notas sobre la palabra *olam* habían detectado.
 
 La misma frase hebrea está pegada a las tres.
 
-**בְּרִית עוֹלָם** *(berit olam)*. Está en Génesis 9:16 del arco iris. Está en Génesis 17:13 de la circuncisión. Está en Éxodo 31:16 del sábado.
+<span class="he">בְּרִית עוֹלָם</span> (*berit olam*). Está en Génesis 9:16 del arco iris. Está en Génesis 17:13 de la circuncisión. Está en Éxodo 31:16 del sábado.
 
 Tres instituciones. Una frase. Y tres tratamientos completamente distintos, en toda tradición que yo conozca, incluida la mía.
 
@@ -111,15 +107,15 @@ Es decir: quien lee en castellano puede ver que es la misma frase sin saber hebr
 :::
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+***Berit olam* sobre tres instituciones**
 
 Que *berit olam* esté pegada a las tres es **TEXTO EXPLÍCITO**.
 
-**EXIGE** la conclusión de que *olam*, por sí sola, no puede determinar cómo funciona ninguna de estas instituciones bajo desarrollos pactuales posteriores. La frase es idéntica; las preguntas que plantea cada institución no lo son, y la frase no distingue entre ellas.
+<span class="grade">exige</span> la conclusión de que *olam*, por sí sola, no puede determinar cómo funciona ninguna de estas instituciones bajo desarrollos pactuales posteriores. La frase es idéntica; las preguntas que plantea cada institución no lo son, y la frase no distingue entre ellas.
 
 Tengo que ser cuidadoso con cómo enuncio la segunda mitad, porque aquí es fácil excederse y estuve a punto de hacerlo. Lo que Hechos 15 rechaza es imponerles la circuncisión a los gentiles como requisito de salvación y de inclusión en el pacto. Eso **no** es lo mismo que la Escritura anunciando que el *berit olam* abrahámico terminó, y no tengo permiso para deslizarme de lo primero a lo segundo porque ordenaría el argumento.
 
-**NO ESTABLECE** que *olam* signifique "temporal". Ese sería el error opuesto, y es el que yo habría cometido un año antes. Lo que establece es más estrecho y más útil: *olam* no es la palabra decisiva que los argumentos de ambos lados dan por sentado que es.
+**No establece** que *olam* signifique "temporal". Ese sería el error opuesto, y es el que yo habría cometido un año antes. Lo que establece es más estrecho y más útil: *olam* no es la palabra decisiva que los argumentos de ambos lados dan por sentado que es.
 :::
 
 ## Los pactos se acumulan, pero "anexo" no es la palabra
@@ -131,7 +127,7 @@ Hay algo genuinamente bíblico en ese instinto, y necesita una corrección. *Ane
 El pacto con Noé no es un primer intento fallido, y no desaparece cuando llega Abraham. El Sinaí no es Abraham versión dos; está conectado con Abraham y es distinto de él. David no borra a Abraham. La historia se vuelve más específica a medida que avanza, concentrándose hacia el Mesías en vez de ser reemplazada en cada paso.
 
 ::: historical
-**Contexto histórico**
+**El pacto como forma del antiguo Cercano Oriente**
 
 El pacto, en el Cercano Oriente antiguo, era una forma legal y política reconocible, usada entre reyes y entre un rey y un pueblo sometido. Sus elementos —partes nombradas, estipulaciones, testigos, bendiciones por lealtad, maldiciones por traición, una ceremonia de ratificación— aparecen en los documentos de tratado de la región. Las Escrituras de Israel usan esa forma reconocible y ponen a Jehová dentro de ella. Reconocer la forma no es reducir la revelación a política; es notar el vocabulario que los primeros oyentes ya tenían.
 :::
@@ -150,7 +146,7 @@ Pero fíjate en lo que Jehová no dice. No hay ninguna frase en el pasaje anunci
 
 > Daré mi ley en su mente, y la escribiré en su corazón (Jeremías 31:33)
 
-Así que las dos cosas están de pie a la vez. Las partes son las mismas: Jehová, Israel, Judá. Jehová sigue llamando **mía** a la instrucción que escribe dentro de ellos — <span class="he">תּוֹרָתִי</span> *(torati)*, "mi Torá" —, y eso es explícito. La fórmula de la relación es la misma: *yo seré a ellos por Dios, y ellos me serán por pueblo*. Y frente a eso, es genuinamente nuevo, genuinamente distinto del pacto del éxodo, y trata con un pacto genuinamente quebrantado.
+Así que las dos cosas están de pie a la vez. Las partes son las mismas: Jehová, Israel, Judá. Jehová sigue llamando **mía** a la instrucción que escribe dentro de ellos — <span class="he">תּוֹרָתִי</span> (*torati*), "mi Torá" —, y eso es explícito. La fórmula de la relación es la misma: *yo seré a ellos por Dios, y ellos me serán por pueblo*. Y frente a eso, es genuinamente nuevo, genuinamente distinto del pacto del éxodo, y trata con un pacto genuinamente quebrantado.
 
 Lo que el pasaje **no** hace es enumerar cómo funciona cada mandamiento bajo el pacto nuevo. Nombra la instrucción como suya y la reubica; no me dice que cada elemento de la legislación mosaica continúe exactamente en la misma forma pactual. Decir que sí sería el Colapso de Categorías que estoy por pasarme cinco capítulos rechazando.
 
@@ -159,7 +155,7 @@ Lo que el pasaje **no** hace es enumerar cómo funciona cada mandamiento bajo el
 
 Conviene que el lector hispano lo sepa, porque el castellano empuja más fuerte que el original en una dirección concreta.
 
-El hebreo es *torati*, de **תּוֹרָה** *(torah)*, que es instrucción o enseñanza antes que legislación. La RVR1960 traduce *mi ley*, que es una traducción legítima y también más estrecha: *ley* trae consigo un marco jurídico que *instrucción* no impone.
+El hebreo es *torati*, de <span class="he">תּוֹרָה</span> (*torah*), que es instrucción o enseñanza antes que legislación. La RVR1960 traduce *mi ley*, que es una traducción legítima y también más estrecha: *ley* trae consigo un marco jurídico que *instrucción* no impone.
 
 Esto no cambia el argumento. Lo refuerza en la dirección de la contención: si en castellano el versículo ya suena a *ley*, la tentación de leerlo como un índice de mandamientos vigentes es todavía mayor, y el pasaje sigue sin enumerar ni uno solo.
 :::
@@ -175,9 +171,9 @@ El pasaje sostiene las dos. Una lectura que necesita que una mitad desaparezca m
 Esa es la corrección que este capítulo le hace a mi propio lenguaje anterior. Yo venía diciendo *una sola historia de pacto*. Es demasiado plano. Lo que da la Escritura es **una sola historia pactual que contiene varios pactos, culminando en el Mesías** — lo cual evita los dos errores opuestos de fingir que nada cambió y de fingir que la historia cambió de dueño.
 
 ::: whereweare
-**Dónde estamos.** Pacto, mandamiento, promesa y señal son cuatro cosas y no una, y separarlas es lo que hace posible el resto de esta Parte. *Berit olam* está sobre el arco iris, sobre la circuncisión y sobre el sábado, que reciben tres tratamientos distintos — así que la frase no puede resolver ninguno de los tres, y *olam* no es la palabra decisiva que ambos lados suponen. Los pactos se acumulan sin ser anexos de un contrato, y Jeremías 31 es a la vez genuinamente nuevo y genuinamente continuo, sin que ninguna mitad tenga permiso para tragarse a la otra.
+**Dónde nos deja esto.** Pacto, mandamiento, promesa y señal son cuatro cosas y no una, y separarlas es lo que hace posible el resto de esta Parte. *Berit olam* está sobre el arco iris, sobre la circuncisión y sobre el sábado, que reciben tres tratamientos distintos — así que la frase no puede resolver ninguno de los tres, y *olam* no es la palabra decisiva que ambos lados suponen. Los pactos se acumulan sin ser anexos de un contrato, y Jeremías 31 es a la vez genuinamente nuevo y genuinamente continuo, sin que ninguna mitad tenga permiso para tragarse a la otra.
 :::
 
 ::: earned
-**Qué se ganó.** Ya existen las herramientas. Así que la pregunta que abrió esta Parte por fin se puede hacer de una forma que admita respuesta: cuando la Escritura dice que vino un pacto nuevo, ¿qué dice específicamente que cambió?
+**La pregunta que esto deja.** Ya existen las herramientas. Así que la pregunta que abrió esta Parte por fin se puede hacer de una forma que admita respuesta: cuando la Escritura dice que vino un pacto nuevo, ¿qué dice específicamente que cambió?
 :::

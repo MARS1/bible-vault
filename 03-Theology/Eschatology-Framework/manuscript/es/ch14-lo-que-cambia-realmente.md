@@ -37,7 +37,7 @@ La precisión que sobrevive es esta: **una sola historia pactual que contiene va
 > Daré mi ley en su mente, y la escribiré en su corazón (Jeremías 31:33)
 
 ::: wordstudy
-**Lengua original**
+**Jeremías 31:33: adónde va la Torá**
 
 <span class="he">נָתַתִּי אֶת־תּוֹרָתִי בְּקִרְבָּם</span> · *natatti et-torati beqirbam* · "pondré mi Torá **dentro de ellos**"
 
@@ -79,7 +79,7 @@ Sin resolver. Lo registro porque es un costo genuino para cualquier lectura —i
 
 Una consulta directa de "Jeremías 31:33" en la CJB devuelve el texto que la ESV y la RVR1960 numeran como 31:34. El desfase en este tramo es exactamente de un versículo.
 
-Lo registro porque lo descubrí por el camino caro: un primer intento de traer la CJB en 31:34 devolvió el pasaje del sol, la luna y las estrellas, que es el 31:35 de las otras. Quien coteje una cita de la CJB en Jeremías 31 contra este capítulo debe cotejar el texto, nunca el número solo.
+Quien coteje una cita de la CJB en Jeremías 31 contra este capítulo debe cotejar el texto, nunca el número solo.
 :::
 
 ## Ezequiel 36, que complica un modelo que yo traía
@@ -105,11 +105,11 @@ Imaginería de resurrección, aplicada por el texto mismo a la restauración de 
 Y después el detalle que corta contra una lectura simple de *la instrucción quedó descartada*, que yo sostenía a medias sin examinarla. Ezequiel 37:24 pone **andarán en mis preceptos** *dentro* de la promesa del pacto perpetuo, junto al único rey. El guardar la instrucción no aparece allí como lo que se deja atrás. Aparece como un rasgo del estado restaurado.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**Ezequiel 37:24: el andar en los preceptos dentro del pacto perpetuo**
 
-La ubicación en Ezequiel 37:24 del andar en los preceptos dentro del pacto perpetuo es **TEXTO EXPLÍCITO**, y **APOYA** la lectura de instrucción interiorizada y no borrada de Jeremías 31:33, desde un profeta independiente.
+La ubicación en Ezequiel 37:24 del andar en los preceptos dentro del pacto perpetuo es texto explícito, y <span class="grade">apoya</span> la lectura de instrucción interiorizada y no borrada de Jeremías 31:33, desde un profeta independiente.
 
-**NO ESTABLECE** cómo funciona después ningún mandamiento concreto. Establece la categoría, no el contenido.
+**No establece** cómo funciona después ningún mandamiento concreto. Establece la categoría, no el contenido.
 :::
 
 ## Y la parte de Ezequiel 37 que es un problema para mí
@@ -125,12 +125,12 @@ Un marco que lee el lenguaje del templo como algo que pasa en el primer siglo le
 ::: openquestion
 **Pregunta abierta — cuatro opciones vivas, ninguna elegida**
 
-(a) Cumplido en el Mesías, o en un pueblo habitado por el Espíritu como santuario — 2 Corintios 6:16 cita Ezequiel 37:27, y señalo esa cita como no verificada todavía por mí en vez de apoyarme en ella. (b) Cumplido parcial y condicionalmente en el período del Segundo Templo. (c) Todavía futuro. (d) Gobernado por la visión del templo de Ezequiel 40 a 48, que necesita su propia investigación.
+\(a) Cumplido en el Mesías, o en un pueblo habitado por el Espíritu como santuario — 2 Corintios 6:16 parece citar Ezequiel 37:27, una cita en la que este capítulo no se apoya. (b) Cumplido parcial y condicionalmente en el período del Segundo Templo. (c) Todavía futuro. (d) Gobernado por la visión del templo de Ezequiel 40 a 48, que necesita su propia investigación.
 
-Ezequiel 40 a 48 queda marcado y deliberadamente sin abrir aquí. Cobrarlo a mitad de capítulo repetiría exactamente el error que este proyecto evitó antes con Daniel 2.
+Ezequiel 40 a 48 queda a un lado y deliberadamente sin abrir aquí. Abrirlo a mitad de capítulo significaría decidir una pregunta grande dentro de una pequeña.
 :::
 
-Así que Jeremías 31, Ezequiel 36 y Ezequiel 37 van juntos — y juntos son más difíciles de sistematizar que cualquiera de ellos por separado. Ese es el informe honesto, y prefiero archivarlo así antes que producir un capítulo más ordenado.
+Así que Jeremías 31, Ezequiel 36 y Ezequiel 37 van juntos — y juntos son más difíciles de sistematizar que cualquiera de ellos por separado. Ese es el informe honesto, y prefiero dejarlo así antes que producir un capítulo más ordenado.
 
 ## El velo, con la costura a la vista
 
@@ -140,7 +140,7 @@ Esa es la observación, y la dirección no es un detalle: se lee como un acto de
 
 Pero Mateo no lo interpreta. Lo informa. El peso teológico de que ese hecho abrió el acceso viene de Hebreos 10:19 a 22, que habla de confianza para entrar por la sangre de Yeshua por un camino nuevo y vivo a través del velo.
 
-Dejo esa costura a la vista a propósito. Este proyecto no está inventando simbolismo alrededor de la frase de Mateo; un escritor apostólico desarrolla la relación, y la diferencia entre *el texto dice* y *un apóstol concluye* no la puedo difuminar solo porque las dos caigan donde me conviene.
+Dejo esa costura a la vista a propósito. Este libro no está inventando simbolismo alrededor de la frase de Mateo; un escritor apostólico desarrolla la relación, y la diferencia entre *el texto dice* y *un apóstol concluye* no la puedo difuminar solo porque las dos caigan donde me conviene.
 
 ## Lo cual cambia la pregunta del sacerdocio
 
@@ -159,7 +159,7 @@ Zacarías 6:12 y 13 parecen, en una primera lectura, los profetas trabajando ya 
 Me gustaría usar eso. No lo voy a hacer.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia — contraevidencia, impresa**
+**Zacarías 6:13: contraevidencia, impresa**
 
 Las traducciones se separan en la cláusula decisiva. La ESV dice "a priest **on** his throne", *sobre* su trono, lo cual plausiblemente lo vuelve la misma figura. La CJB dice "a *cohen* **before** his throne", delante del trono. Y la RVR1960 dice **habrá sacerdote a su lado**.
 
@@ -171,9 +171,9 @@ El lector hispano recibe la lectura separada sin ambigüedad: *a su lado* no adm
 Esa es la misma disciplina que este libro aplicó al *this people* de la CJB en Mateo 24:34, y tiene que correr en las dos direcciones o no es una disciplina. Cuando las traducciones se separan en una cláusula que yo querría usar, la separación se imprime en vez de enterrarse.
 
 ::: whereweare
-**Dónde estamos.** El pacto nuevo se anuncia a Israel y a Judá, y los destinatarios no cambian. La instrucción se reubica en vez de descartarse — y esa frase no tiene permiso para pre-responder ni un solo mandamiento concreto. Ezequiel agrega que el Espíritu produce la fidelidad al pacto en vez de reemplazarla, y pone el andar en los preceptos dentro del pacto perpetuo. Quedan dos costos registrados contra mi propia posición: el conocimiento universal de Jeremías 31:34 y el santuario para siempre de Ezequiel. Y el caso del sacerdote-rey se apoya en el Salmo 110 y en Hebreos 7, y expresamente no en Zacarías 6.
+**Dónde nos deja esto.** El pacto nuevo se anuncia a Israel y a Judá, y los destinatarios no cambian. La instrucción se reubica en vez de descartarse — y esa frase no tiene permiso para pre-responder ni un solo mandamiento concreto. Ezequiel agrega que el Espíritu produce la fidelidad al pacto en vez de reemplazarla, y pone el andar en los preceptos dentro del pacto perpetuo. Quedan dos costos registrados contra mi propia posición: el conocimiento universal de Jeremías 31:34 y el santuario para siempre de Ezequiel. Y el caso del sacerdote-rey se apoya en el Salmo 110 y en Hebreos 7, y expresamente no en Zacarías 6.
 :::
 
 ::: earned
-**Qué se ganó.** Si la instrucción queda interiorizada y no borrada, entonces hay que tomar las instituciones de a una en vez de en bloque. La primera y más dura es aquella alrededor de la cual se construyó todo el sistema: el sacrificio, y el sacerdocio que lo llevaba.
+**La pregunta que esto deja.** Si la instrucción queda interiorizada y no borrada, entonces hay que tomar las instituciones de a una en vez de en bloque. La primera y más dura es aquella alrededor de la cual se construyó todo el sistema: el sacrificio, y el sacerdocio que lo llevaba.
 :::

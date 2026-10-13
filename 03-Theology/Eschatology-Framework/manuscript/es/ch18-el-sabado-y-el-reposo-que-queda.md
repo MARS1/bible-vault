@@ -14,7 +14,7 @@ related: "[[10-manuscript-architecture]], [[SYNC-LEDGER]], [[00w-sabbath-creatio
 
 De las instituciones de esta Parte, esta es la única con un reclamo que las otras no tienen: está enraizada en la creación antes de estarlo en el Sinaí.
 
-El capítulo 13 lo notó al pasar y deliberadamente no lo gastó. Aquí es donde se gasta.
+El capítulo 13 lo notó al pasar y deliberadamente lo dejó a un lado. Aquí es donde se retoma.
 
 ## Dos fundamentos, en dos lugares distintos
 
@@ -54,28 +54,26 @@ El freno, en la misma frase: esto no puede volverse un recurso para mantener abi
 
 ## Y entonces el vocabulario cambia en el versículo 9
 
-Durante casi todo el argumento Hebreos usa <span class="gr">κατάπαυσις</span> *(katapausis)* para reposo. En 4:9 deja de hacerlo.
+Durante casi todo el argumento Hebreos usa <span class="gr">κατάπαυσις</span> (*katapausis*) para reposo. En 4:9 deja de hacerlo.
 
 ::: wordstudy
-**Lengua original — y la laguna que tiene dentro**
+***Sabbatismos* en Hebreos 4:9, y lo que no pudo confirmarse**
 
 <span class="gr">ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ</span> — "Por tanto, queda un *sabbatismos* para el pueblo de Dios."
 
-<span class="gr">σαββατισμός</span> *(sabbatismos)* — **no** *katapausis* otra vez. Construida sobre la familia de palabras del sábado, y desplegada inmediatamente después de que el autor haya citado el reposo del día séptimo de Génesis. El cambio es deliberado y es evidencia real.
+<span class="gr">σαββατισμός</span> (*sabbatismos*) — **no** *katapausis* otra vez. Construida sobre la familia de palabras del sábado, y desplegada inmediatamente después de que el autor haya citado el reposo del día séptimo de Génesis. El cambio es deliberado y es evidencia real.
 
 El freno corre en las dos direcciones. La palabra **no** prueba automáticamente que Hebreos mande observar el sábado. Tampoco puede aplanarse en relajación espiritual genérica.
 
 **Las traducciones se dividen justo en esa línea.** La ESV lee *a Sabbath rest*, que se inclina hacia un *estado* en el que se entra. La CJB lee *a Shabbat-keeping*, que se inclina hacia una *observancia* que se practica. El léxico de Thayer registra los dos sentidos expresamente y se abstiene de elegir.
 
-⛔ **Y esto es lo que no pude verificar.** Me propuse establecer el uso atestiguado de *sabbatismos* desde fuentes primarias y no desde diccionarios teológicos. Hasta aquí llegó.
+**Lo que pudo y lo que no pudo confirmarse fuera del Nuevo Testamento.**
 
-**Establecido:** la palabra aparece **una sola vez** en el Nuevo Testamento griego, aquí. Thayer cita a Plutarco, *De Superstitione* c. 3, más escritos eclesiásticos, como atestiguación fuera del Nuevo Testamento.
+**Establecido:** la palabra aparece **una sola vez** en el Nuevo Testamento griego, aquí. El léxico de Thayer cita a Plutarco, *De Superstitione* c. 3, más escritos eclesiásticos, como atestiguación fuera del Nuevo Testamento.
 
-**No verificado:** una consulta en Perseus por *De Superstitione* §3 devolvió otro tratado por completo. Una búsqueda de texto completo localizó un pasaje sobre el sábado en esa obra — pero en **§8, no en §3**, y solo en traducción inglesa, con una redacción que podría verter varias construcciones griegas distintas.
+**No confirmado:** el pasaje sobre el sábado en esa obra de Plutarco está en el §8, no en el §3, y la palabra griega misma no se confirmó en ninguno de los dos lugares. Así que "*sabbatismos* está atestiguado en Plutarco" queda como **algo que reporta un léxico, no verificado de manera independiente.**
 
-Así que el diccionario cita §3; el material sobre el sábado que encontré está en §8; y **la palabra griega misma no quedó confirmada en ninguno de los dos.** El estatus de "*sabbatismos* está atestiguada en Plutarco" es, por tanto: **reportado por un léxico, no verificado independientemente por mí.**
-
-Para cerrarlo: obtener el texto griego de Plutarco *Moralia* 166A y confirmar si <span class="gr">σαββατισμούς</span> aparece realmente; después revisar las atestiguaciones eclesiásticas —el *Diálogo con Trifón* de Justino Mártir, Epifanio, las *Constituciones Apostólicas*— en griego, registrando cada una por autor, obra y sección.
+<!-- VERIFICATION TRAIL (se conserva, no se imprime): **Y esto es lo que no pude verificar.** Me propuse establecer el uso atestiguado de *sabbatismos* desde fuentes primarias y no desde diccionarios teológicos. Hasta aquí llegó. **Establecido:** la palabra aparece **una sola vez** en el Nuevo Testamento griego, aquí. Thayer cita a Plutarco, *De Superstitione* c. 3, más escritos eclesiásticos, como atestiguación fuera del Nuevo Testamento. **No verificado:** una consulta en Perseus por *De Superstitione* §3 devolvió otro tratado por completo. Una búsqueda de texto completo localizó un pasaje sobre el sábado en esa obra — pero en **§8, no en §3**, y solo en traducción inglesa, con una redacción que podría verter varias construcciones griegas distintas. Así que el diccionario cita §3; el material sobre el sábado que encontré está en §8; y **la palabra griega misma no quedó confirmada en ninguno de los dos.** El estatus de "*sabbatismos* está atestiguada en Plutarco" es, por tanto: **reportado por un léxico, no verificado independientemente por mí.** Para cerrarlo: obtener el texto griego de Plutarco *Moralia* 166A y confirmar si <span class="gr">σαββατισμούς</span> aparece realmente; después revisar las atestiguaciones eclesiásticas —el *Diálogo con Trifón* de Justino Mártir, Epifanio, las *Constituciones Apostólicas*— en griego, registrando cada una por autor, obra y sección. -->
 :::
 
 Imprimo esa laguna en el cuerpo del capítulo en vez de citar a Thayer discretamente, porque fue la primera vez que apliqué una regla que acababa de escribir, y la regla produjo de inmediato un agujero en lugar de una respuesta.
@@ -95,11 +93,11 @@ Quitando lo que no pude verificar, el contexto inmediato sigue dando bastante.
 Hebreos se dirige a un pueblo. Habla de un reposo que queda, en presente, a personas que ya son creyentes. Lo funda en Génesis 2 y no en el Sinaí. Y exhorta a sus lectores a esforzarse por entrar en él, que es una cosa extraña de decir sobre algo enteramente pasado o enteramente futuro.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+***Sabbatismos* después de Génesis 2**
 
-El cambio de vocabulario a *sabbatismos* en 4:9, inmediatamente después de una cita de Génesis 2, es **TEXTO EXPLÍCITO** y **APOYA** leer el reposo que queda como deliberadamente configurado por el sábado, y no como un término genérico para el descanso.
+El cambio de vocabulario a *sabbatismos* en 4:9, inmediatamente después de una cita de Génesis 2, es texto explícito y <span class="grade">apoya</span> leer el reposo que queda como deliberadamente configurado por el sábado, y no como un término genérico para el descanso.
 
-**NO ESTABLECE** ni que aquí se mande la observancia semanal ni que aquí se la abrogue. Hebreos 4 no está tratando esa pregunta, y un pasaje puede ser muy pertinente a un tema sin adjudicarlo.
+**No establece** ni que aquí se mande la observancia semanal ni que aquí se la abrogue. Hebreos 4 no está tratando esa pregunta, y un pasaje puede ser muy pertinente a un tema sin adjudicarlo.
 :::
 
 ## La respuesta precisa a la pregunta que la gente sí hace
@@ -127,9 +125,9 @@ Yo siempre había oído ese versículo citado como argumento de cierre. Leerlo d
 No resuelvo Colosenses aquí. Anoto que un versículo que yo usaba como conclusión resulta contener una expresión orientada hacia lo venidero de la que nunca me había hecho cargo.
 
 ::: whereweare
-**Dónde estamos.** El sábado está fundado en la creación y en el éxodo y nombrado como señal del pacto, lo que significa que hace más de una cosa y no se resuelve con un versículo. Hebreos 4 cambia deliberadamente al vocabulario del sábado en el momento decisivo, y las traducciones se dividen entre estado y observancia, con el léxico estándar absteniéndose de elegir. Mi intento de verificar la palabra fuera del Nuevo Testamento produjo una laguna documentada en vez de una respuesta, y la laguna se imprime aquí en vez de alisarse. Nacieron dos reglas: el cumplimiento no es agotamiento, y la escalada léxica. Ningún veredicto sobre la observancia semanal, porque el pasaje no la está tratando.
+**Dónde nos deja esto.** El sábado está fundado en la creación y en el éxodo y nombrado como señal del pacto, lo que significa que hace más de una cosa y no se resuelve con un versículo. Hebreos 4 cambia deliberadamente al vocabulario del sábado en el momento decisivo, y las traducciones se dividen entre estado y observancia, con el léxico estándar absteniéndose de elegir. Mi intento de verificar la palabra fuera del Nuevo Testamento produjo una laguna documentada en vez de una respuesta, y la laguna se imprime aquí en vez de alisarse. Nacieron dos reglas: el cumplimiento no es agotamiento, y la escalada léxica. Ningún veredicto sobre la observancia semanal, porque el pasaje no la está tratando.
 :::
 
 ::: earned
-**Qué se ganó.** Hebreos entregó la pregunta hacia adelante en medio de un argumento sobre un día: el reposo queda para *el pueblo de Dios*. Esa expresión viene haciendo trabajo silencioso a lo largo de toda esta Parte, y ya no se la puede dejar sin definir.
+**La pregunta que esto deja.** Hebreos entregó la pregunta hacia adelante en medio de un argumento sobre un día: el reposo queda para *el pueblo de Dios*. Esa expresión viene haciendo trabajo silencioso a lo largo de toda esta Parte, y ya no se la puede dejar sin definir.
 :::

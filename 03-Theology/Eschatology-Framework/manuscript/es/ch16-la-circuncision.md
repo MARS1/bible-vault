@@ -36,20 +36,16 @@ Y después Deuteronomio 30:6 dice que Jehová mismo lo hará: circuncidará tu c
 
 Mandato, y después promesa. La misma imagen usada primero como obligación y después como algo que Jehová se compromete a realizar. Jeremías más tarde la afila hasta volverla acusación, diciendo que la casa de Israel es incircuncisa de corazón — lo cual solo funciona como reproche si el sentido interior ya estaba establecido y se esperaba.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Los pasajes de Deuteronomio 10:16 y 30:6, Génesis 15:6, Hechos 16:3 y Gálatas 2:3-5 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados.
-:::
+<!-- SPANISH-SPECIFIC: Los pasajes de Deuteronomio 10:16 y 30:6, Génesis 15:6, Hechos 16:3 y Gálatas 2:3-5 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados. -->
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**La circuncisión llevada hacia adentro, dentro del Tanaj**
 
 Que la Escritura misma mueva la circuncisión hacia adentro, antes de que escriba ningún apóstol, es **TEXTO EXPLÍCITO** en Deuteronomio 10:16, Deuteronomio 30:6 y Jeremías 9.
 
-**APOYA** leer el lenguaje neotestamentario de la circuncisión del corazón como continuo con el vocabulario profético del propio Israel, y no como una reinterpretación nueva.
+<span class="grade">apoya</span> leer el lenguaje neotestamentario de la circuncisión del corazón como continuo con el vocabulario profético del propio Israel, y no como una reinterpretación nueva.
 
-**NO ESTABLECE** que la señal física cese por eso. Deuteronomio sostiene las dos a la vez y no trata el sentido interior como cancelación del exterior.
+**No establece** que la señal física cese por eso. Deuteronomio sostiene las dos a la vez y no trata el sentido interior como cancelación del exterior.
 :::
 
 ## Hechos 15, y enunciar la proposición con exactitud
@@ -106,20 +102,20 @@ Usar Romanos 2 como atajo para borrar al Israel étnico, mientras se dice estar 
 El caso más fuerte y más seguro para la incorporación de los gentiles es el injerto de Romanos 11, el acercamiento y la conciudadanía de Efesios 2, y la herencia abrahámica de Gálatas 3. Romanos 2 no es el texto portante y no hay que convertirlo en uno.
 :::
 
-## El versículo que protege todo el proyecto
+## El versículo que protege todo el argumento
 
 > La circuncisión nada es, y la incircuncisión nada es, sino el guardar los mandamientos de Dios (1 Corintios 7:19)
 
 Pablo pone las dos mitades en una sola frase, y la frase es la baranda. Impide que *la circuncisión física no se exige* se deslice hacia *la obediencia no importa*.
 
 ::: openquestion
-**Pregunta abierta — y yo tenía que cerrarla aquí**
+**Qué quiere decir Pablo con «los mandamientos de Dios»**
 
 ¿Qué quiere decir Pablo con "los mandamientos de Dios" si la circuncisión física fue mandada por Dios?
 
-No lo sé. Se esperaba que este capítulo lo resolviera o explicara por qué no puede, y la razón por la que no puede es concreta: Pablo nunca define la expresión en este contexto. Resolverlo exige reunir su uso a lo largo de las cartas, que es su propia investigación y no esta.
+No lo sé, y la razón es concreta: Pablo nunca define la expresión en este contexto. Resolverla exige reunir su uso a lo largo de las cartas, que es su propia investigación y no esta.
 
-Registrado como inconcluso en vez de tapado con una conjetura plausible.
+Queda abierta en vez de taparse con una conjetura plausible.
 :::
 
 ## Gálatas 3 lo lleva antes del Sinaí
@@ -132,7 +128,7 @@ No es una afirmación de que el Sinaí fuera un error. Es una afirmación sobre 
 
 ## Y ahora el problema que crea la circuncisión
 
-Génesis llama a la circuncisión **בְּרִית עוֹלָם** *(berit olam)* — en la RVR1960, *pacto perpetuo*, la misma expresión que el capítulo 13 encontró sobre el arco iris y sobre el sábado. Y su función pactual claramente se ve transformada en el Mesías.
+Génesis llama a la circuncisión <span class="he">בְּרִית עוֹלָם</span> (*berit olam*) — en la RVR1960, *pacto perpetuo*, la misma expresión que el capítulo 13 encontró sobre el arco iris y sobre el sábado. Y su función pactual claramente se ve transformada en el Mesías.
 
 Así que la presión es evidente, y el atajo también.
 
@@ -149,9 +145,9 @@ Lo que está en juego es mucho más que la circuncisión: *olam* se adhiere a es
 :::
 
 ::: whereweare
-**Dónde estamos.** La circuncisión es anterior al Sinaí y anterior a la justicia que sella. La Escritura la mueve hacia adentro por su cuenta, como mandato y después como promesa, mucho antes de que lo haga un apóstol. Hechos 15 rechaza una proposición concreta —la circuncisión como condición de salvación para los gentiles— y no la práctica, que es la razón por la que Pablo puede circuncidar a Timoteo y negarse con Tito sin contradecirse. A Romanos 2 deliberadamente no se le hace cargar más de lo que dice. Y el problema de *olam* está ahora sobre dos instituciones en vez de una, con el freno puesto y no soltado.
+**Dónde nos deja esto.** La circuncisión es anterior al Sinaí, pero la justicia que sella la precede. La Escritura la mueve hacia adentro por su cuenta, como mandato y después como promesa, mucho antes de que lo haga un apóstol. Hechos 15 rechaza una proposición concreta —la circuncisión como condición de salvación para los gentiles— y no la práctica, que es la razón por la que Pablo puede circuncidar a Timoteo y negarse con Tito sin contradecirse. A Romanos 2 deliberadamente no se le hace cargar más de lo que dice. Y el problema de *olam* está ahora sobre dos instituciones en vez de una, con el freno puesto y no soltado.
 :::
 
 ::: earned
-**Qué se ganó.** Dos casos de prueba y el método aguanta: a cada institución se le hace su propia pregunta en vez de responderla con un eslogan. La tercera es aquella en la que yo entraba más seguro, y donde un solo participio está a punto de dejarme mucho menos seguro.
+**La pregunta que esto deja.** Dos casos de prueba y el método aguanta: a cada institución se le hace su propia pregunta en vez de responderla con un eslogan. La tercera es aquella en la que yo entraba más seguro, y donde un solo participio está a punto de dejarme mucho menos seguro.
 :::

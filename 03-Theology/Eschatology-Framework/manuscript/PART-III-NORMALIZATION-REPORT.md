@@ -2,7 +2,7 @@
 title: "Part III — Normalization Report (EN)"
 type: manuscript-report
 created: 2026-10-13
-status: en-approved
+status: closed-both-editions
 related: "[[PART-II-NORMALIZATION-REPORT]], [[PART-I-NORMALIZATION-REPORT]], [[10-manuscript-architecture]], [[EDITORIAL-RULES]]"
 ---
 
@@ -100,3 +100,54 @@ Unchanged, because it narrates the method rather than the paperwork: the paragra
 ## E. Spanish Part III
 
 Waits for English approval. It has 3 more «deuda declarada» boxes (ES ch13, 16, 19), which get the D2 treatment unless one carries reader-facing content.
+
+---
+
+# Spanish Part III — normalization (2026-10-13)
+
+**English r1.1 was approved and frozen** (`91e0766`, snapshot `19d3b6e`). Spanish Part III is normalized from it: same rules, titles, D1 and r1.1 fixes, written in Spanish.
+
+**Result:** normalization 0 in every category (before: 10 unstyled grades, 8 labels incl. «este proyecto» ×5, 10 gloss gaps, 13 generic titles, 1 ⛔, 1 accidental list). Register 0, terminology 0. Build: 72 pages, 0 mojibake, 0 sections missing, original-language gate OK. All 15 flagged pages were visually checked.
+
+**Bilingual parity:** grade spans match English in all seven chapters. The only box difference is ES ch13's extra textual note, which is reader-facing (below).
+
+## Carried over from English
+
+- Same 13 titles in Spanish, plus the two contrary-evidence titles («Zacarías 6:13 / Isaías 53:10: contraevidencia, impresa») and «La cadena creciente — punto de control 2».
+- Grades as spans; «NO ESTABLECE / ESTABLECIDO» as plain bold.
+- Hebrew and Greek wrapped and glossed. This includes **ES-only bare bold Hebrew** תּוֹרָה in the ch13 RVR1960 «mi ley» note.
+- Research-process language rewritten:
+  - «esta etapa» ×2; «la etapa de la circuncisión»;
+  - «este proyecto» ×5;
+  - «no lo gasto / cobrarlo / no lo gastó… se gasta»;
+  - «lo descubrí por el camino caro: un primer intento de traer la CJB…»;
+  - «archivarlo»; «Inserté esto»; «Comentario del investigador —» ×3.
+- **D1:** ch18 verification diary hidden, results printed at unchanged strength.
+- **N1:** ch19 Colosenses 2:14 removed, «cuarto» → «tercer».
+- **N2:** ch14 «parece citar», with the hedge kept. The Daniel 2 research-order reference was removed.
+- **R1:** ch14 `\(a)` escaped. **R2:** ch16 summary chronology corrected: «La circuncisión es anterior al Sinaí, pero la justicia que sella la precede». **The same factual error existed in Spanish.**
+
+## Spanish-only
+
+- **D2 applied:** the «Nota textual — deuda declarada» boxes in ES ch13, ch16 and ch19 are now hidden `SPANISH-SPECIFIC` comments with full text kept. All three were RVR1960-verification bookkeeping only. ch13's caption also had broken bold (`*Nota…**`); it is handled by the same conversion.
+- **Kept printed (reader-facing):** ch13 «aquí el lector hispano ve mejor que el inglés» (*pacto perpetuo* in both places) and «la RVR1960 dice "mi ley" donde el hebreo dice "mi Torá"».
+- **Term drift fixed:** ch19 «la pequeña temporada» → «el poco de tiempo», the benchmark and register term for *mikron chronon*.
+
+## Checker (report-only, 46 tests)
+
+- «pequeña temporada» is now flagged. It appears 21 times across ES Parts II–VII. Fixed per Part from here on; the one in frozen ES Part II ch07 is logged on BIBLE-3c7 for the full-book audit.
+- **Generic evidence caption with a suffix** («Con qué fuerza pesa la evidencia — …») slipped past the whole-line check here. It is now flagged in both languages, which finds 12 more in EN Parts IV–VII and 6 in ES Part IV–V, all for their own passes.
+
+## Spanish r1.1: review fixes, and a correction to this report (2026-10-13)
+
+**This report's Spanish section above was wrong in one respect.** It said the English ch16 rewrite had carried over. It had not: my Spanish edit pass omitted ch16's heading and open-question changes. The reviewer caught all three:
+
+| # | Before | After |
+|---|---|---|
+| S1 | «El versículo que protege todo el **proyecto**» | «…todo el **argumento**» |
+| S2 | open question titled «Pregunta abierta — **y yo tenía que cerrarla aquí**» | «**Qué quiere decir Pablo con «los mandamientos de Dios»**» |
+| S3 | «No lo sé. **Se esperaba que este capítulo lo resolviera** o explicara por qué no puede, y la razón por la que no puede es concreta…» / «**Registrado como inconcluso** en vez de tapado con una conjetura plausible.» | «No lo sé, y la razón es concreta: Pablo nunca define la expresión en este contexto. Resolverla exige…» / «Queda abierta en vez de taparse con una conjetura plausible.» |
+
+All three were verified in the rebuilt PDF (71 pages, all gates OK, 0 mojibake). **To check for other misses**, all of ES Part III was swept for process and bookkeeping vocabulary (proyecto, se esperaba, registr-, archiv-, etapa, inconcluso, cobr-, gast-, deuda, anot-, pendiente, Comentario del investigador). No other miss was found. The remaining «lo registro / lo anoto / quedan registrados» mirror wording the approved English kept ("I am recording it", "two costs are on the record"). «gastos» (Acts 21, expenses) and «marcador» (a covenant sign as a visible marker) are ordinary words.
+
+**Spanish Part III APPROVED. Part III is closed in both editions.**

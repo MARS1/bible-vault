@@ -36,11 +36,7 @@ Isaías 19:24 y 25 ponen a Israel como tercero con Egipto y con Asiria, y Jehov�
 
 No voy a sobreedificar sobre un solo oráculo. Pero cualquier marco que sostenga que la expresión queda reservada al Israel étnico a perpetuidad tiene que dar cuenta de ese versículo, y a mí nunca me lo habían mostrado.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Isaías 19:24-25, Oseas 1:10 y 2:23, Rut 1:16 y 1 Pedro 2:9 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados.
-:::
+<!-- SPANISH-SPECIFIC: Isaías 19:24-25, Oseas 1:10 y 2:23, Rut 1:16 y 1 Pedro 2:9 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados. -->
 
 ## Oseas, y lo que Pablo hace con él
 
@@ -49,13 +45,13 @@ Oseas toma la fórmula del pacto y la corre hacia atrás y después hacia adelan
 Pablo cita exactamente eso en Romanos 9 y lo aplica al llamamiento de los gentiles. Pedro hace algo estructuralmente parecido en 1 Pedro 2, tomando el vocabulario pactual de Israel —linaje escogido, real sacerdocio, nación santa— y dirigiéndolo a sus lectores.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**El vocabulario de pacto de Israel, aplicado a comunidades que incluyen gentiles**
 
-Que escritores apostólicos apliquen el vocabulario pactual de Israel a comunidades que incluyen gentiles es **TEXTO EXPLÍCITO**, en Romanos 9, Efesios 2 y 1 Pedro 2.
+Que escritores apostólicos apliquen el vocabulario pactual de Israel a comunidades que incluyen gentiles es texto explícito, en Romanos 9, Efesios 2 y 1 Pedro 2.
 
-**APOYA** una incorporación real y sustancial, y no una metáfora ni un título de cortesía.
+<span class="grade">apoya</span> una incorporación real y sustancial, y no una metáfora ni un título de cortesía.
 
-**NO ESTABLECE** que el vocabulario haya sido transferido lejos de su referente original. Transferencia e inclusión son operaciones distintas, y los textos que hacen la segunda se citan rutinariamente como si hicieran la primera.
+**No establece** que el vocabulario haya sido transferido lejos de su referente original. Transferencia e inclusión son operaciones distintas, y los textos que hacen la segunda se citan rutinariamente como si hicieran la primera.
 :::
 
 ## El olivo, que dice en voz alta la parte silenciosa
@@ -95,7 +91,7 @@ El interés corre en las dos direcciones y no resuelve nada: la CJB es una tradu
 
 Lo que sí se puede decir ahora es contextual y no léxico: el versículo 14 acaba de nombrar *la pared intermedia de separación* y la enemistad como lo que se derriba, y el versículo 16 habla de reconciliar *matando en ella las enemistades*. La hostilidad es el objeto recurrente del párrafo. Eso favorece la lectura estrecha sin demostrarla.
 
-Esto necesita trabajo en griego que no he hecho, así que queda abierto. Es el cuarto pasaje de este proyecto en el que se me ha citado una traducción como si fuera el versículo — después del paréntesis de Marcos 7:19, del *sabbatismos* de Hebreos 4:9 y de Colosenses 2:14.
+Esto necesita trabajo en griego que no he hecho, así que queda abierto. Es el tercer pasaje de esta investigación en el que se me ha citado una traducción como si fuera el versículo — después del paréntesis de Marcos 7:19 y del *sabbatismos* de Hebreos 4:9.
 :::
 
 ## El freno, a fuerza plena
@@ -106,7 +102,7 @@ Se concluya lo que se concluya, Romanos 11 cierra expresamente una opción.
 
 Ese es un freno muy fuerte contra el reemplazo simplista. El Israel étnico no dejó de importarle a Pablo, y una lectura que necesita que hubiera dejado de importarle está discutiendo con él y no argumentando desde él.
 
-*Todo Israel será salvo*, en 11:26, lo dejo abierto. <span class="gr">πᾶς Ἰσραήλ</span> *(pas Israēl)* está entre las expresiones más disputadas de la carta, y los candidatos —el Israel étnico, los elegidos dentro de Israel, el pueblo pactual completo incluyendo gentiles, una restauración futura— no los resuelve el instinto teológico, incluido el mío.
+*Todo Israel será salvo*, en 11:26, lo dejo abierto. <span class="gr">πᾶς Ἰσραήλ</span> (*pas Israēl*) está entre las expresiones más disputadas de la carta, y los candidatos —el Israel étnico, los elegidos dentro de Israel, el pueblo pactual completo incluyendo gentiles, una restauración futura— no los resuelve el instinto teológico, incluido el mío.
 
 ## Y ahora la segunda pregunta del título
 
@@ -125,7 +121,7 @@ Es una pregunta sobre obligación. Todo lo demás —el discurso del Monte de lo
 
 El preterismo entró en esta investigación como **hipótesis bajo prueba**, y ahí tiene que quedarse.
 
-El libro nunca debe estructurarse como: *soy preterista, por lo tanto aquí está cómo la Escritura prueba el preterismo.* Si lo hace, entonces la pequeña temporada se convierte en la lente a través de la cual se lee cada versículo anterior, y la conclusión escribe la evidencia.
+El libro nunca debe estructurarse como: *soy preterista, por lo tanto aquí está cómo la Escritura prueba el preterismo.* Si lo hace, entonces el poco de tiempo se convierte en la lente a través de la cual se lee cada versículo anterior, y la conclusión escribe la evidencia.
 
 El orden corre al revés. **Los textos precedentes tienen que ganarse la hipótesis.** Si no lo hacen, la hipótesis no sobrevive, y varios capítulos más adelante queda bajo ataque sostenido por exactamente esa razón.
 :::
@@ -151,15 +147,15 @@ Pacto no es mandamiento y no es señal. Cumplimiento no es abolición. Inclusió
 :::
 
 ::: whereweare
-**Dónde estamos.** *Pueblo de Dios* empieza siendo lenguaje pactual israelita y nunca es solamente eso; la Torá admite al extranjero, Isaías llama a Egipto *pueblo mío*, y los apóstoles aplican el vocabulario de Israel a comunidades que incluyen gentiles. La estructura es incorporación a un pueblo existente y no sustitución — y Romanos 11:29 cierra la lectura del reemplazo con las palabras del propio Pablo. Efesios 2:15 queda abierto a la espera de trabajo en griego, porque dos traducciones hacen afirmaciones materialmente distintas sobre qué fue abolido. Y la investigación quedó recentrada en la pregunta que la inició, con el preterismo sostenido expresamente aguas abajo de la evidencia y no por encima de ella.
+**Dónde nos deja esto.** *Pueblo de Dios* empieza siendo lenguaje pactual israelita y nunca es solamente eso; la Torá admite al extranjero, Isaías llama a Egipto *pueblo mío*, y los apóstoles aplican el vocabulario de Israel a comunidades que incluyen gentiles. La estructura es incorporación a un pueblo existente y no sustitución — y Romanos 11:29 cierra la lectura del reemplazo con las palabras del propio Pablo. Efesios 2:15 queda abierto a la espera de trabajo en griego, porque dos traducciones hacen afirmaciones materialmente distintas sobre qué fue abolido. Y la investigación quedó recentrada en la pregunta que la inició, con el preterismo sostenido expresamente aguas abajo de la evidencia y no por encima de ella.
 :::
 
 ::: chain
-**Cadena creciente — Punto de control 2**
+**La cadena creciente — punto de control 2**
 
 *El cumplimiento no es abolición, y la historia del pacto no cambió de dueño.*
 :::
 
 ::: earned
-**Qué se ganó.** La pregunta del pacto tiene una respuesta que puedo defender, y no es la que ofrecía ninguno de los dos lados de mi discusión original. Lo cual significa que la pregunta original por fin se puede volver a poner sobre la mesa en sus propios términos: Israel, las naciones, y qué exigía realmente la comisión, y a quién.
+**La pregunta que esto deja.** La pregunta del pacto tiene una respuesta que puedo defender, y no es la que ofrecía ninguno de los dos lados de mi discusión original. Lo cual significa que la pregunta original por fin se puede volver a poner sobre la mesa en sus propios términos: Israel, las naciones, y qué exigía realmente la comisión, y a quién.
 :::

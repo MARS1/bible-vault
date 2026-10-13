@@ -121,8 +121,11 @@ for label, text, cat, want in [
     ("generic evidence title flagged",      "::: evidence\n**How strongly evidence bears**", "convention", 1),
     ("generic wordstudy title flagged",     "::: wordstudy\n**Original language**", "convention", 1),
     ("ES 'deuda declarada' caption flagged","::: textualnote\n**Nota textual — deuda declarada**", "convention", 1),
+    ("generic title with suffix flagged",   "::: evidence\n**Con qué fuerza pesa la evidencia — contraevidencia, impresa**", "convention", 1),
     ("descriptive 'Finding — …' NOT flagged","::: finding\n**Finding — Daniel moves between ruler and realm**", "convention", 0),
     ("benchmark descriptive title NOT flagged","::: evidence\n**The purpose formula, four times**", "convention", 0),
+    ("ES 'pequeña temporada' drift flagged","la pequeña temporada se convierte en la lente", "convention", 1),
+    ("ES 'el poco de tiempo' NOT flagged",  "el poco de tiempo se convierte en la lente", "convention", 0),
     ("debt metaphor flagged",               "**A debt paid before the argument leaned on it**", "label", 1),
     ("ES deuda flagged",                    "una deuda declarada", "label", 1),
     # 2026-10-13: Part II ch11 "the strongest argument this project has produced" passed

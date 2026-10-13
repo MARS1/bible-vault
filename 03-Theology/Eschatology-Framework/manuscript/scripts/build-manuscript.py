@@ -185,6 +185,9 @@ GENERIC_TITLE = re.compile(r"^\*\*(How strongly evidence bears|Original language
                            r"Finding|Open question|Con qué fuerza pesa la evidencia|Lengua original|"
                            r"Contexto histórico|Hallazgo|Pregunta abierta|"
                            r"Nota textual — (?:una )?deuda declarada)\*\*\s*$")
+# ES Parts VIII-IX and ES-REGISTER say "el poco de tiempo" for mikron chronon;
+# Parts II-VII drifted to "la pequeña temporada" (21 occurrences, 2026-10-13).
+ES_TERM_DRIFT = re.compile(r"\bpequeña temporada\b", re.I)
 # RESEARCH-PROCESS-002 retired the bookkeeping metaphor (debts declared, paid,
 # handed forward). It survives in box captions in EN ch27/33/37/41/43 and in the
 # ES "Nota textual — deuda declarada" caption in 26 chapters (counted 2026-10-13).
@@ -226,6 +229,12 @@ def check_normalization(files):
                 out["label"].append((f.name, i, m.group(0)))
             if OLD_CONVENTION.match(ln):
                 out["convention"].append((f.name, i, ln[:30]))
+            for m in ES_TERM_DRIFT.finditer(ln):
+                out["convention"].append((f.name, i, "term drift: " + m.group(0) + " -> el poco de tiempo"))
+            # The generic caption with a suffix ("— contrary evidence, printed") slipped
+            # past the whole-line match in ES Part III ch15 (2026-10-13).
+            if re.match(r"^\*\*(How strongly evidence bears|Con qué fuerza pesa la evidencia) — ", ln):
+                out["convention"].append((f.name, i, "generic box title with suffix " + ln[:50]))
             if GENERIC_TITLE.match(ln):
                 out["convention"].append((f.name, i, "generic box title " + ln[:40]))
             if ln.startswith("# ") and not re.match(r"# (Coda|Epilogue|Epílogo)\b", ln):

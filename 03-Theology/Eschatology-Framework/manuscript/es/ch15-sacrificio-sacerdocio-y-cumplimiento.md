@@ -55,11 +55,11 @@ Siguen disponibles: el macho cabrío mismo, "el que se va"; la remoción o el en
 Para cuando llega Isaías, el vocabulario sacrificial se ha concentrado sobre una persona. Me gustaría que Isaías 53:10 dijera sin más que el siervo *es* una ofrenda por la culpa. Dos de mis tres traducciones lo leen así. Una no.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia — contraevidencia, impresa**
+**Isaías 53:10: contraevidencia, impresa**
 
 La RVR1960 lee **"Cuando haya puesto su vida en expiación por el pecado, verá linaje"**, y la ESV lee igualmente un *cuando* temporal. La CJB introduce un condicional: *para ver si se presentaría como ofrenda por la culpa; si lo hace, verá descendencia*.
 
-Eso es una construcción distinta del hebreo, no una preferencia de estilo. <span class="he">אָשָׁם</span> *(asham)*, ofrenda por la culpa, está en las tres. Lo que está en disputa es si Isaías **afirma** que el siervo llega a serlo o lo **plantea condicionalmente**.
+Eso es una construcción distinta del hebreo, no una preferencia de estilo. <span class="he">אָשָׁם</span> (*asham*), ofrenda por la culpa, está en las tres. Lo que está en disputa es si Isaías **afirma** que el siervo llega a serlo o lo **plantea condicionalmente**.
 
 Aun bajo la lectura más débil el hallazgo sobrevive, y conviene enunciarlo con la fuerza que realmente tiene: Isaías ya había juntado persona, llevar el pecado y vocabulario de ofrenda por la culpa. El Nuevo Testamento no miró a Yeshua después del hecho e inventó simbolismo sacrificial. Las categorías venían convergiendo sobre una persona antes de que nadie tuviera que explicar una crucifixión.
 :::
@@ -73,7 +73,7 @@ En la mesa, Yeshua dice que la copa es su sangre del pacto. Ese encuadre es suyo
 
 La RVR1960 dice: **"Porque esto es mi sangre del nuevo pacto, que por muchos es derramada para remisión de los pecados"** (Mateo 26:28). La ESV dice solamente *my blood of the covenant*, sin *nuevo*.
 
-La razón es textual y conviene decirla. La presencia de **nuevo**, <span class="gr">καινῆς</span> *(kainēs)*, en Mateo 26:28 está en disputa entre manuscritos: aparece en la tradición bizantina o mayoritaria que sigue la RVR1960 y está ausente del texto crítico que sigue la ESV.
+La razón es textual y conviene decirla. La presencia de **nuevo**, <span class="gr">καινῆς</span> (*kainēs*), en Mateo 26:28 está en disputa entre manuscritos: aparece en la tradición bizantina o mayoritaria que sigue la RVR1960 y está ausente del texto crítico que sigue la ESV.
 
 Así que el lector hispano tiene en su Biblia, en ese versículo, exactamente la palabra que está en discusión. No lo digo para desconfiar de su Biblia. Lo digo porque la afirmación *"Yeshua mismo lo llamó el pacto nuevo"* debe descansar en **Lucas 22:20 y 1 Corintios 11:25**, donde la palabra es segura en toda la tradición, y no en Mateo 26:28. El encuadre pactual de Mateo es seguro. El adjetivo concreto no lo es.
 
@@ -100,7 +100,7 @@ Entonces: cumplimiento puede significar que una institución anterior dada por D
 Lee lo que eso no dice. No dice que la forma anterior fuera falsa. No dice que continuarla sea imposible. Dice que sería entender mal su propio propósito. Esa distinción carga peso, y la voy a necesitar intacta tres capítulos más adelante, cuando llegue una institución mucho más disputada.
 :::
 
-Es lo más útil que produjo esta etapa, y es útil precisamente porque rechaza las dos posiciones que me ofrecieron toda la vida. No insulta a la Torá y no la congela.
+Es lo más útil que produjo este capítulo, y es útil precisamente porque rechaza las dos posiciones que me ofrecieron toda la vida. No insulta a la Torá y no la congela.
 
 ## La repetición, y un hombre que se sienta
 
@@ -139,9 +139,9 @@ No lo resuelvo aquí. El Salmo 110 sostiene los dos oficios en un solo salmo y n
 :::
 
 ::: whereweare
-**Dónde estamos.** Levítico da dos movimientos, expiación y remoción, y el lenguaje del Nuevo Testamento sobre llevar el pecado cae sobre los dos. Isaías ya había concentrado el vocabulario sacrificial sobre una persona, aunque con menos seguridad de la que yo quería. El cumplimiento se define aquí como un patrón que alcanza su realidad, no como una falsedad que cede ante una verdad, lo cual ni insulta a la Torá ni la congela. El sacerdocio cambia porque un sacerdote-rey no se podía producir dentro de un sistema separado por tribus. Y *nuevo* en Mateo 26:28 está en disputa textual, aunque la RVR1960 lo traiga, así que la afirmación descansa en Lucas y en Pablo.
+**Dónde nos deja esto.** Levítico da dos movimientos, expiación y remoción, y el lenguaje del Nuevo Testamento sobre llevar el pecado cae sobre los dos. Isaías ya había concentrado el vocabulario sacrificial sobre una persona, aunque con menos seguridad de la que yo quería. El cumplimiento se define aquí como un patrón que alcanza su realidad, no como una falsedad que cede ante una verdad, lo cual ni insulta a la Torá ni la congela. El sacerdocio cambia porque un sacerdote-rey no se podía producir dentro de un sistema separado por tribus. Y *nuevo* en Mateo 26:28 está en disputa textual, aunque la RVR1960 lo traiga, así que la afirmación descansa en Lucas y en Pablo.
 :::
 
 ::: earned
-**Qué se ganó.** El sacrificio era la institución alrededor de la cual se construyó todo el sistema, y ya tiene una explicación defendible. La siguiente es más pequeña, más antigua que el Sinaí, y es donde los apóstoles tuvieron su discusión más áspera de las que quedaron registradas.
+**La pregunta que esto deja.** El sacrificio era la institución alrededor de la cual se construyó todo el sistema, y ya tiene una explicación defendible. La siguiente es más pequeña, más antigua que el Sinaí, y es donde los apóstoles tuvieron su discusión más áspera de las que quedaron registradas.
 :::
