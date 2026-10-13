@@ -78,6 +78,15 @@ Spanish marker has to be stable from Part VIII onward.** The automated checker d
 deliberate.
 
 
+**⚠️ «NOTA TEXTUAL — DEUDA DECLARADA» BOXES BECOME HIDDEN COMMENTS — STANDING PATTERN, ESTABLISHED IN ES PART II NORMALIZATION (2026-10-13, decision D2).**
+When such a box holds only verification or process bookkeeping ("the RVR1960 text is not yet verified in
+this project's documentation, so the verse is described; the quotation remains pending"), it becomes a hidden
+`<!-- SPANISH-SPECIFIC: … -->` comment with its full text kept. The reader sees the verse described with no
+apology, and the audit trail stays in the source. **A box that carries genuine reader-facing information
+about RVR1960 or a translation difference stays printed**, under a descriptive title (ES Part II examples:
+tribus/linajes, juntar/recoger, the reasoned CJB exception). The checker flags every «deuda declarada»
+caption, so none can pass silently.
+
 ## 2b. Cosmological terminology *(both editions, not just Spanish)*
 
 > ### 🛑 **NO `planeta` · `planetario` · `global` · `globalmente` · `mundial` — and no `planet` · `global` · `worldwide` · `globular` in English.**

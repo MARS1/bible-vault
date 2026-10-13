@@ -14,7 +14,7 @@ related: "[[10-manuscript-architecture]], [[SYNC-LEDGER]], [[00k-the-gathering-o
 
 > Y enviará sus ángeles con gran voz de trompeta, y juntarán a sus escogidos, de los cuatro vientos, desde un extremo del cielo hasta el otro (Mateo 24:31)
 
-Este es el versículo donde una lectura del primer siglo se siente más forzada, y quiero recorrer con cuidado lo que hice con él, porque aquí me equivoqué en algo que tardó treinta y siete etapas en salir a la luz.
+Este es el versículo donde una lectura del primer siglo se siente más forzada, y quiero recorrer con cuidado lo que hice con él, porque aquí me equivoqué en algo que no salió a la luz hasta la Parte VII.
 
 ## De dónde viene el lenguaje de la reunión
 
@@ -37,18 +37,18 @@ Y después la trompeta:
 Una gran trompeta, y una reunión del Israel disperso. Mateo 24:31 tiene las dos cosas, en ese orden.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**Mateo 24:31 y el vocabulario de reunión de Israel**
 
-La coincidencia verbal con Deuteronomio 30:4, Zacarías 2:6 e Isaías 27:13 es **TEXTO EXPLÍCITO** y **APOYA** leer Mateo 24:31 contra la tradición de reunión de Israel y no como una imagen nueva.
+La coincidencia verbal con Deuteronomio 30:4, Zacarías 2:6 e Isaías 27:13 es texto explícito, y <span class="grade">apoya</span> leer Mateo 24:31 contra la tradición de reunión de Israel y no como una imagen nueva.
 
-**NO ESTABLECE** qué acontecimiento está describiendo Mateo. Un vocabulario compartido establece una *palabra* compartida. No establece un *acontecimiento* compartido, y más adelante voy a tener que recordarlo por las malas.
+**No establece** qué acontecimiento está describiendo Mateo. Un vocabulario compartido establece una *palabra* compartida. No establece un *acontecimiento* compartido, y más adelante voy a tener que recordarlo por las malas.
 :::
 
 ## Una palabra que me habría resuelto el problema
 
 Ahora la concesión, y es la segunda que este método me arranca.
 
-El griego en 24:31 es **ἄγγελος** *(angelos)*, y *angelos* significa mensajero. No significa automáticamente un ser celestial. El propio Mateo la usa de un hombre: en 11:10, citando a Malaquías sobre Juan el Bautista, la RVR1960 dice *yo envío mi mensajero delante de tu faz*, y la palabra allí es *angelos*.
+El griego en 24:31 es <span class="gr">ἄγγελος</span> (*angelos*, mensajero), y *angelos* significa mensajero. No significa automáticamente un ser celestial. El propio Mateo la usa de un hombre: en 11:10, citando a Malaquías sobre Juan el Bautista, la RVR1960 dice *yo envío mi mensajero delante de tu faz*, y la palabra allí es *angelos*.
 
 Eso abría una lectura que yo deseaba muchísimo. Si los *angeloi* de 24:31 son mensajeros humanos, entonces la reunión de los escogidos podría ser la misión apostólica, llevada a cabo por personas, en el primer siglo, y uno de los versículos más difíciles del discurso se disolvería.
 
@@ -59,7 +59,7 @@ Después miré cómo usa Mateo la construcción específica. No el sustantivo su
 Así que solté la lectura conveniente.
 
 ::: finding
-**Hallazgo**
+**Los *angeloi* de 24:31: con mayor probabilidad celestiales, no misioneros**
 
 Los *angeloi* de Mateo 24:31 son con mayor probabilidad mensajeros celestiales y no misioneros humanos. La posibilidad léxica del sentido humano es real, pero el uso que el propio Mateo hace de la fórmula *sus ángeles* apunta en la otra dirección, y yo no tengo derecho a elegir el significado que rescata mi posición.
 :::
@@ -72,33 +72,33 @@ Y conviene decir que la concesión no le cuesta casi nada al caso del primer sig
 
 Tengo que señalar algo del párrafo anterior, porque un capítulo posterior lo desarma.
 
-En esta etapa dije que Mateo 13:41 tiene *la misma fórmula y el mismo lenguaje de reunión*. Lo de la fórmula es correcto: 13:41 tiene al Hijo del Hombre enviando a *sus ángeles*, en una construcción casi idéntica.
+En este punto dije que Mateo 13:41 tiene *la misma fórmula y el mismo lenguaje de reunión*. Lo de la fórmula es correcto: 13:41 tiene al Hijo del Hombre enviando a *sus ángeles*, en una construcción casi idéntica.
 
-Lo del verbo de reunión, que afirmé en esta etapa y creí durante mucho tiempo, **es falso.** Mateo 13:41 usa **συλλέγω** *(syllegō)*, recoger. Mateo 24:31 usa **ἐπισυνάγω** *(episynagō)*, juntar. Son verbos distintos.
+Lo del verbo de reunión, que afirmé en este punto y creí durante mucho tiempo, **es falso.** Mateo 13:41 usa <span class="gr">συλλέγω</span> (*syllegō*), recoger. Mateo 24:31 usa <span class="gr">ἐπισυνάγω</span> (*episynagō*), juntar. Son verbos distintos.
 
-Dejo el error donde ocurrió en vez de repararlo por lo bajo, porque la Parte VII es donde este proyecto lo detecta, y lo que produjo después esa corrección es una de las mejores cosas del libro. Perseguir el verbo verdadero sacó a la luz el único otro uso de *episynagō* en Mateo, en 23:37, donde Yeshua se lamenta sobre Jerusalén: *cuántas veces quise juntar a tus hijos*. Un capítulo antes del discurso. Y apunta en contra de la lectura que yo prefiero.
+Dejo el error donde ocurrió en vez de repararlo por lo bajo, porque la Parte VII es donde la investigación lo detecta, y lo que produjo después esa corrección es una de las mejores cosas del libro. Perseguir el verbo verdadero sacó a la luz el único otro uso de *episynagō* en Mateo, en 23:37, donde Yeshua se lamenta sobre Jerusalén: *cuántas veces quise juntar a tus hijos*. Un capítulo antes del discurso. Y apunta en contra de la lectura que yo prefiero.
 
 ::: textualnote
 **Nota textual — la RVR1960 conserva la distinción por su cuenta**
 
 Aquí el lector hispano tiene una ventaja real sobre el lector inglés, y no es un detalle decorativo.
 
-La corrección de arriba se sostiene en el griego. Pero la RVR1960, sin ninguna relación con esta investigación, hace exactamente el mismo corte con dos verbos castellanos distintos: usa **juntar** —*juntarán*, *juntará*, *quise juntar*— en Mateo 23:37, Mateo 24:31, Marcos 13:27, Lucas 13:34 y Lucas 17:37, que son los ἐπισυνάγω; y usa **recogerán** en Mateo 13:41, que es el συλλέγω.
+La corrección de arriba se sostiene en el griego. Pero la RVR1960, sin ninguna relación con esta investigación, hace exactamente el mismo corte con dos verbos castellanos distintos: usa **juntar** —*juntarán*, *juntará*, *quise juntar*— en Mateo 23:37, Mateo 24:31, Marcos 13:27, Lucas 13:34 y Lucas 17:37, que son los <span class="gr">ἐπισυνάγω</span>; y usa **recogerán** en Mateo 13:41, que es el <span class="gr">συλλέγω</span>.
 
-Es decir: quien lee estos pasajes en la RVR1960 puede ver la diferencia sin saber griego. Lo registro porque demuestra que la corrección no fue un artefacto de leer muy de cerca un solo idioma. Un tercer testigo, independiente, de un error que este proyecto tuvo que corregirse a sí mismo.
+Es decir: quien lee estos pasajes en la RVR1960 puede ver la diferencia sin saber griego. Lo señalo porque demuestra que la corrección no fue un artefacto de leer muy de cerca un solo idioma. Un tercer testigo, independiente, de un error que esta investigación tuvo que corregirse a sí misma.
 :::
 
 Por ahora, el argumento de este capítulo se apoya en la fórmula del envío, que es genuina, y no en un verbo compartido, que no lo es.
 
 ## Una corrección que no es una palabra griega
 
-Ya que estoy aquí: **παρουσία** *(parousia)*, la palabra que suele traducirse "venida" o "presencia", **no aparece en Mateo 24:31**. Aparece en 24:3, 24:27, 24:37 y 24:39. Enmarca esta perícopa; no está dentro de ella.
+Ya que estoy aquí: <span class="gr">παρουσία</span> (*parousia*), la palabra que suele traducirse "venida" o "presencia", **no aparece en Mateo 24:31**. Aparece en 24:3, 24:27, 24:37 y 24:39. Enmarca esta perícopa; no está dentro de ella.
 
 Lo digo porque he visto cometer el error, estuve a punto de cometerlo yo mismo, y porque un argumento que reubica calladamente una palabra dentro del versículo que la necesita no es un argumento.
 
 ## La prueba más dura, anunciada de antemano
 
-Terminé esta etapa escribiendo lo que con el tiempo habría que reconciliar, para no poder fingir después que no lo había visto venir.
+Cerré esta parte de la investigación escribiendo lo que con el tiempo habría que reconciliar, para no poder fingir después que no lo había visto venir.
 
 La gran trompeta de Isaías 27. La reunión de Mateo 24:31. La final trompeta de 1 Corintios 15:52 y los muertos resucitados incorruptibles. La trompeta de Dios de 1 Tesalonicenses 4:16 y los muertos en el Mesías levantándose. Y la primera resurrección de Apocalipsis 20.
 
@@ -106,18 +106,18 @@ Eso hay que encajarlo **sin excepciones protectoras**. Y una cosa más, que se v
 
 **Lo elaborada que sea una excepción es en sí misma evidencia.** Si una lectura necesita cuatro provisiones especiales para sobrevivir, las provisiones me están diciendo algo sobre la lectura.
 
-Esa prueba no se aprueba en este capítulo. No se aprueba en esta Parte. Es a donde va finalmente la Parte VII, y no le va bien a varias cosas que yo creía cuando escribí esto.
+Esa prueba no se aprueba en este capítulo. No se aprueba en esta Parte. Es a donde va finalmente la Parte VII, y no le va bien a varias cosas que yo creía en este punto.
 
 ::: openquestion
-**Pregunta abierta**
+**¿Una trompeta, o varias?**
 
 Isaías 27, Mateo 24, 1 Corintios 15, 1 Tesalonicenses 4 y Apocalipsis 20 involucran todos una trompeta y una reunión o un levantamiento. Si describen un solo acontecimiento, varios, o una convención compartida aplicada a acontecimientos distintos, no se resuelve aquí y no se resuelve por mucho tiempo.
 :::
 
 ::: whereweare
-**Dónde estamos.** La reunión de Mateo 24:31 está construida con el lenguaje de la restauración de Israel: las partes más lejanas de Deuteronomio 30:4, los cuatro vientos de Zacarías 2:6, la gran trompeta de Isaías 27:13. Los *angeloi* son con mayor probabilidad celestiales, y solté la lectura de los mensajeros humanos aunque me habría resuelto el versículo. La concesión no le cuesta nada al caso del primer siglo, que es parte de por qué se podía hacer con honestidad. Y queda anotado, sin arreglarlo, el error del verbo compartido que la Parte VII corrige.
+**Dónde nos deja esto.** La reunión de Mateo 24:31 está construida con el lenguaje de la restauración de Israel: las partes más lejanas de Deuteronomio 30:4, los cuatro vientos de Zacarías 2:6, la gran trompeta de Isaías 27:13. Los *angeloi* son con mayor probabilidad celestiales, y solté la lectura de los mensajeros humanos aunque me habría resuelto el versículo. La concesión no le cuesta nada al caso del primer siglo, que es parte de por qué se podía hacer con honestidad. Y queda anotado, sin arreglarlo, el error del verbo compartido que la Parte VII corrige.
 :::
 
 ::: earned
-**Qué se ganó.** Si la reunión está tomada del vocabulario de restauración del propio Israel, entonces la frase inmediatamente anterior necesita el mismo tratamiento. Todas las tribus de la tierra harán lamentación. ¿Cuál tierra, y las tribus de quién?
+**La pregunta que esto deja.** Si la reunión está tomada del vocabulario de restauración del propio Israel, entonces la frase inmediatamente anterior necesita el mismo tratamiento. Todas las tribus de la tierra harán lamentación. ¿Cuál tierra, y las tribus de quién?
 :::

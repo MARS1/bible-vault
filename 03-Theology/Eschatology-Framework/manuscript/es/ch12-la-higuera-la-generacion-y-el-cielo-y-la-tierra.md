@@ -45,11 +45,11 @@ Y todos los árboles.
 Si la higuera fuera una referencia cifrada a una nación, agregar todos los árboles destruye el cifrado. Lo que muestra la versión de Lucas es que la parábola trata de leer señales como se lee una estación. Ves brotes, sabes que el verano está cerca. Ese es todo el asunto, y es un asunto sobre estar atento, no sobre botánica.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**El «y todos los árboles» de Lucas frente al código de la higuera**
 
-El *y todos los árboles* de Lucas 21:29 **CONTRADICE** la lectura del descodificador *exclusivo*: aquella en la que la higuera codifica de manera única a una sola nación, de modo que su brote es la señal. Agregar todos los árboles elimina la exclusividad de la que depende ese cifrado.
+El *y todos los árboles* de Lucas 21:29 <span class="grade">contradice</span> la lectura del descodificador *exclusivo*: aquella en la que la higuera codifica de manera única a una sola nación, de modo que su brote es la señal. Agregar todos los árboles elimina la exclusividad de la que depende ese cifrado.
 
-Frente a la afirmación más débil —que la higuera tenga algún valor representativo mientras Lucas amplía la ilustración— **PESA FUERTEMENTE EN CONTRA**, sin contradecirla. Quiero que esa distinción se mantenga. Este libro le está pidiendo al lector que distinga una contradicción de una evidencia que solo vuelve más difícil sostener una posición, y yo no tengo permiso para eximirme de mi propia escala.
+Frente a la afirmación más débil —que la higuera tenga algún valor representativo mientras Lucas amplía la ilustración— **pesa fuertemente en contra**, sin contradecirla. Quiero que esa distinción se mantenga. Este libro le está pidiendo al lector que distinga una contradicción de una evidencia que solo vuelve más difícil sostener una posición, y yo no tengo permiso para eximirme de mi propia escala.
 :::
 
 ## Esta generación
@@ -65,9 +65,9 @@ La evidencia más fuerte que encontré no está en el capítulo 24. Está un cap
 Misma construcción. Mismas dos frases. Dicha por la misma persona, en el mismo escenario, momentos antes de que salga del templo y los discípulos señalen las piedras. Y en Mateo 23 no hay disputa seria sobre a quién se refiere "esta generación", porque el versículo es el remate de un discurso sostenido contra los escribas y fariseos que están parados delante de él.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**Mateo 23:36 y «esta generación» en 24:34**
 
-Mateo 23:36 **APOYA FUERTEMENTE** la lectura de los contemporáneos en 24:34. No la **EXIGE**, porque una frase puede reutilizarse con un alcance distinto, y Mateo 24 se ha movido afuera y ha cambiado de auditorio, de las multitudes a los discípulos.
+Mateo 23:36 <span class="grade">apoya</span> la lectura de los contemporáneos en 24:34, y con fuerza. No llega a <span class="grade">exige</span>, porque una frase puede reutilizarse con un alcance distinto, y Mateo 24 se ha movido afuera y ha cambiado de auditorio, de las multitudes a los discípulos.
 :::
 
 ## Y la evidencia que va en mi contra
@@ -108,16 +108,12 @@ Son convocados como **testigos** del pacto. Moisés pone al cielo y a la tierra 
 
 Después Isaías 65:20, que le complica la posición a todo el mundo, incluido yo: dentro de los nuevos cielos y la nueva tierra prometidos, alguien muere a los cien años. La muerte sigue presente dentro del pasaje de la nueva creación.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Los pasajes de Deuteronomio 30:19, 31:28 y 32:1, junto con Isaías 65:20 y Mateo 5:17 y 5:19, se describen en este capítulo en vez de citarse. No tengo verificado su texto RVR1960 en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Las citas verbatim quedan pendientes y registradas.
-:::
+<!-- SPANISH-SPECIFIC: Los pasajes de Deuteronomio 30:19, 31:28 y 32:1, junto con Isaías 65:20 y Mateo 5:17 y 5:19, se describen en este capítulo en vez de citarse. No tengo verificado su texto RVR1960 en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Las citas verbatim quedan pendientes y registradas. -->
 
 ::: finding
 **Hallazgo — el Principio Antirreemplazo**
 
-Aquí escapé de una lectura rígida por cuarta vez en esta investigación, y por cuarta vez tuve que frenarme para no instalar un reemplazo igual de rígido. "El cielo y la tierra significa el antiguo pacto" está **PERMITIDO** por esta evidencia. **NO ESTÁ ESTABLECIDO**, y adoptarlo sería el mismo error del que acababa de escapar, vestido con mis colores.
+Aquí escapé de una lectura rígida por cuarta vez en esta investigación, y por cuarta vez tuve que frenarme para no instalar un reemplazo igual de rígido. "El cielo y la tierra significa el antiguo pacto" está en <span class="grade">permite</span> con esta evidencia. **No está establecido**, y adoptarlo sería el mismo error del que acababa de escapar, vestido con mis colores.
 
 Y queda en pie una cuarta posibilidad: que el contraste mismo sea el punto. Pase lo que pase, sus palabras no pasan.
 :::
@@ -133,31 +129,31 @@ Dos "hasta que". No uno. Cualquier lectura tiene que dar cuenta de los dos, y su
 Y el griego se puede comprobar, y es casi idéntico en los dos pasajes.
 
 ::: wordstudy
-**Lengua original**
+**Dos «hasta», uno al lado del otro**
 
 Mateo 5:18 · <span class="gr">ἕως ἂν πάντα γένηται</span> · *heōs an panta genētai*
 
 Mateo 24:34 · <span class="gr">ἕως ἂν πάντα ταῦτα γένηται</span> · *heōs an panta tauta genētai*
 
-Se diferencian por <span class="gr">ταῦτα</span> *(tauta)*, "estas". Los dos pasajes comparten además <span class="gr">παρέλθῃ</span> *(parelthē)*, "pasar".
+Se diferencian por <span class="gr">ταῦτα</span> (*tauta*), "estas". Los dos pasajes comparten además <span class="gr">παρέλθῃ</span> (*parelthē*), "pasar".
 :::
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**Mateo 5:18 y 24:34: un indicio, no una prueba**
 
-La casi identidad de esas construcciones **ESTABLECE UNA RAZÓN PARA PREGUNTAR** si Mateo pretende una conexión. **NO ESTABLECE** la conexión. Mismo autor, frase parecida, es un indicio fuerte y una prueba débil.
+La casi identidad de esas construcciones **establece una razón para preguntar** si Mateo pretende una conexión. **No establece** la conexión. Mismo autor, frase parecida, es un indicio fuerte y una prueba débil.
 :::
 
 ## Qué significa y qué no significa "cumplir"
 
 Mateo 5:17 es donde más tuve que ir despacio.
 
-**καταλῦσαι** *(katalysai)*, abrogar o destruir, está explícitamente negado. Y su objeto es "la ley **o los profetas**", que es una manera convencional de nombrar las Escrituras de Israel como un todo. Así que reducir el versículo a una pregunta sobre cuáles reglamentos deben guardar los cristianos ya lo estrechó por debajo de lo que se dijo.
+<span class="gr">καταλῦσαι</span> (*katalysai*), abrogar o destruir, está explícitamente negado. Y su objeto es "la ley **o los profetas**", que es una manera convencional de nombrar las Escrituras de Israel como un todo. Así que reducir el versículo a una pregunta sobre cuáles reglamentos deben guardar los cristianos ya lo estrechó por debajo de lo que se dijo.
 
-**πληρῶσαι** *(plērōsai)*, cumplir, lo leí contra los usos anteriores que Mateo hace del verbo: 1:22, 2:15, 2:17, 4:14, cada vez de una Escritura que alcanza una realización prevista.
+<span class="gr">πληρῶσαι</span> (*plērōsai*), cumplir, lo leí contra los usos anteriores que Mateo hace del verbo: 1:22, 2:15, 2:17, 4:14, cada vez de una Escritura que alcanza una realización prevista.
 
 ::: wordstudy
-**Lengua original**
+**Mateo 5:17: los dos verbos**
 
 <span class="gr">καταλῦσαι</span> · *katalysai* · abrogar, derribar — **explícitamente negado**, con "la ley o los profetas" como objeto
 
@@ -177,10 +173,10 @@ Al final de todo esto yo tenía un lío, y el lío tenía una forma.
 ::: finding
 **Hallazgo — la Prueba del Colapso de Categorías**
 
-Antes de contestar una pregunta, hay que revisar si nombra una cosa o varias empaquetadas como una. Esta prueba corre **primero**. Una pregunta mal formada no se rescata después con buena exégesis, y "¿está abolida la ley?" son por lo menos ocho preguntas con un solo abrigo.
+Antes de contestar una pregunta, hay que revisar si nombra una cosa o varias empaquetadas como una. Esta prueba corre **primero**. Una pregunta mal formada no se rescata después con buena exégesis, y "¿está abolida la ley?" son por lo menos seis cosas distintas — y más preguntas que esas — con un solo abrigo.
 :::
 
-No lo construí en abstracto. Se lo había visto hacer a Hechos 15, capítulos atrás, que es un dividendo que paga investigar en secuencia y no por temas.
+No lo construí en abstracto. Se lo había visto hacer a Hechos 15, capítulos atrás, que es la ventaja de investigar en secuencia y no por temas.
 
 ## El costo, registrado en vez de escondido
 
@@ -195,13 +191,13 @@ Así que no me la concedo a mí.
 ::: openquestion
 **Pregunta abierta — un costo no resuelto de la posición**
 
-Si la lectura del primer siglo de "todo se ha cumplido" es correcta, entonces Mateo 5:19 requiere una explicación que este libro todavía no tiene. La registro como un costo de mi propia posición y no como una dificultad de la de otro.
+Si la lectura del primer siglo de "todo se ha cumplido" es correcta, entonces Mateo 5:19 requiere una explicación que este libro todavía no tiene. Dejo constancia de ella como un costo de mi propia posición y no como una dificultad de la de otro.
 :::
 
 ::: whereweare
-**Dónde estamos.** Mateo 24 vuelve una y otra vez a la segunda persona, incluso en sus afirmaciones mayores, de modo que un desplazamiento a un auditorio lejano necesita argumento textual y no un sistema. El *y todos los árboles* de Lucas contradice el descodificador exclusivo de la higuera y pesa fuertemente en contra de sus versiones más suaves. Mateo 23:36, con la construcción idéntica un capítulo antes, apoya fuertemente la lectura de los contemporáneos en 24:34, mientras que la CJB con *this people* se le opone a fuerza plena. El trabajo de imágenes de los capítulos anteriores no probó una lectura del primer siglo: quitó objeciones, y buena parte de la imposibilidad resultó ser mía. Después el versículo 35 volvió a abrirlo todo: el cielo y la tierra son testigos de pacto en otros lugares, lo cual permite una lectura de antiguo pacto y no establece ninguna, e Isaías 65:20 tiene muerte dentro de la nueva creación. Aquí nacieron dos reglas, el Antirreemplazo y el Colapso de Categorías, y se registró un costo contra mi propia posición en Mateo 5:19.
+**Dónde nos deja esto.** Mateo 24 vuelve una y otra vez a la segunda persona, incluso en sus afirmaciones mayores, de modo que un desplazamiento a un auditorio lejano necesita argumento textual y no un sistema. El *y todos los árboles* de Lucas contradice el descodificador exclusivo de la higuera y pesa fuertemente en contra de sus versiones más suaves. Mateo 23:36, con la construcción idéntica un capítulo antes, apoya fuertemente la lectura de los contemporáneos en 24:34, mientras que la CJB con *this people* se le opone a fuerza plena. El trabajo de imágenes de los capítulos anteriores no probó una lectura del primer siglo: quitó objeciones, y buena parte de la imposibilidad resultó ser mía. Después el versículo 35 volvió a abrirlo todo: el cielo y la tierra son testigos de pacto en otros lugares, lo cual permite una lectura de antiguo pacto y no establece ninguna, e Isaías 65:20 tiene muerte dentro de la nueva creación. Aquí nacieron dos reglas, el Antirreemplazo y el Colapso de Categorías, y se registró un costo contra mi propia posición en Mateo 5:19.
 :::
 
 ::: earned
-**Qué se ganó.** Si algo se completó y algo pasó, entonces la pregunta ya no se puede seguir esquivando en abstracto. ¿Qué dice específicamente la Escritura que cambió, y qué dice que se conservó?
+**La pregunta que esto deja.** Si algo se completó y algo pasó, entonces la pregunta ya no se puede seguir esquivando en abstracto. ¿Qué dice específicamente la Escritura que cambió, y qué dice que se conservó?
 :::

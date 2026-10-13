@@ -2,7 +2,7 @@
 title: "Part II — Normalization Report (EN)"
 type: manuscript-report
 created: 2026-10-13
-status: en-approved
+status: closed-both-editions
 related: "[[PART-I-NORMALIZATION-REPORT]], [[10-manuscript-architecture]], [[EDITORIAL-RULES]]"
 ---
 
@@ -113,3 +113,36 @@ Part II had Greek in bold with no protected span (**αἰών**, **κόσμος*
 ## E. Spanish Part II
 
 Not started; it waits for English approval. Spanish needs the same pass plus its first «Nota textual — deuda declarada» caption (ES ch08), which gets a descriptive title.
+
+---
+
+# Spanish Part II — normalization (2026-10-13)
+
+**English r1.1 was approved and frozen** (`57f4752`, snapshot `d2-normalized` `07e5a64`). Spanish Part II is normalized from that baseline: same rules, same titles, and the same r1.1 decisions, written in Spanish.
+
+**Result:** normalization 0 in every category (before: 17 unstyled grades, 7 research-process labels, 7 gloss gaps, 34 convention hits). Register 0, terminology 0. Build: 55 pages, 0 mojibake, 0 sections missing, original-language gate OK. All 11 flagged pages were visually checked.
+
+**Bilingual parity:** grade spans match English chapter by chapter (ch07 contradice 1 / permite 1 / apoya 3 / exige 2; ch11 apoya 2 / exige 1 / permite 1; etc.). Box differences are only the Spanish-specific textual notes below.
+
+## What changed
+
+- **Conventions and titles:** the same 19 titles as approved English, in Spanish (e.g. «Daniel 7:13: hacia dónde va la figura», «Los *angeloi* de 24:31: con mayor probabilidad celestiales, no misioneros», with R2 carried over). Box labels and rules updated as in Part I.
+- **Grades:** EXIGE / APOYA / CONTRADICE / PERMITE → grade spans. «NO ESTABLECE», «PESA FUERTEMENTE EN CONTRA» and «ESTABLECE UNA RAZÓN PARA PREGUNTAR» → plain lowercase bold. No strength changed.
+- **Greek:** bare bold Greek wrapped and glossed. This covers 12 occurrences across ch07, 08, 10, 11 and 12, including two in prose that the original-language gate caught on the first build (ch07 αἰών/κόσμος; ch10 ἐπισυνάγω/συλλέγω inside the RVR1960 note).
+- **Research process:** «Terminé esta etapa» → «Salí de esto» / «Cerré esta parte de la investigación». «treinta y siete etapas» → «hasta la Parte VII». «este proyecto» ×4 → «la investigación» / «esta investigación» / «he encontrado» (R3 carried over). «registré / archivada / lo registro / dividendo» → «guardé / la tenía / lo señalo / la ventaja». «cuando escribí esto» → «en este punto».
+- **R1 carried over (ch12):** «son por lo menos seis cosas distintas — y más preguntas que esas — con un solo abrigo».
+- **Not applicable:** EN N1 (ch08 "four chapters from here"). The Spanish ch08 never had that sentence.
+
+## Decision for you: the three «Nota textual — deuda declarada» boxes
+
+ES ch08, ch11 and ch12 each printed a box explaining that a verse's RVR1960 text "is not yet verified in this project's documentation", so the verse is described instead of quoted, and that the quotation "remains pending and recorded". That is research-process narration twice over: the debt metaphor and the verification bookkeeping.
+
+**Done (decision D2):** each box is now a **hidden** `<!-- SPANISH-SPECIFIC: … -->` comment with its full text kept. This is what Spanish Part VIII did with its scope labels. The reader sees the verse described with no apology; the bookkeeping survives in the source for the RVR1960 verification work. Approve, or restore any as a printed note under a neutral title?
+
+**Kept as printed notes (legitimate Spanish-only content, already titled):** ch07 «una irregularidad de la RVR1960» (Lucas 2:1 / Mateo 24:14 / Hechos 11:28); ch08 «dónde discrepan las traducciones» (desde ahora veréis / CJB); ch10 «la RVR1960 conserva la distinción por su cuenta» (juntar / recoger); ch11 «la RVR1960 usa dos palabras distintas» (tribus / linajes); ch12 «por qué aquí se cita una Biblia inglesa» (the reasoned CJB exception).
+
+**Ahead:** the same «deuda declarada» box appears in 23 more Spanish chapters (Parts III–VII). If D2 is approved, the same treatment applies there automatically.
+
+## Spanish verdict (2026-10-13): APPROVED
+
+Spanish Part II normalized r1 approved. D2 is approved as the standing pattern and recorded in ES-REGISTER.md. **Part II is normalized and closed in both editions.** Next: Part III English.

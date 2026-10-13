@@ -35,7 +35,7 @@ Lo segundo útil fue negarme a empezar donde suele empezar la discusión.
 Casi todas las conversaciones que tuve sobre Mateo 24 arrancaban en el versículo 14: el evangelio predicado y después el fin. Ahí vivía mi propia posición. Así que me obligué a empezar en el versículo 1, con los discípulos señalando los edificios.
 
 ::: historical
-**Contexto histórico**
+**El templo en el primer siglo**
 
 El templo de Jerusalén no era simplemente un edificio religioso grande. Era el centro de la vida de pacto de Israel, el lugar donde se ofrecía el sacrificio y donde se entendía que la presencia de Dios habitaba entre su pueblo. Fue destruido por los ejércitos romanos en el año 70, un hecho que terminó con el sistema sacrificial tal como había funcionado durante siglos. Un auditorio judío del primer siglo al que se le dice que ese edificio será derribado no está recibiendo una profecía abstracta.
 :::
@@ -46,7 +46,7 @@ El templo es el detonante. Yeshua dice que no quedará piedra sobre piedra, y lo
 
 Del fin **del siglo**.
 
-Aquí el lector hispano tiene una ventaja que el lector inglés no tiene, y sería deshonesto de mi parte esconderla para poder repetir un argumento que aprendí en otro idioma. Muchas Biblias en inglés traducen esa última frase como *el fin del mundo*, y ese lector recibe una conclusión antes de llegar al discurso. La RVR1960 dice *siglo*, que es lo que corresponde: el griego es **αἰών** *(aiōn)*, una edad o una era, y no **κόσμος** *(kosmos)*, el mundo.
+Aquí el lector hispano tiene una ventaja que el lector inglés no tiene, y sería deshonesto de mi parte esconderla para poder repetir un argumento que aprendí en otro idioma. Muchas Biblias en inglés traducen esa última frase como *el fin del mundo*, y ese lector recibe una conclusión antes de llegar al discurso. La RVR1960 dice *siglo*, que es lo que corresponde: el griego es <span class="gr">αἰών</span> (*aiōn*), una edad o una era, y no <span class="gr">κόσμος</span> (*kosmos*), el mundo.
 
 Así que no tengo que rescatar al lector de una mala traducción. Lo que sí tengo que hacer es impedir que la palabra correcta haga más trabajo del que puede.
 
@@ -69,7 +69,7 @@ Después, el versículo 14, el que yo venía citando durante años.
 
 > Y será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin (Mateo 24:14)
 
-Detrás de "todo el mundo" está **ἡ οἰκουμένη** *(hē oikoumenē)*. Yo la leía como la tierra habitada entera, todos los continentes, todas las personas. Y la usaba para sostener que la comisión ya estaba cumplida.
+Detrás de "todo el mundo" está <span class="gr">ἡ οἰκουμένη</span> (*hē oikoumenē*, el mundo habitado). Yo la leía como la tierra habitada entera, todos los continentes, todas las personas. Y la usaba para sostener que la comisión ya estaba cumplida.
 
 Así que fui a buscar dónde más aparece la palabra, y los dos lugares que encontré no son oscuros.
 
@@ -84,11 +84,11 @@ La misma palabra griega recibe dos traducciones distintas. La RVR1960 dice *todo
 :::
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**Lo que *oikoumenē* puede cargar en Mateo 24:14**
 
-**CONTRADICE** → **PERMITE** → **APOYA** → **EXIGE**
+<span class="grade">contradice</span> → <span class="grade">permite</span> → <span class="grade">apoya</span> → <span class="grade">exige</span>
 
-*Oikoumenē* en Lucas 2:1 y Hechos 11:28 **APOYA** un sentido acotado, de mundo romano, para la palabra. No **EXIGE** ese sentido en Mateo 24:14, porque el rango de una palabra no es una regla sobre cada una de sus apariciones.
+*Oikoumenē* en Lucas 2:1 y Hechos 11:28 <span class="grade">apoya</span> un sentido acotado, de mundo romano, para la palabra. No llega a <span class="grade">exige</span> en Mateo 24:14, porque el rango de una palabra no es una regla sobre cada una de sus apariciones.
 :::
 
 Quiero que ese freno quede puesto, porque es exactamente el punto donde yo podría haber fabricado un diccionario. Encontrar dos apariciones que me convienen no es lo mismo que establecer un significado.
@@ -106,11 +106,11 @@ Tengo que ir despacio con la primera, porque estuve a punto de usarla mal.
 La RVR1960 conserva la imagen de llenar: *todo lo he llenado del evangelio de Cristo*. Varias Biblias en inglés, en cambio, suministran un sustantivo que el griego no tiene y dicen que Pablo cumplió *el ministerio* del evangelio. Lo que Pablo llena es el evangelio mismo. La diferencia no es un detalle de estilo: si me apoyo en la palabra castellana *cumplir* o en la inglesa *fulfilled* como si fuera un término técnico que Pablo eligió, estoy construyendo sobre una decisión del traductor y no sobre el texto.
 
 ::: wordstudy
-**Lengua original**
+**Romanos 15:19: lo que Pablo llena**
 
 <span class="gr">πεπληρωκέναι τὸ εὐαγγέλιον τοῦ Χριστοῦ</span> · *peplērōkenai to euangelion tou Christou*
 
-<span class="gr">πεπληρωκέναι</span> es un infinitivo perfecto de <span class="gr">πληρόω</span> *(plēroō)*, llenar o llevar a término. Su objeto es <span class="gr">τὸ εὐαγγέλιον</span> — el evangelio — y no un ministerio de él.
+<span class="gr">πεπληρωκέναι</span> (*peplērōkenai*) es un infinitivo perfecto de <span class="gr">πληρόω</span> (*plēroō*), llenar o llevar a término. Su objeto es <span class="gr">τὸ εὐαγγέλιον</span> (*to euangelion*), el evangelio, y no un ministerio de él.
 
 Lo que establece: Pablo considera que algo queda completo. Lo que **no** establece: en qué sentido está completo. Eso lo decide lo que dice a continuación, no el verbo.
 :::
@@ -122,11 +122,11 @@ Ese fue el momento en que mi confianza en mis propias intuiciones sobre el alcan
 Lo cual significa que mi sentido de lo que "todo" tiene que significar no es un instrumento neutral.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**Romanos 15:19 y 23: lo que muestran y lo que no**
 
-Romanos 15:19 y 23 **APOYAN** la conclusión de que un apóstol del primer siglo podía considerar completo un territorio de misión sin que cada persona de ese territorio lo hubiera escuchado predicar.
+La evidencia de Romanos 15:19 y 23 <span class="grade">apoya</span> la conclusión de que un apóstol del primer siglo podía considerar completo un territorio de misión sin que cada persona de ese territorio lo hubiera escuchado predicar.
 
-**NO ESTABLECEN** nada sobre el alcance de *oikoumenē* en Mateo 24:14. Y Pablo describe su propio encargo pionero, no el cumplimiento de una profecía. Son preguntas distintas, y este libro no tiene permiso para deslizarse de una a la otra.
+**No establecen** nada sobre el alcance de *oikoumenē* en Mateo 24:14. Y Pablo describe su propio encargo pionero, no el cumplimiento de una profecía. Son preguntas distintas, y este libro no tiene permiso para deslizarse de una a la otra.
 :::
 
 ## Esta generación, probada donde corresponde
@@ -139,7 +139,7 @@ Y restablecer la cadena que va de Mateo 23 a Mateo 24 cambió bastante el tono d
 
 ## Tres hipótesis, ninguna adoptada
 
-Terminé esta etapa con tres posibilidades vivas y ningún veredicto, lo cual no es una evasiva sino una descripción honesta de hasta dónde había llegado la evidencia.
+Salí de esto con tres posibilidades vivas y ningún veredicto, lo cual no es una evasiva sino una descripción honesta de hasta dónde había llegado la evidencia.
 
 **A.** El discurso trata de acontecimientos del primer siglo, y su lenguaje debe leerse en consecuencia.
 
@@ -162,9 +162,9 @@ El problema no estaba en Apocalipsis. Era una premisa que yo había traído y qu
 Es la segunda vez en esta investigación que una dificultad resulta ser mía, y no es la última.
 
 ::: whereweare
-**Dónde estamos.** Qué dice un versículo y dónde estamos parados frente a él son dos preguntas, y yo las trataba como una. Mateo 24 empieza con un templo y con una pregunta por el fin del *siglo*, no del *mundo*, y la RVR1960 lo dice así desde el principio. La palabra que sostenía mi argumento más fuerte, *oikoumenē*, se usa del imperio de César y de un hambre del primer siglo, lo cual apoya un sentido acotado sin exigirlo. Y Pablo puede llamar terminada una misión regional mientras cantidades enormes de personas allí nunca lo oyeron, lo que me dice que mis intuiciones sobre la palabra "todo" no son neutrales. Hay tres hipótesis abiertas. Ninguna adoptada.
+**Dónde nos deja esto.** Qué dice un versículo y dónde estamos parados frente a él son dos preguntas, y yo las trataba como una. Mateo 24 empieza con un templo y con una pregunta por el fin del *siglo*, no del *mundo*, y la RVR1960 lo dice así desde el principio. La palabra que sostenía mi argumento más fuerte, *oikoumenē*, se usa del imperio de César y de un hambre del primer siglo, lo cual apoya un sentido acotado sin exigirlo. Y Pablo puede llamar terminada una misión regional mientras cantidades enormes de personas allí nunca lo oyeron, lo que me dice que mis intuiciones sobre la palabra "todo" no son neutrales. Hay tres hipótesis abiertas. Ninguna adoptada.
 :::
 
 ::: earned
-**Qué se ganó.** El pasaje todavía no está decidido, pero las objeciones que yo creía fatales para una lectura del primer siglo empiezan a parecer objeciones a otra cosa. La más grande viene ahora: ¿y el Hijo del Hombre viniendo sobre las nubes?
+**La pregunta que esto deja.** El pasaje todavía no está decidido, pero las objeciones que yo creía fatales para una lectura del primer siglo empiezan a parecer objeciones a otra cosa. La más grande viene ahora: ¿y el Hijo del Hombre viniendo sobre las nubes?
 :::

@@ -39,11 +39,11 @@ Y el blanco queda dicho un versículo después: *descenderá sobre Edom en juici
 Tres reinos separados. Tres juicios que ocurrieron dentro de la historia, por medio de ejércitos. Un vocabulario compartido del cielo viniéndose abajo.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**Derrumbe cósmico en los Profetas: tres reinos**
 
-Que este vocabulario se use de juicios históricos sobre reinos es **TEXTO EXPLÍCITO**, tres veces, y en uno de los casos con el mecanismo militar nombrado.
+Que este vocabulario se use de juicios históricos sobre reinos es texto explícito, tres veces, y en uno de los casos con el mecanismo militar nombrado.
 
-**EXIGE** que el lenguaje de derrumbe cósmico esté, como mínimo, *disponible* para el juicio histórico. **APOYA** leer Mateo 24:29 dentro de esa convención. **NO EXIGE** esa lectura, porque una convención es un rango y no una regla.
+<span class="grade">exige</span> que el lenguaje de derrumbe cósmico esté, como mínimo, *disponible* para el juicio histórico. <span class="grade">apoya</span> leer Mateo 24:29 dentro de esa convención. No llega a <span class="grade">exige</span> para esa lectura, porque una convención es un rango y no una regla.
 :::
 
 ## Y Apocalipsis está citando a Isaías 34 casi palabra por palabra
@@ -71,7 +71,7 @@ En Pentecostés, Pedro se pone de pie y explica lo que está pasando citando a J
 Nadie de los presentes informó que el sol se hubiera apagado. Pedro aplica lenguaje profético cósmico a un acontecimiento dentro del cual él y quienes lo escuchaban estaban parados.
 
 ::: historical
-**Contexto histórico**
+**Pentecostés (Shavuot)**
 
 Pentecostés, o Shavuot, es una de las fiestas de peregrinación de Israel, celebrada cincuenta días después de la Pascua. Hechos 2 sitúa en Jerusalén una multitud grande y variada de judíos y prosélitos por esa razón, y por eso el relato insiste en la cantidad de lugares de los que habían venido.
 :::
@@ -98,7 +98,7 @@ Génesis 37 tiene a José soñando con el sol, la luna y once estrellas incliná
 
 Cuerpos celestes que representan a personas del pacto. Eso está genuinamente ahí, y es genuinamente pertinente.
 
-También es exactamente el lugar donde yo podría haber construido un diccionario nuevo: estrellas igual a líderes, por lo tanto estrellas cayendo igual a gobernantes cayendo, por lo tanto en todos los pasajes. Un sueño no es un léxico. Lo registré como un dato real con una nota explícita de no convertirlo en regla, y esa nota está haciendo más trabajo en este libro que el dato mismo.
+También es exactamente el lugar donde yo podría haber construido un diccionario nuevo: estrellas igual a líderes, por lo tanto estrellas cayendo igual a gobernantes cayendo, por lo tanto en todos los pasajes. Un sueño no es un léxico. Lo guardé como un dato real, con una advertencia explícita de no convertirlo en regla, y esa advertencia está haciendo más trabajo en este libro que el dato mismo.
 
 ::: person
 **Ezequiel**
@@ -118,7 +118,7 @@ Donde un texto suministra su propia decodificación, esa decodificación vale m�
 
 Eso dejó disponible una frase conocida: un tercio de los ángeles se rebeló. Yo la venía cargando como algo que la Escritura afirma.
 
-No lo es. Es una inferencia, armada a partir de las estrellas que la cola del dragón arrastra en Apocalipsis 12:4 más un conjunto de suposiciones sobre qué representa eso. Puede que la inferencia sea correcta. Pero yo la tenía archivada como texto, y no es texto, y la moví a la caja de las inferencias, que es donde corresponde.
+No lo es. Es una inferencia, armada a partir de las estrellas que la cola del dragón arrastra en Apocalipsis 12:4 más un conjunto de suposiciones sobre qué representa eso. Puede que la inferencia sea correcta. Pero yo la tenía como texto, y no es texto, así que la moví a la caja de las inferencias, que es donde corresponde.
 
 La misma rama produjo una advertencia mucho mayor. Isaías 14, el pasaje que más se lee como la caída de Satanás, enuncia su propio referente cuatro versículos antes:
 
@@ -129,9 +129,9 @@ La lectura satánica es tipología posterior. Puede ser tipología legítima. Pe
 Ese es el ejemplo más claro que hay hasta aquí en este libro de la diferencia entre lo que un pasaje dice y la tradición de lectura que llega junto con él.
 
 ::: whereweare
-**Dónde estamos.** El lenguaje de derrumbe cósmico se usa en la Escritura para juicios históricos sobre Babilonia, Edom y Egipto, y en un caso con el ejército invasor nombrado. Apocalipsis 6 cita la versión de Isaías 34. Y en Pentecostés un apóstol aplica esa clase de lenguaje a un día que sus oyentes estaban viviendo. Eso no decide Mateo 24:29, pero elimina la suposición de que semejante lenguaje solo puede describir el final físico del cielo. La Prioridad Intertextual ya es una regla con nombre, con su freno puesto: el precedente restringe, no determina.
+**Dónde nos deja esto.** El lenguaje de derrumbe cósmico se usa en la Escritura para juicios históricos sobre Babilonia, Edom y Egipto, y en un caso con el ejército invasor nombrado. Apocalipsis 6 cita la versión de Isaías 34. Y en Pentecostés un apóstol aplica esa clase de lenguaje a un día que sus oyentes estaban viviendo. Eso no decide Mateo 24:29, pero elimina la suposición de que semejante lenguaje solo puede describir el final físico del cielo. La Prioridad Intertextual ya es una regla con nombre, con su freno puesto: el precedente restringe, no determina.
 :::
 
 ::: earned
-**Qué se ganó.** Si el oscurecimiento y las estrellas cayendo tienen detrás una convención profética, entonces hay que enfrentar la línea siguiente. Envía a sus ángeles con gran voz de trompeta, y juntan a los escogidos de los cuatro vientos.
+**La pregunta que esto deja.** Si el oscurecimiento y las estrellas cayendo tienen detrás una convención profética, entonces hay que enfrentar la línea siguiente. Envía a sus ángeles con gran voz de trompeta, y juntan a los escogidos de los cuatro vientos.
 :::

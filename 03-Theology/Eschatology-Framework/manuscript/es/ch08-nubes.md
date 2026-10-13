@@ -30,18 +30,14 @@ La figura no desciende del cielo al suelo. Va **hacia** el Anciano de días. Es 
 
 Yo venía cargando en la cabeza un Daniel 7 con el movimiento al revés, y nunca lo había comprobado, porque nunca lo había necesitado.
 
-::: textualnote
-**Nota textual — una deuda declarada**
-
-Este capítulo describe Daniel 7:13-14 en vez de citarlo. La razón es de método y conviene decirla: no tengo todavía verificado el texto de la RVR1960 para ese pasaje en la documentación del proyecto, y la regla de esta edición prohíbe traducir al español una cita tomada de una Biblia inglesa. Describir lo que el pasaje hace es honesto; fabricar una cita castellana a partir del inglés no lo sería. La cita verbatim queda pendiente y registrada.
-:::
+<!-- SPANISH-SPECIFIC: Este capítulo describe Daniel 7:13-14 en vez de citarlo. La razón es de método y conviene decirla: no tengo todavía verificado el texto de la RVR1960 para ese pasaje en la documentación del proyecto, y la regla de esta edición prohíbe traducir al español una cita tomada de una Biblia inglesa. Describir lo que el pasaje hace es honesto; fabricar una cita castellana a partir del inglés no lo sería. La cita verbatim queda pendiente y registrada. -->
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**Daniel 7:13: hacia dónde va la figura**
 
-La dirección del movimiento en Daniel 7:13 es **TEXTO EXPLÍCITO**. **EXIGE** que la imagen de origen sea una presentación ante un trono y no un descenso a la tierra.
+La dirección del movimiento en Daniel 7:13 es texto explícito. <span class="grade">exige</span> que la imagen de origen sea una presentación ante un trono y no un descenso a la tierra.
 
-Lo que **NO ESTABLECE** es que Mateo 24:30 tenga por eso que cargar únicamente con ese sentido. Mateo cita a Daniel; no queda encerrado en Daniel. Ese es un salto de inferencia real y no lo voy a cruzar en silencio.
+Lo que **no** establece es que Mateo 24:30 tenga por eso que cargar únicamente con ese sentido. Mateo cita a Daniel; no queda encerrado en Daniel. Ese es un salto de inferencia real y no lo voy a cruzar en silencio.
 :::
 
 ## El vocabulario de las nubes, reunido
@@ -65,7 +61,7 @@ Eso es una venida en nube. Está enunciada como una venida de Jehová. Y lo que 
 Quiero tener cuidado con lo que eso me da. Me da un precedente de lenguaje de venida en nubes que describe un juicio divino ejecutado dentro de la historia. No me dice, por sí solo, qué está describiendo Mateo 24:30.
 
 ::: historical
-**Contexto histórico**
+**Tormenta y nube como lenguaje de juicio**
 
 Isaías 19 pertenece a una serie de oráculos contra las naciones vecinas. La literatura profética del Cercano Oriente antiguo describe con regularidad la acción de una divinidad contra un reino en lenguaje de tormenta, nube y perturbación cósmica, mientras que los hechos a los que se refiere son militares y políticos. Isaías no es una excepción en esto; reconocer la convención no es explicarla para hacerla desaparecer.
 :::
@@ -107,7 +103,7 @@ La RVR1960 dice *desde ahora veréis*, y coloca la afirmación temporal en el pu
 
 ## Una regla que sale de aquí y ya no se va
 
-De esta etapa salió algo general que gobierna el resto del libro, y conviene enunciarlo aparte.
+De este capítulo salió algo general que gobierna el resto del libro, y conviene enunciarlo aparte.
 
 **Antes de asignarle a una imagen de Apocalipsis o de los Profetas un sentido literal moderno, busca dónde usó la Escritura esa imagen por primera vez.**
 
@@ -123,14 +119,14 @@ Un símbolo puede describir un hecho enteramente real. Tratar *simbólico* y *ef
 
 ## Una decisión de traducción que conviene ver
 
-La CJB traduce **γῆ** *(gē)* como *la Tierra* —con mayúscula, es decir, la tierra de Israel— tanto en Mateo 24:30 como en Apocalipsis 1:7, donde otras traducciones ponen *la tierra* en sentido amplio. La RVR1960 dice *la tierra*, sin resolver la ambigüedad.
+La CJB traduce <span class="gr">γῆ</span> (*gē*, tierra, país) como *la Tierra* —con mayúscula, es decir, la tierra de Israel— tanto en Mateo 24:30 como en Apocalipsis 1:7, donde otras traducciones ponen *la tierra* en sentido amplio. La RVR1960 dice *la tierra*, sin resolver la ambigüedad.
 
 No lo cito como prueba. La decisión de un traductor es el juicio de un traductor. Lo cito porque la diferencia entre *todas las tribus de la tierra* en sentido amplio y *todas las familias de la Tierra de Israel* es enorme, y un lector con una sola Biblia sobre la mesa nunca se entera de que hubo una decisión.
 
 ::: whereweare
-**Dónde estamos.** La imagen de Mateo 24:30 viene de Daniel 7, y en Daniel la figura va **hacia** el Anciano de días: es una presentación ante un trono, no un descenso al suelo. Eso exige que la imagen de origen sea esa, y no establece que Mateo quede encerrado en ella. El vocabulario de nubes del Tanaj describe con regularidad acción divina dentro de la historia, e Isaías 19 da el precedente más claro. Mateo 26:64 sigue siendo el dato más incómodo: el trato de segunda persona es explícito y no se toca, mientras que qué clase de ver exige queda sin probar y abierto. Y símbolo no es lo contrario de real.
+**Dónde nos deja esto.** La imagen de Mateo 24:30 viene de Daniel 7, y en Daniel la figura va **hacia** el Anciano de días: es una presentación ante un trono, no un descenso al suelo. Eso exige que la imagen de origen sea esa, y no establece que Mateo quede encerrado en ella. El vocabulario de nubes del Tanaj describe con regularidad acción divina dentro de la historia, e Isaías 19 da el precedente más claro. Mateo 26:64 sigue siendo el dato más incómodo: el trato de segunda persona es explícito y no se toca, mientras que qué clase de ver exige queda sin probar y abierto. Y símbolo no es lo contrario de real.
 :::
 
 ::: earned
-**Qué se ganó.** La objeción de las nubes no quedó eliminada, pero tampoco resultó ser el muro que yo esperaba. Queda la otra mitad de la imaginería: el sol oscurecido, la luna sin resplandor, las estrellas cayendo. Si eso también tiene domicilio anterior en la Escritura, la pregunta cambia de forma.
+**La pregunta que esto deja.** La objeción de las nubes no quedó eliminada, pero tampoco resultó ser el muro que yo esperaba. Queda la otra mitad de la imaginería: el sol oscurecido, la luna sin resplandor, las estrellas cayendo. Si eso también tiene domicilio anterior en la Escritura, la pregunta cambia de forma.
 :::
