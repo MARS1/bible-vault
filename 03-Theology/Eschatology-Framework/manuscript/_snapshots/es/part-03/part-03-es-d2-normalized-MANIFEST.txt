@@ -1,0 +1,14 @@
+Edition:        Español (es)
+Part:           3  Parte III: Lo que el nuevo pacto cambió realmente
+Milestone:      d2-normalized
+Source commit:  dd26e6aa88e85285b166fd9fbca9a8ec2b6a0c46
+Commit date:    2026-10-13
+Tree state:     source committed at this commit
+Built:          2026-10-13
+Extent:         13,976 words, 71 pages
+
+NOTE
+Book One consolidation: Part III ES normalized from approved EN d2-normalized, r1.1 approved 2026-10-13. See PART-III-NORMALIZATION-REPORT.md.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit dd26e6a
