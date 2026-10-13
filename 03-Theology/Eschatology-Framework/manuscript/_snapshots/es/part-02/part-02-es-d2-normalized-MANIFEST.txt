@@ -1,0 +1,14 @@
+Edition:        Español (es)
+Part:           2  Parte II: El discurso del Monte de los Olivos, leído en su propio siglo
+Milestone:      d2-normalized
+Source commit:  e70e9fc6a68705f1b205efe39f580ac28e4d6b3f
+Commit date:    2026-10-13
+Tree state:     source committed at this commit
+Built:          2026-10-13
+Extent:         10,154 words, 55 pages
+
+NOTE
+Book One consolidation: Part II ES normalized from approved EN d2-normalized, r1 approved 2026-10-13. See PART-II-NORMALIZATION-REPORT.md.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit e70e9fc
