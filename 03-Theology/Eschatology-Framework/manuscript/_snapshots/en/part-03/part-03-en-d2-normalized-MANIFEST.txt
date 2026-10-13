@@ -1,0 +1,14 @@
+Edition:        English (en)
+Part:           3  Part III: What the New Covenant Actually Changed
+Milestone:      d2-normalized
+Source commit:  91e0766250fd8768ae5395514f38fc45fe2ebb91
+Commit date:    2026-10-13
+Tree state:     source committed at this commit
+Built:          2026-10-13
+Extent:         13,135 words, 69 pages
+
+NOTE
+Book One consolidation: Part III EN normalized to the Part VIII-IX benchmark, r1.1 approved 2026-10-13. See PART-III-NORMALIZATION-REPORT.md.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 91e0766
