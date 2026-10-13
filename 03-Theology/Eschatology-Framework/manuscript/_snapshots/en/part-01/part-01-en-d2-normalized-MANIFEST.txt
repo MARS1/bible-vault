@@ -1,0 +1,14 @@
+Edition:        English (en)
+Part:           1  Part I: The Question That Would Not Stay Small
+Milestone:      d2-normalized
+Source commit:  65f72b8afbc0d31989376a8e7803f1ca104840d6
+Commit date:    2026-10-13
+Tree state:     source committed at this commit
+Built:          2026-10-13
+Extent:         10,721 words, 54 pages
+
+NOTE
+Book One consolidation: Part I EN normalized to the Part VIII-IX benchmark, r1.1 approved 2026-10-13. See PART-I-NORMALIZATION-REPORT.md.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 65f72b8
