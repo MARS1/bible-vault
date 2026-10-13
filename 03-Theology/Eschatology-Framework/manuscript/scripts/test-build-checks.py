@@ -98,10 +98,13 @@ for label, text, cat, want in [
     ("*translit* (term) accepted",          f"*Armageddon* ({GR('Ἁρμαγεδών')})", "gloss", 0),
     ("3+ word clause = quotation, exempt",  f"Greek: {GR('καὶ κατέβη πῦρ')} — \"and fire\"", "gloss", 0),
     ("blockquoted verse exempt",            f"> {GR('πόλεμος')}", "gloss", 0),
+    ("word-study header form accepted",     f"{GR('κοινός')} · *koinos* · common, ordinary", "gloss", 0),
     ("table row exempt",                    f"| 20:3 | {GR('μικρὸν χρόνον')} | *mikros* |", "gloss", 0),
     ("second use after gloss NOT flagged",  f"{GR('πόλεμος')} (*polemos*)\nagain {GR('πόλεμος')}", "gloss", 0),
     ("second chapter heading flagged",      "# Chapter 1: a\n\n# Chapter 2: b", "structure", 1),
     ("Coda heading allowed",                "# Chapter 54: a\n\n# Coda: b", "structure", 0),
+    ("paragraph opening (a) flagged",       "text\n\n(a) First option. (b) Second.", "structure", 1),
+    ("escaped \\(a) NOT flagged",            "text\n\n\\(a) First option. (b) Second.", "structure", 0),
     ("#### heading flagged",                "#### too deep", "structure", 1),
     # 2026-10-13: stage-talk without a number was invisible to the numbered pattern,
     # and it had survived even the Part VIII revision ("fifty-eight stages", ch47/ch49).

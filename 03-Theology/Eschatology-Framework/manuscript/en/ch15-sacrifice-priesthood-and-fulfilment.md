@@ -51,11 +51,11 @@ Candidate meanings remain: the goat itself, "the goat that departs"; removal or 
 By Isaiah, sacrificial vocabulary has concentrated onto a person. I would like Isaiah 53:10 to say plainly that the servant *is* a guilt offering. Two of my three translations read it that way. One does not.
 
 ::: evidence
-**How strongly evidence bears — contrary evidence, printed**
+**Isaiah 53:10 — contrary evidence, printed**
 
 The ESV reads "**when** his soul makes an offering for guilt." The RVR1960 reads "**cuando** haya puesto su vida en expiación por el pecado." The CJB introduces a conditional: "to see **if** he would present himself as a guilt offering. **If he does**…"
 
-That is a different construal of the Hebrew, not a stylistic preference. <span class="he">אָשָׁם</span> *(asham)*, guilt offering, is present in all three. What is contested is whether Isaiah **asserts** that the servant becomes one or **poses it conditionally**.
+That is a different construal of the Hebrew, not a stylistic preference. <span class="he">אָשָׁם</span> (*asham*), guilt offering, is present in all three. What is contested is whether Isaiah **asserts** that the servant becomes one or **poses it conditionally**.
 
 Even under the weaker reading the finding survives, and it is worth stating at the strength it actually has: Isaiah has already put person, sin-bearing and guilt-offering vocabulary together. The New Testament did not look at Yeshua after the fact and invent sacrificial symbolism. The categories were converging on a person before anyone had to explain a crucifixion.
 :::
@@ -69,7 +69,7 @@ At the table, Yeshua says the cup is His blood of the covenant. That framing is 
 
 The ESV at Matthew 26:28 reads "my blood of the covenant." The RVR1960 reads "mi sangre del **nuevo** pacto." The CJB reads "ratifies the **New** Covenant."
 
-The presence of *new*, <span class="gr">καινῆς</span> *(kainēs)*, at Matthew 26:28 is text-critically contested: it is in the Byzantine and majority tradition the RVR1960 follows and absent from the critical text the ESV follows.
+The presence of *new*, <span class="gr">καινῆς</span> (*kainēs*), at Matthew 26:28 is text-critically contested: it is in the Byzantine and majority tradition the RVR1960 follows and absent from the critical text the ESV follows.
 
 So the claim "Yeshua Himself called it the new covenant" should rest on **Luke 22:20 and 1 Corinthians 11:25**, where the word is secure — not on Matthew 26:28. The covenantal framing of Matthew is secure. The specific adjective is not. I am flagging this as a manuscript question rather than resolving it; full apparatus work is beyond what I have done.
 :::
@@ -96,7 +96,7 @@ So: fulfilment can mean that an earlier God-given institution reaches its intend
 Read what that does not say. It does not say the earlier form was false. It does not say its continuation is impossible. It says it would misunderstand its own purpose. That distinction is load-bearing, and I will need it intact three chapters from now when a far more contested institution arrives.
 :::
 
-This is the most useful thing this stage produced, and it is useful precisely because it refuses both of the positions I had been offered my whole life. It does not insult the Torah, and it does not freeze it.
+This is the most useful thing this chapter produced, and it is useful precisely because it refuses both of the positions I had been offered my whole life. It does not insult the Torah, and it does not freeze it.
 
 ## Repetition, and a man who sits down
 
@@ -129,9 +129,9 @@ I am not resolving it here. Psalm 110 holds both offices in one psalm and does n
 :::
 
 ::: whereweare
-**Where we are.** Leviticus gives two movements, atonement and removal, and the New Testament's sin-bearing language lands on both. Isaiah had already concentrated sacrificial vocabulary onto a person, though less securely than I wanted. Fulfilment is defined here as pattern reaching its reality, not falsehood giving way to truth — which neither insults the Torah nor freezes it. The priesthood changes because a priest-king could not be produced from within a tribally separated system. And "new" at Matthew 26:28 is contested, so the claim rests on Luke and Paul instead.
+**Where this leaves us.** Leviticus gives two movements, atonement and removal, and the New Testament's sin-bearing language lands on both. Isaiah had already concentrated sacrificial vocabulary onto a person, though less securely than I wanted. Fulfilment is defined here as pattern reaching its reality, not falsehood giving way to truth — which neither insults the Torah nor freezes it. The priesthood changes because a priest-king could not be produced from within a tribally separated system. And "new" at Matthew 26:28 is contested, so the claim rests on Luke and Paul instead.
 :::
 
 ::: earned
-**What it earned.** Sacrifice was the institution the whole system was built around, and it has a defensible account. The next one is smaller, older than Sinai, and it is where the apostles themselves had their sharpest recorded fight.
+**The question this leaves.** Sacrifice was the institution the whole system was built around, and it has a defensible account. The next one is smaller, older than Sinai, and it is where the apostles themselves had their sharpest recorded fight.
 :::

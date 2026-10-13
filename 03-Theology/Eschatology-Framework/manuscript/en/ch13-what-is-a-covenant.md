@@ -24,14 +24,14 @@ I am telling you that rather than quietly renumbering, because the gap between t
 
 ## The words
 
-Hebrew: **בְּרִית** *(berit)*. Greek, in both the Septuagint and the New Testament: **διαθήκη** *(diathēkē)*.
+Hebrew: <span class="he">בְּרִית</span> (*berit*, covenant). Greek, in both the Septuagint and the New Testament: <span class="gr">διαθήκη</span> (*diathēkē*).
 
 A working definition, which I will hold loosely enough to be corrected:
 
 > A biblical covenant is a solemn, binding relationship established by commitments or promises, typically involving specified parties, obligations, signs, blessings, consequences, and sometimes an oath or a sacrifice.
 
 ::: wordstudy
-**Original language**
+**To cut a covenant**
 
 <span class="he">כָּרַת בְּרִית</span> · *karat berit* · literally **to cut a covenant**
 
@@ -78,35 +78,35 @@ And the Sabbath, to Israel:
 
 > It is a sign forever between me and the people of Israel that in six days the LORD made the heavens and the earth (Exodus 31:17)
 
-Note what Exodus 31:17 grounds it in. Creation, not only Sinai. I am flagging that and deliberately not spending it here; it is a datum for the Sabbath chapter, and cashing it early would be exactly the kind of move this book keeps refusing.
+Note what Exodus 31:17 grounds it in. Creation, not only Sinai. I am noting that and deliberately setting it aside here; it is a datum for the Sabbath chapter, and using it early would be exactly the kind of move this book keeps refusing.
 
 ## The finding this chapter produced, which I was not looking for
 
-Then, while laying those three signs side by side, something appeared that neither the circumcision stage nor my own notes on the word *olam* had caught.
+Then, while laying those three signs side by side, something appeared that neither the circumcision work nor my own notes on the word *olam* had caught.
 
 The same Hebrew phrase is attached to all three.
 
-**בְּרִית עוֹלָם** *(berit olam)* — usually rendered *everlasting covenant*. It is at Genesis 9:16 of the rainbow. It is at Genesis 17:13 of circumcision. It is at Exodus 31:16 of the Sabbath.
+<span class="he">בְּרִית עוֹלָם</span> (*berit olam*) — usually rendered *everlasting covenant*. It is at Genesis 9:16 of the rainbow. It is at Genesis 17:13 of circumcision. It is at Exodus 31:16 of the Sabbath.
 
 Three institutions. One phrase. And three completely different treatments, in every tradition I know of, including mine.
 
 Nobody argues the rainbow ended. The apostles did not require circumcision of Gentiles. And the Sabbath is contested ground that this book has not yet walked onto.
 
 ::: evidence
-**How strongly evidence bears**
+***Berit olam* on three institutions**
 
-That *berit olam* attaches to all three is **EXPLICIT TEXT**.
+That *berit olam* attaches to all three is explicit text.
 
-It **REQUIRES** the conclusion that *olam*, by itself, cannot determine how any one of these institutions functions under later covenantal developments. The phrase is identical; the questions each institution raises are not, and the phrase does not distinguish between them.
+It <span class="grade">requires</span> the conclusion that *olam*, by itself, cannot determine how any one of these institutions functions under later covenantal developments. The phrase is identical; the questions each institution raises are not, and the phrase does not distinguish between them.
 
 I have to be careful about how I state the second half, because it is easy to overreach here and I nearly did. What Acts 15 rejects is imposing circumcision on Gentiles as a requirement for salvation and covenant inclusion. That is **not** the same as Scripture announcing that the Abrahamic *berit olam* has ended, and I do not get to slide from the first to the second because it would tidy the argument.
 
-It **DOES NOT ESTABLISH** that *olam* means "temporary." That would be the opposite error, and it is the one I would have made a year earlier. What it establishes is narrower and more useful: *olam* is not the load-bearing word that arguments on both sides assume it is.
+It does **not** establish that *olam* means "temporary." That would be the opposite error, and it is the one I would have made a year earlier. What it establishes is narrower and more useful: *olam* is not the load-bearing word that arguments on both sides assume it is.
 :::
 
 I want to be precise about what that did to my own position, because it cut against me. I had been prepared to lean on *everlasting* when it suited a case and to explain it away when it did not. Finding the phrase distributed across three institutions I treat three ways removed the option of doing either silently.
 
-The lexical study of *olam* is still owed. This finding does not discharge it. It tells me what that study can and cannot be expected to deliver when it comes.
+The lexical study of *olam* is still to be done. This finding does not replace it. It tells me what that study can and cannot be expected to deliver when it comes.
 
 ::: textualnote
 **Textual note — the translations are not consistent, and one is**
@@ -127,7 +127,7 @@ There is something genuinely biblical in that instinct, and it needs one correct
 Noah's covenant is not a failed first attempt, and it does not vanish when Abraham arrives. Sinai is not Abraham version two; it is connected to Abraham and distinct from it. David does not erase Abraham. The story becomes more specific as it goes, concentrating toward Messiah rather than being replaced at each step.
 
 ::: historical
-**Historical context**
+**Covenant as an ancient Near Eastern form**
 
 Covenant, in the ancient Near East, was a recognizable legal and political form, used between kings and between a king and a subject people. Its elements — named parties, stipulations, witnesses, blessings for loyalty, curses for betrayal, a ratifying ceremony — appear across the region's treaty documents. Israel's Scriptures use that recognizable shape and put Yahweh in it. Recognizing the form is not reducing revelation to politics; it is noticing the vocabulary the first hearers already had.
 :::
@@ -140,7 +140,7 @@ That is not accumulation. A covenant has genuinely been broken, and the text say
 
 But notice what Yahweh does not say. There is no sentence anywhere in the passage announcing that everything previously promised is canceled. What the passage actually says next is that the Torah goes inside: *I will put my Torah within them, and I will write it on their hearts.*
 
-So both things stand at once. The parties are the same — Yahweh, Israel, Judah. Yahweh still calls what He writes within them **my Torah**, <span class="he">תּוֹרָתִי</span> *(torati)*, which is explicit. The relationship formula is the same: *I will be their God, and they shall be my people.* And against that, it is genuinely new, genuinely unlike the Exodus covenant, and it deals with a covenant that was genuinely broken.
+So both things stand at once. The parties are the same — Yahweh, Israel, Judah. Yahweh still calls what He writes within them **my Torah**, <span class="he">תּוֹרָתִי</span> (*torati*), which is explicit. The relationship formula is the same: *I will be their God, and they shall be my people.* And against that, it is genuinely new, genuinely unlike the Exodus covenant, and it deals with a covenant that was genuinely broken.
 
 What the passage does **not** do is enumerate how each command functions under the new covenant. It names the Torah as His and relocates it; it does not tell me that every element of the Mosaic legislation continues in precisely the same covenantal form. Saying it did would be the Category Collapse I am about to spend five chapters refusing.
 
@@ -155,9 +155,9 @@ The passage holds both. A reading that needs one half to disappear is telling me
 That is the correction this chapter makes to my own earlier language. I had been saying *one covenant story*. That is too flat. What Scripture gives is one covenantal story containing multiple covenants, culminating in Messiah — which avoids the two opposite errors of pretending nothing ever changed and pretending the story changed owners.
 
 ::: whereweare
-**Where we are.** Covenant, commandment, promise and sign are four things, not one, and separating them is what makes the rest of this Part possible. *Berit olam* sits on the rainbow, on circumcision and on the Sabbath, which are treated three different ways — so the phrase cannot settle any of them, and *olam* is not the decisive word either side assumes. The covenants accumulate without being addenda to one contract, and Jeremiah 31 is genuinely new and genuinely continuous at the same time, with neither half permitted to swallow the other.
+**Where this leaves us.** Covenant, commandment, promise and sign are four things, not one, and separating them is what makes the rest of this Part possible. *Berit olam* sits on the rainbow, on circumcision and on the Sabbath, which are treated three different ways — so the phrase cannot settle any of them, and *olam* is not the decisive word either side assumes. The covenants accumulate without being addenda to one contract, and Jeremiah 31 is genuinely new and genuinely continuous at the same time, with neither half permitted to swallow the other.
 :::
 
 ::: earned
-**What it earned.** The tools exist now. So the question that started this Part can finally be asked in a form that can be answered: when Scripture says a new covenant came, what specifically does it say changed?
+**The question this leaves.** The tools exist now. So the question that started this Part can finally be asked in a form that can be answered: when Scripture says a new covenant came, what specifically does it say changed?
 :::

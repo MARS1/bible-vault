@@ -43,13 +43,13 @@ Hosea takes the covenant formula and runs it backward and then forward: *not my 
 Paul quotes exactly that in Romans 9, and applies it to the calling of Gentiles. Peter does something structurally similar in 1 Peter 2, taking Israel's covenant vocabulary — chosen race, royal priesthood, holy nation — and addressing it to his readers.
 
 ::: evidence
-**How strongly evidence bears**
+**Israel's covenant vocabulary, applied to communities including Gentiles**
 
-That apostolic writers apply Israel's covenant vocabulary to communities including Gentiles is **EXPLICIT TEXT**, in Romans 9, Ephesians 2 and 1 Peter 2.
+That apostolic writers apply Israel's covenant vocabulary to communities including Gentiles is explicit text, in Romans 9, Ephesians 2 and 1 Peter 2.
 
-It **SUPPORTS** a real, substantial incorporation rather than a metaphor or a courtesy title.
+It <span class="grade">supports</span> a real, substantial incorporation rather than a metaphor or a courtesy title.
 
-It **DOES NOT ESTABLISH** that the vocabulary has been transferred away from its original referent. Transfer and inclusion are different operations, and the texts that perform the second are routinely cited as though they performed the first.
+It does **not** establish that the vocabulary has been transferred away from its original referent. Transfer and inclusion are different operations, and the texts that perform the second are routinely cited as though they performed the first.
 :::
 
 ## The olive tree, which says the quiet part out loud
@@ -85,7 +85,7 @@ Interest runs both ways and settles nothing: the CJB is a Messianic Jewish trans
 
 What can be said now is contextual rather than lexical: verse 14 has just named *the dividing wall of hostility* as the thing broken down, and verse 16 speaks of reconciliation *killing the hostility*. Hostility is the paragraph's recurring object. That favours the narrower reading without demonstrating it.
 
-This needs Greek work I have not done, so it stays open. It is the fourth passage in this project where an English rendering has been quoted to me as though it were the verse — after Mark 7:19's parenthesis, Hebrews 4:9's *sabbatismos*, and Colossians 2:14.
+This needs Greek work I have not done, so it stays open. It is the third passage in this investigation where an English rendering has been quoted to me as though it were the verse — after Mark 7:19's parenthesis and Hebrews 4:9's *sabbatismos*.
 :::
 
 ## The brake, at full strength
@@ -96,7 +96,7 @@ Whatever else is concluded, Romans 11 forecloses one option explicitly.
 
 That is a very strong brake against simplistic replacement. Ethnic Israel did not stop mattering to Paul, and a reading that needs it to have stopped mattering is arguing with him rather than from him.
 
-*All Israel will be saved* at 11:26 I am leaving open. <span class="gr">πᾶς Ἰσραήλ</span> *(pas Israēl)* is among the most disputed phrases in the letter, and the candidates — ethnic Israel, the elect within Israel, the whole covenant people including Gentiles, a future restoration — are not settled by theological instinct, including mine.
+*All Israel will be saved* at 11:26 I am leaving open. <span class="gr">πᾶς Ἰσραήλ</span> (*pas Israēl*) is among the most disputed phrases in the letter, and the candidates — ethnic Israel, the elect within Israel, the whole covenant people including Gentiles, a future restoration — are not settled by theological instinct, including mine.
 
 ## And now the second question in the title
 
@@ -141,15 +141,15 @@ Covenant is not commandment is not sign. Fulfilment is not abolition. Inclusion 
 :::
 
 ::: whereweare
-**Where we are.** *People of God* begins as Israelite covenant language and is never merely that; Torah admits the foreigner, Isaiah calls Egypt *my people*, and the apostles apply Israel's vocabulary to communities including Gentiles. The structure is incorporation into an existing people, not substitution — and Romans 11:29 forecloses the replacement reading in Paul's own words. Ephesians 2:15 is left open pending Greek work, because two translations make materially different claims about what was abolished. And the investigation has been recentered on the question that started it, with preterism held explicitly downstream of the evidence rather than assumed above it.
+**Where this leaves us.** *People of God* begins as Israelite covenant language and is never merely that; Torah admits the foreigner, Isaiah calls Egypt *my people*, and the apostles apply Israel's vocabulary to communities including Gentiles. The structure is incorporation into an existing people, not substitution — and Romans 11:29 forecloses the replacement reading in Paul's own words. Ephesians 2:15 is left open pending Greek work, because two translations make materially different claims about what was abolished. And the investigation has been recentered on the question that started it, with preterism held explicitly downstream of the evidence rather than assumed above it.
 :::
 
 ::: chain
-**Growing Chain — Checkpoint 2**
+**The growing chain — checkpoint 2**
 
 *Fulfilment is not abolition, and the covenant story did not change owners.*
 :::
 
 ::: earned
-**What it earned.** The covenant question has an answer I can defend, and it is not the one either side of my original argument was offering. Which means the original question can finally be put back on the table in its own terms: Israel, the nations, and what the commission actually required of whom.
+**The question this leaves.** The covenant question has an answer I can defend, and it is not the one either side of my original argument was offering. Which means the original question can finally be put back on the table in its own terms: Israel, the nations, and what the commission actually required of whom.
 :::

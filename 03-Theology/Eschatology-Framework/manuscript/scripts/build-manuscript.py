@@ -168,7 +168,7 @@ GRADE_WORDS = re.compile(r"\b(SUPPORTS|PERMITS|REQUIRES|CONTRADICTS|DOES NOT EST
 # ticket ids, bead ids, and the scope labels that now live in HTML comments.
 LABELS = re.compile(r"\b(Stage|Etapa)s? \d|\bSYNC-\d|\bPR-\d{3}|\bq\d{3}\b|\bBIBLE-[a-z0-9]{3}\b|"
                     r"SPANISH-SPECIFIC|SOURCE-LANGUAGE|ESPEC[IÍ]FICO DEL ESPA[NÑ]OL")
-SRC_SPAN = re.compile(r'<span class="(gr|he)">(.*?)</span>(.{0,3})', re.S)
+SRC_SPAN = re.compile(r'<span class="(gr|he)">(.*?)</span>(.{0,4})', re.S)
 # Box labels and rules the Part VIII revision replaced: "Where we are." became
 # "Where this leaves us.", "What it earned." became "The question this leaves."
 # (RESEARCH-PROCESS-002 retired the bookkeeping metaphor), and the `---` rules
@@ -209,6 +209,7 @@ def check_normalization(files):
         body = re.sub(r"<!--.*?-->", lambda m: "\n" * m.group(0).count("\n"), body, flags=re.S)
         glossed = set()
         h1 = 0
+        prev = ""
         for i, ln in enumerate(body.split("\n"), 1):
             for m in DECOR.finditer(ln):
                 out["decor"].append((f.name, i, m.group(0)))
@@ -233,6 +234,11 @@ def check_normalization(files):
                     out["structure"].append((f.name, i, "second chapter-level heading"))
             if ln.startswith("####"):
                 out["structure"].append((f.name, i, "heading deeper than ###"))
+            # A paragraph opening "(a) " becomes an ordered list in Pandoc and prints
+            # as "1." -- caught by the reviewer in ch14 (2026-10-13). Escape as "\(a)".
+            if re.match(r"\([a-z]\) \S", ln) and (i == 1 or not prev.strip()):
+                out["structure"].append((f.name, i, "paragraph opens with (a): Pandoc makes it a list"))
+            prev = ln
             # Quotation lines are glossed in the next sentence; table rows carry the
             # transliteration in a neighbouring column (ch51's word table).
             if ln.lstrip().startswith((">", "|")):
@@ -249,7 +255,8 @@ def check_normalization(files):
                     continue
                 # Both benchmark forms: "term (*translit*, gloss)" and, inside an
                 # existing parenthesis, "(term, *translit*)".
-                if re.match(r"\s*\(\*|,\s*\*", m.group(3)):
+                # Third form, the word-study header: "<span>…</span> · *translit* · gloss".
+                if re.match(r"\s*\(\*|,\s*\*|\s*·\s*\*", m.group(3)):
                     glossed.add(term)
                 else:
                     out["gloss"].append((f.name, i, term[:30]))

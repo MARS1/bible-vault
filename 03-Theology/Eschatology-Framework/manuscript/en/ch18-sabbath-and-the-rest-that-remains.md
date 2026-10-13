@@ -14,7 +14,7 @@ related: "[[10-manuscript-architecture]], [[00w-sabbath-creation-covenant-sign-s
 
 Of the institutions in this Part, this is the one with a claim none of the others have: it is rooted in creation before it is rooted in Sinai.
 
-Chapter 13 noticed that in passing and deliberately did not spend it. Here is where it gets spent.
+Chapter 13 noticed that in passing and deliberately set it aside. Here is where it is taken up.
 
 ## Two grounds, in two different places
 
@@ -52,28 +52,26 @@ The brake, in the same breath: this may not become a device for keeping every in
 
 ## Then the vocabulary changes at verse 9
 
-For most of the argument Hebrews uses <span class="gr">κατάπαυσις</span> *(katapausis)* for rest. At 4:9 it stops.
+For most of the argument Hebrews uses <span class="gr">κατάπαυσις</span> (*katapausis*) for rest. At 4:9 it stops.
 
 ::: wordstudy
-**Original language — and the gap in it**
+***Sabbatismos* at Hebrews 4:9 — and what could not be confirmed**
 
 <span class="gr">ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ</span> — "Therefore, a *sabbatismos* remains for the people of God."
 
-<span class="gr">σαββατισμός</span> *(sabbatismos)* — **not** *katapausis* again. Built from the Sabbath word-family, and deployed immediately after the author has cited Genesis's seventh-day rest. The shift is deliberate and it is real evidence.
+<span class="gr">σαββατισμός</span> (*sabbatismos*) — **not** *katapausis* again. Built from the Sabbath word-family, and deployed immediately after the author has cited Genesis's seventh-day rest. The shift is deliberate and it is real evidence.
 
 The brake runs both ways. The word does **not** automatically prove that Hebrews commands Saturday observance. Nor may it be flattened into generic spiritual relaxation.
 
 **The translations divide along exactly that line.** The ESV reads "a **Sabbath rest**," which leans toward a *state* entered. The CJB reads "a ***Shabbat*-keeping**," which leans toward an *observance* practiced. Thayer's lexicon lists both senses explicitly and declines to choose between them.
 
-⛔ **And here is what I could not verify.** I set out to establish attested usage of *sabbatismos* from primary sources rather than from theological dictionaries. This is how far that got.
+**What could and could not be confirmed outside the New Testament.**
 
-**Established:** the word occurs **once** in the Greek New Testament, here. Thayer's cites Plutarch, *De Superstitione* c. 3, plus ecclesiastical writings, as attestation outside the New Testament.
+**Established:** the word occurs **once** in the Greek New Testament, here. Thayer's lexicon cites Plutarch, *De Superstitione* c. 3, plus ecclesiastical writings, as attestation outside the New Testament.
 
-**Not verified:** a Perseus lookup for *De Superstitione* §3 returned the wrong treatise entirely. A full-text search located a Sabbath passage in that work — but at **§8, not §3**, and only in English translation, in wording that could render several different Greek constructions.
+**Not confirmed:** the Sabbath passage in that work of Plutarch sits at §8, not §3, and the Greek word itself was not confirmed at either place. So "*sabbatismos* is attested in Plutarch" stands as **reported by a lexicon, not independently verified.**
 
-So the dictionary cites §3; the Sabbath material I found sits at §8; and **the Greek word itself was not confirmed in either.** The status of "*sabbatismos* is attested in Plutarch" is therefore: **reported by a lexicon, not independently verified by me.**
-
-To close it: obtain the Greek text of Plutarch *Moralia* 166A and confirm whether <span class="gr">σαββατισμούς</span> actually appears; then check the ecclesiastical attestations — Justin Martyr's *Dialogue with Trypho*, Epiphanius, the *Apostolic Constitutions* — in Greek, recording each by author, work and section.
+<!-- VERIFICATION TRAIL (kept, not printed): **And here is what I could not verify.** I set out to establish attested usage of *sabbatismos* from primary sources rather than from theological dictionaries. This is how far that got. **Established:** the word occurs **once** in the Greek New Testament, here. Thayer's cites Plutarch, *De Superstitione* c. 3, plus ecclesiastical writings, as attestation outside the New Testament. **Not verified:** a Perseus lookup for *De Superstitione* §3 returned the wrong treatise entirely. A full-text search located a Sabbath passage in that work — but at **§8, not §3**, and only in English translation, in wording that could render several different Greek constructions. So the dictionary cites §3; the Sabbath material I found sits at §8; and **the Greek word itself was not confirmed in either.** The status of "*sabbatismos* is attested in Plutarch" is therefore: **reported by a lexicon, not independently verified by me.** To close it: obtain the Greek text of Plutarch *Moralia* 166A and confirm whether <span class="gr">σαββατισμούς</span> actually appears; then check the ecclesiastical attestations — Justin Martyr's *Dialogue with Trypho*, Epiphanius, the *Apostolic Constitutions* — in Greek, recording each by author, work and section. -->
 :::
 
 I am printing that gap in the body of the chapter rather than quietly citing Thayer, because this was the first time I applied a rule I had just written, and the rule immediately produced a hole instead of an answer.
@@ -93,11 +91,11 @@ Strip away what I could not verify and the immediate context still gives a good 
 Hebrews is addressing a people. It is speaking of a rest that remains, in the present tense, to people who are already believers. It grounds that rest in Genesis 2 rather than in Sinai. And it exhorts its readers to strive to enter it, which is an odd thing to say about something either wholly past or wholly future.
 
 ::: evidence
-**How strongly evidence bears**
+***Sabbatismos* after Genesis 2**
 
-The vocabulary shift to *sabbatismos* at 4:9, immediately after a Genesis 2 citation, is **EXPLICIT TEXT** and **SUPPORTS** reading the remaining rest as deliberately Sabbath-shaped rather than as a generic term for repose.
+The vocabulary shift to *sabbatismos* at 4:9, immediately after a Genesis 2 citation, is explicit text and <span class="grade">supports</span> reading the remaining rest as deliberately Sabbath-shaped rather than as a generic term for repose.
 
-It **DOES NOT ESTABLISH** either that weekly observance is commanded here or that it is abolished here. Hebrews 4 is not addressing that question, and a passage can be highly relevant to a topic without adjudicating it.
+It does **not** establish either that weekly observance is commanded here or that it is abolished here. Hebrews 4 is not addressing that question, and a passage can be highly relevant to a topic without adjudicating it.
 :::
 
 ## The precise answer to the question people actually ask
@@ -125,9 +123,9 @@ I had always heard that verse quoted as a closing argument. Reading it after Cha
 I am not resolving Colossians here. I am noting that a verse I had used as a conclusion turns out to contain a future-facing expression I had never accounted for.
 
 ::: whereweare
-**Where we are.** The Sabbath is grounded in creation and in the exodus and named as a covenant sign, which means it is doing more than one thing and cannot be settled by one verse. Hebrews 4 shifts deliberately into Sabbath vocabulary at the decisive moment, and the translations split on whether that means a state or an observance, with the standard lexicon declining to choose. My attempt to verify the word outside the New Testament produced a documented gap rather than an answer, and the gap is printed here rather than smoothed over. Two rules were born: fulfilment is not exhaustion, and lexical escalation. No verdict on weekly observance, because the passage is not addressing it.
+**Where this leaves us.** The Sabbath is grounded in creation and in the exodus and named as a covenant sign, which means it is doing more than one thing and cannot be settled by one verse. Hebrews 4 shifts deliberately into Sabbath vocabulary at the decisive moment, and the translations split on whether that means a state or an observance, with the standard lexicon declining to choose. My attempt to verify the word outside the New Testament produced a documented gap rather than an answer, and the gap is printed here rather than smoothed over. Two rules were born: fulfilment is not exhaustion, and lexical escalation. No verdict on weekly observance, because the passage is not addressing it.
 :::
 
 ::: earned
-**What it earned.** Hebrews handed the question forward in the middle of an argument about a day: the rest remains for *the people of God*. That phrase has been doing quiet work through this entire Part, and it can no longer be left undefined.
+**The question this leaves.** Hebrews handed the question forward in the middle of an argument about a day: the rest remains for *the people of God*. That phrase has been doing quiet work through this entire Part, and it can no longer be left undefined.
 :::

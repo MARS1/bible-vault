@@ -41,13 +41,13 @@ And then Deuteronomy 30:6 says Yahweh Himself will do it: *the LORD your God wil
 Command, then promise. The same image used first as an obligation and then as something Yahweh undertakes to accomplish. Jeremiah later sharpens it into an indictment, saying the house of Israel is uncircumcised in heart — which only works as a rebuke if the inward sense was already established and expected.
 
 ::: evidence
-**How strongly evidence bears**
+**Circumcision moved inward, inside the Tanakh**
 
-That Scripture itself moves circumcision inward, before any apostle writes, is **EXPLICIT TEXT** at Deuteronomy 10:16, Deuteronomy 30:6 and Jeremiah 9.
+That Scripture itself moves circumcision inward, before any apostle writes, is explicit text at Deuteronomy 10:16, Deuteronomy 30:6 and Jeremiah 9.
 
-It **SUPPORTS** reading the New Testament's heart-circumcision language as continuous with Israel's own prophetic vocabulary rather than as a novel reinterpretation.
+It <span class="grade">supports</span> reading the New Testament's heart-circumcision language as continuous with Israel's own prophetic vocabulary rather than as a novel reinterpretation.
 
-It **DOES NOT ESTABLISH** that the physical sign thereby ceases. Deuteronomy holds both at once and does not treat the inward meaning as cancelling the outward one.
+It does **not** establish that the physical sign thereby ceases. Deuteronomy holds both at once and does not treat the inward meaning as cancelling the outward one.
 :::
 
 ## Acts 15, and getting the proposition exactly right
@@ -96,18 +96,18 @@ Using Romans 2 as a shortcut to erase ethnic Israel, while claiming to oppose re
 The stronger and safer case for Gentile incorporation is Romans 11's grafting, Ephesians 2's brought-near and fellow-citizens language, and Galatians 3's Abrahamic inheritance. Romans 2 is not the load-bearing text and should not be made one.
 :::
 
-## The verse that guards the whole project
+## The verse that guards the whole argument
 
 > Was anyone … uncircumcised? Let him not seek circumcision. For neither circumcision counts for anything nor uncircumcision, but keeping the commandments of God (1 Corinthians 7:18-19)
 
 Paul puts both halves in a single sentence, and the sentence is the guardrail. It prevents *physical circumcision is not required* from sliding into *obedience does not matter*.
 
 ::: openquestion
-**Open question — and I was supposed to close it here**
+**What Paul means by "the commandments of God"**
 
 What does Paul mean by "the commandments of God" if physical circumcision was itself commanded by God?
 
-I do not know. This chapter was expected either to resolve that or to explain why it cannot, and the reason it cannot is specific: Paul never defines the phrase in this context. Resolving it means gathering his usage across the letters, which is its own investigation and not this one.
+I do not know, and the reason is specific: Paul never defines the phrase in this context. Resolving it means gathering his usage across the letters, which is its own investigation and not this one.
 
 Recorded as unfinished rather than papered over with a plausible guess.
 :::
@@ -120,7 +120,7 @@ That is not a claim that Sinai was a mistake. It is a claim about order of opera
 
 ## And now the problem that circumcision creates
 
-Genesis calls circumcision **בְּרִית עוֹלָם** *(berit olam)* — the same phrase Chapter 13 found on the rainbow and on the Sabbath. And its covenantal function plainly looks transformed in Messiah.
+Genesis calls circumcision <span class="he">בְּרִית עוֹלָם</span> (*berit olam*) — the same phrase Chapter 13 found on the rainbow and on the Sabbath. And its covenantal function plainly looks transformed in Messiah.
 
 So the pressure is obvious, and so is the shortcut.
 
@@ -137,9 +137,9 @@ The stakes are much larger than circumcision: *olam* attaches to priestly statut
 :::
 
 ::: whereweare
-**Where we are.** Circumcision predates Sinai and predates the righteousness it seals. Scripture moves it inward on its own, as command and then as promise, long before an apostle does. Acts 15 rejects a specific proposition — circumcision as a condition of Gentile salvation — and not the practice itself, which is why Paul can circumcise Timothy and refuse it for Titus without contradiction. Romans 2 is deliberately not made to carry more than it says. And the *olam* problem is now sitting on two institutions instead of one, with the brake held rather than released.
+**Where this leaves us.** Circumcision predates Sinai, but the righteousness it seals precedes it. Scripture moves it inward on its own, as command and then as promise, long before an apostle does. Acts 15 rejects a specific proposition — circumcision as a condition of Gentile salvation — and not the practice itself, which is why Paul can circumcise Timothy and refuse it for Titus without contradiction. Romans 2 is deliberately not made to carry more than it says. And the *olam* problem is now sitting on two institutions instead of one, with the brake held rather than released.
 :::
 
 ::: earned
-**What it earned.** Two test cases in, the method is holding: each institution is being asked its own question rather than answered by a slogan. The third is the one where I was most confident going in, and where a single participle is about to make me much less confident.
+**The question this leaves.** Two test cases in, the method is holding: each institution is being asked its own question rather than answered by a slogan. The third is the one where I was most confident going in, and where a single participle is about to make me much less confident.
 :::

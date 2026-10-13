@@ -55,7 +55,7 @@ Then the parenthesis everything hangs on.
 ::: textualnote
 **Textual note — Mark 7:19 has no stated subject, and one witness keeps it that way**
 
-The Greek is <span class="gr">καθαρίζων πάντα τὰ βρώματα</span> *(katharizōn panta ta brōmata)*, something like *cleansing all the foods*. **<span class="gr">καθαρίζων</span> is a participle. The Greek contains no explicit "he declared."**
+The Greek is <span class="gr">καθαρίζων πάντα τὰ βρώματα</span> (*katharizōn panta ta brōmata*), something like *cleansing all the foods*. **<span class="gr">καθαρίζων</span> (*katharizōn*) is a participle. The Greek contains no explicit "he declared."**
 
 - **ESV:** "(Thus **he declared** all foods clean.)" — supplies a subject and a declarative verb
 - **NIV:** "(In saying this, **Jesus declared** all foods clean.)" — supplies the subject by name
@@ -73,7 +73,7 @@ The second is the CJB's *ritually*, which narrows the claim substantially: from 
 And the interest runs both ways, which is worth saying plainly. The CJB is a Messianic Jewish translation with a stake in the narrower reading. The ESV and NIV are traditional Christian translations with a stake in the broader one. Neither observation settles the grammar. What it means is that the parenthesis in every English Bible here is an interpretive act, and the reader is generally not told so.
 :::
 
-And a second question survives even if the declarative reading is right: what does Mark mean by *foods*, <span class="gr">βρώματα</span> *(brōmata)*? Every biological creature is now food, or everything already classified as food cannot morally defile a person through ritual hand contamination? Those are not the same claim, and settling the grammar would not settle the referent.
+And a second question survives even if the declarative reading is right: what does Mark mean by *foods*, <span class="gr">βρώματα</span> (*brōmata*)? Every biological creature is now food, or everything already classified as food cannot morally defile a person through ritual hand contamination? Those are not the same claim, and settling the grammar would not settle the referent.
 
 ## Peter, who would not let me use the easy answer
 
@@ -88,9 +88,9 @@ And then Luke does something that took the argument out of my hands: he lets Pet
 Peter does not say God showed him that pigs are clean. He says he must not call any human being common or unclean. And when he opens his mouth in Cornelius' house, what comes out is that God shows no partiality, and that in every nation anyone who fears Him and does what is right is acceptable to Him.
 
 ::: evidence
-**How strongly evidence bears**
+**Peter's vision — what Luke makes explicit**
 
-That the primary narrative purpose of Peter's vision is Gentile inclusion is **ESTABLISHED** at very high confidence, and not by my preference — Luke puts Peter's own interpretation inside the narrative.
+That the primary narrative purpose of Peter's vision is Gentile inclusion is **established** at very high confidence, and not by my preference — Luke puts Peter's own interpretation inside the narrative.
 :::
 
 ::: finding
@@ -104,9 +104,9 @@ So a legitimate question survives: does Yahweh use dietary imagery merely as an 
 :::
 
 ::: commentary
-**Researcher's commentary — Daniel's table, and two things I had remembered wrong**
+**Daniel's table, and two things I had remembered wrong**
 
-I inserted this before reading Romans 14 rather than after, because Daniel is not a cross-reference here. He is the earlier biblical precedent for exactly the kind of food problem Romans 14 presents, and meeting Paul's weak-conscience believer with no scriptural category for him would have been reading in the wrong order.
+This comes before Romans 14 rather than after, because Daniel is not a cross-reference here. He is the earlier biblical precedent for exactly the kind of food problem Romans 14 presents, and meeting Paul's weak-conscience believer with no scriptural category for him would have been reading in the wrong order.
 
 Two corrections to what I thought I knew, both recorded because the corrected version is better than the remembered one.
 
@@ -126,7 +126,7 @@ The council's four prohibitions land on things sacrificed to idols, blood, what 
 And notice what Acts 15 does not say. It does not say Gentiles are now free of every other consideration, and it does not say Jewish believers are released from anything. It answers the question that was asked, which was about a condition of entry, and it declines to answer several that were not.
 
 ::: commentary
-**Researcher's commentary — Acts 21, and a rumor James asks Paul to disprove**
+**Acts 21, and a rumor James asks Paul to disprove**
 
 Decades after that council, Luke reports many thousands of Jewish believers in Jerusalem, all zealous for the law. And he reports a rumor circulating that Paul teaches Jews among the Gentiles to forsake Moses.
 
@@ -138,7 +138,7 @@ I had a framework that could not comfortably hold that. So I did what I am tryin
 :::
 
 ::: commentary
-**Researcher's commentary — the neat solution that Numbers 6:14 killed**
+**The neat solution that Numbers 6:14 killed**
 
 Here is the attempt, and I am preserving it because the failure taught me more than a success would have.
 
@@ -146,7 +146,7 @@ The problem: if Hebrews presents Messiah's sacrifice as once for all, why is Pau
 
 My solution was to segregate the offering types. Paul, I reasoned, participated only in a harmless completion rite — a thanksgiving or vow offering, nothing atoning. Tidy, and it preserved everything I wanted.
 
-Then I read Numbers 6 rather than assuming it. **Numbers 6:14 includes a <span class="he">חַטָּאת</span> *(ḥaṭṭāʾt)*** in the Nazirite completion, alongside the burnt, peace, grain, drink and wave offerings.
+Then I read Numbers 6 rather than assuming it. **Numbers 6:14 includes a <span class="he">חַטָּאת</span> (*ḥaṭṭāʾt*)** in the Nazirite completion, alongside the burnt, peace, grain, drink and wave offerings.
 
 The solution was dead. And what its death exposed was worse than the original problem: **I had been flattening "sacrifice" into a single category.** Burnt, grain, peace, purification, reparation, thanksgiving and vow offerings do different things. I had been treating the word as though it named one act.
 
@@ -156,7 +156,7 @@ So participating in a rite containing a *ḥaṭṭāʾt* does **not** automatic
 
 The surgical question remains open: what function did the Numbers 6 purification offering actually perform? That needs Numbers 6 worked offering by offering, before anyone decides whether Acts 21 conflicts with Hebrews — or whether the conflict is being manufactured by importing a later, flattened definition of *sacrifice* into a first-century text.
 
-Recorded per the rule this project gave itself: a failed attempt that exposed a real error stays in the book.
+Kept under the rule this investigation set itself: a failed attempt that exposed a real error stays in the book.
 :::
 
 ## Romans 14, and a word pair that matters
@@ -164,7 +164,7 @@ Recorded per the rule this project gave itself: a failed attempt that exposed a 
 Romans 14 is where I expected the argument to finish, and it does not.
 
 ::: wordstudy
-**Original language**
+***Koinos* and *akathartos* in Romans 14:14**
 
 <span class="gr">κοινός</span> · *koinos* · common, ordinary — and by extension *defiled by association or use*
 
@@ -184,9 +184,9 @@ I have a distinction that predates Israel and has a sacrificial function before 
 That is not a tidy result. It is an honest one, and the alternative available to me was to pick the two verses I started with and call it settled — which is precisely what I had been doing for years.
 
 ::: whereweare
-**Where we are.** The clean/unclean distinction predates Israel and begins sacrificially. Mark 7's decisive parenthesis supplies a declarative the Greek does not have, and the RVR1960 alone keeps the participial construction — without thereby settling the syntax. Peter interprets his own vision as being about people, while the vision's food imagery is not thereby emptied. Acts 15 reconnects to Noah without releasing anyone from anything it was not asked about. And a failed attempt on Acts 21 exposed that I had been treating seven kinds of offering as one word.
+**Where this leaves us.** The clean/unclean distinction predates Israel and begins sacrificially. Mark 7's decisive parenthesis supplies a declarative the Greek does not have, and the RVR1960 alone keeps the participial construction — without thereby settling the syntax. Peter interprets his own vision as being about people, while the vision's food imagery is not thereby emptied. Acts 15 reconnects to Noah without releasing anyone from anything it was not asked about. And a failed attempt on Acts 21 exposed that I had been treating seven kinds of offering as one word.
 :::
 
 ::: earned
-**What it earned.** No verdict, and a sharper set of questions than the one I arrived with. The next institution is the one with a creation-ordinance claim attached, which none of the others had — and it is the one where a Greek word the New Testament uses exactly once will have to carry a great deal of weight.
+**The question this leaves.** No verdict, and a sharper set of questions than the one I arrived with. The next institution is the one with a creation-ordinance claim attached, which none of the others had — and it is the one where a Greek word the New Testament uses exactly once will have to carry a great deal of weight.
 :::

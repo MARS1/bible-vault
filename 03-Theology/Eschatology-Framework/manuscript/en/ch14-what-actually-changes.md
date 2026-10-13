@@ -39,7 +39,7 @@ The refinement that survives is this: **one covenantal story containing multiple
 > I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people (Jeremiah 31:33)
 
 ::: wordstudy
-**Original language**
+**Jeremiah 31:33 — where the Torah goes**
 
 <span class="he">נָתַתִּי אֶת־תּוֹרָתִי בְּקִרְבָּם</span> · *natatti et-torati beqirbam* · "I will put my Torah **within them**"
 
@@ -81,7 +81,7 @@ Not adjudicated. I am recording it because it is a genuine cost for any reading 
 
 A direct lookup of "Jeremiah 31:33" in the CJB returns the text the ESV numbers as 31:34. The offset in this range is exactly one verse.
 
-I record it because I hit it the expensive way: a first attempt to fetch CJB "Jeremiah 31:34" returned the sun, moon and stars passage, which is the ESV's 31:35. Anyone checking a CJB citation of Jeremiah 31 against this chapter should check the wording, never the number alone.
+Anyone checking a CJB citation of Jeremiah 31 against this chapter should check the wording, never the number alone.
 :::
 
 ## Ezekiel 36, which complicates a model I had been carrying
@@ -109,11 +109,11 @@ And then the detail that cuts against a simple *Torah discarded* reading, which 
 Ezekiel 37:24 places *they shall walk in my rules and be careful to obey my statutes* **inside** the everlasting-covenant promise, alongside the one king. Torah-keeping is not presented there as the thing being left behind. It is presented as a feature of the restored state.
 
 ::: evidence
-**How strongly evidence bears**
+**Ezekiel 37:24 — Torah-keeping inside the everlasting covenant**
 
-Ezekiel 37:24's placement of Torah-keeping inside the everlasting covenant is **EXPLICIT TEXT**, and it **SUPPORTS** the internalized-not-erased reading of Jeremiah 31:33 from an independent prophet.
+Ezekiel 37:24's placement of Torah-keeping inside the everlasting covenant is explicit text, and it <span class="grade">supports</span> the internalized-not-erased reading of Jeremiah 31:33 from an independent prophet.
 
-It **DOES NOT ESTABLISH** how any specific command functions afterward. It establishes the category, not the contents.
+It does **not** establish how any specific command functions afterward. It establishes the category, not the contents.
 :::
 
 ## And the part of Ezekiel 37 that is a problem for me
@@ -129,12 +129,12 @@ A framework that reads temple language as passing away in the first century owes
 ::: openquestion
 **Open question — four live options, none selected**
 
-(a) Fulfilled in Messiah, or in a Spirit-indwelt people as the sanctuary — 2 Corinthians 6:16 quotes Ezekiel 37:27, and I flag that citation as not yet verified by me rather than leaning on it. (b) Fulfilled partially and conditionally in the Second Temple period. (c) Still future. (d) Governed by Ezekiel 40 through 48's temple vision, which needs its own investigation.
+\(a) Fulfilled in Messiah, or in a Spirit-indwelt people as the sanctuary — 2 Corinthians 6:16 appears to quote Ezekiel 37:27, a citation this chapter does not lean on. (b) Fulfilled partially and conditionally in the Second Temple period. (c) Still future. (d) Governed by Ezekiel 40 through 48's temple vision, which needs its own investigation.
 
-Ezekiel 40 to 48 is bookmarked and deliberately not opened here. Cashing it mid-chapter would repeat precisely the error this project avoided earlier with Daniel 2.
+Ezekiel 40 to 48 is set aside and deliberately not opened here. Opening it mid-chapter would mean deciding a large question inside a small one.
 :::
 
-So Jeremiah 31, Ezekiel 36 and Ezekiel 37 belong together — and together they are harder to systematize than any one of them alone. That is the honest report, and I would rather file it that way than produce a tidier chapter.
+So Jeremiah 31, Ezekiel 36 and Ezekiel 37 belong together — and together they are harder to systematize than any one of them alone. That is the honest report, and I would rather leave it that way than produce a tidier chapter.
 
 ## The veil, with the seam left visible
 
@@ -144,7 +144,7 @@ That is the observation, and the direction is not incidental; it reads as an act
 
 But Matthew does not interpret it. He reports it. The theological weight that this event opened access comes from Hebrews 10:19 to 22, which speaks of confidence to enter by the blood of Yeshua through a new and living way opened through the curtain.
 
-I am keeping that seam visible on purpose. This project is not inventing symbolism around Matthew's sentence; an apostolic writer develops the relationship, and the difference between *the text says* and *an apostle concludes* is one this book does not get to blur just because both land where I want.
+I am keeping that seam visible on purpose. This book is not inventing symbolism around Matthew's sentence; an apostolic writer develops the relationship, and the difference between *the text says* and *an apostle concludes* is one this book does not get to blur just because both land where I want.
 
 ## Which changes the priesthood question
 
@@ -163,7 +163,7 @@ Zechariah 6:12 and 13 look, at first reading, like the prophets already working 
 I would like to use that. I am not going to.
 
 ::: evidence
-**How strongly evidence bears — contrary evidence, printed**
+**Zechariah 6:13 — contrary evidence, printed**
 
 The translations split on the decisive clause. The ESV reads "there shall be **a priest on his throne**," which plausibly makes it the same figure. The CJB reads "a *cohen* **before his throne**." The RVR1960 reads "habrá sacerdote **a su lado**," at his side. Two of the three read the priest as a **separate** figure.
 
@@ -175,9 +175,9 @@ So Zechariah 6:13 is **weaker support** for "Messiah unites both offices" than i
 That is the same discipline this book applied to the CJB's "this people" at Matthew 24:34, and it has to run in both directions or it is not a discipline. When the translations split on a clause I would like to use, the split gets printed rather than buried.
 
 ::: whereweare
-**Where we are.** The new covenant is announced to Israel and Judah, and the recipients do not change. Torah is relocated rather than discarded — and that sentence is not allowed to pre-answer a single specific command. Ezekiel adds that the Spirit produces covenant faithfulness rather than replacing it, and places Torah-keeping inside the everlasting covenant. Two costs are on the record against my own developing position: Jeremiah 31:34's universal knowing, and Ezekiel's sanctuary forevermore. The priest-king case stands on Psalm 110 and Hebrews 7, and explicitly not on Zechariah 6.
+**Where this leaves us.** The new covenant is announced to Israel and Judah, and the recipients do not change. Torah is relocated rather than discarded — and that sentence is not allowed to pre-answer a single specific command. Ezekiel adds that the Spirit produces covenant faithfulness rather than replacing it, and places Torah-keeping inside the everlasting covenant. Two costs are on the record against my own developing position: Jeremiah 31:34's universal knowing, and Ezekiel's sanctuary forevermore. The priest-king case stands on Psalm 110 and Hebrews 7, and explicitly not on Zechariah 6.
 :::
 
 ::: earned
-**What it earned.** If Torah is internalized rather than erased, then the institutions have to be taken one at a time rather than as a bloc. The first and hardest is the one the whole system was built around: sacrifice, and the priesthood that carried it.
+**The question this leaves.** If Torah is internalized rather than erased, then the institutions have to be taken one at a time rather than as a bloc. The first and hardest is the one the whole system was built around: sacrifice, and the priesthood that carried it.
 :::
