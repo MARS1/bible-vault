@@ -46,9 +46,9 @@ These get collapsed all the time. Somebody says the Bible predicted an event, an
 
 I also needed language for how strongly a piece of evidence supported something, because "the Bible says" was doing far too much work in my vocabulary.
 
-Four words. A piece of evidence can contradict a claim, permit it, support it, or require it. Most of what people call proof lives at permits. Permits means the claim can survive alongside the evidence, which is a much smaller thing than it sounds like when you are the one making the claim.
+Four words. A piece of evidence can contradict a claim, permit it, support it, or require it. Most of what people call proof lives at <span class="grade">permits</span>. Permits means the claim can survive alongside the evidence, which is a much smaller thing than it sounds like when you are the one making the claim.
 
-I will use those four words throughout, and where something only permits, I say so, even when I would rather it required.
+I will use those four words throughout, set apart in the text like this — <span class="grade">contradicts</span>, <span class="grade">permits</span>, <span class="grade">supports</span>, <span class="grade">requires</span> — and where something only permits, I say so, even when I would rather it required.
 
 ## The bug
 
@@ -88,12 +88,10 @@ I take that seriously for a reason that is not abstract. It means revelation and
 
 That is the whole method. It is not complicated. It is mostly a set of ways to stay honest when I would rather be right.
 
----
-
 ::: whereweare
-**Where we are.** I could not settle the evangelism question by proof-texting, so I built a method first: four boxes to stop categories leaking, a sequence for working a passage that ends in a test, a rule against collapsing text and interpretation and historical correlation and hypothesis, a four-word scale for evidence, and a diagnostic question about whether I am reading or recognizing. One thing broke immediately. The linear model implied every investigation must begin at Scripture, which was false, and it was rebuilt as a cycle with the doorway left open.
+**Where this leaves us.** I could not settle the evangelism question by proof-texting, so I built a method first: four boxes to stop categories leaking, a sequence for working a passage that ends in a test, a rule against collapsing text and interpretation and historical correlation and hypothesis, a four-word scale for evidence, and a diagnostic question about whether I am reading or recognizing. One thing broke immediately. The linear model implied every investigation must begin at Scripture, which was false, and it was rebuilt as a cycle with the doorway left open.
 :::
 
 ::: earned
-**What it earned.** Now the question can be asked properly. What does the commission actually say, and who was in the room?
+**The question this leaves.** Now the question can be asked properly. What does the commission actually say, and who was in the room?
 :::

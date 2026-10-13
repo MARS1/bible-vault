@@ -24,7 +24,7 @@ One of those does not survive and the other needs qualifying, and I want to be e
 
 What dies on my side is the use I was making of differentiated ministry: that because I am not an evangelist, proclamation has nothing to do with me. Acts 8:4 kills that, as I walked through two chapters ago. The apostles stayed. The scattered ordinary believers announced. Whatever else is true, that sentence exists, and the man who quoted it at me was not wrong to quote it.
 
-Note what it does not settle. It does not tell me that apostolic commission and ordinary witness are the same thing, and Part VII of this book spends a long time on the difference.
+Note what it does not settle. It does not tell me that apostolic commission and ordinary witness are the same thing, and Part IV of this book spends a long time on the difference.
 
 What is qualified on his side is narrower than I would like it to be, and I want to be careful here, because it would be easy to hand myself a cleaner victory than the evidence gives me.
 
@@ -57,14 +57,14 @@ This is a good place to slow down and say exactly what that verse carries, becau
 ::: evidence
 **What Acts 8 bears**
 
-**REQUIRES** — proclamation was not restricted to the apostles. Acts 8:1 puts the apostles outside the scattering; Acts 8:4 has the scattered announcing the word. That is explicit and it is not negotiable.
+<span class="grade">requires</span> — proclamation was not restricted to the apostles. Acts 8:1 puts the apostles outside the scattering; Acts 8:4 has the scattered announcing the word. That is explicit and it is not negotiable.
 
-**SUPPORTS** — proclamation extended beyond a narrowly defined apostolic office, which is the point I actually needed and did not have.
+<span class="grade">supports</span> — proclamation extended beyond a narrowly defined apostolic office, which is the point I actually needed and did not have.
 
-**DOES NOT ESTABLISH** — that none of those scattered believers held any particular calling. Luke's silence about what commission they understood themselves to be under is silence, not evidence of absence. And the chapter itself argues against the stronger reading: Philip is right there in Acts 8, going down to Samaria and proclaiming, and thirteen chapters later Luke calls him *Philip the evangelist*.
+**Does not establish** — that none of those scattered believers held any particular calling. Luke's silence about what commission they understood themselves to be under is silence, not evidence of absence. And the chapter itself argues against the stronger reading: Philip is right there in Acts 8, going down to Samaria and proclaiming, and thirteen chapters later Luke calls him *Philip the evangelist*.
 :::
 
-I had that last point backwards in an earlier draft. I wrote that the people announcing in Acts 8 were the ones Luke does not identify by office, and then, four pages later, cited Acts 21:8 calling Philip the evangelist. Both sentences were in the same chapter. One of them had to go, and it was not the one with a verse attached.
+I had that last point backwards at first. I had the people announcing in Acts 8 as the ones Luke does not identify by office, while Acts 21:8 calls one of them Philip the evangelist. Both claims could not stand. One of them had to go, and it was not the one with a verse attached.
 
 I had been using the first question to answer the second. That was the actual error, it was mine, and it had been comfortable for years.
 
@@ -72,7 +72,7 @@ There is a second error underneath it that belongs here too. Whenever a text got
 
 ## The sentence I had to take apart
 
-I said in the foreword that I had told myself preaching was not my thing. The version I actually said, more than once, was in Spanish: predicar no es lo mio.
+I said in the foreword that I had told myself preaching was not my thing. The version I actually said, more than once, was in Spanish: *predicar no es lo mío*.
 
 Taken one way, that sentence is defensible and Scripture supports it. It can mean this is not my particular ministry, I am not the evangelist in this body, that gift went elsewhere. Ephesians 4 and 1 Corinthians 12 permit that. More than permit it, they describe it.
 
@@ -92,7 +92,7 @@ That passage has a manuscript problem, and it is not a small or a contested one.
 
 I am deliberately not ranking those manuscripts against the later tradition here. That is a real argument in textual criticism, people hold serious positions on both sides of it, and my conclusion does not need me to win it.
 
-I am not going to adjudicate that here. What matters for this chapter is what I did with it, which is to stop citing Mark 16:15 as load-bearing. Not because I have concluded it is spurious. Because a claim that depends on a text with that kind of question over it is resting on something I would not accept if somebody else were resting on it.
+What matters for this chapter is what I did with it, which is to stop citing Mark 16:15 as load-bearing. Not because I have concluded it is spurious. Because a claim that depends on a text with that kind of question over it is resting on something I would not accept if somebody else were resting on it.
 
 And here is what kept me honest about it. Setting Mark 16:15 aside is convenient for me, because it was his verse and not mine. A man who finds a manuscript problem in the text his opponent is holding, and announces it, has not necessarily done anything admirable.
 
@@ -124,18 +124,16 @@ There is a second half to the question that started all this, and I have not tou
 
 The conversation had two halves. The first was about evangelism. The second was the one that came in sideways: how does a person end up reading prophecy as mostly accomplished rather than mostly pending?
 
-I now had a method. I had spent five stages watching it correct me twice and sharpen itself once. There was no longer any honest reason to leave the second question alone.
+I now had a method. I had spent five chapters watching it correct me twice and sharpen itself once. There was no longer any honest reason to leave the second question alone.
 
 So I went to Matthew 24, which I had been quoting for years and had never once read as a whole, in order, with the audience in view.
 
 I expected to confirm what I already thought.
 
----
-
 ::: whereweare
-**Where we are.** The two positions in that conversation did not fare equally. Mine failed on explicit text; his needed qualification rather than refutation, and saying otherwise would be the most flattering sentence available to me. What replaces them is a distinction rather than a rule: ministry is distributed unevenly and nobody is required to be an evangelist, while witness is a different question that Acts 8:4 makes hard to answer with a settled silence. Acts 8 is held to exactly what it carries: it requires that proclamation was not restricted to the apostles, and it does not establish that the people doing it held no calling, since Philip is standing in that same chapter. Two arguments that would have helped me were set down, one over a manuscript problem in a verse that was not mine, and one for assuming its own conclusion. The method cost its author something before it cost anyone else anything, which is the only real evidence that it was a method.
+**Where this leaves us.** The two positions in that conversation did not fare equally. Mine failed on explicit text; his needed qualification rather than refutation, and saying otherwise would be the most flattering sentence available to me. What replaces them is a distinction rather than a rule: ministry is distributed unevenly and nobody is required to be an evangelist, while witness is a different question that Acts 8:4 makes hard to answer with a settled silence. Acts 8 is held to exactly what it carries: it requires that proclamation was not restricted to the apostles, and it does not establish that the people doing it held no calling, since Philip is standing in that same chapter. Two arguments that would have helped me were set down, one over a manuscript problem in a verse that was not mine, and one for assuming its own conclusion. The method cost its author something before it cost anyone else anything, which is the only real evidence that it was a method.
 :::
 
 ::: earned
-**What it earned.** The foundation is built and the second half of the original question is still sitting there. Matthew 24, read as a whole, with the audience in view.
+**The question this leaves.** The foundation is built and the second half of the original question is still sitting there. Matthew 24, read as a whole, with the audience in view.
 :::

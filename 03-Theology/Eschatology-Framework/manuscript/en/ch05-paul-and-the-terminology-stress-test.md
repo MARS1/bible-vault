@@ -74,7 +74,7 @@ Then I applied the same rule to a word I was using much more casually.
 
 I had been calling myself a preterist. Same test. Does Scripture assign that category, or is it my summary of a set of conclusions? Obviously the latter. Which means it can describe where I have arrived, but it cannot be allowed to decide where I arrive next.
 
-That distinction sounds academic right now. It is not. It governs the entire second half of this book, and there is a stage much later where I nearly let a label do my thinking for me and had to be pulled back by a Greek verb.
+That distinction sounds academic right now. It is not. It governs the entire second half of this book, and there is a point much later where I nearly let a label do my thinking for me and had to be pulled back by a Greek verb.
 
 ## Where the praise goes
 
@@ -88,12 +88,10 @@ He does not reach for the unsearchability of God to avoid the argument. He argue
 
 I would like to do it in that order.
 
----
-
 ::: whereweare
-**Where we are.** Paul rules out the replacement reading explicitly in Romans 11:1, lists the covenants and the promises among the things that are Israel's in Romans 9, and attaches a warning to the olive tree that is longer than the promise. Gentile incorporation is real and substantial. The label I had been using for it is mine rather than Scripture's, which I established by testing my own vocabulary the way I had been testing everyone else's, and the same test applies to the word preterist.
+**Where this leaves us.** Paul rules out the replacement reading explicitly in Romans 11:1, lists the covenants and the promises among the things that are Israel's in Romans 9, and attaches a warning to the olive tree that is longer than the promise. Gentile incorporation is real and substantial. The label I had been using for it is mine rather than Scripture's, which I established by testing my own vocabulary the way I had been testing everyone else's, and the same test applies to the word preterist.
 :::
 
 ::: earned
-**What it earned.** The foundation is now built. So, finally: what does the commission actually require of a believer today?
+**The question this leaves.** The foundation is now built. So, finally: what does the commission actually require of a believer today?
 :::

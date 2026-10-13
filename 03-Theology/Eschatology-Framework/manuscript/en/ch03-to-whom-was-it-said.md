@@ -68,7 +68,7 @@ That image is going to come back. Much later in this investigation, when Paul re
 
 ## One thing I could not resolve, left unresolved
 
-I ran into a contradiction in this stage that I have not solved, and the honest thing is to show you where it sits rather than pick a side and move on.
+I ran into a contradiction at this point that I have not solved, and the honest thing is to show you where it sits rather than pick a side and move on.
 
 Asked directly whether he is Elijah, John the Baptist says he is not (John 1:21).
 
@@ -76,16 +76,14 @@ Speaking about John the Baptist, Yeshua says that he is Elijah who is to come, i
 
 There are respectable ways to reconcile those. John the Baptist may be denying a particular expectation, a literal returned Elijah, while affirming a functional role. Yeshua's if you are willing to accept it may be signaling something other than a flat identification. I find some of these more plausible than others.
 
-But I do not know, and this book has a rule about that, established one chapter ago. So the four texts sit side by side in my notes, unharmonized, in the open questions box.
+But I do not know, and this book has a rule about that, established one chapter ago. So the texts sit side by side in my notes, unharmonized, in the open questions box.
 
 I mention it here rather than burying it because it is the first time in the investigation that I hit something I could not settle, and the shape of what I did about it is the shape of what I keep doing about it for the rest of the book.
 
----
-
 ::: whereweare
-**Where we are.** The nations were in the promise from Genesis 12 onward, and Isaiah 49:6 calls restoring Israel alone too light a thing, so Gentile inclusion is not a later substitution for a failed plan. The earthly ministry nonetheless had a stated scope, and that scope was Israel, in words I am not going to soften. Gentiles who do receive in the Gospels are pictured as coming to a table that was already set.
+**Where this leaves us.** The nations were in the promise from Genesis 12 onward, and Isaiah 49:6 calls restoring Israel alone too light a thing, so Gentile inclusion is not a later substitution for a failed plan. The earthly ministry nonetheless had a stated scope, and that scope was Israel, in words I am not going to soften. Gentiles who do receive in the Gospels are pictured as coming to a table that was already set.
 :::
 
 ::: earned
-**What it earned.** If the mission started that narrow and the intent was always that wide, then something moved. How did it move, and when, and who did it?
+**The question this leaves.** If the mission started that narrow and the intent was always that wide, then something moved. How did it move, and when, and who did it?
 :::

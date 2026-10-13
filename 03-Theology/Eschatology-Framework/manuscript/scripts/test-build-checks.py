@@ -74,6 +74,49 @@ check("span counts its text only", bm.source_words('<span class="gr">μικρὸ
 check("fence lines count nothing", bm.source_words("::: finding\n**Label**\n:::"), 1)
 check("plain prose unchanged", bm.source_words("The end is not yet."), 5)
 
+print("\ncheck_normalization — Book One rules (BIBLE-3c7); calibrated to zero on Parts VIII-IX")
+# 2026-10-13: first calibration against the approved benchmark flagged 37 legitimate
+# gloss forms in Part VIII. Each form the benchmark uses is pinned here so the checker
+# can never again demand that approved prose change to satisfy it.
+def norm_hits(text, cat):
+    p = in_tmp(text); n = len(bm.check_normalization([p])[cat]); p.unlink(); return n
+GR = lambda s: f'<span class="gr">{s}</span>'
+for label, text, cat, want in [
+    ("emoji flagged",                       "✅ settled", "decor", 1),
+    ("star flagged",                        "★ key point", "decor", 1),
+    ("plain arrows NOT flagged",            "a → b ↓ c ≈ d", "decor", 0),
+    ("unstyled grade flagged",              "This is at SUPPORTS.", "grade", 1),
+    ("styled grade NOT flagged",            'at <span class="grade">supports</span>', "grade", 0),
+    ("ES unstyled grade flagged",           "queda en APOYA", "grade", 1),
+    ("lowercase 'supports' prose NOT flagged", "the text supports it", "grade", 0),
+    ("visible Stage number flagged",        "As Stage 61 showed", "label", 1),
+    ("visible scope label flagged",         "**SOURCE-LANGUAGE** note", "label", 1),
+    ("label inside HTML comment NOT flagged","<!-- SPANISH-SPECIFIC: x -->", "label", 0),
+    ("unglossed term flagged",              f"the word {GR('πόλεμος')} here", "gloss", 1),
+    ("term (*translit*) accepted",          f"{GR('πόλεμος')} (*polemos*, war)", "gloss", 0),
+    ("(term, *translit*) accepted",         f'"war" ({GR("πόλεμος")}, *polemos*)', "gloss", 0),
+    ("*translit* (term) accepted",          f"*Armageddon* ({GR('Ἁρμαγεδών')})", "gloss", 0),
+    ("3+ word clause = quotation, exempt",  f"Greek: {GR('καὶ κατέβη πῦρ')} — \"and fire\"", "gloss", 0),
+    ("blockquoted verse exempt",            f"> {GR('πόλεμος')}", "gloss", 0),
+    ("table row exempt",                    f"| 20:3 | {GR('μικρὸν χρόνον')} | *mikros* |", "gloss", 0),
+    ("second use after gloss NOT flagged",  f"{GR('πόλεμος')} (*polemos*)\nagain {GR('πόλεμος')}", "gloss", 0),
+    ("second chapter heading flagged",      "# Chapter 1: a\n\n# Chapter 2: b", "structure", 1),
+    ("Coda heading allowed",                "# Chapter 54: a\n\n# Coda: b", "structure", 0),
+    ("#### heading flagged",                "#### too deep", "structure", 1),
+    # 2026-10-13: stage-talk without a number was invisible to the numbered pattern,
+    # and it had survived even the Part VIII revision ("fifty-eight stages", ch47/ch49).
+    ("'five stages' flagged",               "I had spent five stages on it", "label", 1),
+    ("'fifty-eight stages' flagged",        "across the preceding fifty-eight stages", "label", 1),
+    ("'two-stage structure' NOT flagged",   "the two-stage structure of 20:5", "label", 0),
+    ("ES 'dos etapas' (Rev 20:5) NOT flagged", "la estructura en dos etapas del pasaje", "label", 0),
+    ("old box label flagged",               "**Where we are.** text", "convention", 1),
+    ("old earned label flagged",            "**What it earned.** text", "convention", 1),
+    ("ES old label flagged",                "**Qué se ganó.** texto", "convention", 1),
+    ("benchmark label NOT flagged",         "**Where this leaves us.** text", "convention", 0),
+    ("body rule flagged",                   "text\n\n---\n\n::: whereweare", "convention", 1),
+]:
+    check(label, norm_hits(text, cat), want)
+
 print()
 if FAILS:
     print("FAILURES:"); [print("  " + f) for f in FAILS]; sys.exit(1)

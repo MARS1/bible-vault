@@ -124,20 +124,16 @@ So there were two options. Keep defending and hope. Or go build a way of settlin
 
 I picked the second. It took much longer than I expected, and it is the next chapter.
 
----
-
 ::: whereweare
-**Where we are.** A relative pressed the outward-proclamation side with Mark 16, Matthew 28, James 4:17 and Acts 8:4. I answered that preaching was not my calling, from 1 Peter 3:15, 1 Corinthians 12 and Ephesians 4:11, and underneath that I was treating the Great Commission as already fulfilled in the first century. Neither of us could settle it, because proof-texting cannot adjudicate between two stacks of real verses, and because I had a framework I could reach for whenever a text got uncomfortable.
+**Where this leaves us.** A relative pressed the outward-proclamation side with Mark 16, Matthew 28, James 4:17 and Acts 8:4. I answered that preaching was not my calling, from 1 Peter 3:15, 1 Corinthians 12 and Ephesians 4:11, and underneath that I was treating the Great Commission as already fulfilled in the first century. Neither of us could settle it, because proof-texting cannot adjudicate between two stacks of real verses, and because I had a framework I could reach for whenever a text got uncomfortable.
 :::
 
 ::: earned
-**What it earned.** He asked me how I had reached my reading of prophecy and I could not answer in any short way. So the question became: what method would let this be settled by evidence rather than by whoever cites last?
+**The question this leaves.** He asked me how I had reached my reading of prophecy and I could not answer in any short way. So the question became: what method would let this be settled by evidence rather than by whoever cites last?
 :::
 
----
-
 ::: openquestion
-**Open question**
+**"All nations" and "all the world" — not yet examined**
 
 I have quoted "all nations" and "all the world" in this chapter without examining either, and so has he. That is deliberate. It is how both of us were using them at the time. Whether those phrases meant to their first hearers what they mean to a modern reader turns out to be one of the largest questions in this book, and it is not settled until Chapter 23.
 :::

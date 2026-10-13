@@ -155,6 +155,85 @@ def check_prose_vosotros(files):
     return hits
 
 
+# Book One normalization checks (2026-10-13, BIBLE-3c7). Parts VIII-IX set the
+# standard; Parts I-VII were drafted before it existed. Each rule below was applied
+# by hand in the Part VIII revision (EDITORIAL-RULES.md: TYPOGRAPHY-002, GLOSS-001,
+# RESEARCH-PROCESS-002). Hand-applied rules come back, so they are checked here.
+# REPORT-ONLY while Part I pilots them: if a check flags legitimate text, the
+# checker is refined, not the prose. Calibrated to report zero on Parts VIII-IX.
+DECOR = re.compile("[\U0001F300-\U0001FAFF☀-➿⭐⬆⬇⭕←↩↪️]")
+GRADE_WORDS = re.compile(r"\b(SUPPORTS|PERMITS|REQUIRES|CONTRADICTS|DOES NOT ESTABLISH|"
+                         r"APOYA|PERMITE|EXIGE|CONTRADICE|NO ESTABLECE)\b")
+# Research-process bookkeeping that must not print: stage numbers, ledger and
+# ticket ids, bead ids, and the scope labels that now live in HTML comments.
+LABELS = re.compile(r"\b(Stage|Etapa)s? \d|\bSYNC-\d|\bPR-\d{3}|\bq\d{3}\b|\bBIBLE-[a-z0-9]{3}\b|"
+                    r"SPANISH-SPECIFIC|SOURCE-LANGUAGE|ESPEC[IÍ]FICO DEL ESPA[NÑ]OL")
+SRC_SPAN = re.compile(r'<span class="(gr|he)">(.*?)</span>(.{0,3})', re.S)
+# Box labels and rules the Part VIII revision replaced: "Where we are." became
+# "Where this leaves us.", "What it earned." became "The question this leaves."
+# (RESEARCH-PROCESS-002 retired the bookkeeping metaphor), and the `---` rules
+# around boxes were dropped. Found in Parts I-VII on 2026-10-13: 46 of each box
+# label per edition, 22 rules in EN.
+OLD_CONVENTION = re.compile(r"^\*\*(Where we are|What it earned|What this earned|Dónde estamos|"
+                            r"Qué se ganó|Lo que (?:se )?ganó)\.\*\*|^---$")
+# Stage-talk without a number ("in this stage", "five stages") is the same
+# research-process leak as "Stage 61", and the numbered pattern cannot see it.
+STAGE_TALK = re.compile(r"\b(?:this|that|each|every|a|the|one|two|three|four|five|six|several|many|"
+                        r"\w+-\w+) stages?\b", re.I)
+# Spanish 'etapa' is excluded: it is the ordinary word for a phase ("la estructura
+# en dos etapas" of Rev 20:5 in ES ch53), so lowercase etapa-talk cannot be told
+# from narration. Numbered "Etapa N" is still caught by LABELS.
+
+def check_normalization(files):
+    """Returns {category: [(file, line, excerpt)]}. Quotation lines are exempt
+    from the gloss rule only: a quoted verse is glossed in the sentence after it."""
+    out = {k: [] for k in ("decor", "grade", "label", "gloss", "structure", "convention")}
+    for f in files:
+        body = strip_frontmatter(f.read_text())
+        body = re.sub(r"<!--.*?-->", lambda m: "\n" * m.group(0).count("\n"), body, flags=re.S)
+        glossed = set()
+        h1 = 0
+        for i, ln in enumerate(body.split("\n"), 1):
+            for m in DECOR.finditer(ln):
+                out["decor"].append((f.name, i, m.group(0)))
+            unspanned = re.sub(r'<span class="grade">.*?</span>', "", ln)
+            for m in GRADE_WORDS.finditer(unspanned):
+                out["grade"].append((f.name, i, m.group(0)))
+            for m in LABELS.finditer(ln):
+                out["label"].append((f.name, i, m.group(0)))
+            for m in STAGE_TALK.finditer(ln):
+                out["label"].append((f.name, i, m.group(0)))
+            if OLD_CONVENTION.match(ln):
+                out["convention"].append((f.name, i, ln[:30]))
+            if ln.startswith("# ") and not re.match(r"# (Coda|Epilogue|Epílogo)\b", ln):
+                h1 += 1
+                if h1 > 1:
+                    out["structure"].append((f.name, i, "second chapter-level heading"))
+            if ln.startswith("####"):
+                out["structure"].append((f.name, i, "heading deeper than ###"))
+            # Quotation lines are glossed in the next sentence; table rows carry the
+            # transliteration in a neighbouring column (ch51's word table).
+            if ln.lstrip().startswith((">", "|")):
+                continue
+            for m in SRC_SPAN.finditer(ln):
+                # Transliteration-first form: "*Armageddon* (<span>Ἁρμαγεδών</span>)".
+                if re.search(r"\*[^*]+\*\s*\($", ln[:m.start()]):
+                    glossed.add(m.group(2).strip())
+                    continue
+                term = m.group(2).strip()
+                # GLOSS-001 governs terms. A clause of three or more words is a
+                # quotation, translated in its own sentence (2 Kgs 1:10, Ps 90:4 in ch48-49).
+                if term in glossed or len(term.split()) >= 3:
+                    continue
+                # Both benchmark forms: "term (*translit*, gloss)" and, inside an
+                # existing parenthesis, "(term, *translit*)".
+                if re.match(r"\s*\(\*|,\s*\*", m.group(3)):
+                    glossed.add(term)
+                else:
+                    out["gloss"].append((f.name, i, term[:30]))
+    return out
+
+
 def prose_only(text):
     """Body prose with component labels and word-study lines removed.
     The design system uses an em dash as its label separator, so a raw em-dash
@@ -427,6 +506,14 @@ def main():
                 print(f"       {n}:{i}  {hit!r} -> {sug}")
             for n, i, hit in vos[:6]:
                 print(f"       {n}:{i}  prose {hit!r} outside a quotation")
+
+        norm = check_normalization(files)
+        counts = ", ".join(f"{len(v)} {k}" for k, v in norm.items())
+        print(f"     normalization (report only): {counts}  "
+              + ("OK" if not any(norm.values()) else "<-- see EDITORIAL-RULES.md"))
+        for k, v in norm.items():
+            for n, i, hit in v[:5]:
+                print(f"       {k:9} {n}:{i}  {hit!r}")
 
         md, pdf, title, words, pages = render(lang, p, out, stem)
 

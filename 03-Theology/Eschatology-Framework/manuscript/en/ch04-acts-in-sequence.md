@@ -52,7 +52,7 @@ Acts 8:1 says that a persecution broke out and they were all scattered throughou
 
 Except the apostles. The apostles are the ones who stayed.
 
-And then 8:4: those who were scattered went about preaching the word. The verb is euangelizo, announcing good news. It is the ordinary scattered believers doing it, and the apostles are explicitly not among them.
+And then 8:4: those who were scattered went about preaching the word. The verb is <span class="gr">εὐαγγελίζω</span> (*euangelizō*), announcing good news. It is the ordinary scattered believers doing it, and the apostles are explicitly not among them.
 
 So the claim that only the Twelve proclaimed does not survive contact with Acts 8. It is not weakened. It is eliminated.
 
@@ -84,11 +84,11 @@ Person. Not food. Peter interprets his own vision and the interpretation is abou
 
 Now, does the vision have implications for food laws? Possibly. That is a real question and I am not dismissing it. But it is a separate question, it has to be argued on its own evidence, and it cannot be smuggled in by treating the surface imagery as the meaning when the text supplies a different meaning and the characters act on that one.
 
-I filed the food question as a sidebar to be worked later, and it was, at considerable length, many chapters from here. What I would not let it be was a conclusion I reached in chapter 10 of Acts by not listening to Peter.
+I set the food question aside to be examined later, and it was, at considerable length, many chapters from here. What I would not let it be was a conclusion I reached in chapter 10 of Acts by not listening to Peter.
 
 ## And then Acts corrected my correction
 
-This is my favorite thing that happened in this stage, and it happened because I kept reading in order instead of stopping when I had a result I liked.
+This is my favorite thing that happened at this point, and it happened because I kept reading in order instead of stopping when I had a result I liked.
 
 I had taken Acts 8:4 to mean that scattered ordinary believers were carrying the message outward, and I was pleased with it, because it had cost me something and that felt like rigor.
 
@@ -116,12 +116,10 @@ But it did make me more willing to trust the method, and it made the Jerusalem c
 
 Acts 15 is going to matter enormously later, for reasons that have nothing to do with evangelism.
 
----
-
 ::: whereweare
-**Where we are.** Acts follows its own stated route outward. Acts 2's list of nations is geography, not covenant identity, and Peter is addressing Israel. Acts 8:4 eliminated the claim that only the apostles proclaimed, and then Acts 11:19 narrowed my replacement claim by showing those same scattered believers spoke only to Jews. Acts 10 gave me the clearest case I have of a surface image meaning something other than it appears, with the interpretation supplied by the character himself. And a rule fell out of the Spirit-sequence difference: description is not procedure.
+**Where this leaves us.** Acts follows its own stated route outward. Acts 2's list of nations is geography, not covenant identity, and Peter is addressing Israel. Acts 8:4 eliminated the claim that only the apostles proclaimed, and then Acts 11:19 narrowed my replacement claim by showing those same scattered believers spoke only to Jews. Acts 10 gave me the clearest case I have of a surface image meaning something other than it appears, with the interpretation supplied by the character himself. And a rule fell out of the Spirit-sequence difference: description is not procedure.
 :::
 
 ::: earned
-**What it earned.** Luke tells me what happened. He does not tell me what it means for the covenant. So what does Paul say it means?
+**The question this leaves.** Luke tells me what happened. He does not tell me what it means for the covenant. So what does Paul say it means?
 :::

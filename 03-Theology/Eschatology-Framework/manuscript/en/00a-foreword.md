@@ -61,7 +61,7 @@ If a method never costs its owner anything, it is not a method. It is a defense.
 
 So that is the book. An investigation, run in order, with the failures left in.
 
-You will watch me be wrong about a Greek verb and correct it, and then watch the correction hand me a better piece of evidence than the mistake had, one that pointed away from the reading I preferred. You will watch a theory I would have liked to be true get investigated for three stages and rejected, because the evidence for it was weak, and because I do not get to throw out weak evidence when it is somebody else's and keep it when it is mine.
+You will watch me be wrong about a Greek verb and correct it, and then watch the correction hand me a better piece of evidence than the mistake had, one that pointed away from the reading I preferred. You will watch a theory I would have liked to be true get investigated at length and rejected, because the evidence for it was weak and the evidence against it proved decisive, and because I do not get to throw out weak evidence when it is somebody else's and keep it when it is mine.
 
 You will also watch me reach the end without the answer people most want.
 
