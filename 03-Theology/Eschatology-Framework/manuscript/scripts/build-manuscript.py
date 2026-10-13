@@ -176,6 +176,22 @@ SRC_SPAN = re.compile(r'<span class="(gr|he)">(.*?)</span>(.{0,3})', re.S)
 # label per edition, 22 rules in EN.
 OLD_CONVENTION = re.compile(r"^\*\*(Where we are|What it earned|What this earned|Dónde estamos|"
                             r"Qué se ganó|Lo que (?:se )?ganó)\.\*\*|^---$")
+# Generic box titles. Every Part VIII-IX box names what it shows ("The purpose
+# formula, four times"); Parts II-VII reuse a fixed caption (22 "How strongly
+# evidence bears", 12 "Original language", 5 "Historical context", 3 "Finding" in EN,
+# counted 2026-10-13). Matched only as the whole title line, so a descriptive title
+# that merely begins with "Finding —" is left alone.
+GENERIC_TITLE = re.compile(r"^\*\*(How strongly evidence bears|Original language|Historical context|"
+                           r"Finding|Open question|Con qué fuerza pesa la evidencia|Lengua original|"
+                           r"Contexto histórico|Hallazgo|Pregunta abierta|"
+                           r"Nota textual — (?:una )?deuda declarada)\*\*\s*$")
+# RESEARCH-PROCESS-002 retired the bookkeeping metaphor (debts declared, paid,
+# handed forward). It survives in box captions in EN ch27/33/37/41/43 and in the
+# ES "Nota textual — deuda declarada" caption in 26 chapters (counted 2026-10-13).
+DEBT = re.compile(r"\b(?:debts?|deudas?)\b", re.I)
+# "this project" narrates the work rather than the investigation. Caught by the
+# author's reviewer in Part II ch11 (2026-10-13) after the checker passed it.
+PROJECT_TALK = re.compile(r"\b(?:this|the) project\b|\beste proyecto\b", re.I)
 # Stage-talk without a number ("in this stage", "five stages") is the same
 # research-process leak as "Stage 61", and the numbered pattern cannot see it.
 STAGE_TALK = re.compile(r"\b(?:this|that|each|every|a|the|one|two|three|four|five|six|several|many|"
@@ -201,10 +217,16 @@ def check_normalization(files):
                 out["grade"].append((f.name, i, m.group(0)))
             for m in LABELS.finditer(ln):
                 out["label"].append((f.name, i, m.group(0)))
+            for m in PROJECT_TALK.finditer(ln):
+                out["label"].append((f.name, i, m.group(0)))
+            for m in DEBT.finditer(ln):
+                out["label"].append((f.name, i, m.group(0)))
             for m in STAGE_TALK.finditer(ln):
                 out["label"].append((f.name, i, m.group(0)))
             if OLD_CONVENTION.match(ln):
                 out["convention"].append((f.name, i, ln[:30]))
+            if GENERIC_TITLE.match(ln):
+                out["convention"].append((f.name, i, "generic box title " + ln[:40]))
             if ln.startswith("# ") and not re.match(r"# (Coda|Epilogue|Epílogo)\b", ln):
                 h1 += 1
                 if h1 > 1:

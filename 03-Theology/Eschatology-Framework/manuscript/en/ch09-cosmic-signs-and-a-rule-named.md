@@ -31,11 +31,11 @@ And then, in the same oracle, Isaiah names the mechanism: the Medes. A specific 
 Three separate kingdoms. Three judgments that took place in history, through armies. One shared vocabulary of the sky coming apart.
 
 ::: evidence
-**How strongly evidence bears**
+**Cosmic collapse in the Prophets — three kingdoms**
 
-That this vocabulary is used of historical judgments on kingdoms is **EXPLICIT TEXT**, three times, with a named military mechanism in one of them.
+That this vocabulary is used of historical judgments on kingdoms is explicit text, three times, with a named military mechanism in one of them.
 
-It **REQUIRES** that cosmic-collapse language is at minimum *available* for historical judgment. It **SUPPORTS** reading Matthew 24:29 within that convention. It **DOES NOT REQUIRE** it, because a convention is a range, not a rule.
+It <span class="grade">requires</span> that cosmic-collapse language is at minimum *available* for historical judgment. It <span class="grade">supports</span> reading Matthew 24:29 within that convention. It does not reach <span class="grade">requires</span> for that reading, because a convention is a range, not a rule.
 :::
 
 ## And Revelation is quoting Isaiah 34 nearly verbatim
@@ -59,7 +59,7 @@ At Pentecost, Peter stands up and explains what is happening by quoting Joel: th
 Nobody present reported the sun going out. Peter applies cosmic prophetic language to an event he and his hearers were standing inside.
 
 ::: historical
-**Historical context**
+**Pentecost (Shavuot)**
 
 Pentecost, or Shavuot, is one of the pilgrimage festivals of Israel, held fifty days after Passover. Acts 2 places a large and varied crowd of Jews and proselytes in Jerusalem for it, which is why the account emphasizes the many places they had come from.
 :::
@@ -84,7 +84,7 @@ Genesis 37 has Joseph dreaming of the sun, the moon, and eleven stars bowing to 
 
 Celestial bodies standing for covenant persons. That is genuinely there, and it is genuinely relevant.
 
-It is also exactly where I could have built a new dictionary: stars equals leaders, therefore falling stars equals falling rulers, therefore every passage. One dream is not a lexicon. I logged it as a real datum with an explicit note not to convert it into a rule, and that note is doing more work in this book than the datum is.
+It is also exactly where I could have built a new dictionary: stars equals leaders, therefore falling stars equals falling rulers, therefore every passage. One dream is not a lexicon. I kept it as a real datum, with an explicit caution against turning it into a rule, and that caution is doing more work in this book than the datum is.
 
 ::: person
 **Ezekiel**
@@ -100,7 +100,7 @@ Revelation 1:20 gives an explicit key: the seven stars are the angels of the sev
 
 That made a familiar sentence available: a third of the angels rebelled. I had been carrying it as something Scripture states.
 
-It is not. It is an inference, assembled from Revelation 12:4's stars swept down by the dragon's tail plus a set of assumptions about what that pictures. The inference may well be right. But I had it filed as text, and it is not text, and I moved it into the inference box where it belongs.
+It is not. It is an inference, assembled from Revelation 12:4's stars swept down by the dragon's tail plus a set of assumptions about what that pictures. The inference may well be right. But I had been holding it as text, and it is not text, so I moved it into the inference box where it belongs.
 
 The same branch produced a much bigger caution. Isaiah 14, the passage most often read as the fall of Satan, states its own referent at verse 4: this is a taunt against the king of Babylon.
 
@@ -109,9 +109,9 @@ The satanic reading is later typology. It may be legitimate typology. But the st
 That is the clearest example in this book so far of the difference between what a passage says and the tradition of reading it that arrives with it.
 
 ::: whereweare
-**Where we are.** Cosmic-collapse language is used in Scripture of historical judgments on Babylon, Edom and Egypt, once with the invading army named. Revelation 6 quotes Isaiah 34's version of it. And at Pentecost an apostle applies the same kind of language to a day his hearers were living through. That does not decide Matthew 24:29, but it removes the assumption that such language can only describe the physical end of the sky. Intertextual Priority is now a named rule, with its brake attached: precedent constrains, it does not determine.
+**Where this leaves us.** Cosmic-collapse language is used in Scripture of historical judgments on Babylon, Edom and Egypt, once with the invading army named. Revelation 6 quotes Isaiah 34's version of it. And at Pentecost an apostle applies the same kind of language to a day his hearers were living through. That does not decide Matthew 24:29, but it removes the assumption that such language can only describe the physical end of the sky. Intertextual Priority is now a named rule, with its brake attached: precedent constrains, it does not determine.
 :::
 
 ::: earned
-**What it earned.** If the darkening and the falling stars have a prophetic convention behind them, then the next line has to be faced. He sends out His angels with a great trumpet, and they gather the elect from the four winds.
+**The question this leaves.** If the darkening and the falling stars have a prophetic convention behind them, then the next line has to be faced. He sends out His angels with a great trumpet, and they gather the elect from the four winds.
 :::

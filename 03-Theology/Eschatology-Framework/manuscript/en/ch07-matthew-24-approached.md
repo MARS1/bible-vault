@@ -35,7 +35,7 @@ The second useful thing was refusing to start where the argument usually starts.
 Almost every conversation I had ever had about Matthew 24 began at verse 14, the good news proclaimed and then the end comes. That is where my own position had lived. So I made myself begin at verse 1, with the disciples pointing at the buildings.
 
 ::: historical
-**Historical context**
+**The temple in the first century**
 
 The temple in Jerusalem was not simply a large religious building. It was the center of Israel's covenant life, the place where sacrifice was offered and where God's presence was understood to dwell among His people. It was destroyed by Roman armies in the year 70, an event that ended the sacrificial system as it had operated for centuries. A first-century Jewish audience being told this building would be thrown down was not receiving an abstract prophecy.
 :::
@@ -44,7 +44,7 @@ The temple is the catalyst. Yeshua says not one stone will be left on another, a
 
 They ask when *these things* will be. They ask for the sign of His coming. And they ask about the end of the age.
 
-Age, not world. The Greek is **αἰών** *(aiōn)*, not **κόσμος** *(kosmos)*. A reader with an English Bible that says "the end of the world" has been handed a conclusion before reaching the discourse. That is not a translator conspiring; *aiōn* is genuinely hard to render in one English word. But the effect on the reader is real.
+Age, not world. The Greek is <span class="gr">αἰών</span> (*aiōn*, age), not <span class="gr">κόσμος</span> (*kosmos*, world). A reader with an English Bible that says "the end of the world" has been handed a conclusion before reaching the discourse. That is not a translator conspiring; *aiōn* is genuinely hard to render in one English word. But the effect on the reader is real.
 
 ::: claimtypes
 **How claims are labeled**
@@ -65,7 +65,7 @@ Then verse 14, the verse I had been quoting for years.
 
 > This good news of the kingdom will be proclaimed in all the world as a testimony to all nations, and then the end will come
 
-The phrase behind "all the world" is **ἡ οἰκουμένη** *(hē oikoumenē)*. I had been reading it as the inhabited earth, every continent, everybody. And I had been using it to argue that the commission was accomplished.
+The phrase behind "all the world" is <span class="gr">ἡ οἰκουμένη</span> (*hē oikoumenē*, the inhabited world). I had been reading it as the inhabited earth, every continent, everybody. And I had been using it to argue that the commission was accomplished.
 
 So I went to find where else the word appears, and the two places I found are not obscure.
 
@@ -74,11 +74,11 @@ Luke 2:1 says a decree went out from Caesar Augustus that all the *oikoumenē* s
 Acts 11:28 says a famine would come over all the *oikoumenē*, and Luke then reports it happening in the days of Claudius, which is a first-century event with a scope a first-century reader could recognize. The CJB renders both of these "throughout the Empire," which is a translator making the same observation.
 
 ::: evidence
-**How strongly evidence bears**
+**What *oikoumenē* can carry at Matthew 24:14**
 
-**CONTRADICTS** → **PERMITS** → **SUPPORTS** → **REQUIRES**
+<span class="grade">contradicts</span> → <span class="grade">permits</span> → <span class="grade">supports</span> → <span class="grade">requires</span>
 
-*Oikoumenē* at Luke 2:1 and Acts 11:28 **SUPPORTS** a bounded, Roman-world sense for the word. It does not **REQUIRE** that sense at Matthew 24:14, because a word's range is not a rule about every occurrence.
+*Oikoumenē* at Luke 2:1 and Acts 11:28 <span class="grade">supports</span> a bounded, Roman-world sense for the word. It does not reach <span class="grade">requires</span> at Matthew 24:14, because a word's range is not a rule about every occurrence.
 :::
 
 I want that brake to stay on, because this is exactly where I could have manufactured a dictionary. Finding two occurrences that suit me is not the same as establishing a meaning.
@@ -96,11 +96,11 @@ I have to slow down on the first of those, because I nearly used it carelessly.
 "Fulfilled the ministry of" is several English words standing in for one Greek one, and the noun among them is supplied by the translator. What Paul fills up is the good news itself. The ESV adds "the ministry of" to make the English read naturally; the CJB goes the other way and renders the same clause "I have fully proclaimed the Good News of the Messiah"; the RVR1960 keeps the filling image and says *todo lo he llenado del evangelio de Cristo*. All three are defensible. None of them licenses me to build an argument on the English word *fulfilled* as though Paul had reached for a technical term.
 
 ::: wordstudy
-**Original language**
+**Romans 15:19 — what Paul fills up**
 
 <span class="gr">πεπληρωκέναι τὸ εὐαγγέλιον τοῦ Χριστοῦ</span> · *peplērōkenai to euangelion tou Christou*
 
-<span class="gr">πεπληρωκέναι</span> is a perfect infinitive of <span class="gr">πληρόω</span> *(plēroō)*, to fill up or bring to completion. Its object is <span class="gr">τὸ εὐαγγέλιον</span> — the good news — not a ministry of it.
+<span class="gr">πεπληρωκέναι</span> (*peplērōkenai*) is a perfect infinitive of <span class="gr">πληρόω</span> (*plēroō*), to fill up or bring to completion. Its object is <span class="gr">τὸ εὐαγγέλιον</span> (*to euangelion*), the good news, not a ministry of it.
 
 What it establishes: Paul regards something as standing completed. What it does **not** establish: which sense of completion he means. That is settled by what he says next, not by the verb.
 :::
@@ -112,11 +112,11 @@ That was the moment my confidence in my own instincts about scope weakened, and 
 Which means my sense of what "all" must mean is not a neutral instrument.
 
 ::: evidence
-**How strongly evidence bears**
+**Romans 15:19 and 23 — what they show and what they do not**
 
-Romans 15:19 and 23 **SUPPORT** the conclusion that a first-century apostle could regard a mission territory as complete without every individual in it having heard him preach.
+The evidence of Romans 15:19 and 23 <span class="grade">supports</span> the conclusion that a first-century apostle could regard a mission territory as complete without every individual in it having heard him preach.
 
-They do **NOT ESTABLISH** anything about the scope of *oikoumenē* at Matthew 24:14. And Paul is describing his own pioneering assignment, not the fulfillment of a prophecy. Those are different questions, and this book does not get to slide between them.
+They do **not** establish anything about the scope of *oikoumenē* at Matthew 24:14. And Paul is describing his own pioneering assignment, not the fulfillment of a prophecy. Those are different questions, and this book does not get to slide between them.
 :::
 
 ## This generation, tested where it should be tested
@@ -129,7 +129,7 @@ And restoring the chain from Matthew 23 into 24 changed the feel of the passage 
 
 ## Three hypotheses, none adopted
 
-I ended this stage with three live possibilities and no verdict, which is not a dodge but an honest description of where the evidence had gotten to.
+I came out of this with three live possibilities and no verdict, which is not a dodge but an honest description of where the evidence had gotten to.
 
 **A.** The discourse addresses first-century events, and its language should be read accordingly.
 
@@ -152,9 +152,9 @@ The problem was not in Revelation. It was a premise I had brought and then found
 That is the second time in this investigation that a difficulty turned out to be mine, and it is not the last.
 
 ::: whereweare
-**Where we are.** What a verse says and where we stand relative to it are two questions, and I had been treating them as one. Matthew 24 begins with a temple and a question about the end of an *age*, not a *world*. The word carrying my strongest argument, *oikoumenē*, is used of Caesar's empire and a first-century famine, which supports a bounded sense without requiring it. And Paul can call a regional mission fulfilled while enormous numbers there have never heard him, which tells me my instincts about the word "all" are not neutral. Three hypotheses are open. None is adopted.
+**Where this leaves us.** What a verse says and where we stand relative to it are two questions, and I had been treating them as one. Matthew 24 begins with a temple and a question about the end of an *age*, not a *world*. The word carrying my strongest argument, *oikoumenē*, is used of Caesar's empire and a first-century famine, which supports a bounded sense without requiring it. And Paul can call a regional mission fulfilled while enormous numbers there have never heard him, which tells me my instincts about the word "all" are not neutral. Three hypotheses are open. None is adopted.
 :::
 
 ::: earned
-**What it earned.** The passage is not yet decided, but the objections I thought were fatal to a first-century reading are starting to look like objections to something else. The largest one is next: what about the Son of Man coming on the clouds?
+**The question this leaves.** The passage is not yet decided, but the objections I thought were fatal to a first-century reading are starting to look like objections to something else. The largest one is next: what about the Son of Man coming on the clouds?
 :::

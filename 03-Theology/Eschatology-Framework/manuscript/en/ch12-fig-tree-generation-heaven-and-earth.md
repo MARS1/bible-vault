@@ -43,11 +43,11 @@ And all the trees.
 If the fig tree were a coded reference to one nation, adding all the trees destroys the code. What Luke's version shows is that the parable is about reading signs the way you read a season. You see buds, you know summer is near. That is the whole point, and it is a point about attentiveness, not botany.
 
 ::: evidence
-**How strongly evidence bears**
+**Luke's "and all the trees" against the fig-tree code**
 
-Luke 21:29's *and all the trees* **CONTRADICTS** the *exclusive* decoder reading — the one in which the fig tree uniquely encodes a single nation, so that its budding is the sign. Adding all the trees removes the uniqueness that code depends on.
+Luke 21:29's *and all the trees* <span class="grade">contradicts</span> the *exclusive* decoder reading — the one in which the fig tree uniquely encodes a single nation, so that its budding is the sign. Adding all the trees removes the uniqueness that code depends on.
 
-Against the weaker claim, that the fig tree carries some representative significance while Luke broadens the illustration, it **STRONGLY COUNTS AGAINST** without contradicting. I want that distinction kept. This book is asking readers to tell a contradiction apart from evidence that merely makes a position harder to hold, and I do not get an exemption from my own scale.
+Against the weaker claim, that the fig tree carries some representative significance while Luke broadens the illustration, it **strongly counts against** without contradicting. I want that distinction kept. This book is asking readers to tell a contradiction apart from evidence that merely makes a position harder to hold, and I do not get an exemption from my own scale.
 :::
 
 ## This generation
@@ -63,9 +63,9 @@ The strongest single piece of evidence I found is not in chapter 24. It is one c
 Same construction. Same two phrases. Spoken by the same person, in the same setting, moments before He leaves the temple and the disciples point at the stones. And in Matthew 23 there is no serious dispute about who "this generation" means, because the verse is the climax of a sustained address to the scribes and Pharisees standing in front of Him.
 
 ::: evidence
-**How strongly evidence bears**
+**Matthew 23:36 and "this generation" at 24:34**
 
-Matthew 23:36 **STRONGLY SUPPORTS** the contemporaries reading at 24:34. It does not **REQUIRE** it, because a phrase can be reused with a different scope, and Matthew 24 has moved outdoors and changed audience from the crowds to the disciples.
+Matthew 23:36 <span class="grade">supports</span> the contemporaries reading at 24:34, strongly. It does not reach <span class="grade">requires</span>, because a phrase can be reused with a different scope, and Matthew 24 has moved outdoors and changed audience from the crowds to the disciples.
 :::
 
 ## And the evidence that goes against me
@@ -105,7 +105,7 @@ Then Isaiah 65:20, which complicates everyone's position including mine: inside 
 ::: finding
 **Finding — the Anti-Replacement Principle**
 
-I escaped a rigid reading here for the fourth time in this investigation, and for the fourth time I had to stop myself installing a rigid replacement. "Heaven and earth means the old covenant" is **PERMITTED** by this evidence. It is **NOT ESTABLISHED**, and adopting it would be the same error I had just escaped, wearing my colors.
+I escaped a rigid reading here for the fourth time in this investigation, and for the fourth time I had to stop myself installing a rigid replacement. "Heaven and earth means the old covenant" is at <span class="grade">permits</span> on this evidence. It is **not established**, and adopting it would be the same error I had just escaped, wearing my colors.
 
 A fourth possibility also stands: the contrast itself may be the point. Whatever passes, His words do not.
 :::
@@ -123,31 +123,31 @@ Two untils. Not one. Any reading has to account for both, and their relationship
 And the Greek is checkable and nearly identical across the two passages.
 
 ::: wordstudy
-**Original language**
+**Two "untils", side by side**
 
 Matthew 5:18 · <span class="gr">ἕως ἂν πάντα γένηται</span> · *heōs an panta genētai*
 
 Matthew 24:34 · <span class="gr">ἕως ἂν πάντα ταῦτα γένηται</span> · *heōs an panta tauta genētai*
 
-They differ by <span class="gr">ταῦτα</span> *(tauta)*, "these." Both passages also share <span class="gr">παρέλθῃ</span> *(parelthē)*, "pass away."
+They differ by <span class="gr">ταῦτα</span> (*tauta*), "these." Both passages also share <span class="gr">παρέλθῃ</span> (*parelthē*), "pass away."
 :::
 
 ::: evidence
-**How strongly evidence bears**
+**Matthew 5:18 and 24:34 — a prompt, not a proof**
 
-The near-identity of those constructions **ESTABLISHES A REASON TO ASK** whether Matthew intends a connection. It **DOES NOT ESTABLISH** the connection. Same author, similar phrase, is a strong prompt and a weak proof.
+The near-identity of those constructions **establishes a reason to ask** whether Matthew intends a connection. It does **not** establish the connection. Same author, similar phrase, is a strong prompt and a weak proof.
 :::
 
 ## What "fulfill" does and does not mean
 
 Matthew 5:17 is where I had to slow down most.
 
-**καταλῦσαι** *(katalysai)*, to abolish or destroy, is explicitly negated. And its object is "the Law **or the Prophets**," which is a conventional way of naming Israel's Scriptures as a whole. So reducing the verse to a question about which regulations Christians must keep has already narrowed it below what was said.
+<span class="gr">καταλῦσαι</span> (*katalysai*), to abolish or destroy, is explicitly negated. And its object is "the Law **or the Prophets**," which is a conventional way of naming Israel's Scriptures as a whole. So reducing the verse to a question about which regulations Christians must keep has already narrowed it below what was said.
 
-**πληρῶσαι** *(plērōsai)*, to fulfill, I read against Matthew's own prior uses of the verb: 1:22, 2:15, 2:17, 4:14, each time of Scripture reaching an intended realization. The CJB translates it "complete."
+<span class="gr">πληρῶσαι</span> (*plērōsai*), to fulfill, I read against Matthew's own prior uses of the verb: 1:22, 2:15, 2:17, 4:14, each time of Scripture reaching an intended realization. The CJB translates it "complete."
 
 ::: wordstudy
-**Original language**
+**Matthew 5:17 — the two verbs**
 
 <span class="gr">καταλῦσαι</span> · *katalysai* · to abolish, tear down — **explicitly negated**, with "the Law or the Prophets" as its object
 
@@ -167,10 +167,10 @@ By the end of this, I had a mess, and the mess had a shape.
 ::: finding
 **Finding — the Category Collapse Test**
 
-Before answering a question, check whether it names one thing or several things packaged as one. This runs **first**. A malformed question cannot be rescued by good exegesis downstream, and "is the Law abolished?" is at least eight questions wearing one coat.
+Before answering a question, check whether it names one thing or several things packaged as one. This runs **first**. A malformed question cannot be rescued by good exegesis downstream, and "is the Law abolished?" is at least six distinct things — and more questions than that — wearing one coat.
 :::
 
-I did not build that theoretically. I had watched Acts 15 do it, chapters ago, which is a dividend paid by investigating in sequence rather than by topic.
+I did not build that theoretically. I had watched Acts 15 do it, chapters ago, which is the advantage of investigating in sequence rather than by topic.
 
 ## The cost, recorded rather than hidden
 
@@ -185,13 +185,13 @@ So I do not get to grant myself one.
 ::: openquestion
 **Open question — an unresolved cost of the position**
 
-If the first-century reading of "all is accomplished" is correct, Matthew 5:19 requires an account that this book does not yet have. I am logging it as a cost of my own position rather than a difficulty for somebody else's.
+If the first-century reading of "all is accomplished" is correct, Matthew 5:19 requires an account that this book does not yet have. I record it as a cost of my own position rather than a difficulty for somebody else's.
 :::
 
 ::: whereweare
-**Where we are.** Matthew 24 returns to a second-person address repeatedly, including at its largest claims, so a shift to a far-future audience needs textual argument rather than a system. Luke's *and all the trees* contradicts the *exclusive* fig-tree decoder and strongly counts against softer versions of it. Matthew 23:36's identical construction, one chapter earlier, strongly supports the contemporaries reading of 24:34, while the CJB's "this people" stands against it at full strength. The imagery work of the previous chapters did not prove a first-century reading; it removed objections, and much of the impossibility turned out to be mine. Verse 35 then reopened everything: heaven and earth are covenant witnesses elsewhere, which permits an old-covenant reading and establishes nothing, and Isaiah 65:20 has death inside the new creation. Two rules were born here, Anti-Replacement and the Category Collapse Test, and one cost was logged against my own position at Matthew 5:19.
+**Where this leaves us.** Matthew 24 returns to a second-person address repeatedly, including at its largest claims, so a shift to a far-future audience needs textual argument rather than a system. Luke's *and all the trees* contradicts the *exclusive* fig-tree decoder and strongly counts against softer versions of it. Matthew 23:36's identical construction, one chapter earlier, strongly supports the contemporaries reading of 24:34, while the CJB's "this people" stands against it at full strength. The imagery work of the previous chapters did not prove a first-century reading; it removed objections, and much of the impossibility turned out to be mine. Verse 35 then reopened everything: heaven and earth are covenant witnesses elsewhere, which permits an old-covenant reading and establishes nothing, and Isaiah 65:20 has death inside the new creation. Two rules were born here, Anti-Replacement and the Category Collapse Test, and one cost was recorded against my own position at Matthew 5:19.
 :::
 
 ::: earned
-**What it earned.** If something was completed and something passed away, then the question can no longer be avoided in the abstract. What specifically does Scripture say changed, and what does it say was retained?
+**The question this leaves.** If something was completed and something passed away, then the question can no longer be avoided in the abstract. What specifically does Scripture say changed, and what does it say was retained?
 :::

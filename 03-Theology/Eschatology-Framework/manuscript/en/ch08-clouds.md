@@ -31,11 +31,11 @@ The figure does not descend from the sky to the ground. He comes **to the Ancien
 I had been carrying a picture of Daniel 7 in my head that had the movement running the other way, and I had never checked, because I had never needed to.
 
 ::: evidence
-**How strongly evidence bears**
+**Daniel 7:13 — which way the figure travels**
 
-The direction in Daniel 7:13 is **EXPLICIT TEXT**. It **REQUIRES** that the source image is a presentation before a throne rather than a descent to earth.
+The direction in Daniel 7:13 is explicit text. It <span class="grade">requires</span> that the source image is a presentation before a throne rather than a descent to earth.
 
-What it **DOES NOT ESTABLISH** is that Matthew 24:30 must therefore carry only that sense. Matthew is quoting Daniel, not being confined to Daniel. That is a real inference gap and I am not going to walk across it quietly.
+What it does **not** establish is that Matthew 24:30 must therefore carry only that sense. Matthew is quoting Daniel, not being confined to Daniel. That is a real inference gap and I am not going to walk across it quietly.
 :::
 
 ## The cloud vocabulary, assembled
@@ -53,7 +53,7 @@ That is a cloud-coming. It is stated as a coming of the LORD. And what it descri
 I want to be careful about what that gives me. It gives me a precedent for cloud-coming language describing divine judgment executed within history. It does not, by itself, tell me what Matthew 24:30 is describing.
 
 ::: historical
-**Historical context**
+**Storm and cloud as the language of judgment**
 
 Isaiah 19 belongs to a sequence of oracles against surrounding nations. Ancient Near Eastern prophetic literature regularly describes a deity's action against a kingdom in language of storm, cloud, and cosmic disturbance, while the events referred to are military and political. Isaiah is not unusual in this; recognizing the convention is not explaining it away.
 :::
@@ -99,7 +99,7 @@ The translations will not let me pretend otherwise. They diverge exactly where t
 
 ## A rule that comes out of this and never leaves
 
-Something general came out of this stage that governs the rest of the book, and it is worth stating on its own.
+Something general came out of this chapter that governs the rest of the book, and it is worth stating on its own.
 
 **Before assigning a modern literal meaning to an image in Revelation or the Prophets, find where Scripture used that image first.**
 
@@ -115,16 +115,16 @@ A symbol can describe an entirely real event. Treating *symbolic* and *actual* a
 
 ## One translation choice worth seeing
 
-The CJB renders **γῆ** *(gē)* as "the Land" at both Matthew 24:30 and Revelation 1:7, where other translations have "earth."
+The CJB renders <span class="gr">γῆ</span> (*gē*, land, earth) as "the Land" at both Matthew 24:30 and Revelation 1:7, where other translations have "earth."
 
 I am not citing that as proof. A translator's choice is a translator's judgment. I am citing it because the difference between *all the tribes of the earth* and *all the families of the Land* is enormous, and an English reader with one Bible on the table will never know a choice was made.
 
-That question gets its own chapter, four chapters from here.
+That question gets its own chapter, three chapters from here.
 
 ::: whereweare
-**Where we are.** The cloud-coming's source passage is Daniel 7, and in Daniel the Son of Man travels **to** the Ancient of Days and is enthroned, not down to earth. Cloud language across the Tanakh regularly describes divine action executed within history, with Isaiah 19's judgment on Egypt as the clearest control. None of that decides Matthew 24:30, and the second-person "you will see" at the trial remains a genuine difficulty which I have refused to solve by redefining the verb.
+**Where this leaves us.** The cloud-coming's source passage is Daniel 7, and in Daniel the Son of Man travels **to** the Ancient of Days and is enthroned, not down to earth. Cloud language across the Tanakh regularly describes divine action executed within history, with Isaiah 19's judgment on Egypt as the clearest control. None of that decides Matthew 24:30, and the second-person "you will see" at the trial remains a genuine difficulty which I have refused to solve by redefining the verb.
 :::
 
 ::: earned
-**What it earned.** If the cloud imagery has a Tanakh source that changes how it reads, what about the rest of the cosmic collapse in the same passage? The sun darkened, the moon failing, the stars falling.
+**The question this leaves.** If the cloud imagery has a Tanakh source that changes how it reads, what about the rest of the cosmic collapse in the same passage? The sun darkened, the moon failing, the stars falling.
 :::

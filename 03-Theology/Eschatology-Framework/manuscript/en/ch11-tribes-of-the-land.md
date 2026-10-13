@@ -20,9 +20,9 @@ Then I looked at the Greek and found a word I had already met.
 
 ## Two words, both with a history
 
-The word behind "earth" is **γῆ** *(gē)*. It is the ordinary word for land, ground, soil, territory, country. It can mean the whole earth. It can also mean *this land*, in the way a person in a country says "the land" and everyone knows which one.
+The word behind "earth" is <span class="gr">γῆ</span> (*gē*). It is the ordinary word for land, ground, soil, territory, country. It can mean the whole earth. It can also mean *this land*, in the way a person in a country says "the land" and everyone knows which one.
 
-The word behind "tribes" is **φυλαί** *(phylai)*, and in Israel's Scriptures that word has a home. Overwhelmingly it is at work in the vocabulary of Israel's own tribes, and that resonance matters here, especially once the source passage turns out to be Zechariah 12. But the word is not restricted to Israel. It carries a wider ethnic sense as well, and Revelation itself stacks it into expansive formulas alongside tongues and peoples and nations — *every tribe and tongue and people and nation* at 5:9, and the same four again at 7:9. So *phylai* leans in a direction. It cannot establish the referent on its own.
+The word behind "tribes" is <span class="gr">φυλαί</span> (*phylai*), and in Israel's Scriptures that word has a home. Overwhelmingly it is at work in the vocabulary of Israel's own tribes, and that resonance matters here, especially once the source passage turns out to be Zechariah 12. But the word is not restricted to Israel. It carries a wider ethnic sense as well, and Revelation itself stacks it into expansive formulas alongside tongues and peoples and nations — *every tribe and tongue and people and nation* at 5:9, and the same four again at 7:9. So *phylai* leans in a direction. It cannot establish the referent on its own.
 
 Two words, side by side, both carrying covenantal-land resonance. That is not proof of anything. It is a reason to look further.
 
@@ -49,13 +49,13 @@ Revelation 1:7 puts the two source passages together in a single verse:
 Daniel 7's cloud-coming, and Zechariah 12's piercing and mourning, welded into one sentence. John is not assembling these at random; he is reading them as belonging together.
 
 ::: evidence
-**How strongly evidence bears**
+**Matthew 24:30, Revelation 1:7 and Zechariah 12**
 
-That Matthew 24:30 and Revelation 1:7 both draw on Zechariah 12 is **EXPLICIT** in the shared piercing-and-mourning language.
+That Matthew 24:30 and Revelation 1:7 both draw on Zechariah 12 is explicit in the shared piercing-and-mourning language.
 
-That *gē* + *phylai* carries a covenantal-land sense here is **SUPPORTED** by Zechariah's named families and by the vocabulary's history.
+The evidence — Zechariah's named families and the vocabulary's history — <span class="grade">supports</span> a covenantal-land sense for *gē* + *phylai* here.
 
-It is **NOT REQUIRED**. Both words have wider ranges, and the wider sense is available.
+It does not reach <span class="grade">requires</span>. Both words have wider ranges, and the wider sense is available.
 :::
 
 ## Those who pierced him
@@ -81,9 +81,9 @@ It does not.
 Same author. Same word. And nobody, including me, reads that as a statement about Judean real estate.
 
 ::: finding
-**Finding**
+**The land-sense of *gē* at Matthew 24:30 — supported, not established**
 
-*Gē* in Matthew 24:30 **permits** and is contextually **supported** in a covenantal-land sense by the Zechariah 12 background. It is not established, and *gē* does not carry that sense automatically elsewhere. No new dictionary is issued by this chapter.
+*Gē* in Matthew 24:30 <span class="grade">permits</span> a covenantal-land sense, and the Zechariah 12 background <span class="grade">supports</span> it. It is not established, and *gē* does not carry that sense automatically elsewhere. No new dictionary is issued by this chapter.
 :::
 
 That restraint is the fourth time in this investigation I have escaped a rigid reading and then had to stop myself from installing a rigid replacement. It eventually gets a name, one chapter from here.
@@ -107,17 +107,17 @@ I had an English Bible that said *all the tribes of the earth*. That sentence ha
 But the effect on me was that a question was closed before I knew it was open.
 
 ::: finding
-**Finding**
+**What a translation decides for its reader**
 
-A translation can settle a question for its reader before the reader knows there was a question. This is the strongest argument this project has produced for working at the level of the source languages, and it arrived from inside the evidence rather than being asserted as a principle at the start.
+A translation can settle a question for its reader before the reader knows there was a question. This is the strongest argument I have found for working at the level of the source languages, and it arrived from inside the evidence rather than being asserted as a principle at the start.
 :::
 
 That is why the rest of this book prints the Greek and the Hebrew where an argument turns on wording. Not to sound learned. Because otherwise you are trusting my English, and my English, like everyone's, has already decided things.
 
 ::: whereweare
-**Where we are.** *Gē* and *phylai* both carry covenantal-land resonance, and Matthew 24:30's mourning comes from Zechariah 12, where the land mourns family by family, by name. Revelation 1:7 fuses Zechariah 12 with Daniel 7 deliberately. The land-sense is supported and not required, and Matthew 5:18 keeps me from issuing a new dictionary. Whether the mourning is grief or terror is left open.
+**Where this leaves us.** *Gē* and *phylai* both carry covenantal-land resonance, and Matthew 24:30's mourning comes from Zechariah 12, where the land mourns family by family, by name. Revelation 1:7 fuses Zechariah 12 with Daniel 7 deliberately. The land-sense is supported and not required, and Matthew 5:18 keeps me from issuing a new dictionary. Whether the mourning is grief or terror is left open.
 :::
 
 ::: earned
-**What it earned.** Three chapters of source-hunting have loosened images I thought were fixed. Which means the plain temporal statements in the same passage can finally be looked at directly. This generation. And heaven and earth passing away.
+**The question this leaves.** Three chapters of source-hunting have loosened images I thought were fixed. Which means the plain temporal statements in the same passage can finally be looked at directly. This generation. And heaven and earth passing away.
 :::

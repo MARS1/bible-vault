@@ -114,6 +114,18 @@ for label, text, cat, want in [
     ("ES old label flagged",                "**Qué se ganó.** texto", "convention", 1),
     ("benchmark label NOT flagged",         "**Where this leaves us.** text", "convention", 0),
     ("body rule flagged",                   "text\n\n---\n\n::: whereweare", "convention", 1),
+    # 2026-10-13: Parts II-VII reuse fixed captions; Part VIII-IX boxes name their content.
+    ("generic evidence title flagged",      "::: evidence\n**How strongly evidence bears**", "convention", 1),
+    ("generic wordstudy title flagged",     "::: wordstudy\n**Original language**", "convention", 1),
+    ("ES 'deuda declarada' caption flagged","::: textualnote\n**Nota textual — deuda declarada**", "convention", 1),
+    ("descriptive 'Finding — …' NOT flagged","::: finding\n**Finding — Daniel moves between ruler and realm**", "convention", 0),
+    ("benchmark descriptive title NOT flagged","::: evidence\n**The purpose formula, four times**", "convention", 0),
+    ("debt metaphor flagged",               "**A debt paid before the argument leaned on it**", "label", 1),
+    ("ES deuda flagged",                    "una deuda declarada", "label", 1),
+    # 2026-10-13: Part II ch11 "the strongest argument this project has produced" passed
+    # the checker and was caught by the reviewer.
+    ("'this project' flagged",              "the strongest argument this project has produced", "label", 1),
+    ("ES 'este proyecto' flagged",          "la primera frase de este proyecto", "label", 1),
 ]:
     check(label, norm_hits(text, cat), want)
 
