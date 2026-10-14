@@ -13,16 +13,14 @@ related: "[[10-manuscript-architecture]], [[01y-revelation-8-9-silence-trumpets-
 # Chapter 33: trumpets, the abyss, and the Euphrates
 
 ::: textualnote
-**Textual note — declared debt, stated before the chapter rather than buried in it**
+**Textual note — this chapter describes rather than quotes**
 
-This chapter describes Revelation 8 and 9 rather than quoting them, and the reason is not stylistic.
+This chapter describes Revelation 8 and 9 rather than quoting them, and the same is true of every intertext behind them — the silence passages, Ezekiel 10, the Exodus plagues, Jeremiah's wormwood and destroying mountain, Joel's locusts, and the Hebrew and Greek behind Abaddon and Apollyon.
 
-When I worked through these two chapters, I did so from material I had assembled rather than from a fresh verbatim retrieval, and the same is true of every intertext behind them — the silence passages, Ezekiel 10, the Exodus plagues, Jeremiah's wormwood and destroying mountain, Joel's locusts, and the Hebrew and Greek behind Abaddon and Apollyon.
-
-**Every citation in this chapter is therefore reported rather than verified**, and it is recorded as outstanding work. I am not going to set quotation marks around text I have not re-read in the source, and I am not going to let a chapter borrow the authority of verification it does not have.
-
-That matters more than usual here, because findings from this chapter were leaned on by the two chapters after it before this one was properly written. A gap like that corrupts a research record quietly if nobody names it. So it is named.
+**Every citation in this chapter is therefore reported rather than verified.** I am not going to set quotation marks around text I have not re-read in the source, and I am not going to let a chapter borrow the authority of verification it does not have.
 :::
+
+<!-- VERIFICATION TRAIL (hidden, kept verbatim from Draft 1): When I worked through these two chapters, I did so from material I had assembled rather than from a fresh verbatim retrieval. Every citation in this chapter is therefore reported rather than verified, and it is recorded as outstanding work. That matters more than usual here, because findings from this chapter were leaned on by the two chapters after it before this one was properly written. A gap like that corrupts a research record quietly if nobody names it. So it is named. -->
 
 ## The seventh seal opens, and gives silence
 
@@ -36,7 +34,7 @@ The pattern is the same each time: Yahweh present, judgment imminent, human spee
 
 ## The prayers come back
 
-What follows the silence connects directly to something four chapters earlier. Incense is offered with the prayers of all the saints; then the angel takes fire from the altar and throws it onto the earth; and immediately there is thunder, lightning, rumbling and an earthquake. Then the trumpets begin.
+What follows the silence connects directly to something two chapters earlier. Incense is offered with the prayers of all the saints; then the angel takes fire from the altar and throws it onto the earth; and immediately there is thunder, lightning, rumbling and an earthquake. Then the trumpets begin.
 
 Prayer rises. Judgment descends.
 
@@ -64,9 +62,9 @@ Which raises an obvious question, and I want it on the record in the chapter tha
 
 **If Revelation casts some condemned power in Egypt's role, who occupies that role?**
 
-I am deliberately not answering it. I have a suspicion, and a suspicion recorded as a suspicion is worth something; a suspicion cashed early is worth nothing. The book gets to answer its own question, in sequence, when I reach whatever supplies the answer.
+I am deliberately not answering it. I have a suspicion, and a suspicion recorded as a suspicion is worth something; a suspicion acted on early is worth nothing. The book gets to answer its own question, in sequence, when I reach whatever supplies the answer.
 
-**Banked.**
+**Set aside.**
 :::
 
 ## Mountains, wormwood, and darkened lights
@@ -94,7 +92,7 @@ The repetition is too systematic to be incidental. These are bounded, fractional
 
 That fits Revelation's recurring *was given* pattern. Judgment here is severe and it is limited, and the text says so numerically rather than leaving me to infer it.
 
-⚖️ **And here is the honest statement of what this does for my hypothesis, because the temptation to overstate it is real.**
+**And here is the honest statement of what this does for my hypothesis, because the temptation to overstate it is real.**
 
 Enormous apocalyptic imagery does **not** necessarily equal final universal consummation. That is precisely the conceptual room a past-fulfilment reading requires — it means I am not forced to place every catastrophic vision at the end of history.
 
@@ -221,13 +219,13 @@ And that is where the new-exodus pattern proves structural rather than decorativ
 
 Revelation is not borrowing Exodus' visual effects. It is reproducing its theological structure, in which judgment exposes hardened rebellion.
 
-Which makes the question I banked earlier more pointed rather than less. If Revelation is running an exodus, somebody is cast in Egypt's role. I still am not answering it.
+Which makes the question I set aside earlier more pointed rather than less. If Revelation is running an exodus, somebody is cast in Egypt's role. I still am not answering it.
 :::
 
 ::: whereweare
-**Where we are.** The seventh seal gives silence, and the Tanakh's silence-before-judgment pattern makes that intelligible without importing anything. The martyrs' prayers rise and altar fire falls, continuing the vindication thread from the fifth seal. The trumpets run an exodus pattern — plagues, refusal, hardening — and repeatedly limit themselves to a third, which establishes bounded partial judgment and gives a past-fulfilment reading conceptual room without giving it any evidence. The locusts are explicitly not ordinary locusts and may not touch those sealed in chapter 7, which proves chapter 7 was structural rather than an interruption. What is not established: the identity of the fallen star, of Abaddon, or of the Euphrates horsemen; and none of this chapter's citations has been verified by retrieval, which is recorded as debt rather than smoothed over.
+**Where this leaves us.** The seventh seal gives silence, and the Tanakh's silence-before-judgment pattern makes that intelligible without importing anything. The martyrs' prayers rise and altar fire falls, continuing the vindication thread from the fifth seal. The trumpets run an exodus pattern — plagues, refusal, hardening — and repeatedly limit themselves to a third, which establishes bounded partial judgment and gives a past-fulfilment reading conceptual room without giving it any evidence. The locusts are explicitly not ordinary locusts and may not touch those sealed in chapter 7, which proves chapter 7 was structural rather than an interruption. What is not established: the identity of the fallen star, of Abaddon, or of the Euphrates horsemen; and this chapter's citations are reported rather than verified, which it says at the outset rather than smoothing over.
 :::
 
 ::: earned
-**What it earned.** A rule that stops catastrophe being read as consummation, a rule that keeps judgment moral rather than merely meteorological, and a corrected memory that shows why recollection has to be checked rather than trusted. And one question deliberately left in my hands rather than answered: Revelation is staging an exodus, and it has not yet said who is playing Egypt.
+**The question this leaves.** A rule that stops catastrophe being read as consummation, a rule that keeps judgment moral rather than merely meteorological, and a corrected memory that shows why recollection has to be checked rather than trusted. And one question deliberately left in my hands rather than answered: Revelation is staging an exodus, and it has not yet said who is playing Egypt.
 :::

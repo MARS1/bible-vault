@@ -18,7 +18,7 @@ A structural point before anything else, because it governs how these chapters m
 
 These chapters are not chronologically floating material that can be relocated to wherever a scheme finds convenient.
 
-One note on what I can and cannot quote here. Revelation 11 I retrieved in full and quote directly. Revelation 10 I did not, so I describe it and mark the difference rather than blurring the two.
+One note on what I can and cannot quote here. Revelation 11 I quote directly. Revelation 10 I have not re-read in the source, so I describe it and mark the difference rather than blurring the two.
 
 ## Another mighty angel, and a resemblance I am not converting
 
@@ -41,12 +41,12 @@ There is content about these events that Yahweh did not give the reader. The boo
 
 That destroys a particular expectation I did not know I was carrying: that a sufficiently careful interpreter could, in principle, reconstruct every detail of the apocalypse. Some of it was deliberately not given.
 
-For an investigation this many stages deep into building a chronology, it is worth having the text say that out loud. Daniel said he heard and did not understand. Revelation says there is something it will not write down. Neither of those is a failure of the reader.
+For an investigation this deep into building a chronology, it is worth having the text say that out loud. Daniel said he heard and did not understand. Revelation says there is something it will not write down. Neither of those is a failure of the reader.
 :::
 
 ## "No more delay" — and the thread pulls tighter
 
-The angel swears by the Creator that there will be <span class="gr">χρόνος οὐκέτι</span> — famously rendered *there should be time no longer*, but in context better taken as **there will be no more delay**, since the next verse explains that in the days of the seventh trumpet the mystery of God would be fulfilled, as announced to His servants the prophets.
+The angel swears by the Creator that there will be <span class="gr">χρόνος οὐκέτι</span> (*chronos ouketi*) — famously rendered *there should be time no longer*, but in context better taken as **there will be no more delay**, since the next verse explains that in the days of the seventh trumpet the mystery of God would be fulfilled, as announced to His servants the prophets.
 
 Revelation is not announcing the abolition of chronological existence. It is announcing that the waiting is ending.
 
@@ -71,7 +71,7 @@ The scroll is sweet in the mouth and bitter in the stomach. Ezekiel received a s
 
 Revelation is explicitly portraying John in an Ezekiel-shaped prophetic commission. And it is worth pausing on how many Ezekiel connections have now accumulated inside four chapters: the marked foreheads, the sanctuary fire cast at a city, the four judgments, and now the eaten scroll.
 
-John is then told he must **again** prophesy about many peoples and nations and languages and kings. *Prophesy concerning* is not automatically *personally evangelize every individual* — and once again Revelation uses broad multinational categories without requiring exhaustive individual contact. That belongs with the three-way distinction I drew two chapters ago, and I am banking it rather than spending it.
+John is then told he must **again** prophesy about many peoples and nations and languages and kings. *Prophesy concerning* is not automatically *personally evangelize every individual* — and once again Revelation uses broad multinational categories without requiring exhaustive individual contact. That belongs with the three-way distinction I drew two chapters ago, and I am noting it rather than using it.
 
 ## The measuring rod, and what is deliberately left out
 
@@ -126,7 +126,7 @@ The beast then appears almost casually — *the beast that rises from the bottom
 Read the three designations separately, because the verse itself separates them.
 
 ::: finding
-**Finding — the first historical referent Revelation has given me**
+**Finding — the first direct historical anchor inside the judgment visions**
 
 *Sodom* and *Egypt* are explicitly flagged as symbolic — the text says **symbolically is called**.
 
@@ -141,7 +141,7 @@ This is a different **class** of datum from everything before it. Ezekiel's four
 And the distinction has to be preserved in both directions: **Jerusalem is the historical referent; Sodom and Egypt are the symbolic designations laid over it.**
 :::
 
-## Which answers the question I banked one chapter ago
+## Which answers the question I set aside one chapter ago
 
 In the trumpets I noticed Revelation running an exodus — hail, fire, blood, water struck, darkness, locusts, and repeated refusal to repent, reproducing not just Exodus' imagery but its theological structure. And I asked, deliberately without answering: *if Revelation casts some condemned power in Egypt's role, who occupies that role?*
 
@@ -218,7 +218,7 @@ If I intended to lay every resurrection and judgment statement onto a simple lin
 
 There are candidate frames available. Recapitulation — a later vision returning to an earlier reality from another angle. Prolepsis — anticipating a completion the narrative has not reached. Or genuinely sequential distinct events. Or something I have not thought of.
 
-🛑 **I am selecting none of them.** Both recapitulation and prolepsis are in my toolkit, and **neither may be invoked merely because the timetable needs one.** That is the compression brake's exact failure mode wearing a different name, and I wrote that brake to stop myself, not to stop other people.
+**I am selecting none of them.** Both recapitulation and prolepsis are in my toolkit, and **neither may be invoked merely because the timetable needs one.** That is the compression brake's exact failure mode wearing a different name, and I wrote that brake to stop myself, not to stop other people.
 
 Recorded. Carried forward. Not harmonized.
 :::
@@ -234,9 +234,9 @@ And the chapter closes in covenant imagery — God's temple in heaven opened, an
 My chronology just became much more **constrained**, which is a different thing from being confirmed.
 
 ::: whereweare
-**Where we are.** Chapters 10 and 11 sit inside the sixth trumpet rather than floating free. Revelation seals the seven thunders and thereby tells its readers that complete reconstruction is not on offer. The temporal thread tightens from *near* to *a little longer* to *no more delay*. And at 11:8 the book supplies its first historical referent rather than another pattern: the great city where their Lord was crucified, symbolically called Sodom and Egypt — which answers the exodus question the previous chapter deliberately banked, with a word Revelation supplied rather than one I brought. The indictment is covenantal, inside Israel's own prophetic tradition, and may never be turned ethnic. What remains open is the date of composition, the witnesses, the beast, the Danielic intervals, and why the seventh trumpet announces judgment of the dead nine chapters before Revelation 20 does.
+**Where this leaves us.** Chapters 10 and 11 sit inside the sixth trumpet rather than floating free. Revelation seals the seven thunders and thereby tells its readers that complete reconstruction is not on offer. The temporal thread tightens from *near* to *a little longer* to *no more delay*. And at 11:8 the book supplies a direct historical anchor for the great city rather than another pattern: the great city where their Lord was crucified, symbolically called Sodom and Egypt — which answers the exodus question the previous chapter deliberately set aside, with a word Revelation supplied rather than one I brought. The indictment is covenantal, inside Israel's own prophetic tradition, and may never be turned ethnic. What remains open is the date of composition, the witnesses, the beast, the Danielic intervals, and why the seventh trumpet announces judgment of the dead nine chapters before Revelation 20 does.
 :::
 
 ::: earned
-**What it earned.** A historical anchor that came from the text rather than from my model, and a rule that stops me reconstructing what the book refused to write down. Also a debt I cannot discharge with reasoning: the dating question is now load-bearing, it would help me enormously, and that is precisely why it has to be settled somewhere other than here.
+**The question this leaves.** A historical anchor that came from the text rather than from my model, and a rule that stops me reconstructing what the book refused to write down. Also a question reasoning cannot settle: the dating question is now load-bearing, it would help me enormously, and that is precisely why it has to be settled somewhere other than here.
 :::

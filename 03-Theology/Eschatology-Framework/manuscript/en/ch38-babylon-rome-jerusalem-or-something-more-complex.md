@@ -20,15 +20,7 @@ Revelation now explains her, at length, with more concrete identifying character
 
 The governing question is not *who have Christians traditionally called Babylon*, and it is emphatically not *which candidate best serves the reconstruction I have been building*. It is: **who does Revelation itself say she is?**
 
-::: textualnote
-**Before any argument — a note about my own citations.**
-
-The text of Revelation 17 I first worked from carried a **versification that differs from the standard one**: it ran standard 17:9 and 17:10 together as a single "verse 9," so every label after that point ran one low; what it called verse 17 is standard verse 18.
-
-Every citation in this chapter uses corrected standard numbering. I am recording the drift rather than quietly fixing it, for one reason: **a citation that is right by luck is not verification.** If I had not noticed, I would have built an argument on reference numbers that did not exist, and the argument might still have looked fine.
-
-The numbering still needs independent confirmation against a second witness. That debt is open.
-:::
+<!-- VERIFICATION TRAIL (hidden, kept verbatim from Draft 1): Before any argument — a note about my own citations. The text of Revelation 17 I first worked from carried a versification that differs from the standard one: it ran standard 17:9 and 17:10 together as a single "verse 9," so every label after that point ran one low; what it called verse 17 is standard verse 18. Every citation in this chapter uses corrected standard numbering. I am recording the drift rather than quietly fixing it, for one reason: a citation that is right by luck is not verification. If I had not noticed, I would have built an argument on reference numbers that did not exist, and the argument might still have looked fine. The numbering still needs independent confirmation against a second witness. That debt is open. -->
 
 ## Revelation interprets its own hardest symbol
 
@@ -44,7 +36,7 @@ The same discipline applies to the charge against her:
 
 > …the kings of the earth have committed sexual immorality with her, and with the wine of whose sexual immorality the dwellers on earth have become drunk. (Revelation 17:2)
 
-Cities do not literally have intercourse. Nations do not literally become intoxicated by a city's sexual acts. This is prophetic vocabulary for unfaithfulness, alliance, idolatry, corruption, wealth and power — and it confirms something I argued about this word-group much earlier, from the opposite direction: *porneia* spans a real range **within a single book**, and context assigns the referent. A concordance cannot hand one English definition to every occurrence.
+Cities do not literally have intercourse. Nations do not literally become intoxicated by a city's sexual acts. This is prophetic vocabulary for unfaithfulness, alliance, idolatry, corruption, wealth and power — and it shows something about this word-group worth stating plainly: *porneia* spans a real range **within a single book**, and context assigns the referent. A concordance cannot hand one English definition to every occurrence.
 
 ## Jerusalem cannot be excluded before the argument starts
 
@@ -190,7 +182,7 @@ That is an entirely ordinary biblical pattern. Assyria, Babylon, Persia — fore
 
 ## Revelation 18:24, and the chain closes
 
-Two chapters ago I opened a chain with one leg missing. Here is the missing leg, now verified:
+Last chapter I opened a chain with one leg missing. Here is the missing leg, now verified:
 
 > And **in her was found the blood of prophets and of saints, and of all who have been slain on earth.** (Revelation 18:24)
 
@@ -215,9 +207,9 @@ And then I have to do the thing this book exists to do, which is attack my own b
 ::: wordstudy
 **Word study — <span class="gr">ἐπὶ τῆς γῆς</span>**
 
-Both texts use the phrase my strongest parallel depends on. <span class="gr">ἐπὶ τῆς γῆς</span> *(epi tēs gēs)* can render **"on the earth"** or **"in the land."**
+Both texts use the phrase my strongest parallel depends on. <span class="gr">ἐπὶ τῆς γῆς</span> (*epi tēs gēs*) can render **"on the earth"** or **"in the land."**
 
-This project has spent forty stages on exactly that ambiguity, in exactly that direction, usually arguing that translators reached for the wider English word where the narrower one was available. I do not get to abandon that discipline the moment the looser rendering starts helping me.
+This investigation has spent a great deal of its length on exactly that ambiguity, in exactly that direction, usually arguing that translators reached for the wider English word where the narrower one was available. I do not get to abandon that discipline the moment the looser rendering starts helping me.
 
 If *all who have been slain on earth* is really *all who have been slain in the land*, the parallel with Matthew 23 tightens dramatically and localizes. If it is genuinely the wider sense, the parallel loosens.
 
@@ -227,9 +219,9 @@ If *all who have been slain on earth* is really *all who have been slain in the 
 One more detail before the counterevidence. 18:20 calls on heaven to rejoice, *and you **saints and apostles and prophets***. Apostles appear specifically, which applies real temporal pressure toward the first-century apostolic conflict. It is pressure, not proof.
 
 ::: wordstudy
-**Word study — <span class="gr">ἅγιος</span> / <span class="gr">ἅγιοι</span>**
+**Word study — <span class="gr">ἅγιος</span> (*hagios*) / <span class="gr">ἅγιοι</span> (*hagioi*)**
 
-<span class="gr">ἅγιος</span> *(hagios)* means *holy*, *set apart*. In the plural, <span class="gr">ἅγιοι</span> — conventionally *saints* — means simply **the holy ones**: those set apart to Yahweh.
+<span class="gr">ἅγιος</span> (*hagios*) means *holy*, *set apart*. In the plural, <span class="gr">ἅγιοι</span> (*hagioi*) — conventionally *saints* — means simply **the holy ones**: those set apart to Yahweh.
 
 The English word has accumulated centuries of freight that the Greek does not carry. It does not mean the morally exceptional, and it does not mean a canonized class. It is covenant vocabulary for a people.
 
@@ -334,14 +326,14 @@ I expected Babylon to get easier once Revelation finally explained her. Instead 
 
 Rome sat on seven hills, ruled kings, consumed luxury goods, trafficked in human beings, and depended on maritime commerce. Jerusalem carried the prophetic history of prostitution, the blood of the prophets, the *great city* designation attached to the crucifixion, and the historical possibility of being destroyed by the very imperial power her leadership had become entangled with.
 
-That discomfort was useful. A theory that explains only its favourite verses is not an identification. Every identifying datum belongs in the file, including the ones filed by the other side.
+That discomfort was useful. A theory that explains only its favourite verses is not an identification. Every identifying datum belongs in the record, including the ones the other side would cite.
 
 Perhaps one candidate eventually wins. Perhaps John's symbolism deliberately overlays covenant apostasy and imperial power, in which case the argument has been a false alternative for centuries. What I can say is that Revelation has just handed me the next test, and it is a fair one: **identify the beast without using Babylon to do it, then come back and see which woman can actually ride it.**
 
 ::: whereweare
-**Where we are.** Babylon has been explained and not identified. Revelation interprets its own waters, calls her name a mystery, and has already shown that it renames cities spiritually — so *Babylon* need not be the city's ordinary name. The woman is structurally distinct from the beast she rides and is destroyed by it, which constrains every candidate and complicates the simplest Rome reading at a specific point. Jerusalem's column gained its strongest evidence here, in Ezekiel 16's structural match and in Revelation 18:24's near-verbatim landing on Matthew 23 — with the Greek behind that parallel still unretrieved and flagged against my own interest. Rome's column gained counterevidence that genuinely hurts: silk, ivory, marble, shipmasters, sailors and a slave trade do not anchor to an inland city. Seven kings may be a dating control and is currently a number-fitting trap with its sources unpaid. Neither column owns the whole matrix, and the identification of the beast — made independently — is now the thing that would break the deadlock.
+**Where this leaves us.** Babylon has been explained and not identified. Revelation interprets its own waters, calls her name a mystery, and has already shown that it renames cities spiritually — so *Babylon* need not be the city's ordinary name. The woman is structurally distinct from the beast she rides and is destroyed by it, which constrains every candidate and complicates the simplest Rome reading at a specific point. Jerusalem's column gained its strongest evidence here, in Ezekiel 16's structural match and in Revelation 18:24's near-verbatim landing on Matthew 23 — with the Greek behind that parallel still unread and flagged against my own interest. Rome's column gained counterevidence that genuinely hurts: silk, ivory, marble, shipmasters, sailors and a slave trade do not anchor to an inland city. Seven kings may be a dating control and is currently a number-fitting trap with its sources not yet supplied. Neither column owns the whole matrix, and the identification of the beast — made independently — is now the thing that would break the deadlock.
 :::
 
 ::: earned
-**What it earned.** The cleanest falsification test in this investigation, run to completion, producing no winner — which is the correct outcome and was not engineered. A verse-numbering discrepancy in my own source reported rather than quietly corrected. A word study aimed squarely at my own strongest datum, at the moment it was most tempting to stop looking. A composite-symbol rule shipped with the leash already attached, so it cannot later be used as an escape hatch. And a prohibition against circular identification, written down here while both figures are still open, where it can still cost me something.
+**The question this leaves.** The cleanest falsification test in this investigation, run to completion, producing no winner — which is the correct outcome and was not engineered. A word study aimed squarely at my own strongest datum, at the moment it was most tempting to stop looking. A composite-symbol rule shipped with the leash already attached, so it cannot later be used as an escape hatch. And a prohibition against circular identification, written down here while both figures are still open, where it can still cost me something.
 :::

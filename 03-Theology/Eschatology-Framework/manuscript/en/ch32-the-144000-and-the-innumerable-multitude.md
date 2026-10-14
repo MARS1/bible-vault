@@ -40,7 +40,7 @@ Before asking who the 144,000 are, the better question is where Yahweh has previ
 
 A very strong intertext, and given the Jerusalem correspondences that emerged from the seals, it cannot be waved off.
 
-🛑 **And the brake, in the same breath:** Ezekiel's oracle had its own historical referent. This establishes the **pattern** — mark before judgment — not Revelation 7's target. That is the second time in two chapters I have found Ezekiel supplying vocabulary and had to stop short of letting him supply the destination.
+**And the brake, in the same breath:** Ezekiel's oracle had its own historical referent. This establishes the **pattern** — mark before judgment — not Revelation 7's target. That is the second time in two chapters I have found Ezekiel supplying vocabulary and had to stop short of letting him supply the destination.
 :::
 
 One more restraint while I am here. Revelation does not say the sealed are transported anywhere. They are **sealed**. Ezekiel's marked righteous remain in the city facing judgment while being distinguished from those under condemnation. Sealing first means divine ownership, protection, identification. How that protection operates has to be determined later, and I am not importing a removal mechanism into a verse that contains none.
@@ -53,7 +53,7 @@ Revelation will later give a competing mark, on the forehead or the hand. So it 
 
 Revelation is developing **competing signs of allegiance**. Yahweh's servants bear His seal; the beast's followers will bear its mark.
 
-Which means this is probably not primarily about competing technologies. The scriptural background is far older than anything technological, and hand-and-head imagery associates allegiance, thought, action, identity and obedience. I am putting that on the record here so that chapter 36 inherits it rather than inventing something.
+Which means this is probably not primarily about competing technologies. The scriptural background is far older than anything technological, and hand-and-head imagery associates allegiance, thought, action, identity and obedience. I am putting that on the record here so that Chapter 36 inherits it rather than inventing something.
 
 ## John hears a number
 
@@ -85,9 +85,9 @@ Revelation 7:5–8 gives 12,000 from each, in this order: Judah, Reuben, Gad, As
 |--------------------|-----------------------------------------------|
 | **Judah first** | though Reuben is Jacob's firstborn |
 | **Levi included** | often omitted from territorial enumerations because of priestly status |
-| **Manasseh included** | ⚠️ Manasseh is **Joseph's son**, not Jacob's |
+| **Manasseh included** | Manasseh is **Joseph's son**, not Jacob's |
 | **Ephraim not named** | Joseph's other son |
-| **Dan absent** | ⚠️ and Dan **is** one of Jacob's sons |
+| **Dan absent** | and Dan **is** one of Jacob's sons |
 
 This is not a standard tribal census copied into Revelation. Twelve names are preserved through an unusual construction — Dan drops out, Levi stays, Joseph stays, and Joseph's son Manasseh is counted — which makes it far less likely that John simply reproduced an ordinary list without intention.
 
@@ -136,16 +136,16 @@ And the trajectory behind it is one I arrived with rather than one I built here:
 
 The Greek is <span class="gr">τῆς θλίψεως τῆς μεγάλης</span> — *the great tribulation*.
 
-And Matthew 24:21 uses <span class="gr">θλῖψις μεγάλη</span>, which I verified back in Part II, in a discourse about Judea, flight, the Sabbath, the temple, and *this generation*.
+And Matthew 24:21 uses <span class="gr">θλῖψις μεγάλη</span> (*thlipsis megalē*), in a discourse about Judea, flight, the Sabbath, the temple, and *this generation*.
 
 ::: evidence
-**How strongly evidence bears — a direct lexical correspondence, with the standing brake**
+***Great tribulation* in Matthew 24:21 and Revelation 7:14, with the standing brake**
 
 Matthew's *great tribulation* and Revelation's *the great tribulation* are the same expression.
 
-**SUPPORTS** — a shared horizon between the Olivet discourse and Revelation's vision.
+The shared expression <span class="grade">supports</span> a shared horizon between the Olivet discourse and Revelation's vision.
 
-🛑 **And the brake that has held since Chapter 17: lexical identity alone does not establish event identity.** I killed a bridge of my own for exactly this reason, and I am not going to accept a weaker standard now that the correspondence runs my way.
+**And the brake that has held since Chapter 21: lexical identity alone does not establish event identity.** I killed a bridge of my own for exactly this reason, and I am not going to accept a weaker standard now that the correspondence runs my way.
 
 Added to the cluster:
 
@@ -234,7 +234,7 @@ That does not require that every individual human receives the message. And it l
 
 Those are not the same claim, and the distinction may eventually be decisive for Matthew 24:14.
 
-But I am not cashing it here. Revelation 7 gives people from every nation. It does **not** say *this multitude proves Matthew 24:14 has been fulfilled*. That is an inference — potentially a powerful one, and an inference nonetheless. Record the correspondence; do not spend it.
+But I am not using it here. Revelation 7 gives people from every nation. It does **not** say *this multitude proves Matthew 24:14 has been fulfilled*. That is an inference — potentially a powerful one, and an inference nonetheless. Record the correspondence; do not build on it.
 
 ## And then Revelation itself made the question harder
 
@@ -251,9 +251,9 @@ Revelation 14 would then require me to explain why that entire multitude is desc
 
 Could the language be symbolic? Certainly it could — Scripture repeatedly uses marital fidelity and adultery as covenantal imagery, and Revelation will make enormous use of exactly that with Babylon.
 
-🛑 **But I cannot simply announce that *virgin* means *spiritually faithful*, because that would be interpreting the difficult text according to what my preferred hypothesis needs.** Revelation 14 has to tell me whether literal celibacy, symbolic covenantal purity, or some layered combination best explains it — and Revelation 14 gets exegeted in sequence, not raided now.
+**But I cannot simply announce that *virgin* means *spiritually faithful*, because that would be interpreting the difficult text according to what my preferred hypothesis needs.** Revelation 14 has to tell me whether literal celibacy, symbolic covenantal purity, or some layered combination best explains it — and Revelation 14 gets exegeted in sequence, not raided now.
 
-**And *firstfruits* adds its own pressure.** <span class="gr">ἀπαρχή</span> elsewhere in the apostolic writings does not usually mean *the only ones who will ever belong*. It normally implies a relationship between a first portion and something following — Messiah is the firstfruits of those who have fallen asleep. If that ordinary force holds here, the 144,000 could be a specially consecrated **initial company** rather than the totality of the redeemed, which weighs against equating them with the innumerable multitude.
+**And *firstfruits* adds its own pressure.** <span class="gr">ἀπαρχή</span> (*aparchē*) elsewhere in the apostolic writings does not usually mean *the only ones who will ever belong*. It normally implies a relationship between a first portion and something following — Messiah is the firstfruits of those who have fallen asleep. If that ordinary force holds here, the 144,000 could be a specially consecrated **initial company** rather than the totality of the redeemed, which weighs against equating them with the innumerable multitude.
 
 The continuity between chapters 7 and 14 is meanwhile very strong: sealed servants with a seal on their **foreheads**, and now the Father's name written on their **foreheads**. Those are almost certainly the same 144,000.
 
@@ -289,9 +289,9 @@ I could have answered it three different ways in this chapter and each would hav
 :::
 
 ::: whereweare
-**Where we are.** Revelation 7 answers the question chapter 6 asked: those who belong to the Lamb can stand. Judgment is restrained until Yahweh's servants are sealed on their foreheads, which is Ezekiel's pattern — established in an oracle that names Jerusalem, though that gives ancestry rather than target. The tribal list is deliberately arranged rather than copied, and Revelation does not say why. The multitude comes out of *the great tribulation*, sharing Matthew 24:21's expression, and Isaiah 49's restoration language arrives almost verbatim. What is not established is whether the number heard and the multitude seen are one group. The hear-and-see pattern makes it plausible; Revelation 14's virgins and firstfruits make it harder; and the chapter that would settle it has not been reached in sequence.
+**Where this leaves us.** Revelation 7 answers the question chapter 6 asked: those who belong to the Lamb can stand. Judgment is restrained until Yahweh's servants are sealed on their foreheads, which is Ezekiel's pattern — established in an oracle that names Jerusalem, though that gives ancestry rather than target. The tribal list is deliberately arranged rather than copied, and Revelation does not say why. The multitude comes out of *the great tribulation*, sharing Matthew 24:21's expression, and Isaiah 49's restoration language arrives almost verbatim. What is not established is whether the number heard and the multitude seen are one group. The hear-and-see pattern makes it plausible; Revelation 14's virgins and firstfruits make it harder; and the chapter that would settle it has not been reached in sequence.
 :::
 
 ::: earned
-**What it earned.** A rule about anticipated completion that will matter at the millennium, a rule about deferring identification until Revelation has finished speaking about its own symbols, and a refusal. The most useful thing in this chapter is the answer I did not give.
+**The question this leaves.** A rule about anticipated completion that will matter at the millennium, a rule about deferring identification until Revelation has finished speaking about its own symbols, and a refusal. The most useful thing in this chapter is the answer I did not give.
 :::

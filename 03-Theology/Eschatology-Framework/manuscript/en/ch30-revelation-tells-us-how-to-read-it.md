@@ -23,11 +23,11 @@ Instead the book went after my chronology before the first vision had properly s
 > Blessed is the one who reads aloud the words of this prophecy… for the time is near. (Revelation 1:3)
 
 ::: wordstudy
-**Word study — <span class="gr">ἐν τάχει</span> and <span class="gr">ὁ καιρὸς ἐγγύς</span>**
+**Word study — <span class="gr">ἐν τάχει</span> (*en tachei*) and <span class="gr">ὁ καιρὸς ἐγγύς</span> (*ho kairos engys*)**
 
-<span class="gr">ἐν τάχει</span> *(en tachei)* at 1:1 — *soon*, *quickly*. And here is the brake, stated before I use the word for anything: *en tachei* can also mean *happening rapidly once it begins*. Soon creates temporal pressure. It does not by itself settle twenty-two chapters.
+<span class="gr">ἐν τάχει</span> (*en tachei*) at 1:1 — *soon*, *quickly*. And here is the brake, stated before I use the word for anything: *en tachei* can also mean *happening rapidly once it begins*. Soon creates temporal pressure. It does not by itself settle twenty-two chapters.
 
-<span class="gr">ὁ καιρὸς ἐγγύς</span> *(ho kairos engys)* at 1:3 is the stronger of the two, and the strength is in the noun. <span class="gr">καιρός</span> is the **appointed season**, not <span class="gr">χρόνος</span>, duration.
+<span class="gr">ὁ καιρὸς ἐγγύς</span> (*ho kairos engys*) at 1:3 is the stronger of the two, and the strength is in the noun. <span class="gr">καιρός</span> (*kairos*) is the **appointed season**, not <span class="gr">χρόνος</span> (*chronos*), duration.
 
 So 1:3 is not saying *the duration will be short*. It is saying **the appointed season is near.**
 
@@ -64,7 +64,7 @@ This is where my assumptions started coming apart, and they came apart on ordina
 
 **And the resurrection Christology arrives before any resurrection vision.** *I died, and behold I am alive forevermore, and I have the keys of Death and Hades* (1:18). Whatever Revelation 20 says about resurrection, it cannot be interpreted in isolation from this.
 
-## The coming in 1:7, and the homework that paid for it
+## The coming in 1:7, and the earlier work behind it
 
 > Behold, he is coming with the clouds, and every eye will see him, even those who pierced him, and all tribes of the earth will wail on account of him. (Revelation 1:7)
 
@@ -93,12 +93,12 @@ When Revelation explicitly defines one of its own symbols, that definition gover
 
 What it establishes: inside this vision, **star means angel**. Revelation said so.
 
-What it does **not** establish: a universal dictionary in which every star everywhere means an angel. Context still governs. That is the rigid-dictionary mistake this book has been avoiding since Chapter 2, and I am not going to commit it now just because Revelation handed me a definition I like.
+What it does **not** establish: a universal dictionary in which every star everywhere means an angel. Context still governs. That is the rigid-dictionary mistake this book has been avoiding since Part II, and I am not going to commit it now just because Revelation handed me a definition I like.
 
 It does strengthen something later, without settling it. Since John demonstrably *can* use stars for angelic beings, the angelic reading of the dragon's tail sweeping a third of the stars becomes substantially more plausible. Plausible is not established. Revelation 12 will have to earn it.
 :::
 
-## The contrast with Daniel, now cashing in
+## The contrast with Daniel, now put to work
 
 Daniel was told to seal the words until the time of the end, twice. Revelation opens saying its things must soon take place and its appointed season is near, and will eventually be told **not** to seal, because the time is near.
 
@@ -107,13 +107,13 @@ Daniel was told to seal the words until the time of the end, twice. Revelation o
 **Unwarranted:** therefore everything through Revelation 22 happened before AD 70. The first comes from the text. The second requires far more work than the first sentence supplies.
 
 ::: evidence
-**How strongly evidence bears — the cumulative cluster, before any preterist argument is made**
+**The cumulative cluster, before any preterist argument is made**
 
 Set out without appealing to any system: *soon* · *the appointed season is near* · seven historical assemblies in Asia · *those who pierced him* · John himself inside tribulation and kingdom · a Danielic cloud-coming · Zecharian mourning · and the deliberate reversal of Daniel's sealing command.
 
 A distant-future reading has to explain **that cluster**. It cannot be answered by *with the Lord a thousand years is as a day*, because Revelation was not written to tell Yahweh what time it was. It was written to human congregations, and it pronounced a blessing on **them** for hearing it **because** the season was near.
 
-**SUPPORTS** — a horizon substantially nearer John's own time than the schemes I grew up with allow.
+The cluster <span class="grade">supports</span> a horizon substantially nearer John's own time than the schemes I grew up with allow.
 
 **And the rule that comes out of it:** a single word like *soon* may permit semantic flexibility. Multiple independent temporal indicators inside one work — soon, near, contemporary recipients, contemporary participants, generational referents — must be weighed **cumulatively** rather than neutralized one at a time.
 :::
@@ -122,7 +122,7 @@ And preterism gets no free victory out of that. Revelation 1 also introduces thi
 
 ## The falsification condition, written before a single vision is interpreted
 
-I promised this in Part V and it is now due. Writing it afterwards would make it a retreat with better manners.
+I promised this in Part V, and this is where it belongs. Writing it afterwards would make it a retreat with better manners.
 
 ::: claimtypes
 **What would make me say the hypothesis does not survive the text**
@@ -146,7 +146,7 @@ I had a single mental category labelled *the Second Coming*, and every occurrenc
 
 To Ephesus: repent, or *I will come to you and remove your lampstand from its place* (2:5). The coming is aimed at **one congregation**, and it removes **its** lampstand — and 1:20 has already told me the lampstands are the churches. The natural sense is a disciplinary visitation against Ephesus if it refuses to repent.
 
-To Pergamum: repent, *if not, I will come to you soon and war against them with the sword of my mouth* (2:16). Specific assembly, specific offenders, coming threatened, judgment following. And *soon* again — <span class="gr">ταχύ</span>. Revelation's temporal vocabulary is not confined to the prologue; it is already recurring inside the letters.
+To Pergamum: repent, *if not, I will come to you soon and war against them with the sword of my mouth* (2:16). Specific assembly, specific offenders, coming threatened, judgment following. And *soon* again — <span class="gr">ταχύ</span> (*tachy*). Revelation's temporal vocabulary is not confined to the prologue; it is already recurring inside the letters.
 
 And to Sardis, the one that settles it:
 
@@ -309,9 +309,9 @@ The world's conception of conquest is to overpower the enemy. Revelation's Lamb 
 That protects against reading the whole book politically backwards. Starting at beasts and wars and kingdoms could suggest the message is that Messiah's people eventually acquire enough worldly power to defeat their enemies. Chapters 1 to 5 establish close to the opposite. The throne already belongs to Yahweh. Messiah already reigns. Therefore the beasts' apparent power is subordinate and temporary from the outset — and that is the architecture before any battle occurs.
 
 ::: whereweare
-**Where we are.** Revelation states its own temporal setting twice before any vision — *soon*, and *the appointed season is near* — addresses seven actual congregations, and blesses the assembly that hears it read because the season is near. Messiah is already the ruler of the kings of the earth, has already conquered and sat down, and has already made His people a kingdom and priests; John already shares tribulation and kingdom. So kingdom and reign language alone cannot identify Revelation 20's thousand years, and the question of what distinguishes that reign from the one already present is now the central open question of this Part. Revelation also defines some of its own symbols, redefines conquest as the Lamb slain and standing, and warns by its own conditional comings that *coming* takes its scope from context. What none of that establishes is that everything through chapter 22 lies behind John. The cumulative temporal cluster is real; so is the enormous narrative still ahead.
+**Where this leaves us.** Revelation states its own temporal setting twice before any vision — *soon*, and *the appointed season is near* — addresses seven actual congregations, and blesses the assembly that hears it read because the season is near. Messiah is already the ruler of the kings of the earth, has already conquered and sat down, and has already made His people a kingdom and priests; John already shares tribulation and kingdom. So kingdom and reign language alone cannot identify Revelation 20's thousand years, and the question of what distinguishes that reign from the one already present is now the central open question of this Part. Revelation also defines some of its own symbols, redefines conquest as the Lamb slain and standing, and warns by its own conditional comings that *coming* takes its scope from context. What none of that establishes is that everything through chapter 22 lies behind John. The cumulative temporal cluster is real; so is the enormous narrative still ahead.
 :::
 
 ::: earned
-**What it earned.** A falsification condition written before a single vision was interpreted, a hypothesis about chapter 5 with its own failure condition attached, and the loss of an argument I did not know I was relying on — that reign language marks the millennium. The book is about to open the first seal, and I no longer get to bring my chart in with me.
+**The question this leaves.** A falsification condition written before a single vision was interpreted, a hypothesis about chapter 5 with its own failure condition attached, and the loss of an argument I did not know I was relying on — that reign language marks the millennium. The book is about to open the first seal, and I no longer get to bring my chart in with me.
 :::

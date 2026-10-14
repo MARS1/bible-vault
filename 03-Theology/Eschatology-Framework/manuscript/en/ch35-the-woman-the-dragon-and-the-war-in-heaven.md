@@ -86,7 +86,7 @@ This is enormous for chronology, and its value is that I did not import it.
 
 Revelation 12 **proves the category**. Birth to enthronement, with the entire earthly ministry unmentioned, is enough — nobody thinks Revelation is claiming the crucifixion did not happen.
 
-⚠️ **And the corollary cuts both ways, which is exactly why it is safe for me to adopt:** be very cautious about assuming that every adjacent visionary scene represents an immediately adjacent historical moment.
+**And the corollary cuts both ways, which is exactly why it is safe for me to adopt:** be very cautious about assuming that every adjacent visionary scene represents an immediately adjacent historical moment.
 
 That restrains my hypothesis as much as it enables it. A rule that only ever helped one side would not be a rule, and I have written that sentence enough times now that I would notice if I stopped meaning it.
 :::
@@ -116,7 +116,7 @@ And when Revelation says **how** he was conquered, it does not say Yeshua overpo
 
 The war-in-heaven imagery is explicitly interpreted through Messiah's sacrificial victory — which is exactly the mode of conquest Revelation established in chapter 5, where the Lion turned out to be a slain Lamb.
 
-**And I have to record something about myself here.** Earlier in this investigation, before I reached Revelation 12, I corrected my own assumption and wrote down that Messiah did not have to fight anybody — that He overcame death through His sacrifice and resurrection.
+**And I have to record something about myself here.** Earlier in my notes, before I reached Revelation 12, I corrected my own assumption and wrote down that Messiah did not have to fight anybody — that He overcame death through His sacrifice and resurrection.
 
 I reasoned to that. Then the text said it. Revelation 12:11 is the strongest support that correction has received, and I did not have it in hand when I made the correction.
 
@@ -159,7 +159,7 @@ And note what Zechariah puts in the scene: a **high priest**. The accusation is 
 
 Which suggests a mechanism, and I want to state it at the right strength. Hebrews portrays Yeshua as great high priest entering the heavenly sanctuary through His own blood. If that sacrifice accomplishes definitive atonement, then the accuser's **basis** for accusation is fundamentally changed. He is not overpowered. He is **answered**.
 
-Sin and accusation, then Messiah's blood, then heavenly priesthood, then the accuser cast down, then kingdom and authority announced. That is remarkably coherent — and coherence is not proof. I did not retrieve Hebrews for this, and I am not building a systematic doctrine out of imagery.
+Sin and accusation, then Messiah's blood, then heavenly priesthood, then the accuser cast down, then kingdom and authority announced. That is remarkably coherent — and coherence is not proof. I have not worked through Hebrews for this, and I am not building a systematic doctrine out of imagery.
 
 ## And then Revelation makes my chronology harder
 
@@ -168,22 +168,22 @@ Sin and accusation, then Messiah's blood, then heavenly priesthood, then the acc
 The devil is cast down — and immediately becomes **more** dangerous on earth, not less.
 
 ::: evidence
-**How strongly evidence bears — against my own hypothesis, and this is the strongest pressure in the investigation**
+**Cast down is not bound — against my own hypothesis, and this is the strongest pressure in the investigation**
 
 | Revelation 12 | Revelation 20 |
 |-------------------------------|-----------------------------------------|
 | cast from **heaven to earth** | **seized, bound, thrown into the abyss, sealed** |
 | **actively persecuting** in great wrath | so that he **cannot deceive the nations** |
 
-**CAST DOWN IS NOT BOUND.** These are different descriptions of different conditions, and I cannot collapse them.
+**Cast down is not bound.** These are different descriptions of different conditions, and I cannot collapse them.
 
-**CONTRADICTS** — any chronology of the form *cross, therefore Satan bound, therefore the millennium begins immediately.*
+The difference <span class="grade">contradicts</span> any chronology of the form *cross, therefore Satan bound, therefore the millennium begins immediately.*
 
 If the cross is tied to Revelation 12's casting down, then afterwards the dragon persecutes the woman, wages war on her offspring, remains furious, and has some remaining short time. **That is not yet Revelation 20's condition of being sealed so that he cannot deceive the nations.**
 
 Maybe the binding follows these events. Maybe chapter 12 recapitulates differently. What is not available is assuming the equation.
 
-I am recording this as prominently as anything supporting my reading, because a version of this project that buried it would not be worth keeping.
+I am recording this as prominently as anything supporting my reading, because a version of this book that buried it would not be worth keeping.
 :::
 
 ## Two short periods, and a correction I did not make myself
@@ -202,15 +202,15 @@ The cleaner candidate is that chapter 12's short time runs from the casting down
 | Revelation 12:12 | <span class="gr">ὀλίγον καιρόν</span> *(oligon kairon)* | a short time |
 | Revelation 20:3 | <span class="gr">μικρὸν χρόνον</span> *(mikron chronon)* | a little time |
 
-Similar concept. Different phrasing. And critically, <span class="gr">καιρός</span> and <span class="gr">χρόνος</span> are different words — a distinction that already mattered at Revelation 1:3, where *the appointed season is near* was stronger than *the duration will be short*.
+Similar concept. Different phrasing. And critically, <span class="gr">καιρός</span> (*kairos*) and <span class="gr">χρόνος</span> (*chronos*) are different words — a distinction that already mattered at Revelation 1:3, where *the appointed season is near* was stronger than *the duration will be short*.
 
 I have not read the interlinear for these two, so the lexical point is recorded rather than leaned on.
 
-**Similarity has earned the question. It has not earned the identity.** That is this project's own rule, applied to its own convenience, which is the only time it costs anything.
+**Similarity has earned the question. It has not earned the identity.** That is this book's own rule, applied to its own convenience, which is the only time it costs anything.
 
 **The resulting hypothesis, recorded as a hypothesis:** victory and exaltation, then the dragon cast from his accusatory position, then a short period of earthly wrath and persecution, then — at some point not yet established — the binding, then the thousand years, then release for a distinct little time, then the final judgment.
 
-🛑 **And the critical unresolved hinge, stated in the strongest terms I have: nothing yet establishes when the binding begins.** I may not equate either the cross or AD 70 with the start of the thousand years. Revelation 20 has to establish its own terms, and it has not been reached.
+**And the critical unresolved hinge, stated in the strongest terms I have: nothing yet establishes when the binding begins.** I may not equate either the cross or AD 70 with the start of the thousand years. Revelation 20 has to establish its own terms, and it has not been reached.
 :::
 
 ## Recapitulation gets upgraded — and still does not get used
@@ -270,9 +270,9 @@ I am keeping it rather than deleting it, because an observation I cannot present
 :::
 
 ::: whereweare
-**Where we are.** Revelation identifies the dragon explicitly as Satan, which proves the book identifies what it intends to and confirms that its silences elsewhere must be respected. The child is Messiah, and the vision moves from His birth straight to His enthronement — demonstrating inside Revelation that it compresses history when its purpose is theological. The war in heaven is interpreted by the text itself through the blood of the Lamb rather than through combat, vindicating a correction I had reasoned to before reaching the verse. Against that stands the hardest pressure this investigation has produced: cast down is not bound. The dragon reaches earth in great wrath with a short time, which is not Revelation 20's sealed condition — so *cross, therefore millennium* is unsupported by this chapter. Recapitulation is now better supported structurally, and is still not being used to dissolve the tension I left standing last chapter. And nothing yet establishes when the binding begins.
+**Where this leaves us.** Revelation identifies the dragon explicitly as Satan, which proves the book identifies what it intends to and confirms that its silences elsewhere must be respected. The child is Messiah, and the vision moves from His birth straight to His enthronement — demonstrating inside Revelation that it compresses history when its purpose is theological. The war in heaven is interpreted by the text itself through the blood of the Lamb rather than through combat, vindicating a correction I had reasoned to before reaching the verse. Against that stands the hardest pressure this investigation has produced: cast down is not bound. The dragon reaches earth in great wrath with a short time, which is not Revelation 20's sealed condition — so *cross, therefore millennium* is unsupported by this chapter. Recapitulation is now better supported structurally, and is still not being used to dissolve the tension I left standing last chapter. And nothing yet establishes when the binding begins.
 :::
 
 ::: earned
-**What it earned.** The oldest questions in this investigation, answered in sequence rather than raided early — and answered in a way that cost me a chronology I had been half-assuming. The mechanism of the victory is the blood of the Lamb. The casting down is not the binding. And the one thing I most need, the start of the thousand years, is exactly the thing Revelation 12 declines to give me.
+**The question this leaves.** The oldest questions in this investigation, answered in sequence rather than raided early — and answered in a way that cost me a chronology I had been half-assuming. The mechanism of the victory is the blood of the Lamb. The casting down is not the binding. And the one thing I most need, the start of the thousand years, is exactly the thing Revelation 12 declines to give me.
 :::

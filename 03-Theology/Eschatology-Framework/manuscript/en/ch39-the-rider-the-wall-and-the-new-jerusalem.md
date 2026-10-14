@@ -12,7 +12,7 @@ related: "[[10-manuscript-architecture]], [[02g-revelation-19-babylon-falls-the-
 
 # Chapter 39: the rider, the wall, and the New Jerusalem
 
-Three chapters back I wrote down a question and left it open: who is Babylon?
+Last chapter I left a question open: who is Babylon?
 
 Revelation 19 opens by answering a different one.
 
@@ -47,7 +47,7 @@ She made herself ready, and it was granted to her. Revelation holds agency and g
 
 Marriage imagery reaches deep into the Tanakh — Isaiah, Jeremiah, Ezekiel, Hosea. It is Yahweh's own covenant vocabulary, not a romantic metaphor added later.
 
-So *unfaithful woman judged → faithful bride prepared* could depict covenant judgment and restoration. **It does not become "Jerusalem destroyed, the Church replaces Israel."** I ruled the erasure model out fifteen chapters ago on other grounds, and a striking image does not reopen a question that evidence closed.
+So *unfaithful woman judged → faithful bride prepared* could depict covenant judgment and restoration. **It does not become "Jerusalem destroyed, the Church replaces Israel."** I ruled the erasure model out in Parts III and IV on other grounds, and a striking image does not reopen a question that evidence closed.
 
 And I am not closing the bride here either. Revelation will identify her itself, two chapters on. Deferred internal interpretation has earned that patience from me by now.
 
@@ -67,7 +67,7 @@ Many diadems, against the dragon's seven and the beast's ten. Counterfeit delega
 
 And the name-theology completes here: the beast's name and number; Yahweh's name on the saints' foreheads; Babylon's name of mystery; and now **a name that no one knows but himself**. Identity, authority, belonging, revelation — and, at the last, mystery beyond creaturely comprehension.
 
-## A detail I found only on retrieval, and it went against the easy reading
+## A detail I found only by reading closely, and it went against the easy reading
 
 > He is clothed in **a robe dipped in blood**, and the name by which he is called is The Word of God. (Revelation 19:13)
 
@@ -168,9 +168,7 @@ This may describe Revelation better than either strict chronology or total recap
 
 One more thing to record before the wall. **Revelation places the marriage of the Lamb before the thousand years.** A great many popular schemes place the marriage supper after all eschatological history. Sequential, anticipatory, or recapitulative — not decided. But I may not let a later chart determine the order of a book that has its own.
 
----
-
-# The wall
+## The wall
 
 Revelation 20 is where this investigation either survives or does not, and I want to be explicit about the standing instruction I gave myself before opening it: **here we do not protect the hypothesis.**
 
@@ -205,7 +203,7 @@ I had asked whether the English *might* in *"so that he might not deceive"* carr
 ::: wordstudy
 **Word study — the word that is not there**
 
-<span class="gr">ἵνα</span> + <span class="gr">μή</span> + aorist subjunctive is a **purpose construction**. There is no Greek lexical item corresponding to English *might*. **The word is supplied by translators to render Greek syntax.**
+<span class="gr">ἵνα</span> (*hina*) + <span class="gr">μή</span> (*mē*) + aorist subjunctive is a **purpose construction**. There is no Greek lexical item corresponding to English *might*. **The word is supplied by translators to render Greek syntax.**
 
 So a modern English legal dictionary would carry me *away* from the source text, not toward it. Modern English legal semantics cannot determine Koine syntax, however carefully the dictionary defines its terms.
 
@@ -216,11 +214,11 @@ Two more words in the same verses, both of which matter.
 
 > **<span class="gr">ἄχρι τελεσθῇ τὰ χίλια ἔτη</span>** — until the thousand years were **completed**.
 
-<span class="gr">τελεσθῇ</span> is from <span class="gr">τελέω</span> — the same root as *telos*, on which I spent several early chapters arguing about what *the end* means in Matthew. **Completion, not mere cessation.** Whatever the thousand signifies, the structure requires a bounded interval: binding, completion, release.
+<span class="gr">τελεσθῇ</span> (*telesthē*) is from <span class="gr">τελέω</span> (*teleō*) — the same root as *telos*, on which I spent several early chapters arguing about what *the end* means in Matthew. **Completion, not mere cessation.** Whatever the thousand signifies, the structure requires a bounded interval: binding, completion, release.
 
 > **<span class="gr">μετὰ ταῦτα δεῖ λυθῆναι αὐτὸν μικρὸν χρόνον</span>** — after these things **it is necessary** that he be released for a little time.
 
-<span class="gr">δεῖ</span> expresses necessity. **The little season is not Satan escaping.** The release occurs inside an ordained sequence — delegated-power control one last time, at exactly the point where it would be easiest to imagine the adversary acting on his own initiative.
+<span class="gr">δεῖ</span> (*dei*) expresses necessity. **The little season is not Satan escaping.** The release occurs inside an ordained sequence — delegated-power control one last time, at exactly the point where it would be easiest to imagine the adversary acting on his own initiative.
 
 And the distinction I drew back at chapter 12, which I was worried I had invented, is now confirmed by comparison:
 
@@ -234,9 +232,9 @@ Materially different conditions. **Cast down is not bound**, and that reading is
 Who binds him? **An angel.** Not Yeshua personally. Which should stop me assuming that every decisive act against the adversary must be a direct duel between Messiah and Satan. Authority here is derived, not seized — the last note in a theme this book has sounded since chapter 6.
 
 ::: wordstudy
-**Word study — <span class="gr">ἄβυσσος</span>**
+**Word study — <span class="gr">ἄβυσσος</span> (*abyssos*)**
 
-<span class="gr">ἄβυσσος</span> *(abyssos)* — literally *bottomless*, *unfathomable*. In Revelation it is a place of confinement with a key and a shaft: the locusts come up from it in chapter 9, the beast ascends from it in 11:7 and 17:8, and the dragon is shut into it here.
+<span class="gr">ἄβυσσος</span> (*abyssos*) — literally *bottomless*, *unfathomable*. In Revelation it is a place of confinement with a key and a shaft: the locusts come up from it in chapter 9, the beast ascends from it in 11:7 and 17:8, and the dragon is shut into it here.
 
 **Two refusals, both recorded when they cost something.**
 
@@ -253,7 +251,7 @@ The full audit of the abyss thread across 9:1–2, 9:11, 11:7, 17:8 and 20:1–3
 
 The population is exactly the one from chapters 6 through 14. Martyrs, testimony, beast, image, mark, endurance. **Revelation 20 is not introducing an unrelated group.** It is returning to the persecuted saints I have been reading about for fourteen chapters — which keeps recapitulation very much in play even while the adversary sequence pushes the other way.
 
-And the correspondence with chapter 6 is close enough to name. There, John saw <span class="gr">ψυχάς</span>, *the souls* of the slain under the altar, told to rest a little longer. Here, *the souls* of slain witnesses, who come to life and reign. **Martyrs waiting → martyrs vindicated and reigning.** One of the strongest internal identity hypotheses in the whole investigation, and still a hypothesis.
+And the correspondence with chapter 6 is close enough to name. There, John saw <span class="gr">ψυχάς</span> (*psychas*), *the souls* of the slain under the altar, told to rest a little longer. Here, *the souls* of slain witnesses, who come to life and reign. **Martyrs waiting → martyrs vindicated and reigning.** One of the strongest internal identity hypotheses in the whole investigation, and still a hypothesis.
 
 Then comes the sentence I cannot get around.
 
@@ -269,7 +267,7 @@ The same verb, in consecutive verses, of two different groups.
 
 If I read *the martyrs came to life* symbolically and *the rest of the dead came to life* bodily, I need textual justification for changing the sense mid-passage. That is possible. It is difficult.
 
-And then Revelation names it: **<span class="gr">αὕτη ἡ ἀνάστασις ἡ πρώτη</span>** — *this is the first resurrection.* <span class="gr">ἀνάστασις</span> is resurrection terminology, not a metaphor the book invents here.
+And then Revelation names it: **<span class="gr">αὕτη ἡ ἀνάστασις ἡ πρώτη</span>** — *this is the first resurrection.* <span class="gr">ἀνάστασις</span> (*anastasis*) is resurrection terminology, not a metaphor the book invents here.
 
 So the chain reads: **dead martyrs → came to life → anastasis.**
 
@@ -287,7 +285,7 @@ Revelation does **not** say all the righteous dead rise here. It specifies behea
 > Blessed and holy is the one who shares in the first resurrection! Over such **the second death has no power**… (Revelation 20:6)
 
 ::: wordstudy
-**Word study — <span class="gr">ἐξουσία</span>, where the English quietly loses something**
+**Word study — <span class="gr">ἐξουσία</span> (*exousia*), where the English quietly loses something**
 
 The Greek is **<span class="gr">ὁ δεύτερος θάνατος οὐκ ἔχει ἐξουσίαν</span>** — *exousia*, **authority**.
 
@@ -307,7 +305,7 @@ Revelation says *they reigned with Messiah.* It does not say: in Jerusalem. In h
 
 **The location is unstated.** Every geographical proposal is therefore secondary to the text, not derived from it.
 
-**Including mine.** I have carried a line of geographical material through this investigation in a deferred register, unused. Revelation 20 provides **no bridge to it whatsoever.** It remains logically possible only in the broadest sense in which anything unstated is possible, and I would rather write that sentence plainly here than leave a silence that a reader could mistake for support.
+**Including mine.** I have carried a line of geographical material through this investigation, set aside and unused. Revelation 20 provides **no bridge to it whatsoever.** It remains logically possible only in the broadest sense in which anything unstated is possible, and I would rather write that sentence plainly here than leave a silence that a reader could mistake for support.
 :::
 
 ## Movement III — the little season, and a bookend visible only in Greek
@@ -380,13 +378,11 @@ Paul's ultimate *telos* aligns with this final, post-millennial event — not wi
 And it vindicates the distinction I drew in Part V, before Revelation was open: **an age can end earlier while the final defeat of death remains ahead.** I argued that from Hebrews and 1 Corinthians while explicitly refusing to let Revelation supply the answer. Revelation has now supplied it independently, which is worth more than if I had reached for it then.
 :::
 
-And one more piece of deferred interpretation pays out eighteen chapters late: *this is the second death, the lake of fire.* Revelation introduced that phrase in chapter 2 and finally defines it here. **First resurrection → the second death has no jurisdiction. Final judgment → the second death.** A two-stage structure, stated by the book.
+And one more piece of deferred interpretation arrives eighteen chapters late: *this is the second death, the lake of fire.* Revelation introduced that phrase in chapter 2 and finally defines it here. **First resurrection → the second death has no jurisdiction. Final judgment → the second death.** A two-stage structure, stated by the book.
 
----
+## What the wall left standing, and what it did not
 
-# What the wall left standing, and what it did not
-
-::: finding
+::: {.finding .flow}
 **The honest result of Revelation 20**
 
 **Strongly supported — Revelation's own sequence:**
@@ -406,26 +402,24 @@ The obstacle is the first resurrection. It reads as resurrection, probably bodil
 And a correction against my own model while I am here: Revelation does not say the saints are hidden from ordinary humanity, invisible, or geographically inaccessible. Those are hypotheses of mine — which means the absence of historical reports could count as evidence **against** certain versions of my model. I would rather that be true and stated than untrue and unexamined.
 :::
 
----
-
-# And then the book does not end where the wall is
+## And then the book does not end where the wall is
 
 Revelation has two more chapters, and they made its chronology harder rather than easier.
 
 > Then I saw **a new heaven and a new earth**, for the first heaven and the first earth had passed away, and the sea was no more. (Revelation 21:1)
 
-<span class="gr">καινός</span> *(kainos)* carries *new, fresh, renewed, new in kind or quality* — which is not the same as a creation replaced by an unrelated second creation. But lexical range alone cannot settle theology, and I want that stated before anyone builds on the word.
+<span class="gr">καινός</span> (*kainos*) carries *new, fresh, renewed, new in kind or quality* — which is not the same as a creation replaced by an unrelated second creation. But lexical range alone cannot settle theology, and I want that stated before anyone builds on the word.
 
-Isaiah 65:17 and 66:22 already gave *new heavens and a new earth*, and Isaiah's picture reportedly contains houses, vineyards, children and long life — with someone dying at a hundred regarded as young. **If that holds on retrieval**, Isaiah's phrase can describe a radically transformed order that still contains ordinary life categories, including death. That would matter a great deal. It is a retrieval debt, it is load-bearing, and I have not paid it.
+Isaiah 65:17 and 66:22 already gave *new heavens and a new earth*, and Isaiah's picture reportedly contains houses, vineyards, children and long life — with someone dying at a hundred regarded as young. **If that holds when Isaiah is read in full**, Isaiah's phrase can describe a radically transformed order that still contains ordinary life categories, including death. That would matter a great deal. I have not checked it in the source, it is load-bearing, and it stays unverified until I do.
 
 Revelation then goes further than Isaiah anyway: *death shall be no more, neither shall there be mourning, nor crying, nor pain.* Which supports what chapter 20 already indicated — the great-white-throne event is more final than the earlier covenantal judgment scenes.
 
 ::: wordstudy
-**Word study — <span class="gr">θάλασσα</span>, and why the sea gets its own audit**
+**Word study — <span class="gr">θάλασσα</span> (*thalassa*), and why the sea gets its own audit**
 
 *And the sea was no more* is not settled here, and I refuse to settle it in a sentence.
 
-<span class="gr">θάλασσα</span> *(thalassa)* runs through Revelation carrying more than one load: the beast rises from the sea; the sea becomes blood; merchants and shipmasters make their living on it; the sea gives up its dead; and here it is gone. Whether the final clause removes a body of water, a symbol of chaotic nations, the source of the beast, or a barrier between peoples is a question about the whole book's usage — and I applied the same lens to *sea* that I applied to *abyss*, at my own insistence, rather than letting the convenient reading stand because it arrived last.
+<span class="gr">θάλασσα</span> (*thalassa*) runs through Revelation carrying more than one load: the beast rises from the sea; the sea becomes blood; merchants and shipmasters make their living on it; the sea gives up its dead; and here it is gone. Whether the final clause removes a body of water, a symbol of chaotic nations, the source of the beast, or a barrier between peoples is a question about the whole book's usage — and I applied the same lens to *sea* that I applied to *abyss*, at my own insistence, rather than letting the convenient reading stand because it arrived last.
 
 **The full audit is in Appendix C.** So is the redundancy audit that checks whether this investigation's controls were doing independent work or quietly restating each other.
 :::
@@ -439,7 +433,7 @@ Revelation then goes further than Isaiah anyway: *death shall be no more, neithe
 
 That is not a woman standing inside a city. **The city itself symbolizes the bride.**
 
-Deferred internal interpretation pays off again: the bride I declined to close at Revelation 19 is now closed by Revelation, not by me.
+Deferred internal interpretation works again: the bride I declined to close at Revelation 19 is now closed by Revelation, not by me.
 
 And it warns against literalizing the city's geometry element by element. John is looking at symbolic communal architecture.
 
@@ -500,7 +494,7 @@ A and B are substantially better grounded. **Neither is selected.**
 And 22:11 is sharper than the *outside* list, which is the part I had been worrying about: ***let the evildoer still do evil*** presupposes **ongoing moral agency**, which is very hard indeed to place after an irreversible final judgment. It pushes toward A or B more forcefully than anything else in the two chapters.
 :::
 
-## A datum I found only on retrieval, and it settles something
+## A datum I found only by reading the verses side by side, and it settles something
 
 | | |
 |---------------------|-------------------------------------------------|
@@ -538,13 +532,13 @@ The book closes with the exact temporal frame it opened with. That is a delibera
 
 Daniel is told to **seal**. John is told **do not seal**.
 
-That much is a real contrast, and it is the strongest whole-book temporal control this investigation has. But I stated it carelessly once, and Part V corrected it, so I am carrying the corrected version here rather than the tidier one.
+That much is a real contrast, and it is the strongest whole-book temporal control this investigation has. But it is easy to state carelessly, and Part V stated it with care, so I am carrying the careful version here rather than the tidier one.
 
 **The asymmetry is not a mirror.** Daniel's sealing command comes with a **terminus** attached — *until the time of the end* — not with a stated reason. Revelation's comes with a **reason** attached — *for the time is near*.
 
 That Daniel's end was not yet upon him is a fair **inference** from the terminus. It is not a quotation, and the difference between those two things is exactly what this book is about.
 
-So: opposite commands, contrasting temporal expressions, one stated reason and one stated terminus. That is still remarkable. It is not quite the symmetry I first wrote down, and the version that survives scrutiny is the one that goes in the book.
+So: opposite commands, contrasting temporal expressions, one stated reason and one stated terminus. That is still remarkable. It is not quite a mirror-image symmetry, and the version that survives scrutiny is the one that goes in the book.
 :::
 
 ## And the last word is an invitation, not a timetable
@@ -587,9 +581,7 @@ And one piece of terminology, because using the wrong label would hide the thing
 
 The neutral research label stands: **past-millennium, present-little-season hypothesis** — until evidence earns something more definitive.
 
----
-
-# Back at the wall
+## Back at the wall
 
 Revelation is finished. I have read all twenty-two chapters in order, with the controls built before the visions were opened, and I can say what the book contains.
 
@@ -599,7 +591,7 @@ And that spine has a wall in chapter 20.
 
 **Not because Revelation is unclear there.** Revelation 20 is one of the clearest chapters in the book: it defines its own binding, names its own resurrection, sequences its own adversaries, and distinguishes its own millennium from its own final judgment. The wall is not the text's obscurity.
 
-The wall is that the first resurrection reads as resurrection — <span class="gr">ἔζησαν</span> in both clauses, <span class="gr">ἀνάστασις</span> in the verse that names it — and a past millennium therefore requires an event in history that I have not identified and have not earned.
+The wall is that the first resurrection reads as resurrection — <span class="gr">ἔζησαν</span> (*ezēsan*) in both clauses, <span class="gr">ἀνάστασις</span> (*anastasis*) in the verse that names it — and a past millennium therefore requires an event in history that I have not identified and have not earned.
 
 So the next move is not a search through history for a thousand-year period that lands where I would like it to. That would be the emperor-count error and the forty-two-month error committed a third time, at larger scale. **The question history is entitled to ask first is: if the millennium already happened, what happened at its beginning?**
 
@@ -608,17 +600,17 @@ And Revelation's own strongest answer to that is the first resurrection.
 Which is where the hypothesis has to go next, without protection.
 
 ::: chain
-**Growing Chain — Checkpoint 4**
+**The growing chain — checkpoint 4**
 
 *Revelation has a spine. The spine has a wall in chapter 20.*
 :::
 
 ::: whereweare
-**Where we are.** Revelation's own sequence is now strongly supported and in places explicit: the beast and false prophet destroyed, the dragon bound afterward, a thousand-year interval, a release, a final revolt, and then a great white throne at which Death itself is destroyed. The binding is functionally defined by the text and confirmed in Greek by the deception bookend; cast down is not bound; nations exist during the thousand years; the location of the reign is unstated, including for my own material; and the reign is bounded in chapter 20 and unbounded in chapter 22, so the millennium is not the final state. The adversary sequence is real counterpressure against the total recapitulation I had been drawn to, and spiral progression now fits the book better than either extreme. Revelation ends where it began, with soon, and near, and do not seal. What remains unproven is the only thing that would make this hypothesis mine rather than merely coherent: that the thousand years are already past — which stands or falls on whether the first resurrection can be located in history without weakening the standards that established resurrection in the first place.
+**Where this leaves us.** Revelation's own sequence is now strongly supported and in places explicit: the beast and false prophet destroyed, the dragon bound afterward, a thousand-year interval, a release, a final revolt, and then a great white throne at which Death itself is destroyed. The binding is functionally defined by the text and confirmed in Greek by the deception bookend; cast down is not bound; nations exist during the thousand years; the location of the reign is unstated, including for my own material; and the reign is bounded in chapter 20 and unbounded in chapter 22, so the millennium is not the final state. The adversary sequence is real counterpressure against the total recapitulation I had been drawn to, and spiral progression now fits the book better than either extreme. Revelation ends where it began, with soon, and near, and do not seal. What remains unproven is the only thing that would make this hypothesis mine rather than merely coherent: that the thousand years are already past — which stands or falls on whether the first resurrection can be located in history without weakening the standards that established resurrection in the first place.
 :::
 
 ::: earned
-**What it earned.** A method that killed one of my own arguments on the first page of the chapter it mattered most in, and a Greek layer that has been standard ever since. A structural finding recorded against the model I wanted. A location humility applied to my own geography rather than only to other people's. A correction to my own earlier chapter, printed where the error was made. And a wall, named as a wall, at the exact point where it would have been easiest to write a paragraph that sounded like an answer.
+**The question this leaves.** A method that killed one of my own arguments on the first page of the chapter it mattered most in, and a Greek layer that has been standard ever since. A structural finding recorded against the model I wanted. A location humility applied to my own geography rather than only to other people's. A correction to my own earlier chapter, printed rather than quietly fixed. And a wall, named as a wall, at the exact point where it would have been easiest to write a paragraph that sounded like an answer.
 
 **Current status of the hypothesis: structurally viable, historically unproven.** Anything more than that sentence would be something I have not earned — and Part VII exists because I went looking for reasons it might be false.
 :::

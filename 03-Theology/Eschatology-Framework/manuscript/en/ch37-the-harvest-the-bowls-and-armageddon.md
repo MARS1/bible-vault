@@ -18,7 +18,7 @@ Revelation 14 opens with people bearing a name on the forehead.
 
 > Then I looked, and behold, on Mount Zion stood the Lamb, and with him 144,000 who had **his name and his Father's name written on their foreheads**. (Revelation 14:1)
 
-That answer arrives one verse into the chapter, and it settles something I had argued for on other grounds two chapters earlier. The mark is not first a technology. It is first a **mark of allegiance**, because Revelation's own counter-mark is a name — and a name is whose you are.
+That answer arrives one verse into the chapter, and it settles something I had argued for on other grounds one chapter earlier. The mark is not first a technology. It is first a **mark of allegiance**, because Revelation's own counter-mark is a name — and a name is whose you are.
 
 ::: finding
 **Finding — Revelation confirms the covenantal reading from inside itself**
@@ -95,7 +95,7 @@ Every arrow there is load-bearing and not one of them is earned. The first is a 
 
 This is the first appearance of the name. She falls before she is described, and she is described three chapters later.
 
-I am going to wait. I made the beast wait, I made the two witnesses wait, and I made the 144,000 wait. Identifying Babylon here — while the only data I have is a name and a fall — would be doing exactly what I have spent forty stages refusing.
+I am going to wait. I made the beast wait, I made the two witnesses wait, and I made the 144,000 wait. Identifying Babylon here — while the only data I have is a name and a fall — would be doing exactly what I have spent this whole investigation refusing.
 
 What Revelation adds instead is a moral summary of the alternative, and it is worth noticing which two things it pairs:
 
@@ -172,7 +172,7 @@ That is not a judgment-only horizon. It connects directly to the angel's proclam
 
 Two temptations, refused in both directions. I will not build a universalism claim on one line of a song. And I will not quietly leave it out because it complicates a wrath-only reading of what follows.
 
-It goes into the ledger of open questions at full strength.
+It stays among the open questions at full strength.
 :::
 
 The plagues then come out of the opened heavenly sanctuary, which fills with smoke so that no one can enter until they are finished. Whatever historical events eventually correspond to the bowls, Revelation's theological claim about them is unambiguous: **Yahweh judges.** Rulers and armies may be instruments. They are not causes.
@@ -222,7 +222,7 @@ And I know another text that says that, in those words, about a named city.
 | **Revelation 18** | Babylon → blood of prophets and saints |
 
 ::: textualnote
-**Declared debt.** The third line of that table is the one I have **not** verified. Revelation 18:24 was never retrieved verbatim at the stage where this chain was assembled, and it is the leg that would close it.
+**One leg not yet checked.** The third line of that table is the one I have **not** verified. I have not read Revelation 18:24 in the source, and it is the leg that would close the chain.
 
 The first two legs are verified. The third is currently a claim about a verse I have not read in front of me, and it is marked as such here rather than allowed to pass as evidence.
 :::
@@ -241,7 +241,7 @@ I have a geography available to me. I have had it available for a long time. It 
 | the drying **prepares a way** | whether it is literally the river ordinarily so called |
 | **kings from the east** are involved | whether it functions as a boundary |
 | | whether the kings are specific historical rulers |
-| | **whether this has any connection to alternative geographical reconstructions discussed earlier in this project** |
+| | **whether this has any connection to an alternative geographical reconstruction — including the one I have had available for a long time** |
 
 That last row is deliberate and it is aimed at me.
 
@@ -299,7 +299,7 @@ Deception → gathering of rulers → battle. Twice.
 
 So: two separate battles, or two visions of one consummative conflict?
 
-**I am not answering that here.** This is one of the strongest tests of recapitulation this investigation will ever face, and answering it before Revelation 20 has been read on its own terms would be the precise failure mode this entire project exists to avoid — deciding a chapter's meaning from a chapter I have not yet exegeted, because the answer I want lives there.
+**I am not answering that here.** This is one of the strongest tests of recapitulation this investigation will ever face, and answering it before Revelation 20 has been read on its own terms would be the precise failure mode this entire investigation exists to avoid — deciding a chapter's meaning from a chapter I have not yet exegeted, because the answer I want lives there.
 
 Correspondence: strong. Identity: unresolved.
 
@@ -309,7 +309,7 @@ Mid-gathering, in a bracket, the voice changes.
 
 > (Behold, **I am coming like a thief!** Blessed is the one who **stays awake**, keeping his garments on, that he may not go about naked and be seen exposed!) (Revelation 16:15)
 
-The battle gathering is explicitly connected with Yeshua's coming. And *thief* is a word with a trail behind it — Matthew 24, 1 Thessalonians 5, 2 Peter 3, and Revelation 3 all use it. That branch is owed, and it is owed carefully, because identical vocabulary does not establish an identical event.
+The battle gathering is explicitly connected with Yeshua's coming. And *thief* is a word with a trail behind it — Matthew 24, 1 Thessalonians 5, 2 Peter 3, and Revelation 3 all use it. That branch still has to be worked, and worked carefully, because identical vocabulary does not establish an identical event.
 
 But the pastoral force is a control in its own right, and it is the thing most commonly lost in books like this one. *Blessed is the one who stays awake.* Revelation does not present prophecy as fascinating information about people millennia later. It repeatedly turns and demands something of **its own readers** — stay awake, keep your garments, endure — and it does that here, inside the bowls, at the assembling of the kings.
 
@@ -413,7 +413,7 @@ Two passages sharing imagery, vocabulary, chronology or structure establishes **
 | Revelation's Babylon ↔ Matthew 23's Jerusalem | increasingly strong | **pending Revelation 17–18** |
 | Trumpets ↔ Bowls | strong | not established |
 
-This rule protects in both directions — against missing real connections, and against overstating them. This project has needed both halves, sometimes in the same paragraph.
+This rule protects in both directions — against missing real connections, and against overstating them. This investigation has needed both halves, sometimes in the same paragraph.
 :::
 
 ## What the plagues did to the question
@@ -429,9 +429,9 @@ The Euphrates taught the same restraint from the other side. I had theories avai
 If the theory was true, it could survive waiting.
 
 ::: whereweare
-**Where we are.** Revelation answers the beast's mark with the Lamb's name on the same foreheads, which confirms the covenantal reading of the mark from inside the book. The 144,000 are called firstfruits, a word that forbids treating them as the whole harvest. The proclaimer of the eternal gospel is an angel, and Revelation's *the hour has come* runs the opposite direction from Matthew's *and then the end will come* — so Revelation 14 cannot certify a completed human mission. The figure on the cloud is told when to reap by an angel from the temple, which weakens rather than strengthens the identification I would have preferred. Babylon has fallen, been accused of the blood of saints and prophets, and still has not been identified, with one leg of that chain openly unverified. The Euphrates has been given to Isaiah and Jeremiah before any geography of mine. Armageddon's etymology is unsettled and the sources are owed. And the bowls parallel the trumpets too closely to ignore and not closely enough to settle, which leaves the recapitulation question exactly where Revelation 20 will find it.
+**Where this leaves us.** Revelation answers the beast's mark with the Lamb's name on the same foreheads, which confirms the covenantal reading of the mark from inside the book. The 144,000 are called firstfruits, a word that forbids treating them as the whole harvest. The proclaimer of the eternal gospel is an angel, and Revelation's *the hour has come* runs the opposite direction from Matthew's *and then the end will come* — so Revelation 14 cannot certify a completed human mission. The figure on the cloud is told when to reap by an angel from the temple, which weakens rather than strengthens the identification I would have preferred. Babylon has fallen, been accused of the blood of saints and prophets, and still has not been identified, with one leg of that chain openly unverified. The Euphrates has been given to Isaiah and Jeremiah before any geography of mine. Armageddon's etymology is unsettled and the sources are still to be supplied. And the bowls parallel the trumpets too closely to ignore and not closely enough to settle, which leaves the recapitulation question exactly where Revelation 20 will find it.
 :::
 
 ::: earned
-**What it earned.** Two rules that will outlive this chapter — that borrowed imagery keeps its old vocabulary and takes a new function, and that correspondence is not identity. A refusal chain written out in the exact words I have heard it argued in, so it cannot be smuggled back in later. A verse recorded at full strength against my own reading, because 14:15 is genuinely awkward and pretending otherwise would have cost more than admitting it. And Babylon, named four times now, still not identified — which is the only reason the identification, when it comes, will be worth reading.
+**The question this leaves.** Two rules that will outlive this chapter — that borrowed imagery keeps its old vocabulary and takes a new function, and that correspondence is not identity. A refusal chain written out in the exact words I have heard it argued in, so it cannot be smuggled back in later. A verse recorded at full strength against my own reading, because 14:15 is genuinely awkward and pretending otherwise would have cost more than admitting it. And Babylon, named four times now, still not identified — which is the only reason the identification, when it comes, will be worth reading.
 :::

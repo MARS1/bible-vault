@@ -14,7 +14,7 @@ related: "[[10-manuscript-architecture]], [[02b-revelation-13-the-beasts-the-mar
 
 I stopped deliberately before this chapter.
 
-That pause is the reason I can read it at all. Because if I had decoded 666 first, the composition date would have followed from the decoding, and the date would then have "confirmed" the decoding — two conclusions holding each other up with nothing underneath. So I set a rule one stage earlier: **666 may not date the book, and the book's date may not decode 666.** They have to converge independently or not at all.
+That pause is the reason I can read it at all. Because if I had decoded 666 first, the composition date would have followed from the decoding, and the date would then have "confirmed" the decoding — two conclusions holding each other up with nothing underneath. So I set a rule in advance: **666 may not date the book, and the book's date may not decode 666.** They have to converge independently or not at all.
 
 This chapter is the first real test of that rule, and I am going to be conspicuous about where it holds.
 
@@ -167,7 +167,7 @@ That is far stronger than *false prophets do fake miracles*. Scripture allows th
 
 **The rule:** the occurrence of an extraordinary sign cannot independently authenticate a messenger whose message or allegiance contradicts Yahweh's revealed truth.
 
-That is a major Torah-to-Revelation continuity, and it has obvious present-day application that I am not going to spend this chapter cashing out.
+That is a major Torah-to-Revelation continuity, and it has obvious present-day application that I am not going to pursue in this chapter.
 :::
 
 The image follows: they are told to make an image for the beast, the second beast is allowed to give it breath so that it speaks, and those who will not worship it are killed.
@@ -197,7 +197,7 @@ Scripture's own hand-and-forehead imagery already carries: **hand** → conduct,
 
 **The rule:** when Revelation places marks on the hand or forehead, interpret the imagery first through Scripture's existing covenant vocabulary and Revelation's own opposing seals, before proposing a later technological mechanism.
 
-⚠️ This does **not** prejudge literal against symbolic manifestation. It preserves the order of investigation.
+This does **not** prejudge literal against symbolic manifestation. It preserves the order of investigation.
 
 **And Revelation has already marked Yahweh's people.** Chapter 7 sealed His servants on their foreheads. Chapter 14 has the Lamb's 144,000 with His name and the Father's name written on their foreheads.
 
@@ -221,13 +221,13 @@ So 666 is not a mystical symbol floating free of language. John expects some rea
 ## Nero becomes a serious candidate, and only a candidate
 
 ::: person
-**NERO · Roman emperor, reigned AD 54–68**
+**Nero · Roman emperor, reigned AD 54–68**
 
 Emperor during the period most first-century datings of Revelation would fall in. Roman sources report that he blamed Christians for the fire at Rome in 64 and had them executed. **Extra-biblical: he is named nowhere in Scripture.** He appears here because his name, spelled in Hebrew letters, is the most-proposed solution to the number of the beast.
 :::
 
 ::: person
-**DOMITIAN · Roman emperor, reigned AD 81–96**
+**Domitian · Roman emperor, reigned AD 81–96**
 
 The emperor under whom the later tradition places John's exile and the writing of Revelation. **Extra-biblical, and likewise unnamed in Scripture.** The whole late-date case runs through his reign, which is why the testimony about him is weighed so carefully below.
 :::
@@ -237,27 +237,27 @@ The proposal is that a Hebrew spelling of *Neron Caesar* yields letter values to
 And some ancient manuscripts of Revelation read **616** rather than 666.
 
 ::: evidence
-**How strongly evidence bears — and why the variant is the interesting part**
+***Neron Caesar*, 666 and 616 — why the variant is the interesting part**
 
-⚠️ **Everything in this section is reported rather than verified.** I have not examined the manuscript evidence or performed the Hebrew calculation from primary sources, and it is held at that weight.
+**Everything in this section is reported rather than verified.** I have not examined the manuscript evidence or performed the Hebrew calculation from primary sources, and it is held at that weight.
 
 **Why the variant matters methodologically.** Suppose only 666 existed. Someone could fairly say I had manipulated a spelling until it produced the number I wanted, and they would be difficult to answer, because a determined interpreter can nearly always find a spelling that works. A single gematria calculation is unfalsifiable in practice.
 
 But if an early textual tradition **independently** contains 616, and the alternate spelling of the same proposed name yields 616, that is a different kind of evidence — **a fact about documents that exists whether or not anyone wants it to.**
 
-**SUPPORTS** — Nero as a serious candidate, and the strongest reason he cannot be dismissed as a preterist invention.
+The variant <span class="grade">supports</span> Nero as a serious candidate, and is the strongest reason he cannot be dismissed as a preterist invention.
 
-🛑 **And it still does not prove Nero is the beast.**
+**And it still does not prove Nero is the beast.**
 
 What must be tested before he could be accepted: the historical setting, the heads and kings of Revelation 17, the wound, the persecution, the forty-two months, the worship system, the economic restrictions, and whether the dating permits the identification at all. **No single calculation gets to carry the whole case.**
 
 ::: person
-**IRENAEUS · c. AD 130–202**
+**Irenaeus · c. AD 130–202**
 
 Early Christian bishop and writer, of the generation after the apostolic era. His *Against Heresies* preserves important early testimony about Christian beliefs and traditions, including remarks on Revelation's number and on when the vision was seen. **An extra-biblical historical witness — not Scripture.**
 :::
 
-⚠️ **And one complication I have to flag rather than hide.** Irenaeus is a key witness for the late date — *and* he discusses the number and the variant. The dating investigation and the 666 investigation **share a source**. That makes keeping them analytically independent harder, not easier, and therefore more important than if they had been separate.
+**And one complication I have to flag rather than hide.** Irenaeus is a key witness for the late date — *and* he discusses the number and the variant. The dating investigation and the 666 investigation **share a source**. That makes keeping them analytically independent harder, not easier, and therefore more important than if they had been separate.
 :::
 
 And even if the number identifies Nero personally, Daniel already showed that a beast can represent a **kingdom** while its heads and horns represent **kings**. So *beast equals Nero and nothing else* does not follow. The more Danielically coherent possibility is: beast as imperial kingdom or system, Nero as a particular head identified by the number. Revelation 17 explicitly says its heads are mountains **and** kings, so layered referents are something the book itself claims.
@@ -273,19 +273,19 @@ And even if the number identifies Nero personally, Daniel already showed that a 
 ## What independent history actually supplies — and what it takes away
 
 ::: person
-**TACITUS · c. AD 56–120**
+**Tacitus · c. AD 56–120**
 
 Roman senator and historian. **Not a Christian and not writing to defend Christian claims**, which is exactly why his report of Nero's treatment of Christians after the fire of 64 carries independent weight here.
 :::
 
 ::: person
-**EUSEBIUS OF CAESAREA · c. AD 260–339**
+**Eusebius of Caesarea · c. AD 260–339**
 
 Early Christian bishop and historian whose *Ecclesiastical History* preserves quotations and reports from earlier Christian writers, including material that no longer survives independently. He wrote centuries after the apostles. **A historical source, not a biblical authority** — and the distance between him and the events he reports is part of what this section has to weigh.
 :::
 
 ::: historical
-**Historical context — Nero, the assemblies of Asia, and the counterevidence**
+**Nero, the assemblies of Asia, and the counterevidence**
 
 **Standing constraint, which governs everything in this box:** historical material may **constrain** a reading of Scripture. It may never **supply** one.
 
@@ -293,13 +293,13 @@ Early Christian bishop and historian whose *Ecclesiastical History* preserves qu
 
 So history independently supplies a major imperial persecution inside precisely the period being tested. **That is correspondence, not identification.**
 
-🛑 **And here is where arguments become suspiciously tidy.** Nero's persecution is conventionally associated with events beginning after the fire in 64; he died in June 68. Depending on which month one selects as the start, something close to forty-two months can be manufactured.
+**And here is where arguments become suspiciously tidy.** Nero's persecution is conventionally associated with events beginning after the fire in 64; he died in June 68. Depending on which month one selects as the start, something close to forty-two months can be manufactured.
 
 I am not doing that. **Tacitus establishes a persecution after the fire. He gives no duration and no end date at all.** The familiar "64–68" is a **constructed** interval — an attested beginning paired with the emperor's death — not a reported one. That is a test, not a result.
 
 **And the earliest source says less than tradition remembers.** *1 Clement* — **a letter sent from the assembly at Rome near the end of the first century, extra-biblical and anonymous in the letter itself, traditionally associated with a Clement of Rome** — remembers Peter and Paul as martyred pillars. It does **not** name Nero. It does not name Rome. It does not say Peter was crucified, let alone upside down. It does not say Paul was beheaded. Paul's death is *under the prefects* — an office, not an emperor. The specific traditions appear in later sources, and those are a different evidentiary tier that may not be merged into one certainty.
 
-🛑 **THE COUNTEREVIDENCE, GIVEN THE SAME PROMINENCE AS THE SUPPORT, because the evidence produced it rather than the hypothesis wanting it.**
+**The counterevidence, given the same prominence as the support, because the evidence produced it rather than the hypothesis wanting it.**
 
 Eusebius places John's exile to Patmos under **Domitian**, and quotes **Irenaeus** saying the vision was seen *almost in our own generation, at the end of the reign of Domitian*. He also reports John returning from banishment to Ephesus after Nerva, according to *an ancient Christian tradition*.
 
@@ -316,7 +316,7 @@ That produces a genuine fork, and no branch gets priority for being tidier.
 
 **A — early Revelation.** Messiah's victory, dragon cast down, apostolic mission and persecution, beastly persecution, martyr-number approaching completion, Jerusalem's judgment, eventual binding, millennium. Textually attractive; depends heavily on an early date; and the Domitianic tradition is direct pressure against it.
 
-**B — later Revelation.** The first-century persecution and Jerusalem's judgment already occurred, and Revelation, written later, recapitulates or symbolically incorporates them while pointing toward further fulfilment. More plausible if the Domitianic tradition survives scrutiny — and notably **not a defeat for this project**, since recapitulation is already increasingly supported on internal grounds.
+**B — later Revelation.** The first-century persecution and Jerusalem's judgment already occurred, and Revelation, written later, recapitulates or symbolically incorporates them while pointing toward further fulfilment. More plausible if the Domitianic tradition survives scrutiny — and notably **not a defeat for this investigation**, since recapitulation is already increasingly supported on internal grounds.
 
 **C — layered.** Revelation combines past foundational events, John's present circumstances, and future consummative realities through recapitulation and prolepsis. I have already demonstrated that Revelation can compress and revisit chronology.
 
@@ -351,13 +351,13 @@ Each generation has identified the mark with whatever seemed most frightening at
 
 **Any interpretation requiring technology incomprehensible and unavailable to the original audience carries a substantial burden of proof.**
 
-⚠️ And the limit, stated plainly so this is not misread: that does **not** mean modern systems can never become oppressive. It means modern resemblance does not establish Revelation's historical referent. Those are different claims, and only one of them is mine to make here.
+And the limit, stated plainly so this is not misread: that does **not** mean modern systems can never become oppressive. It means modern resemblance does not establish Revelation's historical referent. Those are different claims, and only one of them is mine to make here.
 :::
 
 ::: whereweare
-**Where we are.** The beast's authority is delegated four times over, which rules out dualism and distinguishes the beast from the dragon. Daniel establishes that beasts are kingdoms whose heads are kings, so identifying a man would not identify the whole symbol. The mark arrives inside a worship-and-allegiance context built from Daniel 3 and Deuteronomy before it is ever mentioned, and Revelation has already sealed Yahweh's servants on their foreheads — while the economic exclusion remains real and unexplained. The number is meant to be calculated, which makes Nero a serious candidate, and the 616 variant makes him a testable one rather than a manufactured one. What is not established is that Revelation 13 is Nero's reign; the 64–68 interval is constructed rather than reported; and external tradition presently leans toward a date that would pressure the reading I find attractive.
+**Where this leaves us.** The beast's authority is delegated four times over, which rules out dualism and distinguishes the beast from the dragon. Daniel establishes that beasts are kingdoms whose heads are kings, so identifying a man would not identify the whole symbol. The mark arrives inside a worship-and-allegiance context built from Daniel 3 and Deuteronomy before it is ever mentioned, and Revelation has already sealed Yahweh's servants on their foreheads — while the economic exclusion remains real and unexplained. The number is meant to be calculated, which makes Nero a serious candidate, and the 616 variant makes him a testable one rather than a manufactured one. What is not established is that Revelation 13 is Nero's reign; the 64–68 interval is constructed rather than reported; and external tradition presently leans toward a date that would pressure the reading I find attractive.
 :::
 
 ::: earned
-**What it earned.** A chapter on the mark that never had to mention a single device, because Torah supplied the vocabulary and Revelation supplied the opposing seal. A candidate strong enough to test and not strong enough to assert. And the clearest counterevidence in the investigation so far, recorded at the same size as the support — which is the only reason the support is worth anything.
+**The question this leaves.** A chapter on the mark that never had to mention a single device, because Torah supplied the vocabulary and Revelation supplied the opposing seal. A candidate strong enough to test and not strong enough to assert. And the clearest counterevidence in the investigation so far, recorded at the same size as the support — which is the only reason the support is worth anything.
 :::

@@ -26,7 +26,7 @@ Before identifying anything, the vocabulary needs its ancestry established. Zech
 
 Whatever the horsemen mean, John's imagery comes out of Israel's prophets rather than out of nowhere. Zechariah before newspaper.
 
-One honesty note: Zechariah's chariot vision came back to me in summary rather than word for word in this pass, so I am recording it as reported rather than verified, and not building weight on its details.
+One honesty note: I have Zechariah's chariot vision in summary rather than word for word, so I am treating it as reported rather than verified, and not building weight on its details.
 
 ## The first seal, and an identification I am not making
 
@@ -111,7 +111,7 @@ The same four, in a prophetic oracle whose stated target is Jerusalem.
 
 **What this establishes:** Revelation's fourth seal is using established covenantal judgment vocabulary. This is not generic disaster language floating free of Scripture.
 
-🛑 **What it does not establish, and the brake goes on in the same breath:** that Revelation 6's target is Jerusalem. Ezekiel's oracle had its own historical referent. What I have found is the **ancestry of the vocabulary**, not the identity of the new target. Those are different findings and I am not allowed to merge them.
+**What it does not establish, and the brake goes on in the same breath:** that Revelation 6's target is Jerusalem. Ezekiel's oracle had its own historical referent. What I have found is the **ancestry of the vocabulary**, not the identity of the new target. Those are different findings and I am not allowed to merge them.
 :::
 
 That distinction is worth stating as a method, because it saves entire chapters of speculation. Faced with the fourth seal, a reader might ask *what modern mechanism could cause these deaths?* But John's imagery has a traceable scriptural ancestry — Zechariah, Ezekiel, the covenant curses. So the first interpretive question is not *what contemporary thing resembles this?* It is **what does this combination of prophetic judgment images communicate within Scripture?**
@@ -120,16 +120,16 @@ That distinction is worth stating as a method, because it saves entire chapters 
 
 > I saw under the altar the souls of those who had been slain for the word of God and for the witness they had borne. They cried out with a loud voice, "O Sovereign Lord, holy and true, how long before you will judge and avenge our blood on those who dwell on the earth?" Then they were each given a white robe and told to rest a little longer, until the number of their fellow servants and their brothers should be complete, who were to be killed as they themselves had been. (Revelation 6:9–11)
 
-They are not told to wait through innumerable distant ages. They are told to **rest a little longer** — <span class="gr">χρόνον μικρόν</span>.
+They are not told to wait through innumerable distant ages. They are told to **rest a little longer** — <span class="gr">χρόνον μικρόν</span> (*chronon mikron*).
 
 By itself that expression needs contextual interpretation and I am not going to over-read it alone. But the cluster principle from the last chapter applies, and the cluster keeps growing:
 
 ::: evidence
-**How strongly evidence bears — the temporal cluster, now with the fifth seal in it**
+**The temporal cluster, now with the fifth seal in it**
 
 *must soon take place* (1:1) · *the appointed season is near* (1:3) · *I will come to you soon* (2:16) · *I am coming soon* (3:11) · seven historical Asian assemblies · *those who pierced him* (1:7) · John already a partner in the tribulation (1:9) · and now **rest a little longer** (6:11).
 
-**SUPPORTS** — a horizon substantially nearer John than a distant-future default allows.
+The cluster <span class="grade">supports</span> a horizon substantially nearer John than a distant-future default allows.
 
 These are to be weighed cumulatively, not neutralized one at a time. Any one of them can be explained away individually; that is exactly why the rule exists.
 :::
@@ -153,14 +153,14 @@ Revelation 6 has slain witnesses **under the altar**, asking how long until thei
 
 The altar detail is not incidental. Matthew locates a murder *between the sanctuary and the altar*; Revelation locates the martyrs *under the altar*.
 
-This is a serious correspondence. It is **not** proof, and I am recording it at exactly that strength. What I will say is that I noticed it only because I retrieved Matthew 23 in full instead of quoting the line I already knew.
+This is a serious correspondence. It is **not** proof, and I am recording it at exactly that strength. What I will say is that I noticed it only because I read Matthew 23 in full instead of quoting the line I already knew.
 :::
 
 Revelation will later describe Babylon as drunk with the blood of the saints, and associate a great city with the place where their Lord was crucified. I am **not** solving Babylon here. Whether those descriptions identify one symbolic city, different aspects of one, or something more complex has to be determined when Revelation reaches them. What I register now is only this: Revelation's judgment is repeatedly connected to the vindication of murdered saints.
 
 And the martyrs ask for judgment. Which means whatever comes next may be the answer to their prayer — a question the sequence itself invites rather than one I am importing.
 
-## The sixth seal, and the moment the earlier work paid
+## The sixth seal, and the moment the earlier work held
 
 > …a great earthquake, and the sun became black as sackcloth, the full moon became like blood, and the stars of the sky fell to the earth as the fig tree sheds its winter fruit when shaken by a gale. The sky vanished like a scroll that is being rolled up, and every mountain and island was removed from its place. (Revelation 6:12–14)
 
@@ -181,11 +181,9 @@ So cosmic-collapse language **can** describe the collapse of a kingdom or an ord
 
 I want to be precise about the epistemic status of what just happened, because it is the strongest methodological moment in this chapter.
 
-The cosmic-judgment finding was established several Parts ago, against a different question, before Revelation was open in front of me. It was not built to rescue anything here.
+The cosmic-judgment finding was established in Part II, against a different question — Matthew 24's darkened sun and falling stars — long before this investigation reached Revelation. It was not built to rescue anything here. Chapter 9 already noticed that Revelation 6:14's *sky vanished like a scroll that is being rolled up* is very nearly Isaiah 34's phrase; what it did not do was read the seal sequence around it.
 
-Then Revelation 6:14 said *the sky vanished like a scroll that is being rolled up* — which is very nearly Isaiah 34's phrase, arriving on its own.
-
-A tool built for one purpose, surviving contact with a text it was not designed for, is worth more than a tool invented at the point of need. If I had constructed the cosmic-collapse reading in this chapter, it would be special pleading. I constructed it in Part II, and it walked in here by itself.
+A tool built for one purpose, holding up in a text it was not designed for, is worth more than a tool invented at the point of need. If I had constructed the cosmic-collapse reading in this chapter, it would be special pleading. I constructed it in Part II, for Matthew 24, and it holds here.
 :::
 
 ## And a detail I am leaving open, which would have helped
@@ -278,9 +276,9 @@ Every one of these would have strengthened my hypothesis if I had closed it the 
 :::
 
 ::: whereweare
-**Where we are.** The seals draw their vocabulary from Zechariah and Ezekiel rather than from anything modern, and the fourth seal reproduces Ezekiel's four covenantal judgments — whose stated target was Jerusalem, though that establishes ancestry rather than target. Revelation repeatedly shows authority being *given* to agents who did not originate it, in a book whose throne was occupied before any of them moved. The martyrs are told to rest a little longer, which joins a temporal cluster that now runs through six chapters. The sixth seal's cosmic collapse speaks the language Isaiah used of Babylon and Edom and Ezekiel used of Egypt — a finding built before Revelation was opened, which then walked in on its own. And the cry *mountains, fall on us* reaches Revelation by way of Yeshua applying Hosea to the daughters of Jerusalem. What none of this establishes is the target, the rider, the stars, or the scope. Five identifications were available and all five are open.
+**Where this leaves us.** The seals draw their vocabulary from Zechariah and Ezekiel rather than from anything modern, and the fourth seal reproduces Ezekiel's four covenantal judgments — whose stated target was Jerusalem, though that establishes ancestry rather than target. Revelation repeatedly shows authority being *given* to agents who did not originate it, in a book whose throne was occupied before any of them moved. The martyrs are told to rest a little longer, which joins a temporal cluster that now runs through six chapters. The sixth seal's cosmic collapse speaks the language Isaiah used of Babylon and Edom and Ezekiel used of Egypt — a finding built in Part II for Matthew 24, which holds here too. And the cry *mountains, fall on us* reaches Revelation by way of Yeshua applying Hosea to the daughters of Jerusalem. What none of this establishes is the target, the rider, the stars, or the scope. Five identifications were available and all five are open.
 :::
 
 ::: earned
-**What it earned.** The tools survived their first contact, and survived it without being adjusted to fit. A rule about delegated authority that I will need when the dragon starts handing out power, and a rule about questions and answers that stops me treating the next chapter as an interruption. Chapter 6 ended by asking who can stand. I am not permitted to skip the answer.
+**The question this leaves.** The tools survived their first contact, and survived it without being adjusted to fit. A rule about delegated authority that I will need when the dragon starts handing out power, and a rule about questions and answers that stops me treating the next chapter as an interruption. Chapter 6 ended by asking who can stand. I am not permitted to skip the answer.
 :::

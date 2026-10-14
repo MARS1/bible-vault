@@ -153,6 +153,11 @@ div.commentary p { text-align: left; margin: 0 0 0.45em; }
    the shared avoid list. A short one that strands its title at a page foot gets
    `::: {.commentary .keep}` (Part V ch27, 2026-10-14: two lines left on p.33). */
 div.keep { page-break-inside: avoid; break-inside: avoid; }
+/* The reverse: a box longer than a page breaks anyway, so `avoid` only pushes it
+   to a fresh page and strands its heading on the last (Part VI ch39, 2026-10-14:
+   "What the wall left standing" alone on p.209). `::: {.finding .flow}` lets it start
+   under its heading. */
+div.flow { page-break-inside: auto; break-inside: auto; }
 
 /* ---------- the two scales, never one component ----------
    EVIDENCE GRADE (contradicts / permits / supports / requires) is a formal
