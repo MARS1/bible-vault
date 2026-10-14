@@ -31,13 +31,13 @@ Marcos conserva el mismo contraste cuando Yeshúa promete que quien haya dejado 
 Y Lucas entrega el que más presiona contra el rumbo que yo llevaba. En la discusión con los saduceos, Yeshúa distingue a los hijos de este siglo, que se casan y se dan en casamiento, de aquellos que son tenidos por dignos de alcanzar aquel siglo y la resurrección de entre los muertos: esos ya no pueden morir, porque son iguales a los ángeles, y son hijos de Dios al ser hijos de la resurrección.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia — en contra de una lectura meramente administrativa de la transición**
+**Lucas 20 — en contra de una lectura meramente administrativa de la transición**
 
 El siglo venidero queda aquí asociado a **la resurrección de entre los muertos**, y a una condición en la que quienes la alcanzan **ya no pueden morir**.
 
 Eso impide reducir la transición de los siglos a *cambió la administración del templo*. Hay una dimensión escatológica en el siglo venidero, y la enuncia Yeshúa. No es algo que un sistema haya inferido y después leído de vuelta en el texto.
 
-**CONTRADICE** — cualquier versión de mi modelo en desarrollo que permitiera que el cambio de siglo fuera un acontecimiento pactual y administrativo sin resurrección adjunta.
+Lucas 20 <span class="grade">contradice</span> cualquier versión de mi modelo en desarrollo que permitiera que el cambio de siglo fuera un acontecimiento pactual y administrativo sin resurrección adjunta.
 
 Se conserva a plena fuerza. Queda como el problema mayor sin resolver de este capítulo, y prefiero terminar con él sin resolver que terminar con él administrado.
 :::
@@ -59,7 +59,7 @@ Entonces volví y leí el pasaje.
 
 Satanás es atado para que no engañe más a las naciones *hasta que* se cumplan los mil años. Atarlo para que no pueda engañar a las naciones hasta entonces implica bastante claramente que las naciones están ahí todo el tiempo. El texto nunca dice que fueran resucitadas en ese momento, nunca dice que fueran creadas en ese momento, y nunca dice que la tierra hubiera quedado vacía y necesitara llenarse de nuevo.
 
-**El problema se disolvió al recuperar el texto. Nunca había existido.** Y yo estaba buscando explicaciones externas para resolver una dificultad bíblica antes de que nadie hubiera verificado que la dificultad fuera real.
+**El problema se disolvió en cuanto leí el pasaje. Nunca había existido.** Y yo estaba buscando explicaciones externas para resolver una dificultad bíblica antes de que nadie hubiera verificado que la dificultad fuera real.
 
 Conservo esto en el libro porque es el error más instructivo que cometí en este tramo, y porque establece un cortafuegos que voy a necesitar más adelante: las afirmaciones sobre la historia reciente y las afirmaciones sobre lo que dice un texto son dos clases distintas de evidencia, y la primera no puede usarse para zanjar la segunda. Nada de esto decide nada sobre Apocalipsis, que no he abierto y no voy a abrir antes de tiempo.
 :::
@@ -86,7 +86,7 @@ Algo ha comenzado genuinamente sin que todo lo perteneciente al orden anterior h
 La RVR1960 conserva aquí algo que muchas versiones inglesas suavizan: el plural. *Los fines de los siglos*, no *el fin del siglo*.
 
 ::: textualnote
-**Nota textual — <span class="gr">τὰ τέλη τῶν αἰώνων</span> y el tiempo de <span class="gr">κατήντηκεν</span>**
+**Nota textual — <span class="gr">τὰ τέλη τῶν αἰώνων</span> y el tiempo de <span class="gr">κατήντηκεν</span> (*katēntēken*)**
 
 | Elemento | Forma | Fuerza |
 |-----------------|-------------------|--------------------|
@@ -94,14 +94,14 @@ La RVR1960 conserva aquí algo que muchas versiones inglesas suavizan: el plural
 | <span class="gr">αἰώνων</span> *(aiōnōn)* | plural de *aiōn* | de los siglos |
 | <span class="gr">κατήντηκεν</span> *(katēntēken)* | **perfecto de indicativo activo** | han llegado, y la llegada permanece |
 
-El perfecto es acción completada con relevancia presente que continúa. Y el pronombre es *nosotros*.
+El perfecto presenta la llegada como un desarrollo completado cuyo estado resultante está a la vista. Y el pronombre es *nosotros*.
 
 Pablo no escribe que los fines de los siglos vendrán algún día sobre gente de muchos siglos después. Ubica a su propia comunidad en el punto de llegada. **La RVR1960 lo traduce con precisión: *a quienes han alcanzado los fines de los siglos*.**
 
 **Lo que esto establece, dicho con exactitud:** autoubicación apostólica. Pablo consideraba que su propia generación era escatológicamente de transición. Es una observación textual antes de ser la interpretación de nadie, y **no** es prueba de ninguna fecha en particular.
 :::
 
-Una cosa más sobre ese versículo, registrada y no usada. *Telē* es el plural de <span class="gr">τέλος</span> — el mismo lexema que *el fin* de Mateo 24:14 y que *el fin de la ley* de Romanos 10:4. Es su tercera aparición con carga en mi investigación. En el capítulo 17 aprendí qué pasa cuando un lexema compartido se cuenta calladamente como corroboración, y no lo voy a repetir. Misma palabra, tres contextos, tres significados que hay que establecer por separado.
+Una cosa más sobre ese versículo, registrada y no usada. *Telē* es el plural de <span class="gr">τέλος</span> (*telos*) — el mismo lexema que *el fin* de Mateo 24:14 y que *el fin de la ley* de Romanos 10:4. Es su tercera aparición con carga en mi investigación. En el capítulo 21 aprendí qué pasa cuando un lexema compartido se cuenta calladamente como corroboración, y no lo voy a repetir. Misma palabra, tres contextos, tres significados que hay que establecer por separado.
 
 ## Hebreos llega al mismo lugar por otro camino
 
@@ -130,13 +130,13 @@ Hebreos dice que no fue a los ángeles a quienes Dios sujetó **el mundo venider
 Revisé el griego porque la frase parecía corriente. No lo es.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia — una corrección a mi propio trabajo anterior sobre alcance**
+**Hebreos 2:5 — una corrección a mi propio trabajo anterior sobre alcance**
 
-La palabra es <span class="gr">οἰκουμένην τὴν μέλλουσαν</span> *(oikoumenēn tēn mellousan)* — **el mundo habitado venidero**.
+La palabra es <span class="gr">οἰκουμένην τὴν μέλλουσαν</span> (*oikoumenēn tēn mellousan*) — **el mundo habitado venidero**.
 
-<span class="gr">οἰκουμένη</span> es la palabra de Mateo 24:14. La palabra que dediqué la Parte II y la Parte IV a establecer que no tiene por qué significar todos los lugares de la tierra. Y Hebreos la une a un orden **venidero**.
+<span class="gr">οἰκουμένη</span> (*oikoumenē*) es la palabra de Mateo 24:14. La palabra a la que dediqué la Parte II y la Parte IV para establecer que no tiene por qué significar todos los lugares de la tierra. Y Hebreos la une a un orden **venidero**.
 
-**CONTRADICE** — cualquier uso de mi trabajo de alcance que permitiera que *oikoumenē* signifique sencillamente *el mundo habitado romano del primer siglo* dondequiera que aparezca.
+Hebreos 2:5 <span class="grade">contradice</span> cualquier uso de mi trabajo de alcance que permitiera que *oikoumenē* signifique sencillamente *el mundo habitado romano del primer siglo* dondequiera que aparezca.
 
 Ninguna de las dos observaciones cancela a la otra. El censo y el hambre en Lucas siguen mostrando que la palabra puede llevar un referente limitado; Hebreos muestra que la misma palabra puede denotar un orden futuro. Juntas significan que el referente hay que determinarlo en cada aparición, y no fijarlo una vez y reutilizarlo.
 
@@ -165,13 +165,7 @@ Y puede que haya una prueba más dura que Daniel esperando. Pablo escribe que el
 
 Resurrección, venida, reino y *el fin*, en un orden enunciado, con un elemento final enunciado. Cualquier cronología que yo termine construyendo tiene que sobrevivir ese párrafo. Puede ser una prueba más dura que Daniel 12, y los textos más duros son los que vale la pena tener.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Mateo 12:32, Marcos 10:29-30, Lucas 20:34-36, Efesios 1:20-21, Hebreos 2:5, 6:4-5 y 8:13, y 1 Corintios 15:20-26 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados.
-
-Sí están verificados y por eso se citan: 1 Corintios 10:11 y Hebreos 9:26.
-:::
+<!-- SPANISH-SPECIFIC: Mateo 12:32, Marcos 10:29-30, Lucas 20:34-36, Efesios 1:20-21, Hebreos 2:5, 6:4-5 y 8:13, y 1 Corintios 15:20-26 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados. Sí están verificados y por eso se citan: 1 Corintios 10:11 y Hebreos 9:26. -->
 
 ## Lo que este capítulo establece y lo que no
 
@@ -194,9 +188,9 @@ Y *el fin del siglo* ha forzado ahora la resurrección.
 Eso no es divagar. Cada pregunta se ganó la siguiente, y ninguna fue elegida porque pareciera útil.
 
 ::: whereweare
-**Dónde estamos.** El marco de dos siglos es explícito en cinco testigos del Nuevo Testamento, y los escritores apostólicos se ubican en la culminación de los siglos y no al comienzo de un tramo largo y ordinario — el perfecto de 1 Corintios 10:11 hace difícil suavizarlo, y la RVR1960 conserva el plural. El traslape no se importa: Hebreos 6 dice que los creyentes ya gustaron de los poderes del siglo venidero mientras ese siglo sigue siendo venidero. Lo que no está establecido es cuándo alcanza su consumación el siglo presente. Contra una respuesta del primer siglo están la asociación que hace Lucas 20 entre el siglo venidero y la resurrección, el orden enunciado de 1 Corintios 15 que termina en la muerte misma, y Hebreos 2:5, que usa la palabra propia de Mateo 24:14 para un mundo todavía venidero y de paso corrige mi trabajo anterior sobre alcance.
+**Dónde nos deja esto.** El marco de dos siglos es explícito en cinco testigos del Nuevo Testamento, y los escritores apostólicos se ubican en la culminación de los siglos y no al comienzo de un tramo largo y ordinario — el perfecto de 1 Corintios 10:11 hace difícil suavizarlo, y la RVR1960 conserva el plural. El traslape no se importa: Hebreos 6 dice que los creyentes ya gustaron de los poderes del siglo venidero mientras ese siglo sigue siendo venidero. Lo que no está establecido es cuándo alcanza su consumación el siglo presente. Contra una respuesta del primer siglo están la asociación que hace Lucas 20 entre el siglo venidero y la resurrección, el orden enunciado de 1 Corintios 15 que termina en la muerte misma, y Hebreos 2:5, que usa la palabra propia de Mateo 24:14 para un mundo todavía venidero y de paso corrige mi trabajo anterior sobre alcance.
 :::
 
 ::: earned
-**Qué se ganó.** La resurrección dejó de ser un tema que yo alcanzaría en algún momento y pasó a ser lo siguiente que estoy obligado a tomar. Y el orden importa: si zanjo primero la cuestión de los siglos y después interpreto la resurrección para que encaje, habré hecho justamente aquello que todo este método existe para impedir.
+**La pregunta que esto deja.** La resurrección dejó de ser un tema que yo alcanzaría en algún momento y pasó a ser lo siguiente que estoy obligado a tomar. Y el orden importa: si zanjo primero la cuestión de los siglos y después interpreto la resurrección para que encaje, habré hecho justamente aquello que todo este método existe para impedir.
 :::

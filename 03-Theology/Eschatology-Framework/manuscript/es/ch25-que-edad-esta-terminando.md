@@ -40,23 +40,23 @@ Pero al final del mismo Evangelio, con la misma expresión griega detrás:
 
 La expresión griega es la misma. La traducción no.
 
-En 24:3 la RVR1960 dice *siglo*, que es una edad, un período. En 28:20 dice *mundo*, que es otra cosa: es el término que corresponde a <span class="gr">κόσμος</span>, y <span class="gr">κόσμος</span> no está en el versículo.
+En 24:3 la RVR1960 dice *siglo*, que es una edad, un período. En 28:20 dice *mundo*, que es otra cosa: es el término que corresponde a <span class="gr">κόσμος</span> (*kosmos*), y <span class="gr">κόσμος</span> no está en el versículo.
 
 **Consecuencia para el lector de esta edición:** justo en el versículo donde el capítulo que usted está leyendo sostiene que la expresión habla de una edad que se consuma, su Biblia en español le dice *mundo*. El colapso que yo tardé años en detectar en inglés, aquí llega servido desde el texto bíblico mismo.
 
 No estoy corrigiendo a la RVR1960 ni insinuando mala fe: *siglo* y *mundo* se acercan en el uso castellano antiguo, y ninguna traducción es uniforme en todo. Lo que estoy haciendo es señalar la falta de uniformidad, porque el argumento de este capítulo depende de una distinción que la traducción borra en uno de los cinco lugares donde aparece.
 
-**Esto corrige un registro anterior de este mismo proyecto.** En la Parte II quedó anotado que la RVR1960 *nunca* ofrece *fin del mundo*. Esa afirmación era demasiado amplia. En 24:3 no lo ofrece; en 28:20 sí. Registrado y corregido en el libro de sincronización.
+**Esto matiza el capítulo 7.** Allí la RVR1960 dejaba bien servido al lector con *siglo* en 24:3, y en 24:3 lo sigue dejando. Pero la traducción no es uniforme: en 28:20 dice *mundo*.
 :::
 
 ## La palabra que yo estaba oyendo mal
 
 ::: wordstudy
-**Estudio de palabra — <span class="gr">αἰών</span> y <span class="gr">συντέλεια τοῦ αἰῶνος</span>**
+**Estudio de palabra — <span class="gr">αἰών</span> (*aiōn*) y <span class="gr">συντέλεια τοῦ αἰῶνος</span> (*synteleia tou aiōnos*)**
 
-<span class="gr">αἰών</span> *(aiōn)* — una edad, una era, una época. Un período u orden de tiempo.
+<span class="gr">αἰών</span> (*aiōn*) — una edad, una era, una época. Un período u orden de tiempo.
 
-<span class="gr">συντέλεια</span> *(synteleia)* — consumación, término, culminación. Llevar algo a su conclusión señalada.
+<span class="gr">συντέλεια</span> (*synteleia*) — consumación, término, culminación. Llevar algo a su conclusión señalada.
 
 Juntas: **la consumación del siglo.** No, en las palabras mismas, la destrucción de la tierra.
 
@@ -71,12 +71,12 @@ Así que la pregunta es si Mateo hace la distinción, o si la estoy haciendo yo 
 
 Mateo 13 contiene lo que uno más quisiera tener en un pasaje disputado y casi nunca tiene: el que habla explicando su propio simbolismo, por escrito, en el mismo capítulo.
 
-En la explicación de la parábola de la cizaña, Yeshúa dice que el campo es el <span class="gr">κόσμος</span> — el mundo — y que la siega es la <span class="gr">συντέλεια τοῦ αἰῶνος</span>, la consumación del siglo. Las dos palabras aparecen en cláusulas contiguas, separadas por unas pocas sílabas.
+En la explicación de la parábola de la cizaña, Yeshúa dice que el campo es el <span class="gr">κόσμος</span> (*kosmos*) — el mundo — y que la siega es la <span class="gr">συντέλεια τοῦ αἰῶνος</span>, la consumación del siglo. Las dos palabras aparecen en cláusulas contiguas, separadas por unas pocas sílabas.
 
 ::: finding
 **Hallazgo — las dos palabras están una junto a la otra, y no son la misma palabra**
 
-El campo es el <span class="gr">κόσμος</span>. La siega es la <span class="gr">συντέλεια τοῦ αἰῶνος</span>.
+El campo es el <span class="gr">κόσμος</span> (*kosmos*). La siega es la <span class="gr">συντέλεια τοῦ αἰῶνος</span>.
 
 El campo **no** es el siglo. La siega **no** es la destrucción del mundo. Mateo usa ambas palabras dentro de una sola interpretación y las usa para cosas distintas.
 
@@ -92,7 +92,7 @@ Aquí tengo que ser honesto sobre en qué dirección corre la evidencia, porque 
 Mateo continúa: así como la cizaña se recoge y se quema en el fuego, así será en el fin del siglo. El Hijo del Hombre enviará a sus ángeles, y recogerán de su reino a los que hacen iniquidad, y los echarán en el horno de fuego. Y entonces los justos resplandecerán como el sol en el reino de su Padre.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia — en contra de la lectura hacia la que yo iba**
+**La siega de Mateo 13 — en contra de la lectura hacia la que yo iba**
 
 Esto presiona seriamente cualquier afirmación ligera de que *el fin del siglo* significa sencillamente *el templo fue destruido, y nada más*.
 
@@ -100,7 +100,7 @@ Aquí hay siega. Hay agencia angélica. Hay separación de malos y justos. Hay j
 
 Una lectura del primer siglo tiene que **dar cuenta** de ese material. Señalarlo de lejos no es dar cuenta de él.
 
-**CONTRADICE** — la versión delgada de la hipótesis que yo venía desarrollando, aquella en la que el lenguaje del fin del siglo se resuelve enteramente en la caída de Jerusalén sin resto.
+El material de la siega <span class="grade">contradice</span> la versión delgada de la hipótesis que yo venía desarrollando, aquella en la que el lenguaje del fin del siglo se resuelve enteramente en la caída de Jerusalén sin resto.
 
 Queda registrado a plena fuerza, en el capítulo que lo encontró, porque un modelo que solo recoge la evidencia que lo apoya no está siendo puesto a prueba.
 :::
@@ -122,13 +122,7 @@ La expresión aparece **tres veces dentro de Mateo 13**: en la interpretación d
 
 La consumación del siglo, en Mateo, no es apenas una manera de decir *más adelante*. Carga contenido judicial y separativo tres veces seguidas, en un solo capítulo.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Mateo 13:36-43, 13:47-50 y 13:51-52 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados.
-
-La deuda duele más aquí que en otros capítulos, porque los tres usos de la expresión dentro de Mateo 13 son el corazón del argumento. Lo que sí está verificado —Mateo 24:3 y Mateo 28:20— alcanza para sostener la observación sobre la falta de uniformidad de la traducción, que es el hallazgo propio de esta edición.
-:::
+<!-- SPANISH-SPECIFIC: Mateo 13:36-43, 13:47-50 y 13:51-52 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados. La deuda duele más aquí que en otros capítulos, porque los tres usos de la expresión dentro de Mateo 13 son el corazón del argumento. Lo que sí está verificado —Mateo 24:3 y Mateo 28:20— alcanza para sostener la observación sobre la falta de uniformidad de la traducción, que es el hallazgo propio de esta edición. -->
 
 ## Un versículo que deliberadamente no voy a usar
 
@@ -161,7 +155,7 @@ Esto no prueba que cada detalle de los dos pasajes se refiera a un mismo evento.
 
 Y quiero señalar lo que acaba de pasarle a mi propia regla, porque importa más que el resultado.
 
-La Carga de Alcance Equivalente es el principio que adopté antes: no tratar dos palabras de alcance distinto como equivalentes sin justificación. En la Etapa 25 esa regla **destruyó** un puente que yo estaba usando —Pablo nunca elige *oikoumenē*, así que no podía construir sobre eso, y el capítulo 21 registra lo que me costó. Aquí la misma regla corre en la otra dirección y apoya una conexión que yo quiero.
+La Carga de Alcance Equivalente es el principio que adopté antes: no tratar dos palabras de alcance distinto como equivalentes sin justificación. En el capítulo 23 esa regla **destruyó** un puente que yo estaba usando —Pablo nunca elige *oikoumenē*, así que no podía construir sobre eso, y el capítulo 21 registra lo que me costó. Aquí la misma regla corre en la otra dirección y apoya una conexión que yo quiero.
 
 Una regla que solo me ayudara sería un sesgo con nombre de regla. Lo único que la hace valer algo es que ya la vi quitarme algo.
 
@@ -194,11 +188,11 @@ Y lo que rodea a ese versículo no es tranquilo:
 > Pero tú, Daniel, cierra las palabras y sella el libro hasta el tiempo del fin. (Daniel 12:4)
 
 ::: wordstudy
-**Estudio de palabra — <span class="he">וְרַבִּים</span> en Daniel 12:2, registrado y dejado quieto**
+**Estudio de palabra — <span class="he">וְרַבִּים</span> (*rabbim*) en Daniel 12:2, registrado y dejado quieto**
 
-El hebreo es <span class="he">וְרַבִּים</span> *(rabbim)* — **muchos**. No *todos*. La RVR1960 lo traduce con exactitud: *muchos de los que duermen*.
+El hebreo es <span class="he">וְרַבִּים</span> (*rabbim*) — **muchos**. No *todos*. La RVR1960 lo traduce con exactitud: *muchos de los que duermen*.
 
-Lo recuperé y después me detuve a propósito. Va a importar para cómo se cuenta la resurrección, y ya alcanzo a ver que tocará una línea de Apocalipsis 20 sobre los otros muertos.
+Lo anoté y después me detuve a propósito. Va a importar para cómo se cuenta la resurrección, y ya alcanzo a ver que tocará una línea de Apocalipsis 20 sobre los otros muertos.
 
 Que es exactamente la razón por la que no construyo sobre eso ahora. Adelantarme a un pasaje que todavía no me he ganado el derecho de leer, para reforzar un modelo que aún estoy armando, es precisamente la falla que este método existe para impedir.
 
@@ -246,9 +240,9 @@ Las enuncio en el capítulo que construyó el modelo, por la misma razón por la
 :::
 
 ::: whereweare
-**Dónde estamos.** *La consumación del siglo* no es, en sus propias palabras, la destrucción de la tierra, y Mateo prueba la distinción él mismo al usar *kosmos* para el campo y *aiōn* para la siega en cláusulas contiguas. La expresión aparece cinco veces en Mateo —tres de ellas dentro del capítulo 13—, rodeada cada vez de imágenes emparentadas, lo cual desplaza la carga hacia quien afirme que las apariciones no tienen relación. Ya se ve una secuencia coherente del primer siglo en el propio ordenamiento de Mateo. Lo que no está establecido es que la secuencia sea la lectura correcta: el contenido de juicio del capítulo 13, el lenguaje de resurrección de Daniel 12 y la larga recepción de Mateo 28 están en contra y se conservan a plena fuerza. Daniel 12:2 dice *muchos*, no *todos* — recuperado, registrado y todavía sin usar. Y en esta edición hay un dato adicional: la RVR1960 traduce la misma expresión griega como *fin del siglo* en 24:3 y como *fin del mundo* en 28:20.
+**Dónde nos deja esto.** *La consumación del siglo* no es, en sus propias palabras, la destrucción de la tierra, y Mateo prueba la distinción él mismo al usar *kosmos* para el campo y *aiōn* para la siega en cláusulas contiguas. La expresión aparece cinco veces en Mateo —tres de ellas dentro del capítulo 13—, rodeada cada vez de imágenes emparentadas, lo cual desplaza la carga hacia quien afirme que las apariciones no tienen relación. Ya se ve una secuencia coherente del primer siglo en el propio ordenamiento de Mateo. Lo que no está establecido es que la secuencia sea la lectura correcta: el contenido de juicio del capítulo 13, el lenguaje de resurrección de Daniel 12 y la larga recepción de Mateo 28 están en contra y se conservan a plena fuerza. Daniel 12:2 dice *muchos*, no *todos* — registrado y todavía sin usar. Y en esta edición hay un dato adicional: la RVR1960 traduce la misma expresión griega como *fin del siglo* en 24:3 y como *fin del mundo* en 28:20.
 :::
 
 ::: earned
-**Qué se ganó.** La pregunta dejó de ser si todo termina y pasó a ser cuál siglo alcanza su conclusión señalada. Mateo además nombró dos siglos de paso, que es la pregunta más limpia y la que debí haber hecho primero.
+**La pregunta que esto deja.** La pregunta dejó de ser si todo termina y pasó a ser cuál siglo alcanza su conclusión señalada. Mateo además nombró dos siglos de paso, que es la pregunta más limpia y la que debí haber hecho primero.
 :::

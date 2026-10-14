@@ -2,7 +2,7 @@
 title: "Part V — Normalization Report (EN)"
 type: manuscript-report
 created: 2026-10-14
-status: en-approved
+status: approved
 related: "[[PART-IV-NORMALIZATION-REPORT]], [[10-manuscript-architecture]], [[EDITORIAL-RULES]]"
 ---
 
@@ -112,6 +112,66 @@ p.33 (draft build): the "Rule — metaphorical does not override bodily" box sta
 2. N1–N3: the corrected chapter number, the until-reversal caution introduced in ch29 instead of being credited to Part IV, and "category-lock" replaced. OK?
 3. ch27's "Retrieval debt" paragraph rewritten as "What this box does not cover", with the limit kept printed. OK?
 
-## F. Spanish Part V
+## F. Spanish Part V: normalization (2026-10-14). Revision 1.1: APPROVED.
 
-Waits for English approval. Before the Spanish report is written, every row above will be walked against the Spanish files (standing rule).
+D2 (ch27 and ch29 boxes hidden whole) and N4 («Esto matiza el capítulo 7») are approved. **r1.1 language fixes**, verified in the rebuilt PDF (78 pages, all gates OK, normalization 0):
+
+| # | Where | Before | After |
+|---|---|---|---|
+| S1 | ch26 | «La palabra que dediqué la Parte II y la Parte IV a establecer…» | «La palabra a la que dediqué la Parte II y la Parte IV para establecer…» |
+| S2 | ch27 | «la frase no puede hacerse significar *no es un cuerpo*» | «la frase no puede forzarse a significar «no es un cuerpo»» |
+| S3 | ch28 | «encoger el año 70 hasta *los romanos derribaron un edificio*» | «reducir el año 70 a «los romanos derribaron un edificio»» |
+| S4 | ch28 | «nótese lo que la etiqueta compra» (calque) | «nótese qué ventaja ofrece la etiqueta» |
+| S4b | ch28, same calque (not flagged) | «La distinción me compra espacio cronológico. No me compra…» | «…me da espacio cronológico. No me da…» |
+| S5 | ch28 | «…en vez de un derrotador de ella — y si ese puente llega a construirse, se vuelve un derrotador» | «…queda como un texto de control importante para mi hipótesis, no como una refutación; si ese puente llega a construirse, **se convierte** en una.» *(The reviewer suggested «podría convertirse»; I kept «se convierte», because EN says "it becomes a defeater" and the strength should not drop.)* |
+| S6 | ch28 | «una consumación del primer siglo de *un* siglo» | «la consumación de *un* siglo en el primer siglo» |
+| S7 | ch29 | «Miguel está atado a **el pueblo de Daniel**» | «Miguel está ligado **al pueblo de Daniel**» |
+| S8 | ch29 | «eso es la condición de falsación llegando y no una objeción…» | «…haciéndose efectiva, no una objeción…» |
+
+A search of Spanish Part V found no further «compra», «derrotador», «hacerse significar» or «a el».
+
+
+**Result:** normalization 0 in every category. Before: 3 unstyled grades, 12 labels, 21 gloss gaps, 24 conventions. Build: 78 pages, 0 mojibake, 0 sections missing, register 0, terminology 0. Original-language gate OK on 16 pages; checked visually, together with all 15 table pages. Provenance and evidence strength match EN.
+
+### F1. Every English row walked against the Spanish files
+
+| EN row | ES counterpart | Status |
+|---|---|---|
+| 4 titles + chain | «La siega de Mateo 13 — en contra de la lectura hacia la que yo iba» · «Lucas 20 — en contra de una lectura meramente administrativa…» · «Hebreos 2:5 — una corrección a mi propio trabajo anterior sobre alcance» · «La resurrección era discutida, y los textos lo muestran» · «La cadena creciente — punto de control 3» | done (5/5) |
+| 3 grades | «El material de la siega / Lucas 20 / Hebreos 2:5 <span>contradice</span> …» | done (3/3) |
+| glosses | `*(x)*` → `(*x*)` outside tables; added *kosmos* (×3), *aiōn* / *synteleia tou aiōnos* and *rabbim* (titles), *katēntēken*, *telos*, *oikoumenē*, *rabbim*, *to telos*, *paralambanetai*, *aphietai*, *yeshoteṭu* / *ha-daʿat* (title) | done |
+| ch25 "cashes out" | ES «se resuelve enteramente en» was never a money metaphor | already correct |
+| ch25 "At Stage 25" | «En la Etapa 25» → «En el capítulo 23» | done |
+| ch25 retrieved / summary | «Lo recuperé» → «Lo anoté»; «— recuperado, registrado y…» → «— registrado y…» | done |
+| ch26 "dissolved on retrieval" | «al recuperar el texto» → «en cuanto leí el pasaje» | done |
+| ch27 "Retrieval debt" | «Deuda de recuperación…» → «Lo que este recuadro no cubre: la evidencia judía más amplia… la literatura del Segundo Templo, Josefo sobre los partidos y la discusión rabínica posterior» (includes r1.1 R2) | done |
+| ch27 retrieved / verified passages | «Recuperé los versículos» → «Leí…»; «los pasajes verificados» → «los pasajes» | done |
+| ch28 Retrieval / discharge / owes / survive retrieval / Josephus / debts | «La recuperación lo volvió más filoso» → «Una lectura más atenta…»; «debe saldar» → «debe dar cuenta»; «Aclaró lo que debe» → «lo que tiene que mostrar»; «no sobrevivieron a la recuperación» → «a una revisión del texto»; «No he recuperado ese pasaje en esta pasada» → «No he revisado ese pasaje por mí mismo»; «cinco deudas concretas» → «cinco cargas concretas» | done (6/6) |
+| ch29 stages / owes / debts | «treinta y una etapas» → «Estoy muy metido en la construcción de una cronología»; «debe más» → «tiene más que probar»; «treinta etapas» → «tantos capítulos»; «debe cinco deudas» → «lleva cinco cargas» | done (4/4) |
+| section labels | «Dónde nos deja esto.» / «La pregunta que esto deja.» (5 chapters) | done |
+| N1 | «capítulo 17» → «capítulo 21» (ch26 and ch28) | done (2/2) |
+| N2 | «La cautela que adopté en la Parte IV…» → «Aquí se aplica una cautela, y valdrá para todo *hasta* de este libro; llamémosla la cautela del *hasta*.» | done |
+| N3 | «el bloqueo de categorías» → «la clasificación antes de armonizar» | done |
+| r1.1 R1 perfect | «acción completada con relevancia presente que continúa» → «presenta la llegada como un desarrollo completado cuyo estado resultante está a la vista» | done |
+| r1.1 R3/R3b John 5 | finding, «porque Juan los separó», rule box «dice cuál es cuál», summary «Juan prueba…» — all four softened as in EN | done (4/4) |
+| r1.1 R4/R4b Luke 4 | heading «a media oración» → «a mitad de la profecía»; «una sola oración en el rollo» → «una sola unidad profética continua»; «dentro de una sola oración, antes de su segunda cláusula» → «dentro de la misma unidad profética, antes de la siguiente cláusula coordinada»; «la oración que había empezado» → «la unidad profética…»; summary «a mitad de la oración que…» → «a mitad de lo que…» | done (5/5) |
+| r1.1 R5 Luke 17 | «Preguntan a dónde van los tomados… Eso suena a juicio» → «El antecedente exacto de su pregunta se discute, pero Yeshúa responde con un cadáver…» | done |
+| r1.1 L1 | `::: {.commentary .keep}` on «Regla — lo metafórico no anula lo corporal»; prints whole on p.36 | done |
+
+### F2. Spanish-only
+
+- **D2 (standing pattern):** five «Nota textual — deuda declarada» boxes (ch25–29) became hidden `<!-- SPANISH-SPECIFIC: … -->` comments with their full text kept. **Flagged:** the ch27 and ch29 boxes each end with a sentence telling the reader which half of a passage is quoted and which described (John 5's «y ahora es»; the seal table). That is still verification bookkeeping, so the whole box was hidden. If you would rather keep one line printed, ch29's «conviene que el lector sepa cuál mitad está citada y cuál descrita» is the candidate.
+- **Term drift:** «pequeña temporada» → «el poco de tiempo» (ch28, ×4), including the label: «Hipótesis post-milenial **del poco de tiempo**». No other Spanish chapter uses the label.
+- **N4 (ES ch25):** «**Esto corrige un registro anterior de este mismo proyecto.** En la Parte II quedó anotado que la RVR1960 *nunca* ofrece *fin del mundo*… Registrado y corregido en el libro de sincronización.» → «**Esto matiza el capítulo 7.** Allí la RVR1960 dejaba bien servido al lector con *siglo* en 24:3, y en 24:3 lo sigue dejando. Pero la traducción no es uniforme: en 28:20 dice *mundo*.» I checked ES ch07: the printed text never says «nunca». It says, correctly, that RVR1960 has *siglo* at 24:3. So the old sentence corrected something from the sync ledger the reader never saw. The new one qualifies what the reader actually read. The 28:20 finding is unchanged.
+- **Not touched:** ch25's reader address in *usted* («el capítulo que usted está leyendo… su Biblia»). ES-REGISTER records it as an edition-wide copyedit item, to be swept across all Parts at once.
+
+### F3. Sweep for process vocabulary the checker can't see
+
+Every remaining printed hit was checked: «registro/registrado» (first-person record of evidence strength, as in EN), «pendiente» (resurrection still ahead, the theological sense), «por etapas / varias etapas» (staged fulfilment), «saldrán» (John 5), «nunca me había registrado» ("had never registered with me"), «verificado» (Josephus and Nicaea scope honesty, as in EN).
+
+**Logged for Part VII (BIBLE-3c7):** ES ch41's counterpart of "Until-Reversal Caution, written four Parts ago" should match the name introduced here, «la cautela del *hasta*».
+
+## G. Decision for you
+
+1. Hide the ch27 and ch29 boxes whole (D2), or keep ch29's last sentence printed?
+2. N4: the ES ch25 drafting-history sentence becomes a note that qualifies ch7. OK?

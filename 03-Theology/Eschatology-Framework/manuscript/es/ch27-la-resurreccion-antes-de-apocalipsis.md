@@ -30,7 +30,7 @@ Hay un movimiento disponible aquí, y siento su tirón: *Israel despertó metaf�
 
 Pero los marcadores propios de Daniel son dormir en el polvo, después despertar, después dos destinos divergentes. Esos marcadores merecen peso de resurrección corporal a primera vista, y cualquier cronología que ubique Daniel 12 enteramente en el primer siglo hereda esa carga en vez de esquivarla.
 
-Y la palabra que dejé quieta dos capítulos atrás sigue ahí. Daniel dice <span class="he">רַבִּים</span> — *muchos* — no *todos*, y la RVR1960 lo traduce con exactitud. Sigue registrada. Sigue sin usarse.
+Y la palabra que dejé quieta dos capítulos atrás sigue ahí. Daniel dice <span class="he">רַבִּים</span> (*rabbim*) — *muchos* — no *todos*, y la RVR1960 lo traduce con exactitud. Sigue registrada. Sigue sin usarse.
 
 ## Mateo está tomando de aquí
 
@@ -49,7 +49,7 @@ Eso suena a inmortalidad transformada. No suena a restauración nacional metafó
 Si el siglo venidero llegó plenamente en el primer siglo, Lucas 20 exige responder a una pregunta llana: ¿dónde está el estado en el que los resucitados ya no pueden morir? No tengo respuesta. No es una objeción menor, y la estoy conservando en vez de administrándola.
 
 ::: historical
-**Contexto histórico — la resurrección era discutida, y los textos lo muestran**
+**La resurrección era discutida, y los textos lo muestran**
 
 Dos de los pasajes de este capítulo traen su propia evidencia de que la resurrección se disputaba en el primer siglo en vez de darse por supuesta.
 
@@ -59,14 +59,14 @@ Y Pablo escribe, a una congregación de creyentes, preguntando cómo dicen algun
 
 De modo que la resurrección no es mobiliario de fondo en estos textos. Es una disputa viva, lo cual es parte de por qué el lenguaje es tan explícito: ambos escritores están discutiendo con gente que niega la cosa.
 
-**Deuda de recuperación, enunciada en vez de rellenada:** la literatura del Segundo Templo sobre la expectativa de resurrección —el material intertestamentario, Josefo sobre los partidos, la discusión rabínica— no ha sido recuperada en esta pasada. No voy a caracterizar un cuerpo de literatura que no he leído. Lo anterior viene de los pasajes mismos.
+**Lo que este recuadro no cubre:** la evidencia judía más amplia sobre la expectativa de resurrección —la literatura del Segundo Templo, Josefo sobre los partidos y la discusión rabínica posterior. No la he trabajado aquí, y no voy a caracterizar un cuerpo de literatura que no he leído. Lo anterior viene de los pasajes mismos.
 :::
 
 ## Juan marca la distinción él mismo, y este es el hallazgo
 
 Este es el control más importante del capítulo, y no lo traje de afuera. Está dentro de un solo discurso, de un solo autor.
 
-Yo había visto citar Juan 5:28-29. Recuperé los versículos de alrededor como bloque, que es la única razón por la que noté algo.
+Yo había visto citar Juan 5:28-29. Leí los versículos de alrededor como bloque, que es la única razón por la que noté algo.
 
 En el versículo 24, quien oye la palabra y cree tiene vida eterna, no viene a condenación, y **ha pasado de muerte a vida**. En el 25, Yeshúa dice que la hora viene **y ahora es**, cuando los muertos oirán la voz del Hijo de Dios y los que la oyeren vivirán. Y en el 28 dice que **vendrá hora** cuando todos los que están en los sepulcros oirán su voz y saldrán: los que hicieron lo bueno, a resurrección de vida; los que hicieron lo malo, a resurrección de condenación.
 
@@ -83,23 +83,23 @@ Léase el 25 junto al 28. En el 25 Juan escribe *y ahora es*. En el 28 esa cláu
 | acción | oír, y vivir | oír, y **salir** |
 | categoría | ya — pasar de muerte a vida | todavía viene — resurrección de vida o de condenación |
 
-Juan usa lenguaje de resurrección espiritual y lenguaje de resurrección corporal en el mismo pasaje, y los distingue con una cláusula.
+Juan yuxtapone, en el mismo discurso, lenguaje presente de paso de muerte a vida y lenguaje futuro de resurrección desde los sepulcros, y los marca de manera distinta. El versículo 24 apoya con fuerza una lectura espiritual, de paso de muerte a vida, de lo primero; los versículos 28-29 describen explícitamente sepulcros, salir y dos destinos.
 
-**De modo que el lenguaje de resurrección espiritual no puede usarse para borrar el lenguaje de resurrección corporal.** No necesito un marco externo para separar los dos en Juan, porque Juan los separó. Y *todos los que están en los sepulcros* es difícil de reducir a metáfora pactual.
+**De modo que el lenguaje de resurrección espiritual no puede usarse para borrar el lenguaje de resurrección corporal.** No necesito un marco externo para separar los dos en Juan, porque Juan mismo los marca de manera distinta. Y *todos los que están en los sepulcros* es difícil de reducir a metáfora pactual.
 
 La estructura también se parece a Daniel 12: muertos, después levantados, después dos destinos.
 :::
 
 Eso me da una regla, y la escribo donde la encontré.
 
-::: commentary
+::: {.commentary .keep}
 **Regla — lo metafórico no anula lo corporal**
 
 Porque la Escritura *puede* usar imágenes de muerte y resurrección de manera metafórica, la existencia de lenguaje metafórico de resurrección no redefine automáticamente pasajes que describen explícitamente sepulcros, polvo, cuerpos, mortalidad, o salir de entre los muertos.
 
 Clasifíquese cada pasaje por sus propios marcadores antes de armonizar nada.
 
-Juan 5 es la justificación, porque el mismo autor usa ambos en el mismo aliento y dice cuál es cuál.
+Juan 5 es la justificación, porque el mismo autor usa ambos en el mismo aliento y los marca de manera distinta.
 :::
 
 ## Pablo ancla la categoría en un acontecimiento
@@ -124,7 +124,7 @@ Hay varias lecturas disponibles —el dominio legal o espiritual de la muerte, l
 
 Pablo describe la siembra y la resurrección del cuerpo en cuatro contrastes: se siembra en corrupción, resucita en incorrupción; se siembra en deshonra, resucita en gloria; se siembra en debilidad, resucita en poder; se siembra cuerpo animal, resucita cuerpo espiritual.
 
-La expresión es <span class="gr">σῶμα πνευματικόν</span> *(sōma pneumatikon)* — *cuerpo espiritual*. Pablo sigue diciendo *sōma*, cuerpo. *Espiritual* describe el modo, la fuente o el orden del cuerpo. No significa *no-cuerpo*, y la frase no puede hacerse significar *no es un cuerpo* sin contradecir el sustantivo que modifica.
+La expresión es <span class="gr">σῶμα πνευματικόν</span> (*sōma pneumatikon*) — *cuerpo espiritual*. Pablo sigue diciendo *sōma*, cuerpo. *Espiritual* describe el modo, la fuente o el orden del cuerpo. No significa *no-cuerpo*, y la frase no puede forzarse a significar «no es un cuerpo» sin contradecir el sustantivo que modifica.
 
 Lo cual trae el versículo que más se usa contra todo esto: que la carne y la sangre no pueden heredar el reino de Dios, ni la corrupción hereda la incorrupción.
 
@@ -138,7 +138,7 @@ Es la tercera vez en esta investigación que una objeción se disuelve simplemen
 
 La *final trompeta* de Pablo sugiere de inmediato la trompeta y el recogimiento de Mateo 24, y la trompeta de 1 Tesalonicenses 4. Pueden ser el mismo acontecimiento. El mismo símbolo también puede usarse para acontecimientos distintos, y ya me quemé una vez tratando una palabra compartida como un referente compartido. El parecido plantea una pregunta. No establece una identidad.
 
-Y 1 Tesalonicenses 4 trae la suya: los muertos en Cristo resucitarán primero. El texto distingue creyentes muertos de creyentes vivos y habla de que los muertos resucitan, lo cual vuelve a apuntar más allá de la metáfora. El griego del encuentro que sigue es <span class="gr">ἀπάντησιν</span> *(apantēsin)*, un encuentro. Algunos sostienen que el término evoca a los ciudadanos que salen a recibir a un dignatario que llega y lo escoltan de vuelta; otros advierten contra construir una regla técnica sobre un puñado de usos. Lo dejo marcado en vez de zanjado, porque puede importar más adelante para si los creyentes son llevados lejos o salen a encontrarse con un rey que viene. La resurrección del versículo es explícita en cualquiera de los dos casos.
+Y 1 Tesalonicenses 4 trae la suya: los muertos en Cristo resucitarán primero. El texto distingue creyentes muertos de creyentes vivos y habla de que los muertos resucitan, lo cual vuelve a apuntar más allá de la metáfora. El griego del encuentro que sigue es <span class="gr">ἀπάντησιν</span> (*apantēsin*), un encuentro. Algunos sostienen que el término evoca a los ciudadanos que salen a recibir a un dignatario que llega y lo escoltan de vuelta; otros advierten contra construir una regla técnica sobre un puñado de usos. Lo dejo marcado en vez de zanjado, porque puede importar más adelante para si los creyentes son llevados lejos o salen a encontrarse con un rey que viene. La resurrección del versículo es explícita en cualquiera de los dos casos.
 
 ## La taxonomía, para que la deriva se vuelva visible
 
@@ -152,7 +152,7 @@ Si voy a ser honesto con el lenguaje de resurrección, necesito clasificar pasaj
 | **D** | vindicación o entronización de mártires | todavía no establecida como portadora de sentido de resurrección |
 | **E** | resurrección de juicio final | vida frente a condenación, ambos destinos presentes |
 
-Y los pasajes verificados, clasificados:
+Y los pasajes, clasificados:
 
 | Texto | Categoría | Base |
 |---------------------|----------|------------------------------------|
@@ -187,20 +187,12 @@ El rompecabezas del escalonamiento es peor, y lo enuncio en vez de resolverlo. D
 
 Una cosa quedó cerrada. La pregunta de la población de mi desvío anterior —quién está vivo durante los mil años— está respondida, y está respondida sin tocar el momento de la resurrección. Que los santos reinen no exige que todos los vivos estén resucitados. Eso resuelve un problema y deja el otro exactamente tan difícil como estaba.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Lucas 20:27 y 20:34-36, Juan 5:24-29, 1 Corintios 15:12, 15:20-26 y 15:42-57, 1 Tesalonicenses 4:16-17, Mateo 13:43 y Ezequiel 37 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados.
-
-Sí están verificados y por eso se citan: Daniel 12:2 y 12:3.
-
-La deuda es especialmente pesada en este capítulo, porque Juan 5 es su hallazgo central y la distinción depende de una sola cláusula —*y ahora es*— que el lector de esta edición recibe descrita en vez de citada. Es la divergencia de prosa más costosa de la Parte V, y prefiero declararla a fabricar un texto bíblico en español a partir de uno en inglés.
-:::
+<!-- SPANISH-SPECIFIC: Lucas 20:27 y 20:34-36, Juan 5:24-29, 1 Corintios 15:12, 15:20-26 y 15:42-57, 1 Tesalonicenses 4:16-17, Mateo 13:43 y Ezequiel 37 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados. Sí están verificados y por eso se citan: Daniel 12:2 y 12:3. La deuda es especialmente pesada en este capítulo, porque Juan 5 es su hallazgo central y la distinción depende de una sola cláusula —*y ahora es*— que el lector de esta edición recibe descrita en vez de citada. Es la divergencia de prosa más costosa de la Parte V, y prefiero declararla a fabricar un texto bíblico en español a partir de uno en inglés. -->
 
 ::: whereweare
-**Dónde estamos.** La resurrección no puede disolverse en metáfora pactual. El polvo de Daniel, los sepulcros de Juan, el *ya no pueden morir* de Lucas, lo mortal de Pablo vistiéndose de inmortalidad, y los muertos en el Mesías que resucitan describen todos algo corporal, y Juan prueba que las dos categorías son distinguibles distinguiéndolas él mismo. Eso pone mi modelo de transición de siglos bajo presión real sin destruirlo: el modelo tiene ahora que distinguir inauguración de una consumación corporal posterior, demostrar varias etapas desde la Escritura, o revisarse. Apocalipsis 20 queda sin clasificar a propósito, y la posibilidad cuatro —que toda la hipótesis sea falsa— está en el registro antes de que yo lo abra.
+**Dónde nos deja esto.** La resurrección no puede disolverse en metáfora pactual. El polvo de Daniel, los sepulcros de Juan, el *ya no pueden morir* de Lucas, lo mortal de Pablo vistiéndose de inmortalidad, y los muertos en el Mesías que resucitan describen todos algo corporal, y Juan muestra que las dos se pueden distinguir marcándolas él mismo de manera distinta. Eso pone mi modelo de transición de siglos bajo presión real sin destruirlo: el modelo tiene ahora que distinguir inauguración de una consumación corporal posterior, demostrar varias etapas desde la Escritura, o revisarse. Apocalipsis 20 queda sin clasificar a propósito, y la posibilidad cuatro —que toda la hipótesis sea falsa— está en el registro antes de que yo lo abra.
 :::
 
 ::: earned
-**Qué se ganó.** Una taxonomía que hace visible la deriva de categorías, una regla según la cual la metáfora no puede sobrescribir los sepulcros, y una condición de falsación escrita antes del pasaje que me tentaría a suavizarla. Lo que no se ganó es permiso para avanzar. La pregunta siguiente es si la Escritura misma permite que un siglo alcance su consumación mientras la resurrección sigue por delante — y si la respuesta es no, el modelo que vengo construyendo recibe un golpe serio.
+**La pregunta que esto deja.** Una taxonomía que hace visible la deriva de categorías, una regla según la cual la metáfora no puede sobrescribir los sepulcros, y una condición de falsación escrita antes del pasaje que me tentaría a suavizarla. Lo que no se ganó es permiso para avanzar. La pregunta siguiente es si la Escritura misma permite que un siglo alcance su consumación mientras la resurrección sigue por delante — y si la respuesta es no, el modelo que vengo construyendo recibe un golpe serio.
 :::

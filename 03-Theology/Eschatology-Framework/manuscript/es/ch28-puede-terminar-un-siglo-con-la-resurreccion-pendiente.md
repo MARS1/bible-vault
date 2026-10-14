@@ -22,11 +22,11 @@ Y tengo que ser honesto sobre la forma de esa pregunta, porque es exactamente la
 
 ## Primero, un freno a mi propio vocabulario
 
-El orden de Pablo termina con *luego el fin* — <span class="gr">τὸ τέλος</span> — e incluye la destrucción de la muerte. La expresión de Mateo es <span class="gr">συντέλεια τοῦ αἰῶνος</span>.
+El orden de Pablo termina con *luego el fin* — <span class="gr">τὸ τέλος</span> (*to telos*) — e incluye la destrucción de la muerte. La expresión de Mateo es <span class="gr">συντέλεια τοῦ αἰῶνος</span>.
 
 Son expresiones distintas. Pueden apuntar al mismo horizonte último. Pero si supongo que la consumación de Mateo es sencillamente idéntica al *telos* final de Pablo, entonces una consumación en el primer siglo se vuelve casi imposible salvo que la muerte corporal ya estuviera derrotada en el sentido de Pablo, cosa que evidentemente no ocurrió.
 
-No me está permitido fundirlas porque el castellano traduzca ambas con la palabra *fin*. Esa es la regla que adopté después del capítulo 17, y se aplica aquí me guste o no el resultado.
+No me está permitido fundirlas porque el castellano traduzca ambas con la palabra *fin*. Esa es la regla que adopté después del capítulo 21, y se aplica aquí me guste o no el resultado.
 
 ## Y entonces Hebreos me da parte de lo que yo quería, a dos versículos de distancia
 
@@ -78,9 +78,9 @@ En la consumación del siglo, Mateo da ángeles que recogen, malos separados, ju
 
 Eso suena bastante más grande que un cambio administrativo.
 
-De modo que la distinción corta en las dos direcciones, y esta es la mitad que corta contra mí: si el acontecimiento de fin de siglo de Mateo es del primer siglo, entonces **el acontecimiento del primer siglo tiene que cargar peso judicial y escatológico real**. No me está permitido usar la distinción para encoger el año 70 hasta *los romanos derribaron un edificio*. Las imágenes propias de Mateo exigirían algo pactual y judicialmente profundo.
+De modo que la distinción corta en las dos direcciones, y esta es la mitad que corta contra mí: si el acontecimiento de fin de siglo de Mateo es del primer siglo, entonces **el acontecimiento del primer siglo tiene que cargar peso judicial y escatológico real**. No me está permitido usar la distinción para reducir el año 70 a «los romanos derribaron un edificio». Las imágenes propias de Mateo exigirían algo pactual y judicialmente profundo.
 
-La distinción me compra espacio cronológico. No me compra un acontecimiento más pequeño.
+La distinción me da espacio cronológico. No me da un acontecimiento más pequeño.
 
 ## Una herramienta que introduzco, y el freno que le pongo ahora
 
@@ -98,7 +98,7 @@ Escribo esto en el mismo párrafo que introduce la herramienta, porque alcanzo a
 Mi propia hipótesis se beneficia de la compresión. Precisamente por eso vale la pena tener la regla.
 :::
 
-## Lucas 4, donde Yeshúa se detuvo a media oración
+## Lucas 4, donde Yeshúa se detuvo a mitad de la profecía
 
 La categoría de cumplimiento parcial no es algo que yo inventara para este problema. Está demostrada, y por Yeshúa.
 
@@ -106,9 +106,9 @@ En la sinagoga de Nazaret lee de Isaías hasta proclamar el año agradable del S
 
 Y esto es lo que estaba leyendo: Isaías proclama el año agradable del Señor **y el día de venganza del Dios nuestro**, para consolar a todos los enlutados.
 
-Ambas cláusulas están dentro de lo que la versificación moderna numera como Isaías 61:2 — una sola oración en el rollo que Yeshúa tenía en las manos, rollo que no llevaba números de versículo. Leyó hasta la proclamación del año agradable, se detuvo, enrolló el libro y declaró cumplida la Escritura.
+Ambas cláusulas están dentro de lo que la versificación moderna numera como Isaías 61:2 — una sola unidad profética continua en el rollo que Yeshúa tenía en las manos, rollo que no llevaba números de versículo. Leyó hasta la proclamación del año agradable, se detuvo, enrolló el libro y declaró cumplida la Escritura.
 
-Yo había entendido esto como *se detuvo antes del pasaje siguiente*. La recuperación lo volvió más filoso. Se detuvo **dentro de una sola oración**, antes de su segunda cláusula — la división que nuestras Biblias numeran como un versículo. Un pasaje profético puede contener varios elementos, y el cumplimiento de una porción puede declararse sin agotar la profecía entera; aquí, sin agotar siquiera la oración que había empezado.
+Yo había entendido esto como *se detuvo antes del pasaje siguiente*. Una lectura más atenta lo volvió más filoso. Se detuvo **dentro de la misma unidad profética**, antes de la siguiente cláusula coordinada — dentro de lo que nuestras Biblias numeran hoy como un solo versículo. Un pasaje profético puede contener varios elementos, y el cumplimiento de una porción puede declararse sin agotar la profecía entera; aquí, sin agotar siquiera la unidad profética que había empezado.
 
 Eso establece la categoría. No establece la aplicación a Mateo 13, y las mantengo separadas.
 
@@ -123,9 +123,9 @@ Después, la analogía inmediatamente anterior: como en los días de Noé, comí
 
 Lucas lo afila más. Después del mismo dicho, los discípulos hacen una pregunta que a mí nunca me había registrado: *¿Dónde, Señor?* Y la respuesta invoca un cuerpo y aves que se juntan.
 
-Preguntan a dónde van los tomados, y la respuesta habla de un cadáver y de aves que se reúnen. Eso suena a juicio, no a transporte a un lugar seguro. De modo que la ecuación popular —tomado significa recogido con el Mesías— es mucho menos automática de lo que yo suponía, y puede ser exactamente al revés.
+El antecedente exacto de su pregunta se discute, pero Yeshúa responde con un cadáver y aves que se reúnen, lo cual empuja la escena hacia el juicio en vez de hacer que *tomado* signifique automáticamente transporte a un lugar seguro. De modo que la ecuación popular —tomado significa recogido con el Mesías— es mucho menos automática de lo que yo suponía, y puede ser exactamente al revés.
 
-El griego agrega algo que no esperaba. Los dos verbos, <span class="gr">παραλαμβάνεται</span> y <span class="gr">ἀφίεται</span>, son presente de indicativo **en voz media o pasiva**. La voz es gramaticalmente indeterminada y no se enuncia agente alguno.
+El griego agrega algo que no esperaba. Los dos verbos, <span class="gr">παραλαμβάνεται</span> (*paralambanetai*) y <span class="gr">ἀφίεται</span> (*aphietai*), son presente de indicativo **en voz media o pasiva**. La voz es gramaticalmente indeterminada y no se enuncia agente alguno.
 
 Es ya la tercera vez en esta investigación que un versículo muy disputado descansa sobre voz indeterminada, junto con Romanos 9:22 y Hechos 13:48. En ninguno de los tres la gramática aporta el agente, lo que significa que ningún bando interpretativo puede reclamar la gramática. La recurrencia es en sí misma un hallazgo.
 
@@ -151,18 +151,18 @@ Necesito corregir una etiqueta antes de que haga daño, porque la equivocada imp
 
 Mi postura no es ninguna de las dos.
 
-No es preterismo pleno: el juicio final y otros acontecimientos finales se retienen enfáticamente como futuros. Pero tampoco es preterismo parcial estándar, y la razón es concreta: **el preterismo parcial estándar no ubica a nadie en la pequeña temporada.** Por lo general sostiene que el milenio, o su consumación, es futuro o presente pero no consumado.
+No es preterismo pleno: el juicio final y otros acontecimientos finales se retienen enfáticamente como futuros. Pero tampoco es preterismo parcial estándar, y la razón es concreta: **el preterismo parcial estándar no ubica a nadie en el poco de tiempo.** Por lo general sostiene que el milenio, o su consumación, es futuro o presente pero no consumado.
 
-Con lo que en realidad estoy trabajando es con esto: cumplimiento en el primer siglo, después una primera resurrección y un recogimiento, después un reinado de mil años que efectivamente ocurrió, después su término, después Satanás suelto, después una pequeña temporada presente, con el juicio final todavía por delante.
+Con lo que en realidad estoy trabajando es con esto: cumplimiento en el primer siglo, después una primera resurrección y un recogimiento, después un reinado de mil años que efectivamente ocurrió, después su término, después Satanás suelto, después el poco de tiempo, que sería el presente, con el juicio final todavía por delante.
 
 ::: claimtypes
 **Etiqueta de trabajo — y la carga que viene con ella**
 
-**Hipótesis post-milenial de la pequeña temporada**, apoyada en un marco fuerte de cumplimiento en el primer siglo.
+**Hipótesis post-milenial del poco de tiempo**, apoyada en un marco fuerte de cumplimiento en el primer siglo.
 
-Comparte con el preterismo parcial el marco del primer siglo y agrega una afirmación distinta: que el reinado milenial de Apocalipsis 20 también ya ocurrió, y que el presente puede corresponder a la pequeña temporada de Satanás. **Esa afirmación adicional tiene que establecerse de manera independiente y no colarse bajo una etiqueta prestada.**
+Comparte con el preterismo parcial el marco del primer siglo y agrega una afirmación distinta: que el reinado milenial de Apocalipsis 20 también ya ocurrió, y que el presente puede corresponder al poco de tiempo de Satanás. **Esa afirmación adicional tiene que establecerse de manera independiente y no colarse bajo una etiqueta prestada.**
 
-Lo que la hipótesis debe saldar, detallado para que no quede vago:
+De lo que la hipótesis debe dar cuenta, detallado para que no quede vago:
 
 1. el momento de la primera resurrección
 2. la identidad de los resucitados
@@ -172,7 +172,7 @@ Lo que la hipótesis debe saldar, detallado para que no quede vago:
 
 Apocalipsis tendrá que aportarlos. Si no lo hace, la hipótesis no sobrevive.
 
-Y nótese lo que la etiqueta compra, porque debo ser tan claro con la ventaja como con la carga: dado que el milenio se ubica *después* de la crisis del primer siglo, la resurrección corporal podría ocurrir al **comienzo de ese período milenial** en vez de quedar igualada a la destrucción de Jerusalén. El capítulo anterior no mató esta hipótesis. Aclaró lo que debe.
+Y nótese qué ventaja ofrece la etiqueta, porque debo ser tan claro con la ventaja como con la carga: dado que el milenio se ubica *después* de la crisis del primer siglo, la resurrección corporal podría ocurrir al **comienzo de ese período milenial** en vez de quedar igualada a la destrucción de Jerusalén. El capítulo anterior no mató esta hipótesis. Aclaró lo que tiene que mostrar.
 :::
 
 ## Una objeción que me hicieron hace años, y que resulta ser medio correcta
@@ -181,7 +181,7 @@ Alguien que me enseñó al principio levantó Zacarías 14 contra esta clase de 
 
 Zacarías anticipa que todos los que sobrevivan de las naciones que vinieron contra Jerusalén subirán de año en año a adorar al Rey, Jehová de los ejércitos, y a celebrar la fiesta de los tabernáculos; y que si alguna de las familias de la tierra no sube, no vendrá sobre ella lluvia.
 
-Algunos detalles de la versión que me dieron no sobrevivieron a la recuperación: la fiesta es Sucot, la de los tabernáculos, no la Pascua; la frecuencia es de año en año, no dos veces al año; y Egipto se nombra específicamente.
+Algunos detalles de la versión que me dieron no sobrevivieron a una revisión del texto: la fiesta es Sucot, la de los tabernáculos, no la Pascua; la frecuencia es de año en año, no dos veces al año; y Egipto se nombra específicamente.
 
 Pero el fondo es real, y esta es la formulación limpia:
 
@@ -192,7 +192,7 @@ Pero el fondo es real, y esta es la formulación limpia:
 
 Y hay una circularidad que mi propio método detecta de inmediato. Si alguien usa Zacarías 14 para probar que el milenio no ha ocurrido, primero tiene que establecer que Zacarías 14 **describe** el milenio. De lo contrario el argumento se reduce a: esto no ha pasado porque el milenio no ha pasado, y sé que el milenio no ha pasado porque esto no ha pasado.
 
-El paso que falta en la objeción es la identificación de Zacarías 14 con Apocalipsis 20. El texto es genuino. El puente se dio por supuesto. Así que Zacarías 14 queda como un texto de control mayor para mi hipótesis en vez de un derrotador de ella — y si ese puente llega a construirse, se vuelve un derrotador.
+El paso que falta en la objeción es la identificación de Zacarías 14 con Apocalipsis 20. El texto es genuino. El puente se dio por supuesto. Así que Zacarías 14 queda como un texto de control importante para mi hipótesis, no como una refutación; si ese puente llega a construirse, se convierte en una.
 
 ## Una pregunta dentro de Apocalipsis que no estoy respondiendo
 
@@ -206,7 +206,7 @@ Mártires que esperan, y un número todavía por completarse. Y Apocalipsis 20 h
 
 Josefo es genuinamente pertinente: un contemporáneo cercano que escribió extensamente sobre la revuelta y la destrucción de Jerusalén. Tampoco es una cámara neutral. Fue participante de la revuelta, se rindió a los romanos, recibió patrocinio flavio, y escribió con sus propios intereses políticos y apologéticos. Invaluable, e interesado.
 
-Reporta tradiciones de portentos extraordinarios antes de la catástrofe, entre ellos ejércitos vistos entre las nubes. No he recuperado ese pasaje en esta pasada, y lo registro como reportado y no como verificado.
+Reporta tradiciones de portentos extraordinarios antes de la catástrofe, entre ellos ejércitos vistos entre las nubes. No he revisado ese pasaje por mí mismo, así que lo trato como reportado y no como verificado.
 
 ::: commentary
 **Regla — el reporte no es el acontecimiento**
@@ -238,7 +238,7 @@ Pregunté si un siglo puede terminar con la resurrección todavía pendiente. Yo
 
 **La Escritura permite la distinción que mi hipótesis necesita. No ha establecido su aplicación al siglo de Mateo.**
 
-Esa es la forma honesta del resultado. Hebreos muestra que el lenguaje de consumación puede coexistir con realidades escatológicas pendientes — de modo que la categoría existe, y una consumación del primer siglo de *un* siglo no exige por sí sola que la resurrección corporal final ocurriera en el mismo momento. Lo que Hebreos no muestra es que el siglo en cuestión ya hubiera terminado del todo, y en cualquier caso el siglo de Mateo no es el siglo del que Hebreos está hablando.
+Esa es la forma honesta del resultado. Hebreos muestra que el lenguaje de consumación puede coexistir con realidades escatológicas pendientes — de modo que la categoría existe, y la consumación de *un* siglo en el primer siglo no exige por sí sola que la resurrección corporal final ocurriera en el mismo momento. Lo que Hebreos no muestra es que el siglo en cuestión ya hubiera terminado del todo, y en cualquier caso el siglo de Mateo no es el siglo del que Hebreos está hablando.
 
 Así que tengo un permiso y no una demostración. La pregunta del título de este capítulo no recibe un sí; recibe *no descartado, y todavía no ganado*.
 
@@ -246,18 +246,12 @@ Prefiero registrar eso a redondearlo hacia arriba. Redondear hacia arriba es la 
 
 Dos restricciones viajan con esa respuesta más estrecha, y ninguna es opcional. La siega de Mateo 13 y sus imágenes daniélicas prohíben reducir esa consumación a un cambio administrativo; si el primer siglo es el horizonte correcto, el acontecimiento tiene que dar cuenta de un juicio divino genuino. Y la resurrección corporal sigue fuertemente futura respecto de varios textos apostólicos, salvo que Apocalipsis aporte después una cronología escalonada demostrable.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Hebreos 9:28, 2:5 y 6:5; Lucas 4:16-21; Isaías 61:1-2; Lucas 17:26-37; Mateo 24:37-41; Zacarías 14:16-19; Apocalipsis 6:9-11; y 1 Corintios 15:23-26 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados.
-
-Sí está verificado y por eso se cita: Hebreos 9:26.
-:::
+<!-- SPANISH-SPECIFIC: Hebreos 9:28, 2:5 y 6:5; Lucas 4:16-21; Isaías 61:1-2; Lucas 17:26-37; Mateo 24:37-41; Zacarías 14:16-19; Apocalipsis 6:9-11; y 1 Corintios 15:23-26 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados. Sí está verificado y por eso se cita: Hebreos 9:26. -->
 
 ::: whereweare
-**Dónde estamos.** La distinción que el modelo necesitaba existe en la Escritura y no solo en mi conveniencia: Hebreos ubica la manifestación del Mesías *en* la consumación de los siglos mientras sigue esperando una segunda aparición, y Yeshúa declaró cumplido Isaías 61 deteniéndose a mitad de la oración que nuestras Biblias numeran como el versículo 2. De modo que el lenguaje de consumación puede coexistir con realidades escatológicas pendientes. Lo que eso **no** establece es que el siglo en cuestión ya hubiera terminado del todo —Hebreos ubica la manifestación en la culminación, no después de ella— ni que el siglo de Mateo sea el siglo que se consuma. El capítulo termina entonces con un permiso y no con una demostración. Lo que tampoco autoriza es un acontecimiento del primer siglo encogido, una compresión invocada cuando la cronología incomoda, ni afirmación alguna de que la resurrección corporal quedó atrás. La postura tiene ahora un nombre correcto y una carga detallada, y Zacarías 14 queda como texto de control cuyo puente con Apocalipsis 20 nadie ha construido todavía.
+**Dónde nos deja esto.** La distinción que el modelo necesitaba existe en la Escritura y no solo en mi conveniencia: Hebreos ubica la manifestación del Mesías *en* la consumación de los siglos mientras sigue esperando una segunda aparición, y Yeshúa declaró cumplido Isaías 61 deteniéndose a mitad de lo que nuestras Biblias numeran como el versículo 2. De modo que el lenguaje de consumación puede coexistir con realidades escatológicas pendientes. Lo que eso **no** establece es que el siglo en cuestión ya hubiera terminado del todo —Hebreos ubica la manifestación en la culminación, no después de ella— ni que el siglo de Mateo sea el siglo que se consuma. El capítulo termina entonces con un permiso y no con una demostración. Lo que tampoco autoriza es un acontecimiento del primer siglo encogido, una compresión invocada cuando la cronología incomoda, ni afirmación alguna de que la resurrección corporal quedó atrás. La postura tiene ahora un nombre correcto y una carga detallada, y Zacarías 14 queda como texto de control cuyo puente con Apocalipsis 20 nadie ha construido todavía.
 :::
 
 ::: earned
-**Qué se ganó.** Un permiso, no un veredicto. La hipótesis sobrevivió la presión más dura hasta ahora y salió más pequeña, mejor etiquetada y cargando cinco deudas concretas — y cargando una honestidad más que la que tenía al comenzar el capítulo, ya que la respuesta que yo quería era un sí y la respuesta a la que tengo derecho es más estrecha que eso.
+**La pregunta que esto deja.** Un permiso, no un veredicto. La hipótesis sobrevivió la presión más dura hasta ahora y salió más pequeña, mejor etiquetada y con cinco cargas concretas — y cargando una honestidad más que la que tenía al comenzar el capítulo, ya que la respuesta que yo quería era un sí y la respuesta a la que tengo derecho es más estrecha que eso.
 :::

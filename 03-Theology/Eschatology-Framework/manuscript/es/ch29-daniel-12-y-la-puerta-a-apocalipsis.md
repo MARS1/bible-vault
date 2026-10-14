@@ -20,7 +20,7 @@ Una regla antes de entrar. Daniel 12 no se desprende de Daniel 11 solo porque co
 
 > En aquel tiempo se levantará Miguel, el gran príncipe que está de parte de los hijos de tu pueblo; y será tiempo de angustia, cual nunca fue desde que hubo gente hasta entonces; pero en aquel tiempo será libertado tu pueblo, todos los que se hallen escritos en el libro. (Daniel 12:1)
 
-Miguel está atado a **el pueblo de Daniel**. La crisis pactual de Israel está en primer plano desde la primera cláusula, no en algún lugar del fondo.
+Miguel está ligado **al pueblo de Daniel**. La crisis pactual de Israel está en primer plano desde la primera cláusula, no en algún lugar del fondo.
 
 Y Mateo claramente está alcanzando esto cuando habla de una gran tribulación cual no la ha habido desde el principio del mundo hasta ahora, ni la habrá. Sea lo que sea la angustia de Daniel, Mateo espera que su lector la recuerde.
 
@@ -37,7 +37,7 @@ Y ahora tengo que ocuparme de la palabra que dejé quieta cuatro capítulos atr�
 ::: finding
 **Hallazgo — y va en contra mía**
 
-Daniel dice <span class="he">רַבִּים</span> *(rabbim)* — *muchos*, no *todos*. La RVR1960 lo traduce con exactitud. Lo registré dos veces y me negué a construir sobre eso, porque era evidente que iba a serme útil más adelante.
+Daniel dice <span class="he">רַבִּים</span> (*rabbim*) — *muchos*, no *todos*. La RVR1960 lo traduce con exactitud. Lo registré dos veces y me negué a construir sobre eso, porque era evidente que iba a serme útil más adelante.
 
 Aquí está por qué esa contención era correcta, y por qué el dato nunca puede ser más que un dato:
 
@@ -77,11 +77,11 @@ Sosténgase eso. Se vuelve la puerta al final de este capítulo.
 Este versículo se convierte en aviones, autos e internet con notable regularidad. Y el lector en español tiene un problema que el lector en inglés no tiene.
 
 ::: wordstudy
-**Estudio de palabra — <span class="he">יְשֹׁטְטוּ</span> y <span class="he">הַדָּעַת</span>, y por qué *ciencia* complica esto en español**
+**Estudio de palabra — <span class="he">יְשֹׁטְטוּ</span> (*yeshoteṭu*) y <span class="he">הַדָּעַת</span> (*ha-daʿat*), y por qué *ciencia* complica esto en español**
 
-<span class="he">יְשֹׁטְטוּ</span> *(yeshoteṭu)* — recorrer de un lado a otro, andar de aquí para allá.
+<span class="he">יְשֹׁטְטוּ</span> (*yeshoteṭu*) — recorrer de un lado a otro, andar de aquí para allá.
 
-<span class="he">הַדָּעַת</span> *(ha-daʿat)* — **el** conocimiento. Con artículo definido.
+<span class="he">הַדָּעַת</span> (*ha-daʿat*) — **el** conocimiento. Con artículo definido.
 
 La RVR1960 traduce *la ciencia se aumentará*. En el castellano de 1960 *ciencia* significaba con naturalidad *conocimiento, saber*. En el castellano de hoy, *ciencia* se oye ante todo como ciencia natural y técnica.
 
@@ -113,7 +113,7 @@ Y la respuesta que recibe no es una explicación. Es la repetición de que las p
 ::: commentary
 **El profeta recibió la visión y aun así no entendió la cronología**
 
-Yo llevo treinta y una etapas construyendo una cronología. El hombre a quien se le dio esta visión dice llanamente que oyó y no entendió, pregunta por el desenlace, y se le responde que las palabras están selladas.
+Estoy muy metido en la construcción de una cronología. El hombre a quien se le dio esta visión dice llanamente que oyó y no entendió, pregunta por el desenlace, y se le responde que las palabras están selladas.
 
 Eso es un control sobre mí, no una nota devocional al margen. Algunas realidades se vuelven inteligibles solo en su tiempo señalado, y la persona más cercana a la revelación no quedó exenta.
 
@@ -171,7 +171,7 @@ Es un control sinóptico enorme. Mateo da *la abominación desoladora*; Lucas da
 
 Una contención sobre la frase de Lucas, porque alcanzo a sentir cómo se sobrelee: *para que se cumplan todas las cosas que están escritas*, en su contexto, no es *toda la profecía de todas partes*. Lucas está interpretando la crisis de Jerusalén en términos de cumplimiento escriturario, lo cual ya es bastante sin inflarlo.
 
-Y Lucas tiene un *hasta* que tampoco me está permitido sobrelear: Jerusalén será hollada por los gentiles, hasta que los tiempos de los gentiles se cumplan. La cautela que adopté en la Parte IV se aplica sin cambios: *hasta* garantiza el estado **a lo largo de** ese punto y no establece por sí mismo lo que sigue. También puede ser evidencia de escalonamiento dentro del propio Lucas 21, lo cual toca directamente la pregunta de si Mateo 24 contiene un marcador de transición. Registrado, no resuelto.
+Y Lucas tiene un *hasta* que tampoco me está permitido sobrelear: Jerusalén será hollada por los gentiles, hasta que los tiempos de los gentiles se cumplan. Aquí se aplica una cautela, y valdrá para todo *hasta* de este libro; llamémosla la cautela del *hasta*. *Hasta* garantiza el estado **a lo largo de** ese punto y no establece por sí mismo lo que sigue. También puede ser evidencia de escalonamiento dentro del propio Lucas 21, lo cual toca directamente la pregunta de si Mateo 24 contiene un marcador de transición. Registrado, no resuelto.
 
 ## Dónde me deja esto
 
@@ -183,7 +183,7 @@ Una lectura del primer siglo de Daniel 12 tiene que hacer una de tres cosas. Dem
 
 Lo que no puede hacer es declarar todo el capítulo cumplido en el año 70 sin ocuparse de la resurrección.
 
-Y esto afila la cuestión de la etiqueta del capítulo anterior. Una lectura preterista parcial estándar puede decir que los elementos de juicio sobre Jerusalén se cumplieron en el primer siglo mientras la resurrección corporal sigue futura, y eso es **textualmente más fácil** que lo que yo propongo. Mi hipótesis va más lejos y por lo tanto debe más.
+Y esto afila la cuestión de la etiqueta del capítulo anterior. Una lectura preterista parcial estándar puede decir que los elementos de juicio sobre Jerusalén se cumplieron en el primer siglo mientras la resurrección corporal sigue futura, y eso es **textualmente más fácil** que lo que yo propongo. Mi hipótesis va más lejos y por lo tanto tiene más que probar.
 
 ::: openquestion
 **Pregunta abierta — y es la que la Parte VI existe para responder**
@@ -192,7 +192,7 @@ Si la primera resurrección de Apocalipsis es resurrección corporal de mártire
 
 Si Apocalipsis en cambio define la primera resurrección de otra manera, **esa definición tiene que venir de Apocalipsis**.
 
-En cualquiera de los dos casos, Apocalipsis tiene que hacer el trabajo. No me está permitido predefinir *primera resurrección* para salvar la hipótesis, y si me sorprendo haciéndolo, eso es la condición de falsación llegando y no una objeción que haya que responder.
+En cualquiera de los dos casos, Apocalipsis tiene que hacer el trabajo. No me está permitido predefinir *primera resurrección* para salvar la hipótesis, y si me sorprendo haciéndolo, eso es la condición de falsación haciéndose efectiva, no una objeción que haya que responder.
 :::
 
 ## La puerta
@@ -214,7 +214,7 @@ A Daniel se le dice que selle las palabras **hasta el tiempo del fin**. A Juan s
 
 Quiero mantener visible la asimetría en vez de acomodarla en un par simétrico, porque los dos textos no están haciendo lo mismo gramaticalmente. A Daniel se le da un **término**: sella, y el sellado corre hasta un punto nombrado como el tiempo del fin. A Apocalipsis se le da una **razón**: no selles, *porque* el tiempo está cerca. Que el sellado de Daniel implique que el fin no estaba sobre él es una inferencia razonable a partir del término — pero es una inferencia, y el *porque* de Apocalipsis es redacción explícita. No voy a escribir la inferencia como si fuera la cita.
 
-Después de treinta etapas negándome a construir sobre parecidos, igual vale decir qué hace distinto a este. No estoy notando que dos pasajes se sientan parecidos. Estoy leyendo un libro al que se le manda sellar hasta un horizonte, y otro libro al que se le manda no sellar porque ese horizonte está cerca.
+Después de tantos capítulos negándome a construir sobre parecidos, igual vale decir qué hace distinto a este. No estoy notando que dos pasajes se sientan parecidos. Estoy leyendo un libro al que se le manda sellar hasta un horizonte, y otro libro al que se le manda no sellar porque ese horizonte está cerca.
 
 **Como mínimo: Apocalipsis se presenta a sí mismo como mucho más cercano a su horizonte de cumplimiento que Daniel.**
 
@@ -223,28 +223,20 @@ Lo que esto no establece: que todo acontecimiento de Apocalipsis haya ocurrido d
 
 Ahí dejo de construir controles. Tengo suficientes. Lo que no tengo es Apocalipsis, y no me está permitido llegar allí por el capítulo veinte.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Daniel 12:6-12, Mateo 24:15 y 24:21, Lucas 21:20-24 y 21:32, y Apocalipsis 1:1-3 y 22:10 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados.
-
-Sí están verificados y por eso se citan: Daniel 12:1, 12:2, 12:3, 12:4 y 12:13.
-
-La deuda pesa de manera particular en la tabla de la puerta, donde el lado de Daniel se cita y el de Apocalipsis se describe. El contraste se sostiene igual, porque descansa en qué se manda y qué expresión temporal lleva adjunta cada mandato, y ambas cosas son verificables sin la cita textual. Pero conviene que el lector sepa cuál mitad está citada y cuál descrita.
-:::
+<!-- SPANISH-SPECIFIC: Daniel 12:6-12, Mateo 24:15 y 24:21, Lucas 21:20-24 y 21:32, y Apocalipsis 1:1-3 y 22:10 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados. Sí están verificados y por eso se citan: Daniel 12:1, 12:2, 12:3, 12:4 y 12:13. La deuda pesa de manera particular en la tabla de la puerta, donde el lado de Daniel se cita y el de Apocalipsis se describe. El contraste se sostiene igual, porque descansa en qué se manda y qué expresión temporal lleva adjunta cada mandato, y ambas cosas son verificables sin la cita textual. Pero conviene que el lector sepa cuál mitad está citada y cuál descrita. -->
 
 ::: chain
-**Cadena creciente — Punto de control 3**
+**La cadena creciente — punto de control 3**
 
 *Un horizonte del primer siglo es real. Lo que alcanza todavía no está zanjado.*
 :::
 
 ::: whereweare
-**Dónde estamos.** Daniel 12 ancla su profecía a Israel, al templo, al continuo sacrificio quitado y a un marcador que es un acontecimiento y no una fecha; y Yeshúa reactiva ese lenguaje para su propia generación mientras Lucas lo traduce a ejércitos alrededor de Jerusalén. El horizonte del primer siglo es genuino. Pero el mismo capítulo abre con los que duermen en el polvo siendo despertados y cierra con la promesa a Daniel de que reposará y se levantará, y *rabbim* quedó adjudicado de una manera que quita en vez de aportar una lectura conveniente. Así que la resurrección no puede borrarse del horizonte para preservar el juicio. Y a Daniel se le manda sellar hasta el tiempo del fin, mientras a Apocalipsis se le manda no sellar porque el tiempo está cerca — mandatos opuestos con expresiones temporales contrastantes, y la primera evidencia temporal que viene de las instrucciones que los libros se dan a sí mismos. Esta edición añade un dato propio: la RVR1960 dice *la ciencia se aumentará* en 12:4, y el castellano moderno empuja esa palabra hacia un sentido que el hebreo no pide.
+**Dónde nos deja esto.** Daniel 12 ancla su profecía a Israel, al templo, al continuo sacrificio quitado y a un marcador que es un acontecimiento y no una fecha; y Yeshúa reactiva ese lenguaje para su propia generación mientras Lucas lo traduce a ejércitos alrededor de Jerusalén. El horizonte del primer siglo es genuino. Pero el mismo capítulo abre con los que duermen en el polvo siendo despertados y cierra con la promesa a Daniel de que reposará y se levantará, y *rabbim* quedó adjudicado de una manera que quita en vez de aportar una lectura conveniente. Así que la resurrección no puede borrarse del horizonte para preservar el juicio. Y a Daniel se le manda sellar hasta el tiempo del fin, mientras a Apocalipsis se le manda no sellar porque el tiempo está cerca — mandatos opuestos con expresiones temporales contrastantes, y la primera evidencia temporal que viene de las instrucciones que los libros se dan a sí mismos. Esta edición añade un dato propio: la RVR1960 dice *la ciencia se aumentará* en 12:4, y el castellano moderno empuja esa palabra hacia un sentido que el hebreo no pide.
 :::
 
 ::: earned
-**Qué se ganó.** Una puerta, y el derecho a cruzarla. Todo control que esta investigación ha construido viaja conmigo: la taxonomía de la resurrección, el bloqueo de categorías, lo metafórico frente a lo corporal, inauguración frente a consumación, consumación frente a agotamiento, el freno de la compresión, la cautela del *hasta*, el reporte frente al acontecimiento, y el contraste sello-cercanía que acaba de abrirse.
+**La pregunta que esto deja.** Una puerta, y el derecho a cruzarla. Todo control que esta investigación ha construido viaja conmigo: la taxonomía de la resurrección, la clasificación antes de armonizar, lo metafórico frente a lo corporal, inauguración frente a consumación, consumación frente a agotamiento, el freno de la compresión, la cautela del *hasta*, el reporte frente al acontecimiento, y el contraste sello-cercanía que acaba de abrirse.
 
-Lo que no se ganó es una conclusión. Entro a Apocalipsis por el capítulo uno, con una hipótesis que debe cinco deudas concretas y una condición de falsación que todavía tengo que escribir antes de interpretar una sola visión. Si el libro no aporta lo que la hipótesis necesita, la que cede es la hipótesis.
+Lo que no se ganó es una conclusión. Entro a Apocalipsis por el capítulo uno, con una hipótesis que lleva cinco cargas concretas y una condición de falsación que todavía tengo que escribir antes de interpretar una sola visión. Si el libro no aporta lo que la hipótesis necesita, la que cede es la hipótesis.
 :::
