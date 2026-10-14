@@ -49,9 +49,9 @@ Es la tercera o cuarta vez en este libro que la crítica de Pablo al mal uso de 
 ## Romanos 10:4, que no se resuelve en ningún idioma moderno
 
 ::: wordstudy
-**Lengua original**
+***Telos* en Romanos 10:4**
 
-<span class="gr">τέλος</span> *(telos)* — y la palabra que elija el traductor carga el argumento.
+<span class="gr">τέλος</span> (*telos*) — y la palabra que elija el traductor carga el argumento.
 
 *Telos* puede significar **terminación**, el punto donde algo se detiene. También puede significar **meta**, **culminación**, el fin *hacia el cual* algo apuntaba — el sentido en que un camino tiene un fin, o un propósito se alcanza.
 
@@ -60,7 +60,7 @@ La RVR1960 dice *el fin de la ley*, y el castellano *fin* arrastra exactamente l
 **Romanos 10:4 no se puede zanjar desde la palabra castellana "fin".** Quien cite *el fin de la ley* como si el versículo dijera *la Torá queda abolida* ha sustituido el versículo por uno de los sentidos de un sustantivo ambiguo. Eso no es un argumento sobre Pablo. Es un argumento sobre la palabra de un traductor.
 :::
 
-No resuelvo *telos* aquí. La definición de cumplimiento del capítulo 15 —un patrón que alcanza su realidad— es obviamente pertinente, y deliberadamente no la cobro, porque usar mi propia conclusión anterior para desambiguar una palabra en disputa sería circular.
+No resuelvo *telos* aquí. La definición de cumplimiento del capítulo 15 —un patrón que alcanza su realidad— es obviamente pertinente, y deliberadamente no la uso, porque usar mi propia conclusión anterior para desambiguar una palabra en disputa sería circular.
 
 ## Después el acceso se universaliza
 
@@ -78,27 +78,21 @@ Esto es un establecimiento genuino y fuerte de la necesidad de la proclamación.
 
 Si el capítulo terminara en *alguien que predique*, mi posición original estaría en serios problemas.
 
-::: textualnote
-**Nota textual — deuda declarada, y aquí cuesta**
-
-Romanos 10:14-15 se describe en este capítulo en vez de citarse, y en este caso la deuda es más cara que en otros: es el pasaje central del capítulo. No tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
-
-Describirlo es honesto; fabricar una cita castellana no lo sería. La estructura de la cadena y los términos griegos sí están verificados y se usan abajo. La cita verbatim queda pendiente y registrada.
-:::
+<!-- SPANISH-SPECIFIC: Romanos 10:14-15 se describe en este capítulo en vez de citarse, y en este caso la deuda es más cara que en otros: es el pasaje central del capítulo. No tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Describirlo es honesto; fabricar una cita castellana no lo sería. La estructura de la cadena y los términos griegos sí están verificados y se usan abajo. La cita verbatim queda pendiente y registrada. -->
 
 ## Pero Pablo añade un eslabón más, y es el eje
 
 No termina ahí. Pablo añade un cuarto eslabón que yo jamás había oído citar en ninguna de esas conversaciones, yo incluido: **¿y cómo predicarán si no fueren enviados?**
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**Romanos 10:14–15 — lo que establece la cadena**
 
 | Proposición | Estado |
 |---|---|
-| La fe requiere ordinariamente proclamación | **ESTABLECIDO** |
-| Los proclamadores son **enviados** | **ESTABLECIDO** — Pablo mismo lo añade como último eslabón |
-| Todo creyente ocupa personalmente el papel de heraldo enviado | **NO ESTABLECIDO por este texto** |
-| Todo creyente recibe aquí el mandato de proclamar a toda región | **NO ESTABLECIDO por este texto** |
+| La fe requiere ordinariamente proclamación | **Establecido** |
+| Los proclamadores son **enviados** | **Establecido** — Pablo mismo lo añade como último eslabón |
+| Todo creyente ocupa personalmente el papel de heraldo enviado | **No establecido por este texto** |
+| Todo creyente recibe aquí el mandato de proclamar a toda región | **No establecido por este texto** |
 
 El último eslabón **corta contra** la lectura de obligación universal en vez de a su favor. Pablo no se detiene en *alguien debe predicar*. Añade *si no fueren enviados*, lo cual introduce **el envío como eslabón necesario de la cadena**.
 
@@ -108,11 +102,11 @@ Y tengo que ser cuidadoso con cuánto compra eso, porque en una primera pasada m
 Ese es el eje de todo este capítulo, y quiero ser honesto sobre cómo se sintió. El texto con más probabilidad de derribar mi posición contiene, en su propia cláusula final, la distinción que mi posición intentaba trazar. Yo no la puse ahí y no sabía que estaba.
 
 ::: wordstudy
-**Lengua original**
+***Kēryssō* y *apostellō***
 
-<span class="gr">κηρύσσω</span> *(kēryssō)* — heraldar, proclamar públicamente. Carga fuerza de anuncio público. No es "mencionar en una conversación".
+<span class="gr">κηρύσσω</span> (*kēryssō*) — heraldar, proclamar públicamente. Carga fuerza de anuncio público. No es "mencionar en una conversación".
 
-<span class="gr">ἀποστέλλω</span> *(apostellō)* — enviar. Raíz de <span class="gr">ἀπόστολος</span> *(apostolos)*, "enviado".
+<span class="gr">ἀποστέλλω</span> (*apostellō*) — enviar. Raíz de <span class="gr">ἀπόστολος</span> (*apostolos*), "enviado".
 
 **Y el freno, porque el vínculo de familia léxica es real y no prueba lo que a mí me gustaría.** *Apostellō* aquí **no** restringe el envío a los Doce. El vocabulario establece que el envío está a la vista; no establece un oficio cerrado.
 
@@ -129,7 +123,7 @@ Romanos 10:18 dice:
 
 > Por toda la tierra ha salido la voz de ellos, Y hasta los fines de la tierra sus palabras (Romanos 10:18)
 
-Y ese versículo venía haciendo trabajo silencioso en mi posición desde hacía mucho, porque en griego la segunda frase es <span class="gr">οἰκουμένη</span> *(oikoumenē)* — la misma palabra que Mateo 24:14.
+Y ese versículo venía haciendo trabajo silencioso en mi posición desde hacía mucho, porque en griego la segunda frase es <span class="gr">οἰκουμένη</span> (*oikoumenē*) — la misma palabra que Mateo 24:14.
 
 El puente se escribe solo. Pablo dice que el mensaje llegó a la *oikoumenē*; Mateo 24:14 dice que el fin viene tras ser predicado el evangelio en la *oikoumenē*; por lo tanto la condición se cumplió en el primer siglo.
 
@@ -139,7 +133,7 @@ Yo quería ese puente. Así que revisé si Pablo eligió la palabra.
 
 > <span class="gr">εἰς πᾶσαν τὴν **γῆν** ἐξῆλθεν ὁ φθόγγος αὐτῶν καὶ εἰς τὰ πέρατα τῆς **οἰκουμένης** τὰ ῥήματα αὐτῶν</span>
 
-Tanto <span class="gr">γῆν</span> como <span class="gr">οἰκουμένης</span> vienen heredadas del salmo, palabra por palabra. Pablo está citando, no describiendo.
+Tanto <span class="gr">γῆν</span> (*gēn*) como <span class="gr">οἰκουμένης</span> (*oikoumenēs*) vienen heredadas del salmo, palabra por palabra. Pablo está citando, no describiendo.
 
 ::: finding
 **Hallazgo — contra mi propia hipótesis, y es la razón de que este capítulo esté en el libro**
@@ -154,13 +148,13 @@ Es la regla de no colapsar tipos de evidencia operando sobre un caso donde yo ha
 He pasado capítulos advirtiendo contra argumentos que toman fuerza prestada de una palabra compartida. Este era el mío, y no sobrevive a su propia prueba.
 
 ::: textualnote
-**Nota textual — y en castellano el puente falso es MÁS tentador, no menos**
+**Nota textual — y en castellano el puente falso es más tentador, no menos**
 
 Aquí el lector hispano está en peor posición que el inglés, y hay que decírselo.
 
-La RVR1960 traduce **las dos** palabras griegas de Romanos 10:18 con la misma palabra castellana: *por toda **la tierra**… hasta los fines de **la tierra***. En griego son <span class="gr">γῆ</span> y <span class="gr">οἰκουμένη</span>, dos términos distintos. En castellano son uno solo.
+La RVR1960 traduce **las dos** palabras griegas de Romanos 10:18 con la misma palabra castellana: *por toda **la tierra**… hasta los fines de **la tierra***. En griego son <span class="gr">γῆ</span> (*gē*) y <span class="gr">οἰκουμένη</span> (*oikoumenē*), dos términos distintos. En castellano son uno solo.
 
-Y hay una segunda coincidencia que empeora el problema. La RVR1960 dice **"en todo el mundo"** en Mateo 24:14, donde el griego es *oikoumenē*, y también **"en todo el mundo"** en Colosenses 1:6, donde el griego es <span class="gr">κόσμος</span> *(kosmos)* — palabra distinta, elegida por Pablo.
+Y hay una segunda coincidencia que empeora el problema. La RVR1960 dice **"en todo el mundo"** en Mateo 24:14, donde el griego es *oikoumenē*, y también **"en todo el mundo"** en Colosenses 1:6, donde el griego es <span class="gr">κόσμος</span> (*kosmos*) — palabra distinta, elegida por Pablo.
 
 De modo que el lector castellano encuentra la misma frase, *todo el mundo*, en dos versículos que en griego no comparten término. **El puente que acabo de desarmar se vuelve a armar solo en castellano**, y por una razón que no tiene nada que ver con lo que dijeron Mateo ni Pablo.
 
@@ -186,9 +180,9 @@ Y la segunda mitad de esa formulación no es una corrección dirigida a mí, por
 Esa formulación no es un punto medio entre los dos lados de la discusión original. Es lo que queda cuando a ambos lados se los obliga a decir solo lo que sus textos sostienen — y le concede a la preocupación de mi familiar más de lo que le concedía mi primera respuesta.
 
 ::: whereweare
-**Dónde estamos.** El sujeto de Romanos 10 sigue siendo Israel, y su argumento sobre la justicia de la fe está construido desde Deuteronomio y no contra él. *Telos* en 10:4 no se zanja con la palabra *fin*. La cadena de la predicación es genuina y aquí no se ablanda — y su eslabón final, *si no fueren enviados*, hace del envío una parte necesaria de la cadena, sin establecer por sí solo que cada creyente ocupe el papel de heraldo ni decirme cuán amplio es ese envío. Frente a eso, el *oikoumenē* de 10:18 es cita textual del salmo en la Septuaginta y por tanto no es atestiguación independiente de nada, lo que elimina un puente que yo usaba. Y la RVR1960 traduce *gē* y *oikoumenē* con la misma palabra, de modo que en castellano el puente se rearma solo si uno se descuida.
+**Dónde nos deja esto.** El sujeto de Romanos 10 sigue siendo Israel, y su argumento sobre la justicia de la fe está construido desde Deuteronomio y no contra él. *Telos* en 10:4 no se zanja con la palabra *fin*. La cadena de la predicación es genuina y aquí no se ablanda — y su eslabón final, *si no fueren enviados*, hace del envío una parte necesaria de la cadena, sin establecer por sí solo que cada creyente ocupe el papel de heraldo ni decirme cuán amplio es ese envío. Frente a eso, el *oikoumenē* de 10:18 es cita textual del salmo en la Septuaginta y por tanto no es atestiguación independiente de nada, lo que elimina un puente que yo usaba. Y la RVR1960 traduce *gē* y *oikoumenē* con la misma palabra, de modo que en castellano el puente se rearma solo si uno se descuida.
 :::
 
 ::: earned
-**Qué se ganó.** El texto con el que esperaba perder me dio la distinción que necesitaba y me quitó un argumento en el que me apoyaba. Eso es lo que significa ir hacia algo en vez de rodearlo. Sigue Romanos 11, que es donde Pablo dice qué cree él que pasa con Israel.
+**La pregunta que esto deja.** El texto con el que esperaba perder me dio la distinción que necesitaba y me quitó un argumento en el que me apoyaba. Eso es lo que significa ir hacia algo en vez de rodearlo. Sigue Romanos 11, que es donde Pablo dice qué cree él que pasa con Israel.
 :::

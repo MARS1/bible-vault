@@ -26,17 +26,17 @@ Así que el movimiento natural es preguntar si los escritores apostólicos dicen
 
 ## La tabla que cambió el capítulo
 
-Recuperé todos los términos de alcance de todos los textos de proclamación en los que me apoyaba, y los puse uno al lado del otro.
+Puse uno al lado del otro, en griego, todos los términos de alcance de todos los textos de proclamación en los que me apoyaba.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia — los términos de alcance, todos verificados por recuperación**
+**Los términos de alcance, comprobados en el griego**
 
 | Texto | Término griego | ¿De quién es la palabra? |
 |---|---|---|
 | **Mateo 24:14** | <span class="gr">ἐν ὅλῃ τῇ οἰκουμένῃ</span> | **de Mateo** |
 | **Lucas 2:1** | <span class="gr">πᾶσαν τὴν οἰκουμένην</span> | **de Lucas** |
 | **Hechos 11:28** | <span class="gr">ἐφ' ὅλην τὴν οἰκουμένην</span> | **de Lucas** |
-| **Romanos 10:18** | <span class="gr">πᾶσαν τὴν γῆν … τὰ πέρατα τῆς οἰκουμένης</span> | ❗ **citado literalmente de LXX Salmo 18:5 — no es de Pablo** |
+| **Romanos 10:18** | <span class="gr">πᾶσαν τὴν γῆν … τὰ πέρατα τῆς οἰκουμένης</span> | **citado literalmente de LXX Salmo 18:5 — no es de Pablo** |
 | **Colosenses 1:6** | <span class="gr">ἐν παντὶ τῷ κόσμῳ</span> | **de Pablo — pero otra palabra** |
 | **Colosenses 1:23** | <span class="gr">ἐν πάσῃ κτίσει τῇ ὑπὸ τὸν οὐρανόν</span> | **de Pablo — una tercera palabra distinta** |
 :::
@@ -46,9 +46,9 @@ Recuperé todos los términos de alcance de todos los textos de proclamación en
 
 **Pablo nunca elige *oikoumenē* en ningún texto de proclamación.**
 
-La única aparición en Pablo es Romanos 10:18, donde el capítulo anterior verificó que está citando la Septuaginta palabra por palabra. Donde Pablo escribe con sus propias palabras usa <span class="gr">κόσμος</span> *(kosmos)* en Colosenses 1:6 y <span class="gr">κτίσις</span> *(ktisis)* en Colosenses 1:23. Dos palabras distintas, ninguna de ellas la de Mateo.
+La única aparición en Pablo es Romanos 10:18, donde el capítulo anterior verificó que está citando la Septuaginta palabra por palabra. Donde Pablo escribe con sus propias palabras usa <span class="gr">κόσμος</span> (*kosmos*) en Colosenses 1:6 y <span class="gr">κτίσις</span> (*ktisis*) en Colosenses 1:23. Dos palabras distintas, ninguna de ellas la de Mateo.
 
-Así que la maniobra que yo venía haciendo —*Pablo dice que la buena noticia llegó a todo el mundo, que es la* oikoumenē *de Mateo, por lo tanto Mateo 24:14 se cumplió*— **se derrumba bajo recuperación.** Dependía de que **una sola palabra en lengua moderna** cubriera tres términos griegos distintos, de los cuales Mateo usó uno y Pablo no eligió ese.
+Así que la maniobra que yo venía haciendo —*Pablo dice que la buena noticia llegó a todo el mundo, que es la* oikoumenē *de Mateo, por lo tanto Mateo 24:14 se cumplió*— **no sobrevive a una comprobación del griego.** Dependía de que **una sola palabra en lengua moderna** cubriera tres términos griegos distintos, de los cuales Mateo usó uno y Pablo no eligió ese.
 
 **El puente no está donde yo creía.** Lucas, y no Pablo, es el control léxico real sobre la palabra de Mateo.
 :::
@@ -73,7 +73,7 @@ Mira qué pasa con las palabras castellanas.
 
 Dos cosas, y las dos empeoran el problema para quien lee solo en castellano.
 
-**Primera:** en Romanos 10:18 la RVR1960 traduce **γῆ y οἰκουμένη con la misma palabra** — *por toda la tierra… hasta los fines de la tierra*. En griego son dos términos; en castellano son uno.
+**Primera:** en Romanos 10:18 la RVR1960 traduce **<span class="gr">γῆ</span> (*gē*) y <span class="gr">οἰκουμένη</span> (*oikoumenē*) con la misma palabra** — *por toda la tierra… hasta los fines de la tierra*. En griego son dos términos; en castellano son uno.
 
 **Segunda, y peor:** la RVR1960 dice **"en todo el mundo"** en Mateo 24:14, donde el griego es *oikoumenē*, y **"todo el mundo"** en Colosenses 1:6 y en Marcos 16:15, donde el griego es *kosmos*. Palabras griegas distintas, misma frase castellana.
 
@@ -115,18 +115,18 @@ Eso es un requisito de consistencia. No es evidencia de que Mateo 24:14 se cumpl
 :::
 
 ::: evidence
-**Con qué fuerza pesa la evidencia — el freno contra mí mismo, con igual fuerza**
+**El freno contra mí mismo, con igual fuerza**
 
-*Pablo dice todo el mundo, por lo tanto Mateo 24:14 se cumplió* **NO ALCANZA**. Autor distinto, vocabulario distinto —ahora verificado—, escenario retórico distinto, proposición distinta.
+*Pablo dice todo el mundo, por lo tanto Mateo 24:14 se cumplió* **no alcanza**. Autor distinto, vocabulario distinto —ahora verificado—, escenario retórico distinto, proposición distinta.
 
 **Pablo nunca escribe que Mateo 24:14 se haya cumplido.** Nadie en el Nuevo Testamento lo escribe.
 
 | | Estado |
 |---|---|
-| Afirmación directa de cumplimiento | ❌ **NO PRESENTE** |
-| Evidencia comparativa fuerte | ✅ **PRESENTE** |
-| Apoyo de plausibilidad histórica | ✅ **FUERTE** |
-| Identificación final | ⏳ requiere todavía la cronología del propio Mateo, y quizá evidencia del primer siglo fuera de la Escritura |
+| Afirmación directa de cumplimiento | **No presente** |
+| Evidencia comparativa fuerte | **Presente** |
+| Apoyo de plausibilidad histórica | **Fuerte** |
+| Identificación final | Requiere todavía la cronología del propio Mateo, y quizá evidencia del primer siglo fuera de la Escritura |
 :::
 
 ## Una corrección que tuve que hacerle a mi propia formulación
@@ -134,7 +134,7 @@ Eso es un requisito de consistencia. No es evidencia de que Mateo 24:14 se cumpl
 Trabajando la pregunta vecina —si la misión alcanzó a quienes tenía que alcanzar— produje una formulación que iba más allá de la evidencia, y la mantengo visible en vez de reemplazarla en silencio.
 
 ::: commentary
-**Comentario del investigador — la formulación que se excedió, y la más estrecha que sobrevivió**
+**La formulación que se excedió, y la más estrecha que sobrevivió**
 
 Hechos contiene un patrón llamativo. A Pablo se le dice en Corinto que Jehová tiene mucho pueblo en esa ciudad, antes de que hayan creído. Se le prohíbe hablar la palabra en Asia y se lo redirige a Macedonia. El corazón de Lidia es abierto. Felipe es enviado a un solo hombre en un solo camino.
 
@@ -144,7 +144,7 @@ Eso fue más lejos de lo que los textos sostienen. Lo que Hechos muestra es que 
 
 La versión más estrecha sobrevive y de hecho es más útil: Pablo no necesitaba saber si quedaba alguien por alcanzar **a través de él**, porque la dirección no era suya. Eso toca el *no teniendo más campo en estas regiones* de Romanos 15 — vuelve inteligible la frase como informe sobre un encargo y no como censo de una región.
 
-Registrado como inferencia de Nivel B a partir de un patrón narrativo, no como doctrina de la presciencia. La versión excedida queda a la vista porque atraparla es la parte que vale la pena conservar.
+Registrado como una interpretación extraída de un patrón narrativo, no como doctrina de la presciencia. La versión excedida queda a la vista porque atraparla es la parte que vale la pena conservar.
 :::
 
 ## La pregunta, reenunciada en cuatro proposiciones
@@ -156,10 +156,10 @@ Enunciarla así fue lo que finalmente volvió tratable el argumento, y es donde 
 
 | | Proposición | Estado |
 |---|---|---|
-| **A** | Yeshua comisionó a apóstoles y discípulos concretos | ✅ **claramente sí** |
-| **B** | La misión apostólica del primer siglo se expandió a las naciones | ✅ **claramente sí** |
-| **C** | La proclamación era necesaria para la fe y para el oír | ✅ **claramente sí** (capítulo 21) |
-| **D** | **Todo creyente de toda época posterior está individualmente bajo la misma comisión apostólica geográficamente universal** | ❗ **EXIGE PRUEBA TODAVÍA — no se puede suponer desde A, B y C** |
+| **A** | Yeshua comisionó a apóstoles y discípulos concretos | **Claramente sí** |
+| **B** | La misión apostólica del primer siglo se expandió a las naciones | **Claramente sí** |
+| **C** | La proclamación era necesaria para la fe y para el oír | **Claramente sí** (capítulo 21) |
+| **D** | **Todo creyente de toda época posterior está individualmente bajo la misma comisión apostólica geográficamente universal** | **Exige prueba todavía — no se puede suponer desde A, B y C** |
 
 A, B y C no son controvertidas y las concedo sin reservas. Mi familiar tenía razón en las tres, y mi respuesta original era más débil justamente donde parecía pasar por encima de ellas.
 
@@ -174,12 +174,12 @@ No tengo un versículo que diga que Mateo 24:14 se cumplió. Lo busqué, y no es
 
 Tengo el uso acotado que Lucas hace de la palabra de Mateo, el lenguaje llamativo de terminación de Pablo con otro vocabulario, una generación apostólica que escribió como si el encargo estuviera sustancialmente descargado, y un requisito de consistencia que quien lea a Mateo de modo hiperliteral tiene que responder.
 
-Y tengo un puente menos que cuando empecé el capítulo, quitado por mi propia recuperación — y en castellano, quitado dos veces.
+Y tengo un puente menos que cuando empecé el capítulo, quitado por mi propia comprobación — y en castellano, quitado dos veces.
 
 ::: whereweare
-**Dónde estamos.** Pablo nunca elige *oikoumenē* en un texto de proclamación; la única aparición es una cita de la Septuaginta, y con sus propias palabras escribe *kosmos* y *ktisis*. Así que el puente popular de Pablo a Mateo 24:14 descansa en una palabra moderna haciendo el trabajo de tres griegas, y no sobrevive. En castellano el problema es peor, porque la RVR1960 dice *todo el mundo* tanto donde el griego dice *oikoumenē* como donde dice *kosmos*, y funde *gē* y *oikoumenē* en Romanos 10:18: el puente se rearma solo si uno se descuida, y aquí queda desarmado a propósito. Lucas, y no Pablo, es el control real. Ningún escritor del Nuevo Testamento afirma que Mateo 24:14 se haya cumplido. Quedan evidencia comparativa fuerte, plausibilidad histórica fuerte, y un requisito de consistencia que corta en las dos direcciones. A, B y C concedidas; D exige prueba y no se sigue de ellas.
+**Dónde nos deja esto.** Pablo nunca elige *oikoumenē* en un texto de proclamación; la única aparición es una cita de la Septuaginta, y con sus propias palabras escribe *kosmos* y *ktisis*. Así que el puente popular de Pablo a Mateo 24:14 descansa en una palabra moderna haciendo el trabajo de tres griegas, y no sobrevive. En castellano el problema es peor, porque la RVR1960 dice *todo el mundo* tanto donde el griego dice *oikoumenē* como donde dice *kosmos*, y funde *gē* y *oikoumenē* en Romanos 10:18: el puente se rearma solo si uno se descuida, y aquí queda desarmado a propósito. Lucas, y no Pablo, es el control real. Ningún escritor del Nuevo Testamento afirma que Mateo 24:14 se haya cumplido. Quedan evidencia comparativa fuerte, plausibilidad histórica fuerte, y un requisito de consistencia que corta en las dos direcciones. A, B y C concedidas; D exige prueba y no se sigue de ellas.
 :::
 
 ::: earned
-**Qué se ganó.** La pregunta ya está enunciada con suficiente precisión como para poder contestarse, y hay un texto que viene detrás de toda la discusión desde que mi familiar lo planteó. Mateo 28, leído en su propio contexto, con atención a quién estaba en la habitación.
+**La pregunta que esto deja.** La pregunta ya está enunciada con suficiente precisión como para poder contestarse, y hay un texto que viene detrás de toda la discusión desde que mi familiar lo planteó. Mateo 28, leído en su propio contexto, con atención a quién estaba en la habitación.
 :::

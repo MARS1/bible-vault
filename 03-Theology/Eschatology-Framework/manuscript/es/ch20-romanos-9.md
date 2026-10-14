@@ -26,7 +26,7 @@ Ese no es el arranque de un hombre que anuncia que un pueblo ha quedado apartado
 
 Romanos 9:4 dice que **son** israelitas, y que de ellos son la adopción, la gloria, los pactos, la promulgación de la ley, el culto y las promesas.
 
-El griego es <span class="gr">Ἰσραηλῖται</span> *(Israēlitai)*. No *solían ser*. No *hasta que vino el Mesías*.
+El griego es <span class="gr">Ἰσραηλῖται</span> (*Israēlitai*). No *solían ser*. No *hasta que vino el Mesías*.
 
 Pablo escribe después de la muerte, la resurrección, la ascensión, Pentecostés y la inclusión de los gentiles. Y llama israelitas a sus parientes étnicos **incrédulos**, y después amontona honra sobre honra en vez de hablar con desprecio de su historia pactual: los patriarcas son de ellos, y de ellos, según la carne, vino el Mesías.
 
@@ -38,13 +38,9 @@ Sea cual sea el cambio pactual que trajo el Mesías, Pablo **no** ha reasignado 
 Cualquier lectura del versículo 6 que necesite que *Israel* haya sido transferido lejos de ellos tiene que pasar primero por el versículo 4, y el versículo 4 está en el mismo aliento. Yo nunca lo había notado, porque siempre llegaba a Romanos 9 buscando ya el versículo 6.
 :::
 
-Y un detalle del inventario que volvió a poner delante una cuestión que este libro ya había encontrado. Una lectura griega bien atestiguada tiene **los pactos**, en plural — <span class="gr">διαθῆκαι</span> *(diathēkai)*—, mientras otra tradición textual tiene el singular, <span class="gr">ἡ διαθήκη</span>. La RVR1960 sigue esta última con *el pacto*. La variante ya quedó registrada en la Parte I, capítulo 5, y no la resuelvo aquí. Bajo la lectura plural el inventario nombraría el abrahámico, el sinaítico, el davídico y el nuevo prometido por Jeremías — la precisión del capítulo 13, una sola historia pactual que contiene varios pactos, en la gramática de Pablo. Pero esa precisión no puede descansar en este versículo mientras la variante siga abierta, y nunca descansó en él: el capítulo 13 no cita Romanos 9:4 en ninguna parte.
+Y un detalle del inventario que volvió a poner delante una cuestión que este libro ya había encontrado. Una lectura griega bien atestiguada tiene **los pactos**, en plural — <span class="gr">διαθῆκαι</span> (*diathēkai*)—, mientras otra tradición textual tiene el singular, <span class="gr">ἡ διαθήκη</span> (*hē diathēkē*). La RVR1960 sigue esta última con *el pacto*. La variante ya apareció en la Parte I, capítulo 5, y no la resuelvo aquí. Bajo la lectura plural el inventario nombraría el abrahámico, el sinaítico, el davídico y el nuevo prometido por Jeremías — la precisión del capítulo 13, una sola historia pactual que contiene varios pactos, en la gramática de Pablo. Pero esa precisión no puede descansar en este versículo mientras la variante siga abierta, y nunca descansó en él: el capítulo 13 no cita Romanos 9:4 en ninguna parte.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Romanos 9:4-5, 9:7-8, Malaquías 1:2-3, Éxodo 33:19 y Génesis 25:23 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados.
-:::
+<!-- SPANISH-SPECIFIC: Romanos 9:4-5, 9:7-8, Malaquías 1:2-3, Éxodo 33:19 y Génesis 25:23 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Quedan pendientes y registrados. -->
 
 ## Solo ahora aparece el problema
 
@@ -81,11 +77,11 @@ Romanos 9:7 responde citando que en Isaac le será llamada descendencia. ¿A qui
 El versículo 8 —no los hijos de la carne sino los hijos de la promesa— suena a algo que podría incluir gentiles, y en otros lugares Pablo sí conecta a los gentiles con la promesa abrahámica. Pero aquí su primer ejemplo no es judío contra gentil. Es un hijo de Abraham contra otro.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**Isaac e Ismael — lo que muestra la primera demostración**
 
-La primera demostración de Pablo **ESTABLECE** que el descenso biológico de Abraham nunca determinó por sí solo la línea por la cual avanza la promesa del pacto.
+La primera demostración de Pablo **establece** que el descenso biológico de Abraham nunca determinó por sí solo la línea por la cual avanza la promesa del pacto.
 
-**NO ESTABLECE** que *Israel ahora signifique la Iglesia*. Esa es una afirmación mucho mayor, y Pablo no la hace aquí. La distinción que traza en 9:7 corre **dentro** de la casa de Abraham, e importarle un marco judío/gentil es meter la conclusión dentro del ejemplo.
+**No** establece que *Israel ahora signifique la Iglesia*. Esa es una afirmación mucho mayor, y Pablo no la hace aquí. La distinción que traza en 9:7 corre **dentro** de la casa de Abraham, e imponerle un marco judío/gentil es meter la conclusión dentro del ejemplo.
 :::
 
 Eso es bastante más preciso que lo que yo venía diciendo, y bastante menos útil para la posición con la que llegué.
@@ -95,7 +91,7 @@ Eso es bastante más preciso que lo que yo venía diciendo, y bastante menos út
 Después Pablo cita *a Jacob amé, mas a Esaú aborrecí* — y aquí el capítulo me enseñó algo sobre método más que sobre Israel.
 
 ::: commentary
-**Comentario del investigador — el caso para el que existe la regla de no colapsar**
+**El caso para el que existe la regla de no colapsar**
 
 Le hice tres preguntas distintas a la misma cita y obtuve tres clases distintas de respuesta.
 
@@ -119,7 +115,7 @@ Habiendo encontrado eso, mi instinto fue ablandar el pasaje hasta volverlo una a
 Pablo no lo permite. Sigue con Éxodo 33:19 —tendré misericordia del que yo tenga misericordia— y después con Faraón, y después con el alfarero y el barro.
 
 ::: historical
-**Contexto histórico**
+**Éxodo 33:19, después del becerro de oro**
 
 Éxodo 33:19 no se dice en el vacío. **El becerro de oro acaba de ocurrir.** Israel ha quebrantado el pacto casi inmediatamente después de recibirlo, Moisés está intercediendo, y la fórmula de la misericordia es la respuesta de Jehová en esa situación.
 
@@ -129,11 +125,11 @@ Lo cual significa que el versículo al que Pablo echa mano para hablar de miseri
 Y el alfarero y el barro tampoco son imagen de Pablo. Son de Jeremías y de Isaías, y en Jeremías 18 la imagen trata explícitamente de la autoridad de Jehová sobre **la casa de Israel**, con el resultado condicionado a la respuesta de esa nación.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia — el freno, en las dos direcciones**
+**La imaginería profética de Romanos 9 — el freno, en las dos direcciones**
 
-Lo que **SÍ** se puede establecer: Pablo usa imaginería profética cuyo trasfondo escriturario trata de la autoridad soberana de Jehová sobre pueblos y naciones del pacto, Israel en particular.
+Lo que **sí** se puede establecer: Pablo usa imaginería profética cuyo trasfondo escriturario trata de la autoridad soberana de Jehová sobre pueblos y naciones del pacto, Israel en particular.
 
-Lo que **NO** se puede establecer solo desde ese trasfondo: que el pasaje no tenga por eso ninguna aplicación individual. Mostrar que una lectura determinista se excede no establece en su lugar la lectura corporativa — eso sería otra vez el Principio Antirreemplazo, y ya me he atrapado en él suficientes veces como para esperarlo.
+Lo que **no** se puede establecer solo desde ese trasfondo: que el pasaje no tenga por eso ninguna aplicación individual. Mostrar que una lectura determinista se excede no establece en su lugar la lectura corporativa — eso sería otra vez el Principio Antirreemplazo, y ya me he atrapado en él suficientes veces como para esperarlo.
 :::
 
 ## Una verificación que cambió menos de lo que yo esperaba
@@ -163,9 +159,9 @@ Para un método que dice *ve a las lenguas originales*, eso es una complicación
 :::
 
 ::: whereweare
-**Dónde estamos.** Pablo abre con angustia por sus propios parientes y los llama israelitas en presente, después de Pentecostés, lo cual frena cualquier lectura de 9:6 que transfiera la palabra lejos de ellos. Su primera demostración es Ismael frente a Isaac, no judío frente a gentil, y establece que el descenso biológico nunca determinó por sí solo la línea prometida. La cita de Malaquías carga un trasfondo de Edom y de naciones que solo el trabajo intertextual vuelve visible. Éxodo 33 resulta ser un texto del becerro de oro en el que el propio Israel sobrevive por misericordia. Y el capítulo termina con Oseas aplicado a gentiles y un remanente sostenido para Israel, sin que ninguna mitad se trague a la otra.
+**Dónde nos deja esto.** Pablo abre con angustia por sus propios parientes y los llama israelitas en presente, después de Pentecostés, lo cual frena cualquier lectura de 9:6 que transfiera la palabra lejos de ellos. Su primera demostración es Ismael frente a Isaac, no judío frente a gentil, y establece que el descenso biológico nunca determinó por sí solo la línea prometida. La cita de Malaquías carga un trasfondo de Edom y de naciones que solo el trabajo intertextual vuelve visible. Éxodo 33 resulta ser un texto del becerro de oro en el que el propio Israel sobrevive por misericordia. Y el capítulo termina con Oseas aplicado a gentiles y un remanente sostenido para Israel, sin que ninguna mitad se trague a la otra.
 :::
 
 ::: earned
-**Qué se ganó.** Yo esperaba que Romanos 9 resolviera esto y no lo hizo; afiló la pregunta. Lo cual significa que el capítulo siguiente ya no se puede seguir evitando. Romanos 10 es el texto más fuerte contra la posición con la que entré a esta investigación, y voy a ir derecho hacia él.
+**La pregunta que esto deja.** Yo esperaba que Romanos 9 resolviera esto y no lo hizo; afiló la pregunta. Lo cual significa que el capítulo siguiente ya no se puede seguir evitando. Romanos 10 es el texto más fuerte contra la posición con la que entré a esta investigación, y voy a ir derecho hacia él.
 :::

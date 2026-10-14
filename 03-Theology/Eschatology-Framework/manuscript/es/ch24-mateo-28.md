@@ -35,15 +35,15 @@ Es una comisión **real**, emitida sobre la base de una entronización. No es un
 Aquí está lo primero que me sorprendió, y es comprobable en cualquier interlineal.
 
 ::: wordstudy
-**Lengua original**
+**Mateo 28:19 — el verbo finito**
 
 <span class="gr">πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες … διδάσκοντες</span>
 
-<span class="gr">πορευθέντες</span> *(poreuthentes)* — **participio aoristo**, literalmente "habiendo ido". Morfológicamente no es el imperativo finito. Pero en esta construcción puede funcionar como participio de **circunstancia concomitante**, tomando fuerza imperativa del verbo del que depende — de modo que la gramática no puede usarse para volver el ir opcional o incidental, y no lo voy a glosar como un *mientras van* casual.
+<span class="gr">πορευθέντες</span> (*poreuthentes*) — **participio aoristo**, literalmente "habiendo ido". Morfológicamente no es el imperativo finito. Pero en esta construcción puede funcionar como participio de **circunstancia concomitante**, tomando fuerza imperativa del verbo del que depende — de modo que la gramática no puede usarse para volver el ir opcional o incidental, y no lo voy a glosar como un *mientras van* casual.
 
-<span class="gr">μαθητεύσατε</span> *(mathēteusate)* — **el imperativo finito**, y el centro sintáctico de la oración. *Haced discípulos.*
+<span class="gr">μαθητεύσατε</span> (*mathēteusate*) — **el imperativo finito**, y el centro sintáctico de la oración. *Haced discípulos.*
 
-<span class="gr">βαπτίζοντες</span>, <span class="gr">διδάσκοντες</span> — participios presentes: bautizando, enseñando. Describen **cómo** se hace el discipulado.
+<span class="gr">βαπτίζοντες</span> (*baptizontes*), <span class="gr">διδάσκοντες</span> (*didaskontes*) — participios presentes: bautizando, enseñando. Describen **cómo** se hace el discipulado.
 :::
 
 ::: textualnote
@@ -55,12 +55,12 @@ La RVR1960 traduce **"id, y haced discípulos"**: dos imperativos coordinados. N
 
 Eso es significativo para este capítulo. La edición inglesa tuvo que argumentar que el participio comparte la fuerza imperativa, porque varias traducciones inglesas lo suavizan hacia *as you go*. Al lector hispano la RVR1960 ya le entrega esa fuerza directamente.
 
-**Deuda declarada:** el versículo 20 —*enseñándoles que guarden todas las cosas*, y la promesa de estar con ellos hasta el fin del siglo— se describe en este capítulo en vez de citarse. Tengo verificado el texto RVR1960 de 28:18-19, pero no el de 28:20, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Queda pendiente y registrado.
+<!-- SPANISH-SPECIFIC: el versículo 20 —enseñándoles que guarden todas las cosas, y la promesa de estar con ellos hasta el fin del siglo— se describe en este capítulo en vez de citarse. Tengo verificado el texto RVR1960 de 28:18-19, pero no el de 28:20, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Queda pendiente y registrado. -->
 
 Y el freno de siempre, que corre también cuando la traducción me favorece: **esto es un testigo de traducción, no una demostración gramatical.** La RVR1960 tomó una decisión sintáctica razonable; no por eso queda establecido el análisis. Confirma la lectura de circunstancia concomitante; no la prueba. Si no acepté el *as you go* inglés como prueba en contra, tampoco acepto el *id* castellano como prueba a favor.
 :::
 
-No quiero cobrar de más con esto. La morfología no vuelve incidental el ir, y desde luego no significa *que nadie vaya a ninguna parte* — Hechos es la contraevidencia. Lo que la sintaxis sí establece es que el **contenido** del mandato es el discipulado, que es algo más largo y distinto que anunciar un mensaje una vez.
+No quiero hacerle decir a esto más de lo que dice. La morfología no vuelve incidental el ir, y desde luego no significa *que nadie vaya a ninguna parte* — Hechos es la contraevidencia. Lo que la sintaxis sí establece es que el **contenido** del mandato es el discipulado, que es algo más largo y distinto que anunciar un mensaje una vez.
 
 Y esa distinción importa para el argumento original, porque **evangelismo y discipulado no son la misma actividad**, y mi familiar y yo los usábamos de manera intercambiable. Yo también, cuando me convenía.
 
@@ -87,9 +87,9 @@ Aplanar la misión terrenal centrada en Israel, la comisión inicial a los Doce,
 Ahora la parte que me cuesta, y la enuncio con toda la claridad de que soy capaz.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**Mateo 28 y la misión a las naciones**
 
-Mateo 28 **ESTABLECE** que Yeshua mandó a los once hacer discípulos a todas las naciones.
+Mateo 28 **establece** que Yeshua mandó a los once hacer discípulos a todas las naciones.
 
 Si alguien sostiene que los apóstoles nunca fueron comisionados más allá de Israel, **Mateo 28 no lo permite.** La misión se expande genuinamente, por mandato explícito, de un Mesías resucitado que reclama toda potestad.
 
@@ -141,11 +141,11 @@ Es más compatible con **ambos** —Mateo 28 y Pablo— que *todo creyente debe 
 ## Un contexto histórico que conviene no sobrepasar
 
 ::: historical
-**Contexto histórico — el concilio de Jerusalén, y la categoría que ya existía**
+**El concilio de Jerusalén, y la categoría que ya existía**
 
 En unas dos décadas, la pregunta que abre Mateo 28 tuvo que resolverse en la práctica: ¿en qué términos entran las naciones?
 
-Israel ya tenía una categoría para el de afuera que se unía a la comunidad del pacto: el <span class="he">גֵּר</span> *(ger)*, el forastero o extranjero residente. La Torá legisla sobre él repetidamente: guarda el sábado, puede comer la Pascua si está circuncidado, ha de ser amado como uno mismo, y una misma ley rige para el nacido en la tierra y para el *ger*. La categoría no es una ocurrencia posterior; está incorporada.
+Israel ya tenía una categoría para el de afuera que se unía a la comunidad del pacto: el <span class="he">גֵּר</span> (*ger*), el forastero o extranjero residente. La Torá legisla sobre él repetidamente: guarda el sábado, puede comer la Pascua si está circuncidado, ha de ser amado como uno mismo, y una misma ley rige para el nacido en la tierra y para el *ger*. La categoría no es una ocurrencia posterior; está incorporada.
 
 La disputa inmediata de Hechos 15 era si los creyentes gentiles tenían que circuncidarse y guardar la ley de Moisés como condición de pertenencia. El concilio se negó a imponer ese requisito de entrada y emitió en su carta cuatro requisitos.
 
@@ -156,11 +156,11 @@ Así que el concilio hace algo más estrecho y más interesante que inventar la 
 
 ## Lo que esto le hace al argumento original
 
-Pongo las dos posiciones de aquella primera conversación una al lado de la otra, con exactitud, porque la Parte I ya tuvo que corregir mi propio relato de ella una vez.
+Pongo las dos posiciones de aquella primera conversación una al lado de la otra, con exactitud.
 
 Mi familiar sostenía que los creyentes están obligados a proclamar hacia afuera, desde Marcos 16, Mateo 28, Santiago 4:17 y Hechos 8:4. **No** sostenía que todo creyente tenga un oficio evangelístico idéntico; eso es un espantapájaros y no lo voy a construir aquí para derribarlo.
 
-Yo sostenía que los dones se reparten de manera desigual, que evangelista es una función nombrada y específica, y que 1 Pedro 3:15 pide estar preparado para responder y no iniciativa para proclamar. No estaba sosteniendo que los creyentes puedan callar acerca del Mesías, ni que la pregunta no me alcanzara. A lo que me oponía era a la afirmación de que todo creyente deba proclamar hacia afuera de esa misma manera proactiva o si no esté pecando. Debajo de eso, sin decirlo, yo trataba además la comisión como ya descargada en el primer siglo.
+Yo sostenía que los dones se reparten de manera desigual, que evangelista es una función nombrada y específica, y que 1 Pedro 3:15 pide estar preparado para responder y no iniciativa para proclamar. No estaba sosteniendo que los creyentes puedan callar acerca del Mesías, ni que la pregunta no me alcanzara. A lo que me oponía era a la afirmación de que todo creyente deba proclamar hacia afuera de esa misma manera proactiva o, si no lo hace, esté pecando. Debajo de eso, sin decirlo, yo trataba además la comisión como ya descargada en el primer siglo.
 
 Cuatro Partes después: su preocupación sobrevive, y también sobrevive la distinción central que yo trazaba. Lo que cambió no es que haya descubierto que los creyentes nunca deben callar sobre el Mesías — nunca sostuve lo contrario. Lo que cambió es que **ya no puedo usar una proclamación supuestamente completada en el primer siglo como manera barata de deshacerme de la pregunta por la misión continua.** Eso era lo portante debajo de mi respuesta, y el capítulo 23 lo desarmó.
 
@@ -177,9 +177,9 @@ Es una respuesta real y no es una respuesta completa. Qué obliga en concreto un
 :::
 
 ::: whereweare
-**Dónde estamos.** Mateo 28 es una comisión real que fluye de una entronización, dada a los once, cuyo imperativo finito es *haced discípulos*, con el participio *id* compartiendo su fuerza y sin volverse opcional. El propio desarrollo de Mateo corre primero centrado en Israel y después hacia las naciones, con la resurrección entre medio, y ninguna de las dos comisiones necesita suprimirse para sostener la otra. El texto establece genuinamente una misión a las naciones, y ninguna lectura mía tiene permiso para encogerla. El argumento recursivo a favor de una comisión continua es fuerte y aquí no queda refutado. Lo que no se sigue es que cada mandato se reparta idénticamente a cada creyente — Pablo lo niega sin rodeos. Misión corporativa, vocación individual, sobre la metáfora del propio Pablo.
+**Dónde nos deja esto.** Mateo 28 es una comisión real que fluye de una entronización, dada a los once, cuyo imperativo finito es *haced discípulos*, con *poreuthentes* —el participio de «ir»— compartiendo la fuerza del imperativo y sin volverse opcional. El propio desarrollo de Mateo corre primero centrado en Israel y después hacia las naciones, con la resurrección entre medio, y ninguna de las dos comisiones necesita suprimirse para sostener la otra. El texto establece genuinamente una misión a las naciones, y ninguna lectura mía tiene permiso para encogerla. El argumento recursivo a favor de una comisión continua es fuerte y aquí no queda refutado. Lo que no se sigue es que cada mandato se reparta idénticamente a cada creyente — Pablo lo niega sin rodeos. Misión corporativa, vocación individual, sobre la metáfora del propio Pablo.
 :::
 
 ::: earned
-**Qué se ganó.** La pregunta que inició esta investigación ya tiene una respuesta que puedo defender, y no es la que yo defendía cuando me la hicieron. Lo cual despeja el camino para lo que vengo aplazando desde la Parte II: las edades, la resurrección, y la puerta que entra en Apocalipsis.
+**La pregunta que esto deja.** La pregunta que inició esta investigación ya tiene una respuesta que puedo defender, y no es la que yo defendía cuando me la hicieron. Lo cual despeja el camino para lo que vengo aplazando desde la Parte II: las edades, la resurrección, y la puerta que entra en Apocalipsis.
 :::

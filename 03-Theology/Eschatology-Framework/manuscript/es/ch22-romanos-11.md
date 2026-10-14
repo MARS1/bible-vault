@@ -12,7 +12,7 @@ related: "[[10-manuscript-architecture]], [[SYNC-LEDGER]], [[01c-romans-11-remna
 
 # Capítulo 22: Romanos 11 — remanente, injerto y «todo Israel»
 
-Pablo hace mi pregunta por mí, en el primer versículo, y la contesta antes de que yo pueda ponerme cómodo: ¿ha desechado Dios a su pueblo? Y responde con su idioma más fuerte de rechazo — <span class="gr">μὴ γένοιτο</span> *(mē genoito)*, en ninguna manera.
+Pablo hace mi pregunta por mí, en el primer versículo, y la contesta antes de que yo pueda ponerme cómodo: ¿ha desechado Dios a su pueblo? Y responde con su idioma más fuerte de rechazo — <span class="gr">μὴ γένοιτο</span> (*mē genoito*), en ninguna manera.
 
 Y su primera prueba es él mismo: *porque también yo soy israelita, de la descendencia de Abraham, de la tribu de Benjamín.*
 
@@ -31,11 +31,11 @@ Pablo sí dice que hubo endurecimiento. No lo deja sin calificar, y las califica
 ¿Tropezaron para que cayesen? En ninguna manera. Mismo idioma, segunda vez. Y después la cláusula de propósito: por su transgresión vino la salvación a los gentiles, *para provocarles a celos* — lo cual presupone que Israel sigue a la vista, sigue siendo sujeto de un plan, y no un expediente cerrado.
 
 ::: evidence
-**Con qué fuerza pesa la evidencia**
+**Dos negaciones con *mē genoito***
 
-Las dos negaciones con <span class="gr">μὴ γένοιτο</span> —*¿ha desechado Dios a su pueblo?* y *¿tropezaron para que cayesen?*— son **TEXTO EXPLÍCITO** y **CONTRADICEN** una lectura en la que Israel ha quedado apartado de forma permanente.
+Las dos negaciones con <span class="gr">μὴ γένοιτο</span> —*¿ha desechado Dios a su pueblo?* y *¿tropezaron para que cayesen?*— son texto explícito, y juntas su evidencia <span class="grade">contradice</span> una lectura en la que Israel ha quedado apartado de forma permanente.
 
-**NO ESTABLECEN** qué resultado positivo espera Pablo, cómo ocurre, ni cuándo. Refutar una lectura no instala su contraria, y Pablo dedica el resto del capítulo a una pregunta que todavía no ha contestado.
+**No** establecen qué resultado positivo espera Pablo, cómo ocurre, ni cuándo. Refutar una lectura no instala su contraria, y Pablo dedica el resto del capítulo a una pregunta que todavía no ha contestado.
 :::
 
 ## El olivo, y las ausencias que cargan el peso
@@ -43,9 +43,9 @@ Las dos negaciones con <span class="gr">μὴ γένοιτο</span> —*¿ha des
 > Pues si algunas de las ramas fueron desgajadas, y tú, siendo olivo silvestre, has sido injertado en lugar de ellas (Romanos 11:17)
 
 ::: wordstudy
-**Lengua original**
+***Enkentrizō* — injertar**
 
-<span class="gr">ἐγκεντρίζω</span> *(enkentrizō)* — injertar. Usado seis veces en este pasaje y en ningún otro lugar del Nuevo Testamento.
+<span class="gr">ἐγκεντρίζω</span> (*enkentrizō*) — injertar. Usado seis veces en este pasaje y en ningún otro lugar del Nuevo Testamento.
 
 El injerto es una operación hortícola en la que un vástago se inserta **en un árbol ya enraizado** y toma su vida de esa raíz. El árbol no se reemplaza. La raíz no se reemplaza. Lo que cambia es el injerto.
 :::
@@ -76,14 +76,14 @@ Es severo y es simétrico. El mismo principio que quitó ramas puede quitar esta
 
 Y después el detalle que es fácil pasar por alto: las ramas naturales pueden ser injertadas de nuevo — **en su propio olivo**. Su propio. El posesivo es de Pablo, no mío.
 
-## Romanos 11:25, y una palabra que no puedo cobrar
+## Romanos 11:25, y una palabra que no puedo zanjar
 
 ::: wordstudy
-**Lengua original**
+**«La plenitud de las naciones»**
 
-<span class="gr">τὸ πλήρωμα τῶν ἐθνῶν</span> *(to plērōma tōn ethnōn)* — "la plenitud de las naciones", que la RVR1960 traduce *la plenitud de los gentiles*.
+<span class="gr">τὸ πλήρωμα τῶν ἐθνῶν</span> (*to plērōma tōn ethnōn*) — "la plenitud de las naciones", que la RVR1960 traduce *la plenitud de los gentiles*.
 
-**NO ESTABLECIDO:** si *plērōma* denota aquí un número, una plenitud pactual, la terminación de una misión a las naciones, una inclusión representativa, u otra cosa.
+**No establecido:** si *plērōma* denota aquí un número, una plenitud pactual, la terminación de una misión a las naciones, una inclusión representativa, u otra cosa.
 
 Esto toca directamente la pregunta original de la proclamación, porque *la plenitud de las naciones entrando* es lenguaje de alcance exactamente del tipo que este libro lleva tres Partes aprendiendo a no leer con confianza. Lo dejo abierto en vez de hacerle significar lo que me serviría.
 :::
@@ -94,7 +94,7 @@ Pablo continúa: *y luego todo Israel será salvo*, y lo apoya con una cita sobr
 
 Dos cosas ocurren en esa frase, y las dos limitan lo que cualquiera puede edificar sobre ella.
 
-La primera es pequeña y aclaratoria. <span class="gr">οὕτως</span> *(houtōs)* es un **adverbio** — *así, de esta manera*. La cronología no se puede importar desde el *luego* castellano ni desde el *so* inglés. Pablo puede estar diciendo *y de esta manera todo Israel será salvo* en vez de *y después de la plenitud gentil, entonces Israel*. El adverbio no resuelve el versículo. Le quita a la lectura secuencial su pretensión de ser la obvia.
+La primera es pequeña y aclaratoria. <span class="gr">οὕτως</span> (*houtōs*) es un **adverbio** — *así, de esta manera*. La cronología no se puede importar desde el *luego* castellano ni desde el *so* inglés. Pablo puede estar diciendo *y de esta manera todo Israel será salvo* en vez de *y después de la plenitud gentil, entonces Israel*. El adverbio no resuelve el versículo. Le quita a la lectura secuencial su pretensión de ser la obvia.
 
 La segunda es mayor, y es lo más fuerte de este capítulo.
 
@@ -115,7 +115,7 @@ Es un fenómeno distinto y más fuerte que el del capítulo anterior. En Romanos
 
 **No establecido:** si Pablo usó un texto griego hoy perdido, citó de memoria, reformuló deliberadamente, o fundió Isaías 59:20 con otro pasaje.
 
-**Y un punto de contabilidad que importa más de lo que suena.** Esta es una divergencia de **texto fuente** —hebreo contra griego contra Pablo—. No es una divergencia de **traducción** —RVR1960 contra ESV contra CJB—. Categoría distinta, recuento distinto, y los dos recuentos no se pueden mezclar. Fundirlos inflaría ambos y describiría mal qué clase de incertidumbre carga este libro.
+**Y una distinción que importa más de lo que suena.** Esta es una divergencia de **texto fuente** —hebreo contra griego contra Pablo—. No es una divergencia de **traducción** —RVR1960 contra ESV contra CJB—. Categoría distinta, recuento distinto, y los dos recuentos no se pueden mezclar. Fundirlos inflaría ambos y describiría mal qué clase de incertidumbre carga este libro.
 :::
 
 Y el tercer elemento: Pablo glosa inmediatamente *todo Israel* con una profecía sobre apartar la impiedad **de Jacob**.
@@ -131,7 +131,7 @@ Y no se limita a Pablo. En el concilio de Jerusalén, Santiago resuelve la cuest
 
 Opciones, ninguna adoptada: que la Septuaginta conserve una lectura hebrea hoy perdida; que la autoridad apostólica alcance al uso que se hace de un texto; que el argumento no dependa en realidad de la frase divergente; que "lengua fuente" sea el marco equivocado para un escritor judío del primer siglo cuyas Escrituras circulaban en griego.
 
-**Sin resolver.** Queda archivada como pregunta permanente contra la metodología de este proyecto, y no contra la de nadie más.
+**Sin resolver.** Queda en pie como pregunta contra el método de esta investigación, y no contra el de nadie más, que es donde corresponde.
 :::
 
 Si *todo Israel* significara exclusivamente la asamblea combinada de judíos y gentiles, es difícil explicar por qué Pablo echa mano de una profecía sobre Jacob para explicarlo. Eso no elimina las lecturas más amplias del pueblo del pacto. Pone peso sustancial en que Israel siga siendo central — y lo registro como evidencia **intertextual**, no léxica.
@@ -139,7 +139,7 @@ Si *todo Israel* significara exclusivamente la asamblea combinada de judíos y g
 ::: openquestion
 **Pregunta abierta — «todo Israel», cuatro lecturas, ninguna elegida**
 
-<span class="gr">πᾶς Ἰσραήλ</span> *(pas Israēl)*: el Israel étnico o nacional; los elegidos dentro de Israel; el pueblo del pacto completo incluyendo gentiles; una restauración futura del Israel judío.
+<span class="gr">πᾶς Ἰσραήλ</span> (*pas Israēl*): el Israel étnico o nacional; los elegidos dentro de Israel; el pueblo del pacto completo incluyendo gentiles; una restauración futura del Israel judío.
 
 No lo resuelve el instinto teológico, incluido el mío. Queda abierto, como quedó cuando el capítulo 19 llegó a él desde el otro lado.
 :::
@@ -149,16 +149,16 @@ No lo resuelve el instinto teológico, incluido el mío. Queda abierto, como que
 > pero en cuanto a la elección, son amados por causa de los padres. Porque irrevocables son los dones y el llamamiento de Dios (Romanos 11:28-29)
 
 ::: wordstudy
-**Lengua original**
+***Ametamelēta* — irrevocable, y en primer lugar**
 
-<span class="gr">ἀμεταμέλητα</span> *(ametamelēta)* — "no sujeto a arrepentimiento, no lamentado, irrevocable".
+<span class="gr">ἀμεταμέλητα</span> (*ametamelēta*) — "no sujeto a arrepentimiento, no lamentado, irrevocable".
 
-Pablo la coloca **primera en la frase**: <span class="gr">ἀμεταμέλητα γὰρ τὰ χαρίσματα καὶ ἡ κλῆσις τοῦ Θεοῦ</span>. En griego, adelantar es enfatizar. La palabra que carga el peso es la que puso adelante.
+Pablo la coloca **primera en la frase**: <span class="gr">ἀμεταμέλητα γὰρ τὰ χαρίσματα καὶ ἡ κλῆσις τοῦ Θεοῦ</span>, lo que le da a la palabra un relieve marcado. Esa posición subraya el peso de «irrevocables», aunque el orden de las palabras no debe cargar por sí solo el argumento.
 
-La RVR1960 también la deja primera —*irrevocables son los dones*—, de modo que el lector hispano recibe el énfasis en el mismo lugar que el lector griego. No siempre ocurre; aquí sí.
+La RVR1960 también la deja primera —*irrevocables son los dones*—, de modo que el lector hispano encuentra la palabra en el mismo lugar que el lector griego. No siempre ocurre; aquí sí.
 :::
 
-¿Ha reemplazado Jehová a Israel? La respuesta de Pablo está disponible en su propio vocabulario y no necesito suministrar una. *Mē genoito*, dos veces. Injertado **en**, no plantado al lado. **Su propio** olivo. Amados por causa de los padres. Irrevocables, adelantado para enfatizar.
+¿Ha reemplazado Jehová a Israel? La respuesta de Pablo está disponible en su propio vocabulario y no necesito suministrar una. *Mē genoito*, dos veces. Injertado **en**, no plantado al lado. **Su propio** olivo. Amados por causa de los padres. Irrevocables, y en primer lugar.
 
 ¿Y la asamblea, por lo tanto, *se convierte* en Israel? Pablo tampoco dice eso, y el olivo es precisamente la imagen que se lo permitiría si quisiera. Las ramas injertadas en un árbol no son el árbol, y no son un segundo árbol. Comparten una raíz.
 
@@ -175,9 +175,9 @@ Pablo no cierra este argumento con un sistema. Lo cierra con misericordia —*pa
 No voy a fingir que eso resuelve nada. Pero un capítulo que termina en incomprensión declarada es un lugar extraño para edificar un sistema confiado, y he visto edificar sistemas confiados aquí, incluido uno mío.
 
 ::: whereweare
-**Dónde estamos.** Pablo niega dos veces, con su idioma más fuerte, que Dios haya desechado a su pueblo o que Israel tropezara para caer. El olivo es incorporación a un árbol ya enraizado, con la advertencia a los gentiles más larga que la promesa y con ramas naturales que pueden volver a injertarse en *su propio* olivo. El referente de la raíz queda abierto porque el lenguaje de identidad de este libro depende de él. *Houtōs* es adverbio, así que la cronología no se lee desde el *luego*. Y en 11:26 tres testigos dan tres preposiciones sin que Pablo coincida con ninguna fuente — una divergencia de texto fuente que no se mezcla con el recuento de traducciones y que prohíbe cualquier argumento basado en la dirección del Libertador. *Todo Israel* queda abierto; *irrevocables* no.
+**Dónde nos deja esto.** Pablo niega dos veces, con su idioma más fuerte, que Dios haya desechado a su pueblo o que Israel tropezara para caer. El olivo es incorporación a un árbol ya enraizado, con la advertencia a los gentiles más larga que la promesa y con ramas naturales que pueden volver a injertarse en *su propio* olivo. El referente de la raíz queda abierto porque el lenguaje de identidad de este libro depende de él. *Houtōs* es adverbio, así que la cronología no se lee desde el *luego*. Y en 11:26 tres testigos dan tres preposiciones sin que Pablo coincida con ninguna fuente — una divergencia de texto fuente que no se mezcla con el recuento de traducciones y que prohíbe cualquier argumento basado en la dirección del Libertador. *Todo Israel* queda abierto; *irrevocables* no.
 :::
 
 ::: earned
-**Qué se ganó.** Romanos 9 a 11 está terminado, e Israel no ha quedado borrado de él. Lo cual deja la pregunta histórica sobre la que giraba de verdad la discusión original, y que ningún pasaje de Romanos puede zanjar: ¿ya había salido la buena noticia antes del año 70?
+**La pregunta que esto deja.** Romanos 9 a 11 está terminado, e Israel no ha quedado borrado de él. Lo cual deja la pregunta histórica sobre la que giraba de verdad la discusión original, y que ningún pasaje de Romanos puede zanjar: ¿ya había salido la buena noticia antes del año 70?
 :::

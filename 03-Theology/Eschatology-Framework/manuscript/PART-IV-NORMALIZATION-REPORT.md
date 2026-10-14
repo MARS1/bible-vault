@@ -2,7 +2,7 @@
 title: "Part IV — Normalization Report (EN)"
 type: manuscript-report
 created: 2026-10-13
-status: en-approved
+status: approved
 related: "[[PART-III-NORMALIZATION-REPORT]], [[10-manuscript-architecture]], [[EDITORIAL-RULES]]"
 ---
 
@@ -89,6 +89,70 @@ Bare-bold Greek in a blockquote (ch20, Rom 9:6) wrapped. All old `*(x)*` transli
 1. Approve the 15 titles (12 + 2 commentary prefixes dropped + 1 suffixed historical title) as a set?
 2. N1: dropping the clause about Part I's correction. OK?
 
-## E. Spanish Part IV
+## E. Spanish Part IV: normalization (2026-10-13). Revision 1.1 (2026-10-14): APPROVED.
 
-Waits for English approval. The checker shows ES Part IV: 8 decorative marks, 24 gloss gaps, 26 conventions (including any «deuda declarada» and «pequeña temporada»). Before the Spanish report is written, every row above will be walked against the Spanish files (standing rule since Part III).
+**r1.1 review fixes**, verified in the rebuilt PDF (61 pages, all gates OK, normalization 0):
+
+| # | Where | Before | After |
+|---|---|---|---|
+| S1 | ch20 | «e **importarle** un marco judío/gentil» (*importarle* = "to matter to him") | «e **imponerle** un marco judío/gentil» |
+| S2 | ch24 | «…de esa misma manera proactiva **o si no esté pecando**» (ungrammatical) | «…**o, si no lo hace, esté pecando**» |
+| S3 | ch24 summary | «con **el participio *id*** compartiendo su fuerza»: called the RVR1960 imperative the Greek participle | «con ***poreuthentes* —el participio de «ir»—** compartiendo la fuerza del imperativo y sin volverse opcional» |
+
+A search of the whole Spanish edition found neither error elsewhere. ch19's «dejó de importarle a Pablo» is correct usage.
+
+
+**Result:** normalization 0 in every category. Before: 8 decorative marks, 2 unstyled grades, 6 labels, 24 gloss gaps, 26 conventions. Build: 61 pages, 0 mojibake, 0 sections missing, register 0, terminology 0. The original-language gate now passes; **before this pass it failed** on a bare γῆ / οἰκουμένη in ch23's RVR1960 note (wrapped and glossed). Gate OK on 20 pages and 6 table pages, all checked visually. Provenance passages (ch21 opening, ch24 "Lo que esto le hace al argumento original") untouched.
+
+### E1. Every English row walked against the Spanish files
+
+| EN row | ES counterpart | Status |
+|---|---|---|
+| 15 titles | ch20 «Isaac e Ismael — lo que muestra la primera demostración» · «Éxodo 33:19, después del becerro de oro» · «La imaginería profética de Romanos 9 — el freno, en las dos direcciones»; ch21 «*Telos* en Romanos 10:4» · «Romanos 10:14–15 — lo que establece la cadena» · «*Kēryssō* y *apostellō*»; ch22 «Dos negaciones con *mē genoito*» · «*Enkentrizō* — injertar» · «"La plenitud de las naciones"» · «*Ametamelēta* — irrevocable, y en primer lugar»; ch23 «Los términos de alcance, comprobados en el griego» · «El freno contra mí mismo, con igual fuerza»; ch24 «Mateo 28:19 — el verbo finito» · «Mateo 28 y la misión a las naciones» · «El concilio de Jerusalén, y la categoría que ya existía» | done (15/15) |
+| «Comentario del investigador —» prefix (ch20, ch23) | dropped, titles kept | done |
+| ch22 EXPLICIT TEXT / CONTRADICT | «son texto explícito, y juntas su evidencia <span>contradice</span>…» | done |
+| status words in caps (ch20–22, ch24) | ESTABLECE / NO ESTABLECE(N) / SÍ / NO / NO ESTABLECIDO → lowercase bold | done |
+| ch21 status table | ESTABLECIDO / NO ESTABLECIDO por este texto → Establecido / No establecido… | done |
+| ch23 emoji tables (❌✅⏳❗) | No presente · Presente · Fuerte · Requiere todavía…; Claramente sí ×3 · Exige prueba todavía… | done; words unchanged |
+| ch21 translation map ✓/✗ | ES has no CJB table (its ch21 note is about RVR1960 instead) | n/a |
+| ch23 ❗ «citado literalmente de LXX Salmo 18:5» | ❗ removed | done |
+| ch20 Rom 9:6 bare-bold Greek | ES already wrapped | already correct |
+| transliterations | `*(x)*` → `(*x*)` throughout (except in table cells, as in EN); added *hē diathēkē*, *gēn*, *oikoumenēs*, *gē*, *oikoumenē*, *baptizontes*, *didaskontes* | done |
+| ch21 "not cashing it" | «no la cobro» → «no la uso» | done |
+| ch21 "this project has produced" | the sentence is absent in ES (no CJB section) | n/a |
+| ch22 heading "cannot cash" | «no puedo cobrar» → «no puedo zanjar» | done |
+| ch22 "bookkeeping point" | «punto de contabilidad» → «una distinción» | done |
+| ch22 "filed … this project's methodology" | «Queda archivada … de este proyecto» → «Queda en pie como pregunta contra el método de esta investigación, y no contra el de nadie más, que es donde corresponde.» | done |
+| ch23 "I retrieved" / box "verified by retrieval" / "collapses under retrieval" / "my own retrieval" | «Recuperé…» → «Puse uno al lado del otro, en griego…»; title as above; «se derrumba bajo recuperación» → «no sobrevive a una comprobación del griego»; «mi propia recuperación» → «mi propia comprobación» | done (4/4) |
+| ch23 "Tier B" | «inferencia de Nivel B» → «una interpretación extraída de un patrón narrativo» | done |
+| ch24 "over-collect" | «No quiero cobrar de más con esto.» → «No quiero hacerle decir a esto más de lo que dice.» | done |
+| N1 ch24 | «…con exactitud, porque la Parte I ya tuvo que corregir mi propio relato de ella una vez.» → «…con exactitud.» | done |
+| r1.1 R1 ch22 box | «En griego, adelantar es enfatizar. La palabra que carga el peso es la que puso adelante.» → «…, lo que le da a la palabra un relieve marcado. Esa posición subraya el peso de «irrevocables», aunque el orden de las palabras no debe cargar por sí solo el argumento.» The RVR1960 line that follows: «recibe el énfasis» → «encuentra la palabra» (same claim softened) | done |
+| r1.1 R1b ch22 body | «Irrevocables, adelantado para enfatizar.» → «Irrevocables, y en primer lugar.» | done |
+| r1.1 R2 ch22 summary | «*Todo Israel* queda abierto; *irrevocables* no.» was already grammatical | already correct |
+| section labels | «Dónde estamos.» / «Qué se ganó.» → «Dónde nos deja esto.» / «La pregunta que esto deja.» (5 chapters) | done |
+
+### E2. Spanish-only
+
+- **D2 (standing pattern):** three «deuda declarada» items, all verification bookkeeping, became hidden `<!-- SPANISH-SPECIFIC: … -->` comments with their full text kept: the ch20 box (Rom 9:4-5, 9:7-8, Mal 1:2-3, Ex 33:19, Gen 25:23); the ch21 box (Rom 10:14-15); and in ch24 the «Deuda declarada» **paragraph** inside the RVR1960 note (Mt 28:20). That note's reader-facing content ("id, y haced discípulos", the translation-witness brake) stays printed.
+- ch20 «La variante ya quedó registrada en la Parte I» → «ya apareció en la Parte I» (still a cross-reference to ES ch5).
+- ch21 note title: «MÁS tentador» → «más tentador» (shouting caps).
+
+### E3. Sweep for process vocabulary the checker can't see
+
+proyecto · se esperaba · registr- · archiv- · etapa · inconcluso · cobr- · gast- · deuda · anot- · pendiente · recuper- · contabil- · descarg- · Nivel · «Comentario del investigador». Printed hits that remain, each checked:
+
+- «lo registro» / «Registrado como» (ch20, ch22, ch23): first-person record of evidence strength, as in EN ("I record it", "Recorded as").
+- «Anoto el patrón» (ch21): EN "I am noting the pattern".
+- «César no le cobró impuestos» (ch23): literal.
+- «descargada/descargado» (ch23, ch24): literal "discharged", as in EN.
+
+Everything else now appears only in frontmatter or hidden comments.
+
+### E4. Bilingual integrity
+
+No theological or evidentiary divergence. Grades and their strength match EN, the provenance passages are intact, and the asymmetries survive (ch21 sending clause; ch23 D still requires proof; ch24 recursive argument not refuted).
+
+## F. Decision for you
+
+None new. D2 applied as the standing pattern; the ch24 case is a paragraph inside a reader-facing note rather than a whole box. Flagged so you can see it.
