@@ -1,0 +1,14 @@
+Edition:        Español (es)
+Part:           5  Parte V: Las edades, la resurrección y la puerta a Apocalipsis
+Milestone:      d2-normalized
+Source commit:  8b414af982358c649ab0bbd5f4f2eeb1e4d59751
+Commit date:    2026-10-14
+Tree state:     source committed at this commit
+Built:          2026-10-14
+Extent:         15,055 words, 78 pages
+
+NOTE
+Book One consolidation: Part V ES normalized to the Part VIII-IX benchmark, r1.1 approved 2026-10-14. See PART-V-NORMALIZATION-REPORT.md section F.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit 8b414af
