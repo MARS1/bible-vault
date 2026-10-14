@@ -1,0 +1,14 @@
+Edition:        English (en)
+Part:           4  Part IV: Israel, the Nations, and the Commission
+Milestone:      d2-normalized
+Source commit:  509006012b609a831c97accd5ed0f230ae10bdc0
+Commit date:    2026-10-13
+Tree state:     source committed at this commit
+Built:          2026-10-13
+Extent:         10,404 words, 57 pages
+
+NOTE
+Book One consolidation: Part IV EN normalized to the Part VIII-IX benchmark, r1.1 approved 2026-10-13. See PART-IV-NORMALIZATION-REPORT.md.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 5090060
