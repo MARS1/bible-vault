@@ -1,0 +1,14 @@
+Edition:        English (en)
+Part:           6  Part VI: Revelation, Read Through Earlier Scripture
+Milestone:      d2-normalized
+Source commit:  3a9b824fea60d25e208b44304db7b8fc21e09729
+Commit date:    2026-10-14
+Tree state:     source committed at this commit
+Built:          2026-10-14
+Extent:         41,435 words, 225 pages
+
+NOTE
+Book One consolidation: Part VI EN normalized to the Part VIII-IX benchmark, r1.1 approved 2026-10-14. See PART-VI-NORMALIZATION-REPORT.md.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 3a9b824
