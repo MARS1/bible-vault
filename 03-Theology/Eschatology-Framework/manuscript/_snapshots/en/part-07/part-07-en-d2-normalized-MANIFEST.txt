@@ -1,0 +1,11 @@
+Edition:        English (en)
+Part:           7  Part VII: Testing the Case Against Itself
+Milestone:      d2-normalized
+Source commit:  2315231aeb4878dc8f15f2b96dd0a7f381c4f81e
+Commit date:    2026-10-14
+Tree state:     source committed at this commit
+Built:          2026-10-14
+Extent:         34,825 words, 197 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 2315231
