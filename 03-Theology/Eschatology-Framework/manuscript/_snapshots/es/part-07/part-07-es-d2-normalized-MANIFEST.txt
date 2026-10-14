@@ -1,0 +1,11 @@
+Edition:        Español (es)
+Part:           7  Parte VII: Poniendo a prueba el caso contra sí mismo
+Milestone:      d2-normalized
+Source commit:  cbb75ef4f8e6b3b09600929a58f96dc95a3185dc
+Commit date:    2026-10-14
+Tree state:     source committed at this commit
+Built:          2026-10-14
+Extent:         37,682 words, 214 pages
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit cbb75ef
