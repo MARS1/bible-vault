@@ -2,13 +2,15 @@
 title: "Part VII — Normalization Report (EN)"
 type: manuscript-report
 created: 2026-10-14
-status: en-approved-pending-r1.1-confirmation
+status: en-approved
 related: "[[PART-VI-NORMALIZATION-REPORT]], [[10-manuscript-architecture]], [[EDITORIAL-RULES]]"
 ---
 
 # Part VII — Normalization Report (English)
 
-## Revision 1.1: review fixes applied (2026-10-14)
+## Revision 1.1: review fixes applied (2026-10-14). English Part VII APPROVED.
+
+The reviewer re-checked the four r1.1 items (the γῆ audit, the false prophet and signs, the markdown, the 666 wording) and approved them all. The English snapshot is frozen as `d2-normalized`.
 
 All six §E decisions are approved: D1 (all 24 trails stay hidden), the ch46 opening, N7/N8, N12/N14/N19, N20/N21, and lower-case labels. The four review fixes, verified in the rebuilt PDF:
 - 197 pages, every gate passing, normalization 0;
