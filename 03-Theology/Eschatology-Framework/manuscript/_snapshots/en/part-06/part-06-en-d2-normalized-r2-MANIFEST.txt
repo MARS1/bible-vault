@@ -1,0 +1,14 @@
+Edition:        English (en)
+Part:           6  Part VI: Revelation, Read Through Earlier Scripture
+Milestone:      d2-normalized-r2
+Source commit:  265c14b2dce04bf8ecbc809f45cd6d6857af2f4f
+Commit date:    2026-10-14
+Tree state:     source committed at this commit
+Built:          2026-10-14
+Extent:         41,452 words, 225 pages
+
+NOTE
+Replaces d2-normalized (120e5c3) after the ES Part VI review (F4): ch38 'nearly verbatim' x3 -> 'closely parallel... though not verbatim', mirroring ES S1. No grade moved.
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 265c14b
