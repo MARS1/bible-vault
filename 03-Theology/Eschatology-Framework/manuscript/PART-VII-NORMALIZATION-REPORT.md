@@ -2,7 +2,7 @@
 title: "Part VII — Normalization Report (EN)"
 type: manuscript-report
 created: 2026-10-14
-status: en-approved
+status: approved (EN + ES)
 related: "[[PART-VI-NORMALIZATION-REPORT]], [[10-manuscript-architecture]], [[EDITORIAL-RULES]]"
 ---
 
@@ -207,6 +207,135 @@ Kept as ordinary English, as in Parts I–VI: "spent" for time, resurrection "st
 5. **N20 and N21:** ch46 "Chapter 2 + my notes" for the scale's provenance, and the quarantined proposal named plainly. OK?
 6. **Lower-case confidence labels (§A2)**, matching Part VIII. OK?
 
-## F. Spanish Part VII
+## F. Spanish Part VII: APPROVED (2026-10-14)
 
-This waits for English approval. Every row above will be walked against the Spanish files before the Spanish report is written (the standing rule).
+r1.1 was confirmed by the reviewer and Spanish Part VII is frozen as `d2-normalized`. **Part VII is CLOSED in both editions.** The ch47 "two structural grounds" pointer stays on BIBLE-3c7 as a full-book continuity issue.
+
+### Spanish revision 1.1: review fixes applied (2026-10-14), awaiting a quick confirmation before the freeze
+
+The review approved S1–S8, the cleaned Spanish notes printed (F3), and D2 for the seven closing boxes. Applied fixes:
+
+| # | Where | Fix |
+|---|---|---|
+| ES-R1 | ch40, Matt 27:52–53 | Restored to the English level of evidence: **πολλὰ σώματα (*polla sōmata*)** · **ἠγέρθησαν (*ēgerthēsan*)** · 27:53 «**después de su resurrección**, μετὰ τὴν ἔγερσιν αὐτοῦ» (the Spanish meaning sits beside the four-word phrase, as in the English). Previously it had only σώματα |
+| ES-R2 | ch41 | ***complejo*** defined right after the chapter question (from English) |
+| ES-R3 | ch41, Teodoción box | «**Por qué importa la comparación.**» paragraph (from English) |
+| ES-R4 | ch43 | **Antiochus IV person box** («Antíoco IV Epífanes · reinó del 175 al 164 a. C.») before the control case (from English) |
+| ES-R5 | ch44 | ***complejo paulino*** defined before the verdict table, and the **plain-language Greek case primer** (nominative / accusative / genitive) plus "the question the table tests" before the 20:4 table. The table rows are in the English plain form («**acusativo** — *las almas*, el objeto de *vi*» · «genitivo — *de los que habían sido decapitados*» · «**nominativo** — *los que*, un sujeto que abre una cláusula nueva» · «verbos finitos — verbos con su propio tiempo y sujeto —») |
+| ES-R6 | every "question this table answers" line in the English, ten in all | ch41 the scorecard's two questions, the Isaiah/Matthew 24:29 table · ch42 the Daniel 9:27/11:31/12:11 table («la columna que hay que mirar es el artículo») · ch43 the four-forms table, the Synoptics table (with the **sinópticos** definition), the motif table, the Daniel 7:13 witnesses, the Matthew/John cloud table, the Theodotion-varies table · ch45 the Isaiah 11:4 table · ch46 the Daniel 7:21 table (verb / noun / preposition / case) |
+| ES-R7 | ch43, Mark 13:14 | Also carried from the English, under the same "wherever English has them" rule: the **grammatical-gender explanation** before the masculine-participle datum (βδέλυγμα (*bdelygma*) neuter / ἑστηκότα (*hestēkota*) masculine), «Por qué podría importar», and the manuscript note on the participle's form |
+
+Not carried: the English definition of *articular / anarthrous* (ch43). The Spanish says «con artículo / sin artículo» throughout and never uses the technical terms.
+
+**Rebuild:**
+- **214 pages**, normalization 0 in every category;
+- 37,874 / 37,682 words recovered, 0 mojibake;
+- original-language gate passes (89 pages, all wrapped); table gate passes (49 table pages, 9 continued with a repeated header, 0 split rows);
+- **0 raw `**`**.
+- **Pages checked visually:** 6, 22, 26, 99, 104, 138, 143, 179.
+
+### Draft record (as reviewed)
+
+**Result:** normalization 0 in every category. Before the pass:
+
+| Category | Count |
+|---|---|
+| decorative marks | 595 |
+| grades | 16 |
+| labels / process words | 70 (mostly «deuda» boxes) |
+| gloss gaps | 167 |
+| structure | 11 |
+| conventions | 36 |
+
+**The build:**
+- **208 pages** (the last snapshot `d1-reader1` had 252); 36,804 / 36,623 words recovered.
+- Terminology and register pass; 0 mojibake.
+- The original-language gate passes on 89 pages, all wrapped.
+- The table gate passes on 47 table pages (7 continue with a repeated header), and there are **0 raw `**`** in the PDF.
+- **Pages checked visually:** 14, 15, 25, 98, 190, 191, 207.
+
+**The Spanish inherits the corrected γῆ audit from the start** (82 occurrences / 67 verses / 18 chapters, land still possible, territorial 13:11 not neutral, no grade moved). It also inherits the false-prophet wording, the 666 narrowing and the markup cleanup.
+
+### F1. Row-by-row walk of the English edit list
+
+| EN row | Spanish |
+|---|---|
+| Titles (A1) | ✓ «La transformación de los vivos en Pablo — un criterio de falsación, no una dificultad» · «1 Tesalonicenses 4 y la primera resurrección — correspondencia, no identidad» · «La cadena creciente — punto de control 5». TEODOCIÓN → **Teodoción**. *(Spanish ch43 has no Antiochus person box; see F4.)* |
+| Grades and labels (A2) | ✓ ch46: all 16 grade words are spans (*contradice / permite / apoya / exige*); "permite → apoya" is worked into a sentence. Confidence labels are lower case (MUY ALTO → muy alto…); VIVOS → *vivos* |
+| Marks (A3) | ✓ all 595 removed; table ✅/❌ → «sí» / «ausente» / «—»; ch45 chain → bullet list; chain boxes break one link per line |
+| Glosses (A4) | ✓ about 100 inserted (same transliterator, checked by eye); Hebrew as in EN, plus עִם (*im*, *con*) |
+| D1 trails (A5) | ✓ all 24 EN trails hidden at their Spanish counterparts (ch40 opening section · ch41 archive section, verification list, twelve hours, fabricated parallel · ch42 miscount, "archive closure" (plus the Spanish «carril / eval» agent diary) · ch43 festival diary, «la deuda que falló tres veces» → «El Daniel griego de Teodoción», «deuda pagada» box · ch44 «dos deudas» box · ch45 «reporte delegado» box, RC-01 → recapitulation candidate · ch46 discipline breach, «nunca se leyó», row-3 diary, «me venía repitiendo») |
+| Process words (A6) | ✓ all rows; Spanish forms: «doce etapas», «levanta la factura», «saldada», «se debe» ×4, «deuda narrativa… la paga», «la venía gastando», «este proyecto» ×9, «este archivo» ×2, «en mano», «carriles», «esta mañana», «cincuenta / treinta etapas», «Lo archivé», «le debo al lector», «Cada registro…» |
+| Structure (A7) | ✓ eleven `---` + `#` → `##` |
+| N1 | ✓ *rabbim* «en la Parte V» |
+| N2 | ✓ «trece» → «catorce» |
+| N3 | ✓ «nueve Partes» → «seis» |
+| N4 | ✓ (hidden with its section) |
+| N5 | ✓ «en la Parte VI» |
+| N6 | ✓ «la cautela del *hasta*, escrita dos Partes atrás» (ch29's name) |
+| N7 | ✓ «exactamente como lo advirtió el capítulo 10»; «Yo venía dando a entender que eran tres» removed |
+| N8 | ✓ «En el capítulo 10 escribí… *la misma fórmula y el mismo lenguaje de reunión*… **La mitad de la reunión es falsa.**» |
+| N9 | ✓ «una afirmación que este libro hizo en la Parte II» |
+| N10 | ✓ «siglos antes» → «mucho antes» |
+| N11 | ✓ «el capítulo pasado» |
+| N12 | **Not needed:** Spanish ch44 already says «quinto sello» in both places |
+| N13 | ✓ «al comienzo de esta Parte» |
+| N14 | ✓ «la señal de la abominación, las preposiciones de las nubes» |
+| N15 | ✓ the examples now point at printed findings |
+| N16 | ✓ «Tres capítulos atrás» |
+| N17 | ✓ «el candidato de recapitulación cercado el capítulo pasado» |
+| N18 | ✓ «El capítulo pasado» |
+| N19 | ✓ «tres capítulos antes de la escena de la destrucción» |
+| N20 | ✓ «El capítulo 2 fijó la escala… y mis notas de esas primeras semanas…» |
+| N21 | ✓ «la propuesta de cronología alternativa… que sigue en cuarentena» |
+| N22 | ✓ «en el capítulo 41» |
+| R1 (false prophet) | ✓ 16:13 named · 16:14 the spirits perform the signs · 19:20 ties him to the signs = the second beast's description (13:13–14) · 20:10 no sign-vocabulary |
+| R2 (γῆ) | ✓ the whole box rebuilt from the full sweep (82 / 67 / 18; dwellers 10, kings 8, earth + sea 11 verses; land kept open at 1:7 and 18:24; "dominant usage"). «Dónde nos deja esto» updated |
+| R3 (markup) | ✓ *tipo* / *instancia*; **and the same «qué **hace** la evidencia» leak** → *hace* |
+| R4 (666) | ✓ «Un cálculo con un solo nombre no puede establecer unicidad…» |
+
+### F2. Spanish-only fixes (the Spanish lagged behind facts the frozen English already had)
+
+| # | Where | Before | After | Why |
+|---|---|---|---|---|
+| **S1** | ch43 heading + «Dónde estamos» | «El caso de control, y la pregunta **que no pudo responder**» · «**falló en responder** la única pregunta para la que existía» | «…la pregunta **para la que se construyó**» · «una vez leído su griego **respondió** la pregunta para la que existía: … con las palabras de Daniel, aunque no en la forma exacta de Mateo» | **Internal contradiction**: the chapter's own finding answers it (1 Macc 1:54 uses Daniel's phrase). The English was fixed in the September reader revision |
+| **S2** | ch45 | «el texto se detiene a decir que la bestia y el falso profeta ***ya están allí***» | «20:10 nombra el lago como el lugar *donde también la bestia y el falso profeta* — ὅπου… *El griego ahí no tiene verbo, ni palabra para* ya…» | **Factual** (BIBLE-elf, fixed in EN in September): 20:10 has no verb and no ἤδη. Spanish ch41 and ch46 already said so; ch45 contradicted them |
+| **S3** | ch42 | «**La lista no es exhaustiva.** Romanos, Filipenses… no fueron revisados» | «**La lista está completa.** Se revisó cada carta que lleva el nombre de Pablo…» | The frozen English reports the completed sweep |
+| **S4** | ch46 | «❌ **Y el pasaje sobre la fecha nunca se leyó…**», directly above «Desde entonces se leyó» · closing «**Y no pude leer la única página…**» | both removed or replaced with the English result (*hacia el final del reinado de Domiciano*); «traducción de la versión inglesa, señalada como tal» kept | Contradicted the passage printed two lines later |
+| **S5** | ch40 | Matt 27 «antes reportada, ahora verificada» + «Si eso se sostiene al volver a recuperarlo… se cae» + «Si se sostiene, la Escritura…» · «**El control, si se sostiene:**» · Heb 11:35 «Si se sostiene:» | stale conditionals removed («Así que la Escritura…», «**El control:**», «Lo que el griego establece:») | The English prints these as verified; the Spanish kept the pre-verification hedges |
+| **S6** | ch40 | «Juan 6 no fue recuperado» | «el griego de Juan 6 se trabaja en el capítulo siguiente» | ch41 sweeps all six occurrences in Greek |
+| **S7** | ch46 *tierra* note | «deciden por el lector **treinta y cinco** veces» · «treinta y cinco apariciones, ninguna territorial» | «ochenta y dos» · «ninguna que nombre un territorio» | Follows R2 |
+| **S8** | ch41, ch46 | **LXX** and **parusía** used undefined; «isopsefia» undefined | the three English reader definitions carried in (Septuagint/LXX note, *parousía* before the table, *isopsefia* = the Greek counterpart of *gematría*, "vista en la Parte VI") | Terms the Spanish already used, with no definition anywhere in Spanish |
+
+### F3. Spanish-only notes: kept printed, bookkeeping hidden (the Part V–VI pattern)
+
+- **Kept printed, with the labels `SYNC-0xx`, `SPANISH-SPECIFIC`, `ENGLISH-SPECIFIC en origen` and all talk of «la edición inglesa / esta edición» removed:**
+  - ch40 RVR1960 breaks ἔζησαν / οὐκ ἔζησαν;
+  - ch40 Heb 11:35 «mejor resurrección» kept in RVR1960;
+  - ch41 RVR1960 «están» at 20:10 is translation syntax;
+  - ch41 *juntar* / *recogerán*;
+  - ch42 «arrebatamiento» shares the verb's root;
+  - ch42 ναός / ἱερόν (a check still pending in Spanish);
+  - ch43 «abominación desoladora» as a fixed expression;
+  - ch44 *vivieron* / *volvieron a vivir*;
+  - ch45 the purpose clause and «potestad»;
+  - ch46 13:18 without the article (pending);
+  - ch46 *tierra*.
+- Every «no fue recuperado… **Candidato SYNC**» → «no lo he comprobado».
+- **D2:** the closing «Nota textual — deuda declarada» box in all seven chapters → hidden `SPANISH-SPECIFIC` (the lists of described passages and SYNC-020 bookkeeping). The inline «*(Descrito, no citado.)*» markers stay, so the reader still sees which passages are paraphrased.
+- **Rewritten from bookkeeping to reader-facing:** ch41 «dos verbos de dormir, y una deuda que es de esta edición» → «dos verbos de dormir» (the Greek fact + "RVR1960 not checked"); ch41 «un sustantivo que la traducción agrega» now names the ESV directly instead of "la edición inglesa documentó…".
+
+### F4. Decisions for you
+
+1. **S1–S8:** the Spanish now takes the facts and definitions the frozen English already has. OK?
+2. **English reader-revision additions the Spanish never received** (the Spanish `d1-reader1` was approved without them):
+   - the *complejo paulino* definition and the Greek-cases primer before the 20:4 table (ch44);
+   - the Antiochus person box (ch43);
+   - the "question this table answers" lines (ch41–ch46);
+   - Theodotion's "Why the comparison matters" paragraph (ch41);
+   - the *complex* word definition (ch41).
+
+   None is needed to make a Spanish term readable. Carry them now, or leave them for the full-book parity audit?
+3. **Spanish-only notes:** kept printed in their cleaned form (F3). OK?
+4. D2 for the seven closing «deuda declarada» boxes. OK?
+

@@ -18,20 +18,20 @@ La pregunta es: **¿qué evento describió Pablo realmente, qué les ocurre resp
 
 El orden importa y no es opcional. Tengo que establecer qué **clase** de evento describe Pablo antes de pedirle evidencia a la historia — porque si no, estaría buscando algo que no definí. Revisar historiadores del primer siglo antes de eso es buscar una cosa no especificada, y eso siempre encuentra algo.
 
-## Y en castellano hay un problema que la edición inglesa no tiene
+## Y en castellano hay un problema propio
 
 ::: finding
-**Hallazgo — el peligro del nombre** `SPANISH-SPECIFIC`
+**Hallazgo — el peligro del nombre**
 
 En inglés, el verbo del versículo y el nombre del sistema son **dos palabras distintas**: una viene del vocabulario común, la otra del latín. Un lector inglés puede oír el verbo sin oír la doctrina.
 
-**En castellano no.** El nombre del sistema —*el arrebatamiento*— está formado sobre la **misma familia verbal** que las Biblias castellanas emplean convencionalmente para verter <span class="gr">ἁρπάζω</span>. Sustantivo y verbo comparten raíz.
+**En castellano no.** El nombre del sistema —*el arrebatamiento*— está formado sobre la **misma familia verbal** que las Biblias castellanas emplean convencionalmente para verter <span class="gr">ἁρπάζω</span> (*harpazō*). Sustantivo y verbo comparten raíz.
 
-❗ **Consecuencia: el lector español no puede oír el verbo sin oír el sistema.** El texto le llega ya cargado con un paquete de proposiciones que el verbo no contiene, y la carga viaja dentro de la propia palabra.
+**Consecuencia: el lector español no puede oír el verbo sin oír el sistema.** El texto le llega ya cargado con un paquete de proposiciones que el verbo no contiene, y la carga viaja dentro de la propia palabra.
 
-🛑 **Por eso el freno que sigue es *más* necesario en esta edición, no menos.** La edición inglesa puede decir "el término no es ilegítimo, pero el sistema es un agregado" y confiar en que la distancia entre las dos palabras sostenga la distinción. Aquí no hay esa distancia.
+**Por eso el freno que sigue es *más* necesario en castellano, no menos.** En inglés el término y el verbo son palabras distintas, y la distancia entre las dos sostiene la distinción. Aquí no hay esa distancia.
 
-⚠️ **Y una precisión que no voy a saltear:** cuál es exactamente la redacción de RVR1960 en 1 Tesalonicenses 4:17 **no fue recuperada** en la documentación de este proyecto. Lo que afirmo arriba es un hecho sobre el vocabulario teológico castellano, no una cita de un versículo. **Candidato a entrada SYNC, pendiente de recuperación.**
+**Y una precisión que no voy a saltear:** cuál es exactamente la redacción de RVR1960 en 1 Tesalonicenses 4:17 no la he comprobado. Lo que afirmo arriba es un hecho sobre el vocabulario teológico castellano, no una cita de un versículo.
 :::
 
 ## El verbo, y el versículo que deshizo mis suposiciones
@@ -47,13 +47,13 @@ Cada aparición del verbo simple en el Nuevo Testamento griego: **catorce. Seis 
 
 | Versículo | Quién o qué es tomado | Destino |
 |-------------------------|----------------------------------|----------------------------------|
-| Mateo 11:12 | el reino | ❌ ninguno enunciado |
-| Mateo 12:29 | los bienes de un hombre fuerte, saqueados | ❌ ninguno |
-| Mateo 13:19 | la palabra sembrada | ❌ ninguno |
-| Juan 6:15 | Yeshúa, para hacerlo rey | ❌ ninguno |
-| Juan 10:12 | las ovejas, por un lobo | ❌ ninguno |
-| Juan 10:28, 10:29 | los creyentes — **nadie puede** | ❌ negado |
-| ★ **Hechos 8:39** | **Felipe, por el Espíritu** | ★ **Azoto — un pueblo ordinario** |
+| Mateo 11:12 | el reino | ninguno enunciado |
+| Mateo 12:29 | los bienes de un hombre fuerte, saqueados | ninguno |
+| Mateo 13:19 | la palabra sembrada | ninguno |
+| Juan 6:15 | Yeshúa, para hacerlo rey | ninguno |
+| Juan 10:12 | las ovejas, por un lobo | ninguno |
+| Juan 10:28, 10:29 | los creyentes — **nadie puede** | negado |
+| **Hechos 8:39** | **Felipe, por el Espíritu** | **Azoto — un pueblo ordinario** |
 | Hechos 23:10 | Pablo, por soldados | la fortaleza |
 | 2 Corintios 12:2 | *un hombre en el Mesías* | el tercer cielo |
 | 2 Corintios 12:4 | el mismo hombre | <span class="gr">εἰς τὸν παράδεισον</span>, al paraíso |
@@ -65,9 +65,11 @@ Cada aparición del verbo simple en el Nuevo Testamento griego: **catorce. Seis 
 
 **Por lo tanto <span class="gr">ἁρπάζω</span> no codifica *llevado al cielo*.** En todos los casos el destino viene del **contexto** —una frase preposicional, o la narración que sigue— y nunca del verbo. Los dos destinos celestiales de 2 Corintios 12 vienen cada uno de una frase, *al tercer cielo* y *al paraíso*, igual que la fortaleza de Hechos 23.
 
-⚠️ **Un recuento corregido.** Un inventario anterior había fijado el recuento en trece al incluir el <span class="gr">συνηρπάκει</span> de Lucas 8:29. **Ese es <span class="gr">συναρπάζω</span>, un verbo compuesto**, y no pertenece entre las apariciones del simple — revisar la forma de cada palabra fue lo que lo detectó. El compuesto aparece cuatro veces y queda registrado aparte. Ese mismo inventario había pasado por alto Mateo 12:29 por completo. Y 2 Corintios 12:4 había quedado sin confirmar, porque el texto citado primero para él fue la segunda cláusula del versículo — *y oyó palabras inefables* — que no contiene el verbo. Leído completo, el versículo lo tiene: <span class="gr">ἡρπάγη εἰς τὸν παράδεισον</span>, *fue arrebatado al paraíso*. Los dos están ya en la tabla.
+El <span class="gr">συνηρπάκει</span> (*synērpakei*) de Lucas 8:29 no entra en el recuento: es <span class="gr">συναρπάζω</span> (*synarpazō*), un verbo compuesto, que aparece cuatro veces y queda registrado aparte.
 
-⚠️ *Una nota de edición: en Mateo 12:29 algunas ediciones impresas del griego leen el compuesto <span class="gr">διαρπάσαι</span> en su lugar, lo cual dejaría el recuento en trece. El versículo no tiene destino de ninguna de las dos formas, así que nada depende de ello.*
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): Un recuento corregido. Un inventario anterior había fijado el recuento en trece al incluir el <span class="gr">συνηρπάκει</span> de Lucas 8:29. Ese es <span class="gr">συναρπάζω</span>, un verbo compuesto, y no pertenece entre las apariciones del simple. Ese mismo inventario había pasado por alto Mateo 12:29 por completo. Y 2 Corintios 12:4 había quedado sin confirmar, porque el texto citado primero para él fue la segunda cláusula del versículo. Leído completo, el versículo lo tiene: <span class="gr">ἡρπάγη εἰς τὸν παράδεισον</span>. Los dos están ya en la tabla. -->
+
+*Una nota de edición: en Mateo 12:29 algunas ediciones impresas del griego leen el compuesto <span class="gr">διαρπάσαι</span> (*diarpasai*) en su lugar, lo cual dejaría el recuento en trece. El versículo no tiene destino de ninguna de las dos formas, así que nada depende de ello.*
 :::
 
 ::: finding
@@ -89,30 +91,30 @@ Cada una probada contra las apariciones, y cada una respondió que no:
 ## La palabra para "encuentro" tampoco resolvió la ruta
 
 ::: wordstudy
-**Estudio de palabra — <span class="gr">ἀπάντησις</span>**
+**Estudio de palabra — <span class="gr">ἀπάντησις</span> (*apantēsis*)**
 
 Tres apariciones, todas verificadas.
 
 | Versículo | Quién sale | Al encuentro de | Dirección **después** del encuentro |
 |-------------------------|--------------------|-----------------|--------------------------------|
-| **Mateo 25:6** | las vírgenes | el novio | ★ enunciada — **pero en cláusula aparte** |
-| **Hechos 28:15** | creyentes de Roma | Pablo | ❌ **no enunciada** |
-| **1 Tesalonicenses 4:17** | los creyentes vivos | el Señor | ❌ **no enunciada** |
+| **Mateo 25:6** | las vírgenes | el novio | enunciada — **pero en cláusula aparte** |
+| **Hechos 28:15** | creyentes de Roma | Pablo | **no enunciada** |
+| **1 Tesalonicenses 4:17** | los creyentes vivos | el Señor | **no enunciada** |
 
 En Mateo 25 el regreso es real — y está en el **versículo 10**, otro versículo, con **otro verbo**. El sustantivo no lo cargaba.
 
 En Hechos 28 los creyentes salen hasta el Foro de Apio. Después Pablo entra en Roma. **El texto nunca dice que quienes lo recibieron volvieron adentro con él.** Eso es inferencia, y una inferencia razonable, y es inferencia.
 
-★ **Y el cuasi-sinónimo aporta un contraejemplo limpio.** En Mateo 8:34 *toda la ciudad salió al encuentro de Yeshúa* — y después **le rogaron que se fuera de su región.** Salir al encuentro de alguien no implica siquiera darle la bienvenida, mucho menos escoltarlo.
+**Y el cuasi-sinónimo aporta un contraejemplo limpio.** En Mateo 8:34 *toda la ciudad salió al encuentro de Yeshúa* — y después **le rogaron que se fuera de su región.** Salir al encuentro de alguien no implica siquiera darle la bienvenida, mucho menos escoltarlo.
 
-📌 Dos palabras se mantienen separadas en vez de fundidas: Mateo 25:1 dice <span class="gr">ὑπάντησις</span> y 25:6 dice <span class="gr">ἀπάντησις</span> — **dos palabras distintas dentro de una misma parábola**, con una variante manuscrita reportada en 25:1 cuyas siglas no fueron recuperadas.
+Dos palabras se mantienen separadas en vez de fundidas: Mateo 25:1 dice <span class="gr">ὑπάντησις</span> (*hypantēsis*) y 25:6 dice <span class="gr">ἀπάντησις</span> — **dos palabras distintas dentro de una misma parábola**, con una variante manuscrita reportada en 25:1 cuyos testigos no he examinado.
 
-🛑 **Y el famoso argumento de la recepción cívica está reportado, no verificado.** La afirmación de que este sustantivo es vocabulario helenístico técnico para recibir a un dignatario y escoltarlo a la ciudad descansa en papiros e inscripciones. **No se consultó ninguna fuente papirológica primaria.** No puede citarse como establecido — en ninguna de las dos direcciones.
+**Y el famoso argumento de la recepción cívica está reportado, no verificado.** La afirmación de que este sustantivo es vocabulario helenístico técnico para recibir a un dignatario y escoltarlo a la ciudad descansa en papiros e inscripciones. **No se consultó ninguna fuente papirológica primaria.** No puede citarse como establecido — en ninguna de las dos direcciones.
 :::
 
 ## Y entonces noté lo que Pablo no dice
 
-1 Tesalonicenses 4:17 tiene a los vivos siendo **arrebatados** juntamente con ellos **en las nubes** al encuentro del Señor **en el aire**; y así estarán **siempre con el Señor**. *(Descrito, no citado.)*
+1 Tesalonicenses 4:17 tiene a los vivos siendo **arrebatados** juntamente con ellos **en las nubes** al encuentro del Señor **en el aire**; y así estarán **siempre con el Señor**. (*Descrito, no citado.*)
 
 ::: finding
 **Hallazgo — después del encuentro, Pablo no enuncia ninguna dirección de movimiento**
@@ -128,7 +130,7 @@ Quise que este pasaje resolviera una geografía durante todo el tiempo que llevo
 
 Dos detalles espaciales que vale registrar sin construir sobre ellos.
 
-**Pablo usa dos palabras distintas para las dos zonas, con un versículo de diferencia.** El Señor desciende del <span class="gr">οὐρανός</span> en 4:16; el encuentro ocurre en el <span class="gr">ἀήρ</span> en 4:17. No son la misma palabra y Pablo las puso en versículos consecutivos.
+**Pablo usa dos palabras distintas para las dos zonas, con un versículo de diferencia.** El Señor desciende del <span class="gr">οὐρανός</span> (*ouranos*) en 4:16; el encuentro ocurre en el <span class="gr">ἀήρ</span> (*aēr*) en 4:17. No son la misma palabra y Pablo las puso en versículos consecutivos.
 
 Y **el único otro uso que Pablo hace de <span class="gr">ἀήρ</span> como dominio es el hostil** — el *príncipe de la potestad del aire* de Efesios 2:2.
 
@@ -137,9 +139,9 @@ Y **el único otro uso que Pablo hace de <span class="gr">ἀήρ</span> como do
 
 La construcción teológica se escribe sola: *el encuentro ocurre en el dominio del usurpador, y ese es el punto.*
 
-🛑 **Eso es una construcción teológica, no un hallazgo léxico.** Efesios 2:2 es un versículo, en otra carta, sobre otro tema. La palabra aparece **siete veces** en el Nuevo Testamento — un recuento armado primero desde una concordancia en inglés, y desde entonces confirmado completo contra el griego mismo — y solo una de las siete hace del aire un dominio hostil.
+**Eso es una construcción teológica, no un hallazgo léxico.** Efesios 2:2 es un versículo, en otra carta, sobre otro tema. La palabra aparece **siete veces** en el Nuevo Testamento, y solo una de las siete hace del aire un dominio hostil.
 
-Un versículo no puede cargar esa síntesis. El dato se registra y la síntesis se retiene, para que una etapa posterior la construya bien o no la construya.
+Un versículo no puede cargar esa síntesis. El dato se registra y la síntesis se retiene, para que pueda construirse bien más adelante, o no construirse.
 :::
 
 ## Hechos 1 especifica manera, y nada más
@@ -148,15 +150,15 @@ Un versículo no puede cargar esa síntesis. El dato se registra y la síntesis 
 
 **La frase especifica *manera*. No especifica lugar, visibilidad, público ni momento.**
 
-🛑 Así que Hechos 1:11 no puede fundirse en silencio con el *todo ojo lo verá* de Apocalipsis 1:7. La afirmación de visión universal es de Apocalipsis; la afirmación de manera es de Hechos. Afirmaciones distintas, libros distintos, y no las combino sin un argumento.
+Así que Hechos 1:11 no puede fundirse en silencio con el *todo ojo lo verá* de Apocalipsis 1:7. La afirmación de visión universal es de Apocalipsis; la afirmación de manera es de Hechos. Afirmaciones distintas, libros distintos, y no las combino sin un argumento.
 
 Y los pasajes de las nubes tampoco se aplanan — el sujeto gramatical difiere cada vez:
 
 | Pasaje | Preposición | Quién actúa |
 |-------------------------|-------------|-----------------------------------|
-| **Hechos 1:9** | — | ★ **la nube** es el sujeto; lo recibe |
+| **Hechos 1:9** | — | **la nube** es el sujeto; lo recibe |
 | **Mateo 24:30** | <span class="gr">ἐπί</span> | **el Mesías** viene *sobre* ellas |
-| **1 Tesalonicenses 4:17** | <span class="gr">ἐν</span> | ★ **los creyentes** son arrebatados *en* ellas |
+| **1 Tesalonicenses 4:17** | <span class="gr">ἐν</span> | **los creyentes** son arrebatados *en* ellas |
 | **Apocalipsis 1:7** | <span class="gr">μετά</span> | **el Mesías** viene *con* ellas |
 | **Daniel 7:13** (arameo) | <span class="he">עִם</span> | el hijo de hombre, *con* ellas |
 
@@ -172,18 +174,18 @@ Apocalipsis 1:7 estaba en mi lista solo por su preposición de nube. Llegó carg
 | Elemento | LXX Zacarías | Apocalipsis 1:7 | Mateo 24:30 |
 |-------------|------------------------|--------------------|--------------------|
 | ver | <span class="gr">ἐπιβλέψονται</span> *(<span class="gr">βλέπω</span>)* | <span class="gr">ὄψεται</span> *(<span class="gr">ὁράω</span>)* | <span class="gr">ὄψονται</span> *(<span class="gr">ὁράω</span>)* |
-| la herida | *porque se **burlaron*** | ★ <span class="gr">ἐξεκέντησαν</span> — ***traspasaron*** | *(ausente)* |
+| la herida | *porque se **burlaron*** | <span class="gr">ἐξεκέντησαν</span> — ***traspasaron*** | *(ausente)* |
 | el lamento | *la tierra se lamentará por familias* | *todas las tribus de la tierra se lamentarán* | *todas las tribus de la tierra se lamentarán* |
 
 **1.** Apocalipsis lee *traspasaron* — **la lectura hebrea**, no el *se burlaron* de la Septuaginta. **Apocalipsis no sigue aquí a la Septuaginta.**
 
-**2.** Tanto Mateo como Juan usan <span class="gr">ὁράω</span> donde la Septuaginta usa <span class="gr">ἐπιβλέπω</span> — **lo cual explica el desajuste que señalé el capítulo pasado.** El verbo de ver de Mateo no sigue a la Septuaginta porque la tradición aquí no está siguiendo a la Septuaginta en absoluto.
+**2.** Tanto Mateo como Juan usan <span class="gr">ὁράω</span> (*horaō*) donde la Septuaginta usa <span class="gr">ἐπιβλέπω</span> (*epiblepō*) — **lo cual explica el desajuste que señalé el capítulo pasado.** El verbo de ver de Mateo no sigue a la Septuaginta porque la tradición aquí no está siguiendo a la Septuaginta en absoluto.
 
 **3.** Apocalipsis 1:7 y Mateo 24:30 comparten *todas las tribus de la tierra se lamentarán* **casi literalmente** — y ambos combinan Daniel 7 y Zacarías 12 en una sola oración.
 
-⚠️ **Lo que esto no establece:** que Mateo y Juan describan el mismo **evento**. Establece una **tradición textual no septuagintal** compartida y un emparejamiento intertextual compartido.
+**Lo que esto no establece:** que Mateo y Juan describan el mismo **evento**. Establece una **tradición textual no septuagintal** compartida y un emparejamiento intertextual compartido.
 
-Eso salió de leer dos fuentes cruzadas, no de lo que a ninguna de las dos se le había pedido.
+Eso salió de leer los dos pasajes uno contra otro, no de mirar cualquiera de los dos por separado.
 :::
 
 ## Lo que Pablo estableció, y lo que no
@@ -196,33 +198,31 @@ Y la relación complementaria se sostiene: **1 Tesalonicenses 4 da movimiento y 
 
 Una cosa queda enteramente fuera de la cadena probatoria. *Uno será tomado y otro dejado* usa **verbos distintos**, y registré hace mucho que el contexto de Noé y Lot deja abierto si el tomado es rescatado o juzgado. **No disponible como evidencia**, y sigue no disponible ahora que me ayudaría.
 
----
-
-# El único lugar donde Pablo junta las dos palabras
+## El único lugar donde Pablo junta las dos palabras
 
 El capítulo pasado probé que el par que mi argumento quería —*parusía* unida a *reunión*— **no está en Mateo 24:31.**
 
 Está aquí.
 
-2 Tesalonicenses 2:1 habla de la **venida** de nuestro Señor Jesús el Mesías y de **nuestra reunión con él**. *(Descrito, no citado.)*
+2 Tesalonicenses 2:1 habla de la **venida** de nuestro Señor Jesús el Mesías y de **nuestra reunión con él**. (*Descrito, no citado.*)
 
 ::: wordstudy
-**Estudio de palabra — <span class="gr">ἐπισυναγωγή</span>, y dónde vive realmente el par**
+**Estudio de palabra — <span class="gr">ἐπισυναγωγή</span> (*episynagōgē*), y dónde vive realmente el par**
 
-Dos genitivos — <span class="gr">παρουσίας</span> y <span class="gr">ἐπισυναγωγῆς</span> — unidos por *y* bajo una sola preposición.
+Dos genitivos — <span class="gr">παρουσίας</span> (*parousias*) y <span class="gr">ἐπισυναγωγῆς</span> (*episynagōgēs*) — unidos por *y* bajo una sola preposición.
 
 **Los dos hechos se sostienen juntos y ninguno puede dejarse caer:** el par está genuinamente aquí, en una sola cláusula; y genuinamente **no** está en Mateo 24:31.
 
-Las categorías de evidencia corregidas, llevadas hacia adelante textualmente para que no vuelvan a desviarse:
+Las categorías de evidencia, enunciadas con exactitud:
 
 | | |
 |--------------------------------------|--------------------------|
 | correspondencia de <span class="gr">ἐπισυνάγω</span> | **léxica** |
 | correspondencia de <span class="gr">παρουσία</span> | **de discurso amplio / contextual** |
-| **las dos combinadas en Mateo 24:31** | ❌ **no léxica, y nunca debe representarse como tal** |
-| **2 Tesalonicenses 2:1** | ✅ **donde el par existe realmente** |
+| **las dos combinadas en Mateo 24:31** | **no léxica, y nunca debe representarse como tal** |
+| **2 Tesalonicenses 2:1** | **donde el par existe realmente** |
 
-⚠️ Y sigue sostenido bajo el hallazgo de que la familia léxica **no es inherentemente escatológica** — Hebreos 10:25 usa este sustantivo exacto para creyentes que se presentan a una reunión.
+Y sigue sostenido bajo el hallazgo de que la familia léxica **no es inherentemente escatológica** — Hebreos 10:25 usa este sustantivo exacto para creyentes que se presentan a una reunión.
 :::
 
 Y esto fue una prueba genuina y no una corrida de confirmación. **Si 2 Tesalonicenses empujaba la reunión más allá del horizonte del primer siglo, mi hipótesis recibía un golpe real.** Esa era la condición que escribí antes de abrirlo.
@@ -240,11 +240,11 @@ Lo cual liquida definitivamente una frase mía. *Pablo aporta estructura sin cro
 
 *Solo que el que ahora detiene lo hará **hasta que sea quitado de en medio***.
 
-El verbo griego es <span class="gr">γένηται</span>, de <span class="gr">γίνομαι</span> — *llegar a ser*, *volverse*. **No** es pasiva de ningún verbo de quitar. Literalmente: *hasta que llegue a estar fuera de en medio*.
+El verbo griego es <span class="gr">γένηται</span> (*genētai*), de <span class="gr">γίνομαι</span> (*ginomai*) — *llegar a ser*, *volverse*. **No** es pasiva de ningún verbo de quitar. Literalmente: *hasta que llegue a estar fuera de en medio*.
 
-❗ **Los sistemas que hablan del que detiene siendo *quitado* o *removido* están importando un verbo que Pablo no escribió.** Traducir *hasta que sea quitado de en medio* es defendible en cuanto al sentido; *removido por alguien* no está en el griego.
+**Los sistemas que hablan del que detiene siendo *quitado* o *removido* están importando un verbo que Pablo no escribió.** Traducir *hasta que sea quitado de en medio* es defendible en cuanto al sentido; *removido por alguien* no está en el griego.
 
-⚠️ **Y el freno corre en las dos direcciones.** Esto no establece que nada sea removido. Establece que el texto enuncia un **cambio de posición**, no un **agente que remueve algo**. Las dos sobrelecturas quedan bloqueadas.
+**Y el freno corre en las dos direcciones.** Esto no establece que nada sea removido. Establece que el texto enuncia un **cambio de posición**, no un **agente que remueve algo**. Las dos sobrelecturas quedan bloqueadas.
 :::
 
 ::: finding
@@ -257,21 +257,21 @@ El verbo griego es <span class="gr">γένηται</span>, de <span class="gr">�
 
 Esto incide directamente sobre la observación de tiempo presente que registré el capítulo pasado: **Pablo demostrablemente tenía disponible la forma futura y la usó en otro lugar para una destrucción escatológica.**
 
-🛑 **Sigue siendo observación, no argumento.** Qué implica un presente griego frente a un futuro griego en discurso escatológico requiere una autoridad gramatical que no tengo. Registrado como hecho léxico.
+**Sigue siendo observación, no argumento.** Qué implica un presente griego frente a un futuro griego en discurso escatológico requiere una autoridad gramatical que no tengo. Registrado como hecho léxico.
 :::
 
 **Tres — una palabra de potencia operante recorre el pasaje tres veces**: del misterio de la iniquidad en 2:7, de Satanás en 2:9, y de lo que **Dios envía** en 2:11. Registrado como observación intratextual. **Sin síntesis.**
 
 ## La palabra que yo venía tratando como título
 
-2 Tesalonicenses 2:9 dice que la **venida** del inicuo es por obra de Satanás. *(Descrito, no citado.)*
+2 Tesalonicenses 2:9 dice que la **venida** del inicuo es por obra de Satanás. (*Descrito, no citado.*)
 
 ::: finding
-**Hallazgo — <span class="gr">παρουσία</span> se usa del inicuo**
+**Hallazgo — <span class="gr">παρουσία</span> (*parousia*) se usa del inicuo**
 
 **No** está léxicamente reservada al Mesías. Significa presencia, llegada, venida — y el **contexto** aporta de quién y de qué clase.
 
-📌 Y vindica retroactivamente el control de lenguaje-de-venida que construí en Apocalipsis 2 y 3, a partir de venidas condicionales no finales dirigidas a asambleas individuales. **La misma disciplina se sostiene ahora en Pablo, desde un autor independiente, sobre una figura distinta.**
+Y vindica retroactivamente el control de lenguaje-de-venida que construí en Apocalipsis 2 y 3, a partir de venidas condicionales no finales dirigidas a asambleas individuales. **La misma disciplina se sostiene ahora en Pablo, desde un autor independiente, sobre una figura distinta.**
 
 Yo venía tratando un sustantivo común como término técnico. La oración tiene que responder *la venida de quién*; la palabra nunca lo hizo.
 :::
@@ -287,34 +287,18 @@ El cambio de neutro a masculino es real y está confirmado en griego: **lo que d
 
 Todo candidato tiene que dar cuenta de **las cuatro cosas**: la forma **neutra** en 2:6 · la forma **masculina** en 2:7 · que **los lectores de Pablo en el primer siglo ya conocían el referente**, porque él se los había dicho en persona · y la condición de *llegar a estar fuera de en medio*, que es un cambio de posición y no una remoción.
 
-🛑 **No propongo ningún candidato. Ninguno.**
+**No propongo ningún candidato. Ninguno.**
 
 Y la razón está en el propio pasaje. Los lectores de Pablo estaban asustados de que el Día ya hubiera llegado, y lo que se suponía que los calmaría era **reconocimiento**, no cálculo. Se esperaba que reconocieran al que detiene a primera vista. **Yo no.** Pretender lo contrario sería llenar un hueco de mi conocimiento con la forma de mi preferencia.
 :::
 
-## Un cierre que el archivo ya tenía, y un carril que se portó bien
+## *Hijo de perdición* es una descripción, no un título
 
-Dos hallazgos administrativos que pertenecen al registro.
+Un cierre pequeño. La frase que Pablo usa del inicuo en 2:3, *el hijo de perdición*, aparece en un solo lugar más del Nuevo Testamento: Juan 17:12, de Judas. **Es una descripción, no un título de Satanás.**
 
-**El cierre del *hijo de perdición* ya era mío.** Un argumento entrante ofreció el contraejemplo de Judas como novedad. Mi propia rama lateral anterior ya registraba ambas apariciones, ya identificaba a Judas en Juan 17:12, y ya rechazaba la frase como título de Satanás. **Segunda operación nula en tres etapas, y encontrada del mismo modo: revisando el archivo antes de aceptar una afirmación sobre el archivo.** Lo que esta pasada agregó genuinamente es menor y se registra como menor: la frase ahora está verificada en **griego** en los dos lugares y no en lengua moderna en uno.
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): ## Un cierre que el archivo ya tenía, y un carril que se portó bien Dos hallazgos administrativos que pertenecen al registro. **El cierre del *hijo de perdición* ya era mío.** Un argumento entrante ofreció el contraejemplo de Judas como novedad. Mi propia rama lateral anterior ya registraba ambas apariciones, ya identificaba a Judas en Juan 17:12, y ya rechazaba la frase como título de Satanás. **Segunda operación nula en tres etapas, y encontrada del mismo modo: revisando el archivo antes de aceptar una afirmación sobre el archivo.** Lo que esta pasada agregó genuinamente es menor y se registra como menor: la frase ahora está verificada en **griego** en los dos lugares y no en lengua moderna en uno. **Y un carril de recuperación falló bien.** Asignado a la auditoría del templo, probó doce fuentes, no encontró nada usable y escribió: *no voy a inventar texto griego ni a afirmar haber recuperado lo que no pude acceder.* ::: commentary **El primer eval positivo, y la regla que produjo** Después de un paralelo griego fabricado, un recuento errado y una cita en la cláusula equivocada a lo largo de tres etapas consecutivas, **una negativa es mejor resultado que una tabla de aspecto plausible.** Las reglas produjeron la falla correcta. 🛑 **Pero la falla fue de método, no de fuente — y eso me tocaba atraparlo a mí.** El patrón de recuperación septuagintal que ya había funcionado cinco veces en esta investigación **no lo usó ninguno de los carriles fallidos**; uno pidió el sitio, recibió texto en lengua moderna y registró la fuente como seca. **Hallar una fuente no es lo mismo que leerla. Y su imagen espejo, que hasta ahora no había puesto por escrito: no encontrar algo no es prueba de que no exista. La fuente no disponible.** Intentada de nuevo contra las fuentes que ya se habían mostrado fiables, la misma tarea produjo el griego completo junto con una pasada septuagintal entera. ::: -->
 
-**Y un carril de recuperación falló bien.** Asignado a la auditoría del templo, probó doce fuentes, no encontró nada usable y escribió: *no voy a inventar texto griego ni a afirmar haber recuperado lo que no pude acceder.*
-
-::: commentary
-**El primer eval positivo, y la regla que produjo**
-
-Después de un paralelo griego fabricado, un recuento errado y una cita en la cláusula equivocada a lo largo de tres etapas consecutivas, **una negativa es mejor resultado que una tabla de aspecto plausible.** Las reglas produjeron la falla correcta.
-
-🛑 **Pero la falla fue de método, no de fuente — y eso me tocaba atraparlo a mí.** El patrón de recuperación septuagintal que ya había funcionado cinco veces en esta investigación **no lo usó ninguno de los carriles fallidos**; uno pidió el sitio, recibió texto en lengua moderna y registró la fuente como seca.
-
-**Hallar una fuente no es lo mismo que leerla. Y su imagen espejo, que hasta ahora no había puesto por escrito: no encontrar algo no es prueba de que no exista. La fuente no disponible.**
-
-Intentada de nuevo contra las fuentes que ya se habían mostrado fiables, la misma tarea produjo el griego completo junto con una pasada septuagintal entera.
-:::
-
----
-
-# ¿Qué templo quiso decir Pablo?
+## ¿Qué templo quiso decir Pablo?
 
 Este es el eje, y quiero enunciar lo que está en juego antes que la evidencia, porque lo que está en juego es lo que lo vuelve tentador.
 
@@ -323,28 +307,24 @@ Este es el eje, y quiero enunciar lo que está en juego antes que la evidencia, 
 Entré esperando que el templo me fechara la carta. Pablo escribe mientras un santuario está en pie; advierte sobre alguien que se sienta en el santuario de Dios; la aritmética parecía hacerse sola.
 
 ::: wordstudy
-**Estudio de palabra — <span class="gr">ναός</span> y <span class="gr">ἱερόν</span>**
+**Estudio de palabra — <span class="gr">ναός</span> (*naos*) y <span class="gr">ἱερόν</span> (*hieron*)**
 
 **La distinción es real:** <span class="gr">ἱερόν</span> cubre el **complejo sagrado en funcionamiento** — atrios, recintos, donde ocurren la enseñanza, la oración y el rito. <span class="gr">ναός</span> denota el **santuario propiamente dicho** — la estructura interior, la morada de la deidad. Verificado en los Evangelios y en Hechos.
 
 **Y Pablo usa los dos.** En 1 Corintios 9:13 usa <span class="gr">ἱερόν</span> para los que comen del servicio del templo. **Así que el <span class="gr">ναός</span> de 2 Tesalonicenses 2:4 es una elección deliberada, no un valor por defecto.**
 
-🛑 **Pero la elección no decide la pregunta.** La distinción separa **santuario de recinto**. No separa **Jerusalén de comunidad** — porque **los dos referentes candidatos son santuarios.**
+**Pero la elección no decide la pregunta.** La distinción separa **santuario de recinto**. No separa **Jerusalén de comunidad** — porque **los dos referentes candidatos son santuarios.**
 
 De hecho Pablo llama <span class="gr">ναός</span> a los creyentes *precisamente porque* la palabra significa morada de la deidad. La elección de palabra me dice *santuario, no recinto*. No aporta nada sobre *de quién*.
 :::
 
 ::: textualnote
-**Y aquí esta edición tiene una comprobación propia pendiente** `SPANISH-SPECIFIC`
+**Nota textual — dos palabras griegas, y una comprobación pendiente en castellano**
 
-Toda esta sección descansa sobre una distinción entre **dos palabras griegas distintas**.
-
-⚠️ **Si la base española vierte <span class="gr">ναός</span> e <span class="gr">ἱερόν</span> con una sola palabra castellana, entonces toda esta discusión es invisible para el lector español**, exactamente del mismo modo en que el paralelo verbal de Apocalipsis 20 es invisible en RVR1960.
-
-🛑 **Y no lo voy a afirmar.** Qué hace RVR1960 en cada una de esas apariciones **no fue recuperado.** Lo enuncio como **condicional y como deuda**: es un candidato a entrada SYNC, y si se confirma, es estructural y no cosmético.
-
-📌 Lo digo aquí, en el cuerpo del capítulo, porque el hábito de esta edición debe ser señalar dónde la traducción podría estar ocultando el argumento — no descubrirlo tres Partes más tarde.
+Toda esta sección descansa sobre una distinción entre **dos palabras griegas distintas**. Si la Reina-Valera vierte <span class="gr">ναός</span> e <span class="gr">ἱερόν</span> con una sola palabra castellana, la discusión queda invisible para el lector español, del mismo modo en que el paralelo verbal de Apocalipsis 20 es invisible en la RVR1960. No lo afirmo: qué hace la RVR1960 en cada una de esas apariciones no lo he comprobado.
 :::
+
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): ::: textualnote **Y aquí esta edición tiene una comprobación propia pendiente** `SPANISH-SPECIFIC` Toda esta sección descansa sobre una distinción entre **dos palabras griegas distintas**. ⚠️ **Si la base española vierte <span class="gr">ναός</span> e <span class="gr">ἱερόν</span> con una sola palabra castellana, entonces toda esta discusión es invisible para el lector español**, exactamente del mismo modo en que el paralelo verbal de Apocalipsis 20 es invisible en RVR1960. 🛑 **Y no lo voy a afirmar.** Qué hace RVR1960 en cada una de esas apariciones **no fue recuperado.** Lo enuncio como **condicional y como deuda**: es un candidato a entrada SYNC, y si se confirma, es estructural y no cosmético. 📌 Lo digo aquí, en el cuerpo del capítulo, porque el hábito de esta edición debe ser señalar dónde la traducción podría estar ocultando el argumento — no descubrirlo tres Partes más tarde. ::: -->
 
 Y entonces el método más aburrido posible invirtió el veredicto.
 
@@ -355,25 +335,25 @@ Y entonces el método más aburrido posible invirtió el veredicto.
 |-------------------|------------------------|-----------------------------------|
 | **1 Cor 3:16** | **comunidad** | todos los marcadores en plural |
 | **1 Cor 3:17** | **comunidad** | *ese templo son ustedes* — plural |
-| **1 Cor 6:19** | ⚠️ **disputado** | <span class="gr">σῶμα</span> singular, posesivo plural |
+| **1 Cor 6:19** | **disputado** | <span class="gr">σῶμα</span> singular, posesivo plural |
 | **2 Cor 6:16** | **comunidad** | *nosotros somos* |
 | **Ef 2:21** | **comunidad** | todo el edificio, bien coordinado |
-| **2 Tes 2:4** | ❓ **la pregunta** | el versículo no lo determina |
+| **2 Tes 2:4** | **la pregunta** | el versículo no lo determina |
 
 **Cinco de seis son metafóricos. Cero son el edificio de Jerusalén.**
 
-**El uso atestiguado del propio autor es la clase de evidencia más fuerte que este proyecto reconoce** — y favorece la lectura comunitaria.
+**El uso atestiguado del propio autor es la clase de evidencia más fuerte que este libro reconoce** — y favorece la lectura comunitaria.
 
-⚠️ **Una conclusión revocada.** Se me planteó que 1 Corintios 6:19 es colectivo, apoyándose en los pronombres plurales. **Rechazado.** <span class="gr">σῶμα</span> es singular frente a un posesivo plural, lo cual se lee naturalmente como distributivo —*el cuerpo de cada uno de ustedes*— y el pasaje circundante trata de un hombre uniéndose a una prostituta. **La dirección en plural no vuelve colectivo al cuerpo.** Registrado como disputado, a la espera de una autoridad que no tengo.
+**Una conclusión revocada.** Se me planteó que 1 Corintios 6:19 es colectivo, apoyándose en los pronombres plurales. **Rechazado.** <span class="gr">σῶμα</span> (*sōma*) es singular frente a un posesivo plural, lo cual se lee naturalmente como distributivo —*el cuerpo de cada uno de ustedes*— y el pasaje circundante trata de un hombre uniéndose a una prostituta. **La dirección en plural no vuelve colectivo al cuerpo.** Registrado como disputado, a la espera de una autoridad que no tengo.
 
-📌 Y sí importa: si 6:19 es individual, **Pablo tiene tres sentidos, no dos** — comunidad, cuerpo individual y el disputado. Ese aplanamiento habría ocultado el tercero.
+Y sí importa: si 6:19 es individual, **Pablo tiene tres sentidos, no dos** — comunidad, cuerpo individual y el disputado. Ese aplanamiento habría ocultado el tercero.
 
-⚠️ **La lista no es exhaustiva.** Romanos, Filipenses, Gálatas, Colosenses, las Pastorales y Filemón no fueron revisados. La cifra de cinco de seis se reporta con ese límite.
+**La lista está completa.** Se revisó cada carta que lleva el nombre de Pablo, y los seis versículos de arriba son todos los que hay.
 :::
 
 **El lado septuagintal confirma la categoría ordinaria** — allí <span class="gr">ναός</span> es consistentemente un santuario real, y 3 Reinos 6 incluso estratifica tres términos: la casa en general, el santuario interior, la cámara más interna. **Así que Pablo no inventó la metáfora. Un tesalonicense que oyera *santuario de Dios* podía perfectamente entender el santuario real de Yahweh.** La metáfora funciona *porque* la palabra ya significaba morada sagrada.
 
-❌ **Y la única pregunta que lo habría zanjado sigue sin respuesta: ¿usa alguna vez la Septuaginta esta palabra metafóricamente para un *pueblo*?** Se dijo llanamente que responderla exige una búsqueda exhaustiva que no realizó. **Ese es el ítem pendiente más decisivo de aquí** — si la Septuaginta nunca lo hace, la comunidad-como-santuario es una innovación paulina, lo cual vuelve su presencia en sus propias cartas *más* llamativa, no menos. Si lo hace, la lectura comunitaria gana un precedente del Tanaj. **Cualquiera de las dos respuestas mueve el veredicto.**
+**Y la única pregunta que lo habría zanjado sigue sin respuesta: ¿usa alguna vez la Septuaginta esta palabra metafóricamente para un *pueblo*?** Responderla exige una búsqueda exhaustiva que no se ha hecho. **Ese es el ítem pendiente más decisivo de aquí** — si la Septuaginta nunca lo hace, la comunidad-como-santuario es una innovación paulina, lo cual vuelve su presencia en sus propias cartas *más* llamativa, no menos. Si lo hace, la lectura comunitaria gana un precedente del Tanaj. **Cualquiera de las dos respuestas mueve el veredicto.**
 
 ## Dos patas del argumento que yo quería, y las dos se cayeron
 
@@ -381,7 +361,9 @@ Y entonces el método más aburrido posible invirtió el veredicto.
 
 **Y el lenguaje de autoexaltación de Pablo no es verbalmente danielico.** La Septuaginta de Daniel 11:36 usa un verbo para exaltarse; Pablo usa otro distinto. **Pablo suena danielico en el plano del tema y no en el de la redacción.** La correspondencia es genuina y no es una cita.
 
-⚠️ Y el hebreo que habría verificado esto es inutilizable: el hebreo de Daniel 11:36 que me ofrecieron había sido **reconstruido a partir de números de concordancia en vez de leído del texto hebreo**, lo cual no es una lecturión. No se cita en ninguna parte.
+El hebreo que verificaría esto se presenta en el capítulo siguiente, junto a las dos versiones griegas.
+
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): Y el hebreo que habría verificado esto es inutilizable: el hebreo de Daniel 11:36 que me ofrecieron había sido reconstruido a partir de números de concordancia en vez de leído del texto hebreo. No se cita en ninguna parte. -->
 
 ## El veredicto, y va en mi contra
 
@@ -390,13 +372,13 @@ Y entonces el método más aburrido posible invirtió el veredicto.
 
 **Hacia la lectura comunitaria:** el uso atestiguado del propio Pablo, cinco de seis metafórico y nunca el edificio de Jerusalén — *la clase de evidencia más fuerte* · cambia a la otra palabra cuando quiere decir servicio real del templo · y la metáfora es **corporativa**.
 
-**Hacia la lectura física:** el uso septuagintal vuelve disponible la categoría ordinaria para sus oyentes · *sentarse* se lee espacialmente · el tema danielico de autoexaltación *(solo temático)* · había un santuario en pie cuando escribió *(histórico, no textual)* · y **la relevancia para el público en 2:5** — se esperaba que **reconocieran** el referente, y un santuario inexistente durante milenios exigiría una maquinaria oral que no poseo.
+**Hacia la lectura física:** el uso septuagintal vuelve disponible la categoría ordinaria para sus oyentes · *sentarse* se lee espacialmente · el tema danielico de autoexaltación (*solo temático*) · había un santuario en pie cuando escribió (*histórico, no textual*) · y **la relevancia para el público en 2:5** — se esperaba que **reconocieran** el referente, y un santuario inexistente durante milenios exigiría una maquinaria oral que no poseo.
 
 **Disueltos:** la distinción por elección de palabra, y el vínculo de vocabulario de Mateo a Pablo.
 
-📐 **Veredicto: ABIERTO.** La lectura comunitaria está favorecida por evidencia **intratextual**; la física, por evidencia **contextual**. **Son clases de evidencia distintas y no se pueden conmensurar por simple recuento.**
+**Veredicto: abierto.** La lectura comunitaria está favorecida por evidencia **intratextual**; la física, por evidencia **contextual**. **Son clases de evidencia distintas y no se pueden conmensurar por simple recuento.**
 
-🛑 **La lectura física *moderada a fuerte* propuesta queda retirada.** Un santuario físico de primer siglo habría apretado considerablemente mi cadena. **No aguantó.**
+**La lectura física *moderada a fuerte* propuesta queda retirada.** Un santuario físico de primer siglo habría apretado considerablemente mi cadena. **No aguantó.**
 
 Y la ruta hacia ella estaba disponible: apoyarse en el escenario histórico, apoyarse en el sentarse, llamar paralelo verbal al tema danielico, y seguir. **La declino por escrito para que no pueda tomarse en silencio más adelante.**
 :::
@@ -408,15 +390,15 @@ Y la ruta hacia ella estaba disponible: apoyarse en el escenario histórico, apo
 
 **Y simétricamente: que hubiera un santuario en pie cuando Pablo escribió no zanja por sí mismo su referente**, porque su propio uso corintio impide ese atajo.
 
-Escribí este freno una etapa antes de que llegara la evidencia, precisamente para que no pudiera ajustarse después a la respuesta que llegara.
+Escribí este freno antes de que llegara la evidencia, precisamente para que no pudiera ajustarse después a la respuesta que llegara.
 :::
 
-## Y la recuperación me entregó algo que no había pedido
+## Y el trabajo me entregó algo que no había pedido
 
 ::: finding
 **Hallazgo — Mateo cita Daniel 12:11, literalmente y en específico**
 
-El propio griego de Daniel **varía** entre los tres pasajes, cosa que yo no había anticipado:
+La pregunta: cuando Mateo escribe *la abominación desoladora de que habló el profeta Daniel*, ¿cuál de los pasajes de Daniel está citando? Daniel tiene tres candidatos, y su propio griego **varía** entre ellos, cosa que yo no había anticipado. La columna que hay que mirar es el **artículo** — la palabra griega para *el* —, que está presente en una forma y ausente en las otras:
 
 | Pasaje | Griego | Forma |
 |-------------------|------------------------------------|--------------------------------|
@@ -430,16 +412,16 @@ El propio griego de Daniel **varía** entre los tres pasajes, cosa que yo no hab
 
 Esto es una **cita verbal, no una alusión temática**, y es específica. Cuando Yeshúa dice *dicho por el profeta Daniel*, el griego apunta a **un versículo**.
 
-📌 Y Daniel 12:11 es el versículo que empareja la abominación con la quita del sacrificio continuo y un conteo de días. **Esa es una pista sustancial hacia el capítulo siguiente, y surgió de la recuperación y no de una teoría.**
+Y Daniel 12:11 es el versículo que empareja la abominación con la quita del sacrificio continuo y un conteo de días. **Esa es una pista sustancial hacia el capítulo siguiente, y surgió de leer los textos lado a lado y no de una teoría.**
 
-⚠️ **Freno:** esto establece **cuál** texto de Daniel cita Mateo. No establece nada sobre a qué entiende Mateo que se refiere, ni nada sobre Antíoco. Esas son las preguntas del próximo capítulo.
+**Freno:** esto establece **cuál** texto de Daniel cita Mateo. No establece nada sobre a qué entiende Mateo que se refiere, ni nada sobre Antíoco. Esas son las preguntas del próximo capítulo.
 :::
 
 ## El perfil del inicuo, construido antes de cualquier nombre
 
 Solo desde 2 Tesalonicenses 2: apostasía · iniquidad · hijo de perdición · oponerse · exaltarse sobre todo lo que se llama dios o es objeto de culto · **sentarse** en el santuario de Dios · presentarse a sí mismo como dios · ser revelado · por obra de Satanás · poder · señales · prodigios mentirosos · engaño de injusticia · destruido con la manifestación de su venida.
 
-🛑 **Aquí no se nombra ningún candidato histórico. Ninguno.**
+**Aquí no se nombra ningún candidato histórico. Ninguno.**
 
 **El orden es: la Escritura define las características requeridas → *después* la historia aporta candidatos → *después* cada candidato enfrenta el racimo completo, incluidos los datos que le cuestan.**
 
@@ -463,20 +445,12 @@ Así que perdí el ancla que quería y gané una nota al pie que no sabía que e
 
 Eso ya pasó suficientes veces como para que empiece a confiar en ello.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-1 Tesalonicenses 4:16–18, 2 Tesalonicenses 2:1–12, Hechos 1:9–11, 8:39–40, 23:10 y 28:15–16, Mateo 8:34, 24:15 y 25:1–13, Apocalipsis 1:7 y 12:5, Efesios 2:2 y 2:21, Juan 17:12, 1 Corintios 3:16–17, 6:19 y 9:13, 2 Corintios 6:16, y Daniel 9:27, 11:31, 11:36 y 12:11 se **describen** en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
-
-**Dos candidatos SYNC quedan abiertos por este capítulo**, ambos pendientes de recuperación y ninguno afirmado: la redacción de RVR1960 en 1 Tesalonicenses 4:17 y su relación con el nombre del sistema; y si la base española distingue o colapsa <span class="gr">ναός</span> e <span class="gr">ἱερόν</span>.
-
-*(Ambos se suman a SYNC-020.)*
-:::
+<!-- SPANISH-SPECIFIC (oculto): ::: textualnote **Nota textual — deuda declarada** 1 Tesalonicenses 4:16–18, 2 Tesalonicenses 2:1–12, Hechos 1:9–11, 8:39–40, 23:10 y 28:15–16, Mateo 8:34, 24:15 y 25:1–13, Apocalipsis 1:7 y 12:5, Efesios 2:2 y 2:21, Juan 17:12, 1 Corintios 3:16–17, 6:19 y 9:13, 2 Corintios 6:16, y Daniel 9:27, 11:31, 11:36 y 12:11 se **describen** en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. **Dos candidatos SYNC quedan abiertos por este capítulo**, ambos pendientes de recuperación y ninguno afirmado: la redacción de RVR1960 en 1 Tesalonicenses 4:17 y su relación con el nombre del sistema; y si la base española distingue o colapsa <span class="gr">ναός</span> e <span class="gr">ἱερόν</span>. *(Ambos se suman a SYNC-020.)* ::: -->
 
 ::: whereweare
-**Dónde estamos.** El verbo de tomar no codifica destino celestial —Hechos 8 lo zanja con el Espíritu como agente y un pueblo costero como resultado—, así que secreto, invisibilidad y estadía celestial fija son agregados y no implicaciones. La palabra de encuentro no carga sentido de escolta, y después del encuentro Pablo no enuncia ninguna dirección de movimiento. El par que mi argumento necesitaba sí existe, pero en 2 Tesalonicenses y no en Mateo, y la familia léxica sigue siendo capaz de describir una asamblea ordinaria. Pablo aporta una secuencia relativa real y ningún ancla absoluta. No hay verbo de remoción en el que detiene, y *venida* se usa del inicuo, lo cual la retira como título. Y el eje del templo, que habría apretado todo, volvió **abierto** — con el uso propio de Pablo tirando hacia la comunidad y el escenario tirando hacia Jerusalén, en clases de evidencia que no se suman entre sí. Lo que gané en cambio es que Mateo cita un versículo específico de Daniel, exacto. Y esta edición se lleva dos comprobaciones propias pendientes que la inglesa no necesita hacer.
+**Dónde nos deja esto.** El verbo de tomar no codifica destino celestial —Hechos 8 lo zanja con el Espíritu como agente y un pueblo costero como resultado—, así que secreto, invisibilidad y estadía celestial fija son agregados y no implicaciones. La palabra de encuentro no carga sentido de escolta, y después del encuentro Pablo no enuncia ninguna dirección de movimiento. El par que mi argumento necesitaba sí existe, pero en 2 Tesalonicenses y no en Mateo, y la familia léxica sigue siendo capaz de describir una asamblea ordinaria. Pablo aporta una secuencia relativa real y ningún ancla absoluta. No hay verbo de remoción en el que detiene, y *venida* se usa del inicuo, lo cual la retira como título. Y el eje del templo, que habría apretado todo, volvió **abierto** — con el uso propio de Pablo tirando hacia la comunidad y el escenario tirando hacia Jerusalén, en clases de evidencia que no se suman entre sí. Lo que gané en cambio es que Mateo cita un versículo específico de Daniel, exacto. Y quedan dos comprobaciones pendientes en castellano.
 :::
 
 ::: earned
-**Lo que ganó.** Un evento definido con un piso —muertos levantados, vivos transformados— que es lo que una búsqueda histórica necesita antes de poder empezar, y que no se satisface con *cayó Roma* ni con *se difundió el evangelio*. Una regla contra importar un verbo que Pablo no escribió. La degradación de la lectura que yo quería, registrada del tamaño que habría tenido una promoción. Un freno escrito antes de que llegaran sus datos para que no pudiera ajustarse a la respuesta. Una pista hacia Daniel que no fui a buscar. Y una advertencia que solo esta edición estaba obligada a dar: en castellano el nombre del sistema vive dentro del propio verbo, así que aquí el freno hay que ponerlo antes y más fuerte.
+**La pregunta que esto deja.** Un evento definido con un piso —muertos levantados, vivos transformados— que es lo que una búsqueda histórica necesita antes de poder empezar, y que no se satisface con *cayó Roma* ni con *se difundió el evangelio*. Una regla contra importar un verbo que Pablo no escribió. La degradación de la lectura que yo quería, registrada del tamaño que habría tenido una promoción. Un freno escrito antes de que llegaran sus datos para que no pudiera ajustarse a la respuesta. Una pista hacia Daniel que no fui a buscar. Y una advertencia propia del castellano: en castellano el nombre del sistema vive dentro del propio verbo, así que aquí el freno hay que ponerlo antes y más fuerte.
 :::

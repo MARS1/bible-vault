@@ -14,7 +14,7 @@ related: "[[10-manuscript-architecture]], [[02m-first-resurrection-synthesis]], 
 
 Todo lo que viene en esta Parte es un ataque contra mi propia reconstrucción.
 
-Quiero dejarlo dicho arriba, porque quien llegó hasta aquí vio acumularse un caso, y lo natural ahora sería esperar un capítulo que empiece a convertir acumulación en conclusión. No es lo que sigue. Lo que sigue son doce etapas caminando contra mi propio modelo con las mejores armas que pude encontrar, y esta Parte las reporta en el orden en que cayeron.
+Quiero dejarlo dicho arriba, porque quien llegó hasta aquí vio acumularse un caso, y lo natural ahora sería esperar un capítulo que empiece a convertir acumulación en conclusión. No es lo que sigue. Lo que sigue es una Parte entera caminando contra mi propio modelo con las mejores armas que pude encontrar, reportada en el orden en que cayeron los golpes.
 
 Algunas cayeron. Un verbo que afirmé durante meses resultó no existir en el pasaje sobre el cual lo afirmaba. Un puente que necesitaba se debilitó exactamente donde lo necesitaba. Cuatro puertas que intenté abrir las cerré yo mismo.
 
@@ -26,31 +26,7 @@ Y empieza en una puerta que la Parte anterior construyó y dejó abierta.
 
 El trabajo histórico no puede avanzar hasta que eso se responda. Así que se responde primero, y en mi contra si hace falta.
 
-## Argumenté desde un texto incompleto, y lo dije antes de argumentar
-
-::: textualnote
-**Declarado antes de que ningún argumento se apoyara en ello — y en qué terminó**
-
-Tres pasajes centrales de este capítulo estaban, cuando se hizo este trabajo, **solo parcialmente en mis manos.**
-
-| Pasaje | Lo que tenía | Lo que faltaba |
-|---------------------|-----------------------------|--------------------------------------------|
-| **Apocalipsis 6:9–11** | el versículo 9 | ❗ **vv. 10–11 — el clamor *¿hasta cuándo?*, las vestiduras blancas y *que descansaran todavía un poco*** |
-| **Mateo 27:51–53** | hasta *los sepulcros fueron abiertos* | ❗ **los cuerpos de los santos que habían dormido, levantados** |
-| **Hebreos 12:22–23** | hasta *la congregación de los primogénitos* | ❗ **y a los espíritus de los justos hechos perfectos** |
-
-Los tres cargan peso aquí. El primero es peor que eso: **Apocalipsis 6:10–11 es el pasaje sobre el que se apoya el argumento central de este capítulo.**
-
-Así que se trataron como **reportados, no verificados**, y el argumento se construyó a esa fuerza reducida y no a la que yo habría querido darle.
-
-### ✅ **Los tres han quedado verificados por completo desde entonces — y el resultado de Apocalipsis 6 es el que merece que uno se detenga.**
-
-❗❗ **Los versículos que llegaron tarde no se limitaron a permitir el control construido sin ellos. Lo fortalecieron.** Dan a los mártires un *¿hasta cuándo?*, una vestidura blanca, y la instrucción de **descansar todavía un poco de tiempo** — <span class="gr">ἔτι χρόνον μικρόν</span> — **hasta** que su número se **completara**, <span class="gr">ἕως πληρωθῶσιν</span>. **Cada una de esas cosas es existencia consciente, interpelada, en espera**, que es exactamente lo que el control necesitaba y no podía afirmar antes.
-
-📌 **Y ese desenlace solo estuvo disponible porque el hueco se declaró en vez de rellenarse con lo que yo esperaba encontrar.** Si hubiera escrito la versión segura y dejado que los versículos llegaran después, nunca habría sabido si los había leído o los había recordado.
-
-Lo declaro arriba en vez de dejar que el lector lo descubra abajo. Un capítulo que toma prestada en silencio una autoridad de verificación que no tiene es peor que un capítulo con un agujero, porque solo uno de los dos se puede reparar.
-:::
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): ## Argumenté desde un texto incompleto, y lo dije antes de argumentar ::: textualnote **Declarado antes de que ningún argumento se apoyara en ello — y en qué terminó** Tres pasajes centrales de este capítulo estaban, cuando se hizo este trabajo, **solo parcialmente en mis manos.** | Pasaje | Lo que tenía | Lo que faltaba | |---------------------|-----------------------------|--------------------------------------------| | **Apocalipsis 6:9–11** | el versículo 9 | ❗ **vv. 10–11 — el clamor *¿hasta cuándo?*, las vestiduras blancas y *que descansaran todavía un poco*** | | **Mateo 27:51–53** | hasta *los sepulcros fueron abiertos* | ❗ **los cuerpos de los santos que habían dormido, levantados** | | **Hebreos 12:22–23** | hasta *la congregación de los primogénitos* | ❗ **y a los espíritus de los justos hechos perfectos** | Los tres cargan peso aquí. El primero es peor que eso: **Apocalipsis 6:10–11 es el pasaje sobre el que se apoya el argumento central de este capítulo.** Así que se trataron como **reportados, no verificados**, y el argumento se construyó a esa fuerza reducida y no a la que yo habría querido darle. ### ✅ **Los tres han quedado verificados por completo desde entonces — y el resultado de Apocalipsis 6 es el que merece que uno se detenga.** ❗❗ **Los versículos que llegaron tarde no se limitaron a permitir el control construido sin ellos. Lo fortalecieron.** Dan a los mártires un *¿hasta cuándo?*, una vestidura blanca, y la instrucción de **descansar todavía un poco de tiempo** — <span class="gr">ἔτι χρόνον μικρόν</span> — **hasta** que su número se **completara**, <span class="gr">ἕως πληρωθῶσιν</span>. **Cada una de esas cosas es existencia consciente, interpelada, en espera**, que es exactamente lo que el control necesitaba y no podía afirmar antes. 📌 **Y ese desenlace solo estuvo disponible porque el hueco se declaró en vez de rellenarse con lo que yo esperaba encontrar.** Si hubiera escrito la versión segura y dejado que los versículos llegaran después, nunca habría sabido si los había leído o los había recordado. Lo declaro arriba en vez de dejar que el lector lo descubra abajo. Un capítulo que toma prestada en silencio una autoridad de verificación que no tiene es peor que un capítulo con un agujero, porque solo uno de los dos se puede reparar. ::: -->
 
 ## Dos correcciones, y corren en direcciones opuestas
 
@@ -61,7 +37,7 @@ Antes de la síntesis, dos cosas que tuve que arreglar. Una viene de haberme equ
 
 Seguía volviendo a preguntar si las dos resurrecciones de Apocalipsis 20 son realmente distintas.
 
-Lo son, y **Apocalipsis mismo las escalona.** Un grupo bienaventurado y santo vive y reina con el Mesías durante los mil años, y sobre ese grupo la segunda muerte no tiene potestad. *Los otros muertos* no vuelven a vivir hasta que los mil años se cumplen, y el gran trono blanco viene después de la pequeña temporada.
+Lo son, y **Apocalipsis mismo las escalona.** Un grupo bienaventurado y santo vive y reina con el Mesías durante los mil años, y sobre ese grupo la segunda muerte no tiene potestad. *Los otros muertos* no vuelven a vivir hasta que los mil años se cumplen, y el gran trono blanco viene después del poco de tiempo.
 
 Eso está establecido textualmente. Seguir formulando la pregunta como si la distinción estuviera bajo revisión hace perder tiempo al lector y a mí, y crea la impresión falsa de que la estructura en dos etapas es algo que yo estoy *defendiendo*, en vez de algo que el texto me entregó.
 
@@ -90,7 +66,7 @@ Ahora las comparaciones, en orden, y con las que duelen incluidas.
 
 Daniel 12:2 habla de muchos de los que duermen en el polvo de la tierra que serán despertados, unos para vida eterna y otros para vergüenza y confusión perpetua. Polvo y despertar evocan muertos que vuelven, no somnolencia moral.
 
-Y *muchos* — <span class="he">רַבִּים</span> — es la palabra que me tentó cuatro Partes atrás y que la Parte V finalmente adjudicó.
+Y *muchos* — <span class="he">רַבִּים</span> (*rabbim*) — es la palabra que me tentó en la Parte V, y que la Parte V adjudicó.
 
 **Fue en mi contra.** El *muchos* bíblico puede funcionar como colectivo amplio y no como *algunos pero definitivamente no todos*, de modo que **no** establece una población limitada de resurrección. Registré esa adjudicación cuando me costaba algo, y no la reabro aquí porque Apocalipsis 20 haya vuelto atractiva una población limitada. **Una palabra no se vuelve más útil porque yo la necesite más.**
 
@@ -99,12 +75,14 @@ Lo que Daniel 12 sí aporta es la ascendencia conceptual. Angustia sin precedent
 ## Mateo 27 prueba una categoría, y no aporta una identificación
 
 ::: textualnote
-**La frase sobre la que gira esta sección — antes reportada, ahora verificada.** Mateo 27:52 dice que **muchos cuerpos** — <span class="gr">σώματα</span> — de santos que habían dormido **fueron levantados**, y que después de la resurrección de Yeshúa entraron en la ciudad santa y se aparecieron a muchos.
+**La frase sobre la que gira esta sección**
 
-Si eso se sostiene al volver a recuperarlo, importa. Si no, esta sección se cae.
+Mateo 27:52 dice que **muchos cuerpos** — <span class="gr">πολλὰ σώματα</span> (*polla sōmata*) — de santos que habían dormido **fueron levantados**, <span class="gr">ἠγέρθησαν</span> (*ēgerthēsan*); y 27:53 sitúa su entrada en la ciudad santa y su aparición a muchos **después de su resurrección**, <span class="gr">μετὰ τὴν ἔγερσιν αὐτοῦ</span>.
 :::
 
-Si se sostiene, la Escritura ya registra una **resurrección corporal parcial de santos dentro de la historia ordinaria**. Cuerpos, no visiones.
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): Si eso se sostiene al volver a recuperarlo, importa. Si no, esta sección se cae. -->
+
+Así que la Escritura ya registra una **resurrección corporal parcial de santos dentro de la historia ordinaria**. Cuerpos, no visiones.
 
 Lo cual prueba una categoría que necesito: **una resurrección corporal no tiene que significar automáticamente la resurrección final de toda la humanidad.** Algo puede ser genuinamente corporal, genuinamente histórico y genuinamente acotado.
 
@@ -114,7 +92,7 @@ Entonces establece la posibilidad de un evento de resurrección acotado históri
 
 ## Juan 5 suena universal, y Juan 6 es el obstáculo real
 
-Juan 5:28–29 anuncia una hora en que **todos los que están en los sepulcros** oirán su voz y saldrán: los que hicieron lo bueno, a resurrección de vida; los que hicieron lo malo, a resurrección de condenación. *(Descrito, no citado: ver la deuda declarada al final del capítulo.)*
+Juan 5:28–29 anuncia una hora en que **todos los que están en los sepulcros** oirán su voz y saldrán: los que hicieron lo bueno, a resurrección de vida; los que hicieron lo malo, a resurrección de condenación. (*Descrito, no citado.*)
 
 Eso suena al horizonte del gran trono blanco, no a una resurrección limitada de mártires.
 
@@ -133,39 +111,39 @@ Si una primera resurrección precede a un intervalo de mil años y la resurrecci
 
 Candidatos: el día final de una edad · el horizonte final de resurrección considerado corporativamente · el día consumativo final propiamente dicho · lenguaje que Apocalipsis después expande internamente.
 
-🛑 **Esto es un obstáculo genuino para cualquier escalonamiento descuidado, y es un obstáculo para el mío.** Necesita trabajo en lengua original y en el contexto joánico. No voy a tratar *día postrero* como autoexplicativo, en ninguna dirección — y Juan 6 no fue recuperado, así que queda aquí como problema señalado y no como problema resuelto.
+**Esto es un obstáculo genuino para cualquier escalonamiento descuidado, y es un obstáculo para el mío.** Necesita trabajo en lengua original y en el contexto joánico. No voy a tratar *día postrero* como autoexplicativo, en ninguna dirección — y el griego de Juan 6 se trabaja en el capítulo siguiente, así que queda aquí como problema señalado y no como problema resuelto.
 :::
 
 ## Pablo ya lo escalona
 
-1 Corintios 15:20–24 pone al Mesías como **primicias** de los que durmieron, y después **cada uno en su debido orden**: el Mesías, las primicias; luego los que son del Mesías, en su venida; luego el fin. *(Descrito, no citado.)*
+1 Corintios 15:20–24 pone al Mesías como **primicias** de los que durmieron, y después **cada uno en su debido orden**: el Mesías, las primicias; luego los que son del Mesías, en su venida; luego el fin. (*Descrito, no citado.*)
 
 ::: finding
 **Hallazgo — el escalonamiento de la resurrección no le es ajeno a Pablo**
 
-Mesías → los que son suyos en su venida → <span class="gr">τὸ τέλος</span>, el fin. Es una secuencia escalonada, en palabras del propio Pablo, con su propio término de orden.
+Mesías → los que son suyos en su venida → <span class="gr">τὸ τέλος</span> (*to telos*), el fin. Es una secuencia escalonada, en palabras del propio Pablo, con su propio término de orden.
 
 Así que *no fusionen esto en un solo momento sin argumentarlo* no es un alegato especial inventado para Apocalipsis 20. Pablo no fusionó nada.
 
-Y el último enemigo destruido es la muerte — que queda **dentro** de la secuencia ordenada de Pablo y pertenece a su consumación, y que la Parte VI ya alineó con Apocalipsis 20:14. *(La sintaxis de Pablo en 15:24–26 no da una cronología más fina que eso, y no voy a exprimírsela: el reinado, la sujeción de los enemigos y la abolición de la muerte se dan como el movimiento terminal, no como pasos fechados después de él.)*
+Y el último enemigo destruido es la muerte — que queda **dentro** de la secuencia ordenada de Pablo y pertenece a su consumación, y que la Parte VI ya alineó con Apocalipsis 20:14. (*La sintaxis de Pablo en 15:24–26 no da una cronología más fina que eso, y no voy a exprimírsela: el reinado, la sujeción de los enemigos y la abolición de la muerte se dan como el movimiento terminal, no como pasos fechados después de él.*)
 
-⚠️ **Pero la presión vuelve en sentido contrario dentro del mismo pasaje.** *Los que son del Mesías* suena amplio. No suena a *algunos mártires ahora, otros creyentes mil años después.*
+**Pero la presión vuelve en sentido contrario dentro del mismo pasaje.** *Los que son del Mesías* suena amplio. No suena a *algunos mártires ahora, otros creyentes mil años después.*
 
 Tres opciones, y no elijo: los mártires **representan** corporativamente a los fieles del Mesías · Pablo **comprime** varias etapas · o **estoy leyendo mal la población de Apocalipsis 20 como limitada** cuando Juan destaca mártires dentro de un grupo mayor.
 
-📌 Esa última está viva, y no es cuestión de preferencia. La sintaxis de Apocalipsis 20:4 está genuinamente disputada en cuanto a si describe una sola clase descrita con más detalle o más de una. **Eso requiere autoridad gramatical, no mi propio análisis** — y si la primera resurrección incluye a todos los que rechazaron la lealtad a la bestia y no solo a los decapitados, la población es mucho más amplia de lo que vengo suponiendo.
+Esa última está viva, y no es cuestión de preferencia. La sintaxis de Apocalipsis 20:4 está genuinamente disputada en cuanto a si describe una sola clase descrita con más detalle o más de una. **Eso requiere autoridad gramatical, no mi propio análisis** — y si la primera resurrección incluye a todos los que rechazaron la lealtad a la bestia y no solo a los decapitados, la población es mucho más amplia de lo que vengo suponiendo.
 :::
 
-## Y entonces Pablo levanta la factura
+## Y entonces Pablo agranda la carga
 
-1 Corintios 15:51–52 anuncia que no todos dormirán, pero que todos serán **transformados**, en un momento, en un abrir y cerrar de ojos, a la final trompeta: la trompeta sonará, los muertos serán levantados incorruptibles, y nosotros seremos transformados. Y 1 Tesalonicenses 4:16–17 pone a los muertos en el Mesías levantándose **primero**, y luego a los vivos que quedan siendo **arrebatados** junto con ellos en las nubes al encuentro del Señor en el aire. *(Ambos descritos, no citados.)*
+1 Corintios 15:51–52 anuncia que no todos dormirán, pero que todos serán **transformados**, en un momento, en un abrir y cerrar de ojos, a la final trompeta: la trompeta sonará, los muertos serán levantados incorruptibles, y nosotros seremos transformados. Y 1 Tesalonicenses 4:16–17 pone a los muertos en el Mesías levantándose **primero**, y luego a los vivos que quedan siendo **arrebatados** junto con ellos en las nubes al encuentro del Señor en el aire. (*Ambos descritos, no citados.*)
 
 Pablo distingue **muertos levantados** de **vivos transformados**. El evento no es meramente la resurrección de cadáveres.
 
-Un freno antes de la carga. El *primero* de 1 Tesalonicenses es relativo **a los vivos** — los muertos se levantan antes de que los vivos sean arrebatados, dentro de esa secuencia. No es automáticamente *la primera resurrección de toda la cronología escatológica*, y no puedo tratar <span class="gr">πρῶτον</span> como léxicamente idéntico a la <span class="gr">ἀνάστασις ἡ πρώτη</span> de Apocalipsis. Correspondencia, no identidad. La regla se aplica aquí exactamente como se aplicó cuando me estaba ayudando.
+Un freno antes de la carga. El *primero* de 1 Tesalonicenses es relativo **a los vivos** — los muertos se levantan antes de que los vivos sean arrebatados, dentro de esa secuencia. No es automáticamente *la primera resurrección de toda la cronología escatológica*, y no puedo tratar <span class="gr">πρῶτον</span> (*prōton*) como léxicamente idéntico a la <span class="gr">ἀνάστασις ἡ πρώτη</span> de Apocalipsis. Correspondencia, no identidad. La regla se aplica aquí exactamente como se aplicó cuando me estaba ayudando.
 
 ::: evidence
-**Cuánto pesa la evidencia — y esto es un criterio de falsación, no una dificultad**
+**La transformación de los vivos en Pablo — un criterio de falsación, no una dificultad**
 
 **Si** la primera resurrección de Apocalipsis 20 se identifica con 1 Corintios 15 y 1 Tesalonicenses 4, entonces un modelo de milenio pasado puede requerir **santos muertos levantados *y* santos vivos transformados instantáneamente.**
 
@@ -173,7 +151,7 @@ Eso es mucho más difícil de ocultar históricamente que una visión de vindica
 
 Las salidas disponibles, enunciadas para poder examinarlas en vez de suponerlas: Pablo y Apocalipsis describen eventos **relacionados pero no idénticos** · la transformación **retira a los participantes de la visibilidad ordinaria** · el evento está **localizado geográfica o pactualmente** · o **entendí mal la relación temporal** entre ambos.
 
-🛑 **Ninguna de esas se resuelve por especulación, y no tengo permiso para elegir la que rescate el modelo.** Esto queda ahora como criterio de falsación de la hipótesis, y es el mayor que esta investigación ha puesto por escrito.
+**Ninguna de esas se resuelve por especulación, y no tengo permiso para elegir la que rescate el modelo.** Esto queda ahora como criterio de falsación de la hipótesis, y es el mayor que esta investigación ha puesto por escrito.
 :::
 
 ## Lo más fuerte de este capítulo, y está en mi contra
@@ -184,56 +162,58 @@ Un milenio pasado sería enormemente más simple si *primera resurrección* sign
 
 Apocalipsis la cierra.
 
-Apocalipsis 6:9 muestra, bajo el altar, **las almas de los que habían sido muertos** por la palabra de Dios y por el testimonio que tenían. *(Descrito, no citado.)*
+Apocalipsis 6:9 muestra, bajo el altar, **las almas de los que habían sido muertos** por la palabra de Dios y por el testimonio que tenían. (*Descrito, no citado.*)
 
 ::: finding
 **Hallazgo — los mártires ya estaban vivos, y Apocalipsis lo dice catorce capítulos antes**
 
 Los mártires no necesitaron el capítulo 20 para existir conscientemente después de muertos. Juan ya los había visto en el capítulo 6: almas bajo el altar, **hablando**, **recibiendo vestiduras blancas**, **recibiendo la orden de esperar**. Apocalipsis 7 muestra igualmente a los fieles delante del trono.
 
-✅ El clamor, las vestiduras y *que descansaran todavía un poco* están en los versículos 10–11 — **la parte que no tenía cuando este control se escribió por primera vez, y que desde entonces quedó verificada por completo.** El argumento antes etiquetado *fuerte y todavía no confirmado* ahora se sostiene con toda su fuerza, y llegó ahí sin que se ajustara una sola palabra para lograrlo.
+El clamor, las vestiduras y *que descansaran todavía un poco* están en los versículos 10–11: a los mártires se les dice que **descansen todavía un poco de tiempo** — <span class="gr">ἔτι χρόνον μικρόν</span> — **hasta** que su número se **completara**, <span class="gr">ἕως πληρωθῶσιν</span> (*heōs plērōthōsin*). **Cada una de esas cosas es existencia consciente, interpelada, en espera.**
 
-**El control, si se sostiene:** Apocalipsis 6 ya presenta a mártires muertos existiendo conscientemente antes de Apocalipsis 20. Por lo tanto, el *vivieron* y la *primera resurrección* de Apocalipsis 20 **no pueden reducirse a supervivencia consciente después de la muerte sin explicar el cambio de estado.**
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): El clamor, las vestiduras y que descansaran todavía un poco están en los versículos 10–11 — la parte que no tenía cuando este control se escribió por primera vez, y que desde entonces quedó verificada por completo. El argumento antes etiquetado fuerte y todavía no confirmado ahora se sostiene con toda su fuerza, y llegó ahí sin que se ajustara una sola palabra para lograrlo. -->
+
+**El control:** Apocalipsis 6 ya presenta a mártires muertos existiendo conscientemente antes de Apocalipsis 20. Por lo tanto, el *vivieron* y la *primera resurrección* de Apocalipsis 20 **no pueden reducirse a supervivencia consciente después de la muerte sin explicar el cambio de estado.**
 
 Ellos ya tienen supervivencia consciente. El capítulo 20 les da otra cosa.
 
-**Y esto es interno a Apocalipsis.** No importé una doctrina del estado intermedio desde una teología sistemática para presionar a Juan. Juan aportó las dos mitades, en su propio libro, y la primera mitad llega trece capítulos antes del versículo que restringe.
+**Y esto es interno a Apocalipsis.** No importé una doctrina del estado intermedio desde una teología sistemática para presionar a Juan. Juan aportó las dos mitades, en su propio libro, y la primera mitad llega catorce capítulos antes del versículo que restringe.
 :::
 
-## Y aquí la edición española pierde el argumento en su propia Biblia
+## Y aquí el lector de la Reina-Valera pierde el argumento en su propia Biblia
 
 ::: textualnote
-**Nota textual — SYNC-021** `SPANISH-SPECIFIC`
+**Nota textual — el mismo verbo, y la Reina-Valera lo rompe**
 
-Todo lo anterior descansa sobre un detalle verbal: en el griego, Apocalipsis 20:4 dice <span class="gr">ἔζησαν</span> y 20:5 dice <span class="gr">οὐκ ἔζησαν</span>. **El mismo verbo, afirmado y luego negado, en versículos contiguos.** Eso es lo que convierte la estructura de dos etapas en una estructura y no en una inferencia.
+Todo lo anterior descansa sobre un detalle verbal: en el griego, Apocalipsis 20:4 dice <span class="gr">ἔζησαν</span> (*ezēsan*) y 20:5 dice <span class="gr">οὐκ ἔζησαν</span> (*ouk ezēsan*). **El mismo verbo, afirmado y luego negado, en versículos contiguos.** Eso es lo que convierte la estructura de dos etapas en una estructura y no en una inferencia.
 
-**RVR1960 rompe el paralelo.** ✅ Verificado literalmente: **20:4 — *y vivieron*** · **20:5 — *los otros muertos no volvieron a vivir***.
+**RVR1960 rompe el paralelo:** **20:4 — *y vivieron*** · **20:5 — *los otros muertos no volvieron a vivir***.
 
 **RVA-2015 lo preserva:** *volvieron a vivir* / *no volvieron a vivir*.
 
-❗❗ **Consecuencia, y hay que decirla sin suavizarla: quien lee Apocalipsis 20 en RVR1960 no puede *ver* en su propia Biblia el argumento verbal que sostiene este capítulo.** No es que lo vea debilitado. Es que el dato no está en la página.
+**Consecuencia, y hay que decirla sin suavizarla: quien lee Apocalipsis 20 en RVR1960 no puede *ver* en su propia Biblia el argumento verbal que sostiene este capítulo.** No es que lo vea debilitado. Es que el dato no está en la página.
 
-🛑 **Esto no es un error de RVR1960.** Ambas frases traducen el verbo con precisión razonable; la diferencia es de estilo, y el castellano tiene ahí una opción idiomática legítima que el griego no necesita. **Es un problema de variación de traducción, no de error de traducción** — y la regla general que salió de aquí vale para las dos ediciones: **cualquier argumento que dependa de que una palabra aparezca dos veces es frágil frente a la traducción.**
+**Esto no es un error de RVR1960.** Ambas frases traducen el verbo con precisión razonable; la diferencia es de estilo, y el castellano tiene ahí una opción idiomática legítima que el griego no necesita. **Es un problema de variación de traducción, no de error de traducción** — y la regla general que salió de aquí vale para las dos ediciones: **cualquier argumento que dependa de que una palabra aparezca dos veces es frágil frente a la traducción.**
 
-📌 La edición inglesa registra esto como una nota sobre el español. Esta edición no puede permitirse ese lujo: aquí es una nota sobre la Biblia que el lector probablemente tiene en la mano. Por eso se imprime en el cuerpo del capítulo y no al pie.
+Es una nota sobre la Biblia que el lector probablemente tiene en la mano. Por eso se imprime en el cuerpo del capítulo y no al pie.
 :::
 
-Hay un segundo argumento independiente en la misma dirección, y también está verificado. **Hebreos 12:23 describe *los espíritus de los justos hechos perfectos* — <span class="gr">πνεύμασι δικαίων τετελειωμένων</span> — dentro de imágenes de asamblea celestial, y no lo llama resurrección.** El griego del versículo no contiene ninguna palabra para resurrección. Así que existencia celestial consciente no es automáticamente resurrección, dicho por otro autor en otro libro.
+Hay un segundo argumento independiente en la misma dirección. **Hebreos 12:23 describe *los espíritus de los justos hechos perfectos* — <span class="gr">πνεύμασι δικαίων τετελειωμένων</span> — dentro de imágenes de asamblea celestial, y no lo llama resurrección.** El griego del versículo no contiene ninguna palabra para resurrección. Así que existencia celestial consciente no es automáticamente resurrección, dicho por otro autor en otro libro.
 
 ## Un artefacto de traducción — presente en inglés, ausente en RVR1960
 
 ::: wordstudy
-**Estudio de palabra — <span class="gr">ἀνάστασις</span> en Hebreos 11:35** `SPANISH-SPECIFIC` — verificado
+**Estudio de palabra — <span class="gr">ἀνάστασις</span> (*anastasis*) en Hebreos 11:35**
 
-El griego dice <span class="gr">κρείττονος ἀναστάσεως</span> — *kreittonos anastaseōs*, **una mejor resurrección**. Y el propio versículo ya usó el mismo sustantivo en su primera mitad: *las mujeres recibieron sus muertos* — <span class="gr">ἐξ ἀναστάσεως</span>, **por resurrección**. Dos resurrecciones puestas lado a lado en un solo versículo.
+El griego dice <span class="gr">κρείττονος ἀναστάσεως</span> (*kreittonos anastaseōs*) — **una mejor resurrección**. Y el propio versículo ya usó el mismo sustantivo en su primera mitad: *las mujeres recibieron sus muertos* — <span class="gr">ἐξ ἀναστάσεως</span>, **por resurrección**. Dos resurrecciones puestas lado a lado en un solo versículo.
 
-📌 Una traducción inglesa de referencia (ESV) conserva *rise again* pero traslada *better* de la resurrección a la vida — *rise again to a better life*: promete una vida mejor, no una resurrección mejor. Es exactamente lo que este capítulo no puede permitirse, porque su argumento entero gira sobre **calidad o condición diferenciada de resurrección**.
+Una traducción inglesa de referencia (ESV) conserva *rise again* pero traslada *better* de la resurrección a la vida — *rise again to a better life*: promete una vida mejor, no una resurrección mejor. Es exactamente lo que este capítulo no puede permitirse, porque su argumento entero gira sobre **calidad o condición diferenciada de resurrección**.
 
-✅ **RVR1960 no comparte ese artefacto.** Verificado literalmente: *"Las mujeres recibieron sus muertos mediante resurrección; mas otros fueron atormentados, no aceptando el rescate, a fin de obtener **mejor resurrección**."* Conserva el sustantivo **resurrección** las dos veces, en ambas mitades del versículo — el lector de RVR1960 sí ve en su propia Biblia lo que el lector de la ESV no ve en la suya.
+**RVR1960 no comparte ese artefacto:** *"Las mujeres recibieron sus muertos mediante resurrección; mas otros fueron atormentados, no aceptando el rescate, a fin de obtener **mejor resurrección**."* Conserva el sustantivo **resurrección** las dos veces, en ambas mitades del versículo — el lector de RVR1960 sí ve en su propia Biblia lo que el lector de la ESV no ve en la suya.
 
-🛑 **Así que aquí la ventaja se invierte respecto a SYNC-021.** Allá era el español el que perdía el dato verbal frente al griego. Aquí es el inglés el que lo pierde, y el español lo conserva.
+**Así que aquí la ventaja se invierte respecto a la nota anterior.** Allá era el español el que perdía el dato verbal frente al griego. Aquí es el inglés el que lo pierde, y el español lo conserva.
 
-Si se sostiene: los primeros creyentes podían hablar de resurrección con calidad o condición diferenciada, lo cual es apoyo conceptual para el escalonamiento de Apocalipsis. **Hebreos no aporta ninguna cronología del milenio.** Apoyo conceptual, no calendario.
+Lo que el griego establece: los primeros creyentes podían hablar de resurrección con calidad o condición diferenciada, lo cual es apoyo conceptual para el escalonamiento de Apocalipsis. **Hebreos no aporta ninguna cronología del milenio.** Apoyo conceptual, no calendario.
 :::
 
 ## Cuatro modelos, y ninguno seleccionado
@@ -243,7 +223,7 @@ Si se sostiene: los primeros creyentes podían hablar de resurrección con calid
 
 **A — primera resurrección corporal antes del milenio.** Apocalipsis significa lo que fuertemente parece significar.
 *Encaja con:* <span class="gr">ἔζησαν</span> · <span class="gr">ἀνάστασις</span> · *los otros muertos* después · el argumento del cambio de estado del capítulo 6.
-*Costo para un milenio pasado:* ❗ **¿cuándo y dónde ocurrió?**
+*Costo para un milenio pasado:* **¿cuándo y dónde ocurrió?**
 
 **B — vindicación celestial.** *Primera resurrección* es simbólica: los mártires entran al reinado celestial al morir.
 *Ventaja:* históricamente mucho más fácil — que es exactamente por lo que desconfío de mi propia atracción hacia ella.
@@ -251,7 +231,7 @@ Si se sostiene: los primeros creyentes podían hablar de resurrección con calid
 **Actualmente bajo presión textual considerable.**
 
 **C — resurrección corporal más transformación de los vivos.** Apocalipsis 20 cubre a los muertos; Pablo aporta a los vivos transformados simultáneamente.
-*Armoniza bien.* ❗ *Y agranda la carga histórica en vez de reducirla.*
+*Armoniza bien.* *Y agranda la carga histórica en vez de reducirla.*
 
 **D — los mártires representan una población fiel corporativa mayor.** Apocalipsis destaca testigos mártires pero representa al pueblo más amplio que pertenece al Mesías.
 *Posible.* Espera por la sintaxis disputada de 20:4 y por una autoridad gramatical que no tengo.
@@ -261,9 +241,9 @@ Si se sostiene: los primeros creyentes podían hablar de resurrección con calid
 
 ## "Cuerpo espiritual" no significa sin cuerpo
 
-1 Corintios 15:42–44 contrasta lo que se siembra corruptible con lo que resucita incorruptible, y **cuerpo animal** con **cuerpo espiritual**. El griego es <span class="gr">σῶμα ψυχικόν</span> frente a <span class="gr">σῶμα πνευματικόν</span> — verificado en el propio versículo.
+1 Corintios 15:42–44 contrasta lo que se siembra corruptible con lo que resucita incorruptible, y **cuerpo animal** con **cuerpo espiritual**. El griego es <span class="gr">σῶμα ψυχικόν</span> (*sōma psychikon*) frente a <span class="gr">σῶμα πνευματικόν</span> (*sōma pneumatikon*) — verificado en el propio versículo.
 
-**Los dos contienen <span class="gr">σῶμα</span>.** Cuerpo.
+**Los dos contienen <span class="gr">σῶμα</span> (*sōma*).** Cuerpo.
 
 ::: commentary
 **Regla — corporeidad transformada**
@@ -299,7 +279,7 @@ Esta regla apunta hacia mí. Existe porque noté, mientras escribía la sección
 
 Una última cosa, y es procedimental más que exegética, que es justamente por lo que es fácil equivocarse.
 
-🛑 **La investigación histórica no puede empezar por *encontrar mil años en alguna parte*.**
+**La investigación histórica no puede empezar por *encontrar mil años en alguna parte*.**
 
 **Primero:** determinar el evento de primera resurrección y reunión.
 
@@ -309,22 +289,14 @@ Una última cosa, y es procedimental más que exegética, que es justamente por 
 
 **Cuarto:** si se alinean, medir el intervalo.
 
-Invertir ese orden convierte el procedimiento en: encontrar un milenio atractivo en la historia y después retroajustarle alrededor una resurrección y un atamiento. Eso no es investigación. Es decoración con citas, y sería indistinguible de aquello que llevo nueve Partes tratando de no hacer.
+Invertir ese orden convierte el procedimiento en: encontrar un milenio atractivo en la historia y después retroajustarle alrededor una resurrección y un atamiento. Eso no es investigación. Es decoración con citas, y sería indistinguible de aquello que llevo seis Partes tratando de no hacer.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Daniel 12:2, Mateo 27:51–53, Juan 5:28–29, Juan 6, 1 Corintios 15:20–24, 15:42–44 y 15:51–52, 1 Tesalonicenses 4:16–17 y Hebreos 12:22–23 se **describen** en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. *(Hebreos 11:35 ya no pertenece a esta lista — RVR1960 quedó verificada y citada en el estudio de palabra de arriba, S117.)*
-
-Lo único citado literalmente aquí son las dos cláusulas de **Apocalipsis 20:4 y 20:5** registradas en SYNC-021, que sí están verificadas.
-
-*(Esto se suma a SYNC-020 — el pase de compleción del texto primario español de Apocalipsis — que sigue siendo una deuda de publicación de alta prioridad y no un bloqueo de Borrador 1.)*
-:::
+<!-- SPANISH-SPECIFIC (oculto): ::: textualnote **Nota textual — deuda declarada** Daniel 12:2, Mateo 27:51–53, Juan 5:28–29, Juan 6, 1 Corintios 15:20–24, 15:42–44 y 15:51–52, 1 Tesalonicenses 4:16–17 y Hebreos 12:22–23 se **describen** en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. *(Hebreos 11:35 ya no pertenece a esta lista — RVR1960 quedó verificada y citada en el estudio de palabra de arriba, S117.)* Lo único citado literalmente aquí son las dos cláusulas de **Apocalipsis 20:4 y 20:5** registradas en SYNC-021, que sí están verificadas. *(Esto se suma a SYNC-020 — el pase de compleción del texto primario español de Apocalipsis — que sigue siendo una deuda de publicación de alta prioridad y no un bloqueo de Borrador 1.)* ::: -->
 
 ::: whereweare
-**Dónde estamos.** La puerta está abierta pero no franqueada. La estructura de dos etapas de Apocalipsis está resuelta y no se reabre; la pregunta es cómo se aplican Daniel, Yeshúa y Pablo sobre ella. Daniel aporta ascendencia, y la única palabra que me habría ayudado ya fue adjudicada en mi contra en la Parte V. Mateo 27 prueba que una resurrección corporal puede estar acotada históricamente, sin identificar esta. Pablo escalona la resurrección él mismo — y después sube la carga agregándole santos vivos transformados, lo cual es mucho más difícil de ocultar que una visión celestial. El hallazgo más fuerte del capítulo es interno a Apocalipsis y cierra la salida que más me convendría: los mártires ya estaban conscientes en el capítulo 6, así que *vivieron* en el capítulo 20 tiene que marcar un cambio de estado. Y en esta edición hay un costo adicional que la inglesa no paga: el lector de RVR1960 no tiene delante el paralelo verbal que sostiene ese argumento. Cuatro modelos siguen vivos y ninguno está seleccionado.
+**Dónde nos deja esto.** La puerta está abierta pero no franqueada. La estructura de dos etapas de Apocalipsis está resuelta y no se reabre; la pregunta es cómo se aplican Daniel, Yeshúa y Pablo sobre ella. Daniel aporta ascendencia, y la única palabra que me habría ayudado ya fue adjudicada en mi contra en la Parte V. Mateo 27 prueba que una resurrección corporal puede estar acotada históricamente, sin identificar esta. Pablo escalona la resurrección él mismo — y después sube la carga agregándole santos vivos transformados, lo cual es mucho más difícil de ocultar que una visión celestial. El hallazgo más fuerte del capítulo es interno a Apocalipsis y cierra la salida que más me convendría: los mártires ya estaban conscientes en el capítulo 6, así que *vivieron* en el capítulo 20 tiene que marcar un cambio de estado. Y hay un costo adicional: el lector de RVR1960 no tiene delante el paralelo verbal que sostiene ese argumento. Cuatro modelos siguen vivos y ninguno está seleccionado.
 :::
 
 ::: earned
-**Lo que ganó.** Una puerta que sigue siendo honestamente una puerta. Un freno escrito en el momento en que noté que estaba disfrutando un argumento capaz de excusar cualquier ausencia de evidencia. Tres pasajes incompletos declarados arriba en vez de descubiertas abajo, incluida aquella de la que depende el mejor hallazgo del capítulo. El cierre de la única lectura que habría vuelto fácil todo este proyecto — cerrada no por un crítico, sino por Apocalipsis 6. Y una advertencia que esta edición estaba obligada a dar y la otra no: el argumento decisivo de este capítulo no se ve en la Biblia española más usada, y decirlo cuesta más que callarlo.
+**La pregunta que esto deja.** Una puerta que sigue siendo honestamente una puerta. Un freno escrito en el momento en que noté que estaba disfrutando un argumento capaz de excusar cualquier ausencia de evidencia. El cierre de la única lectura que habría vuelto fácil toda esta investigación — cerrada no por un crítico, sino por Apocalipsis 6, cuyo texto completo fortalece el control en vez de solo permitirlo. Y una advertencia que había que dar: el argumento decisivo de este capítulo no se ve en la Biblia española más usada, y decirlo cuesta más que callarlo.
 :::

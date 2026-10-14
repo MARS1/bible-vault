@@ -17,22 +17,24 @@ Llevé *la abominación desoladora* conmigo durante años como si fuera un títu
 Después leí los cuatro versículos en hebreo, uno al lado del otro.
 
 ::: finding
-**Y en castellano el error tenía ayuda** `SPANISH-SPECIFIC`
+**Y en castellano el error tenía ayuda**
 
 En castellano *abominación desoladora* no circula como una descripción. Circula como una **expresión fija** — dos palabras soldadas, con mayúscula implícita, prácticamente un nombre propio. Se la cita entera, se la reconoce entera, y nadie se detiene a preguntar cuál de las dos palabras está haciendo qué.
 
-❗ **De modo que el error que este capítulo corrige no es solo mío: el idioma lo refuerza.** Un lector inglés al menos oye dos sustantivos unidos por una preposición. El lector español oye una unidad léxica, y una unidad léxica no parece tener partes que puedan variar.
+**De modo que el error que este capítulo corrige no es solo mío: el idioma lo refuerza.** Un lector inglés al menos oye dos sustantivos unidos por una preposición. El lector español oye una unidad léxica, y una unidad léxica no parece tener partes que puedan variar.
 
-🛑 **Y eso es exactamente lo que va a resultar falso.** Las palabras se mueven. La forma se mantiene.
+**Y eso es exactamente lo que va a resultar falso.** Las palabras se mueven. La forma se mantiene.
 
-⚠️ **Precisión:** lo anterior es un hecho sobre el uso castellano corriente, no una cita de RVR1960. Cómo vierte RVR1960 cada uno de los cuatro versículos de Daniel **no fue recuperado**. **Candidato a entrada SYNC.**
+**Precisión:** lo anterior es un hecho sobre el uso castellano corriente, no una cita de RVR1960. Cómo vierte RVR1960 cada uno de los cuatro versículos de Daniel no lo he comprobado.
 :::
 
 ## Cuatro formas, dos sustantivos, y uno de ellos no es la palabra
 
+La pregunta que responde la tabla: **¿usa el hebreo de Daniel una sola frase fija para esto — o la redacción se mueve de pasaje en pasaje?** La columna que hay que mirar es el sustantivo, y si lleva el artículo, la palabra hebrea para *el*.
+
 | Pasaje | Hebreo | Sustantivo |
 |-------------|----------------------------------|------------------------------------|
-| **8:13** | <span class="he">וְהַפֶּשַׁע שֹׁמֵם</span> | ★ **<span class="he">פֶּשַׁע</span> — *transgresión*** |
+| **8:13** | <span class="he">וְהַפֶּשַׁע שֹׁמֵם</span> | **<span class="he">פֶּשַׁע</span> — *transgresión*** |
 | **9:27** | <span class="he">שִׁקּוּצִים מְשֹׁמֵם</span> | <span class="he">שִׁקּוּץ</span> — **plural** |
 | **11:31** | <span class="he">הַשִּׁקּוּץ מְשֹׁמֵם</span> | singular, **con artículo** |
 | **12:11** | <span class="he">שִׁקּוּץ שֹׁמֵם</span> | singular, **sin él** |
@@ -40,7 +42,7 @@ En castellano *abominación desoladora* no circula como una descripción. Circul
 ::: finding
 **Hallazgo — Daniel 8:13 ni siquiera usa la palabra**
 
-Usa <span class="he">פֶּשַׁע</span> — **otro sustantivo**, que significa transgresión o rebelión. Y 8:12 lleva la misma raíz, así que recorre toda la unidad. **Daniel 8 es léxicamente distinto de los otros tres.**
+Usa <span class="he">פֶּשַׁע</span> (*pesha*) — **otro sustantivo**, que significa transgresión o rebelión. Y 8:12 lleva la misma raíz, así que recorre toda la unidad. **Daniel 8 es léxicamente distinto de los otros tres.**
 
 Así que *ya tenemos un patrón* es verdadero de la **estructura** y falso de la **redacción**. Hay un complejo recurrente — santuario, sacrificio continuo interrumpido, algo desolador, pisoteo. **No hay ninguna frase fija.**
 
@@ -54,18 +56,24 @@ Y un segundo hallazgo está dentro de la gramática hebrea, que leyendo en tradu
 
 La raíz de la desolación funciona como **participio que modifica** al sustantivo, en los cuatro casos. **La desolación es la condición asociada a la abominación, o resultante de ella. No es un sinónimo suyo.**
 
-❗ **Eso bloquea tres atajos a la vez:**
+**Eso bloquea tres atajos a la vez:**
 
-❌ abominación = ejército · ❌ abominación = destrucción · ❌ abominación = un ser humano concreto.
+*abominación = ejército* · *abominación = destrucción* · *abominación = un ser humano concreto*.
 
 **Ninguno de los tres lo aporta el hebreo.** Cada uno tendría que establecerse pasaje por pasaje, con evidencia propia — y los he visto afirmar los tres como si la frase misma los aportara.
 
-⚠️ Y una cosa que todavía no puedo establecer en la otra dirección: si <span class="he">שִׁקּוּץ</span> lleva un rango específicamente **idolátrico y cúltico**. **No se obtuvo ninguna autoridad léxica.** Está reportado, no verificado — y nada de lo recuperado lo contradice.
+Y una cosa que todavía no puedo establecer en la otra dirección: si <span class="he">שִׁקּוּץ</span> (*shiqquts*) lleva un rango específicamente **idolátrico y cúltico**. **No se obtuvo ninguna autoridad léxica.** Está reportado, no verificado — y nada de lo que he leído lo contradice.
 :::
 
-Dos disciplinas menores más. Daniel usa **dos palabras distintas para santuario** —una en 8:11, otra en 9:26— y no son intercambiables. Y el artículo **se invierte** entre hebreo y griego en 11:31 y 12:11, cosa que registré como enigma y entonces no supe explicar. *(Queda explicado más adelante en este mismo capítulo, desde una dirección que no esperaba.)*
+Dos disciplinas menores más. Daniel usa **dos palabras distintas para santuario** —una en 8:11, otra en 9:26— y no son intercambiables. Y el artículo **se invierte** entre hebreo y griego en 11:31 y 12:11, cosa que registré como enigma y entonces no supe explicar. (*Queda explicado más adelante en este mismo capítulo, desde una dirección que no esperaba.*)
 
-## El caso de control, y la pregunta que no pudo responder
+## El caso de control, y la pregunta para la que se construyó
+
+::: person
+**Antíoco IV Epífanes · reinó del 175 al 164 a. C.**
+
+Rey de habla griega del imperio seléucida, que entonces gobernaba Judea desde Siria. Hacia el 167 a. C. prohibió la práctica judía, profanó el templo de Jerusalén e instaló allí sacrificios paganos, y contra él se levantó la revuelta macabea. Conocido sobre todo por 1 y 2 Macabeos. **Una figura histórica extrabíblica** — y si las visiones de Daniel lo describen, y hasta dónde, es la pregunta que esta sección pone a prueba en vez de suponer.
+:::
 
 Antíoco IV es el caso histórico de control, y la correspondencia con Daniel 11 es sustancial: naves de Quitim, furia contra el pacto santo, fuerzas que profanan el santuario, el sacrificio continuo quitado, la cosa desoladora instalada, y los que conocen a su Dios manteniéndose firmes.
 
@@ -78,7 +86,7 @@ Cada afirmación macabea de arriba es *el texto dice X* — **un hecho sobre un 
 
 1 y 2 Macabeos están en algunos cánones cristianos, no están en el Tanaj, y se clasifican como apócrifos en tradiciones protestantes. **Este capítulo no resuelve ninguna cuestión canónica**, y no necesita hacerlo: un testigo puede ser útil evidencialmente sin que su estatuto canónico esté zanjado, siempre que nadie finja que las dos preguntas son la misma.
 
-⚠️ El perfil del evento de arriba se trabajó primero **en inglés**; el griego del versículo decisivo va abajo.
+El perfil del evento de arriba se da a partir de **traducción**; el griego del versículo decisivo va abajo.
 :::
 
 Lo cual lleva al caso de control hacia aquello para lo que existía.
@@ -88,41 +96,41 @@ Lo cual lleva al caso de control hacia aquello para lo que existía.
 
 **¿Usa 1 Macabeos la frase de Daniel — y si la usa, en cuál de las formas griegas de Daniel?**
 
-**Ese era el punto entero del caso de control** — averiguar qué llamaba a la cosa la gente que efectivamente vivió la crisis, y si usaba la redacción exacta de Daniel. La traducción moderna *sacrilegio desolador* no puede responderlo: no preserva nada de la forma griega. Por un largo tramo de esta investigación la pregunta quedó abierta exactamente por eso. El griego de 1 Macabeos ya se leyó.
+**Ese era el punto entero del caso de control** — averiguar qué llamaba a la cosa la gente que efectivamente vivió la crisis, y si usaba la redacción exacta de Daniel. La traducción moderna *sacrilegio desolador* no puede responderlo: no preserva nada de la forma griega. El griego de 1 Macabeos sí puede.
 
-✅ **1 Macabeos 1:54** — <span class="gr">ᾠκοδόμησεν βδέλυγμα ἐρημώσεως ἐπὶ τὸ θυσιαστήριον</span> — *edificó una abominación de desolación sobre el altar.*
+**1 Macabeos 1:54** — <span class="gr">ᾠκοδόμησεν βδέλυγμα ἐρημώσεως ἐπὶ τὸ θυσιαστήριον</span> — *edificó una abominación de desolación sobre el altar.*
 
-❗ **Sí — la frase de Daniel, singular y sin artículo.** De las formas griegas expuestas en el capítulo anterior, esa es el Griego Antiguo de **Daniel 11:31**. **No es la forma con artículo — la de Daniel 12:11 — que cita Mateo.**
+**Sí — la frase de Daniel, singular y sin artículo.** De las formas griegas expuestas en el capítulo anterior, esa es el Griego Antiguo de **Daniel 11:31**. **No es la forma con artículo — la de Daniel 12:11 — que cita Mateo.**
 
-⚠️ **El freno:** esa misma forma sin artículo también aparece en la *otra* versión griega de Daniel, en 12:11, como mostrará este capítulo. Así que 1 Macabeos no se ata a un solo versículo de Daniel solo por su redacción. Lo que sí establece es más estrecho y firme: **la gente más cercana a la crisis de Antíoco la nombró con las palabras de Daniel, y la forma exacta de Mateo, artículo incluido, no es la de ellos.**
+**El freno:** esa misma forma sin artículo también aparece en la *otra* versión griega de Daniel, en 12:11, como mostrará este capítulo. Así que 1 Macabeos no se ata a un solo versículo de Daniel solo por su redacción. Lo que sí establece es más estrecho y firme: **la gente más cercana a la crisis de Antíoco la nombró con las palabras de Daniel, y la forma exacta de Mateo, artículo incluido, no es la de ellos.**
 
-★ **Y una segunda cosa que el caso de control no aportó.** 1 Macabeos 1:54 **no dice qué *era* la abominación.** Ni ídolo, ni altar, ni estatua, ni sacrificio — el texto no nombra ninguno ahí. Dice solamente que fue erigida **sobre el altar del holocausto**, y sigue con los cerdos y los rollos.
+**Y una segunda cosa que el caso de control no aportó.** 1 Macabeos 1:54 **no dice qué *era* la abominación.** Ni ídolo, ni altar, ni estatua, ni sacrificio — el texto no nombra ninguno ahí. Dice solamente que fue erigida **sobre el altar del holocausto**, y sigue con los cerdos y los rollos.
 
 **Ni siquiera el testigo histórico más cercano especifica el objeto.** Eso es un hallazgo en sí mismo, y corta contra cualquier afirmación moderna confiada sobre qué tiene que ser físicamente una abominación desoladora.
 :::
 
-Una cosa que dejo deliberadamente abierta: **si Daniel 11:36 sigue describiendo a Antíoco o el horizonte se desplaza.** Eso es una disputa de nivel comentario y ninguna lectura del texto puede decidirla. Registrada como abierta — ⚠️ **y no puede zanjarse después sobre la base de que una respuesta le convenga a mi cronología.**
+Una cosa que dejo deliberadamente abierta: **si Daniel 11:36 sigue describiendo a Antíoco o el horizonte se desplaza.** Eso es una disputa de nivel comentario y ninguna lectura del texto puede decidirla. Registrada como abierta — **y no puede zanjarse después sobre la base de que una respuesta le convenga a mi cronología.**
 
 ## Los sinópticos coinciden en la huida y difieren en la señal
 
-Los tres verificados en griego.
+Mateo, Marcos y Lucas — los tres Evangelios que cuentan este discurso, llamados habitualmente sinópticos — verificados los tres en griego. **La pregunta que responde la tabla: ¿describen los tres el mismo momento, y exactamente dónde se separan?** Cada fila es un elemento del pasaje, seguido a través de los tres.
 
 | Elemento | Mateo 24 | Marcos 13 | Lucas 21 |
 |------------------|------------------------|-----------------------|------------------------|
-| *cuando vean* | ✅ | ✅ | ✅ |
-| **la señal** | **la abominación desoladora** | **la abominación desoladora** | ★ **Jerusalén rodeada de ejércitos** |
-| su estado | *en pie en lugar santo* | ★ *en pie donde no debe* | *su desolación ha llegado* |
-| **cita a Daniel** | ✅ **por nombre** | ❌ ausente | ❌ ausente |
-| huida a los montes | ✅ | ✅ | ✅ |
-| las encintas y las que crían | ✅ | ✅ | ✅ — **casi literal en los tres** |
-| sábado | ✅ **solo Mateo** | ❌ | ❌ |
-| espada, cautiverio, pisoteo, tiempos de las naciones | ❌ | ❌ | ✅ **solo Lucas** |
+| *cuando vean* | sí | sí | sí |
+| **la señal** | **la abominación desoladora** | **la abominación desoladora** | **Jerusalén rodeada de ejércitos** |
+| su estado | *en pie en lugar santo* | *en pie donde no debe* | *su desolación ha llegado* |
+| **cita a Daniel** | **por nombre** | ausente | ausente |
+| huida a los montes | sí | sí | sí |
+| las encintas y las que crían | sí | sí | sí — **casi literal en los tres** |
+| sábado | **solo Mateo** | — | — |
+| espada, cautiverio, pisoteo, tiempos de las naciones | — | — | **solo Lucas** |
 
 **El complejo de la huida es verbalmente compartido por los tres.** Pero **la señal difiere**: Mateo y Marcos nombran una abominación; **Lucas nombra ejércitos.**
 
 Y dos negativos, ambos confirmados por búsqueda directa: **Lucas no usa la palabra *abominación* en ninguna parte de ese pasaje, y nunca menciona a Daniel.** **Solo Mateo cita a Daniel.**
 
-📐 Así que Mateo y Marcos frente a Lucas es una **correspondencia de evento muy fuerte**. ❌ *La abominación es el ejército romano* sigue **abierto y no establecido** — y la propia redacción de Lucas es la razón.
+Así que Mateo y Marcos frente a Lucas es una **correspondencia de evento muy fuerte**. *La abominación es el ejército romano* sigue **abierto y no establecido** — y la propia redacción de Lucas es la razón.
 
 ::: finding
 **Hallazgo — Lucas dice que los ejércitos son la señal, no la cosa**
@@ -133,11 +141,13 @@ Y dos negativos, ambos confirmados por búsqueda directa: **Lucas no usa la pala
 
 La distinción es textual y no interpretativa, y ahora está verificada en griego.
 
-⚠️ **Y la gramática de Marcos es el dato más agudo de esta sección, y no tengo permiso para usarlo.** Marcos escribe *la abominación desoladora **en pie** donde no debe* — y **el participio es masculino mientras el sustantivo es neutro. No concuerdan.**
+**Y la gramática de Marcos es el dato más agudo de esta sección, y no tengo permiso para usarlo.**
 
-Un participio masculino pegado a un sustantivo neutro apunta hacia **alguien de pie** y no hacia **algo colocado**, lo cual incidiría directamente sobre todo lo anterior.
+Necesita primero una explicación. Los sustantivos griegos tienen género gramatical — masculino, femenino o neutro —, y un participio, una forma verbal usada como adjetivo, como *en pie*, normalmente toma el mismo género que el sustantivo que describe. *Abominación*, <span class="gr">βδέλυγμα</span> (*bdelygma*), es **neutro**. Marcos escribe *la abominación desoladora **en pie** donde no debe* — y su *en pie*, <span class="gr">ἑστηκότα</span> (*hestēkota*), es **masculino. El sustantivo y el participio no concuerdan.**
 
-🛑 **Registrado solo como observación.** Se debe una autoridad gramatical griega antes de que esto pese algo. No analizo sintaxis disputada por mi cuenta, y este es justamente el dato donde hacerlo sería más tentador y menos defendible.
+Por qué podría importar: un escritor que pone *en pie* en masculino puede tener en mente a **alguien de pie** y no **algo colocado** — lo cual incidiría directamente sobre todo lo anterior.
+
+**Registrado solo como observación.** Un desajuste así tiene más de una explicación posible, y decidir entre ellas exige una autoridad gramatical griega antes de que pese algo. Los manuscritos tampoco coinciden todos aquí: algunas ediciones impresas del griego dan otra forma del participio. No analizo sintaxis disputada por mi cuenta, y este es justamente el dato donde hacerlo sería más tentador y menos defendible.
 :::
 
 Y una de mis propias reglas vuelve a morderme. Lucas 21:24 tiene a Jerusalén pisoteada por las naciones **hasta** que se cumplan los tiempos de las naciones — la misma construcción de *hasta* que vengo rastreando en 1 Corintios 15:25 y Apocalipsis 20:3. **Garantiza que el pisoteo continúa *a través* de ese punto. No establece absolutamente nada sobre qué hay del otro lado.** Cualquier afirmación sobre el otro lado necesita evidencia independiente, y la regla se escribió mucho antes de que este versículo me importara.
@@ -148,11 +158,11 @@ Lucas también dice que son días de venganza, *para que se cumplan todas las co
 
 Juan registra a Yeshúa en Jerusalén en *la Dedicación*, en invierno — y 1 Macabeos describe una observancia anual de ocho días instituida después de purificado el santuario.
 
-⚠️ **Por mucho tiempo este vínculo quedó verificado a medias, y así se registró.** La palabra griega de Juan estaba verificada. La palabra de 1 Macabeos se había aportado de memoria y se etiquetó *verificada* de todos modos — **y esa etiqueta fue rechazada**, porque una palabra recordada no es una palabra leída. El griego de 1 Macabeos ya se leyó desde entonces.
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): Por mucho tiempo este vínculo quedó verificado a medias, y así se registró. La palabra griega de Juan estaba verificada. La palabra de 1 Macabeos se había aportado de memoria y se etiquetó verificada de todos modos — y esa etiqueta fue rechazada, porque una palabra recordada no es una palabra leída. El griego de 1 Macabeos ya se leyó desde entonces. -->
 
-✅ **Juan 10:22** tiene <span class="gr">τὰ ἐγκαίνια</span>. **1 Macabeos** tiene <span class="gr">ἐγκαινισμός</span> — *la dedicación del altar* en 4:56, y en 4:59 *los días de la dedicación*, guardados ocho días *año tras año* — y el verbo <span class="gr">ἐγκαινίζω</span>, *dedicar*, en 4:36.
+**Juan 10:22** tiene <span class="gr">τὰ ἐγκαίνια</span> (*ta enkainia*). **1 Macabeos** tiene <span class="gr">ἐγκαινισμός</span> (*enkainismos*) — *la dedicación del altar* en 4:56, y en 4:59 *los días de la dedicación*, guardados ocho días *año tras año* — y el verbo <span class="gr">ἐγκαινίζω</span>, *dedicar*, en 4:36.
 
-📐 **Así que son la misma familia de palabras, y no la misma palabra.** La fiesta que nombra Juan y la observancia que instituye 1 Macabeos están unidas por una raíz compartida y por lo que cada una describe. No están unidas por vocabulario idéntico, y el vínculo se enuncia exactamente con esa fuerza.
+**Así que son la misma familia de palabras, y no la misma palabra.** La fiesta que nombra Juan y la observancia que instituye 1 Macabeos están unidas por una raíz compartida y por lo que cada una describe. No están unidas por vocabulario idéntico, y el vínculo se enuncia exactamente con esa fuerza.
 
 ## Una regla sobre la recurrencia, con sus dos mitades
 
@@ -167,69 +177,61 @@ La garantía no es mía. **Antíoco muere en el siglo segundo antes del Mesías.
 
 Así que Antíoco no puede agotar toda aplicación legítima del lenguaje de Daniel — **y no estoy diciendo que no fuera un referente.** La evidencia de que lo fue es sustancial. **Yeshúa mismo crea el problema interpretativo. No se inventó para rescatar una teoría.**
 
-📌 Y una observación estructural que vale guardar: esto es *expansión no es borradura* trasladado desde la **identidad** hacia la **profecía**. La misma forma apareció ya en tres dominios separados — identidad pactual, expansión textual y reaplicación profética. **Una regla que recurre de manera independiente en varios dominios es mejor evidencia de la regla que cualquiera de sus aplicaciones sueltas.**
+Y una observación estructural que vale guardar: esto es *expansión no es borradura* trasladado desde la **identidad** hacia la **profecía**. La misma forma apareció ya en tres dominios separados — identidad pactual, expansión textual y reaplicación profética. **Una regla que recurre de manera independiente en varios dominios es mejor evidencia de la regla que cualquiera de sus aplicaciones sueltas.**
 
-⚠️ **Su correa:** no puede invocarse para mantener viva una lectura que su peor dato ya mató. Habilita la **pregunta** de la recurrencia. Nunca aporta la **respuesta**, y cada recurrencia alegada tiene que demostrarse desde el texto.
+**Su correa:** no puede invocarse para mantener viva una lectura que su peor dato ya mató. Habilita la **pregunta** de la recurrencia. Nunca aporta la **respuesta**, y cada recurrencia alegada tiene que demostrarse desde el texto.
 :::
 
 ## Un registro de un motivo, que no es una cadena de identificaciones
 
+La pregunta de esta tabla es deliberadamente pequeña: **¿vuelven una y otra vez la Escritura y su historia más cercana a un mismo patrón — un gobernante que se exalta contra Dios y es derribado?** No pregunta si dos de estos gobernantes son el mismo.
+
 | Figura | El acto | El desenlace |
 |--------------------------|--------------------------------------------|-------------------------------------------|
-| **Nabucodonosor** *(Daniel 4:30, 4:34–36)* | se jacta de su propio poder y gloria | humillado — ★ **luego reconoce al Altísimo y es restaurado** |
-| **Belsasar** *(Daniel 5:2–4, 5:30)* | ★ bebe de **los vasos tomados del templo de Jerusalén** y alaba a los ídolos | muerto esa misma noche |
+| **Nabucodonosor** *(Daniel 4:30, 4:34–36)* | se jacta de su propio poder y gloria | humillado — **luego reconoce al Altísimo y es restaurado** |
+| **Belsasar** *(Daniel 5:2–4, 5:30)* | bebe de **los vasos tomados del templo de Jerusalén** y alaba a los ídolos | muerto esa misma noche |
 | **Antíoco IV** *(1 Macabeos 1:21, 1:54, 6:16)* | entra al santuario *con arrogancia*; profanación del culto | muere |
 | **Herodes Agripa I** *(Hechos 12:22–23)* | acepta *la voz de un dios* | herido de muerte |
 | **el inicuo de Pablo** *(2 Tesalonicenses 2:4, 2:8)* | autoexaltación **en el santuario de Yahweh** | destruido en la venida |
 
-🛑 **Motivo no es identidad.** Estos cinco no son una sola figura, y esto es una categoría conceptual contra la cual el lenguaje de Pablo puede **probarse** — nada más.
+**Motivo no es identidad.** Estos cinco no son una sola figura, y esto es una categoría conceptual contra la cual el lenguaje de Pablo puede **probarse** — nada más.
 
-❗ **Y el freno del paralelo parcial muerde de inmediato: el arco de Nabucodonosor resuelve en arrepentimiento y restauración.** La semejanza en la partida no puede sobrevivir a la contradicción en la resolución. Por eso mismo pertenece a un registro de motivo y no a una cadena.
+**Y el freno del paralelo parcial muerde de inmediato: el arco de Nabucodonosor resuelve en arrepentimiento y restauración.** La semejanza en la partida no puede sobrevivir a la contradicción en la resolución. Por eso mismo pertenece a un registro de motivo y no a una cadena.
 
-✅ **Cada fila fue verificada contra su propio texto** — Daniel en arameo, 1 Macabeos y Hechos en griego. La tabla se armó primero sin esos textos en mano, y no se dejó valer como trabajo verificado hasta que cada fila se leyó.
+**Cada fila fue verificada contra su propio texto** — Daniel en arameo, 1 Macabeos y Hechos en griego.
 
----
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): La tabla se armó primero sin esos textos en mano, y no se dejó valer como trabajo verificado hasta que cada fila se leyó. -->
 
-# La deuda que falló tres veces
+## El Daniel griego de Teodoción
 
-Cuatro hallazgos distintos estaban bloqueados por un texto faltante: **el Daniel griego de Teodoción.** Tres intentos, en tres etapas, en tres lugares distintos. Los tres fracasaron.
+Cuatro hallazgos distintos de esta Parte dependen de un solo texto: **el Daniel griego de Teodoción.**
 
-Y el diagnóstico importa más que el arreglo.
+Un recordatorio de qué es, porque la última mención fue hace dos capítulos. **Daniel sobrevive en dos formas griegas antiguas: el Griego Antiguo, más antiguo, y la revisión posterior asociada a Teodoción.** A esas formas distintas de un mismo texto se las llama **recensiones**. Difieren en la redacción, y un escritor del Nuevo Testamento que hace eco de Daniel en griego puede coincidir con una y no con la otra.
 
 ::: textualnote
-**Nota textual — el hallazgo de Teodoción, y por qué la respuesta no era insistir**
+**Nota textual — dos Danieles griegos son dos textos separados**
 
-Todos los intentos anteriores buscaban **una edición de lectura que muestre el Daniel griego.**
-
-**Dos suposiciones eran falsas, y ninguna se había examinado nunca.**
-
-**Una:** que Teodoción existiría como **edición de lectura**. Existe como **corpus académico en texto plano** — una Septuaginta con etiquetado morfológico, por una ruta heredada de un protocolo más antiguo.
-
-**Dos:** que *el Daniel griego* es un texto con Teodoción en alguna parte adentro. **No lo es. El corpus entrega las dos recensiones como dos archivos separados, bajo dos nombres.**
-
-❗ **Y la pista ya estaba en mi propio archivo, sin leer.** Dos capítulos atrás registré que cierta fuente daba en Daniel una lectura distintiva, y la identifiqué como **Griego Antiguo por la propia marca del texto**. La edición crítica estándar imprime **Teodoción** como su texto principal de Daniel. **Esos dos hechos juntos implican que otro árbol de ediciones daría Teodoción — y tres etapas posteriores buscaron sin combinarlos nunca.**
-
-🆕 **La regla que esto impone, tercera de una familia:** *no encontrar algo no es prueba de que no exista* · *dónde se busca importa tanto como qué se busca* · y ahora — **preguntar qué *clase* de artefacto es el texto.** Algunos textos no son páginas web, y un texto que existe en dos recensiones puede venir en dos archivos.
-
-**En los dos últimos hallazgos el arreglo no fue insistir. Fue hacer una pregunta distinta sobre el artefacto.**
+Las dos recensiones circulan como dos textos separados, publicados aparte bajo dos nombres. La edición crítica estándar de la Septuaginta imprime **Teodoción** como su texto principal de Daniel; el Daniel griego leído en el capítulo 41 era el **Griego Antiguo**, identificado por sus propias lecturas. Aquí se ponen los dos lado a lado.
 :::
 
-Y no solo llenó un hueco.
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): --- # La deuda que falló tres veces Cuatro hallazgos distintos estaban bloqueados por un texto faltante: **el Daniel griego de Teodoción.** Tres intentos, en tres etapas, en tres lugares distintos. Los tres fracasaron. Y el diagnóstico importa más que el arreglo. ::: textualnote **Nota textual — el hallazgo de Teodoción, y por qué la respuesta no era insistir** Todos los intentos anteriores buscaban **una edición de lectura que muestre el Daniel griego.** **Dos suposiciones eran falsas, y ninguna se había examinado nunca.** **Una:** que Teodoción existiría como **edición de lectura**. Existe como **corpus académico en texto plano** — una Septuaginta con etiquetado morfológico, por una ruta heredada de un protocolo más antiguo. **Dos:** que *el Daniel griego* es un texto con Teodoción en alguna parte adentro. **No lo es. El corpus entrega las dos recensiones como dos archivos separados, bajo dos nombres.** ❗ **Y la pista ya estaba en mi propio archivo, sin leer.** Dos capítulos atrás registré que cierta fuente daba en Daniel una lectura distintiva, y la identifiqué como **Griego Antiguo por la propia marca del texto**. La edición crítica estándar imprime **Teodoción** como su texto principal de Daniel. **Esos dos hechos juntos implican que otro árbol de ediciones daría Teodoción — y tres etapas posteriores buscaron sin combinarlos nunca.** 🆕 **La regla que esto impone, tercera de una familia:** *no encontrar algo no es prueba de que no exista* · *dónde se busca importa tanto como qué se busca* · y ahora — **preguntar qué *clase* de artefacto es el texto.** Algunos textos no son páginas web, y un texto que existe en dos recensiones puede venir en dos archivos. **En los dos últimos hallazgos el arreglo no fue insistir. Fue hacer una pregunta distinta sobre el artefacto.** ::: Y no solo llenó un hueco. -->
 
 ::: finding
-**Hallazgo — una afirmación que había dejado desestabilizar nunca estuvo realmente en duda**
+**Hallazgo — la afirmación que el Griego Antiguo parecía inquietar nunca estuvo realmente en duda**
+
+La pregunta: en Daniel 7:13, ¿el hijo de hombre viene *al* Anciano de días y es *presentado delante* de él — o el texto dice otra cosa? Tres testigos del versículo, leídos lado a lado:
 
 | Testigo | Preposición | La segunda cláusula |
 |------------------|-------------------|--------------------------------------------|
 | **Arameo** | *con* | *vino **al** Anciano de días y fue **presentado** delante de él* |
-| **Teodoción** | *con* | ✅ *llegó **hasta** el Anciano de días… y fue **presentado** ante él* |
-| **Griego Antiguo** | *sobre* | ⚠️ *y **como** un Anciano de días **estaba presente*** |
+| **Teodoción** | *con* | *llegó **hasta** el Anciano de días… y fue **presentado** ante él* |
+| **Griego Antiguo** | *sobre* | *y **como** un Anciano de días **estaba presente*** |
 
 **Teodoción concuerda con el arameo en los dos puntos. El Griego Antiguo es el atípico en los dos.**
 
 Así que la afirmación de que el hijo de hombre de Daniel 7:13 es **presentado ante** el Anciano de días y no que desciende a la tierra está **confirmada por dos de tres testigos**.
 
-📌 **Y mi manejo anterior queda vindicado.** Se me había afirmado que el Griego Antiguo decía *se acerca al trono*; rechacé la afirmación y registré la divergencia **sin resolver** en vez de alisarla. **Si la hubiera aceptado, este hallazgo sería invisible** — la rareza genuina del Griego Antiguo se habría borrado hacia la concordancia, y el resultado de dos sobre tres jamás habría aparecido.
+**Y mi manejo anterior queda vindicado.** Se me había afirmado que el Griego Antiguo decía *se acerca al trono*; rechacé la afirmación y registré la divergencia **sin resolver** en vez de alisarla. **Si la hubiera aceptado, este hallazgo sería invisible** — la rareza genuina del Griego Antiguo se habría borrado hacia la concordancia, y el resultado de dos sobre tres jamás habría aparecido.
 :::
 
 ## Una huella que no estaba buscando — y el freno que la limita
@@ -237,38 +239,40 @@ Así que la afirmación de que el hijo de hombre de Daniel 7:13 es **presentado 
 ::: finding
 **Hallazgo — Mateo y Juan siguen Danieles griegos distintos**
 
+La pregunta: cuando Mateo y Juan hacen eco, cada uno, del *venir con las nubes* de Daniel, ¿de qué redacción griega están más cerca? La palabra delatora es la preposición — *sobre* las nubes en el Griego Antiguo, *con* ellas en Teodoción y en el arameo.
+
 | | Preposición con las nubes | Coincide con |
 |------------------------|------------------|--------------------------|
-| **Mateo 24:30** | <span class="gr">ἐπί</span> | ★ **Griego Antiguo** |
-| **Apocalipsis 1:7** | <span class="gr">μετά</span> | ★ **Teodoción / arameo** |
+| **Mateo 24:30** | <span class="gr">ἐπί</span> | **Griego Antiguo** |
+| **Apocalipsis 1:7** | <span class="gr">μετά</span> | **Teodoción / arameo** |
 
 Y la misma división aparece de manera independiente en la frase de la abominación: **la forma con artículo de Mateo coincide con el Griego Antiguo de 12:11**, y **la de Teodoción es sin artículo — así que Mateo no coincide con ella.**
 
 **Dos datos independientes, en la misma dirección.**
 
-📌 Y esto aporta la **causa** del enigma del artículo que no pude explicar más arriba en este capítulo. El artículo de Mateo no es el del hebreo, que va sin artículo, ni el de Teodoción, que también va sin artículo. **Es el del Griego Antiguo.** La inversión nunca fue un misterio. Es una **huella de recensión**.
+Y esto aporta la **causa** del enigma del artículo que no pude explicar más arriba en este capítulo. El artículo de Mateo no es el del hebreo, que va sin artículo, ni el de Teodoción, que también va sin artículo. **Es el del Griego Antiguo.** La inversión nunca fue un misterio. Es una **huella de recensión**.
 
-🛑 **Y el freno, impreso tan prominentemente como el hallazgo, porque la respuesta llegó el mismo día:**
+**Y el freno, impreso tan prominentemente como el hallazgo:**
 
 | | Preposición | Coincide con |
 |---------------------|--------------------------------|---------------------|
 | Mateo 24:30 | <span class="gr">ἐπί</span> | Griego Antiguo |
-| **Marcos 13:26** | ★ <span class="gr">ἐν</span> | ❗ **ninguno** |
-| **Lucas 21:27** | ★ <span class="gr">ἐν</span>, y **singular** | ❗ **ninguno** |
+| **Marcos 13:26** | <span class="gr">ἐν</span> | **ninguno** |
+| **Lucas 21:27** | <span class="gr">ἐν</span>, y **singular** | **ninguno** |
 | Apocalipsis 1:7 | <span class="gr">μετά</span> | Teodoción |
 
 **Cuatro testigos, tres preposiciones, y solo dos de los cuatro coinciden con alguno de los dos Danieles griegos.**
 
 Las alineaciones de Mateo y de Apocalipsis son genuinas. **Pero Marcos y Lucas muestran que la tradición de la venida en nubes no está simplemente siguiendo recensiones** — *en* no es *sobre* ni *con*, y **el sustantivo de Lucas es singular donde todos los demás testigos lo tienen en plural.**
 
-📐 Así que la afirmación debe enunciarse en su alcance real: **las dos citas de Mateo se alinean con el Griego Antiguo, y la preposición de Apocalipsis 1:7 se alinea con Teodoción.** No puede convertirse en *el Nuevo Testamento se divide según líneas de recensión*. **No es así.**
+Así que la afirmación debe enunciarse en su alcance real: **las dos citas de Mateo se alinean con el Griego Antiguo, y la preposición de Apocalipsis 1:7 se alinea con Teodoción.** No puede convertirse en *el Nuevo Testamento se divide según líneas de recensión*. **No es así.**
 
-⚠️ Y otra conclusión revocada: se me reportó que Marcos y Lucas *se alinean con la tradición de Teodoción o emplean* <span class="gr">ἐν</span> *de manera independiente*. **Teodoción tiene *con*, no *en*.** Solo sobrevive la segunda mitad de esa disyunción.
+Y otra conclusión revocada: se me reportó que Marcos y Lucas *se alinean con la tradición de Teodoción o emplean* <span class="gr">ἐν</span> (*en*) *de manera independiente*. **Teodoción tiene *con*, no *en*.** Solo sobrevive la segunda mitad de esa disyunción.
 :::
 
-Y la recuperación cerró una de mis preguntas abiertas en la dirección que no quería.
+Y la lectura cerró una de mis preguntas abiertas en la dirección que no quería.
 
-**Teodoción 11:36 usa el mismo verbo de exaltarse que el Griego Antiguo**, más otro — y **ninguno es el de Pablo.** El hebreo detrás de ambos, leído directamente esta vez, dice <span class="he">וְיִתְרוֹמֵם וְיִתְגַּדֵּל</span> — *se exaltará y se engrandecerá* — y la palabra de Pablo no traduce ninguna de las dos. Así que la cadena está ahora mapeada completa — hebreo, Griego Antiguo, Teodoción — y **la palabra de Pablo no está en ningún eslabón de ella.** *Pablo está citando Daniel 11:36* queda rechazado contra **ambas** versiones griegas y el hebreo, y no contra una sola.
+**Teodoción 11:36 usa el mismo verbo de exaltarse que el Griego Antiguo**, más otro — y **ninguno es el de Pablo.** El hebreo detrás de ambos dice <span class="he">וְיִתְרוֹמֵם וְיִתְגַּדֵּל</span> (*veyitromem veyitgaddel*) — *se exaltará y se engrandecerá* — y la palabra de Pablo no traduce ninguna de las dos. Así que la cadena está ahora mapeada completa — hebreo, Griego Antiguo, Teodoción — y **la palabra de Pablo no está en ningún eslabón de ella.** *Pablo está citando Daniel 11:36* queda rechazado contra **ambas** versiones griegas y el hebreo, y no contra una sola.
 
 ::: textualnote
 **Un casi-acierto, rechazado por escrito para que el rechazo sobreviva a la memoria de su razón**
@@ -277,36 +281,36 @@ Teodoción 11:36 contiene una palabra para **habla arrogante e hinchada** a poca
 
 **Y nada más.** Raíces distintas, palabras distintas, categorías gramaticales distintas.
 
-**Un prefijo compartido no es un vínculo léxico.** Registro esto como rechazo precisamente porque es la clase de casi-acierto que treinta etapas después se convierte en *un paralelo llamativo*, cuando ya nadie recuerda que fue revisado y descartado.
+**Un prefijo compartido no es un vínculo léxico.** Registro esto como rechazo precisamente porque es la clase de casi-acierto que muchos capítulos después se convierte en *un paralelo llamativo*, cuando ya nadie recuerda que fue revisado y descartado.
 :::
 
 ## Y Teodoción también varía — lo que completa el primer hallazgo del capítulo
 
+La pregunta que zanja esta tabla: **¿hay una frase fija en *alguna* de las tres tradiciones textuales — el hebreo, el Griego Antiguo o Teodoción?** Si lo recurrente fuera un título, al menos una tradición debería repetirlo palabra por palabra.
+
 | Pasaje | Hebreo | Griego Antiguo | **Teodoción** |
 |-------------|-------------------|---------------------|----------------------------------|
-| **8:13** | *transgresión* | ★ **<span class="gr">ἁμαρτία ἐρημώσεως</span> — *pecado*, no *abominación*** | ★ **<span class="gr">ἁμαρτία ἐρημώσεως</span> — *pecado*, no *abominación*** |
-| **11:31** | con artículo | *abominación de desolación* | ★ **otra palabra desoladora, distinta** |
+| **8:13** | *transgresión* | **<span class="gr">ἁμαρτία ἐρημώσεως</span> — *pecado*, no *abominación*** | **<span class="gr">ἁμαρτία ἐρημώσεως</span> — *pecado*, no *abominación*** |
+| **11:31** | con artículo | *abominación de desolación* | **otra palabra desoladora, distinta** |
 | **12:11** | sin artículo | **con artículo** | **sin artículo** |
 
 **Las dos versiones griegas vierten la *transgresión* de Daniel 8:13 como *pecado*, no como *abominación*. La distinción léxica del hebreo sobrevive al griego dos veces.** Y las propias formas que cada versión griega da en 11:31 y 12:11 difieren entre sí.
 
-⚠️ *El Griego Antiguo de 8:13 no estaba disponible cuando esta tabla se armó por primera vez, y la celda quedó vacía. Ya se leyó desde entonces:* <span class="gr">καὶ ἡ ἁμαρτία ἐρημώσεως ἡ δοθεῖσα</span>. *Confirma la fila en vez de cambiarla.*
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): El Griego Antiguo de 8:13 no estaba disponible cuando esta tabla se armó por primera vez, y la celda quedó vacía. Ya se leyó desde entonces: <span class="gr">καὶ ἡ ἁμαρτία ἐρημώσεως ἡ δοθεῖσα</span>. Confirma la fila en vez de cambiarla. -->
 
-📐 **Así que no hay ninguna frase fija en ninguna de las tres tradiciones textuales.** *La abominación desoladora* es una **forma** recurrente, no un título — y eso está ahora establecido en hebreo, en el Griego Antiguo y en Teodoción.
+**Así que no hay ninguna frase fija en ninguna de las tres tradiciones textuales.** *La abominación desoladora* es una **forma** recurrente, no un título — y eso está ahora establecido en hebreo, en el Griego Antiguo y en Teodoción.
 
 ::: textualnote
-**Un desajuste de ediciones que esta recuperación introduce, declarado en vez de absorbido**
+**Nota textual — dos ediciones, declarado en vez de absorbido**
 
-El Griego Antiguo de todas las comparaciones anteriores viene de una edición; el Teodoción viene de otra. **Son dos ediciones distintas**, y el archivo del Griego Antiguo que está en el mismo corpus que el de Teodoción **no se descargó.**
+El Griego Antiguo de todas las comparaciones anteriores viene de una edición; el Teodoción viene de otra. **Son dos ediciones distintas**, y el Griego Antiguo de esa misma edición **no se ha consultado** junto a su Teodoción.
 
 Los hallazgos casi con certeza son robustos frente a esto — las diferencias de preposición y de artículo son las distinciones estándar y bien atestiguadas entre las recensiones, y no rarezas de edición.
 
-🛑 **Pero *casi con certeza* no es una verificación**, y he rechazado esa misma fórmula a mis propios agentes dos veces. Se debe una comparación dentro del mismo corpus antes de que nada de esto soporte más peso.
+**Pero *casi con certeza* no es una verificación**, y he rechazado esa misma fórmula dos veces en esta investigación. Hace falta una comparación dentro de una sola edición antes de que nada de esto soporte más peso.
 :::
 
----
-
-# La prueba que quería que fallara
+## La prueba que quería que fallara
 
 A esta altura había juntado tantas semejanzas entre Mateo 24 y 2 Tesalonicenses 2 que ya no me confiaba con ellas. Cada correspondencia nueva se sentía como confirmación, y esa sensación es exactamente lo que el método existe para desconfiar.
 
@@ -316,28 +320,20 @@ Así que intenté romperlo. **Una pregunta, y es desagradable:**
 
 **Sin candidatos históricos. Sin emperador nombrado. Sin intento de identificar al que detiene.**
 
-::: textualnote
-**Una deuda pagada antes de que el argumento se apoyara en ella**
-
-La *iniquidad* de Mateo 24:12 estaba en mis archivos como **reportada y no verificada de manera independiente.** **Y es la columna léxica de toda esta prueba** — así que verifiqué el griego antes de permitir que el argumento dependiera de ella, en vez de dejar que heredara credibilidad de las afirmaciones verificadas que tenía al lado.
-
-Así que se verificó antes de usarla. Ahora está confirmada en griego.
-
-📌 Registrado porque la alternativa estaba disponible y era tentadora: la afirmación estaba rodeada de una docena de afirmaciones verificadas y **habría heredado su credibilidad por proximidad.** Esa contigüidad es precisamente el modo en que una afirmación no verificada adquiere peso prestado, y nadie habría vuelto a mirarla.
-:::
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): ::: textualnote **Una deuda pagada antes de que el argumento se apoyara en ella** La *iniquidad* de Mateo 24:12 estaba en mis archivos como **reportada y no verificada de manera independiente.** **Y es la columna léxica de toda esta prueba** — así que verifiqué el griego antes de permitir que el argumento dependiera de ella, en vez de dejar que heredara credibilidad de las afirmaciones verificadas que tenía al lado. Así que se verificó antes de usarla. Ahora está confirmada en griego. 📌 Registrado porque la alternativa estaba disponible y era tentadora: la afirmación estaba rodeada de una docena de afirmaciones verificadas y **habría heredado su credibilidad por proximidad.** Esa contigüidad es precisamente el modo en que una afirmación no verificada adquiere peso prestado, y nadie habría vuelto a mirarla. ::: -->
 
 ## Donde la correspondencia no es léxica — registrado primero, deliberadamente
 
 **La apostasía.** Mateo tiene una palabra en 24:10; Pablo tiene otra distinta en 2:3. **Y una búsqueda directa lo zanja: la palabra de Pablo no aparece en ninguna parte de Mateo 24.** Correspondencia conceptual: moderada. **Correspondencia léxica: ninguna.**
 
-**El santuario.** Mateo tiene *abominación desoladora… en lugar santo*; Pablo tiene *el santuario de Dios*. Establecí dos capítulos atrás que esos dos versículos comparten **cero vocabulario**. Así que esto es **correspondencia intertextual a través de un tercer texto —Daniel— y no correspondencia léxica entre los dos autores.** Una clase de evidencia distinta y más débil, nombrada como tal.
+**El santuario.** Mateo tiene *abominación desoladora… en lugar santo*; Pablo tiene *el santuario de Dios*. Establecí el capítulo pasado que esos dos versículos comparten **cero vocabulario**. Así que esto es **correspondencia intertextual a través de un tercer texto —Daniel— y no correspondencia léxica entre los dos autores.** Una clase de evidencia distinta y más débil, nombrada como tal.
 
 ## Donde sí lo es — y hay dos, más una tercera bajo cautela
 
 ::: wordstudy
-**Estudio de palabra — <span class="gr">ἀνομία</span>**
+**Estudio de palabra — <span class="gr">ἀνομία</span> (*anomia*)**
 
-<span class="gr">ἀνομία</span> es *iniquidad* — literalmente la condición de estar sin <span class="gr">νόμος</span>. No meramente delito; **la ausencia o el repudio del imperio de la ley.**
+<span class="gr">ἀνομία</span> es *iniquidad* — literalmente la condición de estar sin <span class="gr">νόμος</span> (*nomos*). No meramente delito; **la ausencia o el repudio del imperio de la ley.**
 
 **Mateo 24:12** — *por haberse multiplicado la **iniquidad**, el amor de muchos se enfriará.*
 
@@ -347,18 +343,18 @@ Así que se verificó antes de usarla. Ahora está confirmada en griego.
 
 **La misma familia léxica y — esto es lo que importa — la misma posición en ambas secuencias.** Los dos la sitúan **antes** de la intervención culminante, no después.
 
-📌 Y la palabra carga una historia mateana que vale notar: es la misma raíz que Mateo usa de *los que hacen iniquidad*, recogidos al fin de la edad en la parábola de la cizaña. **Eso es una observación, no un argumento** — pero significa que la palabra no es vocabulario incidental en Mateo.
+Y la palabra carga una historia mateana que vale notar: es la misma raíz que Mateo usa de *los que hacen iniquidad*, recogidos al fin de la edad en la parábola de la cizaña. **Eso es una observación, no un argumento** — pero significa que la palabra no es vocabulario incidental en Mateo.
 
-⚠️ Cómo vierte RVR1960 cada una de estas tres apariciones, y si mantiene una sola familia castellana en las tres, **no fue recuperado.** Deuda declarada: si el castellano las reparte, el lector español no ve el vínculo. **Candidato SYNC.**
+Cómo vierte RVR1960 cada una de estas tres apariciones, y si mantiene una sola familia castellana en las tres, no lo he comprobado; si el castellano las reparte, el lector español no ve el vínculo.
 :::
 
 **Y el segundo vínculo léxico es todavía más fuerte.** Mateo 24:24 tiene *grandes **señales y prodigios**, para engañar, si fuera posible, aun a los escogidos.* 2 Tesalonicenses 2:9 tiene *todo poder y **señales y prodigios mentirosos***.
 
-★★ **Lexemas idénticos, casos distintos — y en ambos la función es engaño inmediatamente anterior a la intervención del Mesías.** Esa es la correspondencia individual más fuerte que poseen los dos pasajes.
+**Lexemas idénticos, casos distintos — y en ambos la función es engaño inmediatamente anterior a la intervención del Mesías.** Esa es la correspondencia individual más fuerte que poseen los dos pasajes.
 
 **La tercera es la familia de la reunión**, traída de antes — y sigue sostenida bajo el hallazgo de que **no es inherentemente escatológica.**
 
-⚠️ Y la corrección que sigue corregida: **Mateo 24:31 no contiene ninguna *venida*.** Mateo aporta esa palabra en otros cuatro puntos del discurso. **2 Tesalonicenses 2:1 es donde el par está realmente en una sola cláusula. El par es de Pablo, no de Mateo.**
+Y la corrección que sigue corregida: **Mateo 24:31 no contiene ninguna *venida*.** Mateo aporta esa palabra en otros cuatro puntos del discurso. **2 Tesalonicenses 2:1 es donde el par está realmente en una sola cláusula. El par es de Pablo, no de Mateo.**
 
 ## La prueba, y qué significa y qué no significa sobrevivirla
 
@@ -372,14 +368,14 @@ Primero un punto estructural, y decide si la prueba es justa. **Pablo hace un bu
 | 4 | la venida del Mesías | la venida del Mesías |
 | 5 | reunión de los escogidos | *(la reunión es el tema declarado en 2:1)* |
 
-✅ **Los dos se mueven en la misma dirección. Ninguno tiene que reordenarse.** No tengo a Mateo corriendo *venida → iniquidad* contra Pablo corriendo *iniquidad → venida*.
+**Los dos se mueven en la misma dirección. Ninguno tiene que reordenarse.** No tengo a Mateo corriendo *venida → iniquidad* contra Pablo corriendo *iniquidad → venida*.
 
 ::: evidence
 **Qué es, y qué no es, sobrevivir una prueba de falsación**
 
 **A la hipótesis se le dio la oportunidad de morir y no murió.** Ese es un resultado real y es el sentido del ejercicio.
 
-🛑 **No es lo mismo que estar probada.** El orden compatible es condición **necesaria** de la identidad, no **suficiente** — y **dos crisis distintas construidas sobre la misma página de Daniel también producirían orden compatible.**
+**No es lo mismo que estar probada.** El orden compatible es condición **necesaria** de la identidad, no **suficiente** — y **dos crisis distintas construidas sobre la misma página de Daniel también producirían orden compatible.**
 
 Una prueba de falsación que se aprueba dice menos que una que se reprueba. Registro el resultado aprobado con su límite pegado, porque un escueto *la secuencia sobrevive* se lee mucho más fuerte de lo que es.
 :::
@@ -390,13 +386,13 @@ Una prueba de falsación que se aprueba dice menos que una que se reprueba. Regi
 
 **Dos.** El complejo de señales cósmicas de Mateo tampoco.
 
-**Tres.** ❗ **La destrucción explícita del inicuo en Pablo no tiene ninguna contraparte individual en Mateo.**
+**Tres.** **La destrucción explícita del inicuo en Pablo no tiene ninguna contraparte individual en Mateo.**
 
 Las dos primeras son **omisiones**, y un relato más breve no tiene por qué contener cada rasgo de uno más largo. **Omisión no es contradicción.**
 
 **La tercera es distinta y más filosa. Pablo tiene una figura nombrada que es destruida. Mateo no tiene ningún individuo destruido.**
 
-🛑 **Hay candidatos** —el lenguaje de juicio, la destrucción de la ciudad, la venida misma— **y el hueco se deja deliberadamente sin llenar.** Llenarlo ahora sería construir el puente con el hueco que se supone que debe cruzar, que es la falla específica que llevo cincuenta etapas evitando.
+**Hay candidatos** —el lenguaje de juicio, la destrucción de la ciudad, la venida misma— **y el hueco se deja deliberadamente sin llenar.** Llenarlo ahora sería construir el puente con el hueco que se supone que debe cruzar, que es la falla específica que toda esta investigación se construyó para evitar.
 
 **Y se registran tan prominentemente como las correspondencias. Una tabla de solo coincidencias no es una prueba.**
 
@@ -409,7 +405,7 @@ Las dos primeras son **omisiones**, y un relato más breve no tiene por qué con
 
 **Por qué es legítima:** sin ella, el escepticismo se vuelve infalsable. *Podrían seguir siendo distintos* puede decirse de cualquier par de pasajes para siempre, y un método que permite una objeción incontestable en cada paso no es un método.
 
-🛑 **Y su correa es parte de la regla, porque esto está a una inversión de distancia de *parecido, por lo tanto lo mismo*:**
+**Y su correa es parte de la regla, porque esto está a una inversión de distancia de *parecido, por lo tanto lo mismo*:**
 
 **1.** Desplaza una carga **en un umbral de densidad**. No baja el estándar de prueba.
 
@@ -422,7 +418,7 @@ Las dos primeras son **omisiones**, y un relato más breve no tiene por qué con
 
 ## El veredicto, enunciado en su fuerza real
 
-📐 **La crisis de Mateo 24 y la crisis de 2 Tesalonicenses 2: correspondencia muy fuerte; identidad de complejo de eventos *probable*. No establecida. No cerrada.**
+**La crisis de Mateo 24 y la crisis de 2 Tesalonicenses 2: correspondencia muy fuerte; identidad de complejo de eventos *probable*. No establecida. No cerrada.**
 
 **Lo que gana el *probable* y no solo la correspondencia:** dos vínculos léxicos genuinos más un tercero bajo cautela · trasfondo danielico compartido · **orden de eventos compatible bajo una prueba de falsación real** · presión convergente sobre el tiempo de la audiencia · y Pablo coordinando explícitamente la venida con la reunión.
 
@@ -440,20 +436,12 @@ Y la prueba de secuencia me dio menos de lo que pareció darme. Tres palabras co
 
 El último es el honesto. **Pablo mata a alguien. Mateo no.** Todavía no sé qué hacer con eso, y prefiero escribir esa frase antes que rellenar el hueco con algo conveniente.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Daniel 8:13, 9:27, 11:31 y 12:11, Daniel 7:13–14, Mateo 24:4–31, Marcos 13:14–26, Lucas 21:20–27, 2 Tesalonicenses 2:1–12, Juan 10:22, Apocalipsis 1:7 y los pasajes macabeos se **describen** en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
-
-**Dos candidatos SYNC quedan abiertos por este capítulo**, ninguno afirmado: si *abominación desoladora* funciona en RVR1960 como expresión fija a través de los cuatro pasajes de Daniel, borrando las cuatro formas distintas del hebreo; y si RVR1960 mantiene una sola familia castellana para <span class="gr">ἀνομία</span> en Mateo 24:12 y 2 Tesalonicenses 2:7–8.
-
-*(Ambos se suman a SYNC-020.)*
-:::
+<!-- SPANISH-SPECIFIC (oculto): ::: textualnote **Nota textual — deuda declarada** Daniel 8:13, 9:27, 11:31 y 12:11, Daniel 7:13–14, Mateo 24:4–31, Marcos 13:14–26, Lucas 21:20–27, 2 Tesalonicenses 2:1–12, Juan 10:22, Apocalipsis 1:7 y los pasajes macabeos se **describen** en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. **Dos candidatos SYNC quedan abiertos por este capítulo**, ninguno afirmado: si *abominación desoladora* funciona en RVR1960 como expresión fija a través de los cuatro pasajes de Daniel, borrando las cuatro formas distintas del hebreo; y si RVR1960 mantiene una sola familia castellana para <span class="gr">ἀνομία</span> en Mateo 24:12 y 2 Tesalonicenses 2:7–8. *(Ambos se suman a SYNC-020.)* ::: -->
 
 ::: whereweare
-**Dónde estamos.** Daniel no tiene frase fija — cuatro formas, dos sustantivos y una figura recurrente en vez de un título, confirmado ahora en hebreo y en las dos recensiones griegas. Abominación y desolación son gramaticalmente distintas, lo cual bloquea tres atajos de una vez. El caso de control de Antíoco confirmó el perfil del evento y falló en responder la única pregunta para la que existía, y ni siquiera él dice qué era la abominación. Los sinópticos comparten la huida y difieren en la señal, y Lucas dice que los ejércitos son la señal de que la desolación se acercó, no la cosa misma. Teodoción, tras tres fracasos, confirmó que el hijo de hombre de Daniel es presentado ante el Anciano de días, rechazó la supuesta cita de Pablo contra ambas recensiones, y produjo una huella de recensión que Marcos y Lucas limitaron de inmediato. Y Mateo y Pablo sobrevivieron a una prueba de secuencia construida para matarlos — lo cual establece compatibilidad, no identidad, con tres asimetrías todavía en pie y una de ellas sin respuesta. Esta edición agrega algo propio: en castellano la expresión está soldada, así que el error que el capítulo corrige viene reforzado por el idioma.
+**Dónde nos deja esto.** Daniel no tiene frase fija — cuatro formas, dos sustantivos y una figura recurrente en vez de un título, confirmado ahora en hebreo y en las dos recensiones griegas. Abominación y desolación son gramaticalmente distintas, lo cual bloquea tres atajos de una vez. El caso de control de Antíoco confirmó el perfil del evento, y una vez leído su griego respondió la pregunta para la que existía: la gente más cercana a la crisis la nombró con las palabras de Daniel, aunque no en la forma exacta de Mateo — y ni siquiera ellos dicen qué era la abominación. Los sinópticos comparten la huida y difieren en la señal, y Lucas dice que los ejércitos son la señal de que la desolación se acercó, no la cosa misma. Teodoción confirmó que el hijo de hombre de Daniel es presentado ante el Anciano de días, rechazó la supuesta cita de Pablo contra ambas recensiones, y produjo una huella de recensión que Marcos y Lucas limitaron de inmediato. Y Mateo y Pablo sobrevivieron a una prueba de secuencia construida para matarlos — lo cual establece compatibilidad, no identidad, con tres asimetrías todavía en pie y una de ellas sin respuesta. Y en castellano hay algo propio: la expresión está soldada, así que el error que el capítulo corrige viene reforzado por el idioma.
 :::
 
 ::: earned
-**Lo que ganó.** Una frase degradada a figura, en tres lenguas. Una deuda saldada preguntando algo distinto sobre el artefacto en vez de insistiendo. La confirmación de un rechazo anterior — el hallazgo solo existía porque me había negado a aceptar la afirmación de un agente. Un casi-acierto rechazado por escrito para que el rechazo sobreviva a su razón. Una prueba de falsación aprobada con su propio límite impreso al lado. Y un hueco dejado abierto donde había disponible una respuesta conveniente que habría encajado.
+**La pregunta que esto deja.** Una frase degradada a figura, en tres lenguas. El segundo Daniel griego, leído junto al primero y al arameo. La confirmación de un rechazo anterior — el hallazgo solo existía porque me había negado a aceptar una afirmación que no podía comprobar. Un casi-acierto rechazado por escrito para que el rechazo sobreviva a su razón. Una prueba de falsación aprobada con su propio límite impreso al lado. Y un hueco dejado abierto donde había disponible una respuesta conveniente que habría encajado.
 :::
