@@ -319,7 +319,7 @@ Salió de poner dos pasajes uno al lado del otro y leerlos palabra por palabra �
 
 ## El "día postrero" de Juan — la objeción más dura, y se puso más dura
 
-Las seis apariciones, revisadas en el griego. Todas en singular.
+Las seis apariciones escatológicas, revisadas en el griego (7:37, el último día de la fiesta, queda aparte). Todas en singular.
 
 | Versículo | Quien habla | Ligado a |
 |-----------|--------------------|-----------------|

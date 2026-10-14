@@ -89,7 +89,7 @@ Three different conjunctions and two different verbs. The phrase matches; the su
 
 Revelation describes a gathering for battle more than once, and it matters which descriptions belong together. Revelation 16:14 speaks of spirits going out to gather the kings of the earth "for the battle"; 19:19 describes the beast and the kings gathered to make war against the rider on the white horse; and 20:8 describes Satan gathering the nations "for the battle" after the thousand years.
 
-An earlier stage of this investigation examined which of these belong together, and its result was a genuine split, not a settled answer:
+The comparison below examines which of these belong together, and its result is a genuine split, not a settled answer:
 
 ::: evidence
 **Which gathering belongs with which battle**
@@ -105,7 +105,7 @@ Whether chapter 16 belongs with 19, with 20, or with neither, remains open.
 
 It is tempting to treat that open question as settled, folding all three passages into a single "complex of events before the thousand years." It is not settled, and treating a contextually favoured reading as established is exactly the kind of upgrade this book tries to avoid.
 
-Some things are established. The birds summoned to the "great supper" belong to 19:17–21; Revelation 20 contains no bird vocabulary at all. The word *Armageddon* (<span class="gr">Ἁρμαγεδών</span>) occurs only once in the whole book, at 16:16, and appears in neither chapter 19 nor chapter 20. And the earlier stage settled its own tie on sound narrative grounds: the same figure cannot be both active and already permanently disposed of in the same scene.
+Some things are established. The birds summoned to the "great supper" belong to 19:17–21; Revelation 20 contains no bird vocabulary at all. The word *Armageddon* (<span class="gr">Ἁρμαγεδών</span>) occurs only once in the whole book, at 16:16, and appears in neither chapter 19 nor chapter 20. And that comparison resolved its own tie on sound narrative grounds: the same figure cannot be both active and already permanently disposed of in the same scene.
 
 ## The word "already" in Revelation 20:10
 

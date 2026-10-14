@@ -145,7 +145,7 @@ Salí de esto con tres posibilidades vivas y ningún veredicto, lo cual no es un
 
 **B.** El discurso se despliega en telescopio, moviéndose entre lo cercano y lo lejano de un modo que resiste una sola línea de tiempo.
 
-**B2.** Algo en él pertenece a un intervalo posterior, que es la posibilidad que con el tiempo se convierte en la pregunta del milenio y de la pequeña temporada.
+**B2.** Algo en él pertenece a un intervalo posterior, que es la posibilidad que con el tiempo se convierte en la pregunta del milenio y del poco de tiempo.
 
 Marqué B2 como *a lo sumo permitida, todavía no argumentada*, y quiero que esa etiqueta se conserve en vez de pulirse, porque es la primera aparición de la pregunta que este libro finalmente no logra resolver.
 

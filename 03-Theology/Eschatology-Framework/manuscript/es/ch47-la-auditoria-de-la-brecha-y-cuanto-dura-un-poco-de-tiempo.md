@@ -24,7 +24,7 @@ No sé si la segunda mitad de esa pregunta tiene respuesta. Esta Parte puede ter
 
 ## Hacer inventario antes de seguir
 
-Antes de abrir líneas nuevas de investigación, revisé lo que las etapas anteriores ya habían establecido. Eso cambió la forma del trabajo que quedaba. Cinco preguntas parecían interponerse entre la Parte VII y la pregunta por el presente, y el trabajo previo ya había respondido buena parte de cuatro de ellas.
+Antes de abrir líneas nuevas de investigación, revisé lo que las Partes anteriores ya habían establecido. Eso cambió la forma del trabajo que quedaba. Cinco preguntas parecían interponerse entre la Parte VII y la pregunta por el presente, y el trabajo previo ya había respondido buena parte de cuatro de ellas.
 
 | Pregunta | Lo que la investigación ya estableció |
 |------------------------------|---------------------------------------------------|
@@ -40,7 +40,7 @@ Quedaban entonces dos tareas de base, no cinco. Pero la revisión mostró ademá
 
 Cada vez que <span class="gr">χίλια ἔτη</span> (*chilia etē*, «mil años») ha aparecido en este libro, ha aparecido como una salvedad: no establecido, no supuesto, no incluido. PF-01 lo excluye expresamente. Capítulos anteriores lo dejaron abierto.
 
-Cada una de esas salvedades era correcta. Pero al mirar hacia atrás las cincuenta y ocho etapas anteriores, descubrí que había mantenido abiertos los mil años una y otra vez sin probar nunca de manera directa qué clase de duración describe Apocalipsis 20. Había tenido cuidado de no suponer una respuesta, y la cautela repetida había empezado a parecer una respuesta sin serlo.
+Cada una de esas salvedades era correcta. Pero al mirar hacia atrás las siete Partes anteriores a esta, descubrí que había mantenido abiertos los mil años una y otra vez sin probar nunca de manera directa qué clase de duración describe Apocalipsis 20. Había tenido cuidado de no suponer una respuesta, y la cautela repetida había empezado a parecer una respuesta sin serlo.
 
 Esta pregunta gobierna todo lo que sigue. La Parte VII estableció que la atadura de Satanás no puede fechar el comienzo de los mil años, porque las condiciones que describe encajan en casi cualquier siglo anterior a la coalición final. Si el número tampoco puede fechar la duración, entonces ninguno de los dos extremos del intervalo puede fijarse, y «¿estamos dentro o ya pasamos?» deja de ser una pregunta de calendario. Se vuelve una pregunta sobre condiciones.
 
@@ -208,7 +208,7 @@ Dos pasajes de Mateo 24 tocan esa pregunta y lo que podría leerse como sus señ
 Apocalipsis enmarca los mil años entre dos períodos breves:
 
 - **Apocalipsis 12:12** — el diablo sabe que tiene <span class="gr">ὀλίγον καιρόν</span> (*oligon kairon*), «poco tiempo».
-- **Apocalipsis 20:2, 4, 6, 7** — <span class="gr">χίλια ἔτη</span> (*chilia etē*), «mil años», cuatro veces en seis versículos.
+- **Apocalipsis 20:2–7** — <span class="gr">χίλια ἔτη</span> (*chilia etē*), «mil años», seis veces en seis versículos.
 - **Apocalipsis 20:3** — Satanás debe ser desatado <span class="gr">μικρὸν χρόνον</span> (*mikron chronon*), «por un poco de tiempo».
 
 Las dos expresiones de tiempo breve son frases distintas, como estableció una Parte anterior, así que Juan no está diciendo que ambos períodos sean iguales. Apocalipsis 6:11 usa las mismas dos palabras que 20:3, en orden inverso — a los mártires se les dice que descansen «todavía un poco de tiempo» —, y el capítulo 51 compara todas estas expresiones juntas.
@@ -216,7 +216,7 @@ Las dos expresiones de tiempo breve son frases distintas, como estableció una P
 Lo que el texto da y lo que no da:
 
 - **Ningún número.** Ni siete años, ni cuarenta, ni setenta.
-- **Una caracterización.** El período es breve — y se lo llama breve en un pasaje que acaba de decir «mil años» cuatro veces en seis versículos.
+- **Una caracterización.** El período es breve — y se lo llama breve en un pasaje que acaba de decir «mil años» seis veces en seis versículos.
 
 Así que una lectura que convierte el poco de tiempo en una época de escala milenaria lleva una carga textual real. No es imposible, pero hay que argumentarla, no suponerla.
 
@@ -249,7 +249,7 @@ Los capítulos siguientes se refieren a ellas por su letra, y las volveré a enu
 
 Esta tensión es exactamente lo que vuelve atractiva la hipótesis de los mil años insertados. El instinto encontró un problema real, y la opción (d) — la cronología convencional está equivocada — lo disuelve limpiamente.
 
-Pero aparté (d) más arriba en este capítulo, y el orden importa. La propuesta del calendario quedó en cuarentena en la Parte VII, por dos razones estructurales, antes de que yo supiera cuánta presión iba a poner sobre el modelo la duración del poco de tiempo. Si me hubiera encontrado primero con la presión y después con la teoría, no podría mostrar — ni al lector ni a mí mismo — que no estaba echando mano de lo que hiciera desaparecer el problema. Ninguna de esas dos razones es un veredicto sobre la afirmación misma, que sigue siendo comprobable, y el capítulo 50 la pone a prueba.
+Pero aparté (d) más arriba en este capítulo, y el orden importa. La propuesta del calendario ya había quedado en cuarentena al cierre de la Parte VII; las dos razones estructurales son las que di más arriba — Apocalipsis no puede usarse como evidencia de la cronología que se pone a prueba, y la defensa habitual se sella sola — y las dos estaban en pie antes de que yo supiera cuánta presión iba a poner sobre el modelo la duración del poco de tiempo. Si me hubiera encontrado primero con la presión y después con la teoría, no podría mostrar — ni al lector ni a mí mismo — que no estaba echando mano de lo que hiciera desaparecer el problema. Ninguna de esas dos razones es un veredicto sobre la afirmación misma, que sigue siendo comprobable, y el capítulo 50 la pone a prueba.
 
 Así que la tensión es real, y la salida más cómoda está cerrada por razones anteriores a la tensión. Esa es la clase de presión que una investigación honesta debería recibir con gusto. Ahora es una restricción enunciada sobre el argumento, no una sensación.
 
@@ -281,7 +281,7 @@ Hay un texto que podría hacerlo. Ezequiel 38–39, de donde Apocalipsis toma lo
 
 Casi todo el trabajo de base que faltaba resultó estar hecho. Lo que de verdad faltaba era más pequeño y más importante de lo que esperaba: nunca había probado directamente qué clase de duración son los mil años. Había dejado la pregunta de lado con tanto cuidado, tantas veces, que dejarla de lado empezó a parecer haberla respondido.
 
-Después, la pregunta de cuánto puede durar el poco de tiempo puso sobre el modelo más presión que cualquier etapa anterior. Si los mil años son años de calendario y comenzaron en el primer siglo, terminaron alrededor del siglo XI — lo que nos pondría hoy a unos novecientos cincuenta años dentro de algo que el texto llama breve.
+Después, la pregunta de cuánto puede durar el poco de tiempo puso sobre el modelo más presión que cualquier pregunta anterior. Si los mil años son años de calendario y comenzaron en el primer siglo, terminaron alrededor del siglo XI — lo que nos pondría hoy a unos novecientos cincuenta años dentro de algo que el texto llama breve.
 
 Esa tensión es lo que vuelve tentadora la propuesta de los mil años faltantes. El instinto se entiende. Pero la propuesta quedó apartada por razones que no tienen nada que ver con la comodidad: no borraría los manuscritos que este libro cita, pero obligaría a reconstruir todo lo que se apoya en sus fechas y su orden, y la defensa que suele ofrecerse se protege a sí misma de cualquier contraevidencia. La afirmación en sí sigue siendo comprobable, y se pondrá a prueba.
 

@@ -120,6 +120,16 @@ for label, text, cat, want in [
     ("'fifty-eight stages' flagged",        "across the preceding fifty-eight stages", "label", 1),
     ("'two-stage structure' NOT flagged",   "the two-stage structure of 20:5", "label", 0),
     ("ES 'dos etapas' (Rev 20:5) NOT flagged", "la estructura en dos etapas del pasaje", "label", 0),
+    # 2026-10-14 full-book audit: four Part VIII leaks per edition passed the checker
+    # ("the preceding stages", "an earlier stage of this investigation", ES «etapa anterior»).
+    ("'preceding stages' flagged",          "what the preceding stages had established", "label", 1),
+    ("'earlier stage of this investigation' flagged", "An earlier stage of this investigation examined", "label", 1),
+    ("'any earlier stage' flagged",         "more pressure than any earlier stage had", "label", 1),
+    ("'its first stage' (resurrection) NOT flagged", "the resurrection in its first stage", "label", 0),
+    ("ES 'etapas anteriores' flagged",      "lo que las etapas anteriores ya habían establecido", "label", 1),
+    ("ES 'etapa de esta investigación' flagged", "Una etapa anterior de esta investigación examinó", "label", 1),
+    ("ES 'cincuenta y ocho etapas' flagged", "las cincuenta y ocho etapas anteriores", "label", 1),
+    ("ES 'resurrección en etapas' NOT flagged", "la resurrección ocurre en etapas", "label", 0),
     ("old box label flagged",               "**Where we are.** text", "convention", 1),
     ("old earned label flagged",            "**What it earned.** text", "convention", 1),
     ("ES old label flagged",                "**Qué se ganó.** texto", "convention", 1),
@@ -140,6 +150,9 @@ for label, text, cat, want in [
     # the checker and was caught by the reviewer.
     ("'this project' flagged",              "the strongest argument this project has produced", "label", 1),
     ("ES 'este proyecto' flagged",          "la primera frase de este proyecto", "label", 1),
+    # ch01's origin story is memoir, kept by the 2026-10-14 audit ruling (A3).
+    ("ch01 origin line NOT flagged",        "That is the true first sentence of this project.", "label", 0),
+    ("ES ch01 origin line NOT flagged",     "Esa es la primera frase verdadera de este proyecto.", "label", 0),
     # 2026-10-14: chain titles were normalized in Part II only; Part V-VI kept the old form.
     ("old chain title flagged",             "::: chain\n**Growing Chain — Checkpoint 3**", "convention", 1),
     ("ES old chain title flagged",          "::: chain\n**Cadena creciente — Punto de control 3**", "convention", 1),

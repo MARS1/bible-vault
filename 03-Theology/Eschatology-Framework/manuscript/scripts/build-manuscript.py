@@ -200,6 +200,9 @@ DEBT = re.compile(r"\b(?:debts?|deudas?)\b", re.I)
 # "this project" narrates the work rather than the investigation. Caught by the
 # author's reviewer in Part II ch11 (2026-10-13) after the checker passed it.
 PROJECT_TALK = re.compile(r"\b(?:this|the) project\b|\beste proyecto\b", re.I)
+# ch01's origin story ("That is the true first sentence of this project") is memoir,
+# kept by the 2026-10-14 full-book audit ruling (A3).
+PROJECT_ORIGIN_OK = re.compile(r"true first sentence of this project|primera frase verdadera de este proyecto", re.I)
 # Stage-talk without a number ("in this stage", "five stages") is the same
 # research-process leak as "Stage 61", and the numbered pattern cannot see it.
 STAGE_TALK = re.compile(r"\b(?:this|that|each|every|a|the|one|two|three|four|five|six|several|many|"
@@ -207,6 +210,17 @@ STAGE_TALK = re.compile(r"\b(?:this|that|each|every|a|the|one|two|three|four|fiv
 # Spanish 'etapa' is excluded: it is the ordinary word for a phase ("la estructura
 # en dos etapas" of Rev 20:5 in ES ch53), so lowercase etapa-talk cannot be told
 # from narration. Numbered "Etapa N" is still caught by LABELS.
+# The 2026-10-14 full-book audit found four more Part VIII leaks per edition that
+# neither pattern saw ("the preceding stages", "an earlier stage of this
+# investigation", ES "las etapas anteriores", "cincuenta y ocho etapas"). These match
+# only the investigation sense: a stage that came *before*, or a stage *of the
+# investigation*; resurrection "stages" / "etapas" never take those words.
+STAGE_PROCESS = re.compile(
+    r"\b(?:earlier|preceding|previous|prior) stages?\b(?: of (?:this|the|my) (?:investigation|research|study))?"
+    r"|\bstages? of (?:this|the|my) (?:investigation|research|study)\b"
+    r"|\bcincuenta y \w+ etapas\b"
+    r"|\betapas? (?:anterior(?:es)?|previas?)\b(?: de (?:esta|la) investigación)?"
+    r"|\betapas? de (?:esta|la) investigación\b", re.I)
 
 def check_normalization(files):
     """Returns {category: [(file, line, excerpt)]}. Quotation lines are exempt
@@ -227,10 +241,13 @@ def check_normalization(files):
             for m in LABELS.finditer(ln):
                 out["label"].append((f.name, i, m.group(0)))
             for m in PROJECT_TALK.finditer(ln):
-                out["label"].append((f.name, i, m.group(0)))
+                if not PROJECT_ORIGIN_OK.search(ln):
+                    out["label"].append((f.name, i, m.group(0)))
             for m in DEBT.finditer(ln):
                 out["label"].append((f.name, i, m.group(0)))
             for m in STAGE_TALK.finditer(ln):
+                out["label"].append((f.name, i, m.group(0)))
+            for m in STAGE_PROCESS.finditer(ln):
                 out["label"].append((f.name, i, m.group(0)))
             if OLD_CONVENTION.match(ln):
                 out["convention"].append((f.name, i, ln[:30]))

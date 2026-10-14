@@ -3,7 +3,7 @@ title: "Manuscript (EN) — Chapter 13: What Is a Covenant?"
 type: manuscript
 category: theology
 tags: [draft-1, part-iii, chapter-13, stage-16-5, berit, diatheke, olam, covenant-sign, relocation-disclosed]
-reference: "Genesis 9:12-16; Genesis 15:18; Genesis 17:11-13; Exodus 24:8; Exodus 31:16-17; 2 Samuel 7:12-16; Jeremiah 31:31-33; Galatians 3:17-18"
+reference: "Genesis 9:12-16; Genesis 15:18; Genesis 17:11-13; Exodus 31:16-17; 2 Samuel 7:12-16; Jeremiah 31:31-33; Galatians 3:17-18"
 created: 2026-09-11
 status: draft
 localization: "DRAFT 1. Approved architecture v1.0, Part III, Chapter 13. Source: Stage 16.5 and [[00r-what-is-a-covenant]]. ★★★ THE ARCHITECTURE'S FIRST DELIBERATE DEPARTURE FROM RESEARCH ORDER, AND IT IS DISCLOSED IN THE CHAPTER RATHER THAN HIDDEN — this sidebar was written AFTER the circumcision stage and belongs BEFORE it. Silently reordering would erase the journey. ★ THE OLAM FINDING IS THE CHAPTER'S REAL PAYLOAD: berit olam attaches to three institutions treated three different ways, which narrows what the word can deliver without making it mean 'temporary'. TERMINOLOGY: no globe/global/globally/globular/planet/planetary/worldwide. D1-REVIEWED 2026-09-11: TWO corrections. (1) The berit olam evidence block claimed the three institutions' differing treatment REQUIRES that the phrase cannot settle any case — that mixed explicit text with a later theological conclusion. Narrowed to what it actually establishes: olam by itself cannot determine how each institution functions under LATER COVENANTAL DEVELOPMENTS. Acts 15 rejects imposing circumcision on Gentiles as a salvation requirement; that is NOT Scripture announcing the Abrahamic berit olam ended, and the chapter now says so explicitly. DO NOT re-collapse these. (2) 'The Torah is the same Torah' went beyond Jeremiah 31:33. Yahweh calls it torati, 'my Torah' — explicit; the passage does NOT enumerate how each command functions afterward. Now consistent with the Part's own anti-Category-Collapse brake."
@@ -37,7 +37,7 @@ A working definition, which I will hold loosely enough to be corrected:
 
 Scripture does not usually speak of *making* a covenant. It speaks of cutting one. Genesis 15:18 says the LORD made a covenant with Abram, and the verb underneath is *karat* — and the scene immediately before it is animals divided in halves with a smoking fire pot passing between the pieces.
 
-Covenant and sacrifice are joined at the level of vocabulary. That is worth remembering two chapters from now, when the blood of the covenant at Exodus 24:8 and Matthew 26:28 arrive.
+Covenant and sacrifice are joined at the level of vocabulary. That is worth remembering two chapters from now, when the blood of the covenant at Matthew 26:28 arrives.
 :::
 
 ## The distinction the whole Part rests on

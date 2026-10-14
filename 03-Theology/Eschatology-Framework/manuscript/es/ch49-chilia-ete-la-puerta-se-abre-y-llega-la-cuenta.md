@@ -12,7 +12,7 @@ related: "[[10-manuscript-architecture]], [[03l-chilia-ete-the-gate]], [[ES-REGI
 
 # Capítulo 49: Mil años — lo que el número puede y no puede decirnos
 
-Hace dos capítulos descubrí que, a lo largo de las cincuenta y ocho etapas anteriores, nunca había probado directamente qué clase de duración representan los mil años. Cada tratamiento anterior había dejado la pregunta abierta a propósito. Y escribí la prueba antes de saber hacia dónde iba a salir:
+Hace dos capítulos descubrí que, a lo largo de las siete Partes anteriores a la Parte VIII, nunca había probado directamente qué clase de duración representan los mil años. Cada tratamiento anterior había dejado la pregunta abierta a propósito. Y escribí la prueba antes de saber hacia dónde iba a salir:
 
 > **¿Usa Apocalipsis alguna vez un número de un modo que demostrablemente no sea literal?**
 

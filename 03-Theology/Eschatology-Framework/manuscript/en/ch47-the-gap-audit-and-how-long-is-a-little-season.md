@@ -24,7 +24,7 @@ I do not know whether the second half of that question has an answer. This Part 
 
 ## Taking stock before going further
 
-Before opening new lines of investigation, I reviewed what the preceding stages had already established. That changed the shape of the remaining work. Five questions seemed to stand between Part VII and the present-day question, and earlier work had already answered substantial parts of four of them.
+Before opening new lines of investigation, I reviewed what the preceding Parts had already established. That changed the shape of the remaining work. Five questions seemed to stand between Part VII and the present-day question, and earlier work had already answered substantial parts of four of them.
 
 | Question | What the investigation has already established |
 |------------------------------|---------------------------------------------------|
@@ -40,7 +40,7 @@ So two pieces of groundwork remained, not five. But the review also turned up so
 
 Every time <span class="gr">χίλια ἔτη</span> (*chilia etē*, "a thousand years") has come up in this book, it has come up as a disclaimer: not established, not assumed, not included. PF-01 explicitly excludes it. Earlier chapters listed it as open.
 
-Each of those disclaimers was correct. But when I looked back across the preceding fifty-eight stages, I found that I had repeatedly kept the thousand years open without ever directly testing what kind of duration Revelation 20 describes. I had been careful not to assume an answer — and repeated caution had begun to look like an answer when it was not one.
+Each of those disclaimers was correct. But when I looked back across the seven Parts before this one, I found that I had repeatedly kept the thousand years open without ever directly testing what kind of duration Revelation 20 describes. I had been careful not to assume an answer — and repeated caution had begun to look like an answer when it was not one.
 
 This question governs everything that follows. Part VII established that Satan's binding cannot date the beginning of the thousand years, because the conditions it describes fit almost any century before the final coalition. If the number cannot date the length either, then neither end of the interval can be fixed, and "are we inside it or past it?" stops being a question about the calendar. It becomes a question about conditions.
 
@@ -173,7 +173,7 @@ So: *the saints are with Messiah* — established. *The reign takes place only i
 :::
 
 ::: textualnote
-**A genuine variant in Revelation 5:10** `SOURCE-LANGUAGE`
+**A genuine variant in Revelation 5:10** <!-- SOURCE-LANGUAGE -->
 
 The verb in Revelation 5:10 is textually disputed, and I will not settle it here.
 
@@ -196,7 +196,7 @@ Two passages in Matthew 24 bear on that question and on what might be read as si
 Revelation frames the thousand years with two short periods:
 
 - **Revelation 12:12** — the dragon knows he has <span class="gr">ὀλίγον καιρόν</span> (*oligon kairon*), "a short time."
-- **Revelation 20:2, 4, 6, 7** — <span class="gr">χίλια ἔτη</span> (*chilia etē*), "a thousand years," four times in six verses.
+- **Revelation 20:2–7** — <span class="gr">χίλια ἔτη</span> (*chilia etē*), "a thousand years," six times in six verses.
 - **Revelation 20:3** — Satan must be released <span class="gr">μικρὸν χρόνον</span> (*mikron chronon*), "for a little while."
 
 The two short-time expressions are different phrases, as an earlier Part established, so John is not saying the two periods are equal. Revelation 6:11 uses the same two words as 20:3 in reverse order — the martyrs are told to rest "a little while longer" — and Chapter 51 compares all of these expressions together.
@@ -204,7 +204,7 @@ The two short-time expressions are different phrases, as an earlier Part establi
 What the wording gives and does not give:
 
 - **No number.** Not seven years, not forty, not seventy.
-- **A characterization.** The period is short — and it is called short in a passage that has just said "a thousand years" four times in six verses.
+- **A characterization.** The period is short — and it is called short in a passage that has just said "a thousand years" six times in six verses.
 
 So a reading that turns the little season itself into an era on the scale of a millennium carries a real textual burden. It is not impossible, but it must be argued, not assumed.
 
@@ -237,7 +237,7 @@ Later chapters refer to these by letter, and I will restate them each time.
 
 This tension is exactly why the inserted-millennium hypothesis is attractive. The instinct found a genuine problem, and option (d) — conventional chronology is wrong — dissolves it cleanly.
 
-But I set (d) aside earlier in this chapter, and the order matters. The calendar proposal was quarantined in Part VII, on two structural grounds, before I knew how much pressure the length of the little season would put on the model. Had I met the pressure first and the theory second, I could not show — to a reader or to myself — that I was not reaching for whatever made the problem go away. Neither of those structural grounds is a verdict on the claim itself, which remains testable, and Chapter 50 tests it.
+But I set (d) aside earlier in this chapter, and the order matters. The calendar proposal was already marked as quarantined at the close of Part VII; the two structural grounds are the ones given above — Revelation may not be evidence for the chronology being tested, and the usual defence seals itself — and both were in place before I knew how much pressure the length of the little season would put on the model. Had I met the pressure first and the theory second, I could not show — to a reader or to myself — that I was not reaching for whatever made the problem go away. Neither of those structural grounds is a verdict on the claim itself, which remains testable, and Chapter 50 tests it.
 
 So the tension is real, and the most convenient way out of it is closed for reasons that predate the tension. That is the kind of pressure an honest investigation should welcome. It is now a stated constraint on the argument rather than a feeling.
 
@@ -269,7 +269,7 @@ There is one text that might. Ezekiel 38–39, where Revelation gets the names G
 
 Most of the remaining groundwork turned out to be done already. What was genuinely missing was smaller and more important than I expected: I had never directly tested what kind of duration the thousand years are. I had set the question aside so carefully, so often, that setting it aside began to look like answering it.
 
-Then the question of how long the little season can be put more pressure on the model than any earlier stage had. If the thousand years are calendar years and began in the first century, they ended around the eleventh — which would put us now about nine hundred and fifty years into something the text calls short.
+Then the question of how long the little season can be put more pressure on the model than any earlier question had. If the thousand years are calendar years and began in the first century, they ended around the eleventh — which would put us now about nine hundred and fifty years into something the text calls short.
 
 That tension is what makes the missing-thousand-years proposal tempting. The instinct is understandable. But the proposal was set aside for reasons that have nothing to do with convenience: it would not erase the manuscripts this book quotes, but it would force everything built on their dating and order to be rebuilt, and the defence usually offered for it shields itself from any counter-evidence. The claim itself remains testable, and it will be tested.
 

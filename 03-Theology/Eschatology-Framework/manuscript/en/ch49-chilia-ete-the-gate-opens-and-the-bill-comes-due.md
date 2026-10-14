@@ -12,7 +12,7 @@ related: "[[10-manuscript-architecture]], [[03l-chilia-ete-the-gate]], [[03i-the
 
 # Chapter 49: A thousand years — what the number can and cannot tell us
 
-Two chapters ago I found that, across the preceding fifty-eight stages, I had never directly tested what kind of duration the thousand years represent. Every earlier treatment had deliberately left the question open. I also wrote down the test before I knew which way it would go:
+Two chapters ago I found that, across the seven Parts before Part VIII, I had never directly tested what kind of duration the thousand years represent. Every earlier treatment had deliberately left the question open. I also wrote down the test before I knew which way it would go:
 
 > **Does Revelation ever use a number in a way that is demonstrably not literal?**
 

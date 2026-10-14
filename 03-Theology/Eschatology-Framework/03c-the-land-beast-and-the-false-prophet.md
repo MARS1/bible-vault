@@ -10,6 +10,8 @@ localization: "✅ VERIFIED THIS STAGE: EXHAUSTIVE γῆ SWEEP of Revelation —
 related: "[[00-methodology-current]], [[00a-narrative-spine]], [[08-source-ledger]], [[03b-the-first-candidate-on-trial]], [[03a-the-beasts-fingerprint]], [[02z-deception-scope-and-the-allegiance-control]]"
 ---
 
+> **Erratum (2026-10-14).** The γῆ count recorded below ("35 occurrences across all 22 chapters") is wrong. A recount from SBLGNT (MorphGNT) gives **82 occurrences in 67 verses, across 18 of Revelation's 22 chapters**, and the conclusion narrows from "every occurrence" to the dominant usage. The text below is kept as the historical record; the corrected audit is in the manuscript's Part VII (ch46) and `manuscript/PART-VII-NORMALIZATION-REPORT.md`.
+
 # Stage 55C — The Land Beast and the False Prophet
 
 > ### **THE FIRST-BEAST HYPOTHESIS CANNOT STAND ALONE. REVELATION PRESENTS TWO COOPERATING BEASTS AND DESTROYS THEM TOGETHER.**

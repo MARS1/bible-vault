@@ -364,12 +364,12 @@ Otra vez no hay batalla. La revuelta sencillamente termina. La misma forma que e
 
 Y entonces la frase que responde lo que rechacé dos veces: el diablo que los engañaba es lanzado en el lago de fuego y azufre, **donde estaban la bestia y el falso profeta** (20:10).
 
-Ya **están allí**. Desde el capítulo 19.
+La narración los tiene allí — la cláusula misma no tiene verbo conjugado (el «estaban» de la RVR1960 lo suple la traducción), así que el «ya» es una inferencia de la secuencia: Apocalipsis 19:20 pone a la bestia y al falso profeta en el lago antes de 20:10.
 
 ::: finding
 **Hallazgo — la secuencia de los adversarios es explícita, y decide algo**
 
-Apocalipsis coloca el juicio de lago de fuego de Satanás **después** del milenio, mientras la bestia y el falso profeta lo **preceden**. Eso no es una inferencia a partir del orden de las visiones; el versículo dice dónde están ya.
+Apocalipsis coloca el juicio de lago de fuego de Satanás **después** del milenio, mientras la bestia y el falso profeta lo **preceden**. Ese orden es la propia narración del libro, no una conjetura a partir de dónde caen las visiones: 19:20 arroja a la bestia y al falso profeta al lago, y 20:10 envía al diablo al mismo lago.
 
 De modo que una imaginería compartida de Ezequiel no borra una secuencia explícita de adversarios. **Mejor lectura actual: dos conflictos distintos que usan imaginería profética emparentada** — lo cual favorece materialmente un intervalo genuino entre ellos.
 
@@ -577,7 +577,7 @@ Y Apocalipsis demostrablemente rebobina, superpone, anticipa y reutiliza imagine
 
 **La progresión en espiral con puntos de transición genuinos** está por lo tanto mejor apoyada que la linealidad estricta o que la recapitulación completa. Promovida de hipótesis a modelo arquitectónico fuerte.
 
-**Su correa viaja con la promoción.** Tiene que seguir ganándose cada aplicación desde el texto. Un modelo que explica cualquier disposición no explica nada — y un modelo que promoví tres capítulos después de inventarlo merece más sospecha, no menos.
+**Su correa viaja con la promoción.** Tiene que seguir ganándose cada aplicación desde el texto. Un modelo que explica cualquier disposición no explica nada — y un modelo que promoví en el mismo capítulo que lo introdujo merece más sospecha, no menos.
 :::
 
 ## Ninguno de los dos extremos sobrevive

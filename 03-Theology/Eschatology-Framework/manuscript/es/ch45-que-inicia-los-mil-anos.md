@@ -143,7 +143,7 @@ Yo venía argumentando que un milenio que empieza en la ascensión está bajo pr
 
 ## Las naciones no son una categoría fija
 
-Trece apariciones de *las naciones*, y corren en las dos direcciones.
+Quince apariciones de *las naciones*, y corren en las dos direcciones.
 
 **Negativas** — pisotean la ciudad santa · ebrias del vino de Babilonia · heridas por el jinete · engañadas en 20:3 y 20:8.
 

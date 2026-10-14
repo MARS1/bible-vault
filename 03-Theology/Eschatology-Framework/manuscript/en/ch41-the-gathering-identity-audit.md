@@ -327,7 +327,7 @@ It came from setting two passages beside each other and reading them word by wor
 
 ## John's "last day" — the hardest objection, and it got harder
 
-All six occurrences checked in the Greek. All singular.
+All six eschatological occurrences checked in the Greek (7:37, the last day of the feast, is set aside). All singular.
 
 | Verse | Speaker | Attached to |
 |-----------|--------------------|-----------------|

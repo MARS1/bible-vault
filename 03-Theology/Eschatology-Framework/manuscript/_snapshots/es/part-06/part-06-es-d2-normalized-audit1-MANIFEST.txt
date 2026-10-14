@@ -1,0 +1,14 @@
+Edition:        Español (es)
+Part:           6  Parte VI: Apocalipsis, leído a través de la Escritura anterior
+Milestone:      d2-normalized-audit1
+Source commit:  38a6626711107c1fb971b3d28cc5dd9c64c86103
+Commit date:    2026-10-14
+Tree state:     UNCOMMITTED CHANGES IN SOURCE
+Built:          2026-10-14
+Extent:         44,415 words, 231 pages
+
+NOTE
+Book One full-book audit 2026-10-14 (BOOK-ONE-AUDIT-REPORT.md, BIBLE-5z7)
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit 38a6626

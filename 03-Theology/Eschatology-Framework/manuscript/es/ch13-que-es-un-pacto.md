@@ -3,7 +3,7 @@ title: "Manuscrito (ES) — Capítulo 13: ¿Qué es un pacto?"
 type: manuscript
 category: theology
 tags: [draft-1, parte-iii, capitulo-13, stage-16-5, berit, diatheke, olam, senal-del-pacto, reubicacion-declarada]
-reference: "Génesis 9:12-16; Génesis 15:18; Génesis 17:11-13; Éxodo 24:8; Éxodo 31:16-17; 2 Samuel 7:12-16; Jeremías 31:31-33; Gálatas 3:17-18"
+reference: "Génesis 9:12-16; Génesis 15:18; Génesis 17:11-13; Éxodo 31:16-17; 2 Samuel 7:12-16; Jeremías 31:31-33; Gálatas 3:17-18"
 created: 2026-09-11
 status: draft
 localization: "BORRADOR 1 ES. Edición hermana del Part III EN D1-reviewed (despejado), no traducción. ★ SE CONSERVA LA DECLARACIÓN DE REUBICACIÓN: este capítulo se escribió DESPUÉS del de la circuncisión y va ANTES; ocultarlo borraría el recorrido. ★ CORRECCIÓN EN CONSERVADA: el berit olam compartido NO determina por sí solo cómo funciona cada institución bajo desarrollos pactuales posteriores, y Hechos 15 NO es la Escritura declarando terminado el pacto abrahámico. ★ VENTAJA ES: la RVR1960 dice 'pacto perpetuo' en Génesis 17:13 Y en Éxodo 31:16 — la misma frase, visible para el lector hispano, donde la ESV varía (SYNC-010). ❗ DEUDA: sin RVR1960 verificado para Génesis 9:12-16 y 15:18; se describen (SYNC-006). TERMINOLOGÍA: no globo/global/planeta/planetario/mundial."
@@ -37,7 +37,7 @@ Una definición de trabajo, que voy a sostener con la holgura suficiente como pa
 
 La Escritura no suele hablar de *hacer* un pacto. Habla de cortarlo. En Génesis 15:18 se dice que Jehová hizo un pacto con Abram, y el verbo que está debajo es *karat* — y la escena inmediatamente anterior son animales partidos por la mitad con un horno humeante pasando entre los pedazos.
 
-Pacto y sacrificio están unidos al nivel del vocabulario. Vale la pena recordarlo dos capítulos más adelante, cuando lleguen la sangre del pacto de Éxodo 24:8 y Mateo 26:28.
+Pacto y sacrificio están unidos al nivel del vocabulario. Vale la pena recordarlo dos capítulos más adelante, cuando llegue la sangre del pacto de Mateo 26:28.
 :::
 
 ## La distinción sobre la que descansa toda la Parte

@@ -129,7 +129,7 @@ I had been arguing that a millennium beginning at the ascension is under pressur
 
 ## The nations are not a fixed category
 
-Thirteen occurrences of *the nations*, and they run both directions.
+Fifteen occurrences of *the nations*, and they run both directions.
 
 **Negative** — trampling the holy city · drunk on Babylon's wine · struck by the rider · deceived at 20:3 and 20:8.
 

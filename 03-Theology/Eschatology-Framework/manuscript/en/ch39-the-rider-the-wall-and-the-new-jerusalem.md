@@ -345,12 +345,12 @@ And then the sentence that answers the question I refused twice:
 
 > …and the devil who had deceived them was thrown into the lake of fire and sulfur **where the beast and the false prophet were**… (Revelation 20:10)
 
-They are **already there**. From chapter 19.
+The narrative has them there — the clause itself has no finite verb, so "already" is an inference from the sequence: Revelation 19:20 places the beast and false prophet in the lake before 20:10.
 
 ::: finding
 **Finding — the adversary sequence is explicit, and it decides something**
 
-Revelation places Satan's lake-of-fire judgment **after** the millennium while the beast and false prophet **precede** it. That is not an inference from vision order; the verse says where they already are.
+Revelation places Satan's lake-of-fire judgment **after** the millennium while the beast and false prophet **precede** it. That order is the book's own narrative, not a guess from where the visions happen to sit: 19:20 throws the beast and false prophet into the lake, and 20:10 sends the devil into the same lake.
 
 So shared Ezekiel imagery does not erase an explicit adversary sequence. **Best current reading: two distinct conflicts using related prophetic imagery** — which materially favours a genuine interval between them.
 
@@ -560,7 +560,7 @@ And Revelation demonstrably rewinds, overlays, anticipates, and reuses consummat
 
 **Spiral progression with genuine transition points** is therefore better supported than either strict linearity or complete recapitulation. Promoted from hypothesis to strong architectural model.
 
-**Its leash travels with the promotion.** It must still earn each application from the text. A model that explains any arrangement explains nothing — and a model I promoted three chapters after inventing it deserves more suspicion, not less.
+**Its leash travels with the promotion.** It must still earn each application from the text. A model that explains any arrangement explains nothing — and a model I promoted in the same chapter that introduced it deserves more suspicion, not less.
 :::
 
 ## Neither extreme survives

@@ -95,7 +95,7 @@ Tres conjunciones distintas y dos verbos distintos. La expresión coincide; el r
 
 Apocalipsis describe más de una vez una reunión para la batalla, e importa cuáles descripciones van juntas. Apocalipsis 16:14 habla de espíritus que salen a reunir a los reyes «a la batalla de aquel gran día»; 19:19 describe a la bestia y a los reyes «reunidos para guerrear contra el que montaba» el caballo; y 20:8 describe a Satanás reuniendo a las naciones «para la batalla» después de los mil años.
 
-Una etapa anterior de esta investigación examinó cuáles de ellas van juntas, y su resultado fue una división genuina, no una respuesta cerrada:
+La comparación que sigue examina cuáles de ellas van juntas, y su resultado es una división genuina, no una respuesta cerrada:
 
 ::: evidence
 **Qué reunión va con qué batalla**
@@ -111,7 +111,7 @@ Si el capítulo 16 va con el 19, con el 20 o con ninguno, sigue abierto.
 
 Es tentador dar por cerrada esa pregunta abierta y juntar los tres pasajes en un solo «conjunto de acontecimientos anterior a los mil años». No está cerrada, y tratar una lectura favorecida por el contexto como si estuviera establecida es exactamente la clase de ascenso que este libro intenta evitar.
 
-Algunas cosas sí están establecidas. Las aves convocadas a la «gran cena» pertenecen a 19:17–21; Apocalipsis 20 no tiene ningún vocabulario de aves. La palabra *Armagedón* (<span class="gr">Ἁρμαγεδών</span>) aparece una sola vez en todo el libro, en 16:16, y no está ni en el capítulo 19 ni en el 20. Y la etapa anterior resolvió su propio empate con un buen argumento narrativo: la misma figura no puede estar a la vez activa y ya despachada para siempre en la misma escena.
+Algunas cosas sí están establecidas. Las aves convocadas a la «gran cena» pertenecen a 19:17–21; Apocalipsis 20 no tiene ningún vocabulario de aves. La palabra *Armagedón* (<span class="gr">Ἁρμαγεδών</span>) aparece una sola vez en todo el libro, en 16:16, y no está ni en el capítulo 19 ni en el 20. Y esa comparación resolvió su propio empate con un buen argumento narrativo: la misma figura no puede estar a la vez activa y ya despachada para siempre en la misma escena.
 
 ## La palabra «ya» en Apocalipsis 20:10
 
@@ -179,6 +179,8 @@ El sustantivo para terremoto, <span class="gr">σεισμός</span> (*seismos*)
 
 En 16:18 el propio texto marca el terremoto como sin precedente:
 
+> <span class="gr">οἷος οὐκ ἐγένετο ἀφ' οὗ ἄνθρωποι ἐγένοντο ἐπὶ τῆς γῆς τηλικοῦτος σεισμὸς οὕτω μέγας</span>
+>
 > Entonces hubo relámpagos y voces y truenos, y un gran temblor de tierra, un terremoto tan grande, cual no lo hubo jamás desde que los hombres han estado sobre la tierra.
 
 Ese superlativo lo da el texto; no se le impone.
