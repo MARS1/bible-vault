@@ -21,41 +21,41 @@ I had been treating Paul's three passages as three accounts of one event, the wa
 ::: finding
 **Finding — 2 Thessalonians 2:1–12 contains no resurrection vocabulary at all**
 
-Seven terms searched across the full passage. **All seven absent:** <span class="gr">ἀνάστασις</span> · <span class="gr">ἀνίστημι</span> · <span class="gr">ἐγείρω</span> · <span class="gr">νεκρός</span> · <span class="gr">κοιμάομαι</span> · <span class="gr">ζωοποιέω</span> · <span class="gr">ἁρπάζω</span>.
+Seven terms searched across the full passage. **All seven absent:** <span class="gr">ἀνάστασις</span> (*anastasis*) · <span class="gr">ἀνίστημι</span> (*anistēmi*) · <span class="gr">ἐγείρω</span> (*egeirō*) · <span class="gr">νεκρός</span> (*nekros*) · <span class="gr">κοιμάομαι</span> (*koimaomai*) · <span class="gr">ζωοποιέω</span> (*zōopoieō*) · <span class="gr">ἁρπάζω</span> (*harpazō*).
 
-**And the mirror search, equally total. 1 Thessalonians 4:13–18 contains no transformation vocabulary:** <span class="gr">ἀλλάσσω</span> · <span class="gr">μεταμορφόω</span> · <span class="gr">μετασχηματίζω</span> · <span class="gr">ἀφθαρσία</span> · <span class="gr">ἀθανασία</span> · <span class="gr">φθαρτός</span> · <span class="gr">θνητός</span>. **All seven absent.**
+**And the mirror search, equally total. 1 Thessalonians 4:13–18 contains no transformation vocabulary:** <span class="gr">ἀλλάσσω</span> (*allassō*) · <span class="gr">μεταμορφόω</span> (*metamorphoō*) · <span class="gr">μετασχηματίζω</span> (*metaschēmatizō*) · <span class="gr">ἀφθαρσία</span> (*aphtharsia*) · <span class="gr">ἀθανασία</span> (*athanasia*) · <span class="gr">φθαρτός</span> (*phthartos*) · <span class="gr">θνητός</span> (*thnētos*). **All seven absent.**
 :::
 
 Laid out, the division is clean.
 
 | | resurrection | transformation | gathering |
 |--------------------------|--------------------------------|-------------------------------|-----------------------|
-| **2 Thessalonians 2** | ❌ **none** | ❌ none | ✅ <span class="gr">ἐπισυναγωγή</span> |
-| **1 Thessalonians 4** | ✅ <span class="gr">ἀναστήσονται · νεκροί</span> | ❌ **none** | ✅ <span class="gr">ἁρπάζω · ἀπάντησις</span> |
-| **1 Corinthians 15** | ✅ <span class="gr">ἐγερθήσονται · νεκροί</span> | ✅ <span class="gr">ἀλλαγησόμεθα · ἀφθαρσία</span> | ❌ none |
+| **2 Thessalonians 2** | **none** | none | <span class="gr">ἐπισυναγωγή</span> |
+| **1 Thessalonians 4** | <span class="gr">ἀναστήσονται · νεκροί</span> | **none** | <span class="gr">ἁρπάζω · ἀπάντησις</span> |
+| **1 Corinthians 15** | <span class="gr">ἐγερθήσονται · νεκροί</span> | <span class="gr">ἀλλαγησόμεθα · ἀφθαρσία</span> | none |
 
-❗ **No two of the three share the same vocabulary set. Each supplies what the others lack.**
+**No two of the three share the same vocabulary set. Each supplies what the others lack.**
 
 ::: evidence
 **And it cuts both ways, which is why it is worth having**
 
-✅ **For the one-complex reading:** this is exactly what **complementary dimensions of a single event** would look like — and it is now verified at the level of words rather than asserted from a feeling.
+**For the one-complex reading:** this is exactly what **complementary dimensions of a single event** would look like — and it is now verified at the level of words rather than asserted from a feeling.
 
-❗ **Against it:** the passages **do not overlap enough to prove identity by shared vocabulary.** If each supplies a different piece, then no two of them prove each other. **The joins are inferences.**
+**Against it:** the passages **do not overlap enough to prove identity by shared vocabulary.** If each supplies a different piece, then no two of them prove each other. **The joins are inferences.**
 
 And the pairwise overlaps are not equal:
 
 | Pair | What they actually share |
 |--------------------------------|-------------------------------------------------------|
-| **1 Thess 4 ∩ 1 Cor 15** | ✅ <span class="gr">παρουσία</span> · a trumpet · dead raised · living surviving to the event — **substantial** |
+| **1 Thess 4 ∩ 1 Cor 15** | <span class="gr">παρουσία</span> · a trumpet · dead raised · living surviving to the event — **substantial** |
 | **2 Thess 2 ∩ 1 Thess 4** | <span class="gr">παρουσία</span> · gathering-to-Messiah — **moderate** |
-| ★ **2 Thess 2 ∩ 1 Cor 15** | ❗ <span class="gr">παρουσία</span>. **And nothing else.** |
+| **2 Thess 2 ∩ 1 Cor 15** | <span class="gr">παρουσία</span>. **And nothing else.** |
 :::
 
 ## And that one word will not carry what is being hung on it
 
 ::: wordstudy
-**Word study — <span class="gr">παρουσία</span>, and the sentence that disqualifies it as proof**
+**Word study — <span class="gr">παρουσία</span> (*parousia*), and the sentence that disqualifies it as proof**
 
 <span class="gr">παρουσία</span> is *presence* or *arrival* — an ordinary noun, used in the wider Greek world of a dignitary's official visit. **Context supplies whose arrival, and what kind.**
 
@@ -65,15 +65,15 @@ And the pairwise overlaps are not equal:
 
 **1 Corinthians 15:23** — *those who belong to Messiah at His <span class="gr">παρουσία</span>.*
 
-❗ **And eight verses later, in the same chapter as the first of those:**
+**And eight verses later, in the same chapter as the first of those:**
 
 **2 Thessalonians 2:9** — *whose <span class="gr">παρουσία</span> is according to the working of Satan.*
 
 **Paul uses the same noun of the lawless one, in the same chapter, about a different arrival entirely.**
 
-📐 **So shared <span class="gr">παρουσία</span> establishes that all three passages concern *an arrival of Messiah*. It does not establish *the same arrival*.** The real upgrade comes from the surrounding mechanics — trumpet, dead, living — not from the word. **Necessary, not sufficient.**
+**So shared <span class="gr">παρουσία</span> establishes that all three passages concern *an arrival of Messiah*. It does not establish *the same arrival*.** The real upgrade comes from the surrounding mechanics — trumpet, dead, living — not from the word. **Necessary, not sufficient.**
 
-⚠️ **And where those mechanics are absent, the word is all that is left** — which is precisely the 2 Thessalonians 2 against 1 Corinthians 15 joint above.
+**And where those mechanics are absent, the word is all that is left** — which is precisely the 2 Thessalonians 2 against 1 Corinthians 15 joint above.
 :::
 
 ## The trumpet is not a bridge either — and not even inside Paul
@@ -86,27 +86,27 @@ And the pairwise overlaps are not equal:
 
 **The noun is shared. Every modifier differs.** I had known Matthew's trumpet differed from Paul's. I had not noticed **that Paul's two differ from each other.**
 
-📌 And one of the three has a lexical home the others do not: **Matthew's phrase is a verbal match with the Greek Isaiah's *great trumpet*. Neither of Paul's matches Isaiah, or Matthew, or each other.**
+And one of the three has a lexical home the others do not: **Matthew's phrase is a verbal match with the Greek Isaiah's *great trumpet*. Neither of Paul's matches Isaiah, or Matthew, or each other.**
 
-📐 **The trumpet is a motif cluster, not a lexical bridge.**
+**The trumpet is a motif cluster, not a lexical bridge.**
 
 ## What is genuinely established, and it is not small
 
-★ **1 Corinthians 15:23 is the strongest single datum in this whole chapter:** *those who belong to Messiah, at His <span class="gr">παρουσία</span>.* **Paul places the making-alive of Messiah's people at Messiah's arrival. That is not inferred from anywhere. It is stated.**
+**1 Corinthians 15:23 is the strongest single datum in this whole chapter:** *those who belong to Messiah, at His <span class="gr">παρουσία</span>.* **Paul places the making-alive of Messiah's people at Messiah's arrival. That is not inferred from anywhere. It is stated.**
 
 And 1 Thessalonians 4 and 1 Corinthians 15 genuinely share four things: the arrival, a trumpet, dead believers raised, and living believers surviving to the event and being acted upon. **Both also distinguish the two populations explicitly** — *those who have fallen asleep* against *we who are alive and remain*; *we shall not all sleep* against *we shall all be changed*.
 
-⚠️ One caution about the letters' relationship. Paul tells the Thessalonians to hold what they were taught *whether by word or by our letter* — singular. Elsewhere he writes *in every letter*. **He demonstrably wrote more than one, and the singular does not identify which.** They had prior teaching. **Which text it was is not established.**
+One caution about the letters' relationship. Paul tells the Thessalonians to hold what they were taught *whether by word or by our letter* — singular. Elsewhere he writes *in every letter*. **He demonstrably wrote more than one, and the singular does not identify which.** They had prior teaching. **Which text it was is not established.**
 
 ## Three corrections I had to take, and one of them lands twice
 
 **"In the twinkling of an eye" modifies the change, not a disappearance.** Paul writes *we shall all be changed, in a moment, in the twinkling of an eye.* He does not say *we shall vanish in the twinkling of an eye.* The catching-up belongs to the other letter.
 
-❗ **And this converges with an earlier chapter's finding, independently.** <span class="gr">ἁρπάζω</span> also encodes no disappearance — in Acts it seizes Philip and **deposits him in Azotus**. **Two different words, two different investigations, the same conclusion reached separately.** That is corroboration rather than restatement, and *one taken, one left* gains support from neither.
+**And this converges with an earlier chapter's finding, independently.** <span class="gr">ἁρπάζω</span> (*harpazō*) also encodes no disappearance — in Acts it seizes Philip and **deposits him in Azotus**. **Two different words, two different investigations, the same conclusion reached separately.** That is corroboration rather than restatement, and *one taken, one left* gains support from neither.
 
 **"We shall all be changed" is not universal.** The *all* of *in Messiah all shall be made alive* is bounded by *in Messiah* — exactly as the next verse then specifies with *those who belong to Messiah*.
 
-**And firstfruits does not mean first person ever raised.** Romans 6:9: *having been raised from the dead, He dies **no more**; death **no longer** has dominion over Him.* **Twice.** That is the category difference. The earlier restorations — Jairus's daughter, who *got up and walked* (Mark 5:42), the widow's son at Nain, who *sat up and began to speak* (Luke 7:15), Lazarus, who *came out* still bound in his graveclothes (John 11:44) — are each a return to ordinary, mortal life. ⚠️ **None of those accounts narrates a later death; that they could die again is the plain implication of mortal life, not a sentence in the text.**
+**And firstfruits does not mean first person ever raised.** Romans 6:9: *having been raised from the dead, He dies **no more**; death **no longer** has dominion over Him.* **Twice.** That is the category difference. The earlier restorations — Jairus's daughter, who *got up and walked* (Mark 5:42), the widow's son at Nain, who *sat up and began to speak* (Luke 7:15), Lazarus, who *came out* still bound in his graveclothes (John 11:44) — are each a return to ordinary, mortal life. **None of those accounts narrates a later death; that they could die again is the plain implication of mortal life, not a sentence in the text.**
 
 ## Four ways of saying "first," and none of them the same way
 
@@ -114,14 +114,14 @@ And 1 Thessalonians 4 and 1 Corinthians 15 genuinely share four things: the arri
 |----------------------------|-----------------------------------|--------------------------------------|
 | **1 Corinthians 15:20** | <span class="gr">ἀπαρχὴ τῶν κεκοιμημένων</span> | *firstfruits* |
 | **Colossians 1:18** | <span class="gr">πρωτότοκος ἐκ τῶν νεκρῶν</span> | firstborn ***from*** the dead |
-| **Revelation 1:5** | <span class="gr">ὁ πρωτότοκος τῶν νεκρῶν</span> | firstborn ***of*** the dead — ❗ no <span class="gr">ἐκ</span> |
-| ★ **Acts 26:23** | <span class="gr">πρῶτος ἐξ ἀναστάσεως νεκρῶν</span> | ***first*** from resurrection of the dead |
+| **Revelation 1:5** | <span class="gr">ὁ πρωτότοκος τῶν νεκρῶν</span> | firstborn ***of*** the dead — no <span class="gr">ἐκ</span> |
+| **Acts 26:23** | <span class="gr">πρῶτος ἐξ ἀναστάσεως νεκρῶν</span> | ***first*** from resurrection of the dead |
 
-📌 **The same pattern again** — recurring formulations that are never quite fixed. Daniel's abomination did this. The three trumpets did this. Now the firstborn formulas do it.
+**The same pattern again** — recurring formulations that are never quite fixed. Daniel's abomination did this. The three trumpets did this. Now the firstborn formulas do it.
 
-And the last row put a problem on the table that I deliberately did not use yet. **Acts puts <span class="gr">πρῶτος</span> in Paul's own mouth about resurrection. Revelation 20:5 calls something <span class="gr">ἡ ἀνάστασις ἡ πρώτη</span>.** Two *first* claims about resurrection in the New Testament. **If Messiah is first from resurrection of the dead, in what sense is Revelation's the first resurrection?**
+And the last row put a problem on the table that I deliberately did not use yet. **Acts puts <span class="gr">πρῶτος</span> (*prōtos*) in Paul's own mouth about resurrection. Revelation 20:5 calls something <span class="gr">ἡ ἀνάστασις ἡ πρώτη</span>.** Two *first* claims about resurrection in the New Testament. **If Messiah is first from resurrection of the dead, in what sense is Revelation's the first resurrection?**
 
-🛑 **I recorded it and handed it forward unused.** Deploying a Revelation-facing datum here — where it would have made the Pauline chain look more finished than it is — would have been decorating one verdict with another argument's evidence.
+**I recorded it and handed it forward unused.** Deploying a Revelation-facing datum here — where it would have made the Pauline chain look more finished than it is — would have been decorating one verdict with another argument's evidence.
 
 ## The verdict, differentiated rather than flattened
 
@@ -129,10 +129,10 @@ One term first, because the rest of this Part uses it constantly. By **the Pauli
 
 | Link | Grade |
 |------------------------------------|------------------------------------------------|
-| **1 Thess 4 ⟷ 1 Cor 15** | ✅ **VERY HIGH** |
-| **2 Thess 2 ⟷ 1 Thess 4** | **HIGH** — ⚠️ the resurrection is *imported*, not shared |
-| **2 Thess 2 ⟷ 1 Cor 15** | **MODERATE** — <span class="gr">παρουσία</span> alone |
-| ★ **"one Pauline complex"** | **HIGH, not VERY HIGH** |
+| **1 Thess 4 ⟷ 1 Cor 15** | **very high** |
+| **2 Thess 2 ⟷ 1 Thess 4** | **high** — the resurrection is *imported*, not shared |
+| **2 Thess 2 ⟷ 1 Cor 15** | **moderate** — <span class="gr">παρουσία</span> alone |
+| **"one Pauline complex"** | **high, not very high** |
 
 A single grade across the whole chain would have read more cleanly and been defensible. **But averaging hides the joint an opponent should attack**, and a chain is only as strong as its weakest link — **which here is the one carrying no resurrection language at all.**
 
@@ -141,66 +141,56 @@ A single grade across the whole chain would have read more cleanly and been defe
 
 **The weakest link is no longer *does Paul describe resurrection?* — obviously yes.**
 
-**Nor *are Paul's three passages one event?* — probably yes, at HIGH.**
+**Nor *are Paul's three passages one event?* — probably yes, at high.**
 
-❗ **The hinge is: does Matthew's first-century boundary genuinely attach to Paul's resurrection *through* 2 Thessalonians 2?**
+**The hinge is: does Matthew's first-century boundary genuinely attach to Paul's resurrection *through* 2 Thessalonians 2?**
 
-📌 **And the vocabulary table sharpens exactly why. 2 Thessalonians 2 is the joint that carries the first-century connection *and* contains no resurrection language. The load passes through the thinnest point.**
+**And the vocabulary table sharpens exactly why. 2 Thessalonians 2 is the joint that carries the first-century connection *and* contains no resurrection language. The load passes through the thinnest point.**
 
 **That I can say so precisely is progress. Localized uncertainty is worth more than diffuse confidence — and I would rather name the place to hit this argument than find out later from somebody else.**
 :::
 
----
+## And then Paul against John
 
-# And then Paul against John
+The same subtraction test, run against Revelation 20:4–6.
 
-Two debts were paid before this comparison started, and both had been declared incomplete three chapters ago rather than argued past.
-
-::: textualnote
-**Two incomplete passages completed, and the discipline paid twice over**
-
-✅ **Revelation 6:10–11, now complete** — the *how long* cry, the white robes, and *that they should rest **a little longer**, until the number of their fellow servants and their brothers **should be completed**, who were to be killed as they had been.*
-
-✅ **Matthew 27:52–53, now complete** — *many **bodies** of the saints who had fallen asleep **were raised**… and coming out of the tombs **after His raising**.*
-
-📌 **The earlier chapter built its intermediate-state control on Revelation 6:9 alone, with the limitation stated. The completed text does not overturn it. It strengthens it** — which is only possible because the gap was declared rather than quietly filled from expectation. **A guess would have had nothing left to confirm.**
-:::
+<!-- VERIFICATION TRAIL (hidden, kept verbatim from Draft 1): Two debts were paid before this comparison started, and both had been declared incomplete three chapters ago rather than argued past. ::: textualnote **Two incomplete passages completed, and the discipline paid twice over** ✅ **Revelation 6:10–11, now complete** — the *how long* cry, the white robes, and *that they should rest **a little longer**, until the number of their fellow servants and their brothers **should be completed**, who were to be killed as they had been.* ✅ **Matthew 27:52–53, now complete** — *many **bodies** of the saints who had fallen asleep **were raised**… and coming out of the tombs **after His raising**.* 📌 **The earlier chapter built its intermediate-state control on Revelation 6:9 alone, with the limitation stated. The completed text does not overturn it. It strengthens it** — which is only possible because the gap was declared rather than quietly filled from expectation. **A guess would have had nothing left to confirm.** ::: -->
 
 ## Eight terms, and this time the count is zero
 
 ::: finding
 **Finding — Revelation 20:4–6 shares no vocabulary with Paul. None.**
 
-**Eight Pauline terms searched. All eight absent:** <span class="gr">ἀλλάσσω</span> · <span class="gr">ἀφθαρσία</span> · <span class="gr">ἀθανασία</span> · <span class="gr">ἁρπάζω</span> · <span class="gr">ἀπάντησις</span> · <span class="gr">παρουσία</span> · <span class="gr">σάλπιγξ</span> · <span class="gr">νεφέλη</span>.
+**Eight Pauline terms searched. All eight absent:** <span class="gr">ἀλλάσσω</span> · <span class="gr">ἀφθαρσία</span> · <span class="gr">ἀθανασία</span> (*athanasia*) · <span class="gr">ἁρπάζω</span> · <span class="gr">ἀπάντησις</span> (*apantēsis*) · <span class="gr">παρουσία</span> · <span class="gr">σάλπιγξ</span> (*salpinx*) · <span class="gr">νεφέλη</span> (*nephelē*).
 
-**John writes two verbs — <span class="gr">ἔζησαν</span> and <span class="gr">ἐβασίλευσαν</span>, *they lived* and *they reigned*. Neither appears in 1 Thessalonians 4, 1 Corinthians 15, or 2 Thessalonians 2.**
+**John writes two verbs — <span class="gr">ἔζησαν</span> (*ezēsan*) and <span class="gr">ἐβασίλευσαν</span>, *they lived* and *they reigned*. Neither appears in 1 Thessalonians 4, 1 Corinthians 15, or 2 Thessalonians 2.**
 
-**And it has to be measured against what this project already holds:**
+**And it has to be measured against what this book already holds:**
 
 | Link | Lexical links |
 |-----------------------------------|----------------------------------------------|
-| **Matthew 24 ⟷ 2 Thessalonians 2**| ✅ **two** — <span class="gr">ἀνομία</span> and <span class="gr">σημεῖον/τέρας</span> |
-| **1 Thess 4 ⟷ 1 Cor 15** | ✅ <span class="gr">παρουσία</span>, the trumpet-noun, <span class="gr">νεκροί</span>, the living/dead distinction |
-| ★ **Paul ⟷ Revelation 20:4–6** | ❗ **zero** |
+| **Matthew 24 ⟷ 2 Thessalonians 2**| **two** — <span class="gr">ἀνομία</span> and <span class="gr">σημεῖον/τέρας</span> |
+| **1 Thess 4 ⟷ 1 Cor 15** | <span class="gr">παρουσία</span>, the trumpet-noun, <span class="gr">νεκροί</span>, the living/dead distinction |
+| **Paul ⟷ Revelation 20:4–6** | **zero** |
 
-🛑 **So the Paul–John link is in a *weaker evidence class* than the Matthew–Paul link — which this project already grades below HIGH — even though its structural correspondence feels considerably stronger.**
+**So the Paul–John link is in a *weaker evidence class* than the Matthew–Paul link — which this book already grades below high — even though its structural correspondence feels considerably stronger.**
 
 **Structure is a real kind of evidence. It is not the same kind as vocabulary, and I had been feeling a strength the words do not supply.**
 :::
 
 ## The structural correspondence, which is genuinely strong
 
-**Paul:** firstfruits, Messiah → then those who belong to Messiah at His arrival → then <span class="gr">τὸ τέλος</span>, the terminal movement in which *He must reign **until** He has put all enemies under His feet* and *the last enemy to be abolished is death.*
+**Paul:** firstfruits, Messiah → then those who belong to Messiah at His arrival → then <span class="gr">τὸ τέλος</span> (*to telos*), the terminal movement in which *He must reign **until** He has put all enemies under His feet* and *the last enemy to be abolished is death.*
 
 **John:** *they lived and reigned with Messiah a thousand years* → *the rest of the dead did not live **until** the thousand years were completed* → the revolt → the great white throne → *and Death and Hades were thrown into the lake of fire.*
 
-★ **Both run: resurrection of Messiah's people → a reign → enemies subdued → death destroyed last.**
+**Both run: resurrection of Messiah's people → a reign → enemies subdued → death destroyed last.**
 
-⚠️ **Both also use <span class="gr">ἄχρι</span> for the interval — and I am recording that as an observation, not a link.** It is a common word, and this project refused exactly this shape once before. It does not get to be evidence now because it would be convenient.
+**Both also use <span class="gr">ἄχρι</span> (*achri*) for the interval — and I am recording that as an observation, not a link.** It is a common word, and this book refused exactly this shape in Chapter 41. It does not get to be evidence now because it would be convenient.
 
-📌 **And it corroborates an earlier chronology lock from a second author: neither Paul nor John places death's abolition at the *beginning* of the reign.**
+**And it corroborates an earlier chronology lock from a second author: neither Paul nor John places death's abolition at the *beginning* of the reign.**
 
-✅ And the reign correspondence is asymmetric in a useful direction: **Paul has *Messiah* reigning; John has *the saints* reigning *with* Him. John supplies participants Paul does not name — complementary, not contradictory.**
+And the reign correspondence is asymmetric in a useful direction: **Paul has *Messiah* reigning; John has *the saints* reigning *with* Him. John supplies participants Paul does not name — complementary, not contradictory.**
 
 ## The syntax I will not rule on
 
@@ -212,56 +202,58 @@ So the question the table tests is this. John saw *the souls* — in the object 
 
 | Element | Form |
 |------------------------------|-----------------------------------------------|
-| <span class="gr">τὰς ψυχάς</span> | ★ **accusative** — *the souls*, the object of *I saw* |
+| <span class="gr">τὰς ψυχάς</span> | **accusative** — *the souls*, the object of *I saw* |
 | <span class="gr">τῶν πεπελεκισμένων</span> | genitive — *of those who had been beheaded* |
-| ★ <span class="gr">οἵτινες</span> | ★ **nominative** — *whoever*, a subject opening a new clause |
-| article before it | ❌ **none** — joined by *and* alone |
+| <span class="gr">οἵτινες</span> | **nominative** — *whoever*, a subject opening a new clause |
+| article before it | **none** — joined by *and* alone |
 | finite verbs — verbs with their own tense and subject — in the verse | **seven** |
 
-❗ **The change of case is the heart of the whole dispute, and it is now documented: an object in the accusative, followed by a clause opened in the nominative, with no repeated article to mark whether a second group begins.**
+**The change of case is the heart of the whole dispute, and it is now documented: an object in the accusative, followed by a clause opened in the nominative, with no repeated article to mark whether a second group begins.**
 
-★ **And there may be three groups, not two, which I had never noticed. *They sat* has no stated subject. John never says who sits on the thrones.** So the verse contains unidentified throne-sitters receiving judgment-authority, the souls of the beheaded, and the beast-resisters — **and whether these are one, two or three populations is not stated by the text.**
+**And there may be three groups, not two, which I had never noticed. *They sat* has no stated subject. John never says who sits on the thrones.** So the verse contains unidentified throne-sitters receiving judgment-authority, the souls of the beheaded, and the beast-resisters — **and whether these are one, two or three populations is not stated by the text.**
 
-🛑 **This chapter does not rule on it.** I do not parse disputed Greek syntax on my own authority; the question stays open, now with its data in hand rather than its data missing. **And the whole population comparison below depends on a question I have just declined to answer, which is a limitation and not a technicality.**
+**This chapter does not rule on it.** I do not parse disputed Greek syntax on my own authority; the question stays open, now with its data in hand rather than its data missing. **And the whole population comparison below depends on a question I have just declined to answer, which is a limitation and not a technicality.**
 
 ## The verb that carries the staging — and breaks under one translation
 
-✅ **20:4 — *and they **lived**.*** ✅ **20:5 — *the rest of the dead **did not live** until the thousand years were completed.***
+**20:4 — *and they **lived**.*** **20:5 — *the rest of the dead **did not live** until the thousand years were completed.***
 
 **The same verb, affirmed and then negated. That is what makes the two-stage structure a structure rather than an inference.**
 
-⚠️ **And it is translation-fragile. The Reina-Valera 1960, widely read in Spanish-speaking churches, breaks the parallel — *vivieron* at 20:4 against *volvieron a vivir*, *lived again*, at 20:5 — while another Spanish translation keeps it. A reader of the first may never see the argument this section rests on — and an English reader should check that their own translation keeps *lived* and *did not live* as the same verb.**
+**And it is translation-fragile. The Reina-Valera 1960, widely read in Spanish-speaking churches, breaks the parallel — *vivieron* at 20:4 against *volvieron a vivir*, *lived again*, at 20:5 — while another Spanish translation keeps it. A reader of the first may never see the argument this section rests on — and an English reader should check that their own translation keeps *lived* and *did not live* as the same verb.**
 
 ## The martyrs, and the number that has to be completed
 
-With the sixth-seal material finally complete, the arc reads: souls under the altar → *how long* → white robes given → rest a little longer → **until their number should be completed** → and in chapter 20, *they lived and reigned.*
+Read in full, the fifth-seal arc runs: souls under the altar → *how long* → white robes given → rest a little longer → **until their number should be completed** → and in chapter 20, *they lived and reigned.*
 
-✅ **John has a narrative debt — the vindication of murdered witnesses — and chapter 20 pays it.** That is a good explanation for why the first-resurrection vision foregrounds martyrs, and I accept it as far as it goes.
+**John leaves a narrative thread open — the vindication of murdered witnesses — and chapter 20 closes it.** That is a good explanation for why the first-resurrection vision foregrounds martyrs, and I accept it as far as it goes.
 
 ::: finding
 **Finding — but it does not make the foregrounding merely literary**
 
 **The martyrs are given robes and told to wait for a *number* to be completed. A count, not a category.**
 
-❗ **If the first-resurrection population were simply "all who belong to Messiah," the completion of a martyr *number* would not be the stated condition.**
+**If the first-resurrection population were simply "all who belong to Messiah," the completion of a martyr *number* would not be the stated condition.**
 
-📌 **And the completed text strengthens something that cuts against my own convenience.** The martyrs cry out, are clothed, and are told to rest — **they are unambiguously conscious and active before chapter 20 begins.** So *they lived* at 20:4 marks a change of state **beyond** conscious postmortem survival.
+**And the full text strengthens something that cuts against my own convenience.** The martyrs cry out, are clothed, and are told to rest — **they are unambiguously conscious and active before chapter 20 begins.** So *they lived* at 20:4 marks a change of state **beyond** conscious postmortem survival.
 
 **The spiritual-resurrection reading is under very high pressure. That reading would have made this whole investigation easier, and the evidence went the other way.**
 :::
 
-⚠️ And one accidental discovery: **the sixth seal's *a little time* is the same two words as chapter 20's *a short time*, reordered.** An earlier audit compared chapter 12's short-period phrase against chapter 20's **and never checked chapter 6.** 🛑 Recorded as an observation, not an identity — Revelation now has at least three short-period expressions — **but it is a genuine gap in a prior audit and it only surfaced because an incomplete passage finally got completed. Unpaid debts hide more than they cost.**
+And one more observation: **the fifth seal's *a little time* is the same two words as chapter 20's *a short time*, reordered.** Recorded as an observation, not an identity — Revelation now has at least three short-period expressions.
+
+<!-- VERIFICATION TRAIL (hidden, kept verbatim from Draft 1): And one accidental discovery: the sixth seal's a little time is the same two words as chapter 20's a short time, reordered. An earlier audit compared chapter 12's short-period phrase against chapter 20's and never checked chapter 6. Recorded as an observation, not an identity — but it is a genuine gap in a prior audit and it only surfaced because an incomplete passage finally got completed. Unpaid debts hide more than they cost. -->
 
 ## The contradictions, and two of them are sharp
 
 | # | The tension | Verdict |
 |---|------------------------------------------------------|-----------------------------|
 | 1 | Paul raises all Messiah's; John foregrounds martyrs | **unresolved** — the *number* counts against literary focus |
-| 2 | Paul includes transformed living believers | ⬆️ **sharpened — below** |
-| 3 | Paul says *then the end*; John inserts a thousand years | ✅ **answered** — Paul's own *must reign until* supplies an interval |
-| 4 | Paul's resurrection seems universal among the saved | ✅ **compatible** |
-| ★ 5 | ❗ **the two criteria are different *kinds* of criterion** | **live** |
-| ★ 6 | ❗ **the two populations undergo different transitions** | **live** |
+| 2 | Paul includes transformed living believers | **sharpened — below** |
+| 3 | Paul says *then the end*; John inserts a thousand years | **answered** — Paul's own *must reign until* supplies an interval |
+| 4 | Paul's resurrection seems universal among the saved | **compatible** |
+| 5 | **the two criteria are different *kinds* of criterion** | **live** |
+| 6 | **the two populations undergo different transitions** | **live** |
 | 7 | different spatial framing | **live** |
 
 ::: finding
@@ -271,7 +263,7 @@ With the sixth-seal material finally complete, the arc reads: souls under the al
 
 **John's is defined by an event: those who did not worship the beast, its image, or take its mark.**
 
-❗❗ **A believer who died before the beast existed satisfies Paul's criterion and cannot satisfy John's.**
+**A believer who died before the beast existed satisfies Paul's criterion and cannot satisfy John's.**
 
 **This is not "narrower versus broader."** It is a different kind of qualification, and calling John's group a subset does not dissolve it — **the proposed subset would be defined by a circumstance most of Paul's population never faced.**
 :::
@@ -283,58 +275,58 @@ With the sixth-seal material finally complete, the arc reads: souls under the al
 
 **Paul has *we shall not all sleep* — believers who never die at all, going from mortal to immortal directly.**
 
-❗ **People who never died cannot come to life.**
+**People who never died cannot come to life.**
 
-**This is not John declining to mention them. It is that his sentence has no room for them.** I had previously written this down as an omission, and omission is much too gentle a word for it.
+**This is not John declining to mention them. It is that his sentence has no room for them.** It would be easy to write this down as an omission, and omission is much too gentle a word for it.
 :::
 
 And the seventh: Paul has a meeting *in the air*; John has thrones and a reign. **Where the saints reign was already flagged as unresolved, and this adds a second spatial mismatch rather than resolving the first.** Neither text says these are the same place.
 
 ## Where the case is genuinely clean
 
-★ **The two "first" claims are not in conflict after all.** Paul's <span class="gr">πρῶτος</span> is **a person** — Messiah, first from resurrection of the dead. John's <span class="gr">πρώτη</span> qualifies **an <span class="gr">ἀνάστασις</span>** — a stage, relative to *the rest*. **Different claims. No contradiction.** The tension I handed forward from the Pauline chapter is resolved rather than merely parked.
+**The two "first" claims are not in conflict after all.** Paul's <span class="gr">πρῶτος</span> is **a person** — Messiah, first from resurrection of the dead. John's <span class="gr">πρώτη</span> (*prōtē*) qualifies **an <span class="gr">ἀνάστασις</span>** — its first stage, relative to *the rest*. **Different claims. No contradiction.** The tension I handed forward from the first half of this chapter is resolved rather than merely parked.
 
-✅ **And Matthew 27 defuses cleanly now that its text is complete:** the bodies come out **after His raising** — which preserves Messiah's precedence exactly as *firstfruits* requires.
+**And Matthew 27 defuses cleanly:** the bodies come out **after His raising** — which preserves Messiah's precedence exactly as *firstfruits* requires.
 
-✅ **"The rest of the dead" means only *the remaining ones of the dead*. It does not itself condemn them** — the book of life is opened at that judgment, and something is found written in it or not. This project had already refused to call them morally inferior, and the refusal holds.
+**"The rest of the dead" means only *the remaining ones of the dead*. It does not itself condemn them** — the book of life is opened at that judgment, and something is found written in it or not. This book had already refused to call them morally inferior, and the refusal holds.
 
 ## The arithmetic, stated out loud because the result is counter-intuitive
 
 | Link | Grade |
 |-------------------------------------|-------------------------------|
-| Matthew 24 inside *this generation* | **HIGH** |
-| ★ **Matthew 24 ⟷ 2 Thessalonians 2**| ⬅️ **PROBABLE — the weakest joint** |
-| Paul's internal chain | **HIGH** |
-| **Paul ⟷ Revelation 20** | **PROBABLE** |
+| Matthew 24 inside *this generation* | **high** |
+| **Matthew 24 ⟷ 2 Thessalonians 2**| **probable — the weakest joint** |
+| Paul's internal chain | **high** |
+| **Paul ⟷ Revelation 20** | **probable** |
 
-❗❗ **A chain is governed by its weakest joint, not its average. Even if Paul against Revelation 20 were VERY HIGH, the first-century anchor could not exceed *probable*, because the Matthew–Paul joint caps it.**
+**A chain is governed by its weakest joint, not its average. Even if Paul against Revelation 20 were very high, the first-century anchor could not exceed *probable*, because the Matthew–Paul joint caps it.**
 
-📐 **Paul's complex against Revelation 20's first resurrection: structural correspondence VERY STRONG · lexical correspondence ZERO · event identity PROBABLE. Not HIGH. Not closed.**
+**Paul's complex against Revelation 20's first resurrection: structural correspondence very strong · lexical correspondence zero · event identity probable. Not high. Not closed.**
 
-**What holds it below HIGH:** zero shared vocabulary, in a weaker evidence class than a link already graded lower · contradiction 5 · contradiction 6 · the 20:4 population literally undetermined by the text as I can parse it · and the burden-of-distinction leash, clause two — **much of the felt density is inherited from a shared background, which counts once.**
+**What holds it below high:** zero shared vocabulary, in a weaker evidence class than a link already graded lower · contradiction 5 · contradiction 6 · the 20:4 population literally undetermined by the text as I can parse it · and the burden-of-distinction leash, clause two — **much of the felt density is inherited from a shared background, which counts once.**
 
-⚠️ **And clause three: contradictions 5, 6 and 7 are positive grounds for distinction and may not be retired by density.**
+**And clause three: contradictions 5, 6 and 7 are positive grounds for distinction and may not be retired by density.**
 
-📌 **Separating Paul's event from John's would still require positive evidence nobody has produced, and the structural correspondence is genuinely dense. The verdict is *probable*, not *doubted*.**
+**Separating Paul's event from John's would still require positive evidence nobody has produced, and the structural correspondence is genuinely dense. The verdict is *probable*, not *doubted*.**
 
 ::: evidence
 **The chain as it now stands**
 
-**Matthew 24's crisis lies within *this generation*** — **HIGH**
-↓
-**Matthew's crisis ⟷ 2 Thessalonians 2's crisis** — ⬅️ **PROBABLE** *(weakest joint — caps everything downstream)*
-↓
-**One Pauline arrival–resurrection–transformation–gathering complex** — **HIGH**
-↓
-**The Pauline complex ⟷ Revelation 20's first resurrection** — **PROBABLE** *(structural very strong; lexical zero)*
-↓
-⬅️ **Consequence: a first-century beginning for the first-resurrection transition is biblically plausible and increasingly supported — and is not historically established.**
-↓
-**Still required: what event marks the binding?**
-↓
+**Matthew 24's crisis lies within *this generation*** — **high**\
+↓\
+**Matthew's crisis ⟷ 2 Thessalonians 2's crisis** — **probable** (*weakest joint — caps everything downstream*)\
+↓\
+**One Pauline arrival–resurrection–transformation–gathering complex** — **high**\
+↓\
+**The Pauline complex ⟷ Revelation 20's first resurrection** — **probable** (*structural very strong; lexical zero*)\
+↓\
+**Consequence: a first-century beginning for the first-resurrection transition is biblically plausible and increasingly supported — and is not historically established.**\
+↓\
+**Still required: what event marks the binding?**\
+↓\
 **Only then: can the interval be historically tested?**
 
-🛑 **And what is deliberately *not* on this chain: any arithmetic. The start markers are not locked, and counting from an unlocked marker is the exact inversion this project forbade itself before Part VII began.**
+**And what is deliberately *not* on this chain: any arithmetic. The start markers are not locked, and counting from an unlocked marker is the exact inversion this book forbade itself at the start of this Part.**
 :::
 
 ## What I actually have
@@ -343,20 +335,20 @@ I came to the Paul–John comparison expecting it to be the easiest of the three
 
 Then I ran the same subtraction test that had worked twice already. **Matthew and Paul shared two words. Paul's own letters shared several, unevenly. Paul and John share none** — not the trumpet, not the cloud, not the coming, not the meeting, not one word for incorruptible or immortal or changed.
 
-That does not make them different events. Two men can describe one thing in entirely different words. **But it means the correspondence I keep sensing is structural**, and I had been spending it as though it were lexical.
+That does not make them different events. Two men can describe one thing in entirely different words. **But it means the correspondence I keep sensing is structural**, and I had been treating it as though it were lexical.
 
 And then the harder thing, which I did not see coming and cannot make go away. **Paul says not all of us will sleep. Some are alive and are changed without dying. John's word for what happens is that they came to life.**
 
 **People who never died cannot come to life.**
 
-📌 One more thing about the method, because it is the only reason any of this is worth anything. **The same negative test has now run three times and returned three different answers — two, some, none.** A test that returned *strong correspondence* every time would have been measuring me, not the texts.
+One more thing about the method, because it is the only reason any of this is worth anything. **The same negative test has now run three times and returned three different answers — two, some, none.** A test that returned *strong correspondence* every time would have been measuring me, not the texts.
 
 I still think these are the same event. The shape is too close — the same order, the same staging, the same last enemy. **But what I have written down is that I think it, not that I have shown it.**
 
 ::: whereweare
-**Where we are.** Paul's three passages divide the vocabulary rather than sharing it, which supports one complex and simultaneously means no two of them prove each other by their words. The weakest joint in his own chain is held by a single word he uses of the lawless one eight verses later — and that same joint is the one carrying the first-century connection, so the load passes through the thinnest point. Against Revelation 20 the count is zero: a structurally very strong correspondence with no lexical support at all, two live contradictions, and a population syntax the text does not determine. The chain's honest output is a first-century beginning that is biblically plausible and increasingly supported, and not historically established — and every part of it was reached without ever starting from Revelation 20 and working backward.
+**Where this leaves us.** Paul's three passages divide the vocabulary rather than sharing it, which supports one complex and simultaneously means no two of them prove each other by their words. The weakest joint in his own chain is held by a single word he uses of the lawless one eight verses later — and that same joint is the one carrying the first-century connection, so the load passes through the thinnest point. Against Revelation 20 the count is zero: a structurally very strong correspondence with no lexical support at all, two live contradictions, and a population syntax the text does not determine. The chain's honest output is a first-century beginning that is biblically plausible and increasingly supported, and not historically established — and every part of it was reached without ever starting from Revelation 20 and working backward.
 :::
 
 ::: earned
-**What it earned.** A test that can return zero, and did. A verdict graded down against the way the evidence felt. A Revelation-facing datum handed forward unused rather than spent early. Two incomplete passages completed, one of which strengthened a control built while the gap was still open, and one of which exposed a gap in an audit nobody knew was there. And a named place for an opponent to attack, written down before anyone else had to find it.
+**The question this leaves.** A test that can return zero, and did. A verdict graded down against the way the evidence felt. A Revelation-facing datum handed forward unused rather than used early. And a named place for an opponent to attack, written down before anyone else had to find it.
 :::

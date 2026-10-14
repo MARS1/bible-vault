@@ -14,7 +14,7 @@ related: "[[10-manuscript-architecture]], [[02m-first-resurrection-synthesis]], 
 
 Everything in this Part is an attack on my own reconstruction.
 
-I want that stated plainly at the top, because a reader who has come this far has watched a case accumulate, and the natural expectation now is a chapter that starts converting accumulation into conclusion. That is not what happens next. What happens next is twelve stages of walking at my own model with the best weapons I could find, and this Part reports them in the order they landed.
+I want that stated plainly at the top, because a reader who has come this far has watched a case accumulate, and the natural expectation now is a chapter that starts converting accumulation into conclusion. That is not what happens next. What happens next is a whole Part spent walking at my own model with the best weapons I could find, reported in the order the blows landed.
 
 Some of them landed. A verb I had asserted for months turned out not to exist in the passage I had asserted it about. A bridge I needed weakened exactly where I needed it. Four separate doors I tried to open, I closed myself.
 
@@ -26,31 +26,7 @@ And it begins at a gate that the previous Part built and left standing.
 
 The historical work cannot move until that is answered. So it gets answered first, badly for me if necessary.
 
-## I argued from incomplete text, and said so before arguing
-
-::: textualnote
-**Declared before any argument rested on it — and what became of it**
-
-Three passages central to this chapter were, when this work was done, **only partly in hand.**
-
-| Passage | What I had | What was missing |
-|-------------------------|--------------------------------|-------------------------------------------|
-| **Revelation 6:9–11** | verse 9 | ❗ **verses 10–11 — the *how long* cry, the white robes, and *rest a little longer*** |
-| **Matthew 27:51–53** | through *the tombs also were opened* | ❗ ***many bodies of the saints who had fallen asleep were raised*** |
-| **Hebrews 12:22–23** | through *the assembly of the firstborn* | ❗ ***and to the spirits of the righteous made perfect*** |
-
-All three are load-bearing here. The first is worse than that: **Revelation 6:10–11 is the passage this chapter's central argument leans on.**
-
-So they were treated as **reported, not verified**, and the argument was built at that reduced strength rather than at the strength I wanted it to have.
-
-### ✅ **All three have since been verified in full — and the Revelation 6 result is the one worth stopping on.**
-
-❗❗ **The verses that arrived late did not merely permit the control built without them. They strengthened it.** They give the martyrs a *how long*, a white robe, and an instruction to **rest yet a little time** — <span class="gr">ἔτι χρόνον μικρόν</span> — **until** their number should be **fulfilled**, <span class="gr">ἕως πληρωθῶσιν</span>. **Every one of those is conscious, addressed, waiting existence**, which is precisely what the control needed and could not previously assert.
-
-📌 **And that outcome was only available because the gap was declared instead of filled in from expectation.** Had I written the confident version and let the verses arrive afterwards, I would never have known whether I had read them or remembered them.
-
-I am declaring it at the top rather than letting a reader discover it at the bottom — the same discipline as the Revelation 17 numbering problem in Part VI. A chapter that quietly borrows the authority of verification it does not have is worse than a chapter with a hole in it, because only one of the two can be repaired.
-:::
+<!-- VERIFICATION TRAIL (hidden, kept verbatim from Draft 1): ## I argued from incomplete text, and said so before arguing ::: textualnote **Declared before any argument rested on it — and what became of it** Three passages central to this chapter were, when this work was done, **only partly in hand.** | Passage | What I had | What was missing | |-------------------------|--------------------------------|-------------------------------------------| | **Revelation 6:9–11** | verse 9 | ❗ **verses 10–11 — the *how long* cry, the white robes, and *rest a little longer*** | | **Matthew 27:51–53** | through *the tombs also were opened* | ❗ ***many bodies of the saints who had fallen asleep were raised*** | | **Hebrews 12:22–23** | through *the assembly of the firstborn* | ❗ ***and to the spirits of the righteous made perfect*** | All three are load-bearing here. The first is worse than that: **Revelation 6:10–11 is the passage this chapter's central argument leans on.** So they were treated as **reported, not verified**, and the argument was built at that reduced strength rather than at the strength I wanted it to have. ### ✅ **All three have since been verified in full — and the Revelation 6 result is the one worth stopping on.** ❗❗ **The verses that arrived late did not merely permit the control built without them. They strengthened it.** They give the martyrs a *how long*, a white robe, and an instruction to **rest yet a little time** — <span class="gr">ἔτι χρόνον μικρόν</span> — **until** their number should be **fulfilled**, <span class="gr">ἕως πληρωθῶσιν</span>. **Every one of those is conscious, addressed, waiting existence**, which is precisely what the control needed and could not previously assert. 📌 **And that outcome was only available because the gap was declared instead of filled in from expectation.** Had I written the confident version and let the verses arrive afterwards, I would never have known whether I had read them or remembered them. I am declaring it at the top rather than letting a reader discover it at the bottom — the same discipline as the Revelation 17 numbering problem in Part VI. A chapter that quietly borrows the authority of verification it does not have is worse than a chapter with a hole in it, because only one of the two can be repaired. ::: -->
 
 ## Two corrections, and they run in opposite directions
 
@@ -90,7 +66,7 @@ Now the comparisons, in order, with the ones that hurt kept in.
 
 Daniel 12:2 gives *many of those who sleep in the dust of the earth shall awake*, some to everlasting life and some to shame and everlasting contempt. Dust and awaking evoke the dead returning, not moral drowsiness.
 
-And *many* — <span class="he">רַבִּים</span> — is the word I was tempted by four Parts ago and that Part V finally adjudicated.
+And *many* — <span class="he">רַבִּים</span> (*rabbim*) — is the word I was tempted by in Part V, and that Part V adjudicated.
 
 **It went against me.** Biblical *many* can function as a broad collective rather than meaning *some but definitely not all*, so it does **not** establish a limited resurrection population. I recorded that adjudication when it cost me something, and I am not reopening it here because Revelation 20 has since made a limited population look attractive. A word does not become more helpful because I need it more.
 
@@ -99,12 +75,12 @@ What Daniel 12 does give is the conceptual ancestry. Unprecedented trouble, Mich
 ## Matthew 27 proves a category, and does not supply an identification
 
 ::: textualnote
-**The sentence this section turns on — once reported, now verified.**
+**The sentence this section turns on**
 
-Matthew 27:52 reads that **many bodies** — <span class="gr">πολλὰ σώματα</span> — of the saints who had fallen asleep **were raised**, <span class="gr">ἠγέρθησαν</span>; and 27:53 places their entering the holy city and appearing to many **after His resurrection**, <span class="gr">μετὰ τὴν ἔγερσιν αὐτοῦ</span>.
-
-⚠️ **I record that this section was written while the clause was still only reported.** The reader is entitled to know which sentences were load-bearing before the text arrived to support them.
+Matthew 27:52 reads that **many bodies** — <span class="gr">πολλὰ σώματα</span> (*polla sōmata*) — of the saints who had fallen asleep **were raised**, <span class="gr">ἠγέρθησαν</span> (*ēgerthēsan*); and 27:53 places their entering the holy city and appearing to many **after His resurrection**, <span class="gr">μετὰ τὴν ἔγερσιν αὐτοῦ</span>.
 :::
+
+<!-- VERIFICATION TRAIL (hidden, kept verbatim from Draft 1): I record that this section was written while the clause was still only reported. The reader is entitled to know which sentences were load-bearing before the text arrived to support them. -->
 
 So Scripture already records a **partial bodily resurrection of saints inside ordinary history**. Bodies, not visions.
 
@@ -135,7 +111,7 @@ If a first resurrection precedes a thousand-year interval and the general resurr
 
 Candidates: the final day of an age · the final resurrection horizon considered corporately · the actual final consummative day · language Revelation later expands internally.
 
-🛑 **This is a genuine obstacle to careless staging, and it is an obstacle to mine.** It needs source-language and Johannine-context work. I am not going to treat *last day* as self-defining, in either direction — and the Greek of John 6 is worked through in the next chapter, so it stands here as a flagged problem rather than a solved one.
+**This is a genuine obstacle to careless staging, and it is an obstacle to mine.** It needs source-language and Johannine-context work. I am not going to treat *last day* as self-defining, in either direction — and the Greek of John 6 is worked through in the next chapter, so it stands here as a flagged problem rather than a solved one.
 :::
 
 ## Paul already stages it
@@ -149,16 +125,16 @@ Messiah → those who belong to him at his coming → *to telos*, the end. That 
 
 So *do not flatten these into one moment without argument* is not special pleading invented for Revelation 20. Paul flattened nothing.
 
-And the last enemy destroyed is death — which sits **inside** Paul's ordered sequence and belongs to its consummation, and which Part VI already aligned with Revelation 20:14. *(Paul's syntax at 15:24–26 will not yield a finer chronology than that, and I am not going to squeeze one out of it: the reign, the subjection of the enemies and death's abolition are given as the terminal movement, not as dated steps after it.)*
+And the last enemy destroyed is death — which sits **inside** Paul's ordered sequence and belongs to its consummation, and which Part VI already aligned with Revelation 20:14. (*Paul's syntax at 15:24–26 will not yield a finer chronology than that, and I am not going to squeeze one out of it: the reign, the subjection of the enemies and death's abolition are given as the terminal movement, not as dated steps after it.*)
 
-⚠️ **But the pressure runs back the other way in the same passage.** *Those who belong to Christ* sounds broad. It does not sound like *some martyrs now, other believers a thousand years later.*
+**But the pressure runs back the other way in the same passage.** *Those who belong to Christ* sounds broad. It does not sound like *some martyrs now, other believers a thousand years later.*
 
-Three options, and I am not choosing: the martyrs **represent** Messiah's faithful corporately · Paul **compresses** several stages · or **I am misreading Revelation 20's population as limited** when John is highlighting martyrs within a larger group.
+Three options, and I am not choosing: the martyrs **represent** Messiah's faithful corporately · Paul **compresses** a staged sequence · or **I am misreading Revelation 20's population as limited** when John is highlighting martyrs within a larger group.
 
-📌 That last one is live, and it is not a matter of preference. Revelation 20:4's syntax is genuinely disputed as to whether it describes one class further described or more than one. **That requires grammatical authority, not my own parsing** — and if the first resurrection includes all who refused beast allegiance rather than only the beheaded, the population is much broader than I have been assuming.
+That last one is live, and it is not a matter of preference. Revelation 20:4's syntax is genuinely disputed as to whether it describes one class further described or more than one. **That requires grammatical authority, not my own parsing** — and if the first resurrection includes all who refused beast allegiance rather than only the beheaded, the population is much broader than I have been assuming.
 :::
 
-## And then Paul raises the bill
+## And then Paul raises the burden
 
 > We shall not all sleep, but **we shall all be changed**, in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, **and we shall be changed**. (1 Corinthians 15:51–52)
 
@@ -166,10 +142,10 @@ Three options, and I am not choosing: the martyrs **represent** Messiah's faithf
 
 Paul distinguishes **dead raised** from **living changed**. The event is not merely resurrection of corpses.
 
-One brake before the burden. Paul's *first* in 1 Thessalonians is relative **to the living** — the dead rise before the living are caught up, within that sequence. It is not automatically *the first resurrection in all eschatological chronology*, and I may not treat <span class="gr">πρῶτον</span> as lexically identical to Revelation's <span class="gr">ἀνάστασις ἡ πρώτη</span>. Correspondence, not identity. The rule applies here exactly as it applied when it was helping me.
+One brake before the burden. Paul's *first* in 1 Thessalonians is relative **to the living** — the dead rise before the living are caught up, within that sequence. It is not automatically *the first resurrection in all eschatological chronology*, and I may not treat <span class="gr">πρῶτον</span> (*prōton*) as lexically identical to Revelation's <span class="gr">ἀνάστασις ἡ πρώτη</span>. Correspondence, not identity. The rule applies here exactly as it applied when it was helping me.
 
 ::: evidence
-**How strongly evidence bears — and this is a falsification criterion, not a difficulty**
+**Paul's transformed living — a falsification criterion, not a difficulty**
 
 **If** Revelation 20's first resurrection is identified with 1 Corinthians 15 and 1 Thessalonians 4, then a past-millennium model may require **dead saints raised *and* living saints instantaneously transformed.**
 
@@ -177,7 +153,7 @@ That is far harder to hide historically than a purely heavenly vindication visio
 
 The available escapes, stated so they can be examined rather than assumed: Paul and Revelation describe **related but not identical** events · the transformation **removes participants from ordinary visibility** · the event is **geographically or covenantally localized** · or I have **misunderstood the temporal relationship** between them.
 
-🛑 **None of those can be settled by speculation, and I am not permitted to pick whichever one rescues the model.** This is now a falsification criterion for the hypothesis, and it is the largest one this investigation has written down.
+**None of those can be settled by speculation, and I am not permitted to pick whichever one rescues the model.** This is now a falsification criterion for the hypothesis, and it is the largest one this investigation has written down.
 :::
 
 ## The strongest thing in this chapter, and it is against me
@@ -195,35 +171,39 @@ Revelation closes it.
 
 The martyrs did not need chapter 20 in order to exist consciously after death. John had already seen them in chapter 6 — souls beneath the altar, **speaking**, **receiving white robes**, **being told to wait**. Revelation 7 similarly shows the faithful before the throne.
 
-✅ The cry, the robes and *rest a little longer* are in verses 10–11 — **the part I did not have when this control was first written, and which has since been verified in full.** The argument that was labelled *strong and not yet confirmed* now stands at full strength, and it got there without a word of it being adjusted to fit.
+The cry, the robes and *rest a little longer* are in verses 10–11: the martyrs are told to **rest yet a little time** — <span class="gr">ἔτι χρόνον μικρόν</span> — **until** their number should be **fulfilled**, <span class="gr">ἕως πληρωθῶσιν</span> (*heōs plērōthōsin*). **Every one of those is conscious, addressed, waiting existence.**
+
+<!-- VERIFICATION TRAIL (hidden, kept verbatim from Draft 1): The cry, the robes and rest a little longer are in verses 10–11 — the part I did not have when this control was first written, and which has since been verified in full. The argument that was labelled strong and not yet confirmed now stands at full strength, and it got there without a word of it being adjusted to fit. -->
 
 **The control:** Revelation 6 already depicts slain martyrs consciously existing before Revelation 20. Therefore Revelation 20's *they lived* and *first resurrection* **may not be reduced to conscious postmortem survival without explaining the change of state.**
 
 They already have conscious postmortem survival. Chapter 20 gives them something else.
 
-**And this is Revelation-internal.** I did not import a doctrine of the intermediate state — the condition of the dead between death and resurrection — from a systematic theology and use it to pressure John. John supplied both halves, in his own book, and the earlier half arrives thirteen chapters before the verse it constrains.
+**And this is Revelation-internal.** I did not import a doctrine of the intermediate state — the condition of the dead between death and resurrection — from a systematic theology and use it to pressure John. John supplied both halves, in his own book, and the earlier half arrives fourteen chapters before the verse it constrains.
 :::
 
-There is a second, independent argument in the same direction, and it is also now verified. **Hebrews 12:23 describes *the spirits of the righteous made perfect* — <span class="gr">πνεύμασι δικαίων τετελειωμένων</span> — in heavenly assembly imagery, and does not call it resurrection.** The Greek of the verse contains no word for resurrection at all. So conscious heavenly existence is not automatically resurrection, said by a different author in a different book.
+There is a second, independent argument in the same direction. **Hebrews 12:23 describes *the spirits of the righteous made perfect* — <span class="gr">πνεύμασι δικαίων τετελειωμένων</span> — in heavenly assembly imagery, and does not call it resurrection.** The Greek of the verse contains no word for resurrection at all. So conscious heavenly existence is not automatically resurrection, said by a different author in a different book.
 
-## A translation artifact, caught by a rule written one stage earlier
+## A translation artifact in Hebrews 11:35
 
 ::: wordstudy
-**Word study — <span class="gr">ἀνάστασις</span> at Hebrews 11:35** `ENGLISH-SPECIFIC`
+**Word study — <span class="gr">ἀνάστασις</span> (*anastasis*) at Hebrews 11:35**
 
 > Some were tortured, refusing to accept release, so that they might **rise again to a better life**. (Hebrews 11:35, ESV)
 
-The Greek is <span class="gr">κρείττονος ἀναστάσεως</span> — *kreittonos anastaseōs*, **a better resurrection**. Other translations render it exactly that way.
+The Greek is <span class="gr">κρείττονος ἀναστάσεως</span> (*kreittonos anastaseōs*) — **a better resurrection**. Other translations render it exactly that way.
 
 **The ESV keeps *rise again*, but it moves *better* off the resurrection and onto *life*.** The English promises a better life. The Greek promises a better resurrection.
 
-❗ **And the verse has already used the same noun in its first half.** *Women received their dead* — <span class="gr">ἐξ ἀναστάσεως</span>, **by resurrection**. So Hebrews sets two resurrections side by side inside a single verse: a restoration to ordinary life, and a *better* one, which the tortured refused release in order to obtain.
+**And the verse has already used the same noun in its first half.** *Women received their dead* — <span class="gr">ἐξ ἀναστάσεως</span>, **by resurrection**. So Hebrews sets two resurrections side by side inside a single verse: a restoration to ordinary life, and a *better* one, which the tortured refused release in order to obtain.
 
 This chapter's entire argument turns on **differentiated resurrection quality or status** — which is precisely what that rendering obscures.
 
-📌 This is a textbook translation artifact. It was caught by a rule written one stage before it: every textual observation is tagged by whether it belongs to the Greek or Hebrew itself, or only to one translation of it — which is what the `ENGLISH-SPECIFIC` label above records. The rule was built for a Spanish problem; the first thing it caught was an English one.
+This is a textbook translation artifact: it belongs to one English translation, not to the Greek. Every textual observation in this book has to be sorted that way — the Greek or Hebrew itself, or only one translation of it.
 
-What the Greek establishes: early believers could speak of resurrection with differentiated quality or status, which is conceptual support for Revelation's staging. ⚠️ **Hebrews supplies no millennium chronology.** Conceptual support, not a timetable.
+<!-- VERIFICATION TRAIL (hidden, kept verbatim from Draft 1): It was caught by a rule written one stage before it: every textual observation is tagged by whether it belongs to the Greek or Hebrew itself, or only to one translation of it — which is what the ENGLISH-SPECIFIC label above records. The rule was built for a Spanish problem; the first thing it caught was an English one. -->
+
+What the Greek establishes: early believers could speak of resurrection with differentiated quality or status, which is conceptual support for Revelation's staging. **Hebrews supplies no millennium chronology.** Conceptual support, not a timetable.
 :::
 
 ## Four models, and none of them selected
@@ -232,8 +212,8 @@ What the Greek establishes: early believers could speak of resurrection with dif
 **The four readings that survive this chapter**
 
 **A — bodily first resurrection before the millennium.** Revelation means what it strongly appears to mean.
-*Fits:* <span class="gr">ἔζησαν</span> · <span class="gr">ἀνάστασις</span> · *the rest of the dead* later · the change-of-state argument from chapter 6.
-*Cost for a past millennium:* ❗ **when and where did it happen?**
+*Fits:* <span class="gr">ἔζησαν</span> (*ezēsan*) · <span class="gr">ἀνάστασις</span> · *the rest of the dead* later · the change-of-state argument from chapter 6.
+*Cost for a past millennium:* **when and where did it happen?**
 
 **B — heavenly vindication.** *First resurrection* is symbolic for martyrs entering heavenly reign at death.
 *Advantage:* historically far easier — which is exactly why I am suspicious of my own attraction to it.
@@ -241,7 +221,7 @@ What the Greek establishes: early believers could speak of resurrection with dif
 **Currently under considerable textual pressure.**
 
 **C — bodily resurrection plus living transformation.** Revelation 20 covers the dead; Paul supplies the simultaneously changed living.
-*Harmonizes well.* ❗ *And makes the historical burden larger, not smaller.*
+*Harmonizes well.* *And makes the historical burden larger, not smaller.*
 
 **D — the martyrs represent a larger corporate faithful population.** Revelation highlights martyr witnesses but represents the broader people belonging to Messiah.
 *Possible.* Waits on the disputed syntax of 20:4 and on grammatical authority I do not have.
@@ -253,9 +233,9 @@ What the Greek establishes: early believers could speak of resurrection with dif
 
 > What is sown is perishable; what is raised is imperishable… It is sown **a natural body**; it is raised **a spiritual body**. (1 Corinthians 15:42, 44)
 
-The Greek is <span class="gr">σῶμα ψυχικόν</span> against <span class="gr">σῶμα πνευματικόν</span> — verified in the verse itself.
+The Greek is <span class="gr">σῶμα ψυχικόν</span> (*sōma psychikon*) against <span class="gr">σῶμα πνευματικόν</span> (*sōma pneumatikon*) — verified in the verse itself.
 
-**Both contain <span class="gr">σῶμα</span>.** Body.
+**Both contain <span class="gr">σῶμα</span> (*sōma*).** Body.
 
 ::: commentary
 **Rule — transformed embodiment**
@@ -291,7 +271,7 @@ This rule is aimed at me. It exists because I noticed, while writing the previou
 
 One last thing, and it is procedural rather than exegetical, which is why it is easy to get wrong.
 
-🛑 **The historical investigation may not begin with *find a thousand years somewhere*.**
+**The historical investigation may not begin with *find a thousand years somewhere*.**
 
 **First:** determine the first-resurrection and gathering event.
 
@@ -301,12 +281,12 @@ One last thing, and it is procedural rather than exegetical, which is why it is 
 
 **Fourth:** if they do, measure the interval.
 
-Reverse that order and the procedure becomes: find an attractive millennium in history, then retrofit a resurrection and a binding around it. That is not research. That is decoration with citations, and it would be indistinguishable from the thing I have spent nine Parts trying not to do.
+Reverse that order and the procedure becomes: find an attractive millennium in history, then retrofit a resurrection and a binding around it. That is not research. That is decoration with citations, and it would be indistinguishable from the thing I have spent six Parts trying not to do.
 
 ::: whereweare
-**Where we are.** The gate is open but not cleared. Revelation's two-stage structure is settled and is not being reopened; the question is how Daniel, Yeshua and Paul map onto it. Daniel supplies ancestry, and the one word that would have helped was already adjudicated against me in Part V. Matthew 27 proves that a bodily resurrection can be historically bounded, without identifying this one. Paul stages resurrection himself — and then raises the burden by adding transformed living saints to it, which is far harder to hide than a heavenly vision. The strongest finding in the chapter is Revelation-internal and closes the escape I would most like: the martyrs were already conscious in chapter 6, so *they lived* in chapter 20 has to mark a change of state. Four models remain live and none is selected. What the textual weight currently favours is an actual change of state substantially stronger than postmortem survival — which means the historical burden is real, and it is mine.
+**Where this leaves us.** The gate is open but not cleared. Revelation's two-stage structure is settled and is not being reopened; the question is how Daniel, Yeshua and Paul map onto it. Daniel supplies ancestry, and the one word that would have helped was already adjudicated against me in Part V. Matthew 27 proves that a bodily resurrection can be historically bounded, without identifying this one. Paul stages resurrection himself — and then raises the burden by adding transformed living saints to it, which is far harder to hide than a heavenly vision. The strongest finding in the chapter is Revelation-internal and closes the escape I would most like: the martyrs were already conscious in chapter 6, so *they lived* in chapter 20 has to mark a change of state. Four models remain live and none is selected. What the textual weight currently favours is an actual change of state substantially stronger than postmortem survival — which means the historical burden is real, and it is mine.
 :::
 
 ::: earned
-**What it earned.** A gate that is honestly still a gate. A brake written the moment I noticed I was enjoying an argument that could excuse any absence of evidence. Three incomplete passages declared at the top instead of discovered at the bottom — including the one the chapter's best finding depends on, which the completed text went on to strengthen rather than merely permit. And the closing of the one reading that would have made this whole project easy — closed not by a critic, but by Revelation 6.
+**The question this leaves.** A gate that is honestly still a gate. A brake written the moment I noticed I was enjoying an argument that could excuse any absence of evidence. And the closing of the one reading that would have made this whole investigation easy — closed not by a critic, but by Revelation 6, whose full text strengthens the control rather than merely permitting it.
 :::

@@ -173,3 +173,36 @@ Sessions across these dates (Parts II–VIII drafted in both editions, the Parts
 **Tests:** build gates on the snapshot — 230 pp, 39,555/39,577 words recovered, 0 mojibake, 0 sections missing, terminology 0, all source text wrapped, table layout 0 split / 0 orphan; `test-build-checks.py` all pass.
 
 **Commits:** `a72175f` `c35e653` `bee71df` (+ this entry's own commit)
+
+---
+
+## 2026-10-14 — Book One normalization: Parts IV–VI closed in both editions, Part VII EN drafted
+
+**What we did:**
+- Normalized Parts IV, V and VI to the Part VIII–IX benchmark in both editions, each through the full cycle: EN pass → ChatGPT review → ES pass with a row-by-row carryover walk → review → commit → immutable `d2-normalized` snapshot → push.
+- Part VI ES surfaced a **cross-edition evidentiary divergence**: ES ch38's own RVR1960 check shows that Rev 18:24 ↔ Matt 23:35 is not «casi literal», but the body and the frozen EN said "nearly verbatim". The reviewer ruled "patch English now, not at the audit". EN ch38 was patched in three places and re-snapshotted as `d2-normalized-r2`, because snapshots refuse to overwrite.
+- **Part VII EN normalized (draft, awaiting review):**
+  - 562 decorative marks, 166 gloss gaps, 16 caps grades and 11 fake chapter headings, all cleared;
+  - 24 verification-diary passages hidden as `VERIFICATION TRAIL` comments, 7 of them whole sections;
+  - 22 reference/factual fixes (N1–N22);
+  - 231 → 196 pages.
+- Checker fix: `source_words` counted hidden-comment text whenever a comment quoted `<span>` markup, a false "745 words missing". Fixed, with a regression test. Also written up as a KodeArk lesson (`cbcb93c`).
+
+**Key decisions:**
+- **Narrated reasoning stays; process mechanics go.** "I had been treating X as…" is the investigation's own voice. Stages, files, notes, the archive, retrieval and debts are scaffolding. Results always stay printed at the same strength.
+- **Check every relative distance against the files.** Part VII had 8 wrong "N chapters/Parts ago". Two of its "new" failures (the *parousia* absence and the Mt 13:41 verb) were already printed in ch10, so they now point back to it.
+- **Factual fixes over style:** Rev 6:9–11 is the **fifth** seal (ch44 said sixth); the ch45 Synoptic-split list named a Matthew-vs-Paul comparison; ch46 claimed the false-prophet datum was unnoticed "by anyone".
+- ch47 (closed) points to a calendar proposal "quarantined in Part VII on two structural grounds" that Part VII never prints. Logged on BIBLE-3c7 for the full-book audit.
+- The Part VII EN draft is committed as **WIP**, with no snapshot, because review is pending. The snapshot comes after review fixes.
+
+**Tests:** `test-build-checks.py` all pass. Part VII EN build: normalization 0, 34,856/34,684 words, 0 mojibake, all source text wrapped, table gate OK.
+
+**Commits:** `e3ab735` `f529dd6` `0c868c4` `1bc39a1` `8b414af` `9db6da4` `3a9b824` `120e5c3` `265c14b` `a5b2efe` `8eb2da3` (+ this session's WIP commit) · KodeArk `cbcb93c`
+
+- **Part VII EN review arrived at session close:** all 6 §E decisions were approved, plus 4 fixes applied as r1.1.
+  - The ch46 γῆ "exhaustive" sweep was wrong (35 printed; the SBLGNT has **82 occurrences in 67 verses**), so it was **re-audited from the base text, not patched**. The conclusion holds with weaker scope: "dominant usage", where it had said "every occurrence".
+  - The false-prophet sign claim is corrected.
+  - Two bold-markup leaks are fixed.
+  - The 666 novelty overclaim is removed.
+
+**Next:** confirm r1.1 (the γῆ result in particular) → snapshot EN Part VII → ES Part VII → full-book audit → front/back matter → publishing prep.

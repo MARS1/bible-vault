@@ -332,6 +332,11 @@ def source_words(t):
     transliteration spans: 19,850 recovered against 20,418 'source', a false failure
     with no text missing (markup-stripped source 19,929). Same 2% band as before --
     the count is fixed, the tolerance is not widened."""
+    # Hidden comments never reach the PDF. The tag pattern below stops at the first
+    # '>' inside a comment, so a hidden trail quoting <span> markup was counted as
+    # source: Part VII EN normalization (2026-10-14), 34,856 recovered against
+    # 35,601 'source', no text missing (comment-free source 34,692).
+    t = re.sub(r"<!--.*?-->", " ", t, flags=re.S)
     t = re.sub(r"<[^>]+>", " ", t)
     keep = []
     for ln in t.split("\n"):

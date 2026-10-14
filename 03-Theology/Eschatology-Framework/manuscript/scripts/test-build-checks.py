@@ -73,6 +73,10 @@ check("separator row counts nothing", bm.source_words("|------|:---:|"), 0)
 check("span counts its text only", bm.source_words('<span class="gr">μικρὸν χρόνον</span> (*mikron*)'), 3)
 check("fence lines count nothing", bm.source_words("::: finding\n**Label**\n:::"), 1)
 check("plain prose unchanged", bm.source_words("The end is not yet."), 5)
+# 2026-10-14: Part VII EN failed the band with no text missing. A hidden trail that
+# quotes <span> markup was half-stripped and its words counted as source.
+check("hidden comment with span counts nothing",
+      bm.source_words('Kept. <!-- TRAIL: the <span class="gr">συνάγω</span> list -->'), 1)
 
 print("\ncheck_normalization — Book One rules (BIBLE-3c7); calibrated to zero on Parts VIII-IX")
 # 2026-10-13: first calibration against the approved benchmark flagged 37 legitimate
