@@ -149,6 +149,10 @@ div.commentary  { background: none; border-left: 3px solid #6c7378;
                   font-size: 9.4pt; line-height: 1.45; padding: 0.6em 0 0.6em 1em;
                   margin: 1.3em 0; }
 div.commentary p { text-align: left; margin: 0 0 0.45em; }
+/* Commentary boxes may break (sidebars can run past a page), so they are not in
+   the shared avoid list. A short one that strands its title at a page foot gets
+   `::: {.commentary .keep}` (Part V ch27, 2026-10-14: two lines left on p.33). */
+div.keep { page-break-inside: avoid; break-inside: avoid; }
 
 /* ---------- the two scales, never one component ----------
    EVIDENCE GRADE (contradicts / permits / supports / requires) is a formal

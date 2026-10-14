@@ -21,11 +21,11 @@ That turns out not to be a translation. It is an assumption I was attaching to a
 ## The word I had been hearing wrong
 
 ::: wordstudy
-**Word study — <span class="gr">αἰών</span> and <span class="gr">συντέλεια τοῦ αἰῶνος</span>**
+**Word study — <span class="gr">αἰών</span> (*aiōn*) and <span class="gr">συντέλεια τοῦ αἰῶνος</span> (*synteleia tou aiōnos*)**
 
-<span class="gr">αἰών</span> *(aiōn)* — an age, an era, an epoch. A period or order of time.
+<span class="gr">αἰών</span> (*aiōn*) — an age, an era, an epoch. A period or order of time.
 
-<span class="gr">συντέλεια</span> *(synteleia)* — consummation, completion, culmination. A bringing to an appointed conclusion.
+<span class="gr">συντέλεια</span> (*synteleia*) — consummation, completion, culmination. A bringing to an appointed conclusion.
 
 Together: **the consummation of the age.** Not, in the words themselves, the destruction of the earth.
 
@@ -47,7 +47,7 @@ Read that twice, watching the nouns.
 ::: finding
 **Finding — the two words appear in adjacent clauses, and they are not the same word**
 
-The field is the <span class="gr">κόσμος</span>. The harvest is the <span class="gr">συντέλεια τοῦ αἰῶνος</span>.
+The field is the <span class="gr">κόσμος</span> (*kosmos*). The harvest is the <span class="gr">συντέλεια τοῦ αἰῶνος</span>.
 
 The field is **not** the age. The harvest is **not** the destruction of the world. Matthew uses both words inside a single interpretation, a few syllables apart, and he uses them for different things.
 
@@ -63,7 +63,7 @@ Here is where I have to be honest about which direction the evidence runs, becau
 > Just as the weeds are gathered and burned with fire, so will it be at the end of the age. The Son of Man will send his angels, and they will gather out of his kingdom all causes of sin and all law-breakers, and throw them into the fiery furnace… Then the righteous will shine like the sun in the kingdom of their Father. (Matthew 13:40–43)
 
 ::: evidence
-**How strongly evidence bears — against the reading I was moving toward**
+**Matthew 13's harvest — against the reading I was moving toward**
 
 This puts real pressure on any casual claim that *the end of the age* means simply *the Temple was destroyed, and nothing more.*
 
@@ -71,7 +71,7 @@ There is harvest here. Angelic agency. Separation of the wicked from the righteo
 
 A first-century reading has to **account for** that material. Waving at it is not accounting for it.
 
-**CONTRADICTS** — the thin version of the hypothesis I was developing, the one where age-ending language cashes out entirely as the fall of Jerusalem with no remainder.
+The harvest material <span class="grade">contradicts</span> the thin version of the hypothesis I was developing, the one where age-ending language reduces entirely to the fall of Jerusalem with no remainder.
 
 This is recorded at full strength, in the chapter that found it, because a model that only ever collects its own supporting evidence is not being tested.
 :::
@@ -126,7 +126,7 @@ This does not prove every detail of the two passages refers to one event. What i
 
 And I want to flag what just happened to my own rule, because it matters more than the result.
 
-The Equivalent-Scope Burden is the principle I adopted earlier: do not treat two different scope words as equivalent without warrant. At Stage 25 it **destroyed** a bridge I was using — Paul never chooses *oikoumenē*, so I could not build on it, and Chapter 21 records what that cost me. Here the same rule runs the other way and supports a connection I want.
+The Equivalent-Scope Burden is the principle I adopted earlier: do not treat two different scope words as equivalent without warrant. In Chapter 23 it **destroyed** a bridge I was using — Paul never chooses *oikoumenē*, so I could not build on it, and Chapter 21 records what that cost me. Here the same rule runs the other way and supports a connection I want.
 
 A rule that only ever helped me would be a bias with a rule's name on it. The only reason this one is worth anything is that I have already watched it take something away.
 
@@ -163,11 +163,11 @@ And the material around Daniel 12:3 is not quiet:
 > you shall rest and shall stand in your allotted place at the end of the days. (Daniel 12:13)
 
 ::: wordstudy
-**Word study — <span class="he">וְרַבִּים</span> at Daniel 12:2, recorded and set down**
+**Word study — <span class="he">וְרַבִּים</span> (*rabbim*) at Daniel 12:2, recorded and set down**
 
-The Hebrew is <span class="he">וְרַבִּים</span> *(rabbim)* — **many**. Not *all*.
+The Hebrew is <span class="he">וְרַבִּים</span> (*rabbim*) — **many**. Not *all*.
 
-I retrieved this and then deliberately stopped. It is going to matter for how resurrection is counted, and I can already see that it will bear on a line in Revelation 20 about the rest of the dead.
+I noted this and then deliberately stopped. It is going to matter for how resurrection is counted, and I can already see that it will bear on a line in Revelation 20 about the rest of the dead.
 
 Which is exactly why I am not building on it now. Reaching forward to a passage I have not yet earned the right to read, in order to strengthen a model I am still assembling, is the precise failure this method exists to prevent.
 
@@ -213,9 +213,9 @@ I am stating them in the chapter that built the model, for the same reason I sta
 :::
 
 ::: whereweare
-**Where we are.** *The consummation of the age* is not, in its own words, the destruction of the earth, and Matthew proves the distinction himself by using *kosmos* for the field and *aiōn* for the harvest in adjacent clauses. The expression occurs five times in Matthew — three of them inside chapter 13 — surrounded each time by related imagery, which shifts the burden onto anyone claiming the occurrences are unrelated. A coherent first-century sequence is now visible in Matthew's own ordering. What is not established is that the sequence is the right reading: chapter 13's judgment content, Daniel 12's resurrection language, and the long reception of Matthew 28 all stand against it and are kept at full strength. Daniel 12:2 says *many*, not *all* — retrieved, recorded, and not yet used.
+**Where this leaves us.** *The consummation of the age* is not, in its own words, the destruction of the earth, and Matthew proves the distinction himself by using *kosmos* for the field and *aiōn* for the harvest in adjacent clauses. The expression occurs five times in Matthew — three of them inside chapter 13 — surrounded each time by related imagery, which shifts the burden onto anyone claiming the occurrences are unrelated. A coherent first-century sequence is now visible in Matthew's own ordering. What is not established is that the sequence is the right reading: chapter 13's judgment content, Daniel 12's resurrection language, and the long reception of Matthew 28 all stand against it and are kept at full strength. Daniel 12:2 says *many*, not *all* — recorded, and not yet used.
 :::
 
 ::: earned
-**What it earned.** The question stopped being whether everything ends and became which age reaches its appointed completion. Matthew also named two ages in passing, which is the cleaner question and the one I should have asked first.
+**The question this leaves.** The question stopped being whether everything ends and became which age reaches its appointed completion. Matthew also named two ages in passing, which is the cleaner question and the one I should have asked first.
 :::

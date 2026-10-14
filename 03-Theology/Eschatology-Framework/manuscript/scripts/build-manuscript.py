@@ -176,9 +176,11 @@ SRC_SPAN = re.compile(r'<span class="(gr|he)">(.*?)</span>(.{0,4})', re.S)
 # "Where this leaves us.", "What it earned." became "The question this leaves."
 # (RESEARCH-PROCESS-002 retired the bookkeeping metaphor), and the `---` rules
 # around boxes were dropped. Found in Parts I-VII on 2026-10-13: 46 of each box
-# label per edition, 22 rules in EN.
+# label per edition, 22 rules in EN. Chain boxes too: Part II's became "The growing
+# chain — checkpoint 2"; Parts V-VI still had "Growing Chain — Checkpoint N" (2026-10-14).
 OLD_CONVENTION = re.compile(r"^\*\*(Where we are|What it earned|What this earned|Dónde estamos|"
-                            r"Qué se ganó|Lo que (?:se )?ganó)\.\*\*|^---$")
+                            r"Qué se ganó|Lo que (?:se )?ganó)\.\*\*|^---$|"
+                            r"^\*\*(Growing Chain — Checkpoint|Cadena creciente — Punto de control)")
 # Generic box titles. Every Part VIII-IX box names what it shows ("The purpose
 # formula, four times"); Parts II-VII reuse a fixed caption (22 "How strongly
 # evidence bears", 12 "Original language", 5 "Historical context", 3 "Finding" in EN,

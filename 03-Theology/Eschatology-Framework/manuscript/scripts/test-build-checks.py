@@ -136,6 +136,11 @@ for label, text, cat, want in [
     # the checker and was caught by the reviewer.
     ("'this project' flagged",              "the strongest argument this project has produced", "label", 1),
     ("ES 'este proyecto' flagged",          "la primera frase de este proyecto", "label", 1),
+    # 2026-10-14: chain titles were normalized in Part II only; Part V-VI kept the old form.
+    ("old chain title flagged",             "::: chain\n**Growing Chain — Checkpoint 3**", "convention", 1),
+    ("ES old chain title flagged",          "::: chain\n**Cadena creciente — Punto de control 3**", "convention", 1),
+    ("benchmark chain title NOT flagged",   "::: chain\n**The growing chain — checkpoint 3**", "convention", 0),
+    ("ES benchmark chain title NOT flagged","::: chain\n**La cadena creciente — punto de control 2**", "convention", 0),
 ]:
     check(label, norm_hits(text, cat), want)
 

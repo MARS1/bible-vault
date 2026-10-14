@@ -22,11 +22,11 @@ And I have to be honest about the shape of that question, because it is exactly 
 
 ## First, a brake on my own vocabulary
 
-Paul's order ends with *then comes the end* — <span class="gr">τὸ τέλος</span> — and includes the destruction of death. Matthew's phrase is <span class="gr">συντέλεια τοῦ αἰῶνος</span>.
+Paul's order ends with *then comes the end* — <span class="gr">τὸ τέλος</span> (*to telos*) — and includes the destruction of death. Matthew's phrase is <span class="gr">συντέλεια τοῦ αἰῶνος</span>.
 
 Those are different expressions. They may point at the same ultimate horizon. But if I assume Matthew's consummation is simply identical to Paul's final *telos*, then a first-century consummation becomes almost impossible unless bodily death was already defeated in Paul's sense, which it plainly was not.
 
-I am not permitted to merge them because English translates both with the word *end*. That is the rule I adopted after Chapter 17, and it applies here whether or not I like the result.
+I am not permitted to merge them because English translates both with the word *end*. That is the rule I adopted after Chapter 21, and it applies here whether or not I like the result.
 
 ## And then Hebrews gives me part of what I wanted, two verses apart
 
@@ -98,7 +98,7 @@ I am writing this down in the same paragraph that introduces the tool, because I
 My own hypothesis benefits from compression. That is precisely when a rule is worth having.
 :::
 
-## Luke 4, where Yeshua stopped partway through the sentence
+## Luke 4, where Yeshua stopped partway through the prophecy
 
 The category of partial fulfilment is not something I invented for this problem. It is demonstrated, and by Yeshua.
 
@@ -110,9 +110,9 @@ Now read what He was reading from:
 
 > to proclaim the year of the Lord's favor, **and the day of vengeance of our God**; to comfort all who mourn. (Isaiah 61:2)
 
-Both clauses sit inside what modern versification numbers as Isaiah 61:2 — a single sentence in the scroll Yeshua was holding, which had no verse numbers in it. He read as far as the proclamation of Yah's favour, stopped, rolled up the scroll, and declared the Scripture fulfilled.
+Both clauses sit inside what modern versification numbers as Isaiah 61:2 — one continuous prophetic unit in the scroll Yeshua was holding, which had no verse numbers in it. He read as far as the proclamation of Yah's favour, stopped, rolled up the scroll, and declared the Scripture fulfilled.
 
-I had understood this as *He stopped before the next passage*. Retrieval made it sharper than that. He stopped **within a single sentence**, before its second clause — the division our Bibles number as one verse. A prophetic passage can contain multiple elements, and fulfilment of one portion can be declared without exhausting the wider prophecy; here, without exhausting even the sentence he had begun.
+I had understood this as *He stopped before the next passage*. A closer reading made it sharper than that. He stopped **within the same prophetic unit**, before the next coordinated clause — within what our Bibles now number as a single verse. A prophetic passage can contain multiple elements, and fulfilment of one portion can be declared without exhausting the wider prophecy; here, without exhausting even the prophetic unit he had begun.
 
 That establishes the category. It does not establish the application to Matthew 13, and I am keeping those apart.
 
@@ -127,9 +127,9 @@ Then the analogy immediately before it: as in the days of Noah, they were unawar
 
 Luke sharpens it further. After the same saying, the disciples ask a question that had never registered with me: *Where, Lord?* And the answer is *Where the corpse is, there the vultures will gather.*
 
-They ask where the taken ones go, and the answer invokes a corpse and gathering birds. That sounds like judgment rather than transport to safety. So the popular equation — taken means gathered to Messiah — is far less automatic than I had assumed, and it may be exactly backwards.
+The exact antecedent of their question is debated, but Yeshua answers with a corpse and gathering vultures, which pushes the scene toward judgment rather than making *taken* automatically mean transport to safety. So the popular equation — taken means gathered to Messiah — is far less automatic than I had assumed, and it may be exactly backwards.
 
-The Greek adds something I did not expect. Both verbs, <span class="gr">παραλαμβάνεται</span> and <span class="gr">ἀφίεται</span>, are present indicative **middle or passive**. The voice is grammatically undetermined and no agent is stated.
+The Greek adds something I did not expect. Both verbs, <span class="gr">παραλαμβάνεται</span> (*paralambanetai*) and <span class="gr">ἀφίεται</span> (*aphietai*), are present indicative **middle or passive**. The voice is grammatically undetermined and no agent is stated.
 
 That is now the third time in this investigation that a heavily contested verse has turned out to rest on undetermined voice, alongside Romans 9:22 and Acts 13:48. In none of the three does the grammar supply the agent, which means no interpretive camp gets to claim the grammar. The recurrence is itself a finding.
 
@@ -166,7 +166,7 @@ What I am actually working with is this: first-century fulfilment, then a first 
 
 It shares partial preterism's first-century framework and adds a distinct claim: that Revelation 20's millennial reign has also already occurred, and that the present may correspond to Satan's little season. **That additional claim has to be established independently rather than smuggled in under a borrowed label.**
 
-What the hypothesis must discharge, itemized so it cannot be left vague:
+What the hypothesis must account for, itemized so it cannot be left vague:
 
 1. the timing of the first resurrection
 2. the identity of those raised
@@ -176,7 +176,7 @@ What the hypothesis must discharge, itemized so it cannot be left vague:
 
 Revelation will have to supply these. If it does not, the hypothesis does not survive.
 
-And note what the label buys, because I should be as clear about the advantage as about the burden: since the millennium sits *after* the first-century crisis, bodily resurrection could occur at the **beginning of that millennial period** rather than being equated with Jerusalem's destruction. The last chapter did not kill this hypothesis. It clarified what the hypothesis owes.
+And note what the label buys, because I should be as clear about the advantage as about the burden: since the millennium sits *after* the first-century crisis, bodily resurrection could occur at the **beginning of that millennial period** rather than being equated with Jerusalem's destruction. The last chapter did not kill this hypothesis. It clarified what the hypothesis has to show.
 :::
 
 ## An objection I was given years ago, which turns out to be half right
@@ -185,7 +185,7 @@ Someone who taught me early raised Zechariah 14 against this kind of reading, an
 
 > everyone who survives of all the nations that have come against Jerusalem shall go up year after year to worship the King, the Lord of hosts, and to keep the Feast of Booths. And if any of the families of the earth do not go up… there will be no rain on them. (Zechariah 14:16–19)
 
-Some details in the version I was given did not survive retrieval: the festival is Sukkot, the Feast of Booths, not Passover; the frequency is year after year, not twice yearly; and Egypt is named specifically.
+Some details in the version I was given did not survive a check of the text: the festival is Sukkot, the Feast of Booths, not Passover; the frequency is year after year, not twice yearly; and Egypt is named specifically.
 
 But the substance is real, and here is the clean formulation:
 
@@ -210,7 +210,7 @@ Are those the same group? I cannot answer that before reading Revelation in orde
 
 Josephus is genuinely relevant: a near-contemporary who wrote at length on the revolt and the destruction of Jerusalem. He is also not a neutral camera. He was a participant who surrendered to the Romans, received Flavian patronage, and wrote with his own political and apologetic interests. Invaluable, and interested.
 
-He reports traditions of extraordinary portents before the catastrophe, including armies seen among the clouds. I have not retrieved that passage in this pass, and I am recording it as reported rather than verified.
+He reports traditions of extraordinary portents before the catastrophe, including armies seen among the clouds. I have not checked that passage myself, so I am treating it as reported rather than verified.
 
 ::: commentary
 **Rule — the report is not the event**
@@ -251,9 +251,9 @@ I would rather record that than round it up. Rounding it up is how a model stops
 Two constraints travel with even that narrower answer, and neither is optional. Matthew 13's harvest and its Danielic imagery forbid reducing that consummation to administrative change; if the first century is the right horizon, the event must still account for genuine divine judgment. And bodily resurrection remains strongly future relative to several apostolic texts, unless Revelation later supplies a demonstrable staged chronology.
 
 ::: whereweare
-**Where we are.** The distinction the model needed exists in Scripture rather than only in my convenience: Hebrews places Messiah's appearing *at* the consummation of the ages while still awaiting a second appearing, and Yeshua declared Isaiah 61 fulfilled while stopping partway through the sentence our Bibles number as verse 2. So consummation language can coexist with eschatological realities still outstanding. What that does **not** establish is that the age in view had already completely ended — Hebrews places the appearing at the culmination, not after it — nor that Matthew's age is the age being consummated. The chapter therefore ends with a permission rather than a demonstration. What it also does not license is a shrunken first-century event, a compression invoked whenever chronology is inconvenient, or any claim that bodily resurrection is behind us. The position now has a correct name and an itemized burden, and Zechariah 14 stands as a control text whose bridge to Revelation 20 nobody has yet built.
+**Where this leaves us.** The distinction the model needed exists in Scripture rather than only in my convenience: Hebrews places Messiah's appearing *at* the consummation of the ages while still awaiting a second appearing, and Yeshua declared Isaiah 61 fulfilled while stopping partway through what our Bibles number as verse 2. So consummation language can coexist with eschatological realities still outstanding. What that does **not** establish is that the age in view had already completely ended — Hebrews places the appearing at the culmination, not after it — nor that Matthew's age is the age being consummated. The chapter therefore ends with a permission rather than a demonstration. What it also does not license is a shrunken first-century event, a compression invoked whenever chronology is inconvenient, or any claim that bodily resurrection is behind us. The position now has a correct name and an itemized burden, and Zechariah 14 stands as a control text whose bridge to Revelation 20 nobody has yet built.
 :::
 
 ::: earned
-**What it earned.** A permission, not a verdict. The hypothesis survived the hardest pressure so far and came out smaller, better labelled, and carrying five specific debts — and carrying one more piece of honesty than it had at the start of the chapter, since the answer I wanted was a yes and the answer I am entitled to is narrower than that. What remains is the last great Tanakh text standing between me and Revelation — the one that has been waiting since Matthew's harvest first echoed it.
+**The question this leaves.** A permission, not a verdict. The hypothesis survived the hardest pressure so far and came out smaller, better labelled, and carrying five specific burdens — and carrying one more piece of honesty than it had at the start of the chapter, since the answer I wanted was a yes and the answer I am entitled to is narrower than that. What remains is the last great Tanakh text standing between me and Revelation — the one that has been waiting since Matthew's harvest first echoed it.
 :::

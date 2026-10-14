@@ -34,14 +34,14 @@ Note also the pairing inside that one verse: distress **and** the deliverance of
 
 > And many of those who sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt. (Daniel 12:2)
 
-The Hebrew is <span class="he">יְשֵׁנֵי אַדְמַת־עָפָר</span> *(yeshenê admat-ʿafar)* — roughly *sleepers of the dust-ground*. That is not naturally read as spiritually drowsy living Israelites. Symbolic dimensions may exist. Bodily resurrection carries substantial prima facie weight.
+The Hebrew is <span class="he">יְשֵׁנֵי אַדְמַת־עָפָר</span> (*yeshenê admat-ʿafar*) — roughly *sleepers of the dust-ground*. That is not naturally read as spiritually drowsy living Israelites. Symbolic dimensions may exist. Bodily resurrection carries substantial prima facie weight.
 
 And now I have to deal with the word I set down four chapters ago and promised not to use.
 
 ::: finding
 **Finding — and it goes against me**
 
-Daniel says <span class="he">רַבִּים</span> *(rabbim)* — *many*, not *all*. I recorded it twice and refused to build on it, because it was obviously going to be useful later.
+Daniel says <span class="he">רַבִּים</span> (*rabbim*) — *many*, not *all*. I recorded it twice and refused to build on it, because it was obviously going to be useful later.
 
 Here is why that restraint was correct, and why the datum can never be more than a datum:
 
@@ -81,11 +81,11 @@ Hold that. It becomes the door at the end of this chapter.
 This verse gets turned into airplanes, cars and the internet with remarkable regularity.
 
 ::: wordstudy
-**Word study — <span class="he">יְשֹׁטְטוּ</span> and <span class="he">הַדָּעַת</span>**
+**Word study — <span class="he">יְשֹׁטְטוּ</span> (*yeshoteṭu*) and <span class="he">הַדָּעַת</span> (*ha-daʿat*)**
 
-<span class="he">יְשֹׁטְטוּ</span> *(yeshoteṭu)* — rendered by the Revised JPS as **range far and wide**.
+<span class="he">יְשֹׁטְטוּ</span> (*yeshoteṭu*) — rendered by the Revised JPS as **range far and wide**.
 
-<span class="he">הַדָּעַת</span> *(ha-daʿat)* — **the** knowledge. Definite article.
+<span class="he">הַדָּעַת</span> (*ha-daʿat*) — **the** knowledge. Definite article.
 
 Two contextual facts decide how much weight the modern reading can carry. This clause sits **immediately after the sealing command**, and **immediately before Daniel says he does not understand**.
 
@@ -115,7 +115,7 @@ And the answer he receives is not an explanation. It is verse 9 restating that t
 ::: commentary
 **The prophet received the vision and still did not understand the chronology**
 
-I am thirty-one stages into building a chronology. The man who was given this vision says plainly that he heard and did not understand, asks for the outcome, and is told the words are sealed.
+I am deep into building a chronology. The man who was given this vision says plainly that he heard and did not understand, asks for the outcome, and is told the words are sealed.
 
 That is a control on me, not a devotional aside. Some realities become intelligible only in their appointed time, and the person closest to the revelation was not exempt.
 
@@ -183,7 +183,7 @@ And Luke has an *until* that I am not allowed to over-read either:
 
 > Jerusalem will be trampled underfoot by the Gentiles, until the times of the Gentiles are fulfilled. (Luke 21:24)
 
-The caution I adopted in Part IV applies unchanged: *until* guarantees the state **through** that point and does not by itself establish what follows. It may also be evidence of staging inside Luke 21 itself, which bears directly on whether Matthew 24 contains a transition marker. Recorded, not resolved.
+One caution applies here, and it will apply to every *until* in this book; call it the until-reversal caution. *Until* guarantees the state **through** that point and does not by itself establish what follows. It may also be evidence of staging inside Luke 21 itself, which bears directly on whether Matthew 24 contains a transition marker. Recorded, not resolved.
 
 ## Where this leaves me
 
@@ -195,7 +195,7 @@ A first-century reading of Daniel 12 must do one of three things. Demonstrate st
 
 What it may not do is declare the whole chapter fulfilled in AD 70 without addressing resurrection at all.
 
-And this sharpens the label question from the last chapter. A standard partial-preterist reading can say the Jerusalem-judgment elements were fulfilled while bodily resurrection remains future, and that is **textually easier** than what I am proposing. My hypothesis goes further and therefore owes more.
+And this sharpens the label question from the last chapter. A standard partial-preterist reading can say the Jerusalem-judgment elements were fulfilled while bodily resurrection remains future, and that is **textually easier** than what I am proposing. My hypothesis goes further and therefore has more to prove.
 
 ::: openquestion
 **Open question — and it is the one Part VI exists to answer**
@@ -230,7 +230,7 @@ Daniel is told to seal the words **until the time of the end**. John is told not
 
 I want to keep the asymmetry visible rather than tidy it into a matching pair, because the two texts are not doing the same grammatical thing. Daniel is given a **terminus**: seal, and the sealing runs until a point named as the time of the end. Revelation is given a **reason**: do not seal, *for* the time is near. That Daniel's sealing implies the end was not yet upon him is a fair inference from the terminus — but it is an inference, and Revelation's *for* is explicit wording. I am not going to write the inference as though it were the quotation.
 
-After thirty stages of refusing to build on resemblance, it is worth saying what makes this different anyway. I am not noticing that two passages feel similar. I am reading one book instructed to seal until a horizon, and another book instructed not to seal because that horizon is close.
+After all these chapters of refusing to build on resemblance, it is worth saying what makes this different anyway. I am not noticing that two passages feel similar. I am reading one book instructed to seal until a horizon, and another book instructed not to seal because that horizon is close.
 
 **At minimum: Revelation presents itself as standing much closer to its fulfilment horizon than Daniel did.**
 
@@ -240,17 +240,17 @@ What this does not establish: that every event in Revelation occurred immediatel
 That is where I stop building controls. I have enough. What I do not have is Revelation, and I am not permitted to arrive there at chapter twenty.
 
 ::: chain
-**Growing Chain — Checkpoint 3**
+**The growing chain — checkpoint 3**
 
 *A first-century horizon is real. What it reaches is not yet settled.*
 :::
 
 ::: whereweare
-**Where we are.** Daniel 12 anchors its prophecy to Israel, the Temple, the removal of the regular offering and an event-marker rather than a date, and Yeshua reactivates that language for his own generation while Luke translates it into armies around Jerusalem. The first-century horizon is genuine. But the same chapter opens with sleepers awakening from dust and closes with Daniel promised that he will rest and stand, and *rabbim* has now been adjudicated in a way that removes rather than supplies a convenient reading. So resurrection cannot be deleted from the horizon to preserve the judgment. And Daniel is told to seal until the time of the end, while Revelation is told not to seal because the time is near — opposite commands with contrasting temporal expressions, and the first piece of temporal evidence that has come from the books' own instructions about themselves.
+**Where this leaves us.** Daniel 12 anchors its prophecy to Israel, the Temple, the removal of the regular offering and an event-marker rather than a date, and Yeshua reactivates that language for his own generation while Luke translates it into armies around Jerusalem. The first-century horizon is genuine. But the same chapter opens with sleepers awakening from dust and closes with Daniel promised that he will rest and stand, and *rabbim* has now been adjudicated in a way that removes rather than supplies a convenient reading. So resurrection cannot be deleted from the horizon to preserve the judgment. And Daniel is told to seal until the time of the end, while Revelation is told not to seal because the time is near — opposite commands with contrasting temporal expressions, and the first piece of temporal evidence that has come from the books' own instructions about themselves.
 :::
 
 ::: earned
-**What it earned.** A door, and the right to walk through it. Every control this investigation has built now travels with me: the resurrection taxonomy, category-lock, metaphorical against bodily, inauguration against consummation, consummation against exhaustion, the compression brake, the until-reversal caution, report against event, and the seal-nearness contrast that just opened.
+**The question this leaves.** A door, and the right to walk through it. Every control this investigation has built now travels with me: the resurrection taxonomy, classification before harmonizing, metaphorical against bodily, inauguration against consummation, consummation against exhaustion, the compression brake, the until-reversal caution, report against event, and the seal-nearness contrast that just opened.
 
-What it did not earn is a conclusion. I am entering Revelation at chapter one, with a hypothesis that owes five specific debts and a falsification condition I still have to write down before a single vision is interpreted. If the book does not supply what the hypothesis needs, the hypothesis is what gives way.
+What it did not earn is a conclusion. I am entering Revelation at chapter one, with a hypothesis that carries five specific burdens and a falsification condition I still have to write down before a single vision is interpreted. If the book does not supply what the hypothesis needs, the hypothesis is what gives way.
 :::

@@ -30,7 +30,7 @@ There is a move available to me here, and I can feel its pull: *Israel metaphori
 
 But Daniel's own markers are sleeping in dust, then awakening, then two divergent destinies. Those markers deserve prima facie weight as bodily resurrection, and any chronology that places Daniel 12 entirely in the first century inherits that burden rather than escaping it.
 
-And the word I set down two chapters ago is still sitting there. Daniel says <span class="he">רַבִּים</span> — *many* — not *all*. Still recorded. Still not argued from.
+And the word I set down two chapters ago is still sitting there. Daniel says <span class="he">רַבִּים</span> (*rabbim*) — *many* — not *all*. Still recorded. Still not argued from.
 
 ## Matthew is drawing on this
 
@@ -49,7 +49,7 @@ That sounds like transformed immortality. It does not sound like metaphorical na
 If the age to come fully arrived in the first century, Luke 20 requires an answer to a plain question: where is the state in which those raised cannot die anymore? I do not have one. That is not a minor objection, and I am preserving it rather than managing it.
 
 ::: historical
-**Historical context — the resurrection question was contested, and the texts show it**
+**The resurrection question was contested, and the texts show it**
 
 Two of the passages in this chapter carry their own evidence that resurrection was disputed in the first century rather than assumed.
 
@@ -59,14 +59,14 @@ And Paul writes, to a congregation of believers, *how can some of you say that t
 
 So resurrection is not background furniture in these texts. It is a live dispute, which is part of why the language is so explicit: both writers are arguing with people who deny the thing.
 
-**Retrieval debt, stated rather than filled:** the broader Second Temple literature on resurrection expectation — the intertestamental material, Josephus on the parties, the rabbinic discussion — has not been retrieved in this pass. I am not going to characterize a body of literature I have not read. What is above comes from the passages themselves.
+**What this box does not cover:** the broader Jewish evidence on resurrection expectation — Second Temple literature, Josephus on the parties, and later rabbinic discussion. I have not worked through it here, and I am not going to characterize a body of literature I have not read. What is above comes from the passages themselves.
 :::
 
 ## John marks the distinction himself, and this is the find
 
 This is the most important control in the chapter, and I did not bring it from outside. It is inside one discourse, by one author.
 
-I had seen John 5:28–29 quoted. I retrieved the surrounding verses as a block, which is the only reason I noticed anything.
+I had seen John 5:28–29 quoted. I read the surrounding verses as a block, which is the only reason I noticed anything.
 
 > whoever hears my word and believes him who sent me has eternal life. He does not come into judgment, but has passed from death to life. (John 5:24)
 >
@@ -87,23 +87,23 @@ Read verse 25 and verse 28 next to each other. At verse 25 John writes *and is n
 | action | hear, and live | hear, and **come out** |
 | category | already — passing from death to life | still coming — resurrection of life or of judgment |
 
-John uses spiritual-resurrection language and bodily-resurrection language in the same passage and distinguishes them with a clause.
+John juxtaposes present death-to-life language with future tomb-resurrection language in the same discourse and marks them differently. Verse 24 strongly supports a spiritual, death-to-life reading of the first; verses 28–29 explicitly describe tombs, coming out, and two destinies.
 
-**So spiritual-resurrection language may not be used to erase bodily-resurrection language.** I do not need an external framework to separate the two in John, because John separated them. And *all who are in the tombs* is difficult to reduce to covenantal metaphor.
+**So spiritual-resurrection language may not be used to erase bodily-resurrection language.** I do not need an external framework to separate the two in John, because John marks them differently himself. And *all who are in the tombs* is difficult to reduce to covenantal metaphor.
 
 The structure is also close to Daniel 12: dead, then raised, then two destinies.
 :::
 
 That gives me a rule, and I am writing it down where I found it.
 
-::: commentary
+::: {.commentary .keep}
 **Rule — metaphorical does not override bodily**
 
 Because Scripture *can* use death and resurrection imagery metaphorically, the existence of metaphorical resurrection language does not automatically redefine passages that explicitly describe tombs, dust, bodies, mortality, or coming forth from the dead.
 
 Classify each passage by its own markers before harmonizing anything.
 
-John 5 is the warrant, because the same author uses both in the same breath and tells you which is which.
+John 5 is the warrant, because the same author uses both in the same breath and marks them differently.
 :::
 
 ## Paul grounds the category in an event
@@ -132,7 +132,7 @@ There are several available readings — death's legal or spiritual dominion, th
 
 > What is sown is perishable; what is raised is imperishable. It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power. It is sown a natural body; it is raised a spiritual body. (1 Corinthians 15:42–44)
 
-The phrase is <span class="gr">σῶμα πνευματικόν</span> *(sōma pneumatikon)* — *spiritual body*. Paul still says *sōma*. *Spiritual* is describing the body's mode or source or order. It does not mean *non-body*, and the phrase cannot be made to mean *not a body* without contradicting the noun it modifies.
+The phrase is <span class="gr">σῶμα πνευματικόν</span> (*sōma pneumatikon*) — *spiritual body*. Paul still says *sōma*. *Spiritual* is describing the body's mode or source or order. It does not mean *non-body*, and the phrase cannot be made to mean *not a body* without contradicting the noun it modifies.
 
 Which brings up the verse most often used against all of this:
 
@@ -154,7 +154,7 @@ And 1 Thessalonians 4 brings its own:
 
 > the dead in Christ will rise first. (1 Thessalonians 4:16)
 
-The text distinguishes dead believers from living ones and speaks of the dead rising — again pointing past metaphor. The Greek for the meeting that follows is <span class="gr">ἀπάντησιν</span> *(apantēsin)*, a meeting or encounter. Some argue the term evokes citizens going out to meet an arriving dignitary and escorting him back in; others warn against building a technical rule from a handful of usages. I am bookmarking it rather than settling it, because it may matter later for whether believers are taken away or go out to meet a coming king. The resurrection in the verse is explicit either way.
+The text distinguishes dead believers from living ones and speaks of the dead rising — again pointing past metaphor. The Greek for the meeting that follows is <span class="gr">ἀπάντησιν</span> (*apantēsin*), a meeting or encounter. Some argue the term evokes citizens going out to meet an arriving dignitary and escorting him back in; others warn against building a technical rule from a handful of usages. I am bookmarking it rather than settling it, because it may matter later for whether believers are taken away or go out to meet a coming king. The resurrection in the verse is explicit either way.
 
 ## The taxonomy, so that drift becomes visible
 
@@ -168,7 +168,7 @@ If I am going to be honest about resurrection language, I need to classify passa
 | **D** | martyr vindication or enthronement | not yet established as carrying resurrection meaning |
 | **E** | final judgment resurrection | life against condemnation, both destinies present |
 
-And the verified passages, classified:
+And the passages, classified:
 
 | Text | Category | Basis |
 |---------------------|----------|------------------------------------|
@@ -204,9 +204,9 @@ The staging puzzle is worse, and I am stating it rather than solving it. Daniel 
 One thing is closed. The population question from my earlier detour — who is alive during the thousand years — is answered, and it is answered without touching resurrection timing. Saints reigning does not require everyone alive to be raised. That solves one problem and leaves the other exactly as hard as it was.
 
 ::: whereweare
-**Where we are.** Resurrection cannot be dissolved into covenantal metaphor. Daniel's dust, John's tombs, Luke's *cannot die anymore*, Paul's mortal putting on immortality, and the dead in Messiah rising all describe something bodily, and John proves the two categories are distinguishable by distinguishing them himself. That puts my first-century age-transition model under real pressure without destroying it: the model must now either distinguish inauguration from a later bodily consummation, demonstrate multiple stages from Scripture, or be revised. Revelation 20 remains unclassified on purpose, and possibility four — that the whole hypothesis is wrong — is on the record before I open it.
+**Where this leaves us.** Resurrection cannot be dissolved into covenantal metaphor. Daniel's dust, John's tombs, Luke's *cannot die anymore*, Paul's mortal putting on immortality, and the dead in Messiah rising all describe something bodily, and John shows the two can be told apart by marking them differently himself. That puts my first-century age-transition model under real pressure without destroying it: the model must now either distinguish inauguration from a later bodily consummation, demonstrate multiple stages from Scripture, or be revised. Revelation 20 remains unclassified on purpose, and possibility four — that the whole hypothesis is wrong — is on the record before I open it.
 :::
 
 ::: earned
-**What it earned.** A taxonomy that makes category drift visible, a rule that metaphor may not overwrite tombs, and a falsification condition written down before the passage that would tempt me to soften it. What it did not earn is permission to proceed. The next question is whether Scripture itself allows one age to reach its consummation while resurrection remains ahead — and if the answer is no, the model I have been building takes a serious hit.
+**The question this leaves.** A taxonomy that makes category drift visible, a rule that metaphor may not overwrite tombs, and a falsification condition written down before the passage that would tempt me to soften it. What it did not earn is permission to proceed. The next question is whether Scripture itself allows one age to reach its consummation while resurrection remains ahead — and if the answer is no, the model I have been building takes a serious hit.
 :::

@@ -35,13 +35,13 @@ Luke has the same contrast. And then Luke gives the one that presses hardest aga
 > The sons of this age marry and are given in marriage, but those who are considered worthy to attain to that age and to the resurrection from the dead neither marry nor are given in marriage, for they cannot die anymore, because they are equal to angels and are sons of God, being sons of the resurrection. (Luke 20:34–36)
 
 ::: evidence
-**How strongly evidence bears — against a purely administrative reading of the transition**
+**Luke 20 — against a purely administrative reading of the transition**
 
 The coming age is here associated with **resurrection from the dead**, and with a condition in which those who attain it **cannot die anymore**.
 
 That prevents reducing the age transition to *the Temple administration changed*. There is an eschatological dimension in the coming age, and Yeshua states it. It is not something a system inferred and then read back in.
 
-**CONTRADICTS** — any version of my developing model that would let the age change be a covenantal-administrative event with no resurrection attached.
+Luke 20 <span class="grade">contradicts</span> any version of my developing model that would let the age change be a covenantal-administrative event with no resurrection attached.
 
 Kept at full strength. It becomes this chapter's major unresolved problem, and I would rather end with it unresolved than end with it managed.
 :::
@@ -63,7 +63,7 @@ Then I went back and read the passage.
 
 Satan is bound *so that he might not deceive the nations any longer, until the thousand years were ended.* Binding him so that he cannot deceive the nations until then rather plainly implies that the nations are there the whole time. The text never says they were resurrected at that point, never says they were created at that point, and never says the earth had been emptied and needed refilling.
 
-**The problem dissolved on retrieval. It had never existed.** And I had been reaching for external explanations to solve a biblical difficulty before anyone had verified that the difficulty was real.
+**The problem dissolved once I read the passage. It had never existed.** And I had been reaching for external explanations to solve a biblical difficulty before anyone had verified that the difficulty was real.
 
 I am keeping this in the book because it is the most instructive mistake I made in this stretch, and because it establishes a firewall I am going to need later: claims about recent history and claims about what a text says are two different classes of evidence, and the first may not be used to settle the second. None of this decides anything about Revelation, which I have not opened and am not going to open early.
 :::
@@ -90,7 +90,7 @@ Something has genuinely begun without everything belonging to the previous order
 In English that reads like a flourish. The Greek is harder to soften.
 
 ::: textualnote
-**Textual note — <span class="gr">τὰ τέλη τῶν αἰώνων</span> and the tense of <span class="gr">κατήντηκεν</span>**
+**Textual note — <span class="gr">τὰ τέλη τῶν αἰώνων</span> and the tense of <span class="gr">κατήντηκεν</span> (*katēntēken*)**
 
 | Element | Form | Force |
 |-----------------|-------------------|--------------------|
@@ -98,14 +98,14 @@ In English that reads like a flourish. The Greek is harder to soften.
 | <span class="gr">αἰώνων</span> *(aiōnōn)* | plural of *aiōn* | of the ages |
 | <span class="gr">κατήντηκεν</span> *(katēntēken)* | **perfect indicative active** | have arrived, and the arrival stands |
 
-The perfect is completed action with continuing present relevance. And the pronoun is *us*.
+The perfect presents the arrival as a completed development whose resulting state is in view. And the pronoun is *us*.
 
 Paul does not write that the ends of the ages will eventually come upon people many centuries later. He places his own community at the arrival point.
 
 **What this establishes, stated exactly:** apostolic self-location. Paul considered his own generation eschatologically transitional. That is a textual observation before it is anyone's interpretation, and it is **not** proof of any particular date.
 :::
 
-One more thing about that verse, recorded rather than used. *Telē* is the plural of <span class="gr">τέλος</span> — the same lexeme as Matthew 24:14's *the end* and Romans 10:4's *end of the law*. This is its third load-bearing appearance in my investigation. Chapter 17 is where I learned what happens when a shared lemma gets quietly counted as corroboration, and I am not doing that again. Same word, three contexts, three meanings to be established separately.
+One more thing about that verse, recorded rather than used. *Telē* is the plural of <span class="gr">τέλος</span> (*telos*) — the same lexeme as Matthew 24:14's *the end* and Romans 10:4's *end of the law*. This is its third load-bearing appearance in my investigation. Chapter 21 is where I learned what happens when a shared lemma gets quietly counted as corroboration, and I am not doing that again. Same word, three contexts, three meanings to be established separately.
 
 ## Hebrews arrives at the same place from a different direction
 
@@ -134,13 +134,13 @@ I am adopting the distinction and attaching no system to it, because the concept
 I checked the Greek because the phrase looked ordinary. It is not ordinary.
 
 ::: evidence
-**How strongly evidence bears — a correction to my own earlier scope work**
+**Hebrews 2:5 — a correction to my own earlier scope work**
 
-The word is <span class="gr">οἰκουμένην τὴν μέλλουσαν</span> *(oikoumenēn tēn mellousan)* — **the inhabited world to come.**
+The word is <span class="gr">οἰκουμένην τὴν μέλλουσαν</span> (*oikoumenēn tēn mellousan*) — **the inhabited world to come.**
 
-<span class="gr">οἰκουμένη</span> is Matthew 24:14's word. The word I spent Part II and Part IV establishing need not mean every location on the earth. And Hebrews attaches it to a **coming** order.
+<span class="gr">οἰκουμένη</span> (*oikoumenē*) is Matthew 24:14's word. The word I spent Part II and Part IV establishing need not mean every location on the earth. And Hebrews attaches it to a **coming** order.
 
-**CONTRADICTS** — any use of my scope work that would let *oikoumenē* simply mean *the first-century Roman inhabited world* wherever it appears.
+Hebrews 2:5 <span class="grade">contradicts</span> any use of my scope work that would let *oikoumenē* simply mean *the first-century Roman inhabited world* wherever it appears.
 
 Neither observation cancels the other. Luke's census and famine still show the word can carry a limited referent; Hebrews shows the same word can denote a future order. Together they mean the referent has to be determined at each occurrence rather than fixed once and reused.
 
@@ -192,9 +192,9 @@ And *the end of the age* has now forced resurrection.
 That is not wandering. Each question earned the next one, and none of them was chosen because it looked helpful.
 
 ::: whereweare
-**Where we are.** The two-age framework is explicit across five New Testament witnesses, and the apostolic writers place themselves at the culmination of the ages rather than at the start of a long ordinary stretch — 1 Corinthians 10:11's perfect tense makes that hard to soften. The overlap is not imported: Hebrews 6 states that believers have already tasted the powers of the coming age while it remains coming. What is not established is when the present age reaches its consummation. Against a first-century answer stand Luke 20's association of the coming age with resurrection, 1 Corinthians 15's stated order ending with death itself, and Hebrews 2:5, which uses Matthew 24:14's own word for a world still to come and corrects my earlier scope work in the process.
+**Where this leaves us.** The two-age framework is explicit across five New Testament witnesses, and the apostolic writers place themselves at the culmination of the ages rather than at the start of a long ordinary stretch — 1 Corinthians 10:11's perfect tense makes that hard to soften. The overlap is not imported: Hebrews 6 states that believers have already tasted the powers of the coming age while it remains coming. What is not established is when the present age reaches its consummation. Against a first-century answer stand Luke 20's association of the coming age with resurrection, 1 Corinthians 15's stated order ending with death itself, and Hebrews 2:5, which uses Matthew 24:14's own word for a world still to come and corrects my earlier scope work in the process.
 :::
 
 ::: earned
-**What it earned.** Resurrection stopped being a topic I would reach eventually and became the next thing I am required to take. And the order matters: if I settle the age question first and then interpret resurrection to fit, I will have done the one thing this whole method exists to prevent.
+**The question this leaves.** Resurrection stopped being a topic I would reach eventually and became the next thing I am required to take. And the order matters: if I settle the age question first and then interpret resurrection to fit, I will have done the one thing this whole method exists to prevent.
 :::
