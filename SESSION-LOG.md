@@ -206,3 +206,10 @@ Sessions across these dates (Parts II–VIII drafted in both editions, the Parts
   - The 666 novelty overclaim is removed.
 
 **Next:** confirm r1.1 (the γῆ result in particular) → snapshot EN Part VII → ES Part VII → full-book audit → front/back matter → publishing prep.
+
+**Canonical resume checkpoint (saved at the author's request, 2026-10-14).** Trigger: *"Resume Biblical Wisdom from the saved Part VII checkpoint."* On a resume: read project memory, this entry, `bd show BIBLE-3c7`, and `PART-VII-NORMALIZATION-REPORT.md`, then give a 5–10 line recap before touching any file.
+- **Frozen:** Parts I–VI, VIII, IX in both editions.
+- **Active:** Part VII EN r1.1. WIP commit `2e3d468`, not snapshotted. Spanish Part VII not started.
+- **Next:** ChatGPT verifies only the γῆ finding (82/67/18), the false-prophet signs, the markdown cleanup and the 666 wording → snapshot EN VII → ES VII, walking N1–N22 and R1–R4 row by row → full-book audit → front/back matter → publishing prep.
+- **Audit items logged:** exhaustive-count recount; the ch47 "two structural grounds" pointer; the old "35" in the ch46 frontmatter and file 03c; BIBLE-3c7 cross-Part cleanup.
+- **Guardrails:** no reopening frozen Parts outside the audit, no Book Two, no publishing prep yet.
