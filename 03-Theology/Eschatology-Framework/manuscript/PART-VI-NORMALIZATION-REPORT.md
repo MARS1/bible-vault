@@ -1,8 +1,8 @@
 ---
-title: "Part VI — Normalization Report (EN)"
+title: "Part VI — Normalization Report (EN + ES)"
 type: manuscript-report
 created: 2026-10-14
-status: en-approved
+status: approved (EN + ES)
 related: "[[PART-V-NORMALIZATION-REPORT]], [[10-manuscript-architecture]], [[EDITORIAL-RULES]]"
 ---
 
@@ -122,6 +122,77 @@ ch41 and ch43 person boxes are still all caps (THEODOTION, ANTIOCHUS IV EPIPHANE
 5. **ch39 structure:** four `#` → `##`, plus the `.flow` class for the long box. OK?
 6. **ch35's unprinted earlier correction:** leave it as provenance, or add a qualifier?
 
-## F. Spanish Part VI
+## F. Spanish Part VI: APPROVED (2026-10-14)
 
-Waits for English approval. Every row above will be walked against the Spanish files before the Spanish report is written (standing rule).
+**Review outcome:** all five F5 decisions approved: D2; the ch30 correction; the ch38 note printed; S1; **F4 resolved as "patch English now"**. English ch38 was patched in three places, mirroring S1. No grade moved, and the Jerusalem column is unchanged:
+
+| Where (EN ch38) | Before | After |
+|---|---|---|
+| body | "The first and third lines are nearly verbatim" | "The first and third lines are closely parallel — spilled blood and *the earth* — though they are not verbatim" |
+| matrix | "**very strong, near-verbatim**" | "**very strong, though not verbatim**" |
+| summary | "Revelation 18:24's near-verbatim landing on Matthew 23" | "Revelation 18:24's close, though not verbatim, parallel with Matthew 23" |
+
+The English rebuild has 225 pages; every gate passes and normalization is 0. All three new phrases appear in the PDF, and "near-verbatim" / "nearly verbatim" appear 0 times. The English replacement snapshot is `d2-normalized-r2`; `d2-normalized` stays as it was, since snapshots are immutable. The Spanish edition was not affected: no shared machinery changed.
+
+### Draft record (as reviewed)
+
+**Result:** normalization 0 in every category. Before: 46 decorative marks, 5 grades, 41 labels, 29 gloss gaps, 4 structure, 45 conventions. Build: 230 pages (was 243), terminology/register OK, 0 mojibake, 0 sections missing, original-language gate OK (23 pages), table gate OK (55 table pages, 4 continued with a repeated header, no split rows). Pages 2, 60, 184–187, 213–215, 227, 229 checked visually (opening notes, ch38 note, ch39 `##` headings, the `.flow` box breaking across 213–214, checkpoint 4).
+
+**No argument rewritten, no conclusion changed, no grade moved**, with one exception, flagged as **S1** below: a strength *reduction* that the Spanish edition's own verified text already required.
+
+### F1. Row-by-row walk of the English report
+
+| EN row | Spanish |
+|---|---|
+| R1, R1b (ch34 "direct historical anchor") | ✓ «Hallazgo — el primer anclaje histórico directo dentro de las visiones de juicio» · «aporta un anclaje histórico directo para la gran ciudad» |
+| R2 (ch35 "in my notes") | ✓ «En mis notas, antes de llegar a Apocalipsis 12» |
+| Titles, all six | ✓ «El conjunto acumulado, antes de cualquier argumento preterista» · «El conjunto temporal, ahora con el quinto sello dentro» · «*Gran tribulación* en Mateo 24:21 y Apocalipsis 7:14, con el freno de siempre» · «Derribado no es atado — …» · «*Nerón César*, 666 y 616 — …» · «Nerón, las asambleas de Asia y la contraevidencia» · «La cadena creciente — punto de control 4» |
+| Person boxes, normal case | ✓ Nerón, Domiciano, Ireneo, Tácito, Eusebio de Cesarea |
+| Grades, all five | ✓ «El conjunto <span>apoya</span>…» (ch30, ch31) · «La expresión compartida <span>apoya</span>…» · «La diferencia <span>contradice</span>…» · «La variante <span>apoya</span>…». «DERRIBADO NO ES ATADO» and «LA CONTRAEVIDENCIA…» → sentence case |
+| Decorative marks | ✓ all 46 removed (Spanish had more: also 📌 ❌ ✅ ★ 📐, mostly in the ch38–39 Spanish-only boxes). Table cell «❌ **roto**» → «**roto**» |
+| Glosses | ✓ same list as EN, plus *achri telesthē* (ch39) |
+| Research-process rows, ch30–39 | ✓ each row applied: «la tarea que la pagó» → «el trabajo previo que hay detrás» · «ahora cobrando» → «ahora puesto a trabajar» · «ahora vence» → «este es su lugar» · «la registro como reportada» → «la trato» · «recuperé Mateo 23» → «leí» · «el trabajo anterior pagó» → «se sostuvo» · «no la cobro… no gastarla» → «no la uso… no construir sobre ella» · «sospecha cobrada» → «usada» · «verificada por recuperación… registrado como deuda» → «reportadas y no verificadas, cosa que el capítulo dice desde el principio» · «lleva tantas etapas» → «ya tan metida» · «la guardo en vez de gastarla» → «la anoto en vez de usarla» · «una deuda que no puedo saldar razonando» → «una pregunta que el razonamiento no puede zanjar» · «No recuperé Hebreos» → «No he trabajado» · «este proyecto» ×2 → «este libro» (ch35) · «una etapa antes» → «de antemano» · «no voy a gastar» → «desarrollar» · «este proyecto» → «esta investigación» (ch36, ch37 ×3, ch38, ch39) · «cuarenta etapas» → «toda esta investigación» / «buena parte de su extensión» · «registro de preguntas abiertas» → «Queda entre las preguntas abiertas» · «se debe» → «todavía hay que trabajarla» / «por aportarse» · «expediente… archivó» → «registro… citaría» · «impagas» → «por aportarse» · «sin recuperar» → «sin leer» · ch39 «al recuperar» ×2 → «leyendo de cerca» / «poniendo los versículos lado a lado» · «registro diferido» → «apartada» · «paga» / «vuelve a pagar» → «llega» / «vuelve a funcionar» · «deuda de recuperación… no la he pagado» → «No lo he comprobado en la fuente… queda sin verificar hasta que lo haga» |
+| ch31 Zechariah "in this pass" | ✓ Spanish already had no "this pass"; only «la registro» → «la trato» |
+| ch33 "Banked." / "the question I banked" | Spanish «Guardada.» / «la pregunta que guardé» kept: *guardar* is "keep", not a money metaphor |
+| ch34 "Revelation 11 I retrieved in full" | No Spanish equivalent sentence; n/a |
+| Labels | ✓ «Dónde nos deja esto.» / «La pregunta que esto deja.» in all ten chapters |
+| D1 ch33 | ✓ same shape: «Nota textual — este capítulo describe en vez de citar», «Toda cita de este capítulo es por lo tanto reportada y no verificada» printed; diary hidden as `VERIFICATION TRAIL` |
+| D1 ch38 (versification) | ✓ hidden as `VERIFICATION TRAIL`; closing clause «Un error de numeración de versículos en mi propia recuperación…» removed |
+| ch39 structure | ✓ four `---` + `#` → `##` (El muro / Lo que dejó en pie el muro, y lo que no / Y entonces el libro no termina donde está el muro / De vuelta en el muro); `{.finding .flow}` on «El resultado honesto de Apocalipsis 20» |
+| N1–N13 | ✓ all: «desde la Parte II» · N2 commentary + summary («La construí en la Parte II, para Mateo 24, y aquí se sostiene»; ES ch09 has the matching heading «Y Apocalipsis está citando a Isaías 34 casi palabra por palabra») · «capítulo 21» · θλῖψις clause removed · «dos capítulos antes» · «un capítulo antes» · «— incluida la que tengo disponible desde hace mucho» · *porneia* «muestra algo… que vale la pena decir con claridad» · «El capítulo pasado abrí una cadena» · «El capítulo pasado dejé abierta una pregunta» · «en las Partes III y IV» · «es fácil enunciarlo con descuido, y la Parte V lo enunció con cuidado» / «una simetría de espejo» · «impresa en vez de corregida calladamente» |
+| Section C cross-references | ✓ every relative reference in ES ch30–39 listed and matched against C (one/two/four/five/twenty chapters, eighteen chapters late) |
+| Section C "a cost the other column does not pay", "on the record" | Kept in Spanish too («un costo que la otra columna no paga», «en el registro»): same idioms EN kept |
+
+### F2. Spanish-only items
+
+- **D2, the Part V pattern:** the closing «Nota textual — deuda declarada» box in ch30, 31, 32, 34, 35, 36, 37 and 39 (eight boxes) → hidden `SPANISH-SPECIFIC` comment, full text kept. They held RVR1960 bookkeeping ("described, not quoted; base declared…"). Their one reader-facing point, that Revelation is mostly described and that short italic phrases are identified paraphrase, now sits once in the ch30 opening note (next item).
+- **ch30 opening note:** «Nota textual — la deuda de esta Parte, declarada antes de empezar» → «Nota textual — la base castellana de esta Parte, y por qué Apocalipsis casi siempre se describe». "Deuda / registrada / este proyecto" wording removed. **One factual correction:** it said Revelation 20 was *the only* Revelation passage verified in Spanish, but ch38 quotes Revelation 17–18 as verified RVR1960 text. It now says: «De Apocalipsis cito palabra por palabra solo los pasajes cuyo texto RVR1960 tengo verificado: partes de los capítulos 17 y 18 (en el capítulo 38) y partes de Apocalipsis 20 (en el 39)… las expresiones breves en cursiva son paráfrasis identificada». "Partes de" matches ch39's own hidden note (20:3 in full plus phrases of 20:4–6).
+- **ch38 Spanish-only box** «la deuda se pagó…» → **«Nota textual — la matriz, probada contra el texto de la Reina-Valera»**, still printed. Kept: the verified passages, «La matriz sobrevive», 17:6 strengthened, **18:24 / 23:35 not literal (different subjects and prepositions)**, the *la tierra* ambiguity. Hidden as `SPANISH-SPECIFIC`: the four wording corrections diary and the 17:17/17:18 "exact" note. Emoji and the `SPANISH-SPECIFIC` label removed from print.
+- **ch39:** visible `` `PROPIO DEL CASTELLANO` `` labels removed from three box titles. Its closing box went to D2, including the RVA-2015 truncation caveat on 20:3. The body makes no RVA-2015 claim about 20:3 (checked), so nothing printed depends on it.
+- **Term drift:** «pequeña temporada» → «el poco de tiempo» everywhere in print (ch30 ×3, ch31, ch35, ch37, ch39 ×7), including the neutral label «hipótesis de milenio pasado y de poco de tiempo presente».
+- **ch37** «Deuda declarada» → «**Un tramo todavía sin comprobar.** … No he leído Apocalipsis 18:24 en la fuente…» (= EN "One leg not yet checked"); its third paragraph (debt bookkeeping) dropped.
+- **ch38 opening versification note** → hidden, as EN D1.
+
+### F3. S1: a withdrawal the Spanish text already made, now applied in the body
+
+The ch38 Spanish-only box had already found that the 18:24 ↔ Matthew 23:35 parallel is **not** «casi literal» in RVR1960 (different subjects; *en* vs *sobre* la tierra) and said «la palabra se retira». But the ES body, matrix and summary still said «casi literal». Inside one chapter, that is a contradiction. Applied:
+
+| Where | Before | After |
+|---|---|---|
+| body | «La primera y la tercera línea son casi literales entre sí» | «se acercan mucho —sangre derramada, *la tierra*—, aunque no son literales entre sí» |
+| matrix | «**muy fuerte, casi literal**» | «**muy fuerte, aunque no literal**» |
+| summary | «el aterrizaje casi literal de Apocalipsis 18:24 sobre Mateo 23» | «el paralelo cercano —aunque no literal— de Apocalipsis 18:24 con Mateo 23» |
+
+"Muy fuerte" stays. The Jerusalem column's grade is unchanged.
+
+### F4. Cross-edition divergence (decision for you)
+
+**English ch38 (frozen) still says "nearly verbatim" in three places**: the body ("The first and third lines are nearly verbatim"), the matrix ("very strong, near-verbatim") and the summary ("near-verbatim landing"). The Greek subjects differ as well, so the Spanish finding is not a translation artefact. Under the ES-REGISTER rule, an evidentiary divergence between editions is a defect in both. Logged on BIBLE-3c7. Options: (a) patch EN ch38 now, three phrases, mirroring S1, then re-snapshot English Part VI; (b) leave it for the full-book audit.
+
+### F5. Decisions for you
+
+1. D2 for the eight closing debt boxes, with the reader-facing scope point moved to ch30. OK?
+2. ch30 opening note: factual correction ("only Revelation 20" → parts of 17–18 and 20). OK?
+3. ch38 note kept printed in its cleaned form. OK?
+4. **S1**: «casi literal» withdrawn in the ES body, matrix and summary. OK?
+5. **F4**: patch English ch38 now, or leave it for the audit?

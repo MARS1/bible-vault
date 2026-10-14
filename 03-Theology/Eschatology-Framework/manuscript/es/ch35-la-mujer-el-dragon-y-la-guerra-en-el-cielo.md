@@ -84,7 +84,7 @@ Esto es enorme para la cronología, y su valor está en que yo no lo importé.
 
 Apocalipsis 12 **prueba la categoría**. Del nacimiento a la entronización, sin mencionar todo el ministerio terrenal, alcanza — nadie piensa que Apocalipsis esté afirmando que la crucifixión no ocurrió.
 
-⚠️ **Y el corolario corta en las dos direcciones, que es exactamente por qué me resulta seguro adoptarlo:** ser muy cauto al suponer que toda escena visionaria contigua represente un momento histórico inmediatamente contiguo.
+**Y el corolario corta en las dos direcciones, que es exactamente por qué me resulta seguro adoptarlo:** ser muy cauto al suponer que toda escena visionaria contigua represente un momento histórico inmediatamente contiguo.
 
 Eso frena mi hipótesis tanto como la habilita. Una regla que solo ayudara a un lado no sería una regla, y ya he escrito esa frase las veces suficientes como para notarlo si dejara de decirla en serio.
 :::
@@ -114,7 +114,7 @@ Y cuando Apocalipsis dice **cómo** fue vencido, no dice que Yeshúa lo superara
 
 La imaginería de la guerra en el cielo queda explícitamente interpretada a través de la victoria sacrificial del Mesías — que es exactamente el modo de conquista que Apocalipsis estableció en el capítulo 5, donde el León resultó ser un Cordero inmolado.
 
-**Y aquí tengo que registrar algo sobre mí mismo.** Antes en esta investigación, antes de llegar a Apocalipsis 12, corregí mi propio supuesto y escribí que el Mesías no tuvo que pelear con nadie — que venció a la muerte por medio de su sacrificio y su resurrección.
+**Y aquí tengo que registrar algo sobre mí mismo.** En mis notas, antes de llegar a Apocalipsis 12, corregí mi propio supuesto y escribí que el Mesías no tuvo que pelear con nadie — que venció a la muerte por medio de su sacrificio y su resurrección.
 
 Razoné hasta ahí. Después el texto lo dijo. Apocalipsis 12:11 es el apoyo más fuerte que ha recibido esa corrección, y yo no lo tenía en la mano cuando la hice.
 
@@ -155,7 +155,7 @@ Y nótese qué pone Zacarías en la escena: un **sumo sacerdote**. La acusación
 
 Lo cual sugiere un mecanismo, y quiero enunciarlo con la fuerza correcta. Hebreos retrata a Yeshúa como gran sumo sacerdote que entra en el santuario celestial por medio de su propia sangre. Si ese sacrificio realiza una expiación definitiva, entonces la **base** de la acusación queda fundamentalmente alterada. No es superado por la fuerza. Es **respondido**.
 
-Pecado y acusación, después la sangre del Mesías, después sacerdocio celestial, después el acusador derribado, después reino y autoridad anunciados. Es notablemente coherente — y la coherencia no es prueba. No recuperé Hebreos para esto, y no estoy construyendo una doctrina sistemática a partir de imaginería.
+Pecado y acusación, después la sangre del Mesías, después sacerdocio celestial, después el acusador derribado, después reino y autoridad anunciados. Es notablemente coherente — y la coherencia no es prueba. No he trabajado Hebreos para esto, y no estoy construyendo una doctrina sistemática a partir de imaginería.
 
 ## Y entonces Apocalipsis vuelve más difícil mi cronología
 
@@ -164,27 +164,27 @@ Después del derribamiento viene una advertencia: alégrense los cielos, pero ay
 El diablo es derribado — e inmediatamente se vuelve **más** peligroso en la tierra, no menos.
 
 ::: evidence
-**Cuánto pesa la evidencia — contra mi propia hipótesis, y esta es la presión más fuerte de la investigación**
+**Derribado no es atado — contra mi propia hipótesis, y esta es la presión más fuerte de la investigación**
 
 | Apocalipsis 12 | Apocalipsis 20 |
 |-------------------------------|-----------------------------------------|
 | arrojado **del cielo a la tierra** | **prendido, atado, arrojado al abismo, sellado** |
 | **persiguiendo activamente** con gran ira | de modo que **no pueda engañar a las naciones** |
 
-**DERRIBADO NO ES ATADO.** Son descripciones distintas de condiciones distintas, y no puedo fundirlas.
+**Derribado no es atado.** Son descripciones distintas de condiciones distintas, y no puedo fundirlas.
 
-**CONTRADICE** — cualquier cronología de la forma *cruz, luego Satanás atado, luego el milenio empieza de inmediato.*
+La diferencia <span class="grade">contradice</span> cualquier cronología de la forma *cruz, luego Satanás atado, luego el milenio empieza de inmediato.*
 
 Si la cruz está atada al derribamiento de Apocalipsis 12, entonces después el dragón persigue a la mujer, hace guerra contra su descendencia, sigue furioso, y tiene algún poco tiempo restante. **Eso todavía no es la condición de Apocalipsis 20 de estar sellado para que no pueda engañar a las naciones.**
 
 Quizá el atamiento siga a estos acontecimientos. Quizá el capítulo 12 recapitule de otro modo. Lo que no está disponible es suponer la ecuación.
 
-Lo registro con tanta prominencia como cualquier cosa que apoye mi lectura, porque una versión de este proyecto que lo enterrara no valdría la pena conservarla.
+Lo registro con tanta prominencia como cualquier cosa que apoye mi lectura, porque una versión de este libro que lo enterrara no valdría la pena conservarla.
 :::
 
 ## Dos períodos cortos, y una corrección que no hice yo solo
 
-Trabajando esto me sorprendí fusionando calladamente dos cosas: el *poco tiempo* de Apocalipsis 12 y la *pequeña temporada* de Apocalipsis 20 después de los mil años.
+Trabajando esto me sorprendí fusionando calladamente dos cosas: el *poco tiempo* de Apocalipsis 12 y *el poco de tiempo* de Apocalipsis 20 después de los mil años.
 
 Puede que no sean lo mismo, y fue la estructura lo que lo expuso. Si el poco tiempo del capítulo 12 está conectado con la cruz, mientras el poco tiempo del capítulo 20 **sigue** a mil años, identificarlos crea un problema cronológico obvio.
 
@@ -198,15 +198,15 @@ El candidato más limpio es que el poco tiempo del capítulo 12 corra desde el d
 | Apocalipsis 12:12 | <span class="gr">ὀλίγον καιρόν</span> *(oligon kairon)* | poco tiempo |
 | Apocalipsis 20:3 | <span class="gr">μικρὸν χρόνον</span> *(mikron chronon)* | un poco de tiempo |
 
-Concepto parecido. Formulación distinta. Y, críticamente, <span class="gr">καιρός</span> y <span class="gr">χρόνος</span> son palabras diferentes — una distinción que ya importó en Apocalipsis 1:3, donde *el tiempo señalado está cerca* era más fuerte que *la duración será breve*.
+Concepto parecido. Formulación distinta. Y, críticamente, <span class="gr">καιρός</span> (*kairos*) y <span class="gr">χρόνος</span> (*chronos*) son palabras diferentes — una distinción que ya importó en Apocalipsis 1:3, donde *el tiempo señalado está cerca* era más fuerte que *la duración será breve*.
 
 No he leído el interlineal de estas dos, así que el punto léxico queda registrado y no apoyado.
 
-**El parecido se ha ganado la pregunta. No se ha ganado la identidad.** Esa es la regla propia de este proyecto, aplicada a su propia conveniencia, que es la única vez en que cuesta algo.
+**El parecido se ha ganado la pregunta. No se ha ganado la identidad.** Esa es la regla propia de este libro, aplicada a su propia conveniencia, que es la única vez en que cuesta algo.
 
 **La hipótesis resultante, registrada como hipótesis:** victoria y exaltación, después el dragón arrojado de su posición acusatoria, después un período corto de ira y persecución terrenal, después —en algún punto todavía no establecido— el atamiento, después los mil años, después la liberación por un poco de tiempo distinto, después el juicio final.
 
-🛑 **Y la bisagra sin resolver, enunciada en los términos más fuertes de que dispongo: nada establece todavía cuándo empieza el atamiento.** No puedo igualar ni la cruz ni el año 70 con el inicio de los mil años. Apocalipsis 20 tiene que establecer sus propios términos, y no se ha llegado a él.
+**Y la bisagra sin resolver, enunciada en los términos más fuertes de que dispongo: nada establece todavía cuándo empieza el atamiento.** No puedo igualar ni la cruz ni el año 70 con el inicio de los mil años. Apocalipsis 20 tiene que establecer sus propios términos, y no se ha llegado a él.
 :::
 
 ## La recapitulación se promueve — y sigue sin usarse
@@ -263,20 +263,12 @@ Noté que lo estaba forzando mientras lo hacía, y lo dije antes de que nada me 
 La conservo en vez de borrarla, porque una observación que no puedo explicar por ahora no es lo mismo que una observación equivocada — y porque borrar lo que no funcionó convertiría este registro en un folleto de ventas.
 :::
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Apocalipsis 12:1-17 se describe entero en este capítulo en vez de citarse, igual que Génesis 37:9, Lucas 10:18, Juan 12:31-32, Juan 16:11, Zacarías 3:1-2 y Marcos 3:17: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
-
-Las expresiones en negrita o en cursiva se dan como paráfrasis identificada y no como cita verificada de la Reina-Valera.
-
-La deuda pesa aquí sobre 12:11, que es el hallazgo central del capítulo, y sobre 12:12, que es la presión más fuerte en contra de mi propio modelo. Que las dos lleguen descritas es una pérdida real, y queda declarada.
-:::
+<!-- SPANISH-SPECIFIC: Apocalipsis 12:1-17 se describe entero en este capítulo en vez de citarse, igual que Génesis 37:9, Lucas 10:18, Juan 12:31-32, Juan 16:11, Zacarías 3:1-2 y Marcos 3:17: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Las expresiones en negrita o en cursiva se dan como paráfrasis identificada y no como cita verificada de la Reina-Valera. La deuda pesa aquí sobre 12:11, que es el hallazgo central del capítulo, y sobre 12:12, que es la presión más fuerte en contra de mi propio modelo. Que las dos lleguen descritas es una pérdida real, y queda declarada. -->
 
 ::: whereweare
-**Dónde estamos.** Apocalipsis identifica explícitamente al dragón como Satanás, lo cual prueba que el libro identifica lo que se propone identificar y confirma que sus silencios en otros lugares hay que respetarlos. El hijo es el Mesías, y la visión pasa de su nacimiento directamente a su entronización — demostrando dentro de Apocalipsis que comprime la historia cuando su propósito es teológico. La guerra en el cielo la interpreta el texto mismo a través de la sangre del Cordero y no a través del combate, vindicando una corrección a la que yo había razonado antes de llegar al versículo. Frente a eso está la presión más dura que ha producido esta investigación: derribado no es atado. El dragón llega a la tierra con gran ira y con poco tiempo, que no es la condición sellada de Apocalipsis 20 — de modo que *cruz, luego milenio* no queda apoyado por este capítulo. La recapitulación está ahora mejor apoyada estructuralmente, y sigue sin usarse para disolver la tensión que dejé en pie el capítulo pasado. Y nada establece todavía cuándo empieza el atamiento.
+**Dónde nos deja esto.** Apocalipsis identifica explícitamente al dragón como Satanás, lo cual prueba que el libro identifica lo que se propone identificar y confirma que sus silencios en otros lugares hay que respetarlos. El hijo es el Mesías, y la visión pasa de su nacimiento directamente a su entronización — demostrando dentro de Apocalipsis que comprime la historia cuando su propósito es teológico. La guerra en el cielo la interpreta el texto mismo a través de la sangre del Cordero y no a través del combate, vindicando una corrección a la que yo había razonado antes de llegar al versículo. Frente a eso está la presión más dura que ha producido esta investigación: derribado no es atado. El dragón llega a la tierra con gran ira y con poco tiempo, que no es la condición sellada de Apocalipsis 20 — de modo que *cruz, luego milenio* no queda apoyado por este capítulo. La recapitulación está ahora mejor apoyada estructuralmente, y sigue sin usarse para disolver la tensión que dejé en pie el capítulo pasado. Y nada establece todavía cuándo empieza el atamiento.
 :::
 
 ::: earned
-**Lo que se ganó.** Las preguntas más antiguas de esta investigación, respondidas en su turno en vez de saqueadas antes de tiempo — y respondidas de un modo que me costó una cronología que venía medio suponiendo. El mecanismo de la victoria es la sangre del Cordero. El derribamiento no es el atamiento. Y lo único que más necesito, el inicio de los mil años, es exactamente lo que Apocalipsis 12 se niega a darme.
+**La pregunta que esto deja.** Las preguntas más antiguas de esta investigación, respondidas en su turno en vez de saqueadas antes de tiempo — y respondidas de un modo que me costó una cronología que venía medio suponiendo. El mecanismo de la victoria es la sangre del Cordero. El derribamiento no es el atamiento. Y lo único que más necesito, el inicio de los mil años, es exactamente lo que Apocalipsis 12 se niega a darme.
 :::

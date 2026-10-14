@@ -17,15 +17,13 @@ Esperaba que las preguntas difíciles empezaran con bestias, sellos, trompetas y
 En vez de eso, el libro fue contra mi cronología antes de que la primera visión hubiera comenzado del todo, y lo hizo en sus propias frases de apertura. Eso es lo más desorientador de llegar a Apocalipsis con honestidad, en lugar de llegar al capítulo veinte con un diagrama ya dibujado.
 
 ::: textualnote
-**Nota textual — la deuda de esta Parte, declarada antes de empezar**
+**Nota textual — la base castellana de esta Parte, y por qué Apocalipsis casi siempre se describe**
 
 Esta edición está construida sobre la **Reina-Valera 1960**, con la **RVA-2015** como segundo testigo castellano en los versículos donde la traducción misma carga el argumento. Toda nota de divergencia que aparezca en esta Parte vale contra esa base declarada y contra ninguna otra.
 
-Y hay que decir de entrada lo que eso cuesta aquí. En la documentación de este proyecto, **el único pasaje de Apocalipsis verificado palabra por palabra en castellano es Apocalipsis 20**. Todo lo demás del libro —capítulos 1 a 19, 21 y 22— se describe en esta Parte en vez de citarse.
+Y hay que decir de entrada lo que eso implica aquí. De Apocalipsis cito palabra por palabra solo los pasajes cuyo texto RVR1960 tengo verificado: partes de los capítulos 17 y 18 (en el capítulo 38) y partes de Apocalipsis 20 (en el 39). Todo lo demás del libro se describe en esta Parte en vez de citarse, y las expresiones breves en cursiva son paráfrasis identificada, no cita de la Reina-Valera.
 
-No es una preferencia de estilo. Esta edición no traduce al castellano una cita tomada de una Biblia inglesa para después presentarla como Reina-Valera. Prefiero que se vea la deuda a fabricar el texto.
-
-Es la deuda más pesada del manuscrito hasta ahora, precisamente porque esta es la Parte que recorre un libro entero. Queda declarada en cada capítulo, y registrada.
+No es una preferencia de estilo. Esta edición no traduce al castellano una cita tomada de una Biblia inglesa para después presentarla como Reina-Valera. Prefiero describir a fabricar el texto.
 :::
 
 ## Dos afirmaciones de tiempo en tres versículos, y la segunda es la más dura
@@ -33,17 +31,17 @@ Es la deuda más pesada del manuscrito hasta ahora, precisamente porque esta es 
 Apocalipsis 1:1 dice que lo mostrado a los siervos son las cosas que deben suceder **pronto**. Apocalipsis 1:3 pronuncia bienaventuranza sobre quien lee en voz alta y sobre quienes oyen, **porque el tiempo está cerca**.
 
 ::: wordstudy
-**Estudio de palabras — <span class="gr">ἐν τάχει</span> y <span class="gr">ὁ καιρὸς ἐγγύς</span>**
+**Estudio de palabras — <span class="gr">ἐν τάχει</span> (*en tachei*) y <span class="gr">ὁ καιρὸς ἐγγύς</span> (*ho kairos engys*)**
 
-<span class="gr">ἐν τάχει</span> *(en tachei)* en 1:1 — *pronto*, *con rapidez*. Y aquí va el freno, enunciado antes de que use la palabra para nada: *en tachei* también puede significar *que ocurre rápidamente una vez que empieza*. *Pronto* crea presión temporal. No zanja por sí solo veintidós capítulos.
+<span class="gr">ἐν τάχει</span> (*en tachei*) en 1:1 — *pronto*, *con rapidez*. Y aquí va el freno, enunciado antes de que use la palabra para nada: *en tachei* también puede significar *que ocurre rápidamente una vez que empieza*. *Pronto* crea presión temporal. No zanja por sí solo veintidós capítulos.
 
-<span class="gr">ὁ καιρὸς ἐγγύς</span> *(ho kairos engys)* en 1:3 es la más fuerte de las dos, y la fuerza está en el sustantivo. <span class="gr">καιρός</span> es el **tiempo señalado**, no <span class="gr">χρόνος</span>, la duración.
+<span class="gr">ὁ καιρὸς ἐγγύς</span> (*ho kairos engys*) en 1:3 es la más fuerte de las dos, y la fuerza está en el sustantivo. <span class="gr">καιρός</span> (*kairos*) es el **tiempo señalado**, no <span class="gr">χρόνος</span> (*chronos*), la duración.
 
 De modo que 1:3 no dice *la duración será breve*. Dice **el tiempo señalado está cerca**.
 
 Eso es bastante más difícil de neutralizar como *cuando por fin ocurra, ocurrirá rápido*.
 
-⚠️ Y una precisión que corresponde a esta edición: el castellano no necesita aquí ninguna nota sobre un auxiliar modal, porque no lo hay. La cuestión es léxica —qué sustantivo eligió Juan— y esa cuestión es idéntica en las dos ediciones, porque está en el griego.
+Y una precisión que corresponde a esta edición: el castellano no necesita aquí ninguna nota sobre un auxiliar modal, porque no lo hay. La cuestión es léxica —qué sustantivo eligió Juan— y esa cuestión es idéntica en las dos ediciones, porque está en el griego.
 :::
 
 ## Para quién dice el libro que es
@@ -74,7 +72,7 @@ Aquí es donde mis supuestos empezaron a deshacerse, y se deshicieron sobre fras
 
 **Y la cristología de resurrección llega antes que cualquier visión de resurrección.** *Estuve muerto; mas he aquí que vivo por los siglos de los siglos… y tengo las llaves de la muerte y del Hades* (1:18). Diga lo que diga Apocalipsis 20 sobre la resurrección, no puede interpretarse aislado de esto.
 
-## La venida de 1:7, y la tarea que la pagó
+## La venida de 1:7, y el trabajo previo que hay detrás
 
 Apocalipsis 1:7 anuncia que viene con las nubes, que todo ojo le verá, también los que le traspasaron, y que todos los linajes de la tierra harán lamentación por él.
 
@@ -103,12 +101,12 @@ Cuando Apocalipsis define explícitamente uno de sus propios símbolos, esa defi
 
 Lo que establece: dentro de esta visión, **estrella significa ángel**. Lo dijo Apocalipsis.
 
-Lo que **no** establece: un diccionario universal en el que toda estrella en todas partes signifique un ángel. El contexto sigue gobernando. Ese es el error del diccionario rígido que este libro viene evitando desde el capítulo 2, y no voy a cometerlo ahora solo porque Apocalipsis me entregó una definición que me gusta.
+Lo que **no** establece: un diccionario universal en el que toda estrella en todas partes signifique un ángel. El contexto sigue gobernando. Ese es el error del diccionario rígido que este libro viene evitando desde la Parte II, y no voy a cometerlo ahora solo porque Apocalipsis me entregó una definición que me gusta.
 
 Sí refuerza algo posterior sin zanjarlo. Puesto que Juan demostrablemente *puede* usar estrellas para seres angélicos, la lectura angélica de la cola del dragón que arrastra la tercera parte de las estrellas se vuelve bastante más plausible. Plausible no es establecido. Apocalipsis 12 tendrá que ganárselo.
 :::
 
-## El contraste con Daniel, ahora cobrando
+## El contraste con Daniel, ahora puesto a trabajar
 
 A Daniel se le mandó sellar las palabras hasta el tiempo del fin, dos veces. Apocalipsis abre diciendo que sus cosas deben suceder pronto y que su tiempo señalado está cerca, y más adelante recibirá el mandato de **no** sellar, porque el tiempo está cerca.
 
@@ -117,13 +115,13 @@ A Daniel se le mandó sellar las palabras hasta el tiempo del fin, dos veces. Ap
 **No justificado:** por lo tanto todo lo que llega hasta Apocalipsis 22 ocurrió antes del año 70. Lo primero sale del texto. Lo segundo requiere mucho más trabajo del que aporta la primera frase.
 
 ::: evidence
-**Cuánto pesa la evidencia — el conjunto acumulado, antes de cualquier argumento preterista**
+**El conjunto acumulado, antes de cualquier argumento preterista**
 
 Puesto sin apelar a ningún sistema: *pronto* · *el tiempo señalado está cerca* · siete asambleas históricas en Asia · *los que le traspasaron* · Juan mismo dentro de tribulación y reino · una venida en nubes danielica · el luto de Zacarías · y la reversión deliberada del mandato de sellar de Daniel.
 
 Una lectura de futuro lejano tiene que explicar **ese conjunto**. No se responde con *para el Señor mil años son como un día*, porque Apocalipsis no se escribió para informarle a Yahvé qué hora era. Se escribió a congregaciones humanas, y pronunció bienaventuranza sobre **ellas** por oírlo **porque** el tiempo estaba cerca.
 
-**APOYA** — un horizonte sustancialmente más cercano al tiempo de Juan que lo que permiten los esquemas con los que crecí.
+El conjunto <span class="grade">apoya</span> un horizonte sustancialmente más cercano al tiempo de Juan que lo que permiten los esquemas con los que crecí.
 
 **Y la regla que sale de ahí:** una sola palabra como *pronto* puede admitir flexibilidad semántica. Varios indicadores temporales independientes dentro de una misma obra —pronto, cerca, destinatarios contemporáneos, participantes contemporáneos, referentes generacionales— deben pesarse **de manera acumulada**, no neutralizarse de uno en uno.
 :::
@@ -132,19 +130,19 @@ Y el preterismo no saca de ahí ninguna victoria gratis. Apocalipsis 1 también 
 
 ## La condición de falsación, escrita antes de interpretar una sola visión
 
-Esto lo prometí en la Parte V y ahora vence. Escribirlo después lo convertiría en una retirada con mejores modales.
+Esto lo prometí en la Parte V, y este es su lugar. Escribirlo después lo convertiría en una retirada con mejores modales.
 
 ::: claimtypes
 **Qué me haría decir que la hipótesis no sobrevive al texto**
 
-La hipótesis de trabajo es la lectura de la pequeña temporada posmilenial: un marco fuerte de cumplimiento en el primer siglo, más la afirmación de que los mil años de Apocalipsis 20 **también** ya ocurrieron, y de que el presente correspondería a la pequeña temporada de Satanás.
+La hipótesis de trabajo es la lectura posmilenial del poco de tiempo: un marco fuerte de cumplimiento en el primer siglo, más la afirmación de que los mil años de Apocalipsis 20 **también** ya ocurrieron, y de que el presente correspondería al poco de tiempo de Satanás.
 
 Falla si resulta cierto cualquiera de estos puntos:
 
 1. **Apocalipsis define su propia primera resurrección de un modo que exige una resurrección corporal que no puedo ubicar en la historia**, y el texto no admite una lectura no corporal por su propia evidencia en vez de por mi necesidad.
 2. **La secuencia propia de Apocalipsis prohíbe que el milenio sea pasado** — por ejemplo, si el libro ata demostrablemente los mil años a acontecimientos que claramente no han ocurrido.
 3. **Los sellos, las trompetas o las copas exigen acontecimientos demostrablemente más allá del horizonte del primer siglo**, y la exigencia viene del texto y no de mi falta de familiaridad con la imaginería.
-4. **Las naciones, la pequeña temporada y Gog y Magog no pueden hacerse coherentes** con un milenio pasado sin inventar un mecanismo que Apocalipsis nunca aporta.
+4. **Las naciones, el poco de tiempo y Gog y Magog no pueden hacerse coherentes** con un milenio pasado sin inventar un mecanismo que Apocalipsis nunca aporta.
 5. **Me descubro redefiniendo un término específicamente para rescatar el modelo.** Esa es una condición sobre mí y no sobre el texto, y es la más probable de las cinco.
 
 Si el libro no aporta lo que la hipótesis necesita, lo que cede es la hipótesis. Prefiero haberlo escrito aquí, donde me cuesta algo, a descubrir su ausencia en el capítulo veinte.
@@ -156,7 +154,7 @@ Yo tenía una sola categoría mental rotulada *la Segunda Venida*, y todo lengua
 
 A Éfeso: arrepiéntete, o *vendré pronto a ti, y quitaré tu candelero de su lugar* (2:5). La venida apunta a **una congregación**, y quita **su** candelero — y 1:20 ya me dijo que los candeleros son las iglesias. El sentido natural es una visitación disciplinaria contra Éfeso si se niega a arrepentirse.
 
-A Pérgamo: arrepiéntete; si no, vendré pronto y pelearé contra ellos con la espada de su boca (2:16). Asamblea específica, ofensores específicos, venida amenazada, juicio a continuación. Y otra vez *pronto* — <span class="gr">ταχύ</span>. El vocabulario temporal de Apocalipsis no está confinado al prólogo; ya reaparece dentro de las cartas.
+A Pérgamo: arrepiéntete; si no, vendré pronto y pelearé contra ellos con la espada de su boca (2:16). Asamblea específica, ofensores específicos, venida amenazada, juicio a continuación. Y otra vez *pronto* — <span class="gr">ταχύ</span> (*tachy*). El vocabulario temporal de Apocalipsis no está confinado al prólogo; ya reaparece dentro de las cartas.
 
 Y a Sardis, la que lo zanja: si no vela, vendrá **como ladrón**, y Sardis no sabrá a qué hora vendrá sobre ella (3:3).
 
@@ -316,20 +314,12 @@ La concepción de conquista que tiene el mundo es dominar al enemigo. El Cordero
 
 Eso protege contra leer el libro entero al revés en clave política. Empezar por bestias, guerras y reinos podría sugerir que el mensaje es que el pueblo del Mesías termina adquiriendo suficiente poder mundano para derrotar a sus enemigos. Los capítulos 1 al 5 establecen casi lo contrario. El trono ya es de Yahvé. El Mesías ya reina. Por lo tanto el poder aparente de las bestias es subordinado y temporal desde el principio — y esa es la arquitectura antes de que ocurra ninguna batalla.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Apocalipsis 1:1-20, 2:1-3:22 y 4:1-5:14 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
-
-Las frases breves que aparecen entre comillas se dan como paráfrasis identificada y no como cita verificada de la Reina-Valera.
-
-La deuda es especialmente visible en 3:21, que es el hallazgo central de este capítulo y descansa sobre dos verbos en pasado. Queda declarada y registrada.
-:::
+<!-- SPANISH-SPECIFIC: Apocalipsis 1:1-20, 2:1-3:22 y 4:1-5:14 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Las frases breves que aparecen entre comillas se dan como paráfrasis identificada y no como cita verificada de la Reina-Valera. La deuda es especialmente visible en 3:21, que es el hallazgo central de este capítulo y descansa sobre dos verbos en pasado. Queda declarada y registrada. -->
 
 ::: whereweare
-**Dónde estamos.** Apocalipsis declara dos veces su propio marco temporal antes de cualquier visión —*pronto*, y *el tiempo señalado está cerca*—, se dirige a siete congregaciones reales y bendice a la asamblea que lo oye leer porque el tiempo está cerca. El Mesías ya es soberano de los reyes de la tierra, ya ha vencido y se ha sentado, y ya ha hecho de su pueblo reino y sacerdotes; Juan ya comparte tribulación y reino. De modo que el lenguaje de reino y reinado no puede por sí solo identificar los mil años de Apocalipsis 20, y la pregunta de qué distingue ese reinado del ya presente es ahora la pregunta abierta central de esta Parte. Apocalipsis además define algunos de sus propios símbolos, redefine la conquista como el Cordero inmolado y en pie, y advierte con sus propias venidas condicionales que *venir* toma su alcance del contexto. Lo que nada de eso establece es que todo lo que llega hasta el capítulo 22 quede detrás de Juan. El conjunto temporal acumulado es real; también lo es la enorme narrativa que falta.
+**Dónde nos deja esto.** Apocalipsis declara dos veces su propio marco temporal antes de cualquier visión —*pronto*, y *el tiempo señalado está cerca*—, se dirige a siete congregaciones reales y bendice a la asamblea que lo oye leer porque el tiempo está cerca. El Mesías ya es soberano de los reyes de la tierra, ya ha vencido y se ha sentado, y ya ha hecho de su pueblo reino y sacerdotes; Juan ya comparte tribulación y reino. De modo que el lenguaje de reino y reinado no puede por sí solo identificar los mil años de Apocalipsis 20, y la pregunta de qué distingue ese reinado del ya presente es ahora la pregunta abierta central de esta Parte. Apocalipsis además define algunos de sus propios símbolos, redefine la conquista como el Cordero inmolado y en pie, y advierte con sus propias venidas condicionales que *venir* toma su alcance del contexto. Lo que nada de eso establece es que todo lo que llega hasta el capítulo 22 quede detrás de Juan. El conjunto temporal acumulado es real; también lo es la enorme narrativa que falta.
 :::
 
 ::: earned
-**Lo que se ganó.** Una condición de falsación escrita antes de interpretar una sola visión, una hipótesis sobre el capítulo 5 con su propia condición de fracaso adjunta, y la pérdida de un argumento en el que yo no sabía que me estaba apoyando: que el lenguaje de reinado marque el milenio. El libro está a punto de abrir el primer sello, y ya no puedo entrar con mi diagrama debajo del brazo.
+**La pregunta que esto deja.** Una condición de falsación escrita antes de interpretar una sola visión, una hipótesis sobre el capítulo 5 con su propia condición de fracaso adjunta, y la pérdida de un argumento en el que yo no sabía que me estaba apoyando: que el lenguaje de reinado marque el milenio. El libro está a punto de abrir el primer sello, y ya no puedo entrar con mi diagrama debajo del brazo.
 :::

@@ -198,7 +198,7 @@ Against Matthew:
 | **Revelation 16:6** | they shed **the blood of saints and prophets** |
 | **Revelation 18:24** | in her: **blood of prophets and saints, and of all who have been slain on earth** |
 
-The first and third lines are nearly verbatim, and only one of the two texts names a city.
+The first and third lines are closely parallel — spilled blood and *the earth* — though they are not verbatim, and only one of the two texts names a city.
 
 This is the strongest single datum in the Jerusalem column. It is not a trivial parallel and I am not going to undersell it.
 
@@ -262,7 +262,7 @@ Not a verdict. An evidentiary matrix, with each candidate required to face the d
 | Slaves, *human souls* (18:13) | **strong** | possible, weaker |
 | Persecution of the saints (17:6) | strong | strong |
 | The blood of prophets (18:24) | possible | **very strong** |
-| *All who have been slain on earth* ≈ Matthew 23:35 | possible | **very strong, near-verbatim** |
+| *All who have been slain on earth* ≈ Matthew 23:35 | possible | **very strong, though not verbatim** |
 | Prostitute-city imagery | possible | **very strong — Isaiah 1, Ezekiel 16, Ezekiel 23** |
 | Lovers turn, strip and destroy her (17:16) | possible | **strong — Ezekiel 16:37–39 structural match** |
 | Adultery *and* bloodshed charged together | possible | **strong — Isaiah 1:21, Ezekiel 16:38** |
@@ -331,7 +331,7 @@ That discomfort was useful. A theory that explains only its favourite verses is 
 Perhaps one candidate eventually wins. Perhaps John's symbolism deliberately overlays covenant apostasy and imperial power, in which case the argument has been a false alternative for centuries. What I can say is that Revelation has just handed me the next test, and it is a fair one: **identify the beast without using Babylon to do it, then come back and see which woman can actually ride it.**
 
 ::: whereweare
-**Where this leaves us.** Babylon has been explained and not identified. Revelation interprets its own waters, calls her name a mystery, and has already shown that it renames cities spiritually — so *Babylon* need not be the city's ordinary name. The woman is structurally distinct from the beast she rides and is destroyed by it, which constrains every candidate and complicates the simplest Rome reading at a specific point. Jerusalem's column gained its strongest evidence here, in Ezekiel 16's structural match and in Revelation 18:24's near-verbatim landing on Matthew 23 — with the Greek behind that parallel still unread and flagged against my own interest. Rome's column gained counterevidence that genuinely hurts: silk, ivory, marble, shipmasters, sailors and a slave trade do not anchor to an inland city. Seven kings may be a dating control and is currently a number-fitting trap with its sources not yet supplied. Neither column owns the whole matrix, and the identification of the beast — made independently — is now the thing that would break the deadlock.
+**Where this leaves us.** Babylon has been explained and not identified. Revelation interprets its own waters, calls her name a mystery, and has already shown that it renames cities spiritually — so *Babylon* need not be the city's ordinary name. The woman is structurally distinct from the beast she rides and is destroyed by it, which constrains every candidate and complicates the simplest Rome reading at a specific point. Jerusalem's column gained its strongest evidence here, in Ezekiel 16's structural match and in Revelation 18:24's close, though not verbatim, parallel with Matthew 23 — with the Greek behind that parallel still unread and flagged against my own interest. Rome's column gained counterevidence that genuinely hurts: silk, ivory, marble, shipmasters, sailors and a slave trade do not anchor to an inland city. Seven kings may be a dating control and is currently a number-fitting trap with its sources not yet supplied. Neither column owns the whole matrix, and the identification of the beast — made independently — is now the thing that would break the deadlock.
 :::
 
 ::: earned

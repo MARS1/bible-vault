@@ -14,7 +14,7 @@ related: "[[10-manuscript-architecture]], [[02b-revelation-13-the-beasts-the-mar
 
 Me detuve deliberadamente antes de este capítulo.
 
-Esa pausa es la razón por la que puedo leerlo siquiera. Porque si hubiera descifrado el 666 primero, la fecha de composición se habría seguido del descifrado, y la fecha habría después "confirmado" el descifrado — dos conclusiones sosteniéndose una a la otra sin nada debajo. Así que puse una regla una etapa antes: **el 666 no puede datar el libro, y la fecha del libro no puede descifrar el 666.** Tienen que converger de manera independiente o no converger.
+Esa pausa es la razón por la que puedo leerlo siquiera. Porque si hubiera descifrado el 666 primero, la fecha de composición se habría seguido del descifrado, y la fecha habría después "confirmado" el descifrado — dos conclusiones sosteniéndose una a la otra sin nada debajo. Así que puse una regla de antemano: **el 666 no puede datar el libro, y la fecha del libro no puede descifrar el 666.** Tienen que converger de manera independiente o no converger.
 
 Este capítulo es la primera prueba real de esa regla, y voy a ser ostensible sobre dónde se sostiene.
 
@@ -153,7 +153,7 @@ Eso es mucho más fuerte que *los falsos profetas hacen milagros fingidos*. La E
 
 **La regla:** la ocurrencia de una señal extraordinaria no puede autenticar por sí sola a un mensajero cuyo mensaje o cuya lealtad contradicen la verdad revelada de Yahvé.
 
-Es una continuidad mayor de la Torá a Apocalipsis, y tiene una aplicación contemporánea obvia que no voy a gastar en este capítulo.
+Es una continuidad mayor de la Torá a Apocalipsis, y tiene una aplicación contemporánea obvia que no voy a desarrollar en este capítulo.
 :::
 
 Sigue la imagen: se manda hacer una imagen a la bestia, a la segunda bestia se le permite infundirle aliento para que hable, y los que no la adoran son muertos.
@@ -179,7 +179,7 @@ La imaginería propia de la Escritura para mano y frente ya carga: **mano** → 
 
 **La regla:** cuando Apocalipsis pone marcas en la mano o en la frente, interpretar la imaginería primero a través del vocabulario pactual existente de la Escritura y de los sellos opuestos del propio Apocalipsis, antes de proponer un mecanismo tecnológico posterior.
 
-⚠️ Esto **no** prejuzga entre manifestación literal y simbólica. Conserva el orden de la investigación.
+Esto **no** prejuzga entre manifestación literal y simbólica. Conserva el orden de la investigación.
 
 **Y Apocalipsis ya ha marcado al pueblo de Yahvé.** El capítulo 7 selló a sus siervos en la frente. El capítulo 14 tiene a los 144.000 del Cordero con su nombre y el nombre del Padre escritos en la frente.
 
@@ -203,13 +203,13 @@ Así que el 666 no es un símbolo místico flotando suelto por fuera del lenguaj
 ## Nerón se vuelve candidato serio, y solamente candidato
 
 ::: person
-**NERÓN · emperador romano, reinó del 54 al 68 d. C.**
+**Nerón · emperador romano, reinó del 54 al 68 d. C.**
 
 Emperador durante el período en que caería la mayoría de las dataciones de Apocalipsis en el primer siglo. Fuentes romanas informan que culpó a los cristianos del incendio de Roma del año 64 y los hizo ejecutar. **Extrabíblico: no se lo nombra en ninguna parte de la Escritura.** Aparece aquí porque su nombre, escrito con letras hebreas, es la solución más propuesta para el número de la bestia.
 :::
 
 ::: person
-**DOMICIANO · emperador romano, reinó del 81 al 96 d. C.**
+**Domiciano · emperador romano, reinó del 81 al 96 d. C.**
 
 El emperador bajo el cual la tradición posterior sitúa el destierro de Juan y la escritura de Apocalipsis. **Extrabíblico, y tampoco nombrado en la Escritura.** Todo el caso de la fecha tardía pasa por su reinado, que es la razón por la que el testimonio sobre él se pesa con tanto cuidado más abajo.
 :::
@@ -219,27 +219,27 @@ La propuesta es que una grafía hebrea de *Nerón César* da valores de letras q
 Y algunos manuscritos antiguos de Apocalipsis leen **616** en vez de 666.
 
 ::: evidence
-**Cuánto pesa la evidencia — y por qué la variante es la parte interesante**
+***Nerón César*, 666 y 616 — por qué la variante es la parte interesante**
 
-⚠️ **Todo en esta sección está reportado, no verificado.** No he examinado la evidencia manuscrita ni realizado el cálculo hebreo desde fuentes primarias, y se sostiene con ese peso.
+**Todo en esta sección está reportado, no verificado.** No he examinado la evidencia manuscrita ni realizado el cálculo hebreo desde fuentes primarias, y se sostiene con ese peso.
 
 **Por qué la variante importa metodológicamente.** Supóngase que solo existiera el 666. Alguien podría decir con razón que manipulé una grafía hasta que produjo el número que yo quería, y sería difícil de responder, porque un intérprete decidido casi siempre puede encontrar una grafía que funcione. Un cálculo de gematría aislado es en la práctica infalsable.
 
 Pero si una tradición textual temprana contiene **independientemente** el 616, y la grafía alternativa del mismo nombre propuesto da 616, eso es otra clase de evidencia — **un hecho sobre documentos, que existe quiera o no quiera alguien.**
 
-**APOYA** — a Nerón como candidato serio, y es la razón más fuerte por la que no puede descartarse como invención preterista.
+La variante <span class="grade">apoya</span> a Nerón como candidato serio, y es la razón más fuerte por la que no puede descartarse como invención preterista.
 
-🛑 **Y sigue sin probar que Nerón sea la bestia.**
+**Y sigue sin probar que Nerón sea la bestia.**
 
 Lo que hay que probar antes de aceptarlo: el escenario histórico, las cabezas y los reyes de Apocalipsis 17, la herida, la persecución, los cuarenta y dos meses, el sistema de adoración, las restricciones económicas, y si la datación permite siquiera la identificación. **Ningún cálculo aislado puede cargar todo el caso.**
 
 ::: person
-**IRENEO · c. 130–202 d. C.**
+**Ireneo · c. 130–202 d. C.**
 
 Obispo y escritor cristiano temprano, de la generación posterior a la era apostólica. Su *Contra las herejías* conserva testimonio temprano importante sobre creencias y tradiciones cristianas, incluidas observaciones sobre el número de Apocalipsis y sobre cuándo se vio la visión. **Un testigo histórico extrabíblico — no Escritura.**
 :::
 
-⚠️ **Y una complicación que tengo que señalar en vez de ocultar.** Ireneo es un testigo clave para la fecha tardía — *y* discute el número y la variante. La investigación de la datación y la del 666 **comparten una fuente.** Eso vuelve más difícil, no más fácil, mantenerlas analíticamente independientes, y por lo tanto más importante que si hubieran sido separadas.
+**Y una complicación que tengo que señalar en vez de ocultar.** Ireneo es un testigo clave para la fecha tardía — *y* discute el número y la variante. La investigación de la datación y la del 666 **comparten una fuente.** Eso vuelve más difícil, no más fácil, mantenerlas analíticamente independientes, y por lo tanto más importante que si hubieran sido separadas.
 :::
 
 Y aun si el número identificara a Nerón personalmente, Daniel ya mostró que una bestia puede representar un **reino** mientras sus cabezas y cuernos representan **reyes**. Así que *la bestia es igual a Nerón y nada más* no se sigue. La posibilidad danielicamente más coherente es: bestia como reino o sistema imperial, Nerón como una cabeza particular identificada por el número. Apocalipsis 17 dice explícitamente que sus cabezas son montes **y** reyes, de modo que los referentes en capas son algo que el libro mismo reclama.
@@ -255,19 +255,19 @@ Y aun si el número identificara a Nerón personalmente, Daniel ya mostró que u
 ## Lo que la historia independiente aporta de hecho — y lo que quita
 
 ::: person
-**TÁCITO · c. 56–120 d. C.**
+**Tácito · c. 56–120 d. C.**
 
 Senador e historiador romano. **No era cristiano y no escribía para defender afirmaciones cristianas**, que es exactamente por lo que su informe sobre el trato de Nerón a los cristianos tras el incendio del 64 tiene aquí un peso independiente.
 :::
 
 ::: person
-**EUSEBIO DE CESAREA · c. 260–339 d. C.**
+**Eusebio de Cesarea · c. 260–339 d. C.**
 
 Obispo e historiador cristiano temprano cuya *Historia eclesiástica* conserva citas e informes de escritores cristianos anteriores, incluido material que ya no sobrevive de manera independiente. Escribió siglos después de los apóstoles. **Una fuente histórica, no una autoridad bíblica** — y la distancia entre él y los hechos que informa es parte de lo que esta sección tiene que pesar.
 :::
 
 ::: historical
-**Contexto histórico — Nerón, las asambleas de Asia y la contraevidencia**
+**Nerón, las asambleas de Asia y la contraevidencia**
 
 **Restricción permanente, que gobierna todo lo de este recuadro:** el material histórico puede **constreñir** una lectura de la Escritura. Nunca puede **aportarla**.
 
@@ -275,13 +275,13 @@ Obispo e historiador cristiano temprano cuya *Historia eclesiástica* conserva c
 
 De modo que la historia aporta independientemente una persecución imperial mayor dentro exactamente del período que se está probando. **Eso es correspondencia, no identificación.**
 
-🛑 **Y aquí es donde los argumentos se vuelven sospechosamente ordenados.** La persecución de Nerón se asocia convencionalmente con acontecimientos que comienzan después del incendio del 64; murió en junio del 68. Según qué mes se elija como inicio, puede fabricarse algo cercano a cuarenta y dos meses.
+**Y aquí es donde los argumentos se vuelven sospechosamente ordenados.** La persecución de Nerón se asocia convencionalmente con acontecimientos que comienzan después del incendio del 64; murió en junio del 68. Según qué mes se elija como inicio, puede fabricarse algo cercano a cuarenta y dos meses.
 
 No lo estoy haciendo. **Tácito establece una persecución después del incendio. No da duración alguna ni fecha final alguna.** El familiar "64-68" es un intervalo **construido** —un comienzo atestiguado emparejado con la muerte del emperador— no uno reportado. Eso es una prueba, no un resultado.
 
 **Y la fuente más temprana dice menos de lo que recuerda la tradición.** *1 Clemente* — **una carta enviada desde la asamblea de Roma hacia finales del primer siglo, extrabíblica y anónima en la carta misma, asociada por tradición a un Clemente de Roma** — recuerda a Pedro y a Pablo como columnas martirizadas. **No** nombra a Nerón. No nombra a Roma. No dice que Pedro fuera crucificado, menos aún cabeza abajo. No dice que Pablo fuera decapitado. La muerte de Pablo es *bajo los prefectos* — un cargo, no un emperador. Las tradiciones específicas aparecen en fuentes posteriores, y esas son un nivel evidenciario distinto que no puede fundirse en una sola certeza.
 
-🛑 **LA CONTRAEVIDENCIA, CON LA MISMA PROMINENCIA QUE EL APOYO, porque la produjo la evidencia y no el deseo de la hipótesis.**
+**La contraevidencia, con la misma prominencia que el apoyo, porque la produjo la evidencia y no el deseo de la hipótesis.**
 
 Eusebio sitúa el destierro de Juan a Patmos bajo **Domiciano**, y cita a **Ireneo** diciendo que la visión fue vista *casi en nuestra propia generación, hacia el final del reinado de Domiciano*. Reporta además que Juan regresó del destierro a Éfeso después de Nerva, según *una antigua tradición cristiana*.
 
@@ -298,7 +298,7 @@ Eso produce una bifurcación genuina, y ninguna rama tiene prioridad por ser má
 
 **A — Apocalipsis temprano.** Victoria del Mesías, dragón derribado, misión y persecución apostólicas, persecución bestial, número de mártires acercándose a su plenitud, juicio de Jerusalén, atamiento posterior, milenio. Textualmente atractiva; depende mucho de una fecha temprana; y la tradición domicianea es presión directa en contra.
 
-**B — Apocalipsis posterior.** La persecución del primer siglo y el juicio de Jerusalén ya ocurrieron, y Apocalipsis, escrito después, los recapitula o los incorpora simbólicamente mientras apunta hacia un cumplimiento ulterior. Más plausible si la tradición domicianea sobrevive al escrutinio — y notablemente **no es una derrota para este proyecto**, puesto que la recapitulación ya está cada vez más apoyada por motivos internos.
+**B — Apocalipsis posterior.** La persecución del primer siglo y el juicio de Jerusalén ya ocurrieron, y Apocalipsis, escrito después, los recapitula o los incorpora simbólicamente mientras apunta hacia un cumplimiento ulterior. Más plausible si la tradición domicianea sobrevive al escrutinio — y notablemente **no es una derrota para esta investigación**, puesto que la recapitulación ya está cada vez más apoyada por motivos internos.
 
 **C — en capas.** Apocalipsis combina acontecimientos fundacionales pasados, las circunstancias presentes de Juan, y realidades consumativas futuras, por medio de recapitulación y prolepsis. Ya he demostrado que Apocalipsis puede comprimir y revisitar la cronología.
 
@@ -333,23 +333,15 @@ Cada generación ha identificado la marca con lo que le parecía más aterrador 
 
 **Cualquier interpretación que requiera una tecnología incomprensible e indisponible para la audiencia original carga con una carga de prueba sustancial.**
 
-⚠️ Y el límite, enunciado con claridad para que no se malentienda: eso **no** significa que los sistemas modernos no puedan volverse opresivos. Significa que el parecido moderno no establece el referente histórico de Apocalipsis. Son afirmaciones distintas, y solo una de las dos me corresponde hacer aquí.
+Y el límite, enunciado con claridad para que no se malentienda: eso **no** significa que los sistemas modernos no puedan volverse opresivos. Significa que el parecido moderno no establece el referente histórico de Apocalipsis. Son afirmaciones distintas, y solo una de las dos me corresponde hacer aquí.
 :::
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Apocalipsis 13:1-18 se describe entero en este capítulo en vez de citarse, igual que Daniel 7:17 y 7:23, Daniel 3, Deuteronomio 6:6-8, 11:18 y 13:1-4, Éxodo 13:9 y 15:11: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
-
-Las expresiones en negrita o en cursiva se dan como paráfrasis identificada y no como cita verificada de la Reina-Valera.
-
-Y una deuda de otra clase, ya declarada dentro del capítulo: todo lo relativo al cálculo de gematría, a la grafía hebrea de *Nerón César* y a la variante manuscrita 616 está **reportado y no verificado en fuentes primarias**, en las dos ediciones. No es una deuda de traducción; es una deuda de investigación, y se lleva adelante como tal.
-:::
+<!-- SPANISH-SPECIFIC: Apocalipsis 13:1-18 se describe entero en este capítulo en vez de citarse, igual que Daniel 7:17 y 7:23, Daniel 3, Deuteronomio 6:6-8, 11:18 y 13:1-4, Éxodo 13:9 y 15:11: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Las expresiones en negrita o en cursiva se dan como paráfrasis identificada y no como cita verificada de la Reina-Valera. Y una deuda de otra clase, ya declarada dentro del capítulo: todo lo relativo al cálculo de gematría, a la grafía hebrea de *Nerón César* y a la variante manuscrita 616 está **reportado y no verificado en fuentes primarias**, en las dos ediciones. No es una deuda de traducción; es una deuda de investigación, y se lleva adelante como tal. -->
 
 ::: whereweare
-**Dónde estamos.** La autoridad de la bestia es delegada cuatro veces, lo cual descarta el dualismo y distingue la bestia del dragón. Daniel establece que las bestias son reinos cuyas cabezas son reyes, de modo que identificar a un hombre no identificaría el símbolo entero. La marca llega dentro de un contexto de adoración y lealtad construido con Daniel 3 y con Deuteronomio antes de que se la mencione siquiera, y Apocalipsis ya ha sellado en la frente a los siervos de Yahvé — mientras la exclusión económica sigue siendo real y sin explicar. El número está hecho para calcularse, lo cual vuelve a Nerón candidato serio, y la variante 616 lo vuelve comprobable en vez de fabricado. Lo que no queda establecido es que Apocalipsis 13 sea el reinado de Nerón; el intervalo 64-68 está construido y no reportado; y la tradición externa por ahora se inclina hacia una fecha que presionaría la lectura que me resulta atractiva.
+**Dónde nos deja esto.** La autoridad de la bestia es delegada cuatro veces, lo cual descarta el dualismo y distingue la bestia del dragón. Daniel establece que las bestias son reinos cuyas cabezas son reyes, de modo que identificar a un hombre no identificaría el símbolo entero. La marca llega dentro de un contexto de adoración y lealtad construido con Daniel 3 y con Deuteronomio antes de que se la mencione siquiera, y Apocalipsis ya ha sellado en la frente a los siervos de Yahvé — mientras la exclusión económica sigue siendo real y sin explicar. El número está hecho para calcularse, lo cual vuelve a Nerón candidato serio, y la variante 616 lo vuelve comprobable en vez de fabricado. Lo que no queda establecido es que Apocalipsis 13 sea el reinado de Nerón; el intervalo 64-68 está construido y no reportado; y la tradición externa por ahora se inclina hacia una fecha que presionaría la lectura que me resulta atractiva.
 :::
 
 ::: earned
-**Lo que se ganó.** Un capítulo sobre la marca que nunca tuvo que mencionar un solo dispositivo, porque la Torá aportó el vocabulario y Apocalipsis aportó el sello contrario. Un candidato lo bastante fuerte para probarlo y no lo bastante para afirmarlo. Y la contraevidencia más clara de la investigación hasta ahora, registrada con el mismo tamaño que el apoyo — que es la única razón por la que el apoyo vale algo.
+**La pregunta que esto deja.** Un capítulo sobre la marca que nunca tuvo que mencionar un solo dispositivo, porque la Torá aportó el vocabulario y Apocalipsis aportó el sello contrario. Un candidato lo bastante fuerte para probarlo y no lo bastante para afirmarlo. Y la contraevidencia más clara de la investigación hasta ahora, registrada con el mismo tamaño que el apoyo — que es la única razón por la que el apoyo vale algo.
 :::

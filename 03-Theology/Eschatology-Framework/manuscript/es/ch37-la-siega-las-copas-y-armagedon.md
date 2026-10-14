@@ -16,7 +16,7 @@ Apocalipsis 13 terminó con gente que lleva una marca en la mano o en la frente.
 
 Apocalipsis 14 abre con gente que lleva un nombre en la frente: el Cordero en pie sobre el monte de Sion, y con él ciento cuarenta y cuatro mil **que tienen su nombre y el nombre de su Padre escritos en la frente**.
 
-Esa respuesta llega en el primer versículo del capítulo, y zanja algo que yo había defendido por otros motivos dos capítulos antes. La marca no es en primer lugar una tecnología. Es en primer lugar una **marca de lealtad**, porque la contramarca del propio Apocalipsis es un nombre — y un nombre es de quién eres.
+Esa respuesta llega en el primer versículo del capítulo, y zanja algo que yo había defendido por otros motivos un capítulo antes. La marca no es en primer lugar una tecnología. Es en primer lugar una **marca de lealtad**, porque la contramarca del propio Apocalipsis es un nombre — y un nombre es de quién eres.
 
 ::: finding
 **Hallazgo — Apocalipsis confirma desde dentro la lectura pactual**
@@ -77,7 +77,7 @@ La correspondencia es obvia. La identidad no está establecida. Y un pasaje dond
 
 Quiero enunciar la cadena que estoy rechazando, en la forma exacta en que la he visto correr, porque una negativa enunciada vagamente no es una negativa:
 
-> *Queremos que la Gran Comisión esté completa → por lo tanto Apocalipsis 14 lo prueba → por lo tanto el milenio ocurrió → por lo tanto estamos en la pequeña temporada.*
+> *Queremos que la Gran Comisión esté completa → por lo tanto Apocalipsis 14 lo prueba → por lo tanto el milenio ocurrió → por lo tanto estamos en el poco de tiempo.*
 
 Cada flecha ahí carga peso y ninguna se lo ha ganado. La primera es un deseo. La segunda malinterpreta el agente y el tiempo verbal. La tercera y la cuarta heredan el error y después se citan entre sí. Si mi hipótesis es verdadera, sobrevivirá sin este versículo, y si necesita este versículo, no es verdadera.
 
@@ -87,7 +87,7 @@ Otro ángel, el segundo, sigue diciendo: **ha caído, ha caído Babilonia, la gr
 
 Es la primera aparición del nombre. Cae antes de ser descrita, y se la describe tres capítulos después.
 
-Voy a esperar. Hice esperar a la bestia, hice esperar a los dos testigos, e hice esperar a los 144.000. Identificar a Babilonia aquí —cuando los únicos datos que tengo son un nombre y una caída— sería hacer exactamente lo que llevo cuarenta etapas rechazando.
+Voy a esperar. Hice esperar a la bestia, hice esperar a los dos testigos, e hice esperar a los 144.000. Identificar a Babilonia aquí —cuando los únicos datos que tengo son un nombre y una caída— sería hacer exactamente lo que llevo toda esta investigación rechazando.
 
 Lo que Apocalipsis añade en cambio es un resumen moral de la alternativa, y vale la pena notar qué dos cosas empareja: **aquí está la paciencia de los santos, los que guardan los mandamientos de Dios y la fe de Jesús** (14:12).
 
@@ -154,7 +154,7 @@ Eso no es un horizonte solo de ira. Conecta directamente con la proclamación de
 
 Dos tentaciones, rechazadas en las dos direcciones. No voy a construir una afirmación universalista sobre una línea de un cántico. Y no voy a dejarla fuera calladamente porque complique una lectura de solo ira de lo que sigue.
 
-Entra en el registro de preguntas abiertas con toda su fuerza.
+Queda entre las preguntas abiertas con toda su fuerza.
 :::
 
 Las plagas salen entonces del santuario celestial abierto, que se llena de humo de modo que nadie puede entrar hasta que se consumen. Cualesquiera que sean los acontecimientos históricos que terminen correspondiendo a las copas, la afirmación teológica de Apocalipsis sobre ellas es inequívoca: **Yahvé juzga.** Gobernantes y ejércitos pueden ser instrumentos. No son causas.
@@ -194,11 +194,9 @@ Y conozco otro texto que dice eso, con esas palabras, sobre una ciudad nombrada:
 | **Apocalipsis 18** | Babilonia → sangre de profetas y santos |
 
 ::: textualnote
-**Deuda declarada.** La tercera línea de esa tabla es la que **no** he verificado. Apocalipsis 18:24 nunca se recuperó palabra por palabra en la etapa en que se armó esta cadena, y es el tramo que la cerraría.
+**Un tramo todavía sin comprobar.** La tercera línea de esa tabla es la que **no** he verificado. No he leído Apocalipsis 18:24 en la fuente, y es el tramo que cerraría la cadena.
 
 Los dos primeros tramos están verificados. El tercero es por ahora una afirmación sobre un versículo que no tengo delante, y se marca como tal aquí en vez de dejarlo pasar como evidencia.
-
-*(Esa es una deuda de investigación, en las dos ediciones. La deuda RVR1960 de esta edición se declara aparte al final del capítulo.)*
 :::
 
 La cadena queda ahora formalmente abierta. **No** es una identificación. Apocalipsis 17 y 18 están a punto de describir a Babilonia largamente, con características identificativas concretas, y yo hice esperar a cada figura mayor de este libro por su propio capítulo. Babilonia no puede ser la excepción porque la correspondencia por fin se puso emocionante.
@@ -215,7 +213,7 @@ Yo tengo una geografía disponible. La tengo disponible desde hace mucho. Aquí 
 | el secarse **prepara un camino** | si es literalmente el río que se llama así de ordinario |
 | hay **reyes del oriente** implicados | si funciona como frontera |
 | | si los reyes son gobernantes históricos concretos |
-| | **si esto tiene alguna conexión con reconstrucciones geográficas alternativas discutidas antes en este proyecto** |
+| | **si esto tiene alguna conexión con una reconstrucción geográfica alternativa — incluida la que tengo disponible desde hace mucho** |
 
 Esa última fila es deliberada y va dirigida a mí.
 
@@ -267,7 +265,7 @@ Engaño → reunión de gobernantes → batalla. Dos veces.
 
 Entonces: ¿dos batallas separadas, o dos visiones de un solo conflicto consumativo?
 
-**No voy a responder eso aquí.** Es una de las pruebas más fuertes de recapitulación que esta investigación va a enfrentar, y responderla antes de que Apocalipsis 20 se haya leído en sus propios términos sería el modo de fallo preciso que este proyecto entero existe para evitar — decidir el sentido de un capítulo desde un capítulo que todavía no he exegetado, porque la respuesta que quiero vive allí.
+**No voy a responder eso aquí.** Es una de las pruebas más fuertes de recapitulación que esta investigación va a enfrentar, y responderla antes de que Apocalipsis 20 se haya leído en sus propios términos sería el modo de fallo preciso que esta investigación entera existe para evitar — decidir el sentido de un capítulo desde un capítulo que todavía no he exegetado, porque la respuesta que quiero vive allí.
 
 Correspondencia: fuerte. Identidad: sin resolver.
 
@@ -275,7 +273,7 @@ Correspondencia: fuerte. Identidad: sin resolver.
 
 En medio de la reunión, entre paréntesis, cambia la voz: *he aquí, **yo vengo como ladrón**. Bienaventurado el que **vela**, y guarda sus ropas, para que no ande desnudo y vean su vergüenza* (16:15).
 
-La reunión para la batalla queda explícitamente conectada con la venida de Yeshúa. Y *ladrón* es una palabra con rastro detrás — Mateo 24, 1 Tesalonicenses 5, 2 Pedro 3 y Apocalipsis 3 la usan todos. Esa rama se debe, y se debe con cuidado, porque un vocabulario idéntico no establece un acontecimiento idéntico.
+La reunión para la batalla queda explícitamente conectada con la venida de Yeshúa. Y *ladrón* es una palabra con rastro detrás — Mateo 24, 1 Tesalonicenses 5, 2 Pedro 3 y Apocalipsis 3 la usan todos. Esa rama todavía hay que trabajarla, y con cuidado, porque un vocabulario idéntico no establece un acontecimiento idéntico.
 
 Pero la fuerza pastoral es un control por derecho propio, y es lo que más se pierde en libros como este. *Bienaventurado el que vela.* Apocalipsis no presenta la profecía como información fascinante sobre gente de dentro de milenios. Se vuelve repetidamente y exige algo de **sus propios lectores** —velen, guarden sus ropas, perseveren— y lo hace aquí, dentro de las copas, en la reunión de los reyes.
 
@@ -375,7 +373,7 @@ Que dos pasajes compartan imaginería, vocabulario, cronología o estructura est
 | la Babilonia de Apocalipsis ↔ la Jerusalén de Mateo 23 | cada vez más fuerte | **pendiente de Apocalipsis 17-18** |
 | trompetas ↔ copas | fuerte | no establecida |
 
-Esta regla protege en las dos direcciones — contra perder conexiones reales, y contra exagerarlas. Este proyecto ha necesitado las dos mitades, a veces en el mismo párrafo.
+Esta regla protege en las dos direcciones — contra perder conexiones reales, y contra exagerarlas. Esta investigación ha necesitado las dos mitades, a veces en el mismo párrafo.
 :::
 
 ## Lo que las plagas le hicieron a la pregunta
@@ -390,20 +388,12 @@ El Éufrates enseñó la misma contención desde el otro lado. Yo tenía teoría
 
 Si la teoría era verdadera, podía sobrevivir a la espera.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Apocalipsis 14:1-20, 15:1-8 y 16:1-21 se describen en este capítulo en vez de citarse, igual que Éxodo 8:2-6, Isaías 44:27-45:1, Jeremías 51:36, Mateo 23:34-38 y Daniel 7:13: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
-
-Las expresiones en negrita o en cursiva se dan como paráfrasis identificada y no como cita verificada de la Reina-Valera.
-
-La deuda es especialmente costosa en 14:15 y en 16:19. La primera es el dato que debilita mi propia lectura preferida; la segunda depende de que se vean tres elementos enumerados en una sola frase. Las dos llegan descritas. Queda declarada y registrada.
-:::
+<!-- SPANISH-SPECIFIC: Apocalipsis 14:1-20, 15:1-8 y 16:1-21 se describen en este capítulo en vez de citarse, igual que Éxodo 8:2-6, Isaías 44:27-45:1, Jeremías 51:36, Mateo 23:34-38 y Daniel 7:13: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Las expresiones en negrita o en cursiva se dan como paráfrasis identificada y no como cita verificada de la Reina-Valera. La deuda es especialmente costosa en 14:15 y en 16:19. La primera es el dato que debilita mi propia lectura preferida; la segunda depende de que se vean tres elementos enumerados en una sola frase. Las dos llegan descritas. Queda declarada y registrada. -->
 
 ::: whereweare
-**Dónde estamos.** Apocalipsis responde a la marca de la bestia con el nombre del Cordero sobre las mismas frentes, lo cual confirma desde dentro del libro la lectura pactual de la marca. A los 144.000 se los llama primicias, palabra que prohíbe tratarlos como la cosecha entera. El que proclama el evangelio eterno es un ángel, y el *ha llegado la hora* de Apocalipsis corre en dirección opuesta al *y entonces vendrá el fin* de Mateo — de modo que Apocalipsis 14 no puede certificar una misión humana completada. A la figura de la nube le dice un ángel del templo cuándo segar, lo cual debilita en vez de reforzar la identificación que yo habría preferido. Babilonia ha caído, ha sido acusada de la sangre de los santos y de los profetas, y sigue sin ser identificada, con un tramo de esa cadena abiertamente sin verificar. El Éufrates se le ha entregado a Isaías y a Jeremías antes que a ninguna geografía mía. La etimología de Armagedón está sin zanjar y se deben las fuentes. Y las copas son demasiado paralelas a las trompetas para ignorarlo y no lo bastante para zanjarlo, lo cual deja la cuestión de la recapitulación exactamente donde la va a encontrar Apocalipsis 20.
+**Dónde nos deja esto.** Apocalipsis responde a la marca de la bestia con el nombre del Cordero sobre las mismas frentes, lo cual confirma desde dentro del libro la lectura pactual de la marca. A los 144.000 se los llama primicias, palabra que prohíbe tratarlos como la cosecha entera. El que proclama el evangelio eterno es un ángel, y el *ha llegado la hora* de Apocalipsis corre en dirección opuesta al *y entonces vendrá el fin* de Mateo — de modo que Apocalipsis 14 no puede certificar una misión humana completada. A la figura de la nube le dice un ángel del templo cuándo segar, lo cual debilita en vez de reforzar la identificación que yo habría preferido. Babilonia ha caído, ha sido acusada de la sangre de los santos y de los profetas, y sigue sin ser identificada, con un tramo de esa cadena abiertamente sin verificar. El Éufrates se le ha entregado a Isaías y a Jeremías antes que a ninguna geografía mía. La etimología de Armagedón está sin zanjar y las fuentes están todavía por aportarse. Y las copas son demasiado paralelas a las trompetas para ignorarlo y no lo bastante para zanjarlo, lo cual deja la cuestión de la recapitulación exactamente donde la va a encontrar Apocalipsis 20.
 :::
 
 ::: earned
-**Lo que se ganó.** Dos reglas que van a sobrevivir a este capítulo — que la imaginería prestada conserva su vocabulario antiguo y adopta una función nueva, y que la correspondencia no es identidad. Una cadena de rechazo escrita con las palabras exactas con que la he oído argumentar, para que no pueda colarse de vuelta más adelante. Un versículo registrado con toda su fuerza en contra de mi lectura, porque 14:15 es genuinamente incómodo y fingir lo contrario habría costado más que admitirlo. Y Babilonia, nombrada ya cuatro veces, todavía sin identificar — que es la única razón por la que la identificación, cuando llegue, valdrá la pena leerla.
+**La pregunta que esto deja.** Dos reglas que van a sobrevivir a este capítulo — que la imaginería prestada conserva su vocabulario antiguo y adopta una función nueva, y que la correspondencia no es identidad. Una cadena de rechazo escrita con las palabras exactas con que la he oído argumentar, para que no pueda colarse de vuelta más adelante. Un versículo registrado con toda su fuerza en contra de mi lectura, porque 14:15 es genuinamente incómodo y fingir lo contrario habría costado más que admitirlo. Y Babilonia, nombrada ya cuatro veces, todavía sin identificar — que es la única razón por la que la identificación, cuando llegue, valdrá la pena leerla.
 :::

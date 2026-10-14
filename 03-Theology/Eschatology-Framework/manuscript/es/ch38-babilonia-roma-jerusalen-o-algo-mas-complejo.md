@@ -20,15 +20,7 @@ Apocalipsis la explica ahora, largamente, con más características identificati
 
 La pregunta que gobierna no es *a quién ha llamado tradicionalmente Babilonia el cristianismo*, y enfáticamente no es *qué candidato sirve mejor a la reconstrucción que vengo construyendo*. Es: **¿quién dice Apocalipsis mismo que es ella?**
 
-::: textualnote
-**Antes de cualquier argumento — una nota sobre mis propias citas.**
-
-El texto de Apocalipsis 17 con el que trabajé primero traía una **numeración de versículos distinta de la estándar**: unía los versículos 9 y 10 estándar en un solo "versículo 9", de modo que toda etiqueta posterior corría una unidad por debajo; lo que llamaba versículo 17 es el versículo 18 estándar.
-
-Toda cita de este capítulo usa la numeración estándar corregida. Registro el desplazamiento en vez de arreglarlo calladamente, por una razón: **una cita que acierta por suerte no es verificación.** Si no lo hubiera notado, habría construido un argumento sobre números de referencia que no existían, y el argumento podría haber seguido pareciendo correcto.
-
-La numeración necesita además confirmación independiente contra un segundo testigo. Esa deuda queda abierta.
-:::
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): Antes de cualquier argumento — una nota sobre mis propias citas. El texto de Apocalipsis 17 con el que trabajé primero traía una numeración de versículos distinta de la estándar: unía los versículos 9 y 10 estándar en un solo "versículo 9", de modo que toda etiqueta posterior corría una unidad por debajo; lo que llamaba versículo 17 es el versículo 18 estándar. Toda cita de este capítulo usa la numeración estándar corregida. Una cita que acierta por suerte no es verificación. La numeración necesita además confirmación independiente contra un segundo testigo. Esa deuda queda abierta. -->
 
 ## Apocalipsis interpreta su símbolo más difícil
 
@@ -40,7 +32,7 @@ Interpretación interna diferida, funcionando exactamente como ha funcionado tod
 
 La misma disciplina se aplica a la acusación contra ella: los reyes de la tierra han fornicado con ella, y los moradores de la tierra se han embriagado con el vino de su fornicación.
 
-Las ciudades no tienen relaciones literalmente. Las naciones no se embriagan literalmente con los actos sexuales de una ciudad. Esto es vocabulario profético de infidelidad, alianza, idolatría, corrupción, riqueza y poder — y confirma algo que argumenté sobre este grupo de palabras mucho antes, desde la dirección contraria: *porneia* abarca un rango real **dentro de un mismo libro**, y el contexto asigna el referente. Una concordancia no puede repartirle una sola definición castellana a cada aparición.
+Las ciudades no tienen relaciones literalmente. Las naciones no se embriagan literalmente con los actos sexuales de una ciudad. Esto es vocabulario profético de infidelidad, alianza, idolatría, corrupción, riqueza y poder — y muestra algo sobre este grupo de palabras que vale la pena decir con claridad: *porneia* abarca un rango real **dentro de un mismo libro**, y el contexto asigna el referente. Una concordancia no puede repartirle una sola definición castellana a cada aparición.
 
 ## Jerusalén no puede excluirse antes de que empiece el argumento
 
@@ -180,7 +172,7 @@ Es un patrón bíblico enteramente ordinario. Asiria, Babilonia, Persia — pode
 
 ## Apocalipsis 18:24, y la cadena se cierra
 
-Dos capítulos atrás abrí una cadena a la que le faltaba un tramo. Aquí está el tramo que faltaba, ya verificado: **y en ella se halló la sangre de los profetas y de los santos, y de todos los que han sido muertos en la tierra** (18:24).
+El capítulo pasado abrí una cadena a la que le faltaba un tramo. Aquí está el tramo que faltaba, ya verificado: **y en ella se halló la sangre de los profetas y de los santos, y de todos los que han sido muertos en la tierra** (18:24).
 
 Frente a Mateo, que anuncia que sobre ellos vendrá *toda la sangre justa derramada sobre la tierra*, que *todo esto vendrá sobre esta generación*, y que Jerusalén es la ciudad *que mata a los profetas* (23:35, 23:36, 23:37).
 
@@ -190,7 +182,7 @@ Frente a Mateo, que anuncia que sobre ellos vendrá *toda la sangre justa derram
 | **Apocalipsis 16:6** | derramaron **la sangre de los santos y de los profetas** |
 | **Apocalipsis 18:24** | en ella: **sangre de profetas y santos, y de todos los muertos en la tierra** |
 
-La primera y la tercera línea son casi literales entre sí, y solo uno de los dos textos nombra una ciudad.
+La primera y la tercera línea se acercan mucho —sangre derramada, *la tierra*—, aunque no son literales entre sí; y solo uno de los dos textos nombra una ciudad.
 
 Es el dato más fuerte de la columna de Jerusalén. No es un paralelo trivial y no lo voy a subvalorar.
 
@@ -199,23 +191,23 @@ Y entonces tengo que hacer lo que este libro existe para hacer, que es atacar mi
 ::: wordstudy
 **Estudio de palabras — <span class="gr">ἐπὶ τῆς γῆς</span>**
 
-Los dos textos usan la expresión de la que depende mi paralelo más fuerte. <span class="gr">ἐπὶ τῆς γῆς</span> *(epi tēs gēs)* puede verterse **"sobre la tierra"** en el sentido amplio o **"en la tierra"** en el sentido de *el país*, *el territorio*.
+Los dos textos usan la expresión de la que depende mi paralelo más fuerte. <span class="gr">ἐπὶ τῆς γῆς</span> (*epi tēs gēs*) puede verterse **"sobre la tierra"** en el sentido amplio o **"en la tierra"** en el sentido de *el país*, *el territorio*.
 
-Este proyecto ha dedicado cuarenta etapas exactamente a esa ambigüedad, exactamente en esa dirección, argumentando por lo general que los traductores alcanzaban la palabra más amplia donde estaba disponible la más estrecha. No me corresponde abandonar esa disciplina en el momento en que la lectura más suelta empieza a ayudarme.
+Esta investigación ha dedicado buena parte de su extensión exactamente a esa ambigüedad, exactamente en esa dirección, argumentando por lo general que los traductores alcanzaban la palabra más amplia donde estaba disponible la más estrecha. No me corresponde abandonar esa disciplina en el momento en que la lectura más suelta empieza a ayudarme.
 
 Si *todos los que han sido muertos en la tierra* es en realidad *todos los muertos en el país*, el paralelo con Mateo 23 se estrecha de manera dramática y se localiza. Si es genuinamente el sentido amplio, el paralelo se afloja.
 
-**En cualquiera de los dos casos, la traducción está cargando por ahora un peso que al griego no se le ha pedido cargar.** Hay que recuperar el griego de los dos versículos antes de apoyarse en este dato, y hasta entonces es fuerte, citado, y formalmente incompleto.
+**En cualquiera de los dos casos, la traducción está cargando por ahora un peso que al griego no se le ha pedido cargar.** Hay que leer el griego de los dos versículos antes de apoyarse en este dato, y hasta entonces es fuerte, citado, y formalmente incompleto.
 
-📌 Y una precisión propia de esta edición: la Reina-Valera vierte aquí *en la tierra*, expresión que en castellano conserva de hecho **la misma ambigüedad que el griego**, porque *tierra* significa a la vez el suelo, el país y el conjunto de lo habitado. El lector castellano no queda peor situado que el lector del griego en este punto — pero tampoco mejor, y la ambigüedad no se resuelve por ser cómoda.
+Y una precisión propia de esta edición: la Reina-Valera vierte aquí *en la tierra*, expresión que en castellano conserva de hecho **la misma ambigüedad que el griego**, porque *tierra* significa a la vez el suelo, el país y el conjunto de lo habitado. El lector castellano no queda peor situado que el lector del griego en este punto — pero tampoco mejor, y la ambigüedad no se resuelve por ser cómoda.
 :::
 
 Un detalle más antes de la contraevidencia. 18:20 llama a alegrarse sobre ella al cielo, **y a los santos, apóstoles y profetas**. Los apóstoles aparecen específicamente, lo cual aplica presión temporal real hacia el conflicto apostólico del primer siglo. Es presión, no prueba.
 
 ::: wordstudy
-**Estudio de palabras — <span class="gr">ἅγιος</span> / <span class="gr">ἅγιοι</span>**
+**Estudio de palabras — <span class="gr">ἅγιος</span> (*hagios*) / <span class="gr">ἅγιοι</span> (*hagioi*)**
 
-<span class="gr">ἅγιος</span> *(hagios)* significa *santo*, *apartado*. En plural, <span class="gr">ἅγιοι</span> —convencionalmente *santos*— significa sencillamente **los apartados**: los consagrados a Yahvé.
+<span class="gr">ἅγιος</span> (*hagios*) significa *santo*, *apartado*. En plural, <span class="gr">ἅγιοι</span> (*hagioi*) —convencionalmente *santos*— significa sencillamente **los apartados**: los consagrados a Yahvé.
 
 La palabra castellana ha acumulado siglos de carga que el griego no lleva. No significa los moralmente excepcionales, y no significa una clase canonizada. Es vocabulario pactual para un pueblo.
 
@@ -254,7 +246,7 @@ No es un veredicto. Es una matriz evidenciaria, en la que cada candidato está o
 | Esclavos, *almas de hombres* (18:13) | **fuerte** | posible, más débil |
 | Persecución de los santos (17:6) | fuerte | fuerte |
 | La sangre de los profetas (18:24) | posible | **muy fuerte** |
-| *Todos los muertos en la tierra* ≈ Mateo 23:35 | posible | **muy fuerte, casi literal** |
+| *Todos los muertos en la tierra* ≈ Mateo 23:35 | posible | **muy fuerte, aunque no literal** |
 | Imaginería de ciudad-ramera | posible | **muy fuerte — Isaías 1, Ezequiel 16, Ezequiel 23** |
 | Los amantes se vuelven, la despojan y destruyen (17:16) | posible | **fuerte — coincidencia estructural con Ezequiel 16:37-39** |
 | Adulterio *y* derramamiento de sangre juntos | posible | **fuerte — Isaías 1:21, Ezequiel 16:38** |
@@ -318,34 +310,28 @@ Esperaba que Babilonia se volviera más fácil una vez que Apocalipsis por fin l
 
 Roma se sentaba sobre siete colinas, reinaba sobre reyes, consumía artículos de lujo, traficaba con seres humanos y dependía del comercio marítimo. Jerusalén cargaba la historia profética de la prostitución, la sangre de los profetas, la designación de *gran ciudad* asociada a la crucifixión, y la posibilidad histórica de ser destruida por el mismísimo poder imperial con el que su liderazgo se había enredado.
 
-Esa incomodidad fue útil. Una teoría que explica solo sus versículos favoritos no es una identificación. Cada dato identificativo pertenece al expediente, incluidos los que archivó la otra parte.
+Esa incomodidad fue útil. Una teoría que explica solo sus versículos favoritos no es una identificación. Cada dato identificativo pertenece al registro, incluidos los que citaría la otra parte.
 
 Quizá un candidato termine ganando. Quizá el simbolismo de Juan superponga deliberadamente apostasía pactual y poder imperial, en cuyo caso el debate ha sido una falsa alternativa durante siglos. Lo que puedo decir es que Apocalipsis acaba de entregarme la prueba siguiente, y es justa: **identificar a la bestia sin usar a Babilonia para hacerlo, y después volver y ver qué mujer puede efectivamente cabalgarla.**
 
 ::: textualnote
-**Nota textual — la deuda se pagó, y la matriz se volvió a probar contra el texto verificado** `SPANISH-SPECIFIC`
+**Nota textual — la matriz, probada contra el texto de la Reina-Valera**
 
-Este capítulo llevaba una deuda declarada: su matriz depende de formulaciones exactas, y el texto RVR1960 de los pasajes que la sostienen no estaba verificado. **Ahora lo está**, y la matriz se volvió a probar fila por fila contra él en vez de darse por buena.
+Los pasajes que sostienen la matriz —Apocalipsis 18:4-24, 17:4-9 y 17:16-18, Mateo 23:34-38, Ezequiel 16:37-39, Isaías 47:7-9 e Isaías 1:21— se citan en este capítulo según la RVR1960, y la matriz se volvió a probar fila por fila contra ese texto en vez de darse por buena.
 
-✅ **Verificados verbatim:** Apocalipsis 18:4-24 completo · Apocalipsis 17:4-9 y 17:16-18 · Mateo 23:34-38 · Ezequiel 16:37-39 · Isaías 47:7-9 · Isaías 1:21.
+**La matriz sobrevive. Ninguna fila cayó.** Y 17:6 dice más de lo que la fila le atribuía: no solo *ebria de la sangre de los santos*, sino **y de la sangre de los mártires de Jesús**. La fila se fortalece.
 
-### ✅ **La matriz sobrevive. Ninguna fila cayó.**
+**Y una afirmación se debilita, que es el resultado que más importa registrar.** El paralelo entre Apocalipsis 18:24 y Mateo 23:35 **no es literal**. 18:24 dice *la sangre de los profetas y de los santos, y de todos los que han sido muertos **en** la tierra*; 23:35 dice *toda la sangre justa que se ha derramado **sobre** la tierra*. **Sujetos distintos y preposiciones distintas.** El paralelo es real y sigue siendo material —ambos reúnen sangre derramada y *la tierra*—, pero no es literal, y este capítulo no lo llama así.
 
-★ **Y dos filas quedaron mejor de lo que estaban escritas.** 17:18 — *la gran ciudad que reina sobre los reyes de la tierra* — y 17:17 resultaron **exactas palabra por palabra**, no paráfrasis. Y 17:6 dice más de lo que yo le atribuía: no solo *ebria de la sangre de los santos*, sino **y de la sangre de los mártires de Jesús**. La fila se fortalece.
-
-⚠️ **Cuatro formulaciones estaban mal y quedan corregidas:** *amantes* → **enamorados** · *de todas partes* → **alrededor de ella** · *hermosas joyas* → **hermosas alhajas** · y un artículo restituido en Isaías 1:21. **Ninguna cambia el argumento; las cuatro cambiaban la cita.**
-
-### 🛑 **Y una afirmación se debilita, que es el resultado que más importa registrar.**
-
-Yo había llamado *casi literal* al paralelo entre Apocalipsis 18:24 y Mateo 23:35. **En RVR1960 no lo es.** 18:24 dice *la sangre de los profetas y de los santos, y de todos los que han sido muertos **en** la tierra*; 23:35 dice *toda la sangre justa que se ha derramado **sobre** la tierra*. **Sujetos distintos y preposiciones distintas.** El paralelo es real y sigue siendo material — ambos reúnen sangre derramada y *la tierra* — **pero *casi literal* era demasiado, y la palabra se retira.**
-
-📐 **Y hay algo que el castellano no puede resolver: *la tierra* carga la misma ambigüedad que el griego entre *el país* y *toda la tierra*.** La edición inglesa marca esa pregunta como abierta. **El testigo castellano no la cierra; la reproduce.**
+Y hay algo que el castellano no puede resolver: *la tierra* carga la misma ambigüedad que el griego entre *el país* y *toda la tierra*. El testigo castellano no cierra esa pregunta; la reproduce.
 :::
 
+<!-- SPANISH-SPECIFIC (registro de verificación, oculto): 17:18 y 17:17 resultaron exactas palabra por palabra, no paráfrasis. Cuatro formulaciones estaban mal y quedaron corregidas: amantes → enamorados · de todas partes → alrededor de ella · hermosas joyas → hermosas alhajas · y un artículo restituido en Isaías 1:21. Ninguna cambia el argumento; las cuatro cambiaban la cita. -->
+
 ::: whereweare
-**Dónde estamos.** Babilonia ha sido explicada y no identificada. Apocalipsis interpreta sus propias aguas, llama misterio a su nombre, y ya ha mostrado que rebautiza ciudades espiritualmente — de modo que *Babilonia* no tiene por qué ser el nombre ordinario de la ciudad. La mujer es estructuralmente distinta de la bestia que cabalga y que la destruye, lo cual constriñe a todo candidato y complica la lectura romana más simple en un punto concreto. La columna de Jerusalén ganó aquí su evidencia más fuerte, en la coincidencia estructural de Ezequiel 16 y en el aterrizaje casi literal de Apocalipsis 18:24 sobre Mateo 23 — con el griego detrás de ese paralelo todavía sin recuperar y señalado en contra de mi propio interés. La columna de Roma ganó contraevidencia que hace daño de verdad: seda, marfil, mármol, capitanes, marineros y trata de esclavos no se anclan en una ciudad interior. Los siete reyes pueden ser un control de datación y son por ahora una trampa de ajuste numérico con las fuentes impagas. Ninguna columna se queda con la matriz entera, y la identificación de la bestia —hecha de manera independiente— es ahora lo que rompería el empate.
+**Dónde nos deja esto.** Babilonia ha sido explicada y no identificada. Apocalipsis interpreta sus propias aguas, llama misterio a su nombre, y ya ha mostrado que rebautiza ciudades espiritualmente — de modo que *Babilonia* no tiene por qué ser el nombre ordinario de la ciudad. La mujer es estructuralmente distinta de la bestia que cabalga y que la destruye, lo cual constriñe a todo candidato y complica la lectura romana más simple en un punto concreto. La columna de Jerusalén ganó aquí su evidencia más fuerte, en la coincidencia estructural de Ezequiel 16 y en el paralelo cercano —aunque no literal— de Apocalipsis 18:24 con Mateo 23, con el griego detrás de ese paralelo todavía sin leer y señalado en contra de mi propio interés. La columna de Roma ganó contraevidencia que hace daño de verdad: seda, marfil, mármol, capitanes, marineros y trata de esclavos no se anclan en una ciudad interior. Los siete reyes pueden ser un control de datación y son por ahora una trampa de ajuste numérico con las fuentes todavía por aportarse. Ninguna columna se queda con la matriz entera, y la identificación de la bestia —hecha de manera independiente— es ahora lo que rompería el empate.
 :::
 
 ::: earned
-**Lo que se ganó.** La prueba de falsación más limpia de esta investigación, llevada hasta el final, sin producir ganador — que es el resultado correcto y no fue diseñado. Un error de numeración de versículos en mi propia recuperación, reportado en vez de corregido calladamente. Un estudio de palabras apuntado directamente a mi dato más fuerte, en el momento en que más tentador era dejar de mirar. Una regla de símbolo compuesto entregada con la correa ya puesta, para que no pueda usarse después como salida de emergencia. Y una prohibición contra la identificación circular, escrita aquí mientras las dos figuras siguen abiertas, donde todavía puede costarme algo.
+**La pregunta que esto deja.** La prueba de falsación más limpia de esta investigación, llevada hasta el final, sin producir ganador — que es el resultado correcto y no fue diseñado. Un estudio de palabras apuntado directamente a mi dato más fuerte, en el momento en que más tentador era dejar de mirar. Una regla de símbolo compuesto entregada con la correa ya puesta, para que no pueda usarse después como salida de emergencia. Y una prohibición contra la identificación circular, escrita aquí mientras las dos figuras siguen abiertas, donde todavía puede costarme algo.
 :::

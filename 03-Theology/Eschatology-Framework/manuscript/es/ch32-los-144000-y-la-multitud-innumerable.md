@@ -40,7 +40,7 @@ En Ezequiel 9 la gloria del Dios de Israel se levanta del querubín, y se ordena
 
 Un intertexto muy fuerte, y dadas las correspondencias con Jerusalén que salieron de los sellos, no puede despacharse con un gesto.
 
-🛑 **Y el freno, en la misma frase:** el oráculo de Ezequiel tenía su propio referente histórico. Esto establece el **patrón** —marca antes del juicio— no el blanco de Apocalipsis 7. Es la segunda vez en dos capítulos que encuentro a Ezequiel aportando vocabulario y tengo que frenar antes de dejarle aportar el destino.
+**Y el freno, en la misma frase:** el oráculo de Ezequiel tenía su propio referente histórico. Esto establece el **patrón** —marca antes del juicio— no el blanco de Apocalipsis 7. Es la segunda vez en dos capítulos que encuentro a Ezequiel aportando vocabulario y tengo que frenar antes de dejarle aportar el destino.
 :::
 
 Una contención más ya que estoy aquí. Apocalipsis no dice que los sellados sean trasladados a ninguna parte. Están **sellados**. Los justos marcados de Ezequiel permanecen en la ciudad que enfrenta el juicio, distinguidos de los que están bajo condenación. Sellar significa en primer lugar propiedad divina, protección, identificación. Cómo opera esa protección hay que determinarlo después, y no estoy importando un mecanismo de remoción a un versículo que no contiene ninguno.
@@ -83,9 +83,9 @@ Apocalipsis 7:5-8 da 12.000 de cada una, en este orden: Judá, Rubén, Gad, Aser
 |--------------------|-----------------------------------------------|
 | **Judá primero** | aunque Rubén es el primogénito de Jacob |
 | **Leví incluido** | a menudo omitido en enumeraciones territoriales por su estatus sacerdotal |
-| **Manasés incluido** | ⚠️ Manasés es **hijo de José**, no de Jacob |
+| **Manasés incluido** | Manasés es **hijo de José**, no de Jacob |
 | **Efraín sin nombrar** | el otro hijo de José |
-| **Dan ausente** | ⚠️ y Dan **sí** es uno de los hijos de Jacob |
+| **Dan ausente** | y Dan **sí** es uno de los hijos de Jacob |
 
 Esto no es un censo tribal estándar copiado dentro de Apocalipsis. Se conservan doce nombres mediante una construcción inusual —Dan sale, Leví se queda, José se queda, y el hijo de José, Manasés, se cuenta— lo cual hace mucho menos probable que Juan simplemente reprodujera una lista ordinaria sin intención.
 
@@ -134,16 +134,16 @@ Uno de los ancianos le pregunta a Juan quiénes son los vestidos de ropas blanca
 
 El griego es <span class="gr">τῆς θλίψεως τῆς μεγάλης</span> — *la gran tribulación*.
 
-Y Mateo 24:21 usa <span class="gr">θλῖψις μεγάλη</span>, que verifiqué allá en la Parte II, en un discurso sobre Judea, la huida, el día de reposo, el templo y *esta generación*.
+Y Mateo 24:21 usa <span class="gr">θλῖψις μεγάλη</span> (*thlipsis megalē*), en un discurso sobre Judea, la huida, el día de reposo, el templo y *esta generación*.
 
 ::: evidence
-**Cuánto pesa la evidencia — una correspondencia léxica directa, con el freno de siempre**
+***Gran tribulación* en Mateo 24:21 y Apocalipsis 7:14, con el freno de siempre**
 
 La *gran tribulación* de Mateo y *la gran tribulación* de Apocalipsis son la misma expresión.
 
-**APOYA** — un horizonte compartido entre el discurso del Monte de los Olivos y la visión de Apocalipsis.
+La expresión compartida <span class="grade">apoya</span> un horizonte compartido entre el discurso del Monte de los Olivos y la visión de Apocalipsis.
 
-🛑 **Y el freno que se sostiene desde el capítulo 17: la identidad léxica por sí sola no establece identidad de acontecimiento.** Maté un puente propio exactamente por esta razón, y no voy a aceptar un estándar más flojo ahora que la correspondencia corre a mi favor.
+**Y el freno que se sostiene desde el capítulo 21: la identidad léxica por sí sola no establece identidad de acontecimiento.** Maté un puente propio exactamente por esta razón, y no voy a aceptar un estándar más flojo ahora que la correspondencia corre a mi favor.
 
 Añadido al conjunto:
 
@@ -228,7 +228,7 @@ Eso no exige que cada individuo humano reciba el mensaje. Y me permite separar t
 
 No son la misma afirmación, y la distinción puede terminar siendo decisiva para Mateo 24:14.
 
-Pero no la cobro aquí. Apocalipsis 7 da gente de todas las naciones. **No** dice *esta multitud prueba que Mateo 24:14 se cumplió*. Eso es una inferencia — potencialmente poderosa, y aun así una inferencia. Registrar la correspondencia; no gastarla.
+Pero no la uso aquí. Apocalipsis 7 da gente de todas las naciones. **No** dice *esta multitud prueba que Mateo 24:14 se cumplió*. Eso es una inferencia — potencialmente poderosa, y aun así una inferencia. Registrar la correspondencia; no construir sobre ella.
 
 ## Y entonces Apocalipsis mismo volvió la pregunta más difícil
 
@@ -245,9 +245,9 @@ Apocalipsis 14 me exigiría entonces explicar por qué esa multitud entera se de
 
 ¿Podría el lenguaje ser simbólico? Ciertamente podría — la Escritura usa repetidamente la fidelidad marital y el adulterio como imaginería pactual, y Apocalipsis va a hacer un uso enorme de exactamente eso con Babilonia.
 
-🛑 **Pero no puedo sencillamente anunciar que *virgen* significa *espiritualmente fiel*, porque eso sería interpretar el texto difícil según lo que necesita mi hipótesis preferida.** Apocalipsis 14 tiene que decirme si lo explica mejor el celibato literal, la pureza pactual simbólica, o alguna combinación en capas — y Apocalipsis 14 se exegeta en su turno, no se saquea ahora.
+**Pero no puedo sencillamente anunciar que *virgen* significa *espiritualmente fiel*, porque eso sería interpretar el texto difícil según lo que necesita mi hipótesis preferida.** Apocalipsis 14 tiene que decirme si lo explica mejor el celibato literal, la pureza pactual simbólica, o alguna combinación en capas — y Apocalipsis 14 se exegeta en su turno, no se saquea ahora.
 
-**Y *primicias* añade su propia presión.** <span class="gr">ἀπαρχή</span> en el resto de los escritos apostólicos no suele significar *los únicos que jamás pertenecerán*. Normalmente implica una relación entre una primera porción y algo que sigue — el Mesías es primicias de los que durmieron. Si esa fuerza ordinaria vale aquí, los 144.000 podrían ser una **compañía inicial** especialmente consagrada y no la totalidad de los redimidos, lo cual pesa en contra de igualarlos con la multitud innumerable.
+**Y *primicias* añade su propia presión.** <span class="gr">ἀπαρχή</span> (*aparchē*) en el resto de los escritos apostólicos no suele significar *los únicos que jamás pertenecerán*. Normalmente implica una relación entre una primera porción y algo que sigue — el Mesías es primicias de los que durmieron. Si esa fuerza ordinaria vale aquí, los 144.000 podrían ser una **compañía inicial** especialmente consagrada y no la totalidad de los redimidos, lo cual pesa en contra de igualarlos con la multitud innumerable.
 
 Mientras tanto, la continuidad entre los capítulos 7 y 14 es muy fuerte: siervos sellados con un sello en la **frente**, y ahora el nombre del Padre escrito en la **frente**. Son casi con certeza los mismos 144.000.
 
@@ -282,20 +282,12 @@ Así que el patrón no se fuerza. Eso es lo que esta investigación debe hacer c
 Pude haberla respondido de tres maneras distintas en este capítulo y cada una habría sido defendible. Ninguna habría quedado demostrada.
 :::
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Apocalipsis 7:1-17, Apocalipsis 14:1-5, Ezequiel 9:3-6, Deuteronomio 6:8 e Isaías 49:6 y 49:10 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
-
-Las expresiones breves en cursiva se dan como paráfrasis identificada, no como cita verificada de la Reina-Valera.
-
-La deuda pesa aquí sobre dos palabras que cargan el capítulo entero: *vírgenes* y *primicias* en Apocalipsis 14. El argumento de este capítulo consiste precisamente en que esas dos palabras vuelven más difícil la ecuación fácil, y el lector de esta edición las recibe descritas en vez de vistas. Queda declarada y registrada.
-:::
+<!-- SPANISH-SPECIFIC: Apocalipsis 7:1-17, Apocalipsis 14:1-5, Ezequiel 9:3-6, Deuteronomio 6:8 e Isaías 49:6 y 49:10 se describen en este capítulo en vez de citarse: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Las expresiones breves en cursiva se dan como paráfrasis identificada, no como cita verificada de la Reina-Valera. La deuda pesa aquí sobre dos palabras que cargan el capítulo entero: *vírgenes* y *primicias* en Apocalipsis 14. El argumento de este capítulo consiste precisamente en que esas dos palabras vuelven más difícil la ecuación fácil, y el lector de esta edición las recibe descritas en vez de vistas. Queda declarada y registrada. -->
 
 ::: whereweare
-**Dónde estamos.** Apocalipsis 7 responde la pregunta que hizo el capítulo 6: los que pertenecen al Cordero pueden sostenerse en pie. El juicio se retiene hasta que los siervos de Yahvé quedan sellados en la frente, que es el patrón de Ezequiel — establecido en un oráculo que nombra a Jerusalén, aunque eso da ascendencia y no blanco. La lista tribal está dispuesta deliberadamente y no copiada, y Apocalipsis no dice por qué. La multitud sale de *la gran tribulación*, compartiendo la expresión de Mateo 24:21, y el lenguaje de restauración de Isaías 49 llega casi literal. Lo que no queda establecido es si el número oído y la multitud vista son un solo grupo. El patrón de oír y ver lo vuelve plausible; las vírgenes y las primicias de Apocalipsis 14 lo vuelven más difícil; y el capítulo que lo zanjaría no se ha alcanzado en su turno.
+**Dónde nos deja esto.** Apocalipsis 7 responde la pregunta que hizo el capítulo 6: los que pertenecen al Cordero pueden sostenerse en pie. El juicio se retiene hasta que los siervos de Yahvé quedan sellados en la frente, que es el patrón de Ezequiel — establecido en un oráculo que nombra a Jerusalén, aunque eso da ascendencia y no blanco. La lista tribal está dispuesta deliberadamente y no copiada, y Apocalipsis no dice por qué. La multitud sale de *la gran tribulación*, compartiendo la expresión de Mateo 24:21, y el lenguaje de restauración de Isaías 49 llega casi literal. Lo que no queda establecido es si el número oído y la multitud vista son un solo grupo. El patrón de oír y ver lo vuelve plausible; las vírgenes y las primicias de Apocalipsis 14 lo vuelven más difícil; y el capítulo que lo zanjaría no se ha alcanzado en su turno.
 :::
 
 ::: earned
-**Lo que se ganó.** Una regla sobre consumación anticipada que importará en el milenio, una regla sobre diferir la identificación hasta que Apocalipsis termine de hablar de sus propios símbolos, y una negativa. Lo más útil de este capítulo es la respuesta que no di.
+**La pregunta que esto deja.** Una regla sobre consumación anticipada que importará en el milenio, una regla sobre diferir la identificación hasta que Apocalipsis termine de hablar de sus propios símbolos, y una negativa. Lo más útil de este capítulo es la respuesta que no di.
 :::

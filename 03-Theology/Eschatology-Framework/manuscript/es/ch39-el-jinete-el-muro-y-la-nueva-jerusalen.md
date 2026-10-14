@@ -12,7 +12,7 @@ related: "[[10-manuscript-architecture]], [[02g-revelation-19-babylon-falls-the-
 
 # Capítulo 39: el jinete, el muro y la nueva Jerusalén
 
-Tres capítulos atrás escribí una pregunta y la dejé abierta: ¿quién es Babilonia?
+El capítulo pasado dejé abierta una pregunta: ¿quién es Babilonia?
 
 Apocalipsis 19 abre respondiendo otra distinta: *salvación y honra y gloria y poder son del Señor Dios nuestro, porque sus juicios son verdaderos y justos; pues ha juzgado a la gran ramera que ha corrompido a la tierra con su fornicación, **y ha vengado la sangre de sus siervos de la mano de ella*** (19:1-2).
 
@@ -45,7 +45,7 @@ Ella se preparó, y se le concedió. Apocalipsis sostiene agencia y don en una s
 
 La imaginería nupcial llega hondo en el Tanaj — Isaías, Jeremías, Ezequiel, Oseas. Es el vocabulario pactual propio de Yahvé, no una metáfora romántica añadida después.
 
-De modo que *mujer infiel juzgada → esposa fiel preparada* podría retratar juicio y restauración pactuales. **No se convierte en "Jerusalén destruida, la Iglesia reemplaza a Israel".** Descarté el modelo de la borradura quince capítulos atrás por otros motivos, y una imagen llamativa no reabre una cuestión que la evidencia cerró.
+De modo que *mujer infiel juzgada → esposa fiel preparada* podría retratar juicio y restauración pactuales. **No se convierte en "Jerusalén destruida, la Iglesia reemplaza a Israel".** Descarté el modelo de la borradura en las Partes III y IV por otros motivos, y una imagen llamativa no reabre una cuestión que la evidencia cerró.
 
 Y tampoco cierro aquí a la esposa. Apocalipsis la identificará él mismo, dos capítulos después. La interpretación interna diferida ya se ha ganado esa paciencia de mi parte.
 
@@ -65,7 +65,7 @@ Muchas diademas, frente a las siete del dragón y las diez de la bestia. Realeza
 
 Y la teología del nombre se completa aquí: el nombre y el número de la bestia; el nombre de Yahvé sobre las frentes de los santos; el nombre de misterio de Babilonia; y ahora **un nombre que ninguno conocía sino él mismo**. Identidad, autoridad, pertenencia, revelación — y, al final, misterio más allá de la comprensión de la criatura.
 
-## Un detalle que encontré solo al recuperar, y que fue contra la lectura fácil
+## Un detalle que encontré solo leyendo de cerca, y que fue contra la lectura fácil
 
 Está vestido de **una ropa teñida en sangre**, y su nombre es el Verbo de Dios (19:13).
 
@@ -164,9 +164,7 @@ Puede describir Apocalipsis mejor que la cronología estricta o que la recapitul
 
 Una cosa más que registrar antes del muro. **Apocalipsis coloca las bodas del Cordero antes de los mil años.** Muchísimos esquemas populares colocan la cena de las bodas después de toda la historia escatológica. Secuencial, anticipativo o recapitulativo — sin decidir. Pero no puedo dejar que un diagrama posterior determine el orden de un libro que tiene el suyo.
 
----
-
-# El muro
+## El muro
 
 Apocalipsis 20 es donde esta investigación sobrevive o no sobrevive, y quiero ser explícito sobre la instrucción permanente que me di antes de abrirlo: **aquí no protegemos la hipótesis.**
 
@@ -195,9 +193,9 @@ Yo venía aplicando un control de alcance del atamiento como cuestión de métod
 Y aquí esta edición tiene algo que decir que la inglesa no puede decir.
 
 ::: wordstudy
-**Estudio de palabras — la finalidad, y por qué el castellano llega más cerca `PROPIO DEL CASTELLANO`**
+**Estudio de palabras — la finalidad, y por qué el castellano llega más cerca**
 
-<span class="gr">ἵνα</span> + <span class="gr">μή</span> + subjuntivo aoristo es una **construcción de finalidad**.
+<span class="gr">ἵνα</span> (*hina*) + <span class="gr">μή</span> (*mē*) + subjuntivo aoristo es una **construcción de finalidad**.
 
 | | |
 |---|---|
@@ -206,9 +204,9 @@ Y aquí esta edición tiene algo que decir que la inglesa no puede decir.
 
 **El castellano hace exactamente lo que hace el griego: conjunción final más modo subjuntivo.** No necesita ningún auxiliar, porque el castellano conserva un subjuntivo productivo.
 
-Y el patrón se sostiene a lo largo del versículo entero: *hasta que **fuesen** cumplidos* vierte <span class="gr">ἄχρι τελεσθῇ</span> con el mismo modo; *más* vierte <span class="gr">ἔτι</span>, "ya no más"; y ***debe** ser desatado* vierte <span class="gr">δεῖ</span>.
+Y el patrón se sostiene a lo largo del versículo entero: *hasta que **fuesen** cumplidos* vierte <span class="gr">ἄχρι τελεσθῇ</span> (*achri telesthē*) con el mismo modo; *más* vierte <span class="gr">ἔτι</span> (*eti*), "ya no más"; y ***debe** ser desatado* vierte <span class="gr">δεῖ</span> (*dei*).
 
-📌 Nótese el detalle verificado: la RVR1960 lee *engañase*, subjuntivo imperfecto, no *engañe*. La diferencia es pequeña y es exactamente la clase de cosa que hay que citar y no aproximar.
+Nótese el detalle verificado: la RVR1960 lee *engañase*, subjuntivo imperfecto, no *engañe*. La diferencia es pequeña y es exactamente la clase de cosa que hay que citar y no aproximar.
 
 **Y por eso esta edición no reproduce aquí ninguna discusión sobre auxiliares modales.** Un comentario sobre un artefacto de traducción tiene que componerse contra la base real de cada edición, y nunca traducirse de una a otra. Analizar en castellano una palabra que la Reina-Valera no contiene le parecería un sinsentido a quien tuviera el libro abierto delante — con razón.
 
@@ -217,9 +215,9 @@ Lo que sí se conserva idéntico en las dos ediciones es el hallazgo sobre el gr
 
 Dos palabras más en estos versículos, y las dos importan.
 
-<span class="gr">τελεσθῇ</span> viene de <span class="gr">τελέω</span> — la misma raíz que *telos*, sobre la que discutí varios capítulos tempranos acerca de qué significa *el fin* en Mateo. **Consumación, no mera cesación.** Signifique lo que signifique el mil, la estructura exige un intervalo acotado: atamiento, consumación, liberación. Y la RVR1960 lo conserva bien con *fuesen cumplidos*.
+<span class="gr">τελεσθῇ</span> (*telesthē*) viene de <span class="gr">τελέω</span> (*teleō*) — la misma raíz que *telos*, sobre la que discutí varios capítulos tempranos acerca de qué significa *el fin* en Mateo. **Consumación, no mera cesación.** Signifique lo que signifique el mil, la estructura exige un intervalo acotado: atamiento, consumación, liberación. Y la RVR1960 lo conserva bien con *fuesen cumplidos*.
 
-<span class="gr">δεῖ</span> expresa necesidad. **La pequeña temporada no es Satanás escapándose.** La liberación ocurre dentro de una secuencia ordenada — control de poder delegado por última vez, exactamente en el punto donde sería más fácil imaginar al adversario actuando por su cuenta. Y otra vez la RVR1960 lo conserva: *debe ser desatado*.
+<span class="gr">δεῖ</span> (*dei*) expresa necesidad. **El poco de tiempo no es Satanás escapándose.** La liberación ocurre dentro de una secuencia ordenada — control de poder delegado por última vez, exactamente en el punto donde sería más fácil imaginar al adversario actuando por su cuenta. Y otra vez la RVR1960 lo conserva: *debe ser desatado*.
 
 Y la distinción que tracé allá en el capítulo 12, que me preocupaba haber inventado, queda ahora confirmada por comparación:
 
@@ -233,9 +231,9 @@ Condiciones materialmente distintas. **Derribado no es atado**, y esa lectura qu
 ¿Quién lo ata? **Un ángel.** No Yeshúa personalmente. Lo cual debería impedirme suponer que todo acto decisivo contra el adversario tenga que ser un duelo directo entre el Mesías y Satanás. La autoridad aquí es derivada, no arrebatada — la última nota de un tema que este libro viene tocando desde el capítulo 6.
 
 ::: wordstudy
-**Estudio de palabras — <span class="gr">ἄβυσσος</span>**
+**Estudio de palabras — <span class="gr">ἄβυσσος</span> (*abyssos*)**
 
-<span class="gr">ἄβυσσος</span> *(abyssos)* — literalmente *sin fondo*, *insondable*. En Apocalipsis es un lugar de confinamiento con llave y pozo: de él suben las langostas en el capítulo 9, de él asciende la bestia en 11:7 y 17:8, y en él queda encerrado el dragón aquí.
+<span class="gr">ἄβυσσος</span> (*abyssos*) — literalmente *sin fondo*, *insondable*. En Apocalipsis es un lugar de confinamiento con llave y pozo: de él suben las langostas en el capítulo 9, de él asciende la bestia en 11:7 y 17:8, y en él queda encerrado el dragón aquí.
 
 **Dos rechazos, los dos registrados cuando costaban algo.**
 
@@ -250,36 +248,36 @@ La auditoría completa del hilo del abismo a lo largo de 9:1-2, 9:11, 11:7, 17:8
 
 Juan ve **tronos**, y se sientan sobre ellos **los que recibieron facultad de juzgar**; y ve **las almas de los decapitados** por causa del testimonio de Jesús y por la palabra de Dios, y de los que **no habían adorado a la bestia** ni a su imagen, y no recibieron la marca en sus frentes ni en sus manos (20:4).
 
-📌 Y una ventaja de esta edición, anotada donde ocurre: la RVR1960 dice *recibieron **facultad** de juzgar*, que conserva bien el sentido de autoridad de <span class="gr">κρίμα ἐδόθη αὐτοῖς</span>.
+Y una ventaja de esta edición, anotada donde ocurre: la RVR1960 dice *recibieron **facultad** de juzgar*, que conserva bien el sentido de autoridad de <span class="gr">κρίμα ἐδόθη αὐτοῖς</span>.
 
 La población es exactamente la de los capítulos 6 al 14. Mártires, testimonio, bestia, imagen, marca, perseverancia. **Apocalipsis 20 no está presentando un grupo sin relación.** Está volviendo a los santos perseguidos sobre los que llevo catorce capítulos leyendo — lo cual mantiene la recapitulación muy viva aun mientras la secuencia de los adversarios empuja en el otro sentido.
 
-Y la correspondencia con el capítulo 6 es lo bastante estrecha como para nombrarla. Allí Juan vio <span class="gr">ψυχάς</span>, *las almas* de los muertos bajo el altar, a quienes se dijo que descansaran todavía un poco. Aquí, *las almas* de testigos muertos, que vuelven a la vida y reinan. **Mártires esperando → mártires vindicados y reinando.** Una de las hipótesis de identidad interna más fuertes de toda la investigación, y todavía una hipótesis.
+Y la correspondencia con el capítulo 6 es lo bastante estrecha como para nombrarla. Allí Juan vio <span class="gr">ψυχάς</span> (*psychas*), *las almas* de los muertos bajo el altar, a quienes se dijo que descansaran todavía un poco. Aquí, *las almas* de testigos muertos, que vuelven a la vida y reinan. **Mártires esperando → mártires vindicados y reinando.** Una de las hipótesis de identidad interna más fuertes de toda la investigación, y todavía una hipótesis.
 
 Y entonces llega la frase que no puedo rodear.
 
 ::: finding
-**Hallazgo — un solo verbo, dos versículos contiguos, y en castellano no se ve `PROPIO DEL CASTELLANO`**
+**Hallazgo — un solo verbo, dos versículos contiguos, y en castellano no se ve**
 
 | | Griego | RVR1960 | ¿Paralelo? |
 |---------|--------------------------------------------|----------------------------|---|
 | **20:4** | **<span class="gr">καὶ ἔζησαν καὶ ἐβασίλευσαν</span>** | *y **vivieron** y reinaron* | |
-| **20:5** | **<span class="gr">οἱ λοιποὶ τῶν νεκρῶν οὐκ ἔζησαν</span>** | *los otros muertos **no volvieron a vivir*** | ❌ **roto** |
+| **20:5** | **<span class="gr">οἱ λοιποὶ τῶν νεκρῶν οὐκ ἔζησαν</span>** | *los otros muertos **no volvieron a vivir*** | **roto** |
 
 En griego es **el mismo verbo, en versículos consecutivos, dicho de dos grupos distintos**. Toda la presión de la primera resurrección descansa sobre esa identidad verbal.
 
 **La Reina-Valera 1960 la rompe.** Vierte la primera ocurrencia como *vivieron* y la segunda como *no volvieron a vivir*.
 
-⚠️ **Y esto no es un error de la RVR1960.** *Volver a vivir* es castellano natural para volver a la vida, y usarlo solo donde el sentido es más claro es una decisión de traductor perfectamente defendible. **El problema no es inexactitud: es que un argumento construido sobre *identidad verbal* no sobrevive a una traducción que varía el léxico por estilo.**
+**Y esto no es un error de la RVR1960.** *Volver a vivir* es castellano natural para volver a la vida, y usarlo solo donde el sentido es más claro es una decisión de traductor perfectamente defendible. **El problema no es inexactitud: es que un argumento construido sobre *identidad verbal* no sobrevive a una traducción que varía el léxico por estilo.**
 
-La consecuencia hay que decirla sin suavizarla: **la presión textual más fuerte que ha documentado este proyecto queda parcialmente invisible en la Biblia castellana más usada.** Un lector de la Reina-Valera ve *vivieron* y *no volvieron a vivir*, y puede no notar nunca el paralelo que carga el argumento entero.
+La consecuencia hay que decirla sin suavizarla: **la presión textual más fuerte que ha documentado esta investigación queda parcialmente invisible en la Biblia castellana más usada.** Un lector de la Reina-Valera ve *vivieron* y *no volvieron a vivir*, y puede no notar nunca el paralelo que carga el argumento entero.
 
-📌 La **RVA-2015** sí lo conserva — *volvieron a vivir* / *no volvieron a vivir* — y por eso esta edición la lleva como segundo testigo castellano en los versículos donde la traducción misma carga el argumento.
+La **RVA-2015** sí lo conserva — *volvieron a vivir* / *no volvieron a vivir* — y por eso esta edición la lleva como segundo testigo castellano en los versículos donde la traducción misma carga el argumento.
 
-🛑 Y la regla general que sale de aquí, porque vale más allá de este versículo: **todo argumento que dependa de que una misma palabra aparezca dos veces es frágil ante la traducción, y hay que marcarlo como tal dondequiera que aparezca, en cualquier edición.**
+Y la regla general que sale de aquí, porque vale más allá de este versículo: **todo argumento que dependa de que una misma palabra aparezca dos veces es frágil ante la traducción, y hay que marcarlo como tal dondequiera que aparezca, en cualquier edición.**
 :::
 
-Y entonces Apocalipsis lo nombra: **esta es la primera resurrección** (20:5). <span class="gr">ἀνάστασις</span> es terminología de resurrección, no una metáfora que el libro invente aquí.
+Y entonces Apocalipsis lo nombra: **esta es la primera resurrección** (20:5). <span class="gr">ἀνάστασις</span> (*anastasis*) es terminología de resurrección, no una metáfora que el libro invente aquí.
 
 De modo que la cadena dice: **mártires muertos → volvieron a la vida → anastasis.**
 
@@ -302,7 +300,7 @@ Apocalipsis **no** dice que todos los justos muertos resuciten aquí. Especifica
 Y sobre los que tienen parte en la primera resurrección, **la segunda muerte no tiene potestad** (20:6).
 
 ::: wordstudy
-**Estudio de palabras — <span class="gr">ἐξουσία</span>, y aquí el castellano gana `PROPIO DEL CASTELLANO`**
+**Estudio de palabras — <span class="gr">ἐξουσία</span> (*exousia*), y aquí el castellano gana**
 
 El griego es **<span class="gr">οὐκ ἔχει ἐξουσίαν</span>** — *exousia*, **autoridad**, derecho, jurisdicción.
 
@@ -310,7 +308,7 @@ Es la misma palabra que Apocalipsis usa a lo largo del libro para la autoridad d
 
 **La RVR1960 dice *potestad*, que conserva exactamente ese sentido jurídico.** No es una afirmación sobre fuerza; es una afirmación sobre **jurisdicción**: la segunda muerte no tiene derecho legal sobre ellos.
 
-📌 Y aquí la ventaja entre traducciones se invierte dentro del mismo pasaje: la RVA-2015 dice *ningún poder*, y pierde el matiz que la RVR1960 conserva.
+Y aquí la ventaja entre traducciones se invierte dentro del mismo pasaje: la RVA-2015 dice *ningún poder*, y pierde el matiz que la RVR1960 conserva.
 
 **Lo cual deja una conclusión incómoda y honesta: ninguna traducción, en ninguna de las dos lenguas, es fiable a lo largo de todo este pasaje.** La RVA-2015 conserva el paralelo de la resurrección que la RVR1960 rompe; la RVR1960 conserva el sentido de autoridad que la RVA-2015 pierde. Esa es precisamente la razón por la que las dos ediciones de este libro se anclan al griego y no a ninguna traducción.
 :::
@@ -326,10 +324,10 @@ Apocalipsis dice *reinaron con el Mesías*. No dice: en Jerusalén. En el cielo.
 
 **La ubicación no está enunciada.** Toda propuesta geográfica es por lo tanto secundaria al texto, no derivada de él.
 
-**Incluida la mía.** He llevado a lo largo de esta investigación una línea de material geográfico en un registro diferido, sin usar. Apocalipsis 20 **no aporta puente alguno hacia ella.** Sigue siendo lógicamente posible solo en el sentido más amplio en que lo es cualquier cosa no enunciada, y prefiero escribir esta frase con claridad a dejar un silencio que un lector pudiera confundir con apoyo.
+**Incluida la mía.** He llevado a lo largo de esta investigación una línea de material geográfico, apartada y sin usar. Apocalipsis 20 **no aporta puente alguno hacia ella.** Sigue siendo lógicamente posible solo en el sentido más amplio en que lo es cualquier cosa no enunciada, y prefiero escribir esta frase con claridad a dejar un silencio que un lector pudiera confundir con apoyo.
 :::
 
-## Movimiento III — la pequeña temporada, y una simetría que solo se ve en griego
+## Movimiento III — el poco de tiempo, y una simetría que solo se ve en griego
 
 Cuando los mil años se cumplen, Satanás es suelto de su prisión, y sale **a engañar a las naciones**, a Gog y a Magog, a fin de reunirlos para la batalla (20:7-8).
 
@@ -345,7 +343,7 @@ Mismo verbo. Mismo objeto. **Juan define el atamiento por precisamente la activi
 
 El control de alcance del atamiento es sustancialmente más fuerte en griego, y me era invisible hasta que tuve el griego delante.
 
-📌 Y una nota propia de esta edición: la RVR1960 conserva aquí el paralelo con claridad —*para que no engañase más a las naciones* frente a *saldrá a engañar a las naciones*—, de modo que en este punto el lector castellano está en buena posición. Lo digo porque el versículo anterior fue el caso contrario, y sería deshonesto señalar solo las pérdidas.
+Y una nota propia de esta edición: la RVR1960 conserva aquí el paralelo con claridad —*para que no engañase más a las naciones* frente a *saldrá a engañar a las naciones*—, de modo que en este punto el lector castellano está en buena posición. Lo digo porque el versículo anterior fue el caso contrario, y sería deshonesto señalar solo las pérdidas.
 :::
 
 Lo cual produce una consecuencia que yo no anticipaba y para la que ningún diagrama de mi infancia me había preparado.
@@ -382,7 +380,7 @@ La pregunta que decliné en el capítulo 16 queda ahora sustancialmente resuelta
 
 Un gran trono blanco y el que está sentado en él, de delante del cual huyen la tierra y el cielo; **los muertos, grandes y pequeños**, de pie ante el trono; los libros abiertos; el libro de la vida; juzgados **según sus obras**; el mar entregando sus muertos; **la muerte y el Hades** entregando los suyos; y después **la muerte y el Hades lanzados al lago de fuego** (20:11-14).
 
-Exhaustivo y final en carácter — el horizonte amplio de resurrección y juicio de Juan 5. **Y ocurre después de los mil años y después de la revuelta de la pequeña temporada.**
+Exhaustivo y final en carácter — el horizonte amplio de resurrección y juicio de Juan 5. **Y ocurre después de los mil años y después de la revuelta del poco de tiempo.**
 
 Lo cual significa: si el milenio es pasado, **el juicio final sigue siendo futuro.** Mi modelo no es preterismo pleno, y Apocalipsis 20 mismo distingue los acontecimientos mileniales del juicio final. No tuve que argumentar esa distinción; la hizo el capítulo.
 
@@ -399,20 +397,18 @@ El *telos* último de Pablo se alinea con este acontecimiento final y posmilenia
 Y vindica la distinción que tracé en la Parte V, antes de abrir Apocalipsis: **un siglo puede terminar antes mientras la derrota final de la muerte sigue pendiente.** Lo argumenté desde Hebreos y desde 1 Corintios negándome explícitamente a dejar que Apocalipsis aportara la respuesta. Apocalipsis la ha aportado ahora de manera independiente, lo cual vale más que si la hubiera alcanzado entonces.
 :::
 
-Y una interpretación diferida más paga con dieciocho capítulos de retraso: *esta es la muerte segunda, el lago de fuego*. Apocalipsis introdujo esa expresión en el capítulo 2 y la define por fin aquí. **Primera resurrección → la segunda muerte no tiene potestad. Juicio final → la segunda muerte.** Una estructura de dos etapas, enunciada por el libro.
+Y una interpretación diferida más llega con dieciocho capítulos de retraso: *esta es la muerte segunda, el lago de fuego*. Apocalipsis introdujo esa expresión en el capítulo 2 y la define por fin aquí. **Primera resurrección → la segunda muerte no tiene potestad. Juicio final → la segunda muerte.** Una estructura de dos etapas, enunciada por el libro.
 
----
+## Lo que dejó en pie el muro, y lo que no
 
-# Lo que dejó en pie el muro, y lo que no
-
-::: finding
+::: {.finding .flow}
 **El resultado honesto de Apocalipsis 20**
 
 **Fuertemente apoyado — la secuencia propia de Apocalipsis:**
 
 > Victoria del Mesías → Satanás derribado → fase persecutoria y bestial → bestia y falso profeta derrotados → Satanás **después** atado → intervalo de mil años → Satanás suelto por un período final corto → revuelta de Gog y Magog → Satanás destruido → gran trono blanco → muerte y Hades destruidos.
 
-Esa secuencia es ahora textualmente fuerte y en varios lugares explícita. **La pregunta ya no es si Apocalipsis tiene una pequeña temporada posmilenial. Inequívocamente la tiene.**
+Esa secuencia es ahora textualmente fuerte y en varios lugares explícita. **La pregunta ya no es si Apocalipsis tiene un poco de tiempo posmilenial. Inequívocamente lo tiene.**
 
 **Todavía no probado — y este es el muro:**
 
@@ -425,26 +421,24 @@ El obstáculo es la primera resurrección. Se lee como resurrección, probableme
 Y una corrección contra mi propio modelo ya que estoy aquí: Apocalipsis no dice que los santos estén ocultos de la humanidad ordinaria, ni invisibles, ni geográficamente inaccesibles. Esas son hipótesis mías — lo cual significa que la ausencia de reportes históricos podría contar como evidencia **en contra** de ciertas versiones de mi modelo. Prefiero que eso sea verdad y esté enunciado a que sea falso y quede sin examinar.
 :::
 
----
-
-# Y entonces el libro no termina donde está el muro
+## Y entonces el libro no termina donde está el muro
 
 A Apocalipsis le quedan dos capítulos, y volvieron su cronología más difícil en vez de más fácil.
 
 Juan ve **un cielo nuevo y una tierra nueva**, porque el primer cielo y la primera tierra pasaron, y el mar ya no existe (21:1).
 
-<span class="gr">καινός</span> *(kainos)* lleva *nuevo, fresco, renovado, nuevo en cualidad* — que no es lo mismo que una creación reemplazada por una segunda creación sin relación. Pero el rango léxico por sí solo no puede zanjar la teología, y quiero que eso quede dicho antes de que nadie construya sobre la palabra.
+<span class="gr">καινός</span> (*kainos*) lleva *nuevo, fresco, renovado, nuevo en cualidad* — que no es lo mismo que una creación reemplazada por una segunda creación sin relación. Pero el rango léxico por sí solo no puede zanjar la teología, y quiero que eso quede dicho antes de que nadie construya sobre la palabra.
 
-Isaías 65:17 y 66:22 ya daban *cielos nuevos y tierra nueva*, y el cuadro de Isaías reportadamente contiene casas, viñas, hijos y larga vida — con quien muere a los cien años considerado joven. **Si eso se sostiene al recuperarlo**, la expresión de Isaías puede describir un orden radicalmente transformado que todavía contiene categorías de vida ordinaria, incluida la muerte. Eso importaría mucho. Es una deuda de recuperación, carga peso, y no la he pagado.
+Isaías 65:17 y 66:22 ya daban *cielos nuevos y tierra nueva*, y el cuadro de Isaías reportadamente contiene casas, viñas, hijos y larga vida — con quien muere a los cien años considerado joven. **Si eso se sostiene al leer Isaías completo**, la expresión de Isaías puede describir un orden radicalmente transformado que todavía contiene categorías de vida ordinaria, incluida la muerte. Eso importaría mucho. No lo he comprobado en la fuente, carga peso, y queda sin verificar hasta que lo haga.
 
 Apocalipsis va de todos modos más lejos que Isaías: *ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor*. Lo cual apoya lo que el capítulo 20 ya indicaba — el acontecimiento del gran trono blanco es más final que las escenas anteriores de juicio pactual.
 
 ::: wordstudy
-**Estudio de palabras — <span class="gr">θάλασσα</span>, y por qué el mar tiene su propia auditoría**
+**Estudio de palabras — <span class="gr">θάλασσα</span> (*thalassa*), y por qué el mar tiene su propia auditoría**
 
 *Y el mar ya no existe más* no queda zanjado aquí, y me niego a zanjarlo en una frase.
 
-<span class="gr">θάλασσα</span> *(thalassa)* recorre Apocalipsis cargando más de una cosa: la bestia sube del mar; el mar se vuelve sangre; mercaderes y capitanes viven de él; el mar entrega sus muertos; y aquí ya no está. Si la cláusula final quita una masa de agua, un símbolo de naciones caóticas, la procedencia de la bestia, o una barrera entre pueblos, es una pregunta sobre el uso del libro entero — y apliqué al *mar* la misma lente que había aplicado al *abismo*, por insistencia propia, en vez de dejar en pie la lectura conveniente por ser la última en llegar.
+<span class="gr">θάλασσα</span> (*thalassa*) recorre Apocalipsis cargando más de una cosa: la bestia sube del mar; el mar se vuelve sangre; mercaderes y capitanes viven de él; el mar entrega sus muertos; y aquí ya no está. Si la cláusula final quita una masa de agua, un símbolo de naciones caóticas, la procedencia de la bestia, o una barrera entre pueblos, es una pregunta sobre el uso del libro entero — y apliqué al *mar* la misma lente que había aplicado al *abismo*, por insistencia propia, en vez de dejar en pie la lectura conveniente por ser la última en llegar.
 
 **La auditoría completa está en el Apéndice C.** También está allí la auditoría de redundancia que comprueba si los controles de esta investigación estaban haciendo trabajo independiente o repitiéndose calladamente unos a otros.
 :::
@@ -458,7 +452,7 @@ Un ángel le dice a Juan que va a mostrarle **la desposada, la esposa del Corder
 
 Eso no es una mujer de pie dentro de una ciudad. **La ciudad misma simboliza a la esposa.**
 
-La interpretación interna diferida vuelve a pagar: la esposa que decliné cerrar en Apocalipsis 19 la cierra ahora Apocalipsis, no yo.
+La interpretación interna diferida vuelve a funcionar: la esposa que decliné cerrar en Apocalipsis 19 la cierra ahora Apocalipsis, no yo.
 
 Y advierte contra literalizar la geometría de la ciudad elemento por elemento. Juan está mirando arquitectura comunitaria simbólica.
 
@@ -517,7 +511,7 @@ A y B están sustancialmente mejor fundamentadas. **No se selecciona ninguna.**
 Y 22:11 es más afilado que la lista de los que quedan fuera, que es la parte que a mí me preocupaba: ***el que es injusto, sea injusto todavía*** presupone **agencia moral en curso**, lo cual es dificilísimo de ubicar después de un juicio final irreversible. Empuja hacia A o hacia B con más fuerza que ninguna otra cosa de estos dos capítulos.
 :::
 
-## Un dato que encontré solo al recuperar, y que zanja algo
+## Un dato que encontré solo poniendo los versículos lado a lado, y que zanja algo
 
 | | |
 |---------------------|-------------------------------------------------|
@@ -555,13 +549,13 @@ El libro cierra con el marco temporal exacto con el que abrió. Es una envoltura
 
 A Daniel se le manda **sellar**. A Juan se le manda **no sellar**.
 
-Hasta ahí hay un contraste real, y es el control temporal de obra entera más fuerte que tiene esta investigación. Pero lo enuncié con descuido una vez, y la Parte V lo corrigió, así que llevo aquí la versión corregida y no la más ordenada.
+Hasta ahí hay un contraste real, y es el control temporal de obra entera más fuerte que tiene esta investigación. Pero es fácil enunciarlo con descuido, y la Parte V lo enunció con cuidado, así que llevo aquí la versión cuidadosa y no la más ordenada.
 
 **La asimetría no es un espejo.** El mandato de sellar de Daniel viene con un **término** adjunto —*hasta el tiempo del fin*— no con una razón enunciada. El de Apocalipsis viene con una **razón** adjunta — *porque el tiempo está cerca*.
 
 Que el fin no estuviera todavía sobre Daniel es una **inferencia** razonable a partir del término. No es una cita, y la diferencia entre esas dos cosas es exactamente de lo que trata este libro.
 
-Así que: mandatos opuestos, expresiones temporales contrastantes, una razón enunciada y un término enunciado. Eso sigue siendo notable. No es del todo la simetría que escribí primero, y la versión que sobrevive al escrutinio es la que va en el libro.
+Así que: mandatos opuestos, expresiones temporales contrastantes, una razón enunciada y un término enunciado. Eso sigue siendo notable. No es del todo una simetría de espejo, y la versión que sobrevive al escrutinio es la que va en el libro.
 :::
 
 ## Y la última palabra es una invitación, no un calendario
@@ -600,13 +594,11 @@ Lo cual afila la pregunta central hasta algo que sí puedo probar: **¿qué part
 
 El paso de Apocalipsis 19 al 20 es por ahora el punto de transición candidato más fuerte.
 
-Y una cuestión de terminología, porque usar la etiqueta equivocada escondería lo más digno de atacar. El preterismo parcial estándar sostiene que buena parte de Mateo 24 y del material de juicio de Apocalipsis se cumplió en el primer siglo, mientras el retorno corporal, la resurrección y el juicio final siguen futuros. **Lo que yo estoy investigando es si el reinado de mil años también es pasado**, con la pequeña temporada y el gran trono blanco todavía por delante. Esa no es la posición preterista parcial ordinaria, y llamarla así ocultaría calladamente la parte más distintiva y más vulnerable de la hipótesis.
+Y una cuestión de terminología, porque usar la etiqueta equivocada escondería lo más digno de atacar. El preterismo parcial estándar sostiene que buena parte de Mateo 24 y del material de juicio de Apocalipsis se cumplió en el primer siglo, mientras el retorno corporal, la resurrección y el juicio final siguen futuros. **Lo que yo estoy investigando es si el reinado de mil años también es pasado**, con el poco de tiempo y el gran trono blanco todavía por delante. Esa no es la posición preterista parcial ordinaria, y llamarla así ocultaría calladamente la parte más distintiva y más vulnerable de la hipótesis.
 
-La etiqueta neutra de investigación se mantiene: **hipótesis de milenio pasado y pequeña temporada presente** — hasta que la evidencia se gane algo más definitivo.
+La etiqueta neutra de investigación se mantiene: **hipótesis de milenio pasado y de poco de tiempo presente** — hasta que la evidencia se gane algo más definitivo.
 
----
-
-# De vuelta en el muro
+## De vuelta en el muro
 
 Apocalipsis está terminado. He leído los veintidós capítulos en orden, con los controles construidos antes de abrir las visiones, y puedo decir qué contiene el libro.
 
@@ -616,7 +608,7 @@ Y esa columna tiene un muro en el capítulo 20.
 
 **No porque Apocalipsis sea oscuro ahí.** Apocalipsis 20 es de los capítulos más claros del libro: define su propio atamiento, nombra su propia resurrección, secuencia sus propios adversarios, y distingue su propio milenio de su propio juicio final. El muro no es la oscuridad del texto.
 
-El muro es que la primera resurrección se lee como resurrección —<span class="gr">ἔζησαν</span> en las dos cláusulas, <span class="gr">ἀνάστασις</span> en el versículo que la nombra— y un milenio pasado requiere por lo tanto un acontecimiento en la historia que no he identificado y que no me he ganado.
+El muro es que la primera resurrección se lee como resurrección —<span class="gr">ἔζησαν</span> (*ezēsan*) en las dos cláusulas, <span class="gr">ἀνάστασις</span> (*anastasis*) en el versículo que la nombra— y un milenio pasado requiere por lo tanto un acontecimiento en la historia que no he identificado y que no me he ganado.
 
 Y esta edición tiene que añadir algo que la inglesa no tiene que añadir: **el lector castellano recibe esa presión atenuada por su propia Biblia**, porque la Reina-Valera vierte con dos expresiones distintas el verbo que el griego repite. El muro es igual de alto en las dos lenguas. En una de ellas está peor señalizado, y decirlo es parte de mi trabajo.
 
@@ -627,29 +619,19 @@ Y la respuesta más fuerte del propio Apocalipsis a eso es la primera resurrecci
 Que es adonde tiene que ir la hipótesis a continuación, sin protección.
 
 ::: chain
-**Cadena creciente — Punto de control 4**
+**La cadena creciente — punto de control 4**
 
 *Apocalipsis tiene una columna vertebral. La columna tiene un muro en el capítulo 20.*
 :::
 
-::: textualnote
-**Nota textual — deuda declarada, y lo que esta edición sí pudo citar**
-
-**Citado porque está verificado:** Apocalipsis 20:3 (RVR1960, completo), y las expresiones verificadas de 20:4 *vivieron* y *recibieron facultad de juzgar*, de 20:5 *los otros muertos no volvieron a vivir*, y de 20:6 *no tiene potestad*. Es el único pasaje de Apocalipsis verificado palabra por palabra en castellano en la documentación de este proyecto.
-
-**Descrito, no citado:** todo el resto de Apocalipsis 19, 20:7-15, 21 y 22, junto con Ezequiel 39:17-20, Isaías 63:1-6, Isaías 11:4, 1 Corintios 15:26 e Isaías 65 y 66. No tengo su texto RVR1960 verificado, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Las expresiones en negrita o en cursiva fuera del bloque citado se dan como paráfrasis identificada.
-
-**Base declarada:** RVR1960, con la RVA-2015 como segundo testigo castellano en los versículos sensibles a la traducción. Toda nota de divergencia de este capítulo vale contra esas bases nombradas y contra ninguna otra.
-
-⚠️ **Y una incertidumbre de recuperación, registrada en vez de disimulada:** la recuperación de la RVA-2015 para 20:3 terminó en *hasta que se cumpliesen los mil años*, sin la cláusula *debe ser desatado* que la RVR1960 sí tiene y que el griego exige. **Es casi con certeza un truncamiento de la recuperación y no una omisión de esa edición.** Afirmar que la RVA-2015 omite la cláusula de liberación sobre esta evidencia sería exactamente el error que el capítulo 38 registró sobre la numeración de versículos. Volver a recuperarla antes de cualquier uso.
-:::
+<!-- SPANISH-SPECIFIC: **Citado porque está verificado:** Apocalipsis 20:3 (RVR1960, completo), y las expresiones verificadas de 20:4 *vivieron* y *recibieron facultad de juzgar*, de 20:5 *los otros muertos no volvieron a vivir*, y de 20:6 *no tiene potestad*. Es el único pasaje de Apocalipsis verificado palabra por palabra en castellano en la documentación de este proyecto. **Descrito, no citado:** todo el resto de Apocalipsis 19, 20:7-15, 21 y 22, junto con Ezequiel 39:17-20, Isaías 63:1-6, Isaías 11:4, 1 Corintios 15:26 e Isaías 65 y 66. No tengo su texto RVR1960 verificado, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Las expresiones en negrita o en cursiva fuera del bloque citado se dan como paráfrasis identificada. **Base declarada:** RVR1960, con la RVA-2015 como segundo testigo castellano en los versículos sensibles a la traducción. Toda nota de divergencia de este capítulo vale contra esas bases nombradas y contra ninguna otra. ⚠️ **Y una incertidumbre de recuperación, registrada en vez de disimulada:** la recuperación de la RVA-2015 para 20:3 terminó en *hasta que se cumpliesen los mil años*, sin la cláusula *debe ser desatado* que la RVR1960 sí tiene y que el griego exige. **Es casi con certeza un truncamiento de la recuperación y no una omisión de esa edición.** Afirmar que la RVA-2015 omite la cláusula de liberación sobre esta evidencia sería exactamente el error que el capítulo 38 registró sobre la numeración de versículos. Volver a recuperarla antes de cualquier uso. -->
 
 ::: whereweare
-**Dónde estamos.** La secuencia propia de Apocalipsis está ahora fuertemente apoyada y en algunos lugares es explícita: bestia y falso profeta destruidos, el dragón atado después, un intervalo de mil años, una liberación, una revuelta final, y después un gran trono blanco en el que la muerte misma es destruida. El atamiento lo define funcionalmente el texto y lo confirma en griego la simetría del engaño; derribado no es atado; hay naciones durante los mil años; la ubicación del reinado no está enunciada, tampoco para mi propio material; y el reinado está acotado en el capítulo 20 y sin acotar en el 22, de modo que el milenio no es el estado final. La secuencia de los adversarios es contrapresión real contra la recapitulación total hacia la que yo me inclinaba, y la progresión en espiral encaja ahora mejor que cualquiera de los dos extremos. Apocalipsis termina donde empezó, con pronto, y cerca, y no selles. Lo que sigue sin probarse es lo único que haría mía esta hipótesis en vez de meramente coherente: que los mil años ya sean pasados — lo cual se sostiene o cae según si la primera resurrección puede ubicarse en la historia sin debilitar los estándares que establecieron la resurrección en primer lugar.
+**Dónde nos deja esto.** La secuencia propia de Apocalipsis está ahora fuertemente apoyada y en algunos lugares es explícita: bestia y falso profeta destruidos, el dragón atado después, un intervalo de mil años, una liberación, una revuelta final, y después un gran trono blanco en el que la muerte misma es destruida. El atamiento lo define funcionalmente el texto y lo confirma en griego la simetría del engaño; derribado no es atado; hay naciones durante los mil años; la ubicación del reinado no está enunciada, tampoco para mi propio material; y el reinado está acotado en el capítulo 20 y sin acotar en el 22, de modo que el milenio no es el estado final. La secuencia de los adversarios es contrapresión real contra la recapitulación total hacia la que yo me inclinaba, y la progresión en espiral encaja ahora mejor que cualquiera de los dos extremos. Apocalipsis termina donde empezó, con pronto, y cerca, y no selles. Lo que sigue sin probarse es lo único que haría mía esta hipótesis en vez de meramente coherente: que los mil años ya sean pasados — lo cual se sostiene o cae según si la primera resurrección puede ubicarse en la historia sin debilitar los estándares que establecieron la resurrección en primer lugar.
 :::
 
 ::: earned
-**Lo que se ganó.** Una capa griega que pasó a ser estándar exactamente en el capítulo donde más importaba, y que mostró de inmediato dónde mi propia Biblia castellana me estaba escondiendo el dato más pesado del proyecto. Un hallazgo estructural registrado en contra del modelo que yo quería. Una humildad de ubicación aplicada a mi propia geografía y no solo a la ajena. Una corrección a mi capítulo anterior, impresa donde se cometió el error. Y un muro, nombrado como muro, en el punto exacto donde habría sido más fácil escribir un párrafo que sonara a respuesta.
+**La pregunta que esto deja.** Una capa griega que pasó a ser estándar exactamente en el capítulo donde más importaba, y que mostró de inmediato dónde mi propia Biblia castellana me estaba escondiendo el dato más pesado de la investigación. Un hallazgo estructural registrado en contra del modelo que yo quería. Una humildad de ubicación aplicada a mi propia geografía y no solo a la ajena. Una corrección a mi capítulo anterior, impresa en vez de corregida calladamente. Y un muro, nombrado como muro, en el punto exacto donde habría sido más fácil escribir un párrafo que sonara a respuesta.
 
 **Estado actual de la hipótesis: estructuralmente viable, históricamente no probada.** Cualquier cosa más que esa frase sería algo que no me he ganado — y la Parte VII existe porque salí a buscar razones por las que pudiera ser falsa.
 :::

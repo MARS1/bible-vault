@@ -13,18 +13,14 @@ related: "[[10-manuscript-architecture]], [[01y-revelation-8-9-silence-trumpets-
 # Capítulo 33: las trompetas, el abismo y el Éufrates
 
 ::: textualnote
-**Nota textual — deuda declarada, enunciada antes del capítulo y no enterrada dentro de él**
+**Nota textual — este capítulo describe en vez de citar**
 
-Este capítulo describe Apocalipsis 8 y 9 en vez de citarlos, y hay dos razones apiladas. Ninguna es de estilo.
+Este capítulo describe Apocalipsis 8 y 9 en vez de citarlos, y lo mismo vale para todos los intertextos que hay detrás: los pasajes del silencio, Ezequiel 10, las plagas de Éxodo, el ajenjo y el monte destruidor de Jeremías, las langostas de Joel, y el hebreo y el griego detrás de Abadón y Apolión.
 
-**La primera la hereda esta edición de la investigación misma.** Cuando trabajé estos dos capítulos, lo hice a partir de material que yo había reunido y no de una recuperación fresca palabra por palabra, y lo mismo vale para todos los intertextos que hay detrás: los pasajes del silencio, Ezequiel 10, las plagas de Éxodo, el ajenjo y el monte destruidor de Jeremías, las langostas de Joel, y el hebreo y el griego detrás de Abadón y Apolión. **Toda cita de este capítulo es por lo tanto reportada y no verificada**, y queda registrada como trabajo pendiente en las dos ediciones.
-
-**La segunda es propia de esta edición.** Tampoco tengo texto RVR1960 verificado de estos capítulos, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
-
-No voy a poner comillas alrededor de un texto que no he vuelto a leer en la fuente, y no voy a dejar que un capítulo tome prestada una autoridad de verificación que no tiene.
-
-Eso importa más de lo habitual aquí, porque los dos capítulos siguientes se apoyaron en hallazgos de este antes de que este estuviera escrito como corresponde. Un hueco así corrompe un registro de investigación en silencio si nadie lo nombra. Queda nombrado.
+**Toda cita de este capítulo es por lo tanto reportada y no verificada.** No voy a poner comillas alrededor de un texto que no he vuelto a leer en la fuente, y no voy a dejar que un capítulo tome prestada una autoridad de verificación que no tiene.
 :::
+
+<!-- VERIFICATION TRAIL (oculto, texto del Borrador 1): Cuando trabajé estos dos capítulos, lo hice a partir de material que yo había reunido y no de una recuperación fresca palabra por palabra; queda registrada como trabajo pendiente en las dos ediciones. Tampoco tengo texto RVR1960 verificado de estos capítulos. Eso importa más de lo habitual aquí, porque los dos capítulos siguientes se apoyaron en hallazgos de este antes de que este estuviera escrito como corresponde. Un hueco así corrompe un registro de investigación en silencio si nadie lo nombra. Queda nombrado. -->
 
 ## Se abre el séptimo sello, y da silencio
 
@@ -38,7 +34,7 @@ El patrón es el mismo cada vez: Yahvé presente, juicio inminente, habla humana
 
 ## Vuelven las oraciones
 
-Lo que sigue al silencio conecta directamente con algo de cuatro capítulos antes. Se ofrece incienso con las oraciones de todos los santos; después el ángel toma fuego del altar y lo arroja a la tierra; e inmediatamente hay truenos, relámpagos, voces y un terremoto. Después empiezan las trompetas.
+Lo que sigue al silencio conecta directamente con algo de dos capítulos antes. Se ofrece incienso con las oraciones de todos los santos; después el ángel toma fuego del altar y lo arroja a la tierra; e inmediatamente hay truenos, relámpagos, voces y un terremoto. Después empiezan las trompetas.
 
 La oración sube. El juicio baja.
 
@@ -66,7 +62,7 @@ Lo cual levanta una pregunta obvia, y la quiero en el registro en el capítulo q
 
 **Si Apocalipsis pone a algún poder condenado en el papel de Egipto, ¿quién ocupa ese papel?**
 
-Deliberadamente no la respondo. Tengo una sospecha, y una sospecha registrada como sospecha vale algo; una sospecha cobrada antes de tiempo no vale nada. El libro tiene derecho a responder su propia pregunta, en su turno, cuando llegue a lo que aporte la respuesta.
+Deliberadamente no la respondo. Tengo una sospecha, y una sospecha registrada como sospecha vale algo; una sospecha usada antes de tiempo no vale nada. El libro tiene derecho a responder su propia pregunta, en su turno, cuando llegue a lo que aporte la respuesta.
 
 **Guardada.**
 :::
@@ -96,7 +92,7 @@ La repetición es demasiado sistemática para ser incidental. Son juicios acotad
 
 Eso encaja con el patrón recurrente de *le fue dado* en Apocalipsis. El juicio aquí es severo y es limitado, y el texto lo dice numéricamente en vez de dejar que yo lo infiera.
 
-⚖️ **Y aquí va la afirmación honesta de lo que esto hace por mi hipótesis, porque la tentación de exagerarlo es real.**
+**Y aquí va la afirmación honesta de lo que esto hace por mi hipótesis, porque la tentación de exagerarlo es real.**
 
 Una imaginería apocalíptica enorme **no** equivale necesariamente a consumación final y universal. Ese es precisamente el espacio conceptual que requiere una lectura de cumplimiento pasado — significa que no estoy obligado a colocar cada visión catastrófica al final de la historia.
 
@@ -227,9 +223,9 @@ Lo cual vuelve más punzante, y no menos, la pregunta que guardé antes. Si Apoc
 :::
 
 ::: whereweare
-**Dónde estamos.** El séptimo sello da silencio, y el patrón tanájico de silencio-antes-del-juicio lo vuelve inteligible sin importar nada. Las oraciones de los mártires suben y el fuego del altar baja, continuando el hilo de vindicación del quinto sello. Las trompetas corren un patrón de éxodo —plagas, negativa, endurecimiento— y se limitan repetidamente a una tercera parte, lo cual establece juicio parcial acotado y le da a una lectura de cumplimiento pasado espacio conceptual sin darle ninguna evidencia. Las langostas explícitamente no son langostas ordinarias y no pueden tocar a los sellados del capítulo 7, lo cual prueba que el capítulo 7 era estructural y no una interrupción. Lo que no queda establecido: la identidad de la estrella caída, de Abadón, ni de los jinetes del Éufrates; y ninguna cita de este capítulo ha sido verificada por recuperación, lo cual queda registrado como deuda en vez de disimulado.
+**Dónde nos deja esto.** El séptimo sello da silencio, y el patrón tanájico de silencio-antes-del-juicio lo vuelve inteligible sin importar nada. Las oraciones de los mártires suben y el fuego del altar baja, continuando el hilo de vindicación del quinto sello. Las trompetas corren un patrón de éxodo —plagas, negativa, endurecimiento— y se limitan repetidamente a una tercera parte, lo cual establece juicio parcial acotado y le da a una lectura de cumplimiento pasado espacio conceptual sin darle ninguna evidencia. Las langostas explícitamente no son langostas ordinarias y no pueden tocar a los sellados del capítulo 7, lo cual prueba que el capítulo 7 era estructural y no una interrupción. Lo que no queda establecido: la identidad de la estrella caída, de Abadón, ni de los jinetes del Éufrates; y las citas de este capítulo son reportadas y no verificadas, cosa que el capítulo dice desde el principio en vez de disimularla.
 :::
 
 ::: earned
-**Lo que se ganó.** Una regla que impide leer catástrofe como consumación, una regla que mantiene el juicio moral en vez de meramente meteorológico, y un recuerdo corregido que muestra por qué la memoria hay que comprobarla y no confiarle. Y una pregunta dejada deliberadamente en mis manos en vez de respondida: Apocalipsis está montando un éxodo, y todavía no ha dicho quién hace de Egipto.
+**La pregunta que esto deja.** Una regla que impide leer catástrofe como consumación, una regla que mantiene el juicio moral en vez de meramente meteorológico, y un recuerdo corregido que muestra por qué la memoria hay que comprobarla y no confiarle. Y una pregunta dejada deliberadamente en mis manos en vez de respondida: Apocalipsis está montando un éxodo, y todavía no ha dicho quién hace de Egipto.
 :::

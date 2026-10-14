@@ -39,12 +39,12 @@ Hay contenido sobre estos acontecimientos que Yahvé no le dio al lector. El lib
 
 Eso destruye una expectativa particular que yo no sabía que cargaba: que un intérprete suficientemente cuidadoso podría, en principio, reconstruir cada detalle del apocalipsis. Parte de eso deliberadamente no se dio.
 
-Para una investigación que lleva tantas etapas construyendo una cronología, vale la pena que el texto lo diga en voz alta. Daniel dijo que oyó y no entendió. Apocalipsis dice que hay algo que no va a escribir. Ninguna de las dos cosas es un fracaso del lector.
+Para una investigación ya tan metida en la construcción de una cronología, vale la pena que el texto lo diga en voz alta. Daniel dijo que oyó y no entendió. Apocalipsis dice que hay algo que no va a escribir. Ninguna de las dos cosas es un fracaso del lector.
 :::
 
 ## "Ya no habrá dilación" — y el hilo se tensa
 
-El ángel jura por el Creador que habrá <span class="gr">χρόνος οὐκέτι</span> — célebremente vertido como *que el tiempo no sería más*, pero que en contexto se toma mejor como **que ya no habrá más dilación**, puesto que el versículo siguiente explica que en los días de la séptima trompeta se consumaría el misterio de Dios, como lo anunció a sus siervos los profetas.
+El ángel jura por el Creador que habrá <span class="gr">χρόνος οὐκέτι</span> (*chronos ouketi*) — célebremente vertido como *que el tiempo no sería más*, pero que en contexto se toma mejor como **que ya no habrá más dilación**, puesto que el versículo siguiente explica que en los días de la séptima trompeta se consumaría el misterio de Dios, como lo anunció a sus siervos los profetas.
 
 Apocalipsis no está anunciando la abolición de la existencia cronológica. Está anunciando que la espera se acaba.
 
@@ -69,7 +69,7 @@ El rollo es dulce en la boca y amargo en el vientre. Ezequiel recibió un rollo,
 
 Apocalipsis está retratando explícitamente a Juan en una comisión profética con forma de Ezequiel. Y vale la pena detenerse en cuántas conexiones con Ezequiel se han acumulado ya dentro de cuatro capítulos: las frentes marcadas, el fuego del santuario arrojado sobre una ciudad, los cuatro juicios, y ahora el rollo comido.
 
-A Juan se le dice después que le es necesario profetizar **otra vez** sobre muchos pueblos, naciones, lenguas y reyes. *Profetizar acerca de* no es automáticamente *evangelizar personalmente a cada individuo* — y otra vez Apocalipsis usa categorías multinacionales amplias sin requerir contacto individual exhaustivo. Eso va con la distinción de tres términos que tracé dos capítulos atrás, y la guardo en vez de gastarla.
+A Juan se le dice después que le es necesario profetizar **otra vez** sobre muchos pueblos, naciones, lenguas y reyes. *Profetizar acerca de* no es automáticamente *evangelizar personalmente a cada individuo* — y otra vez Apocalipsis usa categorías multinacionales amplias sin requerir contacto individual exhaustivo. Eso va con la distinción de tres términos que tracé dos capítulos atrás, y la anoto en vez de usarla.
 
 ## La caña de medir, y lo que queda deliberadamente fuera
 
@@ -122,7 +122,7 @@ Los cadáveres de los testigos quedan en la calle de **la grande ciudad que en s
 Hay que leer las tres designaciones por separado, porque el versículo mismo las separa.
 
 ::: finding
-**Hallazgo — el primer referente histórico que me da Apocalipsis**
+**Hallazgo — el primer anclaje histórico directo dentro de las visiones de juicio**
 
 *Sodoma* y *Egipto* están marcadas explícitamente como simbólicas — el texto dice **en sentido espiritual se llama**.
 
@@ -210,7 +210,7 @@ Si yo pretendiera tender cada afirmación de resurrección y de juicio sobre un 
 
 Hay marcos candidatos disponibles. Recapitulación — una visión posterior que vuelve a una realidad anterior desde otro ángulo. Prolepsis — anticipar una consumación a la que la narración no ha llegado. O acontecimientos genuinamente secuenciales y distintos. O algo que no se me ha ocurrido.
 
-🛑 **No selecciono ninguno.** Tanto la recapitulación como la prolepsis están en mi caja de herramientas, y **ninguna puede invocarse meramente porque el calendario necesite una.** Ese es exactamente el modo de fallo del freno de compresión con otro nombre, y ese freno lo escribí para detenerme a mí, no para detener a otros.
+**No selecciono ninguno.** Tanto la recapitulación como la prolepsis están en mi caja de herramientas, y **ninguna puede invocarse meramente porque el calendario necesite una.** Ese es exactamente el modo de fallo del freno de compresión con otro nombre, y ese freno lo escribí para detenerme a mí, no para detener a otros.
 
 Registrado. Llevado adelante. No armonizado.
 :::
@@ -225,20 +225,12 @@ Y el capítulo cierra con imaginería de pacto — el templo de Dios abierto en 
 
 Mi cronología acaba de volverse mucho más **constreñida**, que es algo distinto de quedar confirmada.
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Apocalipsis 10:1-11 y 11:1-19 se describen en este capítulo en vez de citarse, igual que Ezequiel 2-3, Zacarías 4, Isaías 1:10 y 1 Reyes 17: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
-
-Las expresiones que aparecen en negrita o en cursiva, incluida la de 11:8, se dan como paráfrasis identificada y no como cita verificada de la Reina-Valera.
-
-La deuda es particularmente costosa en 11:8, que es el hallazgo central de este capítulo y descansa en la distinción entre dos designaciones marcadas *en sentido espiritual* y una tercera que no lo está. Ese contraste se ve mejor en la página que descrito, y el lector de esta edición lo recibe descrito. Queda declarada y registrada como prioridad.
-:::
+<!-- SPANISH-SPECIFIC: Apocalipsis 10:1-11 y 11:1-19 se describen en este capítulo en vez de citarse, igual que Ezequiel 2-3, Zacarías 4, Isaías 1:10 y 1 Reyes 17: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Las expresiones que aparecen en negrita o en cursiva, incluida la de 11:8, se dan como paráfrasis identificada y no como cita verificada de la Reina-Valera. La deuda es particularmente costosa en 11:8, que es el hallazgo central de este capítulo y descansa en la distinción entre dos designaciones marcadas *en sentido espiritual* y una tercera que no lo está. Ese contraste se ve mejor en la página que descrito, y el lector de esta edición lo recibe descrito. Queda declarada y registrada como prioridad. -->
 
 ::: whereweare
-**Dónde estamos.** Los capítulos 10 y 11 están dentro de la sexta trompeta y no flotando sueltos. Apocalipsis sella los siete truenos y con ello les dice a sus lectores que no se ofrece una reconstrucción completa. El hilo temporal se tensa de *cerca* a *un poco más* y a *ya no hay dilación*. Y en 11:8 el libro aporta su primer referente histórico en vez de otro patrón: la grande ciudad donde su Señor fue crucificado, llamada simbólicamente Sodoma y Egipto — lo cual responde la pregunta del éxodo que el capítulo anterior guardó deliberadamente, con una palabra que aportó Apocalipsis y no yo. La acusación es pactual, dentro de la propia tradición profética de Israel, y no puede volverse étnica jamás. Quedan abiertas la fecha de composición, los testigos, la bestia, los intervalos danielicos, y por qué la séptima trompeta anuncia el juicio de los muertos nueve capítulos antes que Apocalipsis 20.
+**Dónde nos deja esto.** Los capítulos 10 y 11 están dentro de la sexta trompeta y no flotando sueltos. Apocalipsis sella los siete truenos y con ello les dice a sus lectores que no se ofrece una reconstrucción completa. El hilo temporal se tensa de *cerca* a *un poco más* y a *ya no hay dilación*. Y en 11:8 el libro aporta un anclaje histórico directo para la gran ciudad en vez de otro patrón: la grande ciudad donde su Señor fue crucificado, llamada simbólicamente Sodoma y Egipto — lo cual responde la pregunta del éxodo que el capítulo anterior guardó deliberadamente, con una palabra que aportó Apocalipsis y no yo. La acusación es pactual, dentro de la propia tradición profética de Israel, y no puede volverse étnica jamás. Quedan abiertas la fecha de composición, los testigos, la bestia, los intervalos danielicos, y por qué la séptima trompeta anuncia el juicio de los muertos nueve capítulos antes que Apocalipsis 20.
 :::
 
 ::: earned
-**Lo que se ganó.** Un anclaje histórico que vino del texto y no de mi modelo, y una regla que me impide reconstruir lo que el libro se negó a escribir. También una deuda que no puedo saldar razonando: la cuestión de la datación es ahora estructural, me ayudaría enormemente, y precisamente por eso hay que zanjarla en otro lugar que no sea aquí.
+**La pregunta que esto deja.** Un anclaje histórico que vino del texto y no de mi modelo, y una regla que me impide reconstruir lo que el libro se negó a escribir. También una pregunta que el razonamiento no puede zanjar: la cuestión de la datación es ahora estructural, me ayudaría enormemente, y precisamente por eso hay que zanjarla en otro lugar que no sea aquí.
 :::

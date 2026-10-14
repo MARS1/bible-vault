@@ -26,7 +26,7 @@ Antes de identificar nada, hay que establecerle al vocabulario su ascendencia. Z
 
 Signifiquen lo que signifiquen los jinetes, la imaginería de Juan sale de los profetas de Israel y no de la nada. Zacarías antes que el periódico.
 
-Una nota de honestidad: la visión de los carros de Zacarías la tengo en resumen y no palabra por palabra, así que la registro como reportada y no como verificada, y no apoyo peso en sus detalles.
+Una nota de honestidad: la visión de los carros de Zacarías la tengo en resumen y no palabra por palabra, así que la trato como reportada y no como verificada, y no apoyo peso en sus detalles.
 
 ## El primer sello, y una identificación que no estoy haciendo
 
@@ -105,7 +105,7 @@ Los mismos cuatro, en un oráculo profético cuyo blanco declarado es Jerusalén
 
 **Lo que esto establece:** el cuarto sello de Apocalipsis está usando vocabulario establecido de juicio pactual. No es lenguaje genérico de desastre flotando suelto por fuera de la Escritura.
 
-🛑 **Lo que no establece, y el freno se pone en la misma frase:** que el blanco de Apocalipsis 6 sea Jerusalén. El oráculo de Ezequiel tenía su propio referente histórico. Lo que encontré es la **ascendencia del vocabulario**, no la identidad del nuevo blanco. Son hallazgos distintos y no se me permite fundirlos.
+**Lo que no establece, y el freno se pone en la misma frase:** que el blanco de Apocalipsis 6 sea Jerusalén. El oráculo de Ezequiel tenía su propio referente histórico. Lo que encontré es la **ascendencia del vocabulario**, no la identidad del nuevo blanco. Son hallazgos distintos y no se me permite fundirlos.
 :::
 
 Esa distinción merece enunciarse como método, porque ahorra capítulos enteros de especulación. Ante el cuarto sello, un lector podría preguntar *¿qué mecanismo moderno podría causar estas muertes?* Pero la imaginería de Juan tiene una ascendencia bíblica rastreable — Zacarías, Ezequiel, las maldiciones del pacto. Así que la primera pregunta interpretativa no es *¿qué cosa contemporánea se parece a esto?* Es **¿qué comunica esta combinación de imágenes proféticas de juicio dentro de la Escritura?**
@@ -114,16 +114,16 @@ Esa distinción merece enunciarse como método, porque ahorra capítulos enteros
 
 Bajo el altar están las almas de los muertos por la palabra de Dios y por el testimonio que tenían, y claman preguntando **hasta cuándo** tardará el juicio y la vindicación de su sangre. Reciben vestiduras blancas y se les dice que **descansen todavía un poco de tiempo**, hasta que se complete el número de sus consiervos y hermanos que habían de ser muertos como ellos.
 
-No se les dice que esperen a través de innumerables edades lejanas. Se les dice que descansen **todavía un poco** — <span class="gr">χρόνον μικρόν</span>.
+No se les dice que esperen a través de innumerables edades lejanas. Se les dice que descansen **todavía un poco** — <span class="gr">χρόνον μικρόν</span> (*chronon mikron*).
 
 Por sí sola esa expresión necesita interpretación contextual y no voy a sobreleerla aislada. Pero se aplica el principio del conjunto del capítulo anterior, y el conjunto sigue creciendo:
 
 ::: evidence
-**Cuánto pesa la evidencia — el conjunto temporal, ahora con el quinto sello dentro**
+**El conjunto temporal, ahora con el quinto sello dentro**
 
 *las cosas que deben suceder pronto* (1:1) · *el tiempo está cerca* (1:3) · *vendré pronto a ti* (2:16) · *vengo pronto* (3:11) · siete asambleas históricas de Asia · *los que le traspasaron* (1:7) · Juan ya copartícipe en la tribulación (1:9) · y ahora **descansad todavía un poco de tiempo** (6:11).
 
-**APOYA** — un horizonte sustancialmente más cercano a Juan que lo que permite un futuro lejano por defecto.
+El conjunto <span class="grade">apoya</span> un horizonte sustancialmente más cercano a Juan que lo que permite un futuro lejano por defecto.
 
 Hay que pesarlos de manera acumulada, no neutralizarlos de uno en uno. Cualquiera de ellos puede explicarse individualmente; precisamente por eso existe la regla.
 :::
@@ -147,14 +147,14 @@ Apocalipsis 6 tiene testigos muertos **bajo el altar**, preguntando hasta cuánd
 
 El detalle del altar no es incidental. Mateo ubica un asesinato *entre el templo y el altar*; Apocalipsis ubica a los mártires *bajo el altar*.
 
-Es una correspondencia seria. **No** es prueba, y la registro exactamente con esa fuerza. Lo que sí diré es que la noté únicamente porque recuperé Mateo 23 entero en vez de citar la línea que ya me sabía.
+Es una correspondencia seria. **No** es prueba, y la registro exactamente con esa fuerza. Lo que sí diré es que la noté únicamente porque leí Mateo 23 entero en vez de citar la línea que ya me sabía.
 :::
 
 Apocalipsis describirá más adelante a Babilonia ebria de la sangre de los santos, y asociará una gran ciudad con el lugar donde su Señor fue crucificado. **No** estoy resolviendo a Babilonia aquí. Si esas descripciones identifican una sola ciudad simbólica, aspectos distintos de una, o algo más complejo, hay que determinarlo cuando Apocalipsis llegue a ellas. Lo que registro ahora es solo esto: el juicio de Apocalipsis está conectado repetidamente con la vindicación de santos asesinados.
 
 Y los mártires piden juicio. Lo cual significa que lo que venga después puede ser la respuesta a su oración — una pregunta que la secuencia misma invita, no una que yo importe.
 
-## El sexto sello, y el momento en que el trabajo anterior pagó
+## El sexto sello, y el momento en que el trabajo anterior se sostuvo
 
 El sexto sello trae un gran terremoto, el sol negro como tela de cilicio, la luna como sangre, las estrellas del cielo cayendo como los higos que caen de la higuera sacudida por un viento fuerte, el cielo **retirado como un pergamino que se enrolla**, y todo monte e isla removidos de su lugar.
 
@@ -175,11 +175,9 @@ Así que el lenguaje de colapso cósmico **puede** describir el derrumbe de un r
 
 Quiero ser preciso sobre el estatus epistémico de lo que acaba de pasar, porque es el momento metodológico más fuerte de este capítulo.
 
-El hallazgo del juicio cósmico se estableció varias Partes atrás, contra otra pregunta, antes de que Apocalipsis estuviera abierto delante de mí. No se construyó para rescatar nada aquí.
+El hallazgo del juicio cósmico se estableció en la Parte II, contra otra pregunta —el sol oscurecido y las estrellas que caen de Mateo 24—, mucho antes de que esta investigación llegara a Apocalipsis. No se construyó para rescatar nada aquí. El capítulo 9 ya notó que el cielo de Apocalipsis 6:14, retirado como un pergamino que se enrolla, es casi exactamente la expresión de Isaías 34; lo que no hizo fue leer la secuencia de los sellos a su alrededor.
 
-Entonces Apocalipsis 6:14 dijo que el cielo se retiró como un pergamino que se enrolla — que es casi exactamente la expresión de Isaías 34, llegando por su cuenta.
-
-Una herramienta construida para un propósito, que sobrevive al contacto con un texto para el que no fue diseñada, vale más que una herramienta inventada en el momento en que se la necesita. Si yo hubiera construido la lectura del colapso cósmico en este capítulo, sería un alegato interesado. La construí en la Parte II, y entró aquí sola.
+Una herramienta construida para un propósito, que se sostiene en un texto para el que no fue diseñada, vale más que una herramienta inventada en el momento en que se la necesita. Si yo hubiera construido la lectura del colapso cósmico en este capítulo, sería un alegato interesado. La construí en la Parte II, para Mateo 24, y aquí se sostiene.
 :::
 
 ## Y un detalle que dejo abierto, y que me habría ayudado
@@ -249,7 +247,7 @@ De ninguna manera estoy decidiendo prematuramente que sean el mismo grupo. Lo qu
 
 ## Lo que este capítulo hizo y lo que no
 
-No probó la hipótesis de la pequeña temporada. Ni de lejos tengo derecho a eso.
+No probó la hipótesis del poco de tiempo. Ni de lejos tengo derecho a eso.
 
 Lo que sí hizo es dejar que la hipótesis de la exaltación sobreviviera a su primera prueba seria. Si Apocalipsis 5 retrata la exaltación del Mesías después de la resurrección, Apocalipsis 6 puede describir coherentemente juicios que la siguen — y el capítulo carga vindicación de mártires, *un poco más de tiempo*, la culpa de sangre de Mateo 23, el patrón de juicio de Mateo 24, el clamor de Oseas tal como Yeshúa lo aplicó a Jerusalén, la imaginería tanájica de colapso cósmico, y los cuatro juicios pactuales de Ezequiel.
 
@@ -267,20 +265,12 @@ El horizonte del primer siglo se está volviendo más económico textualmente, n
 Cada una de ellas habría fortalecido mi hipótesis si la hubiera cerrado como yo quería. Precisamente por eso quedan registradas como abiertas, y por eso existe esta lista — para que un capítulo posterior no pueda suponer en silencio lo que este se negó a decidir.
 :::
 
-::: textualnote
-**Nota textual — deuda declarada**
-
-Apocalipsis 6:1-17 se describe entero en este capítulo en vez de citarse, igual que Ezequiel 14:21, Oseas 10:8, Lucas 23:28-31, Mateo 23:35-37 e Isaías 13 y 34: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas.
-
-Las expresiones breves que aparecen entre comillas o en cursiva se dan como paráfrasis identificada, no como cita verificada de la Reina-Valera.
-
-La deuda pesa especialmente en dos lugares: el *descansad todavía un poco de tiempo* del quinto sello, que entra en el conjunto temporal acumulado, y el *caed sobre nosotros* del sexto, cuya cadena con Oseas y Lucas depende de que se vean las mismas palabras. Queda declarada y registrada.
-:::
+<!-- SPANISH-SPECIFIC: Apocalipsis 6:1-17 se describe entero en este capítulo en vez de citarse, igual que Ezequiel 14:21, Oseas 10:8, Lucas 23:28-31, Mateo 23:35-37 e Isaías 13 y 34: no tengo su texto RVR1960 verificado en la documentación del proyecto, y esta edición no traduce al castellano citas tomadas de Biblias inglesas. Las expresiones breves que aparecen entre comillas o en cursiva se dan como paráfrasis identificada, no como cita verificada de la Reina-Valera. La deuda pesa especialmente en dos lugares: el *descansad todavía un poco de tiempo* del quinto sello, que entra en el conjunto temporal acumulado, y el *caed sobre nosotros* del sexto, cuya cadena con Oseas y Lucas depende de que se vean las mismas palabras. Queda declarada y registrada. -->
 
 ::: whereweare
-**Dónde estamos.** Los sellos toman su vocabulario de Zacarías y de Ezequiel y no de nada moderno, y el cuarto sello reproduce los cuatro juicios pactuales de Ezequiel — cuyo blanco declarado era Jerusalén, aunque eso establece ascendencia y no blanco. Apocalipsis muestra repetidamente autoridad que *se le da* a agentes que no la originaron, en un libro cuyo trono estaba ocupado antes de que ninguno se moviera. A los mártires se les dice que descansen todavía un poco, lo cual se suma a un conjunto temporal que ya recorre seis capítulos. El colapso cósmico del sexto sello habla el lenguaje que Isaías usó de Babilonia y de Edom y Ezequiel de Egipto — un hallazgo construido antes de abrir Apocalipsis, que después entró solo. Y el clamor *montes, caed sobre nosotros* llega a Apocalipsis pasando por Yeshúa aplicando Oseas a las hijas de Jerusalén. Lo que nada de esto establece es el blanco, el jinete, las estrellas ni el alcance. Había cinco identificaciones disponibles y las cinco quedan abiertas.
+**Dónde nos deja esto.** Los sellos toman su vocabulario de Zacarías y de Ezequiel y no de nada moderno, y el cuarto sello reproduce los cuatro juicios pactuales de Ezequiel — cuyo blanco declarado era Jerusalén, aunque eso establece ascendencia y no blanco. Apocalipsis muestra repetidamente autoridad que *se le da* a agentes que no la originaron, en un libro cuyo trono estaba ocupado antes de que ninguno se moviera. A los mártires se les dice que descansen todavía un poco, lo cual se suma a un conjunto temporal que ya recorre seis capítulos. El colapso cósmico del sexto sello habla el lenguaje que Isaías usó de Babilonia y de Edom y Ezequiel de Egipto — un hallazgo construido en la Parte II para Mateo 24, que aquí también se sostiene. Y el clamor *montes, caed sobre nosotros* llega a Apocalipsis pasando por Yeshúa aplicando Oseas a las hijas de Jerusalén. Lo que nada de esto establece es el blanco, el jinete, las estrellas ni el alcance. Había cinco identificaciones disponibles y las cinco quedan abiertas.
 :::
 
 ::: earned
-**Lo que se ganó.** Las herramientas sobrevivieron a su primer contacto, y sobrevivieron sin ser ajustadas para que calzaran. Una regla sobre autoridad delegada que voy a necesitar cuando el dragón empiece a repartir poder, y una regla sobre preguntas y respuestas que me impide tratar el capítulo siguiente como una interrupción. El capítulo 6 terminó preguntando quién podrá sostenerse en pie. No se me permite saltarme la respuesta.
+**La pregunta que esto deja.** Las herramientas sobrevivieron a su primer contacto, y sobrevivieron sin ser ajustadas para que calzaran. Una regla sobre autoridad delegada que voy a necesitar cuando el dragón empiece a repartir poder, y una regla sobre preguntas y respuestas que me impide tratar el capítulo siguiente como una interrupción. El capítulo 6 terminó preguntando quién podrá sostenerse en pie. No se me permite saltarme la respuesta.
 :::
