@@ -26,17 +26,17 @@ So the natural next move is to ask whether the apostolic writers say the *oikoum
 
 ## The table that changed the chapter
 
-I retrieved every scope term in every proclamation text I had been leaning on, and put them side by side.
+I set every scope term in every proclamation text I had been leaning on side by side, in the Greek.
 
 ::: evidence
-**How strongly evidence bears — the scope terms, all verified by retrieval**
+**The scope terms, checked in the Greek**
 
 | Text | Greek scope term | Whose word? |
 |---|---|---|
 | **Matthew 24:14** | <span class="gr">ἐν ὅλῃ τῇ οἰκουμένῃ</span> | **Matthew's** |
 | **Luke 2:1** | <span class="gr">πᾶσαν τὴν οἰκουμένην</span> | **Luke's** |
 | **Acts 11:28** | <span class="gr">ἐφ' ὅλην τὴν οἰκουμένην</span> | **Luke's** |
-| **Romans 10:18** | <span class="gr">πᾶσαν τὴν γῆν … τὰ πέρατα τῆς οἰκουμένης</span> | ❗ **quoted verbatim from LXX Psalm 18:5 — not Paul's own** |
+| **Romans 10:18** | <span class="gr">πᾶσαν τὴν γῆν … τὰ πέρατα τῆς οἰκουμένης</span> | **quoted verbatim from LXX Psalm 18:5 — not Paul's own** |
 | **Colossians 1:6** | <span class="gr">ἐν παντὶ τῷ κόσμῳ</span> | **Paul's — but a different word** |
 | **Colossians 1:23** | <span class="gr">ἐν πάσῃ κτίσει τῇ ὑπὸ τὸν οὐρανόν</span> | **Paul's — a third different word** |
 :::
@@ -46,9 +46,9 @@ I retrieved every scope term in every proclamation text I had been leaning on, a
 
 **Paul never chooses *oikoumenē* in any proclamation text.**
 
-The single occurrence in Paul is Romans 10:18, where the last chapter verified he is quoting the Septuagint word for word. Where Paul writes in his own words, he uses <span class="gr">κόσμος</span> *(kosmos)* at Colossians 1:6 and <span class="gr">κτίσις</span> *(ktisis)* at Colossians 1:23. Two different words, neither of them Matthew's.
+The single occurrence in Paul is Romans 10:18, where the last chapter verified he is quoting the Septuagint word for word. Where Paul writes in his own words, he uses <span class="gr">κόσμος</span> (*kosmos*) at Colossians 1:6 and <span class="gr">κτίσις</span> (*ktisis*) at Colossians 1:23. Two different words, neither of them Matthew's.
 
-So the move I had been making — *Paul says the good news reached the whole world, which is Matthew's* oikoumenē*, therefore Matthew 24:14 was fulfilled* — **collapses under retrieval.** It relied on **English** supplying a single word, *world*, for three distinct Greek terms, only one of which Matthew used, and that one Paul did not choose.
+So the move I had been making — *Paul says the good news reached the whole world, which is Matthew's* oikoumenē*, therefore Matthew 24:14 was fulfilled* — **does not survive a check of the Greek.** It relied on **English** supplying a single word, *world*, for three distinct Greek terms, only one of which Matthew used, and that one Paul did not choose.
 
 **The bridge is not where I thought it was.** Luke, not Paul, is the real lexical control on Matthew's word.
 :::
@@ -86,18 +86,18 @@ That is a consistency requirement. It is not evidence that Matthew 24:14 was ful
 :::
 
 ::: evidence
-**How strongly evidence bears — the brake against myself, at equal force**
+**The brake against myself, at equal force**
 
-*Paul says whole world, therefore Matthew 24:14 was fulfilled* is **NOT ENOUGH**. Different author, different vocabulary — now verified — different rhetorical setting, different proposition.
+*Paul says whole world, therefore Matthew 24:14 was fulfilled* is **not enough**. Different author, different vocabulary — now verified — different rhetorical setting, different proposition.
 
 **Paul never writes that Matthew 24:14 has been fulfilled.** Nobody in the New Testament does.
 
 | | Status |
 |---|---|
-| Direct fulfilment claim | ❌ **NOT PRESENT** |
-| Strong comparative evidence | ✅ **PRESENT** |
-| Historical plausibility support | ✅ **STRONG** |
-| Final identification | ⏳ still requires Matthew's own chronology, and possibly first-century evidence outside Scripture |
+| Direct fulfilment claim | **Not present** |
+| Strong comparative evidence | **Present** |
+| Historical plausibility support | **Strong** |
+| Final identification | Still requires Matthew's own chronology, and possibly first-century evidence outside Scripture |
 :::
 
 ## A correction I had to make against my own formulation
@@ -105,7 +105,7 @@ That is a consistency requirement. It is not evidence that Matthew 24:14 was ful
 While working the adjacent question — whether the mission reached the people it needed to reach — I produced a formulation that went beyond the evidence, and I am keeping it visible rather than replacing it silently.
 
 ::: commentary
-**Researcher's commentary — the formulation that overreached, and the narrower one that survived**
+**The formulation that overreached, and the narrower one that survived**
 
 Acts contains a striking pattern. Paul is told in Corinth that Yahweh has many people in this city, before they have believed. He is forbidden to speak the word in Asia and redirected to Macedonia. Lydia's heart is opened. Philip is sent to one man on one road.
 
@@ -115,7 +115,7 @@ That went further than the texts support. What Acts shows is that **Paul's movem
 
 The narrower version survives and is actually more useful: Paul did not need to know whether anyone remained to be reached **through him**, because the direction was not his to determine. That bears on Romans 15's *no room left to work here* — it makes the statement intelligible as a report about an assignment rather than a census of a region.
 
-Recorded as a Tier B inference from narrative pattern, not as a doctrine of foreknowledge. The overreaching version is left in view because catching it is the part worth keeping.
+Recorded as an interpretation drawn from narrative pattern, not as a doctrine of foreknowledge. The overreaching version is left in view because catching it is the part worth keeping.
 :::
 
 ## The question, restated as four propositions
@@ -127,10 +127,10 @@ Stating it this way is what finally made the argument tractable, and it is where
 
 | | Proposition | Status |
 |---|---|---|
-| **A** | Yeshua commissioned specific apostles and disciples | ✅ **clearly yes** |
-| **B** | The first-century apostolic mission expanded to the nations | ✅ **clearly yes** |
-| **C** | Proclamation was necessary for faith and hearing | ✅ **clearly yes** (Chapter 21) |
-| **D** | **Every believer in every later era is individually under the same geographically universal apostolic commission** | ❗ **STILL REQUIRES PROOF — it cannot be assumed from A, B and C** |
+| **A** | Yeshua commissioned specific apostles and disciples | **Clearly yes** |
+| **B** | The first-century apostolic mission expanded to the nations | **Clearly yes** |
+| **C** | Proclamation was necessary for faith and hearing | **Clearly yes** (Chapter 21) |
+| **D** | **Every believer in every later era is individually under the same geographically universal apostolic commission** | **Still requires proof — it cannot be assumed from A, B and C** |
 
 A, B and C are not controversial and I grant them without reservation. My relative was right about all three, and my original answer was weakest precisely where it seemed to be brushing past them.
 
@@ -145,12 +145,12 @@ I do not have a verse saying Matthew 24:14 was fulfilled. I have looked, and it 
 
 I have Luke's bounded use of Matthew's word, Paul's striking completion language in different vocabulary, an apostolic generation that wrote as though the assignment had been substantially discharged, and a consistency requirement that anyone reading Matthew hyper-literally has to answer.
 
-And I have one bridge fewer than I started the chapter with, removed by my own retrieval.
+And I have one bridge fewer than I started the chapter with, removed by my own checking.
 
 ::: whereweare
-**Where we are.** Paul never chooses *oikoumenē* in a proclamation text; the one instance is a Septuagint quotation, and in his own words he writes *kosmos* and *ktisis*. So the popular bridge from Paul to Matthew 24:14 rests on an English word doing the work of three Greek ones, and it does not survive. Luke, not Paul, is the real control on Matthew's term, and Luke's two uses are bounded. No New Testament writer states that Matthew 24:14 has been fulfilled. What remains is strong comparative evidence, strong historical plausibility, and a consistency requirement that cuts both ways. Propositions A, B and C are granted; D — that every believer in every era carries the same geographically universal commission — still requires proof and does not follow from them.
+**Where this leaves us.** Paul never chooses *oikoumenē* in a proclamation text; the one instance is a Septuagint quotation, and in his own words he writes *kosmos* and *ktisis*. So the popular bridge from Paul to Matthew 24:14 rests on an English word doing the work of three Greek ones, and it does not survive. Luke, not Paul, is the real control on Matthew's term, and Luke's two uses are bounded. No New Testament writer states that Matthew 24:14 has been fulfilled. What remains is strong comparative evidence, strong historical plausibility, and a consistency requirement that cuts both ways. Propositions A, B and C are granted; D — that every believer in every era carries the same geographically universal commission — still requires proof and does not follow from them.
 :::
 
 ::: earned
-**What it earned.** The question is now stated precisely enough to be answered, and one text has been standing behind the whole argument since my relative first raised it. Matthew 28, read in its own context, with attention to who was in the room.
+**The question this leaves.** The question is now stated precisely enough to be answered, and one text has been standing behind the whole argument since my relative first raised it. Matthew 28, read in its own context, with attention to who was in the room.
 :::

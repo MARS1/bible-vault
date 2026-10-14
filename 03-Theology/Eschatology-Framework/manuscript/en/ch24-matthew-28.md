@@ -37,20 +37,20 @@ This is a **royal** commission, issued on the basis of an enthronement. It is no
 Here is the first thing that surprised me, and it is verifiable in any interlinear.
 
 ::: wordstudy
-**Original language**
+**Matthew 28:19 — the finite verb**
 
 <span class="gr">πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες … διδάσκοντες</span>
 
-<span class="gr">πορευθέντες</span> *(poreuthentes)* — **aorist participle**, literally "having gone." Morphologically it is not the finite imperative. But in this construction it can function as an **attendant-circumstance** participle, taking imperatival force from the verb it depends on — so the grammar must not be used to make the going optional or incidental, and I am not going to gloss it as a casual "as you go."
+<span class="gr">πορευθέντες</span> (*poreuthentes*) — **aorist participle**, literally "having gone." Morphologically it is not the finite imperative. But in this construction it can function as an **attendant-circumstance** participle, taking imperatival force from the verb it depends on — so the grammar must not be used to make the going optional or incidental, and I am not going to gloss it as a casual "as you go."
 
-<span class="gr">μαθητεύσατε</span> *(mathēteusate)* — **the finite imperative**, and the syntactic centre of the sentence. *Make disciples.*
+<span class="gr">μαθητεύσατε</span> (*mathēteusate*) — **the finite imperative**, and the syntactic centre of the sentence. *Make disciples.*
 
-<span class="gr">βαπτίζοντες</span>, <span class="gr">διδάσκοντες</span> — present participles: baptizing, teaching. These explain **how**.
+<span class="gr">βαπτίζοντες</span> (*baptizontes*), <span class="gr">διδάσκοντες</span> (*didaskontes*) — present participles: baptizing, teaching. These explain **how**.
 
 **The syntactic centre of the commission is *make disciples*.** Going is attendant circumstance and carries the force of the imperative with it; baptizing and teaching describe how the disciple-making is done.
 :::
 
-I want to be careful not to over-collect on that, because this is a place where a grammatical observation can be turned into a theological argument it cannot carry. The morphology does not make the going incidental, and it certainly does not mean *nobody goes anywhere* — Acts is the counter-evidence, and an attendant-circumstance participle shares the imperative's force rather than demoting it. What the syntax does establish is that the command's **content** is discipleship, which is a longer and different thing than announcing a message once.
+I want to be careful not to make too much of that, because this is a place where a grammatical observation can be turned into a theological argument it cannot carry. The morphology does not make the going incidental, and it certainly does not mean *nobody goes anywhere* — Acts is the counter-evidence, and an attendant-circumstance participle shares the imperative's force rather than demoting it. What the syntax does establish is that the command's **content** is discipleship, which is a longer and different thing than announcing a message once.
 
 And that distinction matters for the original argument, because **evangelism and discipleship are not the same activity**, and my relative and I had been using them interchangeably. So had I, when it suited me.
 
@@ -65,11 +65,11 @@ In Matthew 10, Yeshua sends the twelve and tells them to go nowhere among the Ge
 Then Matthew 28 says all nations.
 
 ::: historical
-**Historical context — the Jerusalem Council, and the category that already existed**
+**The Jerusalem Council, and the category that already existed**
 
 Within roughly two decades, the question Matthew 28 opens had to be settled in practice: on what terms do the nations come in?
 
-Israel already had a category for the outsider who attached himself to the covenant community — the <span class="he">גֵּר</span> *(ger)*, the sojourner or resident alien. Torah legislates for him repeatedly: he keeps the Sabbath, he may eat the Passover if circumcised, he is to be loved as oneself, and one law is to apply to the native-born and to the *ger* alike. The category is not an afterthought; it is built in.
+Israel already had a category for the outsider who attached himself to the covenant community — the <span class="he">גֵּר</span> (*ger*), the sojourner or resident alien. Torah legislates for him repeatedly: he keeps the Sabbath, he may eat the Passover if circumcised, he is to be loved as oneself, and one law is to apply to the native-born and to the *ger* alike. The category is not an afterthought; it is built in.
 
 What the Jerusalem Council of Acts 15 decided was **not** that the nations could come in — Torah already knew that. The immediate dispute was whether Gentile believers had to be circumcised and required to keep the law of Moses as a condition of belonging. The Council refused to impose that entry requirement, and issued four requirements in its letter instead.
 
@@ -93,9 +93,9 @@ Flattening the earthly Israel-centred mission, the initial commission to the Twe
 Now the part that costs me, and I am stating it as plainly as I can.
 
 ::: evidence
-**How strongly evidence bears**
+**Matthew 28 and the mission to the nations**
 
-Matthew 28 **ESTABLISHES** that Yeshua commanded the eleven to disciple all nations.
+Matthew 28 **establishes** that Yeshua commanded the eleven to disciple all nations.
 
 If someone claims the apostles were never commissioned beyond Israel, **Matthew 28 does not allow it.** The mission genuinely expands, by explicit command, from a risen Messiah claiming all authority.
 
@@ -146,7 +146,7 @@ This is more compatible with **both** Matthew 28 and Paul than *every believer m
 
 ## What this does to the original argument
 
-So let me put the two positions from that first conversation side by side, accurately, because Part I had to correct my own account of it once already.
+So let me put the two positions from that first conversation side by side, accurately.
 
 My relative argued that believers are obligated to proclaim outwardly, from Mark 16, Matthew 28, James 4:17 and Acts 8:4. He did **not** argue that every believer holds an identical evangelistic office; that is a strawman and I am not going to build it here in order to knock it down.
 
@@ -167,9 +167,9 @@ That is a real answer and it is not a complete one. What a differentiated partic
 :::
 
 ::: whereweare
-**Where we are.** Matthew 28 is a royal commission flowing from enthronement, given to the eleven, whose finite imperative is *make disciples* — with *go* an attendant participle that carries the imperative's force rather than being optional. Matthew's own development runs Israel-centred first and nations later, with the resurrection between, and neither commission needs to be suppressed to hold the other. The text genuinely establishes a mission to the nations, and no reading of mine is permitted to shrink it. The recursive argument for an ongoing commission is strong and is not refuted here. What does not follow is that every command distributes to every believer identically — Paul denies that outright. Corporate mission, individual vocation, on Paul's own metaphor.
+**Where this leaves us.** Matthew 28 is a royal commission flowing from enthronement, given to the eleven, whose finite imperative is *make disciples* — with *go* an attendant participle that carries the imperative's force rather than being optional. Matthew's own development runs Israel-centred first and nations later, with the resurrection between, and neither commission needs to be suppressed to hold the other. The text genuinely establishes a mission to the nations, and no reading of mine is permitted to shrink it. The recursive argument for an ongoing commission is strong and is not refuted here. What does not follow is that every command distributes to every believer identically — Paul denies that outright. Corporate mission, individual vocation, on Paul's own metaphor.
 :::
 
 ::: earned
-**What it earned.** The question that started this investigation now has an answer I can defend, and it is not the answer I was defending when I was asked. Which clears the way for the thing I have been deferring since Part II: the ages, the resurrection, and the door into Revelation.
+**The question this leaves.** The question that started this investigation now has an answer I can defend, and it is not the answer I was defending when I was asked. Which clears the way for the thing I have been deferring since Part II: the ages, the resurrection, and the door into Revelation.
 :::

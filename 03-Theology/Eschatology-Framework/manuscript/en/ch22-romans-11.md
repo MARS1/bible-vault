@@ -16,7 +16,7 @@ Paul asks my question for me, in the first verse, and answers it before I can ge
 
 > I ask, then, has God rejected his people? **By no means!** (Romans 11:1)
 
-The Greek is <span class="gr">μὴ γένοιτο</span> *(mē genoito)*, Paul's strongest available idiom of rejection. And his first piece of evidence is himself: *for I too am an Israelite, a descendant of Abraham, of the tribe of Benjamin.*
+The Greek is <span class="gr">μὴ γένοιτο</span> (*mē genoito*), Paul's strongest available idiom of rejection. And his first piece of evidence is himself: *for I too am an Israelite, a descendant of Abraham, of the tribe of Benjamin.*
 
 Present tense, again, exactly as in chapter 9. Paul the apostle to the Gentiles, writing about the inclusion of Gentiles, describes himself in the present as an Israelite of a named tribe.
 
@@ -35,11 +35,11 @@ Paul does say a hardening has occurred. He does not leave it unqualified, and th
 Same idiom, second time. And then the purpose clause: through their trespass salvation has come to the Gentiles, *so as to make Israel jealous* — which presupposes that Israel is still in view, still the subject of a plan, not a closed file.
 
 ::: evidence
-**How strongly evidence bears**
+**Two *mē genoito* denials**
 
-Paul's two <span class="gr">μὴ γένοιτο</span> denials — *has God rejected his people?* and *did they stumble so as to fall?* — are **EXPLICIT TEXT** and they **CONTRADICT** a reading in which Israel has been set aside permanently.
+Paul's two <span class="gr">μὴ γένοιτο</span> denials — *has God rejected his people?* and *did they stumble so as to fall?* — are explicit text, and together their evidence <span class="grade">contradicts</span> a reading in which Israel has been set aside permanently.
 
-They **DO NOT ESTABLISH** what positive outcome Paul expects, how it comes about, or when. Refuting one reading does not install its opposite, and Paul spends the rest of the chapter on a question he has not yet answered.
+They do **not** establish what positive outcome Paul expects, how it comes about, or when. Refuting one reading does not install its opposite, and Paul spends the rest of the chapter on a question he has not yet answered.
 :::
 
 ## The olive tree, and the absences that carry the weight
@@ -47,9 +47,9 @@ They **DO NOT ESTABLISH** what positive outcome Paul expects, how it comes about
 > if the root is holy, so are the branches. But if some of the branches were broken off, and you, although a wild olive shoot, were grafted in among the others and now share in the nourishing root of the olive tree (Romans 11:16-17)
 
 ::: wordstudy
-**Original language**
+***Enkentrizō* — to graft in**
 
-<span class="gr">ἐγκεντρίζω</span> *(enkentrizō)* — to graft in. Used six times in this passage and nowhere else in the New Testament.
+<span class="gr">ἐγκεντρίζω</span> (*enkentrizō*) — to graft in. Used six times in this passage and nowhere else in the New Testament.
 
 Grafting is a horticultural operation in which a shoot is inserted **into an existing rooted tree** and draws its life from that root. The tree is not replaced. The root is not replaced. The graft is what changes.
 :::
@@ -80,16 +80,16 @@ That is severe and it is symmetrical. The same principle that removed branches c
 
 And then the detail that is easy to read past: natural branches can be grafted back — *into their own olive tree*. Their own. Paul's possessive, not mine.
 
-## Romans 11:25, and a word I cannot cash
+## Romans 11:25, and a word I cannot settle
 
 > a partial hardening has come upon Israel, until **the fullness of the Gentiles** has come in (Romans 11:25)
 
 ::: wordstudy
-**Original language**
+**"The fullness of the nations"**
 
-<span class="gr">τὸ πλήρωμα τῶν ἐθνῶν</span> *(to plērōma tōn ethnōn)* — "the fullness of the nations."
+<span class="gr">τὸ πλήρωμα τῶν ἐθνῶν</span> (*to plērōma tōn ethnōn*) — "the fullness of the nations."
 
-**NOT ESTABLISHED:** whether *plērōma* here denotes a number, a covenantal fullness, the completion of a mission to the nations, a representative inclusion, or something else.
+**Not established:** whether *plērōma* here denotes a number, a covenantal fullness, the completion of a mission to the nations, a representative inclusion, or something else.
 
 This touches the original proclamation question directly, because *the fullness of the nations coming in* is scope language of exactly the kind this book has spent three Parts learning not to read confidently. I am leaving it open rather than making it mean what would be useful.
 :::
@@ -100,7 +100,7 @@ Paul continues: *and in this way all Israel will be saved*, and supports it with
 
 Two things happen in that sentence, and both constrain what anyone may build on it.
 
-The first is small and clarifying. <span class="gr">οὕτως</span> *(houtōs)* is an **adverb** — *thus, in this manner*. Chronology cannot be imported from the English word *so*. Paul may be saying *in this manner all Israel will be saved* rather than *after the Gentile fullness, then Israel*. The adverb does not settle the verse. It removes the sequential reading's claim to be the obvious one.
+The first is small and clarifying. <span class="gr">οὕτως</span> (*houtōs*) is an **adverb** — *thus, in this manner*. Chronology cannot be imported from the English word *so*. Paul may be saying *in this manner all Israel will be saved* rather than *after the Gentile fullness, then Israel*. The adverb does not settle the verse. It removes the sequential reading's claim to be the obvious one.
 
 The second is larger, and it is the strongest thing in this chapter.
 
@@ -121,7 +121,7 @@ This is a different and stronger phenomenon than the one in the last chapter. At
 
 **Not established:** whether Paul used a Greek text now lost, quoted from memory, deliberately reshaped the wording, or conflated Isaiah 59:20 with another passage.
 
-**And a bookkeeping point that matters more than it sounds.** This is a **source-text** divergence — Hebrew against Greek against Paul. It is not a **translation** divergence — ESV against CJB against RVR1960. Different category, different count, and the two tallies may not be merged. Collapsing them would inflate both and misdescribe what kind of uncertainty this book is carrying.
+**And a distinction that matters more than it sounds.** This is a **source-text** divergence — Hebrew against Greek against Paul. It is not a **translation** divergence — ESV against CJB against RVR1960. Different category, different count, and the two tallies may not be merged. Collapsing them would inflate both and misdescribe what kind of uncertainty this book is carrying.
 :::
 
 ::: openquestion
@@ -135,7 +135,7 @@ And it is not confined to Paul. At the Jerusalem Council, James settles the ques
 
 Options, none adopted: that the Septuagint preserves a Hebrew reading now lost; that apostolic authority extends to the use made of a text; that the argument does not in fact depend on the divergent phrase; that "source language" is the wrong frame for a first-century Jewish writer whose Scriptures circulated in Greek.
 
-**Not resolved.** It is filed as a standing question against this project's own methodology rather than against anyone else's, which is where it belongs.
+**Not resolved.** It stands as a question against this investigation's own method rather than against anyone else's, which is where it belongs.
 :::
 
 And the third element: Paul immediately glosses *all Israel* with a prophecy about banishing ungodliness **from Jacob**.
@@ -145,7 +145,7 @@ If *all Israel* meant exclusively the combined Jew-and-Gentile assembly, it is d
 ::: openquestion
 **Open question — "all Israel," four readings, none selected**
 
-<span class="gr">πᾶς Ἰσραήλ</span> *(pas Israēl)*: ethnic or national Israel; the elect within Israel; the total covenant people including Gentiles; a future restoration of Jewish Israel.
+<span class="gr">πᾶς Ἰσραήλ</span> (*pas Israēl*): ethnic or national Israel; the elect within Israel; the total covenant people including Gentiles; a future restoration of Jewish Israel.
 
 Not settled by theological instinct, including mine. It stays open, as it did when Chapter 19 reached it from the other side.
 :::
@@ -155,16 +155,16 @@ Not settled by theological instinct, including mine. It stays open, as it did wh
 > For the gifts and the calling of God are **irrevocable** (Romans 11:29)
 
 ::: wordstudy
-**Original language**
+***Ametamelēta* — irrevocable, and placed first**
 
-<span class="gr">ἀμεταμέλητα</span> *(ametamelēta)* — "not to be repented of, not regretted, irrevocable."
+<span class="gr">ἀμεταμέλητα</span> (*ametamelēta*) — "not to be repented of, not regretted, irrevocable."
 
-Paul places it **first in the sentence**: <span class="gr">ἀμεταμέλητα γὰρ τὰ χαρίσματα καὶ ἡ κλῆσις τοῦ Θεοῦ</span>. In Greek, fronting is emphasis. The word carrying the weight is the one he put in front.
+Paul places it **first in the clause**: <span class="gr">ἀμεταμέλητα γὰρ τὰ χαρίσματα καὶ ἡ κλῆσις τοῦ Θεοῦ</span>, giving the word marked prominence. Its position reinforces the force of "irrevocable," though word order alone should not bear the argument.
 :::
 
 And the verse before it: *as regards election, they are beloved for the sake of their forefathers.*
 
-So: has Yahweh replaced Israel? Paul's answer is available in his own vocabulary and I do not need to supply one. *Mē genoito*, twice. Grafted **in**, not planted beside. Their **own** olive tree. Beloved for the sake of the fathers. Irrevocable, fronted for emphasis.
+So: has Yahweh replaced Israel? Paul's answer is available in his own vocabulary and I do not need to supply one. *Mē genoito*, twice. Grafted **in**, not planted beside. Their **own** olive tree. Beloved for the sake of the fathers. Irrevocable, and placed first.
 
 Does the assembly therefore *become* Israel? Paul does not say that either, and the olive tree is precisely the image that would let him if he wanted to. Branches grafted into a tree are not the tree, and they are not a second tree. They share a root.
 
@@ -183,9 +183,9 @@ Paul does not close this argument with a system. He closes it with mercy — *th
 I am not going to pretend that resolves anything. But a chapter that ends in stated incomprehension is a strange place to build a confident system, and I have watched confident systems built here, including one of mine.
 
 ::: whereweare
-**Where we are.** Paul denies twice, in his strongest idiom, that God has rejected His people or that Israel stumbled so as to fall. The olive tree is incorporation into an existing rooted tree, with the Gentile warning longer than the promise and natural branches able to be grafted back into *their own* tree. The root's referent stays open because this book's identity language depends on it. *Houtōs* is an adverb, so chronology cannot be read out of the English *so*. And at 11:26 three witnesses give three prepositions with Paul matching neither source — a source-text divergence that may not be merged with the translation tally, and that forbids any argument resting on the Deliverer's direction of travel. *All Israel* remains open; *irrevocable* is fronted for emphasis and is not.
+**Where this leaves us.** Paul denies twice, in his strongest idiom, that God has rejected His people or that Israel stumbled so as to fall. The olive tree is incorporation into an existing rooted tree, with the Gentile warning longer than the promise and natural branches able to be grafted back into *their own* tree. The root's referent stays open because this book's identity language depends on it. *Houtōs* is an adverb, so chronology cannot be read out of the English *so*. And at 11:26 three witnesses give three prepositions with Paul matching neither source — a source-text divergence that may not be merged with the translation tally, and that forbids any argument resting on the Deliverer's direction of travel. *All Israel* remains open; *irrevocable* does not.
 :::
 
 ::: earned
-**What it earned.** Romans 9 through 11 is finished, and Israel has not been written out of it. Which leaves the historical question the original argument actually turned on, and which no amount of Romans can settle: had the good news already gone out before the year 70?
+**The question this leaves.** Romans 9 through 11 is finished, and Israel has not been written out of it. Which leaves the historical question the original argument actually turned on, and which no amount of Romans can settle: had the good news already gone out before the year 70?
 :::

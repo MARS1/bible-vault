@@ -161,13 +161,16 @@ def check_prose_vosotros(files):
 # RESEARCH-PROCESS-002). Hand-applied rules come back, so they are checked here.
 # REPORT-ONLY while Part I pilots them: if a check flags legitimate text, the
 # checker is refined, not the prose. Calibrated to report zero on Parts VIII-IX.
-DECOR = re.compile("[\U0001F300-\U0001FAFF☀-➿⭐⬆⬇⭕←↩↪️]")
+# Arrows are notation, not decoration: Parts VIII-IX use → and ↓, and Part IV ch21
+# writes Paul's chain "call ← believe ← hear". ← was wrongly included at first (2026-10-13).
+DECOR = re.compile("[\U0001F300-\U0001FAFF☀-➿⭐⬆⬇⭕↩↪️]")
 GRADE_WORDS = re.compile(r"\b(SUPPORTS|PERMITS|REQUIRES|CONTRADICTS|DOES NOT ESTABLISH|"
                          r"APOYA|PERMITE|EXIGE|CONTRADICE|NO ESTABLECE)\b")
 # Research-process bookkeeping that must not print: stage numbers, ledger and
 # ticket ids, bead ids, and the scope labels that now live in HTML comments.
 LABELS = re.compile(r"\b(Stage|Etapa)s? \d|\bSYNC-\d|\bPR-\d{3}|\bq\d{3}\b|\bBIBLE-[a-z0-9]{3}\b|"
-                    r"SPANISH-SPECIFIC|SOURCE-LANGUAGE|ESPEC[IÍ]FICO DEL ESPA[NÑ]OL")
+                    r"SPANISH-SPECIFIC|SOURCE-LANGUAGE|ESPEC[IÍ]FICO DEL ESPA[NÑ]OL|"
+                    r"\bTier [A-D]\b|\bNivel [A-D]\b")
 SRC_SPAN = re.compile(r'<span class="(gr|he)">(.*?)</span>(.{0,4})', re.S)
 # Box labels and rules the Part VIII revision replaced: "Where we are." became
 # "Where this leaves us.", "What it earned." became "The question this leaves."
@@ -233,7 +236,8 @@ def check_normalization(files):
                 out["convention"].append((f.name, i, "term drift: " + m.group(0) + " -> el poco de tiempo"))
             # The generic caption with a suffix ("— contrary evidence, printed") slipped
             # past the whole-line match in ES Part III ch15 (2026-10-13).
-            if re.match(r"^\*\*(How strongly evidence bears|Con qué fuerza pesa la evidencia) — ", ln):
+            if re.match(r"^\*\*(How strongly evidence bears|Con qué fuerza pesa la evidencia|Historical context|"
+                        r"Original language|Contexto histórico|Lengua original) — ", ln):
                 out["convention"].append((f.name, i, "generic box title with suffix " + ln[:50]))
             if GENERIC_TITLE.match(ln):
                 out["convention"].append((f.name, i, "generic box title " + ln[:40]))

@@ -53,9 +53,9 @@ This is the third or fourth time in this book that Paul's critique of the misuse
 > For Christ is the **end** of the law for righteousness to everyone who believes (Romans 10:4, ESV)
 
 ::: wordstudy
-**Original language**
+***Telos* at Romans 10:4**
 
-<span class="gr">τέλος</span> *(telos)* — and the English word chosen to render it carries the argument.
+<span class="gr">τέλος</span> (*telos*) — and the English word chosen to render it carries the argument.
 
 *Telos* can mean **termination**, the point at which something stops. It can also mean **goal**, **completion**, the end *toward which* something was aimed — the sense in which a road has an end, or a purpose is achieved.
 
@@ -64,7 +64,7 @@ The ESV's *end* preserves the ambiguity of the Greek only by accident, because t
 **Romans 10:4 cannot be settled from the English word "end."** Anyone quoting *end of the law* as though the verse said *Torah is abolished* has substituted one sense of an ambiguous noun for the verse itself. That is not an argument about Paul. It is an argument about a translator's word.
 :::
 
-I am not resolving *telos* here. Chapter 15's definition of fulfilment — a pattern reaching its reality — is obviously relevant, and I am deliberately not cashing it, because using my own earlier conclusion to disambiguate a contested word would be circular.
+I am not resolving *telos* here. Chapter 15's definition of fulfilment — a pattern reaching its reality — is obviously relevant, and I am deliberately not using it, because using my own earlier conclusion to disambiguate a contested word would be circular.
 
 ## Then access universalizes
 
@@ -87,14 +87,14 @@ If the chapter ended at *someone preaching*, my original position would be in se
 It does not end there. Paul adds a fourth link that I had never once heard quoted in any of these conversations, including by me: **and how are they to preach unless they are sent?**
 
 ::: evidence
-**How strongly evidence bears**
+**Romans 10:14–15 — what the chain establishes**
 
 | Proposition | Status |
 |---|---|
-| Faith ordinarily requires proclamation | **ESTABLISHED** |
-| Proclaimers are **sent** | **ESTABLISHED** — Paul himself adds it as the final link |
-| Every believer personally occupies the sent-herald role | **NOT ESTABLISHED by this text** |
-| Every believer is commanded here to proclaim to every region | **NOT ESTABLISHED by this text** |
+| Faith ordinarily requires proclamation | **Established** |
+| Proclaimers are **sent** | **Established** — Paul himself adds it as the final link |
+| Every believer personally occupies the sent-herald role | **Not established by this text** |
+| Every believer is commanded here to proclaim to every region | **Not established by this text** |
 
 The final link **cuts against** the universal-obligation reading rather than for it. Paul does not stop at *someone must preach*. He adds *unless they are sent*, which introduces **sending as a necessary link in the chain**.
 
@@ -104,11 +104,11 @@ And I have to be careful about exactly how much that buys, because I overreached
 That is the pivot of this whole chapter, and I want to be honest about how it felt. The text most likely to overturn my position contains, in its own last clause, the distinction my position was trying to draw. I did not put it there and I had not known it was there.
 
 ::: wordstudy
-**Original language**
+***Kēryssō* and *apostellō***
 
-<span class="gr">κηρύσσω</span> *(kēryssō)* — to herald, to proclaim publicly. It carries public-announcement force. It is not "mention in conversation."
+<span class="gr">κηρύσσω</span> (*kēryssō*) — to herald, to proclaim publicly. It carries public-announcement force. It is not "mention in conversation."
 
-<span class="gr">ἀποστέλλω</span> *(apostellō)* — to send. The root of <span class="gr">ἀπόστολος</span> *(apostolos)*, "sent one."
+<span class="gr">ἀποστέλλω</span> (*apostellō*) — to send. The root of <span class="gr">ἀπόστολος</span> (*apostolos*), "sent one."
 
 **And the brake, because the word-family link is real and does not prove what I would like it to.** *Apostellō* here does **not** restrict the sending to the Twelve. The vocabulary establishes that commission is in view; it does not establish a closed office.
 
@@ -121,7 +121,7 @@ And Isaiah 52:7, which Paul quotes next about the feet of those who bring good n
 
 Here is where the chapter takes back something larger than what it gave.
 
-Romans 10:18 says: *Their voice has gone out to all the earth, and their words to the ends of the world.* And that verse has been doing quiet work in my position for a long time, because the second phrase is <span class="gr">οἰκουμένη</span> *(oikoumenē)* — the same word as Matthew 24:14.
+Romans 10:18 says: *Their voice has gone out to all the earth, and their words to the ends of the world.* And that verse has been doing quiet work in my position for a long time, because the second phrase is <span class="gr">οἰκουμένη</span> (*oikoumenē*) — the same word as Matthew 24:14.
 
 The bridge writes itself. Paul says the message reached the *oikoumenē*; Matthew 24:14 says the end comes after the good news is proclaimed in the *oikoumenē*; therefore the condition was met in the first century.
 
@@ -131,7 +131,7 @@ I wanted that bridge. So I checked whether Paul chose the word.
 
 > <span class="gr">εἰς πᾶσαν τὴν **γῆν** ἐξῆλθεν ὁ φθόγγος αὐτῶν καὶ εἰς τὰ πέρατα τῆς **οἰκουμένης** τὰ ῥήματα αὐτῶν</span>
 
-Both <span class="gr">γῆν</span> and <span class="gr">οἰκουμένης</span> are inherited from the Psalm, verbatim. Paul is quoting, not describing.
+Both <span class="gr">γῆν</span> (*gēn*) and <span class="gr">οἰκουμένης</span> (*oikoumenēs*) are inherited from the Psalm, verbatim. Paul is quoting, not describing.
 
 ::: finding
 **Finding — against my own hypothesis, and it is the reason this chapter is in the book**
@@ -147,15 +147,15 @@ I have spent chapters warning about arguments that borrow strength from a shared
 
 ## And a translation problem that inverts the whole thing
 
-One more finding, which is the strongest practical argument this project has produced for working in the source languages.
+One more finding, which is the strongest practical argument I have found for working in the source languages.
 
 ::: textualnote
 **Textual note — Romans 10:18, where two good translations map the same words oppositely**
 
 | Greek position | Greek word | ESV renders | CJB renders |
 |---|---|---|---|
-| first | <span class="gr">γῆν</span> *(gē)* | "earth" ✓ | "**world**" ✗ |
-| second | <span class="gr">οἰκουμένης</span> *(oikoumenē)* | "world" ✓ | "**earth**" ✗ |
+| first | <span class="gr">γῆν</span> (*gē*) | "earth" | "**world**" |
+| second | <span class="gr">οἰκουμένης</span> (*oikoumenē*) | "world" | "**earth**" |
 
 The CJB reverses the two English terms relative to the Greek word order. Neither translation is *wrong as English*.
 
@@ -183,9 +183,9 @@ And the second half of that formulation is not a correction to me, because it wa
 That formulation is not a compromise between the two sides of the original argument. It is what is left when both sides are made to say only what their texts support — and it concedes more to my relative's concern than my opening answer did.
 
 ::: whereweare
-**Where we are.** Romans 10's subject is still Israel, and its argument about faith-righteousness is built from Deuteronomy rather than against it. *Telos* at 10:4 cannot be settled in English. The preaching chain is genuine and is not softened here — and its final link, *unless they are sent*, makes sending a necessary part of the chain, without establishing by itself that every believer occupies the heralding role and without telling me how broadly the sending extends. Against that, 10:18's *oikoumenē* is quoted verbatim from the Septuagint Psalm and is therefore not independent attestation of anything, which removes a bridge I had been using. And the CJB inverts *gē* and *oikoumenē* relative to the Greek, so the bridge cannot even be checked reliably in English.
+**Where this leaves us.** Romans 10's subject is still Israel, and its argument about faith-righteousness is built from Deuteronomy rather than against it. *Telos* at 10:4 cannot be settled in English. The preaching chain is genuine and is not softened here — and its final link, *unless they are sent*, makes sending a necessary part of the chain, without establishing by itself that every believer occupies the heralding role and without telling me how broadly the sending extends. Against that, 10:18's *oikoumenē* is quoted verbatim from the Septuagint Psalm and is therefore not independent attestation of anything, which removes a bridge I had been using. And the CJB inverts *gē* and *oikoumenē* relative to the Greek, so the bridge cannot even be checked reliably in English.
 :::
 
 ::: earned
-**What it earned.** The text I expected to lose on gave me the distinction I needed and took away an argument I had been relying on. That is what running at something rather than around it actually looks like. Romans 11 is next, and it is where Paul says what he thinks happens to Israel.
+**The question this leaves.** The text I expected to lose on gave me the distinction I needed and took away an argument I had been relying on. That is what running at something rather than around it actually looks like. Romans 11 is next, and it is where Paul says what he thinks happens to Israel.
 :::

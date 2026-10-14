@@ -26,7 +26,7 @@ That is not the opening of a man announcing that a people has been set aside. Wh
 
 > They **are** Israelites, and to them belong the adoption, the glory, the covenants, the giving of the law, the worship, and the promises (Romans 9:4)
 
-The Greek is <span class="gr">Ἰσραηλῖται</span> *(Israēlitai)*. Not *they used to be*. Not *until Messiah came*.
+The Greek is <span class="gr">Ἰσραηλῖται</span> (*Israēlitai*). Not *they used to be*. Not *until Messiah came*.
 
 Paul is writing after the death, the resurrection, the ascension, Pentecost and the inclusion of Gentiles. And he calls his **unbelieving** ethnic kinsmen Israelites, and then piles honour on honour rather than speaking of their covenantal history with contempt — the patriarchs are theirs, and Messiah Himself comes from them according to the flesh.
 
@@ -38,7 +38,7 @@ Whatever covenantal change Messiah brought, Paul has **not** reassigned the word
 Any reading of verse 6 that requires *Israel* to have been transferred away from them has to get past verse 4 first, and verse 4 is in the same breath. I had never noticed that, because I had always arrived at Romans 9 already looking for verse 6.
 :::
 
-And a detail in the inventory that put back in front of me a question this book had already met. A well-attested Greek reading has **the covenants**, plural — <span class="gr">διαθῆκαι</span> *(diathēkai)* — while another textual tradition has the singular, <span class="gr">ἡ διαθήκη</span>. RVR1960 follows the singular with *el pacto*. The Spanish edition of this book flags the same variant at its Chapter 5, and I do not adjudicate it in either edition. Under the plural reading the inventory would name the Abrahamic, the Sinaitic, the Davidic and the new one promised through Jeremiah — the refinement from Chapter 13, a single covenantal story containing multiple covenants, in Paul's own grammar. But that refinement cannot rest on this verse while the variant is open, and it never did: Chapter 13 does not cite Romans 9:4 anywhere.
+And a detail in the inventory that put back in front of me a question this book had already met. A well-attested Greek reading has **the covenants**, plural — <span class="gr">διαθῆκαι</span> (*diathēkai*) — while another textual tradition has the singular, <span class="gr">ἡ διαθήκη</span> (*hē diathēkē*). RVR1960 follows the singular with *el pacto*. The Spanish edition of this book flags the same variant at its Chapter 5, and I do not adjudicate it in either edition. Under the plural reading the inventory would name the Abrahamic, the Sinaitic, the Davidic and the new one promised through Jeremiah — the refinement from Chapter 13, a single covenantal story containing multiple covenants, in Paul's own grammar. But that refinement cannot rest on this verse while the variant is open, and it never did: Chapter 13 does not cite Romans 9:4 anywhere.
 
 ## Only now does the problem appear
 
@@ -50,7 +50,7 @@ That is a question about the reliability of God, raised by a Jew, about Jews. Re
 
 ## The wordplay, which English mostly hides
 
-> **οὐ γὰρ πάντες οἱ ἐξ Ἰσραὴλ οὗτοι Ἰσραήλ**
+> <span class="gr">οὐ γὰρ πάντες οἱ ἐξ Ἰσραὴλ οὗτοι Ἰσραήλ</span>
 >
 > Very literally: *for not all those from Israel — these are Israel* (Romans 9:6)
 
@@ -67,11 +67,11 @@ Who is being contrasted? **Ishmael and Isaac.** Both biologically Abraham's.
 Verse 8's *children of the promise* sounds like something that could include Gentiles, and elsewhere Paul does connect Gentiles to the Abrahamic promise. But here his first example is not Jew against Gentile. It is one son of Abraham against another.
 
 ::: evidence
-**How strongly evidence bears**
+**Isaac and Ishmael — what the first demonstration shows**
 
-Paul's first demonstration **ESTABLISHES** that biological descent from Abraham has never, by itself, determined the line through which the covenant promise proceeds.
+Paul's first demonstration **establishes** that biological descent from Abraham has never, by itself, determined the line through which the covenant promise proceeds.
 
-It **DOES NOT ESTABLISH** that *Israel now means the Church*. That is a much larger claim, and Paul has not made it here. The distinction he draws in 9:7 runs *inside* Abraham's household, and importing a Jew/Gentile frame onto it is reading the conclusion back into the example.
+It does **not** establish that *Israel now means the Church*. That is a much larger claim, and Paul has not made it here. The distinction he draws in 9:7 runs *inside* Abraham's household, and importing a Jew/Gentile frame onto it is reading the conclusion back into the example.
 :::
 
 That is considerably more precise than what I had been saying, and considerably less useful to the position I held when I arrived.
@@ -81,7 +81,7 @@ That is considerably more precise than what I had been saying, and considerably 
 Then Paul quotes Jacob loved, Esau hated — and this is where the chapter taught me something about method rather than about Israel.
 
 ::: commentary
-**Researcher's commentary — the case the never-collapse rule exists for**
+**The case the never-collapse rule exists for**
 
 I asked three different questions of the same quotation and got three different kinds of answer.
 
@@ -105,7 +105,7 @@ Having found that, my instinct was to soften the passage into a statement purely
 Paul does not permit it. He goes on to Exodus 33:19 — *I will have mercy on whom I have mercy* — and then to Pharaoh, and then to the potter and the clay.
 
 ::: historical
-**Historical context**
+**Exodus 33:19, after the golden calf**
 
 Exodus 33:19 is not spoken in a vacuum. **The golden calf has just happened.** Israel has broken the covenant almost immediately after receiving it, Moses is interceding, and the mercy formula is Yahweh's answer in that situation.
 
@@ -115,11 +115,11 @@ Which means the verse Paul reaches for to make his point about sovereign mercy i
 And the potter and the clay is not Paul's image either. It is Jeremiah's and Isaiah's, and in Jeremiah 18 the imagery is explicitly about Yahweh's authority over **the house of Israel**, with the outcome conditioned on that nation's response.
 
 ::: evidence
-**How strongly evidence bears — the brake, in both directions**
+**Romans 9's prophetic imagery — the brake, in both directions**
 
-What **CAN** be established: Paul uses prophetic imagery whose scriptural background concerns Yahweh's sovereign authority over covenant peoples and nations, Israel in particular.
+What **can** be established: Paul uses prophetic imagery whose scriptural background concerns Yahweh's sovereign authority over covenant peoples and nations, Israel in particular.
 
-What **CANNOT** be established from that background alone: that the passage therefore carries no individual application. Showing that a determinist reading overreaches does not establish the corporate-only reading in its place — that would be the Anti-Replacement Principle again, and I have now caught myself at it enough times to expect it.
+What **cannot** be established from that background alone: that the passage therefore carries no individual application. Showing that a determinist reading overreaches does not establish the corporate-only reading in its place — that would be the Anti-Replacement Principle again, and I have now caught myself at it enough times to expect it.
 :::
 
 ## One verification that changed less than I hoped
@@ -149,9 +149,9 @@ For a method that says *go to the source languages*, that is a real complication
 :::
 
 ::: whereweare
-**Where we are.** Paul opens in anguish over his own kinsmen and calls them Israelites in the present tense, after Pentecost, which brakes any reading of 9:6 that transfers the word away from them. His first demonstration is Ishmael against Isaac, not Jew against Gentile, and it establishes that biological descent never by itself determined the promised line. The Malachi quotation carries an Edom-and-nations background that only intertextual work makes visible. Exodus 33 turns out to be a golden-calf text in which Israel itself survives by mercy. And the chapter ends with Hosea applied to Gentiles and a remnant held out for Israel, with neither half swallowing the other.
+**Where this leaves us.** Paul opens in anguish over his own kinsmen and calls them Israelites in the present tense, after Pentecost, which brakes any reading of 9:6 that transfers the word away from them. His first demonstration is Ishmael against Isaac, not Jew against Gentile, and it establishes that biological descent never by itself determined the promised line. The Malachi quotation carries an Edom-and-nations background that only intertextual work makes visible. Exodus 33 turns out to be a golden-calf text in which Israel itself survives by mercy. And the chapter ends with Hosea applied to Gentiles and a remnant held out for Israel, with neither half swallowing the other.
 :::
 
 ::: earned
-**What it earned.** I expected Romans 9 to settle this and it did not; it sharpened the question instead. Which means the next chapter cannot be avoided any longer. Romans 10 is the strongest text against the position I brought into this investigation, and I am going to run straight at it.
+**The question this leaves.** I expected Romans 9 to settle this and it did not; it sharpened the question instead. Which means the next chapter cannot be avoided any longer. Romans 10 is the strongest text against the position I brought into this investigation, and I am going to run straight at it.
 :::
