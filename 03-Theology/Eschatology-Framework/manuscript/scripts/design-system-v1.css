@@ -394,3 +394,17 @@ span.boxicon.finding      { background: #E7EFFB; } span.boxicon.finding::before 
 span.boxicon.earned       { background: #EDEDF5; } span.boxicon.earned::before       { content: "\1F9ED"; }
 span.boxicon.textualnote  { background: #F0EAF8; } span.boxicon.textualnote::before  { content: "\1F4DC"; }
 span.boxicon.commentary   { background: #F1F1F1; } span.boxicon.commentary::before   { content: "\1F4AC"; }
+
+/* About the author: the author's photo, masked to a circle (as on the Idea Vault
+   site), one third of the 4.5in text width, floated left so the text wraps on its
+   right. The source is matter-drafts/img/author-headshot-original.webp (1220px).
+   The circle is pre-cut to a 600px PNG (400dpi at 1.5in) because a transparent
+   PNG is the safest print format. Author request 2026-10-15. */
+img.author-photo { float: left; width: 1.5in; height: 1.5in; margin: 0.15em 1.1em 0.5em 0;
+                   border-radius: 50%; border: 1px solid #c9cdd1; }
+
+/* Links never break across lines: a broken URL or email stops working when the
+   PDF text is copied, and reads as two words in print. A link that does not fit
+   moves whole to the next line. "kollabs.ai" printed as "kolla- / bs.ai" in the
+   first Spanish front-matter proof. Author request 2026-10-15. */
+a { hyphens: none; white-space: nowrap; }
