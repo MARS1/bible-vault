@@ -22,7 +22,7 @@ What it did:
 | Element | What The Idea Vault did |
 |---|---|
 | Order | cover → dedication → copyright/legal (2 pp.) → author's note → contents → "A Note on What Came Before" → chapters → conclusion → glossary |
-| Copyright page | title; "© 2026 Marcelo Mario Berta. All rights reserved."; publisher line; no-reproduction clause with a brief-quotation exception; trademark disclaimer; as-is warranty disclaimer; "First published: 2026 / Version 1.4"; permissions contact |
+| Copyright page | title; "© 2026 Marcelo Mario Berta Silva. All rights reserved."; publisher line; no-reproduction clause with a brief-quotation exception; trademark disclaimer; as-is warranty disclaimer; "First published: 2026 / Version 1.4"; permissions contact |
 | Running footer | `@page @bottom-center`: author © · site · version, plus title © · all rights reserved; page number at `@bottom-right` |
 | Version rule | version in footer = copyright page = filename, always updated together |
 | Cover | full-bleed illustrated PNG → cover PDF (Pillow) → merged before content (pypdf). Three steps, never collapsed into one. |
@@ -37,7 +37,7 @@ What it did:
 | P3 | **Keep the separate cover step + merge.** Add it to `build-manuscript.py` with the cover design work (bead BIBLE-493). |
 | P4 | **No MODS log.** The Part reports, SYNC-LEDGER, beads and immutable snapshots already do that job. |
 | P5 | **"A Note on What Came Before": UNRESOLVED, optional, decided at assembly.** The book began with the question "which author, which teacher?", so a note on influences could blur intellectual influences actually used with authors met only later. Possible homes: the Author's Note, acknowledgments, or a short "Sources and influences" note. Name only what the manuscript and the source ledger (Appendix F) support. |
-| P6 | **Bible-translation permissions and notices: a dedicated publishing-prep check.** The translations in use are ESV and CJB (English), RVR1960 and RVA-2015 (Spanish), and SBLGNT (Greek). See 02j-translation-architecture, which also requires the book to *name its base translation*. Each publisher sets quotation limits and exact notice wording. **Verify against each publisher's current terms; never copy boilerplate from memory.** |
+| P6 | **Bible-translation permissions and notices: a dedicated publishing-prep check.** The translations in use are ESV and CJB (English), RVR1960 and RVA-2015 (Spanish), and SBLGNT (Greek). **Also credit (added 2026-10-15, author request that every biblical source used be acknowledged):** the Hebrew text *Miqra according to the Masorah* via Sefaria (Source Ledger S115), the Septuagint (Swete's edition, S25), and MorphGNT (S111). Each has its own license or attribution terms; check them at this step. See 02j-translation-architecture, which also requires the book to *name its base translation*. Each publisher sets quotation limits and exact notice wording. **Verify against each publisher's current terms; never copy boilerplate from memory.** |
 | P7 | **Imprint.** "Bright Forest Publications" is a *proposed* imprint name only. **Never print "Bright Forest Publications LLC" unless that entity legally exists.** For comparison, the Idea Vault printed "Published by Kollabs" while its config said "Kollabs LLC". |
 | P8 | **Deferred to publishing prep:** all legal wording, translation permissions, ISBN, Library of Congress (LCCN/CIP), and imprint finalization. Verify current processes at that time rather than relying on stale guidance. |
 
@@ -47,3 +47,7 @@ What it did:
 - Glossary / divine names: only if Appendix D (Word Study Index) does not already do that job (ruling ㉓).
 - Bibliography: only if Appendix F (Source Ledger) is not enough for readers (ruling ㉓).
 - Cover, chapter openers, Part title pages, running heads, trim: bead BIBLE-493.
+
+**Author name (author ruling 2026-10-15):** always **Marcelo Mario Berta Silva**, everywhere: copyright page, title page, about the author, metadata, ISBN and LoC records.
+
+**Fonts (added 2026-10-15):** box icons use Noto Color Emoji under the SIL Open Font License 1.1. Embedding in the PDF is permitted. Keep `scripts/fonts/NotoColorEmoji-OFL.txt` with the font. Confirm at this step that every other embedded font (Georgia, Helvetica Neue, Times New Roman) is licensed for a sold PDF and print book, or replace it.

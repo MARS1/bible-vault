@@ -323,3 +323,74 @@ code { hyphens: none; white-space: nowrap; }
 /* ---------- lists: used sparingly, when structure IS the point ---------- */
 ul, ol { margin: 0.9em 0 1em; padding-left: 1.3em; }
 li { margin-bottom: 0.3em; }
+
+/* ---------- BOX COLOR + ICON (author ruling 2026-10-15) ----------
+   Every box type gets its own pastel fill and an emoji before its title, so a
+   reader can tell the types apart at a glance in the full-color edition. The
+   grayscale identity above (rule weight, dotted/dashed/double borders) stays,
+   and so does the emoji, so the types remain distinguishable in black and white.
+   Fills are HSL lightness 94.5%. The darkest fill is ~84% luminance, so the
+   fills print as pale gray and never compete with the text.
+   WCAG AA, checked 2026-10-15 for every fill: body text #16181a 15.0-16.6:1,
+   #3d4247 8.6-9.5:1. The only lighter text inside a box was the claimtypes dash
+   (#6c7378, 4.06-4.50:1), now #4a5157.
+   The emoji are CSS-generated, so the source stays emoji-free and the decor
+   checker is unaffected. The font is Noto Color Emoji (SIL OFL 1.1, see
+   fonts/NotoColorEmoji-OFL.txt), subset to these 12 glyphs (85.5 KB).
+   The SVG table must be kept: WeasyPrint draws the SVG glyphs, and a COLR-only
+   subset printed blank boxes (2026-10-15). Subsetting it needs fonttools plus lxml. Not Apple Color Emoji, whose license does not cover a sold book. */
+@font-face { font-family: "Box Emoji"; src: url("fonts/NotoColorEmoji-boxes.ttf"); }
+
+div.openquestion { background: #FBE7EA; }
+div.person       { background: #FBEEE7; }
+div.historical   { background: #F7F2EB; }
+div.evidence     { background: #FCF7E6; }
+div.claimtypes   { background: #F5F9E9; }
+div.wordstudy    { background: #EBF7ED; }
+div.whereweare   { background: #EBF7F5; padding-left: 1em; padding-right: 1em; }
+div.chain        { background: #E9F5F9; }
+div.finding      { background: #E7EFFB; }
+div.earned       { background: #EDEDF5; }
+div.textualnote  { background: #F0EAF8; }
+div.commentary   { background: #F1F1F1; padding: 0.85em 1em 0.9em; }
+div.claimtypes li::before { color: #4a5157; }
+
+div.openquestion > p:first-child::before, div.person > p:first-child::before,
+div.historical > p:first-child::before,   div.evidence > p:first-child::before,
+div.claimtypes > p:first-child::before,   div.wordstudy > p:first-child::before,
+div.whereweare > p:first-child::before,   div.chain > p:first-child::before,
+div.finding > p:first-child::before,      div.earned > p:first-child::before,
+div.textualnote > p:first-child::before,  div.commentary > p:first-child::before {
+  font-family: "Box Emoji"; font-style: normal; font-weight: normal;
+  text-transform: none; letter-spacing: normal; margin-right: 0.35em;
+}
+div.openquestion > p:first-child::before { content: "\2753"; }      /* ❓ open question */
+div.person       > p:first-child::before { content: "\1F464"; }     /* 👤 person */
+div.historical   > p:first-child::before { content: "\1F3DB"; }     /* 🏛 historical */
+div.evidence     > p:first-child::before { content: "\2696"; }      /* ⚖ evidence */
+div.claimtypes   > p:first-child::before { content: "\1F3F7"; }     /* 🏷 claim labels */
+div.wordstudy    > p:first-child::before { content: "\1F524"; }     /* 🔤 word study */
+div.whereweare   > p:first-child::before { content: "\1F4CD"; }     /* 📍 where this leaves us */
+div.chain        > p:first-child::before { content: "\1F517"; }     /* 🔗 growing chain */
+div.finding      > p:first-child::before { content: "\1F50E"; }     /* 🔎 finding */
+div.earned       > p:first-child::before { content: "\1F9ED"; }     /* 🧭 the question this leaves */
+div.textualnote  > p:first-child::before { content: "\1F4DC"; }     /* 📜 textual note */
+div.commentary   > p:first-child::before { content: "\1F4AC"; }     /* 💬 commentary */
+
+/* Legend chips for the reader-orientation page ("How this investigation works"):
+   <span class="boxicon finding">Findings</span> prints the same icon and fill as
+   the box itself, still from CSS, so the source stays emoji-free. */
+span.boxicon { padding: 0.05em 0.35em; border-radius: 2px; font-weight: 600; white-space: nowrap; }
+span.boxicon::before { font-family: "Box Emoji"; font-weight: normal; margin-right: 0.3em; }
+span.boxicon.openquestion { background: #FBE7EA; } span.boxicon.openquestion::before { content: "\2753"; }
+span.boxicon.person       { background: #FBEEE7; } span.boxicon.person::before       { content: "\1F464"; }
+span.boxicon.historical   { background: #F7F2EB; } span.boxicon.historical::before   { content: "\1F3DB"; }
+span.boxicon.evidence     { background: #FCF7E6; } span.boxicon.evidence::before     { content: "\2696"; }
+span.boxicon.claimtypes   { background: #F5F9E9; } span.boxicon.claimtypes::before   { content: "\1F3F7"; }
+span.boxicon.wordstudy    { background: #EBF7ED; } span.boxicon.wordstudy::before    { content: "\1F524"; }
+span.boxicon.whereweare   { background: #EBF7F5; } span.boxicon.whereweare::before   { content: "\1F4CD"; }
+span.boxicon.chain        { background: #E9F5F9; } span.boxicon.chain::before        { content: "\1F517"; }
+span.boxicon.finding      { background: #E7EFFB; } span.boxicon.finding::before      { content: "\1F50E"; }
+span.boxicon.earned       { background: #EDEDF5; } span.boxicon.earned::before       { content: "\1F9ED"; }
+span.boxicon.textualnote  { background: #F0EAF8; } span.boxicon.textualnote::before  { content: "\1F4DC"; }
+span.boxicon.commentary   { background: #F1F1F1; } span.boxicon.commentary::before   { content: "\1F4AC"; }

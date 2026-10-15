@@ -83,6 +83,10 @@ PARTS = {
 }
 
 CSS = (Path(__file__).resolve().parent / "design-system-v1.css").read_text()
+# The stylesheet is inlined into HTML written elsewhere, so a relative url("fonts/...")
+# would resolve against that HTML and silently fall back to a system font (the first
+# box-emoji build embedded Apple Color Emoji, 2026-10-15). Pin it to this folder.
+CSS = CSS.replace('url("fonts/', 'url("' + (Path(__file__).resolve().parent / "fonts").as_uri() + "/")
 
 # Spanish register standard. Kept in step with ES-REGISTER.md, which is the
 # document; this is the enforcement. Add a row there, add a pattern here.
