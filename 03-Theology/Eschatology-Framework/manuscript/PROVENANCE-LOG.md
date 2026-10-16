@@ -91,6 +91,40 @@ The author had read Revelation and the rest of Scripture extensively before this
 
 ---
 
+## PR-004 — Part I, ch05 says the author once thought Scripture assigned him the label "Messianic Israelite"
+
+| | |
+|---|---|
+| **Status** | ✅ **CORRECTED in EN and ES, 2026-10-16** (author approval; found while the author reviewed Appendix G). |
+| **Where** | `en/ch05-*` and `es/ch05-*`, the paragraph after "The label does not survive… as a scriptural title". |
+| **What the manuscript said** | *"That is a real result and it went against me… But it moved from something I thought Scripture assigned me to something I use descriptively."* |
+| **What is actually true** | The author never claimed the label was in Scripture. It was always his own way of describing himself. The test in the chapter, and its result that the label is not a scriptural title, stand. |
+| **Now reads** | *"That is a real result, and it matters for how I use the phrase… It is my own descriptive word, not a title the text assigns, and I use it knowing that."* |
+
+## PR-005 — Part V, ch28 lists errors in a "version I was given" of Zechariah 14 (Passover, twice a year)
+
+| | |
+|---|---|
+| **Status** | ✅ **CORRECTED in EN and ES, 2026-10-16** (author approval). |
+| **Where** | `en/ch28-*` and `es/ch28-*`, §"An objection I was given years ago". |
+| **What the manuscript said** | *"Some details in the version I was given did not survive a check of the text: the festival is Sukkot, the Feast of Booths, not Passover; the frequency is year after year, not twice yearly; and Egypt is named specifically."* |
+| **What is actually true** | The author always had Sukkot in mind; the Passover detail most likely came from a slip when the objection was first recorded, and no confusion of the two can be attributed to anyone. The author did not know Egypt is named. The facts the check produced are correct. |
+| **Now reads** | *"Checked against the text, the details are these: the festival is Sukkot, the Feast of Booths; the nations go up year after year; and Egypt is named specifically."* |
+
+## PR-006 — Part VI, ch32 says the author first described the 144,000 list as "the original tribes"
+
+| | |
+|---|---|
+| **Status** | ✅ **CORRECTED in EN and ES, 2026-10-16** (author approval). |
+| **Where** | `en/ch32-*` and `es/ch32-*`, the box comparing Revelation 7's list with Jacob's sons. |
+| **What the manuscript said** | *"A correction I have to record about my own first pass: I initially described this as 'the original tribes.'"* |
+| **What is actually true** | The "first pass" was a research draft, not the author. His point was that the 144,000 are made up of the tribes, which is true regardless of the changed lineup. The observation about the list (Dan absent, Manasseh counted) stands. |
+| **Now reads** | *"It is twelve tribes, but not the original twelve sons. Jacob's sons include both Dan and Levi, and do not include Manasseh. Calling it simply 'the original tribes' would make the strangeness invisible."* |
+
+**Found together, and how:** all three reached Appendix G draft 1 as rows under "What I had thought". The author rejected them on review. A fourth row, ch33's corrected memory, was dropped from Appendix G as not a correction; the chapter itself is unchanged. Lesson recorded: an appendix or summary that repeats "I thought / I first wrote" lines inherits their provenance, so each one is checked with the author before it is compiled.
+
+---
+
 ## A prior occurrence of this same class, not recorded at the time
 
 A correction of this species happened once before, during Part I review, and **was not logged** — which is why this register begins at PR-001 rather than PR-002 and why it exists at all. The recurrence is the point: the first instance was treated as a one-off editing miss rather than as a pattern with a named cause, so nothing changed and the same inference produced the same kind of error four Parts later. Its specifics are not reconstructed here, because reconstructing them from memory would be the identical mistake this register is meant to stop.

@@ -89,7 +89,7 @@ Apocalipsis 7:5-8 da 12.000 de cada una, en este orden: Judá, Rubén, Gad, Aser
 
 Esto no es un censo tribal estándar copiado dentro de Apocalipsis. Se conservan doce nombres mediante una construcción inusual —Dan sale, Leví se queda, José se queda, y el hijo de José, Manasés, se cuenta— lo cual hace mucho menos probable que Juan simplemente reprodujera una lista ordinaria sin intención.
 
-**Una corrección que tengo que registrar sobre mi propia primera pasada:** al principio describí esto como "las tribus originales". No lo es. Los hijos de Jacob incluyen a Dan y a Leví, y no incluyen a Manasés. Equivocarme en eso habría vuelto invisible la rareza.
+**Son doce tribus, pero no los doce hijos originales.** Los hijos de Jacob incluyen a Dan y a Leví, y no incluyen a Manasés. Llamarla sin más "las tribus originales" volvería invisible la rareza.
 :::
 
 Existen interpretaciones de la ausencia de Dan — asociaciones con la idolatría y, en tradiciones posteriores, con cosas peores. **Apocalipsis no dice por qué.** Puedo observar que Dan está ausente, que Efraín no se nombra, que aparecen José, Manasés y Leví, y puedo inferir que la lista fue dispuesta intencionalmente. La razón teológica precisa de cada modificación es desconocida, e inventar una sería exactamente la maniobra que este libro existe para evitar.

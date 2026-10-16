@@ -181,7 +181,7 @@ Alguien que me enseñó al principio levantó Zacarías 14 contra esta clase de 
 
 Zacarías anticipa que todos los que sobrevivan de las naciones que vinieron contra Jerusalén subirán de año en año a adorar al Rey, Jehová de los ejércitos, y a celebrar la fiesta de los tabernáculos; y que si alguna de las familias de la tierra no sube, no vendrá sobre ella lluvia.
 
-Algunos detalles de la versión que me dieron no sobrevivieron a una revisión del texto: la fiesta es Sucot, la de los tabernáculos, no la Pascua; la frecuencia es de año en año, no dos veces al año; y Egipto se nombra específicamente.
+Revisados contra el texto, los detalles son estos: la fiesta es Sucot, la de los tabernáculos; las naciones suben de año en año; y Egipto se nombra específicamente.
 
 Pero el fondo es real, y esta es la formulación limpia:
 

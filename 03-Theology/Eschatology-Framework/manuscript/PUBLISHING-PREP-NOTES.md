@@ -51,3 +51,12 @@ What it did:
 **Author name (author ruling 2026-10-15):** always **Marcelo Mario Berta Silva**, everywhere: copyright page, title page, about the author, metadata, ISBN and LoC records.
 
 **Fonts (added 2026-10-15):** box icons use Noto Color Emoji under the SIL Open Font License 1.1. Embedding in the PDF is permitted. Keep `scripts/fonts/NotoColorEmoji-OFL.txt` with the font. Confirm at this step that every other embedded font (Georgia, Helvetica Neue, Times New Roman) is licensed for a sold PDF and print book, or replace it.
+
+**Book title (author decision 2026-10-16):**
+
+| | Title | Subtitle |
+|---|---|---|
+| English | **The Promise and the Little Season** | *An investigation into prophecy, the great commission, and the thousand years* |
+| Spanish | **La promesa y el poco de tiempo** | *Una investigación sobre la profecía, la gran comisión y los mil años* |
+
+Alternates the author proposed, kept on file: *Sailing the Sword* (the double-edged sword of Hebrews 4:12; the author as conduit, Yahweh as author) and *The Sword of His Mouth*. Constraint: the title must not promise an answer the book does not give. The ending is an open question about the present.

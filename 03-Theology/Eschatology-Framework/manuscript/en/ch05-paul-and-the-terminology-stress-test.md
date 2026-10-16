@@ -68,7 +68,7 @@ The substance survives. Grafted into the tree, Romans 11. Fellow citizens with t
 
 The label does not survive, or at least it does not survive as a scriptural title. Nowhere does Scripture take a Gentile who has come to Messiah and call him an Israelite. And Romans 11 keeps the natural branches and the wild branch distinct after the grafting has occurred. Paul had every opportunity to collapse the categories and he does not. He keeps talking about them as two things joined, not one thing that absorbed the other.
 
-That is a real result and it went against me. I did not stop using the phrase, and I explain in the last chapter of this book exactly what I do and do not mean by it. But it moved from something I thought Scripture assigned me to something I use descriptively, knowing it is my word and not the text's.
+That is a real result, and it matters for how I use the phrase. I did not stop using it, and I explain in the last chapter of this book exactly what I do and do not mean by it. It is my own descriptive word, not a title the text assigns, and I use it knowing that.
 
 Then I applied the same rule to a word I was using much more casually.
 

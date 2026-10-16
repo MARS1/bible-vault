@@ -91,7 +91,7 @@ Revelation 7:5–8 gives 12,000 from each, in this order: Judah, Reuben, Gad, As
 
 This is not a standard tribal census copied into Revelation. Twelve names are preserved through an unusual construction — Dan drops out, Levi stays, Joseph stays, and Joseph's son Manasseh is counted — which makes it far less likely that John simply reproduced an ordinary list without intention.
 
-**A correction I have to record about my own first pass:** I initially described this as "the original tribes." It is not. Jacob's sons include both Dan and Levi, and do not include Manasseh. Getting that wrong would have made the strangeness invisible.
+**It is twelve tribes, but not the original twelve sons.** Jacob's sons include both Dan and Levi, and do not include Manasseh. Calling it simply "the original tribes" would make the strangeness invisible.
 :::
 
 Interpretations of Dan's absence exist — associations with idolatry, and in later traditions with worse. **Revelation does not say why.** I can observe that Dan is absent, that Ephraim is unnamed, that Joseph and Manasseh and Levi appear, and I can infer that the list has been intentionally arranged. The precise theological reason for each modification is unknown, and inventing one would be exactly the move this book exists to avoid.

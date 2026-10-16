@@ -185,7 +185,7 @@ Someone who taught me early raised Zechariah 14 against this kind of reading, an
 
 > everyone who survives of all the nations that have come against Jerusalem shall go up year after year to worship the King, the Lord of hosts, and to keep the Feast of Booths. And if any of the families of the earth do not go up… there will be no rain on them. (Zechariah 14:16–19)
 
-Some details in the version I was given did not survive a check of the text: the festival is Sukkot, the Feast of Booths, not Passover; the frequency is year after year, not twice yearly; and Egypt is named specifically.
+Checked against the text, the details are these: the festival is Sukkot, the Feast of Booths; the nations go up year after year; and Egypt is named specifically.
 
 But the substance is real, and here is the clean formulation:
 

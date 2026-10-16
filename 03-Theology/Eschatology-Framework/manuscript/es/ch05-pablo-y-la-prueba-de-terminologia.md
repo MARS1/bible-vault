@@ -86,7 +86,7 @@ La sustancia sobrevive. Injertado en el árbol, Romanos 11. Conciudadanos de los
 
 La etiqueta no sobrevive, o por lo menos no sobrevive como título bíblico. En ninguna parte toma la Escritura a un gentil que vino al Mesías y lo llama israelita. Y Romanos 11 sigue distinguiendo a las ramas naturales de la rama silvestre después de que el injerto ya ocurrió. Pablo tuvo todas las oportunidades de fundir las categorías y no lo hace: sigue hablando de dos cosas unidas, no de una que absorbió a la otra.
 
-Es un resultado real y fue en mi contra. No dejé de usar la frase, y en el último capítulo explico exactamente qué quiero decir y qué no cuando la uso. Pero pasó de ser algo que yo creía que la Escritura me asignaba a ser algo que uso como descripción, sabiendo que la palabra es mía y no del texto.
+Es un resultado real, y importa para el modo en que uso la frase. No dejé de usarla, y en el último capítulo explico exactamente qué quiero decir y qué no cuando la uso. Es una palabra descriptiva mía, no un título que el texto asigna, y la uso sabiéndolo.
 
 Después le apliqué la misma regla a otra palabra que venía usando con mucha más ligereza.
 
