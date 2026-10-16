@@ -1,0 +1,142 @@
+{
+  "prompt": "Fine-art book cover illustration, portrait 2:3. A single ancient olive tree on a quiet hillside in the land of Israel at dusk: gnarled trunk, silver-green leaves, one younger branch grafted into the old trunk, slightly lighter in tone. Above it, a deep indigo evening sky with the first scattered stars appearing, and a thin warm band of ochre light along the horizon. Contemplative, reverent, still. Painterly texture like a classical oil study, restrained detail, with a generous open sky in the upper third for the title. Muted palette of indigo, olive green, warm ochre and cream. No people, no text, no letters, no symbols, no fire, no lightning, no fantasy elements.",
+  "negative_prompt": "text, letters, words, typography, watermark, signature, people, figures, fire, flames, lightning, red sky, fantasy, glowing symbols, maps, numbers",
+  "images": [
+    {
+      "file": "ideogram-v3-1.png",
+      "model": "ideogram-v3",
+      "seed": 1745862842,
+      "width": null,
+      "height": null,
+      "args": {
+        "negative_prompt": "text, letters, words, typography, watermark, signature, people, figures, fire, flames, lightning, red sky, fantasy, glowing symbols, maps, numbers",
+        "num_images": 4,
+        "image_size": {
+          "width": 1024,
+          "height": 1536
+        },
+        "rendering_speed": "QUALITY",
+        "style": "GENERAL",
+        "expand_prompt": false,
+        "seed": 1745862842
+      }
+    },
+    {
+      "file": "ideogram-v3-2.png",
+      "model": "ideogram-v3",
+      "seed": 1745862842,
+      "width": null,
+      "height": null,
+      "args": {
+        "negative_prompt": "text, letters, words, typography, watermark, signature, people, figures, fire, flames, lightning, red sky, fantasy, glowing symbols, maps, numbers",
+        "num_images": 4,
+        "image_size": {
+          "width": 1024,
+          "height": 1536
+        },
+        "rendering_speed": "QUALITY",
+        "style": "GENERAL",
+        "expand_prompt": false,
+        "seed": 1745862842
+      }
+    },
+    {
+      "file": "ideogram-v3-3.png",
+      "model": "ideogram-v3",
+      "seed": 1745862842,
+      "width": null,
+      "height": null,
+      "args": {
+        "negative_prompt": "text, letters, words, typography, watermark, signature, people, figures, fire, flames, lightning, red sky, fantasy, glowing symbols, maps, numbers",
+        "num_images": 4,
+        "image_size": {
+          "width": 1024,
+          "height": 1536
+        },
+        "rendering_speed": "QUALITY",
+        "style": "GENERAL",
+        "expand_prompt": false,
+        "seed": 1745862842
+      }
+    },
+    {
+      "file": "ideogram-v3-4.png",
+      "model": "ideogram-v3",
+      "seed": 1745862842,
+      "width": null,
+      "height": null,
+      "args": {
+        "negative_prompt": "text, letters, words, typography, watermark, signature, people, figures, fire, flames, lightning, red sky, fantasy, glowing symbols, maps, numbers",
+        "num_images": 4,
+        "image_size": {
+          "width": 1024,
+          "height": 1536
+        },
+        "rendering_speed": "QUALITY",
+        "style": "GENERAL",
+        "expand_prompt": false,
+        "seed": 1745862842
+      }
+    },
+    {
+      "file": "flux-ultra-1.jpg",
+      "model": "flux-ultra-1",
+      "seed": 1623901940,
+      "width": 1664,
+      "height": 2496,
+      "args": {
+        "num_images": 1,
+        "aspect_ratio": "2:3",
+        "output_format": "png",
+        "raw": false,
+        "enhance_prompt": false,
+        "seed": 1623901940
+      }
+    },
+    {
+      "file": "flux-ultra-2.jpg",
+      "model": "flux-ultra-2",
+      "seed": 1446291129,
+      "width": 1664,
+      "height": 2496,
+      "args": {
+        "num_images": 1,
+        "aspect_ratio": "2:3",
+        "output_format": "png",
+        "raw": false,
+        "enhance_prompt": false,
+        "seed": 1446291129
+      }
+    },
+    {
+      "file": "flux-ultra-3.jpg",
+      "model": "flux-ultra-3",
+      "seed": 1814299500,
+      "width": 1664,
+      "height": 2496,
+      "args": {
+        "num_images": 1,
+        "aspect_ratio": "2:3",
+        "output_format": "png",
+        "raw": false,
+        "enhance_prompt": false,
+        "seed": 1814299500
+      }
+    },
+    {
+      "file": "flux-ultra-4.jpg",
+      "model": "flux-ultra-4",
+      "seed": 848068323,
+      "width": 1664,
+      "height": 2496,
+      "args": {
+        "num_images": 1,
+        "aspect_ratio": "2:3",
+        "output_format": "png",
+        "raw": false,
+        "enhance_prompt": false,
+        "seed": 848068323
+      }
+    }
+  ]
+}

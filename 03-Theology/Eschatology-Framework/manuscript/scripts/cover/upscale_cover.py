@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Upscale the chosen cover art 4x with AuraSR on Fal.ai (faithful GAN upscaler, no repainting).
 
-Run it yourself in your own terminal:
-    cd /Volumes/VM/OBSIDIAN/BIBLE/03-Theology/Eschatology-Framework/manuscript && python3 scripts/cover/upscale_cover.py
+Generic: pass any image; with no arguments it upscales this book's chosen cover art.
+    python3 scripts/cover/upscale_cover.py [source-image] [output-image]
 
 The key is read from FAL_KEY, or asked for with hidden input. It is never printed,
 logged or saved. Endpoint and parameters checked on fal.ai/models/fal-ai/aura-sr/api,
@@ -16,12 +16,16 @@ import urllib.request
 from pathlib import Path
 
 COVER = Path.home() / "Desktop" / "7-MARS" / "Bible Study" / "Cover"
-SRC = COVER / "round-1" / "ideogram-v3-3.png"
-OUT = COVER / "final" / "ideogram-v3-3-aurasr-4x.png"
+DEFAULT_SRC = COVER / "round-1" / "ideogram-v3-3.png"   # this book's chosen art (2026-10-16)
 
 
 def main() -> None:
     import fal_client
+    SRC = Path(sys.argv[1]).expanduser() if len(sys.argv) > 1 else DEFAULT_SRC
+    OUT = (Path(sys.argv[2]).expanduser() if len(sys.argv) > 2
+           else COVER / "final" / f"{SRC.stem}-aurasr-4x.png")
+    if not SRC.exists():
+        sys.exit(f"Source image not found: {SRC}")
     if OUT.exists():
         sys.exit(f"{OUT} already exists; not overwriting.")
     if not os.environ.get("FAL_KEY"):

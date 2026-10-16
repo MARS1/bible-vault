@@ -1,0 +1,8 @@
+{
+  "source": "/Users/MARS/Desktop/7-MARS/Bible Study/Cover/round-1/ideogram-v3-3.png",
+  "model": "fal-ai/aura-sr",
+  "upscale_factor": 4,
+  "overlapping_tiles": true,
+  "width": 3328,
+  "height": 4992
+}
