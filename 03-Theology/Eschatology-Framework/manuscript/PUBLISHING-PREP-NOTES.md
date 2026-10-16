@@ -60,3 +60,7 @@ What it did:
 | Spanish | **La promesa y el poco de tiempo** | *Una investigación sobre la profecía, la gran comisión y los mil años* |
 
 Alternates the author proposed, kept on file: *Sailing the Sword* (the double-edged sword of Hebrews 4:12; the author as conduit, Yahweh as author) and *The Sword of His Mouth*. Constraint: the title must not promise an answer the book does not give. The ending is an open question about the present.
+
+**Cover (author decision 2026-10-16):** artwork = Ideogram v3, round 1, image 3 (olive tree at dusk, grafted branch, countable stars, ochre horizon). Settings and seed: `~/Desktop/7-MARS/Bible Study/Cover/round-1/settings.json`. Typesetting: `scripts/cover/make_cover_mockup.py` (Baskerville, cream #F3EBDD). Palette sampled from the art: sky #2A3642 / #3D4D5E, ochre #9A815D. Still owed: upscale from 832×1248 to 1875×2775 (one paid Fal call, run by the author), then back cover and spine once the page count is final.
+
+**Imprint on the cover (author decision 2026-10-16):** under the author's name, *Bright Forest Publishing*, with *kollabs.ai* beneath. The author asked for "Bright Forest Publishing Co."; "Co." was left off under P7, because no entity exists and a company suffix implies one. **Confirmed 2026-10-16: "Bright Forest Publishing"**. It replaces P7's earlier "Bright Forest Publications" everywhere: cover, title page, copyright page, metadata. No legal suffix.
