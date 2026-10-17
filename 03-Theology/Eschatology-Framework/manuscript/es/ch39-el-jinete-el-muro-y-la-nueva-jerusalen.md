@@ -440,7 +440,7 @@ Apocalipsis va de todos modos más lejos que Isaías: *ya no habrá muerte, ni h
 
 <span class="gr">θάλασσα</span> (*thalassa*) recorre Apocalipsis cargando más de una cosa: la bestia sube del mar; el mar se vuelve sangre; mercaderes y capitanes viven de él; el mar entrega sus muertos; y aquí ya no está. Si la cláusula final quita una masa de agua, un símbolo de naciones caóticas, la procedencia de la bestia, o una barrera entre pueblos, es una pregunta sobre el uso del libro entero — y apliqué al *mar* la misma lente que había aplicado al *abismo*, por insistencia propia, en vez de dejar en pie la lectura conveniente por ser la última en llegar.
 
-**La auditoría completa está en el Apéndice C.** También está allí la auditoría de redundancia que comprueba si los controles de esta investigación estaban haciendo trabajo independiente o repitiéndose calladamente unos a otros.
+**La auditoría completa está en el Apéndice C.**
 :::
 
 ## La esposa, cerrada por el texto

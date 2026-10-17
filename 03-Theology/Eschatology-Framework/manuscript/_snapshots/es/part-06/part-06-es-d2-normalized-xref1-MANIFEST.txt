@@ -1,0 +1,14 @@
+Edition:        Español (es)
+Part:           6  Parte VI: Apocalipsis, leído a través de la Escritura anterior
+Milestone:      d2-normalized-xref1
+Source commit:  0e75623cf07d5fe26ecc450f71d7e46054e6e4cb
+Commit date:    2026-10-16
+Tree state:     UNCOMMITTED CHANGES IN SOURCE
+Built:          2026-10-16
+Extent:         44,379 words, 232 pages
+
+NOTE
+cap. 39: retirada la referencia a la auditoría de redundancia
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/es/ at commit 0e75623

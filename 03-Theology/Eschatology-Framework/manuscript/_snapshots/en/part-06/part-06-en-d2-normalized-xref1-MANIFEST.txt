@@ -1,0 +1,14 @@
+Edition:        English (en)
+Part:           6  Part VI: Revelation, Read Through Earlier Scripture
+Milestone:      d2-normalized-xref1
+Source commit:  0e75623cf07d5fe26ecc450f71d7e46054e6e4cb
+Commit date:    2026-10-16
+Tree state:     UNCOMMITTED CHANGES IN SOURCE
+Built:          2026-10-16
+Extent:         41,472 words, 228 pages
+
+NOTE
+ch39: removed pointer to redundancy audit (Appendix C no longer carries it)
+
+This snapshot is immutable. The build script refuses to overwrite it.
+Canonical source: manuscript/en/ at commit 0e75623

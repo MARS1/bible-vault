@@ -421,7 +421,7 @@ Revelation then goes further than Isaiah anyway: *death shall be no more, neithe
 
 <span class="gr">θάλασσα</span> (*thalassa*) runs through Revelation carrying more than one load: the beast rises from the sea; the sea becomes blood; merchants and shipmasters make their living on it; the sea gives up its dead; and here it is gone. Whether the final clause removes a body of water, a symbol of chaotic nations, the source of the beast, or a barrier between peoples is a question about the whole book's usage — and I applied the same lens to *sea* that I applied to *abyss*, at my own insistence, rather than letting the convenient reading stand because it arrived last.
 
-**The full audit is in Appendix C.** So is the redundancy audit that checks whether this investigation's controls were doing independent work or quietly restating each other.
+**The full audit is in Appendix C.**
 :::
 
 ## The bride, closed by the text
