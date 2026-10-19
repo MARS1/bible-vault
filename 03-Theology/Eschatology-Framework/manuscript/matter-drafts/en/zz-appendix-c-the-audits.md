@@ -36,14 +36,14 @@ What the thread shows:
 
 The chapter on Revelation 20 (Chapter 39) rests on the wording of these ten verses. Here is each verse in Greek, with what its wording establishes and what it does not.
 
-**20:1**
+### 20:1
 
 > <span class="gr">Καὶ εἶδον ἄγγελον καταβαίνοντα ἐκ τοῦ οὐρανοῦ, ἔχοντα τὴν κλεῖν τῆς ἀβύσσου καὶ ἅλυσιν μεγάλην ἐπὶ τὴν χεῖρα αὐτοῦ.</span>
 
 - *Coming down* (<span class="gr">καταβαίνοντα</span>, *katabainonta*), *holding the key of the abyss* and *a great chain*.
 - **Does not establish** who the angel is. The text says *an angel*, nothing more.
 
-**20:2**
+### 20:2
 
 > <span class="gr">καὶ ἐκράτησεν τὸν δράκοντα, ὁ ὄφις ὁ ἀρχαῖος, ὅς ἐστιν Διάβολος καὶ ὁ Σατανᾶς, καὶ ἔδησεν αὐτὸν χίλια ἔτη,</span>
 
@@ -51,7 +51,7 @@ The chapter on Revelation 20 (Chapter 39) rests on the wording of these ten vers
 - *Bound* (<span class="gr">ἔδησεν</span>, *edēsen*, from *deō*, to bind) is stated outright. The binding is not inferred from the abyss; the verb is there.
 - After the accusative *the dragon*, *the ancient serpent* stands in the nominative. That is a known feature of Revelation's Greek. It is recorded, and nothing is built on it.
 
-**20:3**
+### 20:3
 
 > <span class="gr">καὶ ἔβαλεν αὐτὸν εἰς τὴν ἄβυσσον, καὶ ἔκλεισεν καὶ ἐσφράγισεν ἐπάνω αὐτοῦ, ἵνα μὴ πλανήσῃ ἔτι τὰ ἔθνη, ἄχρι τελεσθῇ τὰ χίλια ἔτη· μετὰ ταῦτα δεῖ λυθῆναι αὐτὸν μικρὸν χρόνον.</span>
 
@@ -62,7 +62,7 @@ The chapter on Revelation 20 (Chapter 39) rests on the wording of these ten vers
 - **Does not establish** why. The text says the release *must* happen; it does not give Yah's reason, and none should be supplied.
 - *A little while* (<span class="gr">μικρὸν χρόνον</span>, *mikron chronon*). Revelation 12:12's *short time* uses different words (*oligon kairon*), and 20:3 places its period after the thousand years. Nothing in the wording forces the two periods to be the same.
 
-**20:4**
+### 20:4
 
 > <span class="gr">Καὶ εἶδον θρόνους, καὶ ἐκάθισαν ἐπ’ αὐτούς, καὶ κρίμα ἐδόθη αὐτοῖς, καὶ τὰς ψυχὰς τῶν πεπελεκισμένων διὰ τὴν μαρτυρίαν Ἰησοῦ καὶ διὰ τὸν λόγον τοῦ θεοῦ, καὶ οἵτινες οὐ προσεκύνησαν τὸ θηρίον οὐδὲ τὴν εἰκόνα αὐτοῦ καὶ οὐκ ἔλαβον τὸ χάραγμα ἐπὶ τὸ μέτωπον καὶ ἐπὶ τὴν χεῖρα αὐτῶν· καὶ ἔζησαν καὶ ἐβασίλευσαν μετὰ τοῦ χριστοῦ χίλια ἔτη.</span>
 
@@ -70,7 +70,7 @@ The chapter on Revelation 20 (Chapter 39) rests on the wording of these ten vers
 - Then <span class="gr">ἔζησαν</span> (*ezēsan*), *they lived* or *came to life*, and *they reigned* with the Messiah a thousand years. The sequence is killed, lived, reigned.
 - **Not settled here:** whether the verse describes one group further described, or more than one. That needs grammatical expertise this investigation does not claim.
 
-**20:5**
+### 20:5
 
 > <span class="gr">οἱ λοιποὶ τῶν νεκρῶν οὐκ ἔζησαν ἄχρι τελεσθῇ τὰ χίλια ἔτη. αὕτη ἡ ἀνάστασις ἡ πρώτη.</span>
 
@@ -78,21 +78,21 @@ The chapter on Revelation 20 (Chapter 39) rests on the wording of these ten vers
 - Dead people, *lived*, *first resurrection*: three pieces that stand together. Language can use one verb in two senses close together, so a different sense is not impossible. But the burden falls on any reading that makes the first *lived* non-bodily and the second bodily. This is the strongest point in the Greek against a purely figurative first resurrection.
 - *First*, with *the rest* living only later, gives an order: a first resurrection, the thousand years, then the rest of the dead.
 
-**20:6**
+### 20:6
 
 > <span class="gr">μακάριος καὶ ἅγιος ὁ ἔχων μέρος ἐν τῇ ἀναστάσει τῇ πρώτῃ· ἐπὶ τούτων ὁ δεύτερος θάνατος οὐκ ἔχει ἐξουσίαν, ἀλλ’ ἔσονται ἱερεῖς τοῦ θεοῦ καὶ τοῦ χριστοῦ, καὶ βασιλεύσουσιν μετ’ αὐτοῦ χίλια ἔτη.</span>
 
 - The second death has no <span class="gr">ἐξουσία</span> (*exousia*) over them: no *authority* or jurisdiction, the same word Revelation uses throughout for authority given or withheld.
 - A tense shift English tends to smooth over: 20:4 *they reigned* (aorist), 20:6 *they will reign* (future). The vision reports what John saw, then speaks of the blessed status looking forward. Recorded, not resolved.
 
-**20:7**
+### 20:7
 
 > <span class="gr">Καὶ ὅταν τελεσθῇ τὰ χίλια ἔτη, λυθήσεται ὁ Σατανᾶς ἐκ τῆς φυλακῆς αὐτοῦ,</span>
 
 - *When the thousand years are completed*: the completion formula of 20:3 returns.
 - *From his prison* (<span class="gr">φυλακή</span>, *phylakē*). Revelation itself calls the abyss his prison. That weakens any reading in which the bound Satan stays freely active everywhere.
 
-**20:8**
+### 20:8
 
 > <span class="gr">καὶ ἐξελεύσεται πλανῆσαι τὰ ἔθνη τὰ ἐν ταῖς τέσσαρσι γωνίαις τῆς γῆς, τὸν Γὼγ καὶ Μαγώγ, συναγαγεῖν αὐτοὺς εἰς τὸν πόλεμον, ὧν ὁ ἀριθμὸς αὐτῶν ὡς ἡ ἄμμος τῆς θαλάσσης.</span>
 
@@ -101,7 +101,7 @@ The chapter on Revelation 20 (Chapter 39) rests on the wording of these ten vers
 - *Gog and Magog* stand beside *the nations* as a description of them. Revelation describes the gathered nations through Ezekiel's names; it does not hand the reader two modern place names (Appendix B, item 3).
 - *For the war*, with the article, and a number *like the sand of the sea*: very many, not a remnant.
 
-**20:9**
+### 20:9
 
 > <span class="gr">καὶ ἀνέβησαν ἐπὶ τὸ πλάτος τῆς γῆς, καὶ ἐκύκλευσαν τὴν παρεμβολὴν τῶν ἁγίων καὶ τὴν πόλιν τὴν ἠγαπημένην. καὶ κατέβη πῦρ ἐκ τοῦ οὐρανοῦ καὶ κατέφαγεν αὐτούς·</span>
 
@@ -109,7 +109,7 @@ The chapter on Revelation 20 (Chapter 39) rests on the wording of these ten vers
 - *The camp of the saints and the beloved city.* The city is not named, and this book does not name it for the text.
 - Fire *came down* and *consumed* them. Gathering, surrounding, fire, finished: judgment, not a contest.
 
-**20:10**
+### 20:10
 
 > <span class="gr">καὶ ὁ διάβολος ὁ πλανῶν αὐτοὺς ἐβλήθη εἰς τὴν λίμνην τοῦ πυρὸς καὶ θείου, ὅπου καὶ τὸ θηρίον καὶ ὁ ψευδοπροφήτης, καὶ βασανισθήσονται ἡμέρας καὶ νυκτὸς εἰς τοὺς αἰῶνας τῶν αἰώνων.</span>
 

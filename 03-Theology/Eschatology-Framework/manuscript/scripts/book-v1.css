@@ -1,0 +1,84 @@
+/* Book layer — whole-book assembly (BIBLE-493, 2026-10-19).
+   Loaded AFTER design-system-v1.css by build-book.py only. Part builds never see it,
+   so the locked chapters' review layout is unchanged. Digital edition: page numbers
+   are the PDF's own page numbers (cover = page 1), so an index entry and the
+   viewer's page box always agree. */
+
+/* Running head: the current chapter or section title, never on the page where it starts. */
+@page {
+  @top-center { content: string(runhead, first-except); font-family: "Helvetica Neue", Arial, sans-serif;
+                font-size: 7.5pt; color: #8a8f93; letter-spacing: 0.03em; }
+}
+h1 { string-set: runhead content(); }
+h1.part { string-set: runhead ""; }
+
+/* Cover: the front-cover art, full bleed, no number, no head. */
+@page cover { margin: 0; @top-center { content: none; } @bottom-center { content: none; } }
+/* The design system leaves body at the user-agent margin (8px), and pandoc wraps the
+   image in a <p>: together they left a white strip on the cover's top and left edges
+   (author, v2/v3). Pull the cover out to the true page edge; only the cover moves. */
+.cover { page: cover; break-after: page; margin: -8px 0 0 -8px; padding: 0;
+         width: 6in; height: 9in; overflow: hidden; }
+.cover p { margin: 0; padding: 0; text-indent: 0; line-height: 0; }
+.cover img { display: block; width: 6in; height: 9in; }
+
+/* Pages that carry no number or running head. */
+@page plain { @top-center { content: none; } @bottom-center { content: none; } }
+.titlepage, .copyright, .dedication, .partpage { page: plain; }
+
+/* Title page */
+.titlepage { break-after: page; text-align: center; padding-top: 1.6in; }
+.titlepage p { text-align: center; margin: 0; }
+.titlepage .t1 { font-family: Georgia, "Times New Roman", serif; font-size: 26pt; line-height: 1.2; }
+.titlepage .t2 { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 12.5pt;
+                    line-height: 1.45; margin-top: 1.1em; color: #3a4045; }
+.titlepage .au { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 10.5pt; letter-spacing: 0.14em;
+                    text-transform: uppercase; margin-top: 2.6in; }
+.titlepage .im { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 8.5pt; letter-spacing: 0.12em;
+                    text-transform: uppercase; margin-top: 0.9em; color: #4a5157; }
+.titlepage .si { font-style: italic; font-size: 9pt; color: #4a5157; margin-top: 0.3em; }
+
+/* Copyright page: small, left-aligned, no hyphenation of legal text. */
+.copyright { break-after: page; font-size: 7.8pt; line-height: 1.36; hyphens: none; }
+.copyright p { text-align: left; margin: 0 0 0.55em; }
+
+/* Dedication: centred, a third of the way down. */
+.dedication { break-after: page; padding-top: 2.2in; font-style: italic; }
+.dedication p { text-align: center; margin: 0 auto 1em; max-width: 3.8in; }
+
+/* Part title pages */
+.partpage { break-before: page; break-after: page; padding-top: 2.4in; text-align: center; }
+h1.part { page-break-before: auto; break-before: auto; font-size: 22pt; line-height: 1.3; margin: 0; text-align: center;
+          bookmark-level: 1; }
+h1.part .partname { display: block; font-family: Georgia, "Times New Roman", serif; font-weight: 400;
+                    font-style: italic; font-size: 15pt; margin-top: 0.7em; letter-spacing: 0; }
+
+/* Outline: Parts and front/back sections at level 1, chapters nested under their Part. */
+h1.chapter { bookmark-level: 2; }
+h2, h3, h4 { bookmark-level: none; }
+
+/* Contents: always on a fresh page (the design system lets a section's first h1 skip its break). */
+.toc { break-before: page; page-break-before: always; }
+.toc h1 { margin-bottom: 1.2em; }
+.toc ul { list-style: none; padding-left: 0; margin: 0; }
+.toc li { margin: 0 0 0.28em; font-size: 10pt; line-height: 1.35; }
+.toc li.tpart { margin-top: 0.9em; font-family: "Helvetica Neue", Arial, sans-serif; font-weight: 600;
+                   font-size: 9pt; letter-spacing: 0.02em; }
+.toc li.tch { padding-left: 1.1em; }
+.toc a { color: inherit; text-decoration: none; hyphens: none; white-space: normal; }
+.toc a::after { content: leader(". ") target-counter(attr(href), page); color: #4a5157; }
+
+/* Index appendices: page numbers are plain text, keep entries from splitting oddly. */
+div.indexbody p, div.indexbody li { text-align: left; }
+
+/* A heading stays with the box it introduces. When the box is unsplittable and too
+   tall for the rest of the page, WeasyPrint moves the box and strands the heading
+   (first full build, p.654); keeping the pair whole instead left a page holding only
+   the heading. So a box that directly follows a heading may split, which lets the
+   heading sit with the box's opening lines. Other boxes stay unsplittable. */
+/* [class] lifts specificity above the design system's div.finding / div.wordstudy rules. */
+h2 + div[class], h3 + div[class] { page-break-inside: auto; break-inside: auto; }
+h2 + div, h3 + div, h2 + table, h3 + table { break-before: avoid; page-break-before: avoid; }
+
+/* Verse labels in Appendix C (### 20:5) stay with the verse they introduce. */
+h3 + blockquote { break-before: avoid; page-break-before: avoid; }

@@ -36,14 +36,14 @@ Lo que muestra el hilo:
 
 El capítulo sobre Apocalipsis 20 (capítulo 39) descansa en la redacción de estos diez versículos. Aquí está cada versículo en griego, con lo que su redacción establece y lo que no. Donde la Reina-Valera 1960 conserva o esconde algo del griego, se dice.
 
-**20:1**
+### 20:1
 
 > <span class="gr">Καὶ εἶδον ἄγγελον καταβαίνοντα ἐκ τοῦ οὐρανοῦ, ἔχοντα τὴν κλεῖν τῆς ἀβύσσου καὶ ἅλυσιν μεγάλην ἐπὶ τὴν χεῖρα αὐτοῦ.</span>
 
 - *Descendiendo* (<span class="gr">καταβαίνοντα</span>, *katabainonta*), *con la llave del abismo* y *una gran cadena*.
 - **No establece** quién es el ángel. El texto dice *un ángel*, nada más.
 
-**20:2**
+### 20:2
 
 > <span class="gr">καὶ ἐκράτησεν τὸν δράκοντα, ὁ ὄφις ὁ ἀρχαῖος, ὅς ἐστιν Διάβολος καὶ ὁ Σατανᾶς, καὶ ἔδησεν αὐτὸν χίλια ἔτη,</span>
 
@@ -51,7 +51,7 @@ El capítulo sobre Apocalipsis 20 (capítulo 39) descansa en la redacción de es
 - *Lo ató* (<span class="gr">ἔδησεν</span>, *edēsen*, de *deō*, atar) está dicho expresamente. El atamiento no se deduce del abismo; el verbo está ahí.
 - Después del acusativo *al dragón*, *la serpiente antigua* va en nominativo. Es un rasgo conocido del griego de Apocalipsis. Queda anotado, y no se construye nada sobre él.
 
-**20:3**
+### 20:3
 
 > <span class="gr">καὶ ἔβαλεν αὐτὸν εἰς τὴν ἄβυσσον, καὶ ἔκλεισεν καὶ ἐσφράγισεν ἐπάνω αὐτοῦ, ἵνα μὴ πλανήσῃ ἔτι τὰ ἔθνη, ἄχρι τελεσθῇ τὰ χίλια ἔτη· μετὰ ταῦτα δεῖ λυθῆναι αὐτὸν μικρὸν χρόνον.</span>
 
@@ -62,7 +62,7 @@ El capítulo sobre Apocalipsis 20 (capítulo 39) descansa en la redacción de es
 - **No establece** el porqué. El texto dice que la liberación *debe* ocurrir; no da la razón de Yah, y no hay que inventarla.
 - *Por un poco de tiempo* (<span class="gr">μικρὸν χρόνον</span>, *mikron chronon*). El *poco tiempo* de Apocalipsis 12:12 usa otras palabras (<span class="gr">ὀλίγον καιρόν</span>, *oligon kairon*), y 20:3 sitúa su período después de los mil años. Nada en la redacción obliga a que los dos sean el mismo.
 
-**20:4**
+### 20:4
 
 > <span class="gr">Καὶ εἶδον θρόνους, καὶ ἐκάθισαν ἐπ’ αὐτούς, καὶ κρίμα ἐδόθη αὐτοῖς, καὶ τὰς ψυχὰς τῶν πεπελεκισμένων διὰ τὴν μαρτυρίαν Ἰησοῦ καὶ διὰ τὸν λόγον τοῦ θεοῦ, καὶ οἵτινες οὐ προσεκύνησαν τὸ θηρίον οὐδὲ τὴν εἰκόνα αὐτοῦ καὶ οὐκ ἔλαβον τὸ χάραγμα ἐπὶ τὸ μέτωπον καὶ ἐπὶ τὴν χεῖρα αὐτῶν· καὶ ἔζησαν καὶ ἐβασίλευσαν μετὰ τοῦ χριστοῦ χίλια ἔτη.</span>
 
@@ -70,7 +70,7 @@ El capítulo sobre Apocalipsis 20 (capítulo 39) descansa en la redacción de es
 - Luego <span class="gr">ἔζησαν</span> (*ezēsan*), *vivieron*, y *reinaron* con el Mesías mil años. La secuencia es: muertos, vivieron, reinaron.
 - **No queda resuelto aquí** si el versículo describe un solo grupo descrito con más detalle, o más de uno. Eso pide una pericia gramatical que esta investigación no reclama.
 
-**20:5**
+### 20:5
 
 > <span class="gr">οἱ λοιποὶ τῶν νεκρῶν οὐκ ἔζησαν ἄχρι τελεσθῇ τὰ χίλια ἔτη. αὕτη ἡ ἀνάστασις ἡ πρώτη.</span>
 
@@ -79,21 +79,21 @@ El capítulo sobre Apocalipsis 20 (capítulo 39) descansa en la redacción de es
 - **En castellano no se ve.** La RVR1960 vierte la primera aparición *vivieron* y la segunda *no volvieron a vivir*. Es castellano natural y una decisión de traductor defendible, pero el lector deja de ver que es el mismo verbo. La RVA-2015 conserva el paralelo: *volvieron a vivir* / *no volvieron a vivir*.
 - *Primera*, con *los otros* viviendo solo después, da un orden: una primera resurrección, los mil años, y luego los demás muertos.
 
-**20:6**
+### 20:6
 
 > <span class="gr">μακάριος καὶ ἅγιος ὁ ἔχων μέρος ἐν τῇ ἀναστάσει τῇ πρώτῃ· ἐπὶ τούτων ὁ δεύτερος θάνατος οὐκ ἔχει ἐξουσίαν, ἀλλ’ ἔσονται ἱερεῖς τοῦ θεοῦ καὶ τοῦ χριστοῦ, καὶ βασιλεύσουσιν μετ’ αὐτοῦ χίλια ἔτη.</span>
 
 - La segunda muerte no tiene <span class="gr">ἐξουσία</span> (*exousia*) sobre ellos: ni *potestad* ni jurisdicción, la misma palabra que Apocalipsis usa en todo el libro para la autoridad dada o negada.
 - Un cambio de tiempo verbal: 20:4 *reinaron* (aoristo), 20:6 *reinarán* (futuro). La visión informa lo que Juan vio y luego habla de la condición bienaventurada mirando hacia adelante. Queda anotado, no resuelto.
 
-**20:7**
+### 20:7
 
 > <span class="gr">Καὶ ὅταν τελεσθῇ τὰ χίλια ἔτη, λυθήσεται ὁ Σατανᾶς ἐκ τῆς φυλακῆς αὐτοῦ,</span>
 
 - *Cuando los mil años se cumplan*: vuelve la fórmula de cumplimiento de 20:3.
 - *De su prisión* (<span class="gr">φυλακή</span>, *phylakē*). Apocalipsis mismo llama prisión al abismo. Eso debilita cualquier lectura en la que el Satanás atado siga actuando libremente en todas partes.
 
-**20:8**
+### 20:8
 
 > <span class="gr">καὶ ἐξελεύσεται πλανῆσαι τὰ ἔθνη τὰ ἐν ταῖς τέσσαρσι γωνίαις τῆς γῆς, τὸν Γὼγ καὶ Μαγώγ, συναγαγεῖν αὐτοὺς εἰς τὸν πόλεμον, ὧν ὁ ἀριθμὸς αὐτῶν ὡς ἡ ἄμμος τῆς θαλάσσης.</span>
 
@@ -102,7 +102,7 @@ El capítulo sobre Apocalipsis 20 (capítulo 39) descansa en la redacción de es
 - *Gog y Magog* están junto a *las naciones* como descripción de ellas. Apocalipsis describe a las naciones reunidas con los nombres de Ezequiel; no le entrega al lector dos topónimos modernos (Apéndice B, tercera entrada).
 - *Para la batalla*, con artículo, y un número *como la arena del mar*: muchísimos, no un remanente.
 
-**20:9**
+### 20:9
 
 > <span class="gr">καὶ ἀνέβησαν ἐπὶ τὸ πλάτος τῆς γῆς, καὶ ἐκύκλευσαν τὴν παρεμβολὴν τῶν ἁγίων καὶ τὴν πόλιν τὴν ἠγαπημένην. καὶ κατέβη πῦρ ἐκ τοῦ οὐρανοῦ καὶ κατέφαγεν αὐτούς·</span>
 
@@ -110,7 +110,7 @@ El capítulo sobre Apocalipsis 20 (capítulo 39) descansa en la redacción de es
 - *El campamento de los santos y la ciudad amada.* La ciudad no tiene nombre, y este libro no se lo pone por el texto.
 - El fuego *descendió* y los *consumió*. Reunión, cerco, fuego, fin: juicio, no contienda.
 
-**20:10**
+### 20:10
 
 > <span class="gr">καὶ ὁ διάβολος ὁ πλανῶν αὐτοὺς ἐβλήθη εἰς τὴν λίμνην τοῦ πυρὸς καὶ θείου, ὅπου καὶ τὸ θηρίον καὶ ὁ ψευδοπροφήτης, καὶ βασανισθήσονται ἡμέρας καὶ νυκτὸς εἰς τοὺς αἰῶνας τῶν αἰώνων.</span>
 
